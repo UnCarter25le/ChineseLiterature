@@ -110,7 +110,7 @@ https://chineseliterature.azurewebsites.net/search/李白/s
 # For Coder--------------------------------------------------------------------
 ![folderOverview](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/overview_1.png)
 
-# First of all, take a overview:
+# First of all, take an overview:
 > # There are four folders here, and..
 > ### 1. ChineseLiterature: 
 This is __django project__. If you wanna try local service, I sincerely suggest you to modiy conncetion parametors with mysql server locally in two files, __settings.py and views.py__. Moreover, you are albe to use __models.py__ to manipulate and create tables in database named __literature__, __but remenber to create that database first__. You can take a closer look at the Database folder to see what sorts of choices you can reference.
