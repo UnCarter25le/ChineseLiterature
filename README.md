@@ -232,11 +232,9 @@ python manage.py migrate
 - ### In this folder, you can see data structure and packages needed when crawling.
 
     - #### bookInfo
-![bookInfo](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/PhotoSet/dataStructure/bookInfo_dataStructure.png)
--            
+![bookInfo](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/PhotoSet/dataStructure/bookInfo_dataStructure.png)   
     - #### classicbook
 ![classicbook](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/PhotoSet/dataStructure/%E5%8F%A4%E6%96%87%E8%A7%82%E6%AD%A2%E4%B8%8E%E5%85%B6%E4%BB%96%E5%8F%A4%E7%B1%8D_3_dataStructure.png)
--                 
     - #### packages needed for crawlerForGuanzhi
 ![ crawlerForGuanzhi](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/PhotoSet/crawlerForGuanzhi_packageNeeded.png)
 
