@@ -1,0 +1,38 @@
+{% extends 'literature/base.html' %}
+
+{% block title %} 
+
+{% load makeList %}
+    <h1>古籍詳情</h1> 
+{% endblock %}
+
+{% block content %}
+    <hr>
+    <h3>{{language}}</h3>
+    <ul>在 「/bookInfo/」 後面，輸入 s ，可檢視繁體；</ul>
+    <ul>將book_id (1~295) 輸入在網址 「/bookInfo/」 後面，可查看該書的文章。<h4>在 「/bookInfo/數字/」  後面，輸入s，可檢視繁體。</h4></ul>
+    <hr>
+    {% if error %}
+    <h3>{{error}}</h3>
+    {% else %}
+    <h3>第{{nums}}本，{{bookName_SimCh}}，本書作者: {{bookAuthorName}},</h3>
+    <h4><ul>{{bookIntro_SimCh}}</h4></ul>
+    {% endif %}
+
+    {% for showdata in data %}
+    {   
+        {{upperChapter_SimCh}}: {{showdata.0}}&nbsp;,
+        {{innerChapter_id}}: {{showdata.1}}&nbsp;,
+        <h4>{{innerChapter_SimCh}}: {{showdata.7}}&nbsp;,</h4>
+        {{innerChapter_Uri}}: {{showdata.2}}&nbsp;,
+        
+            {% for content in showdata.3|makeList %}
+            <h4>段落{{forloop.counter}}:</h4> {{content}}
+            {% endfor %}
+    } 
+    <br />
+    <hr>
+    {% empty %}
+       <p>沒有資料喔！或者檢查資料庫連線！</p>
+    {% endfor %}
+{% endblock %}

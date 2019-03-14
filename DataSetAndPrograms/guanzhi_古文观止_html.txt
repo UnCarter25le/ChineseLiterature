@@ -1,0 +1,368 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+古文观止_古诗文网
+</title>
+<script type="text/javascript">
+    if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+        window.location.href = "https://m.gushiwen.org/wenyan/guanzhi.aspx";
+    } else {
+
+    }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left">
+<div class="title">
+<div class="titleleft"></div>
+<h1>古文观止</h1>
+</div>
+<div class="sons">
+<div class="typecont">
+<div class="bookMl"><strong>卷一・周文</strong></div>
+<span><a href="https://so.gushiwen.org/shiwenv_31e46b58b1ff.aspx" target="_blank">郑伯克段于鄢</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_ddf935a77f2c.aspx" target="_blank">周郑交质</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_d1503d1a73f0.aspx" target="_blank">石碏谏宠州吁</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_20c1cedf95fd.aspx" target="_blank">臧僖伯谏观鱼</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_d3a0ff9451a1.aspx" target="_blank">郑庄公戒饬守臣</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_0b0402ab1ef3.aspx" target="_blank">臧哀伯谏纳郜鼎</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_43cf4a10514c.aspx" target="_blank">季梁谏追楚师</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_0c4d9d86a850.aspx" target="_blank">曹刿论战</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_b5d7c3af931c.aspx" target="_blank">齐桓公伐楚</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_9cb15a8d8c15.aspx" target="_blank">宫之奇谏假道</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_1e6d72e549ef.aspx" target="_blank">齐桓下拜受胙</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c0a1d0e3f454.aspx" target="_blank">阴饴甥对秦伯</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_df249d6f9327.aspx" target="_blank">子鱼论战</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_ee805a0e1c53.aspx" target="_blank">寺人披见文公</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_f09b9e05f3ac.aspx" target="_blank">介之推不言禄</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_6bbc17d4b8c5.aspx" target="_blank">展喜犒师</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_5472fd05f090.aspx" target="_blank">烛之武退秦师</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_72f9c00f1da6.aspx" target="_blank">蹇叔哭师</a>《左传》</span>
+</div>
+<div class="typecont">
+<div class="bookMl"><strong>卷二・周文</strong></div>
+<span><a href="https://so.gushiwen.org/shiwenv_51380a64f80d.aspx" target="_blank">郑子家告赵宣子</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_76e40901f6dd.aspx" target="_blank">王孙满对楚子</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_e060eb443b8c.aspx" target="_blank">齐国佐不辱命</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_54ddb1811d92.aspx" target="_blank">楚归晋知罃</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_e1fd4802a1e2.aspx" target="_blank">吕相绝秦</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c9d2b9f9c121.aspx" target="_blank">驹支不屈于晋</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_6c46171f8665.aspx" target="_blank">祁奚请免叔向</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_8504d8c30b0a.aspx" target="_blank">子产告范宣子轻币</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_3bb563a7175c.aspx" target="_blank">晏子不死君难</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_4b65911cbd27.aspx" target="_blank">季札观周乐</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_08c09bd1b481.aspx" target="_blank">子产坏晋馆垣</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_85a1ec0a291b.aspx" target="_blank">子产论尹何为邑</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_664e33a624c2.aspx" target="_blank">子产却楚逆女以兵</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_a9b85a928788.aspx" target="_blank">子革对灵王</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_daff7139089c.aspx" target="_blank">子产论政宽猛</a>《左传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_0d968604d1b0.aspx" target="_blank">吴许越成</a>《左传》</span>
+</div>
+<div class="typecont">
+<div class="bookMl"><strong>卷三・周文</strong></div>
+<span><a href="https://so.gushiwen.org/shiwenv_0911570bea20.aspx" target="_blank">祭公谏征犬戎</a>《国语》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_f10037009996.aspx" target="_blank">召公谏厉王止谤</a>《国语》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_de42b8c4408f.aspx" target="_blank">襄王不许请隧</a>《国语》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_5314b19d537d.aspx" target="_blank">单子知陈必亡</a>《国语》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_cbe5452945e3.aspx" target="_blank">展禽论祀爰居</a>《国语》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c3b5b9d96b14.aspx" target="_blank">里革断罟匡君</a>《国语》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_8a00b843e429.aspx" target="_blank">敬姜论劳逸</a>《国语》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_38fe7c4772ee.aspx" target="_blank">叔向贺贫</a>《国语》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_3d2b400ebe8e.aspx" target="_blank">王孙圉论楚宝</a>《国语》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_fd5271028d3f.aspx" target="_blank">诸稽郢行成于吴</a>《国语》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c422364ff10c.aspx" target="_blank">申胥谏许越成</a>《国语》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c9932c4ec939.aspx" target="_blank">春王正月</a>《公羊传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c886ed5ae965.aspx" target="_blank">宋人及楚人平</a>《公羊传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_a53d25ac65fc.aspx" target="_blank">吴子使札来聘</a>《公羊传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_f957b8ba93fc.aspx" target="_blank">郑伯克段于鄢</a>《谷梁传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_a705383d7f48.aspx" target="_blank">虞师晋师灭夏阳</a>《谷梁传》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_58783239ca5d.aspx" target="_blank">晋献公杀世子申生</a>《礼记·檀弓》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_8685d24b36b3.aspx" target="_blank">曾子易箦</a>《礼记·檀弓》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_fdda353e9fbb.aspx" target="_blank">有子之言似夫子</a>《礼记·檀弓》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_9e0871d35fc1.aspx" target="_blank">公子重耳对秦客</a>《礼记·檀弓》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_6af82f750954.aspx" target="_blank">杜蒉扬觯</a>《礼记·檀弓》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_79d7304eaef6.aspx" target="_blank">晋献文子成室</a>《礼记·檀弓》</span>
+</div>
+<div class="typecont">
+<div class="bookMl"><strong>卷四・战国文</strong></div>
+<span><a href="https://so.gushiwen.org/shiwenv_658935680f61.aspx" target="_blank">苏秦以连横说秦</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_a6bf962d88fb.aspx" target="_blank">司马错论伐蜀</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_145e45fca47d.aspx" target="_blank">范雎说秦王</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_1bba692e2e4c.aspx" target="_blank">邹忌讽齐王纳谏</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_3479c77d6045.aspx" target="_blank">齐宣王见颜斶</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_4a5e33cebdfc.aspx" target="_blank">冯谖客孟尝君</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_4d100b52340b.aspx" target="_blank">赵威后问齐使</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_cc525ce37766.aspx" target="_blank">庄辛论幸臣</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_e90f780c7c91.aspx" target="_blank">触龙说赵太后</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_a80aab2574c6.aspx" target="_blank">鲁仲连义不帝秦</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_734136fefd20.aspx" target="_blank">鲁共公择言</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_32efdf7cca4a.aspx" target="_blank">唐雎说信陵君</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_21c247ed876f.aspx" target="_blank">唐雎不辱使命 </a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_431b60baca7a.aspx" target="_blank">乐毅报燕王书</a>《战国策》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_2a6f10fb5dec.aspx" target="_blank">谏逐客书</a>(李斯)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_cb7216a2e6fb.aspx" target="_blank">卜居</a>(屈原)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_a9d957d204b7.aspx" target="_blank">对楚王问</a>(宋玉)</span>
+</div>
+<div class="typecont">
+<div class="bookMl"><strong>卷五・汉文</strong></div>
+<span><a href="https://so.gushiwen.org/shiwenv_fca0da6f29fd.aspx" target="_blank">五帝本纪赞</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_20f63f8755a7.aspx" target="_blank">项羽本纪赞</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_7f0a6b3960ba.aspx" target="_blank">秦楚之际月表</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_2fdb8a14a4c7.aspx" target="_blank">高祖功臣侯者年表</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_4359f64add87.aspx" target="_blank">孔子世家赞</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c5e1fb9d3e80.aspx" target="_blank">外戚世家序</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_321493a424d9.aspx" target="_blank">伯夷列传</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_27166a9a2aa7.aspx" target="_blank">管晏列传</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_573d6514abc4.aspx" target="_blank">屈原列传</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_024370e747bc.aspx" target="_blank">酷吏列传序</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_3d529fd2505a.aspx" target="_blank">游侠列传序</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_5d56e3f92b3f.aspx" target="_blank">滑稽列传</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_9275b34c0ea8.aspx" target="_blank">货殖列传序</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_fe7ee2a83795.aspx" target="_blank">太史公自序</a>《史记》</span>
+<span><a href="https://so.gushiwen.org/shiwenv_d4b25931b841.aspx" target="_blank">报任安书</a>(司马迁)</span>
+</div>
+<div class="typecont">
+<div class="bookMl"><strong>卷六・汉文</strong></div>
+<span><a href="https://so.gushiwen.org/shiwenv_a7e5b76063d8.aspx" target="_blank">高帝求贤诏</a>(班固)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c096bc1f9b78.aspx" target="_blank">文帝议佐百姓诏</a>(汉文帝)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_a161c5a3f370.aspx" target="_blank">景帝令二千石修职诏</a>(汉景帝)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_5456a5c04d99.aspx" target="_blank">武帝求茂才异等诏</a>(汉武帝)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_21e30e31fefc.aspx" target="_blank">过秦论</a>(贾谊)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_ec737382cf4a.aspx" target="_blank">治安策</a>(贾谊)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_a09860c14994.aspx" target="_blank">论贵粟疏</a>(晁错)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_7ddcdcf33399.aspx" target="_blank">狱中上梁王书</a>(邹阳)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c2d9a5430e7b.aspx" target="_blank">上书谏猎</a>(司马相如)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_7f757b819625.aspx" target="_blank">答苏武书</a>(李陵)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_7dadd978a8f2.aspx" target="_blank">尚德缓刑书</a>(路温舒)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_027d017f246d.aspx" target="_blank">报孙会宗书</a>(杨恽)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_e08287038d66.aspx" target="_blank">光武帝临淄劳耿弇</a>(光武帝)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_6b43d25b50e1.aspx" target="_blank">诫兄子严敦书</a>(马援)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_8bc0871fe00b.aspx" target="_blank">前出师表</a>(诸葛亮)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_04edb1902934.aspx" target="_blank">后出师表</a>(诸葛亮)</span>
+</div>
+<div class="typecont">
+<div class="bookMl"><strong>卷七・六朝唐文</strong></div>
+<span><a href="https://so.gushiwen.org/shiwenv_f84986dafb2d.aspx" target="_blank">陈情表</a>(李密)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_af279f0cdd95.aspx" target="_blank">兰亭集序</a>(王羲之)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_987458864738.aspx" target="_blank">归去来兮辞</a>(陶渊明)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_73add8822103.aspx" target="_blank">桃花源记</a>(陶渊明)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_1d296ceb44c3.aspx" target="_blank">五柳先生传</a>(陶渊明)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_84b55ca77e82.aspx" target="_blank">北山移文</a>(孔稚珪)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_3827a21544f0.aspx" target="_blank">谏太宗十思疏</a>(魏征)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_1393256b4aa1.aspx" target="_blank">为徐敬业讨武曌檄</a>(骆宾王)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_ce802de625e5.aspx" target="_blank">滕王阁序</a>(王勃)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_035572284d7d.aspx" target="_blank">与韩荆州书</a>(李白)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_7ae587439291.aspx" target="_blank">春夜宴桃李园序</a>(李白)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_4a78710c8bf0.aspx" target="_blank">吊古战场文</a>(李华)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_6c1ea9b7dd44.aspx" target="_blank">陋室铭</a>(刘禹锡)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_0456af8aceec.aspx" target="_blank">阿房宫赋</a>(杜牧)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_f168d3f2a485.aspx" target="_blank">原道</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_96d0a8e98f8d.aspx" target="_blank">原毁</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_4524fdf53789.aspx" target="_blank">获麟解</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_468eb7a3ab15.aspx" target="_blank">杂说·龙说</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_97ab33229f07.aspx" target="_blank">杂说·马说</a>(韩愈)</span>
+</div>
+<div class="typecont">
+<div class="bookMl"><strong>卷八・唐文</strong></div>
+<span><a href="https://so.gushiwen.org/shiwenv_178197fd7202.aspx" target="_blank">师说</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_94a69d56db65.aspx" target="_blank">进学解</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_6b375dc07be0.aspx" target="_blank">圬者王承福传</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_a1e49584f0f0.aspx" target="_blank">讳辩</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_289ab930c2ae.aspx" target="_blank">争臣论</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_988f0b6b1d22.aspx" target="_blank">后十九日复上宰相书</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_510de4cff08a.aspx" target="_blank">后廿九日复上宰相书</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_997c4ba2eace.aspx" target="_blank">与于襄阳书</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_39f27e15be0c.aspx" target="_blank">与陈给事书</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c0c328fc3676.aspx" target="_blank">应科目时与人书</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_d91636bc3ff9.aspx" target="_blank">送孟东野序</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_92018c34140f.aspx" target="_blank">送李愿归盘谷序</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_06dde5011909.aspx" target="_blank">送董邵南游河北序</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_d97f6623bdd4.aspx" target="_blank">送杨少尹序</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_13cc95f2e3d4.aspx" target="_blank">送石处士序</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_81caf86c1bd1.aspx" target="_blank">送温处士赴河阳军序</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_70b78cce30db.aspx" target="_blank">祭十二郎文</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_190bc3503a8e.aspx" target="_blank">祭鳄鱼文</a>(韩愈)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_977c02ae8d8c.aspx" target="_blank">柳子厚墓志铭</a>(韩愈)</span>
+</div>
+<div class="typecont">
+<div class="bookMl"><strong>卷九・唐宋文</strong></div>
+<span><a href="https://so.gushiwen.org/shiwenv_85ba5815b277.aspx" target="_blank">驳复仇议</a>(柳宗元)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c4f1693622a0.aspx" target="_blank">桐叶封弟辨</a>(柳宗元)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_ce352e9a3460.aspx" target="_blank">箕子碑</a>(柳宗元)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_fe678a1136b3.aspx" target="_blank">捕蛇者说</a>(柳宗元)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_0595b5ed9fb4.aspx" target="_blank">种树郭橐驼传</a>(柳宗元)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_b7ff1ebec1df.aspx" target="_blank">梓人传</a>(柳宗元)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_38dcd7c145bc.aspx" target="_blank">愚溪诗序</a>(柳宗元)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_4602c03f5d22.aspx" target="_blank">永州韦使君新堂记</a>(柳宗元)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_cb3b70897b53.aspx" target="_blank">钴鉧潭西小丘记</a>(柳宗元)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_a78807f08acb.aspx" target="_blank">小石城山记</a>(柳宗元)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_81db1f523733.aspx" target="_blank">贺进士王参元失火书</a>(柳宗元)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_7a2dd89d866c.aspx" target="_blank">待漏院记</a>(王禹偁)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_58a111b049a4.aspx" target="_blank">黄冈竹楼记</a>(王禹偁)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_a40ebce0f1be.aspx" target="_blank">书洛阳名园记后</a>(李格非)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_541cff55fb8b.aspx" target="_blank">严先生祠堂记</a>(范仲淹)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_f3d6556dbcad.aspx" target="_blank">岳阳楼记</a>(范仲淹)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_5164239ca26c.aspx" target="_blank">谏院题名记</a>(司马光)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_27580dbad0b7.aspx" target="_blank">义田记</a>(钱公辅)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_868204651e7a.aspx" target="_blank">袁州州学记</a>(李觏)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_b538499b7479.aspx" target="_blank">朋党论</a>(欧阳修)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_b23f3566f6cd.aspx" target="_blank">纵囚论</a>(欧阳修)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_9ffdd80caa75.aspx" target="_blank">释秘演诗集序</a>(欧阳修)</span>
+</div>
+<div class="typecont">
+<div class="bookMl"><strong>卷十・宋文</strong></div>
+<span><a href="https://so.gushiwen.org/shiwenv_f936cad449ad.aspx" target="_blank">梅圣俞诗集序</a>(欧阳修)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_eed66dd64819.aspx" target="_blank">送杨寘序</a>(欧阳修)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_6cd4e529af11.aspx" target="_blank">五代史伶官传序</a>(欧阳修)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_855a8dc2c407.aspx" target="_blank">五代史宦官传序</a>(欧阳修)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_207454e4b594.aspx" target="_blank">相州昼锦堂记</a>(欧阳修)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_7d7c1c66dac1.aspx" target="_blank">丰乐亭记</a>(欧阳修)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_5cbf5b7be38f.aspx" target="_blank">醉翁亭记</a>(欧阳修)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_b86737e60ba3.aspx" target="_blank">秋声赋</a>(欧阳修)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_03530fa3b629.aspx" target="_blank">祭石曼卿文</a>(欧阳修)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_5b83bcc2f8a3.aspx" target="_blank">泷冈阡表</a>(欧阳修)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_59d8723f7b36.aspx" target="_blank">管仲论</a>(苏洵)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_fd589d662956.aspx" target="_blank">辨奸论</a>(苏洵)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_ed48228ffc82.aspx" target="_blank">心术</a>(苏洵)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_fcd3c558d3ad.aspx" target="_blank">张益州画像记</a>(苏洵)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_7e149aa4a0bf.aspx" target="_blank">刑赏忠厚之至论</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_82883c090f81.aspx" target="_blank">范增论</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_9d8cc068c549.aspx" target="_blank">留侯论</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_f22ec82fca33.aspx" target="_blank">贾谊论</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_e4fd012517cb.aspx" target="_blank">晁错论</a>(苏轼)</span>
+</div>
+<div class="typecont">
+<div class="bookMl"><strong>卷十一・宋文</strong></div>
+<span><a href="https://so.gushiwen.org/shiwenv_5baaed125077.aspx" target="_blank">上梅直讲书</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_d15648308852.aspx" target="_blank">喜雨亭记</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_41364f69bdb5.aspx" target="_blank">凌虚台记</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_1d6b24f8da84.aspx" target="_blank">超然台记</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c7cb7428a452.aspx" target="_blank">放鹤亭记</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c72161f552bb.aspx" target="_blank">石钟山记</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_69639b33e15b.aspx" target="_blank">潮州韩文公庙碑</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_8d1bc93b59ec.aspx" target="_blank">乞校正陆贽奏议进御札子</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_4cac23b07849.aspx" target="_blank">前赤壁赋</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_0fd42775a75a.aspx" target="_blank">后赤壁赋</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_ab0d98c2662e.aspx" target="_blank">三槐堂铭</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_d096aa313844.aspx" target="_blank">方山子传</a>(苏轼)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_be651eb0a6c5.aspx" target="_blank">六国论</a>(苏辙)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_785ab99c5a0c.aspx" target="_blank">上枢密韩太尉书</a>(苏辙)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_ae9e8f298c16.aspx" target="_blank">黄州快哉亭记</a>(苏辙)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_7dc34e89831c.aspx" target="_blank">寄欧阳舍人书</a>(曾巩)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_2e0d19948edf.aspx" target="_blank">赠黎安二生序</a>(曾巩)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_40c90f9029c1.aspx" target="_blank">读孟尝君传</a>(王安石)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_5a7b34dadc14.aspx" target="_blank">同学一首别子固</a>(王安石)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_3807bdb3ebd6.aspx" target="_blank">游褒禅山记</a>(王安石)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_59ec2a029f1d.aspx" target="_blank">泰州海陵县主簿许君墓志铭</a></span>
+</div>
+<div class="typecont" style="border:0px">
+<div class="bookMl"><strong>卷十二・明文</strong></div>
+<span><a href="https://so.gushiwen.org/shiwenv_0d2ab3dc60fb.aspx" target="_blank">送天台陈庭学序</a>(宋濂)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_ffdfa909a98d.aspx" target="_blank">阅江楼记</a>(宋濂)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_a1ae1e641359.aspx" target="_blank">司马季主论卜</a>(刘基)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_50ab40282119.aspx" target="_blank">卖柑者言</a>(刘基)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_c9b7353ad28f.aspx" target="_blank">深虑论</a>(方孝孺)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_1dd68fc5f1b7.aspx" target="_blank">豫让论</a>(方孝孺)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_ce95d5216101.aspx" target="_blank">亲政篇</a>(王鏊)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_8cea6480e7b6.aspx" target="_blank">稽山书院尊经阁记</a>(王守仁)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_4322570c87f1.aspx" target="_blank">象祠记</a>(王守仁)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_092173454db6.aspx" target="_blank">瘗旅文</a>(王守仁)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_3c3282654370.aspx" target="_blank">信陵君救赵论</a>(唐顺之)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_b1e3cd70665d.aspx" target="_blank">报刘一丈书</a>(宗臣)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_18b2973fedd4.aspx" target="_blank">吴山图记</a>(归有光)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_2f663fc304dd.aspx" target="_blank">沧浪亭记</a>(归有光)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_80bbb5adff2b.aspx" target="_blank">青霞先生文集序</a>(茅坤)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_6a8dd6ed29e2.aspx" target="_blank">蔺相如完璧归赵论</a>(王世贞)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_8e3a7668d171.aspx" target="_blank">徐文长传</a>(袁宏道)</span>
+<span><a href="https://so.gushiwen.org/shiwenv_af10d35d8ee1.aspx" target="_blank">五人墓碑记</a>(张溥)</span>
+</div>
+</div>
+<div style="height:auto; width:670px; clear:both; margin-top:20px;overflow:hidden; float:left; ">
+<script src="//yijiuningyia.gushiwen.org/site/tpw9.js?avnueb=bdn" type="text/javascript"></script>
+</div>
+</div>
+<div class="right">
+<div class="sons">
+<div class="title">
+<div class="titleleft"></div>
+文言文名篇
+</div>
+<div class="cont">
+<a href="/wenyan/xiaowen.aspx">小学文言</a>
+<a href="/wenyan/chuwen.aspx">初中文言</a>
+<a href="/wenyan/gaowen.aspx">高中文言</a>
+<a href="/wenyan/guanzhi.aspx">古文观止</a>
+<a href="https://www.gushiwen.org/shiwen/default_4A4A1.aspx">更多》</a>
+</div>
+</div>
+<div class="abcd">
+<script src="//yijiuningyia.gushiwen.org/site/production/p0c0e.js?qlatnki=nr" type="text/javascript"></script>
+</div>
+<div class="juzioncont">
+<img height="100" src="/app/appdown2.png" style=" float:left; margin:10px; margin-right:0px;" width="100"/><p><center style="font-size:18px; margin-top:20px;">扫描下载</center></p><p><center style="font-size:18px; margin-top:10px;">古诗文网客户端</center></p>
+</div>
+<div class="abcd">
+<script src="//yijiuningyia.gushiwen.org/site/res/js/wmah8m.js?cxptt=dytm" type="text/javascript"></script>
+</div>
+<div class="juzioncont">
+<a href="/mingju/juv_16f30f4add13.aspx" target="_blank">我欲穿花寻路，直入白云深处，浩气展虹霓。</a>
+</div>
+<div class="abcd">
+<script src="//yijiuningyia.gushiwen.org/common/site/izgy4.js?n=ixqkhkrr" type="text/javascript"></script>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

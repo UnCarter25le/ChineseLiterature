@@ -1,0 +1,119 @@
+MySQL:5.7.25!
+
+
+＊if u wanna use mysqldump to import database in mysql server locally, then try this part!
+
+FIRST:
+
+Login into your mysql server, and execute 「set FOREIGN_KEY_CHECKS=0; 」 to close FK check. 
+
+Pleae create database named "literature" and its format must be "utf8mb4". To see how to set up, we can reference instructions as below:
+
+https://blog.csdn.net/boycycyzero/article/details/42879911
+
+
+After that, log out.
+
+>>> cd /Database/YouAlreadyHaveLocalMySQL/
+
+>>> mysqldump -u youraccount -p literature < back_literature.sql 
+
+SECOND:
+
+Login into your mysql server, and 「set FOREIGN_KEY_CHECKS=1;」.
+
+>>> use  literature;
+
+>>> source back_literature.sql 
+
+
+Now, we complete data  import!
+
+
+THIRD:
+
+please modify "ChineseLiterature/ChineseLiterature/settings.py" and "ChineseLiterature/literature/views.py" if your mysql account info differentiates from default:
+
+# settings.py
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'literature',
+        'USER':'root',    <-----------------------
+        'PASSWORD':'1234', <-----------------------
+        'HOST':'127.0.0.1',
+        'PORT':'3306',
+        'OPTIONS': {'charset':'utf8mb4'},
+    }
+}
+
+#views.py
+conn = pymysql.connect('localhost',port=3306,「user='root',passwd='1234'」,charset='utf8',db='literature')
+
+
+
+>>> cd ChineseLiterature/
+
+>>> python manage.py runserver
+
+Now, we can enjoy service by typing 「localhost:8000/bookInfo/」!
+
+-----------------------------------------
+
+＊if u wanna see how is going on when executing writeDataToDatabase_*.py , then try this part!
+
+FIRST:
+
+Pleae create database named "literature" and its format must be "utf8mb4". To see how to set up, we can reference instructions as below:
+
+https://blog.csdn.net/boycycyzero/article/details/42879911
+
+
+SECOND:
+
+
+Synchronize this database by executing some commands in Django project folder.
+
+>>> cd ChineseLiterature/
+
+>>> find . -path "*/migrations/*.py" -not -name "__init__.py" -delete
+>>> find . -path "*/migrations/*.pyc"  -delete
+
+>>> python manage.py makemigrations
+>>> python manage.py migrate
+
+Now, django ORM help us to create tables we need according to models.py!
+
+And, we can execute those writeDataToDatabase_*.py to see the conditions about inserting data into tables!
+
+
+(Approximately 40 minutes it will take us to complete four tables. Under the SSD disk circumstance, time consuming will be declined! )
+
+THIRD:
+
+after completing data insert,
+
+please modify "ChineseLiterature/ChineseLiterature/settings.py" and "ChineseLiterature/literature/views.py" if your mysql account info differentiates from default:
+
+# settings.py
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'literature',
+        'USER':'root',    <-----------------------
+        'PASSWORD':'1234', <-----------------------
+        'HOST':'127.0.0.1',
+        'PORT':'3306',
+        'OPTIONS': {'charset':'utf8mb4'},
+    }
+}
+
+#views.py
+conn = pymysql.connect('localhost',port=3306,「user='root',passwd='1234'」,charset='utf8',db='literature')
+
+
+>>> cd ChineseLiterature/
+
+>>> python manage.py runserver
+
+Now, we can enjoy service by typing 「localhost:8000/bookInfo/」!

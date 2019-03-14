@@ -1,0 +1,40 @@
+{% extends 'literature/base.html' %}
+
+{% block title %}  
+
+{% load makeListAttachUrl %}
+    <h1>作者編號頁</h1> 
+{% endblock %}
+{% block content %}
+    <hr>
+    <h3>{{language}}</h3>
+    <ul>在 「/authorInfo/」 後面，輸入 s ，可檢視繁體；</ul>
+    <ul>將author_id (1~15919) 輸入在網址 「/authorInfo/」 後面，可查看該作者的資訊。</ul>
+    <hr>
+
+    {% if error %}
+    <h3>{{error}}</h3>
+    {% endif %}
+
+
+    {% for showdata in data %}
+        <h3>{ {{author_id}}: {{showdata.0}},</h3>
+    <div>
+        <ul><h3>{{authorName_SimCh}}: {{showdata.1}}&nbsp;,</h3></ul>
+        <ul>{{dynasty_SimCh}}: {{showdata.2}}&nbsp;,</ul>
+        <ul>{{authorIntro_SimCh}}: {{showdata.3}}&nbsp;,</ul>
+        <ul>{{authorImg_Uri}}: {{showdata.4}}&nbsp;,</ul>
+        <ul>{{author_Uri}}: {{showdata.5}}&nbsp;,</ul>
+        <ul>{{works_Uri}}:[ </ul>
+        {% for detailuri in showdata.6|makeListAttachUrl %}
+            <ul> {{detailuri}}&nbsp;,</ul>
+        {% endfor %}
+        <ul>]</ul>
+
+    </div>
+    <br />
+    {% empty %}
+        <p>沒有資料喔！或者檢查資料庫連線！</p>
+    {% endfor %}
+
+{% endblock %}

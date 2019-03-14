@@ -1,0 +1,32 @@
+{% extends 'literature/base.html' %}
+
+{% block title %}
+
+    <h1>名句編號頁</h1> 
+{% endblock %}
+
+{% block content %}
+
+    <hr>
+    <h3>{{language}}</h3>
+    <ul>在 「/quotaInfo/」 後面，輸入 s ，可檢視繁體；</ul>
+    <ul>將quotation_id (1~1999) 輸入在網址 「/quotaInfo/」 後面，可查看該名句的資訊。</ul>
+    <hr>
+
+    {% if error %}
+        <h3> {{error}} </h3>
+    {% endif %}
+
+    {% for showdata in data %}
+            <h3>{ {{quotation_id}}: {{showdata.0}}&nbsp;,</h3>
+        <div>
+        <div><ul>{{quotation_SimCh}}:<h3> {{showdata.1}}&nbsp;,</h3></ul></div>
+        <div><ul>{{quotaTranslation_SimCh}}: {{showdata.2}}&nbsp;,</ul></div>
+        <div><ul>{{quotaFrom_SimCh}}: {{showdata.3}} }&nbsp;,</ul></div>
+        </div>
+            <br />
+   {% empty %}
+      <p>沒有資料喔！或者檢查資料庫連線！</p>
+   {% endfor %}
+
+{% endblock %}

@@ -1,0 +1,55 @@
+
+FIRST: run two container
+
+＊if u already have local mysql server runing, please to stop that. 「sudo service mysql stop」maybe help.
+
+
+>>> docker run --name mysql_db_server -it -p 3306:3306 -e MYSQL_ROOT_PASSWORD=1234 -d mysql:5.7
+
+>>> docker run --name myadmin --link mysql_db_server:db -p 8080:80 -d phpmyadmin/phpmyadmin
+
+
+SECOND:
+
+catch mysql container's id by execute command : docker ps
+
+>>> docker exec -it container's_id bash
+
+---enter into mysql container
+
+>>> mysql -u root -p
+
+>>> 1234
+
+>>> create database literature;
+
+
+THIRD:
+
+Synchronize this database by executing some commands in Django project folder.
+
+>>> cd ChineseLiterature/
+
+>>> find . -path "*/migrations/*.py" -not -name "__init__.py" -delete
+>>> find . -path "*/migrations/*.pyc"  -delete
+
+>>> python manage.py makemigrations
+>>> python manage.py migrate
+
+Now, django ORM help us to create tables we need according to models.py!
+
+And, we can execute those writeDataToDatabase_*.py to see the conditions about inserting data into tables!
+
+(Approximately 40 minutes it will take us to complete four tables. Under the SSD disk circumstance, time consuming will be declined! )
+
+
+THIRD:
+
+after completing data insert,
+
+>>> cd ChineseLiterature/
+
+>>> python manage.py runserver
+
+Now, we can enjoy service by typing 「localhost:8000/bookInfo/」!
+

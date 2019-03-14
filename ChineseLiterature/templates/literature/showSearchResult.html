@@ -1,0 +1,52 @@
+{% extends 'literature/base.html' %}
+
+{% block title %}
+
+    <h1>搜尋頁</h1> 
+{% endblock %}
+
+{% block content %}
+    {% if urlcode %}
+    <h3>關鍵字urlencode結果： {{urlcode}}</h3>
+    {% endif %}
+    <hr>
+    {% if note %}
+        <h3>{{note}}</h3>
+        <div>
+            <h4>{{language1}}</h4>
+            <h4>{{input1}}</h4>
+        </div>
+        <br />
+        <div>
+            <h4>{{language2}}</h4>
+            <h4>{{input2}}</h4>
+        </div>
+    {% endif %}
+
+    {% if authorDataArray == "搜查不到，請換關鍵字繼續～"%}
+        <h3>作者結果： {{authorNums}} </h3>
+        <h3>{{authorDataArray}}</h3>
+        
+        <hr>
+    {% elif authorDataArray  %}
+        <h3>作者結果： {{authorNums}}，將author_id  輸入在網址 「/authorInfo/」 後面，可查看該作者的資訊。</h3>
+        {% for showAuthor in authorDataArray %}
+            <h3><li>"author_id":{{showAuthor.author_id}}</li></h3>
+            <ul>{{showAuthor}}</ul>
+        <br />
+        {% endfor %}
+    {% endif %}
+
+      
+    {% if bookDataArray == "搜查不到，請換關鍵字繼續～"  %}
+        <h3>古籍結果： {{bookNums}} </h3>
+        <h3>{{bookDataArray}}</h3>    
+    {% elif bookDataArray %}
+        <h3>古籍結果： {{bookNums}}，將book_id 輸入在網址 「/bookInfo/」 後面，可查看該書的文章。</h3>
+        {% for showBook in bookDataArray %}
+            <h3><li>"book_id":{{showBook.book_id}}</li></h3>
+            <ul>{{showBook}}</ul>
+        <br />
+        {% endfor %}   
+    {% endif %}
+{% endblock %}

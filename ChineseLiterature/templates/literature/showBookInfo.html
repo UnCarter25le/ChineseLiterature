@@ -1,0 +1,27 @@
+
+{% extends 'literature/base.html' %}
+
+{% block title %} <h1>古籍編號頁</h1>{% endblock%}
+{% block content%}
+   <hr>
+   <h3>{{language}}</h3>
+   <ul>在 「/bookInfo/」 後面，輸入 s ，可檢視繁體；</ul>
+   <ul>將book_id (1~295) 輸入在網址 「/bookInfo/」 後面，可查看該書的文章。</ul>
+   <hr>
+   
+   {% if error %}
+   <h2>{{error}}</h2>
+   {% endif %}
+   {% for showdata in data %}
+      <h3>{ {{book_id}}: {{showdata.0}},</h3>
+   <div>
+      <h3><div><ul>{{bookName_SimCh}}: {{showdata.1}}&nbsp;,</ul></div></h3>
+      <div><ul>{{bookIntro_SimCh}}: <h4>{{showdata.2}}&nbsp;,</h4></ul></div>
+      <div><ul>{{bookImg_Uri}}: {{showdata.3}}&nbsp;,</ul></div>
+      <div><ul>{{book_Uri}}: {{showdata.4}}}&nbsp;,</ul></div>
+   </div>
+   <br />
+   {% empty %}
+      <p>沒有資料喔！或者檢查資料庫連線！</p>
+   {% endfor %}
+{% endblock %}
