@@ -115,7 +115,7 @@ https://chineseliterature.azurewebsites.net/search/李白/s
 > ### 1. ChineseLiterature: 
 This is __django project__. If you wanna try local service, I sincerely suggest you to modiy conncetion parametors with mysql server locally in two files, __settings.py and views.py__. Moreover, you are albe to use __models.py__ to manipulate and create tables in database named __literature__, __but remenber to create that database first__. You can take a closer look at the Database folder to see what sorts of choices you can reference.
 > ### 2. Database:
-Here is full of information  about database, such as ERmodel of MySQL, packages needed to import , overview for database via phpmyadmin, etc. Most importantly, I supply two folders, __"YouAlreadyHaveLocalMySQL"__ and __"YouWannaTryDocker"__, to test the ways of "mysqldump" or "writing data to mysql server locally(whatever docker mysql or local mysql)."
+Here is full of information  about database, such as ERmodel of MySQL, packages needed to import , overview for database via phpmyadmin, etc. Most importantly, I supply two folders, __"YouAlreadyHaveLocalMySQL"__ and __"YouWannaTryDocker"__, to test the ways of "mysqldump" or "inserting data to mysql server locally(whatever docker mysql or local mysql)."
 > ### 3. PhotoSet:
 Here is full of photos about packages needed when crawling and __data structure__ very crucial to this project.
 >### 4. DataSetAndPrograms:
@@ -123,8 +123,8 @@ Here is abundant in data set in json format and programs for crawling from websi
 
 
 # Secondly,
-> ### 1. Do not trying to writing data? Just pull branch: fourth-without-heavy-files.
-> ### 2. Wanna try to inserting data, please pull branch: fourth-with-heavy-files(1.2GB or so).
+> ### 1. Do not try to insert data? Just pull branch: fourth-without-heavy-files.
+> ### 2. Wanna try to insert data, please pull branch: fourth-with-heavy-files(1.2GB or so).
 
 # Thirdly, importand package edition.
 > ### python-3.6.6
@@ -221,7 +221,7 @@ python manage.py migrate
     Of course, you can try docker mysql image if you have docker engine in local.
     >>> cd Database/YouWannaTryDocker/
     >>> vim dockerMySQL&PHPmyadminInstruction
-    , and you will see how to make it to writing data into database by docker containers(mysql and PHPmyadmin).
+    , and you will see how to make it to insert data into database by docker containers(mysql and PHPmyadmin).
 ```
 - ### database overview:
 
