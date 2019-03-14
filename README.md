@@ -18,19 +18,19 @@ this service switching between simplified and traditional Chinese,which meets my
 
 
 ---
-# Next, there are two ways for those who is normal user or coder:
-> ##  Normal user: 
+# Next, there are two ways for those who are normal users or programmers:
+> ##  Normal users: 
 
 ### - Typing web site on the browser, and enjoying the service.
 
-> ## Coder: 
+> ## Programmers: 
 
 ### - In addition to examining web service, I would farely like to introduce my project step by step in a organized way to you, and expect it would be beneficial to get you envolved in my project.
 
 
 ---
 
-# For Normal user-----------------------------------------------------------
+# For Normal Users----------------------------------------------------------
 > ### Typing https://chineseliterature.azurewebsites.net/   on the browser will get message of __"get Page not found (404)" expectedly__, so you may reference the instructions as below:
 ### 1. /bookInfo/    --> inspect information of classic books
 - Browsing information for classic books in __simplified Chinese__, try this way:
@@ -107,7 +107,7 @@ https://chineseliterature.azurewebsites.net/search/李白/s
 
 ---
 
-# For Coder--------------------------------------------------------------------
+# For Programmers------------------------------------------------------------
 ![folderOverview](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/overview_1.png)
 
 # First of all, take an overview:
