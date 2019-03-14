@@ -30,7 +30,7 @@ this service switching between simplified and traditional Chinese,which meets my
 
 ---
 
-# For Normal user!!
+# For Normal user---------------------------------------------------------------------------------
 > ### Typing https://chineseliterature.azurewebsites.net/   on the browser will get message of __"get Page not found (404)" expectedly__, so you may reference the instructions as below:
 ### 1. /bookInfo/    --> inspect information of classic books
 - Browsing information for classic books in __simplified Chinese__, try this way:
@@ -107,7 +107,7 @@ https://chineseliterature.azurewebsites.net/search/李白/s
 
 ---
 
-# For Coder!!
+# For Coder------------------------------------------------------------------------------------------
 ![folderOverview](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/overview_1.png)
 
 # First of all, take a overview:
@@ -175,7 +175,7 @@ python manage.py migrate
 ```
 
 
-- ##### More detailed info about utf8mb4 and how many processes in completing migraing tables in database via models.py, you can reference...
+- #### More detailed info about utf8mb4 and how many processes in completing migraing tables in database via models.py, you can reference:
 
 ```
 1. https://blog.csdn.net/boycycyzero/article/details/42879911
@@ -190,7 +190,10 @@ python manage.py migrate
 ![ERmodel_for_MySQL](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/Database/ERModelForMySQL.png)
 
 
-- ### By constructing corresponding tables in django's models.py, we could execute command `python manage.py makemigrations, and python manage.py migrate` to have django to create tables in database.
+- ### By constructing corresponding tables in django's models.py, we could execute command 
+`python manage.py makemigrations, and python manage.py migrate` to have django to create tables in database. 
+
+    - cd /Database/djangoModelPhoto, to see the designs of four classes!
 
 ![table_Author](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/Database/djangoModelPhoto/djangoORM_author.png)
 
@@ -230,19 +233,23 @@ python manage.py migrate
 
     - #### bookInfo
 ![bookInfo](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/PhotoSet/dataStructure/bookInfo_dataStructure.png)
-
+-            
     - #### classicbook
 ![classicbook](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/PhotoSet/dataStructure/%E5%8F%A4%E6%96%87%E8%A7%82%E6%AD%A2%E4%B8%8E%E5%85%B6%E4%BB%96%E5%8F%A4%E7%B1%8D_3_dataStructure.png)
-
+-                 
     - #### packages needed for crawlerForGuanzhi
 ![ crawlerForGuanzhi](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/PhotoSet/crawlerForGuanzhi_packageNeeded.png)
 
 
 > ### 4. DataSetAndPrograms:
 
-#### 1. Most programs(*.py) is here for you to explore! Additionally, you have access to see various files in json format or txt(actually html content ) which are valuable to this project!
+### 1. Most programs(*.py) is here for you to explore!
+-  Additionally, you have access to see various files in json format or txt(actually html content ) __which are valuable to this project!__
 
-#### 2. Basically,  if you wanna try programs(*.py), just remenber to pull branch called "fourth-with-heavy-files"! That will show you some folders with a great many and  essential  material which is crucial to execute programs(*.py), such as "作者的照片","古籍的照片","古籍","古籍innerChapterHtml", etc.
+### 2. Basically,  if you wanna try programs(*.py), just remenber to pull branch called "fourth-with-heavy-files"!
+- That will show you some __folders__ with a great many and  essential  material which is crucial to execute programs(*.py), such as __"作者的照片","古籍的照片","古籍","古籍innerChapterHtml"__, etc.
+
+- The order of executing writeDataToDatabase_*.py is __"writeDataToDatabase_author.py","writeDataToDatabase_classicbook.py","writeDataToDatabase_classicbook_content.py",and "writeDataToDatabase_quotation_from_classicbook.py".__
 
  
 -----
@@ -250,9 +257,9 @@ python manage.py migrate
 
 # Finally, for me:)
 
-```
-I have made my efforts to complete this README.md for those who have different knowledge background kind people, and I wish that these words ro comments will authentically help you get evolved in or touched with my project I have devoted myself incredibly a lot to during the past 20s days.
 
-```
+I have made my efforts to complete this README.md for those who have different knowledge background kind people, and I wish that these words ro comments will authentically help you get evolved in or touched with my project __I have devoted myself incredibly a lot to__ during the past 20s days.
+
+
 
 
