@@ -8,11 +8,11 @@ Bejing, I search that material on the internet through google or baidu. Expected
 to search that one in traditional Chinese edtion than simplified Chinese edition. What sort of edition I want 
 to read is traditional one! At the meantime, I had found a 
 [website](https://www.gushiwen.org/wenyan/guanzhi.aspx "古文观止") equipped with wonderful and diversified literature 
-resource, and caming up that why not crawlering literature material from that website and then Extract-Load-
+resource, and caming up that why not making the web scraping for literature material from that website and then Extract-Load-
 Transform to build __one software service with two editions for myself!__
 
 - Therefore,this project had taken place on 2/15,2019 and has been completed recently. I'm so delighted to have 
-this service switching between simplified and traditional Chinese,which meets my origial expectation to see Chinese literature called "古文觀止guanzhi" in two ways! Moreover, I also crawl many other material from that website to enrich my service,such as __295 classic book,15919 authors,20500 aritcle from book, and 1999 quotation from book.__
+this service switching between simplified and traditional Chinese,which meets my origial expectation to see Chinese literature called "古文觀止guanzhi" in two ways! Moreover, I also made web crawlers for many other material from that website to enrich my service,such as __295 classic books,15919 authors,20500 aritcles from books, and 1999 quotations from books.__
 
 - When deploying on to the MicroSoft Azure web service and MySQL successfully in the final stage, I have been awared that whatever torture or difficulties I faced during the stage of developing __do not mean something!__
 
@@ -117,9 +117,9 @@ This is __django project__. If you wanna try local service, I sincerely suggest 
 > ### 2. Database:
 Here is full of information  about database, such as ERmodel of MySQL, packages needed to import , overview for database via phpmyadmin, etc. Most importantly, I supply two folders, __"YouAlreadyHaveLocalMySQL"__ and __"YouWannaTryDocker"__, to test the ways of "mysqldump" or "inserting data to mysql server locally(whatever docker mysql or local mysql)."
 > ### 3. PhotoSet:
-Here is full of photos about packages needed when crawling and __data structure__ very crucial to this project.
+Here is full of photos about packages needed when processing the web scraping and __data structure__ very crucial to this project.
 >### 4. DataSetAndPrograms:
-Here is abundant in data set in json format and programs for crawling from website or write data into database. You can try __"crawlerForGuanzhi.py" to get entire content of book in approximately 20 minutes!__ Make sure to have these data set before taking "writeDataToDatabase_*.py" a shot, __especially folders named "作者的照片","古籍","古籍的照片"__.
+Here is abundant in data set in json format and programs for making crawlers for the website or inserting data into database. You can try __"crawlerForGuanzhi.py" to get entire content of book in approximately 20 minutes!__ Make sure to have these data set before taking "writeDataToDatabase_*.py" a shot, __especially folders named "作者的照片","古籍","古籍的照片"__.
 
 
 # Secondly,
@@ -229,7 +229,7 @@ python manage.py migrate
 
 > ### 3. PhotoSet:
 
-- ### In this folder, you can see data structure and packages needed when crawling.
+- ### In this folder, you can see data structure and packages needed when processing the web scraping.
 
     - #### bookInfo
     
