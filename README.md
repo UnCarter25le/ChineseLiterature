@@ -137,7 +137,7 @@ Here is abundant in data set in json format and programs for crawling from websi
 # Fourth, detailed info for first part.
 > ### 1. ChineseLiterature: 
 
-- ####  Make sure the connection parametors in these files when you trying to connect mysql server locally.
+- ####  Make sure the connection parametors in these files when trying to connect mysql server locally.
 
 ```
 settings.py:
@@ -160,7 +160,7 @@ views.py                                    user and passwd u should notice!
 conn = pymysql.connect('localhost',port=3306,user='root',passwd='1234',charset='utf8',db='literature')
 ```
 
-- #### Because I make decision to __create tables via django ORM__ instead of executing SQL command via pymysql, you had better __create a database named "literature" in utf8mb4 format first__, and follow commands as bellow:
+- #### Because I made decision to __create tables via django ORM__ instead of executing SQL command via pymysql, you had better __create a database named "literature" in utf8mb4 format first__, and follow commands as bellow:
 
 ```
 cd ChineseLiterature/
