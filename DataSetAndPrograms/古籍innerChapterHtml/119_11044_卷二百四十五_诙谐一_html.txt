@@ -1,0 +1,129 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平广记·卷二百四十五·诙谐一_古诗文网
+</title>
+<meta content="晏婴　东方朔　边韶　袁次阳　伊籍　张裔　张裕　薛综　诸葛恪　费祎　王戎妻　邓艾　安陵人　杨修　孙子荆　蔡洪　陆机晏婴　　齐晏婴短小，使楚。楚为小门于大门侧，乃延晏子。婴不入，曰：使" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11044.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8990" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二百四十五·诙谐一</b></span>
+<a href="javascript:PlayBookv(11044)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11044" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8990)" id="leftbtn8990" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay11044" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89%e3%80%81%e6%89%88%e8%92%99%e3%80%81%e5%be%90%e9%93%89%e7%ad%89">李昉、扈蒙、徐铉等</a></p>
+<div class="contson">
+<p>　　晏婴　东方朔　边韶　袁次阳　伊籍　张裔　张裕　薛综　诸葛恪　费祎　王戎妻　邓艾　安陵人　杨修　孙子荆　蔡洪　陆机</p>
+<p>　　晏婴　　</p>
+<p>　　齐晏婴短小，使楚。楚为小门于大门侧，乃延晏子。婴不入，曰：使狗国，狗门入。今臣使楚，不当从狗门入。王曰：齐无人耶？对曰：齐使贤者使贤王，不肖者使不肖王。婴不肖，故使王耳。王谓左右曰：晏婴辞辩，吾欲伤之。坐定，缚一人来。王问：何谓者。左右曰：齐人坐盗。王视婴曰：齐人善盗乎？对曰：婴闻桔生于江南，至江北为枳。枝叶相似，其实味且不同。水土异也。今此人生于齐，不解为盗。入楚则为盗，其实不同，水土使之然也。王笑曰：寡人反取病焉。（出《启颜录》）</p>
+<p>　　东方朔　　</p>
+<p>　　汉武帝尝问东方朔曰：先生视朕何如主？朔对曰：自唐虞之后，成康之际，未足以喻。臣伏观陛下功德，陈五帝之上，在三王之右。非徒若此而已。诚得天下贤士，公卿在位，咸得其人矣。警若以周邵为丞相，孔丘为御史大夫，太公为将军，毕公高拾遗于后，卞严子为卫尉，皋陶为大理，后稷为司农，伊尹为少府，子贡使外国，彦闵为博士，子夏为太常，益为右扶风，季路为执金吾，契为鸿胪，龙逢为宗正，伯夷为京兆，管仲为冯翊，鲁般为将作，仲山甫为光禄，申伯为太仆，延陵季子为水衡，百里溪为典属国，柳下惠为大长秋，史鱼为司直，孔父为詹事，蘧伯玉为太傅，孙叔敖为诸侯相，王庆忌为期门，子产为郡守，夏育为鼎官，羿为旌头，（羿善射。）宋万为式道侯……上乃大笑，复问：今公孙丞相、儿大夫、董仲舒、夏侯始昌、司马相如、吾仁寿王、主父偃、朱买臣、严助、汲黯、胶仓、终军、严安、徐乐、司马迁之伦，皆辨知闳达，溢于文辞。先生自视。何与比哉？对曰：臣观其函齿牙，树颊胲，（音改。）吐唇吻，擢项颐，结股脚，连脽尻，遗蛇其迹，行步禹旅。臣朔虽不肖，尚兼此数子者。朔之进退澹词，皆此类也。上尝使诸数家射覆，置守宫于盆下。射之，皆不能中。朔自讚曰：臣尝受易，请射之。乃别蓍布卦而对曰：臣以为龙又无角，谓之为蛇又有足。跂跂脉脉善缘壁，非是守宫即蜥蜴。帝曰善，赐帛十匹，复使射他物。连中，辄赐帛。时有幸倡郭舍人滑稽不穷，常侍左右。曰：朔狂幸中耳，非至数也。臣愿令朔复射。朔中之，臣榜百。不能中，臣赐帛。乃覆树上寄生，令朔射之。朔曰：是窭薮也。舍人曰：果知朔不能中也。朔曰：生肉为脍，干肉为脯。著树为寄生，盆下为窭薮。上令倡监榜舍人，舍人不胜痛，呼謈。朔笑之曰：咄，口无毛，声嗷嗷，尻益高。舍人恚曰：朔擅抵欺天子从官，当弃市。上问朔：何故诋之？对曰：臣非敢诋之，乃与为隐耳。上曰：隐云何？朔曰：夫口无毛者，狗窦也。声嗷嗷者，乌哺彀也。尻益高者，鹤俯啄也。舍人不服，因曰：臣愿复问朔隐语，不知亦当榜。即妄为谐语曰：令壶龃，老柏涂，伊优亚，狋吽牙。何谓也？朔曰：令者命也，壶者所以盛也。龃者齿不正也，老者人所敬也。柏者B之廷也，涂者渐洳径也。伊优亚者，辞未穷（穷字原空缺，据明抄本补。）也。狋吽呀者，两犬争也。舍人所问，朔应声辄对，变诈鏠出，莫能穷者。左右大惊。以上朔为常侍郎，遂得爱幸。久之，伏日诏赐从官肉。大官丞日晏不来。朔独拔剑，谓其同官曰：伏日当蚤归，请受赐。即怀肉去。大官奏之。朔入，上曰：昨赐肉，不待诏，以剑割肉而去之。何也？朔免冠谢。上曰：先生起自责。朔再拜曰：朔来朔来，受赐不待诏，何无礼也？拔剑割肉，一何壮也。割之不多，又何廉也。归遗细君。又何仁也。上笑曰：使先生自责，乃反自誉。复赐酒一石，肉百斤，归遗细君。</p>
+<p>　　边韶　　</p>
+<p>　　后汉边韶字孝先，教授数百人。曾昼日假寐，弟子私嘲之曰：边孝先，腹便便，懒读书，但欲眠。孝先潜闻之，应曰：边为姓，孝为字，腹便便，五经笥。但欲眠，思经事。寐与周公通梦，静与孔子同意。师而可嘲，出何典记。嘲者大惭。（原缺出处，明抄本作出《启颜录》）</p>
+<p>　　袁次阳　　</p>
+<p>　　后汉袁次阳妻，扶风马季长女。初婚装遣甚盛，次阳曰：妇奉箕帚而已，何乃过珍丽乎？对曰：慈亲垂爱，不敢违命。君若欲慕鲍宣、梁鸿之高者，妾亦请从少君、孟光之事矣。次阳又问曰：弟先兄举，世以为笑。今处姊未适，先行可乎？曰：妾姊高行殊邈，未遭良匹。不如鄙薄，苟然而已。次阳默然，不能屈。帐外听者为惭。（出《本传》）</p>
+<p>　　伊籍　　</p>
+<p>　　蜀先主以伊籍为左将军从事中郎，使吴。孙权闻其才辨，欲逆折其辞。籍适入拜，权曰：劳事无道之君。籍应声对曰：一拜一起，未足为劳。吴主大惭，无语对。（出《三国志》）</p>
+<p>　　张裔　　</p>
+<p>　　蜀张裔为益州太守，为郡人雍闿缚送孙权。武侯遣邓芝使吴，令言次从权请裔。裔自至吴，流徙伏匿。权未之知，故许芝遣。裔临发，乃引见。问裔曰：蜀卓氏寡女，亡奔相如。贵土风俗，何以乃尔。裔对曰：愚以为卓氏寡女，犹贤于买臣之妻。（出《启颜录》）</p>
+<p>　　张裕　　</p>
+<p>　　刘璋会涪，时张裕为从事，侍坐。其人饶须，先主嘲之曰：吾涿县特多毛姓，东西南北，皆诸毛也。涿令称曰：'诸毛绕涿居乎！裕即答曰：昔有作上党潞长，迁为涿令者，去官还家。时人与书，欲署潞则失涿，署涿则失潞，乃署曰潞涿君。'先主大笑。先主无须，故裕云及之。（《艺文类聚》卷二五引《蜀志》［《蜀志》十二周群传文］文略同，疑出《启颜录》）</p>
+<p>　　薛综　　</p>
+<p>　　吴薛综见（吴薛综见四字原空缺，据黄本补。）蜀使张奉，嘲尚书令阚泽姓名，泽不能答。薛综下行乃云：蜀者何也？有犬为独，无犬为蜀。横目句身，虫入其腹。奉曰：不当复嘲君吴耶？综应声曰：无口为天，有口为吴。君临万邦，天子之都。于是众坐喜笑，而奉无以对也。（出《启颜录》）</p>
+<p>　　诸葛恪　　</p>
+<p>　　诸葛恪对南阳韩文晃，误呼其父字。晃诘之曰：向人子而字父，（而字父三字原空缺，据黄本补。）子为是礼也？恪大笑，答曰：向天穿针而不见者，非不明，意（不明二字原空缺，意原作澺，据黄本补改）有所在耳。孙权使太子嘲恪曰：诸葛元逊食马矢一（矢一二字原空缺，据黄本补。）石。恪答曰：臣得戏君，子得戏父。答曰：明太子未敢。上曰：可。恪（可恪二字原空阙，据黄本补。）曰：乞令太子食鸡卵三百枚。上问恪曰：人令君食马矢，君（矢君二字原空缺，据许本补。）令人食鸡卵，何也？恪答曰：所出同耳。吴主大笑。（出《启颜录》）</p>
+<p>　　费祎　　</p>
+<p>　　孙权尝飨蜀使费祎，逆敕群臣：使至，伏食勿起。祎至，权为辍食，而群下不起。祎嘲云：凤凰来翔，麒麟吐哺；驴骡无知，伏食如故。诸葛恪曰：爱植梧桐，以待凤凰。有何燕鸟，自称来翔。何不弹射，使还故乡。咸称善。（出《启颜录》）</p>
+<p>　　王戎妻　　</p>
+<p>　　晋王戎妻。语戎为卿。戎谓曰：妇那得卿婿，于礼不顺。答曰：我亲卿爱卿，是以卿卿；我不卿卿，谁当卿卿。戎笑遂听。（出《启颜录》）</p>
+<p>　　邓艾　　</p>
+<p>　　邓艾口吃，语称艾艾。晋文王戏之曰：艾艾为是几艾？对曰：凤兮凤兮，故是一凤。（《御览》四六四引作出《语林》，又四六六引作出《世说》，文同）</p>
+<p>　　安陵人　　</p>
+<p>　　晋钟毓兄弟警悟过人，每嘲谑，未尝困踬。尝语会，闻有女善调谑，往观之。于是盛饰共载，行至西门。一女子笑曰：车中央殊高。毓等初不觉，车后门生云：向已被嘲。钟愕然。门生曰：中央高，两头低也，盖言羝也。兄弟多髯故云。</p>
+<p>　　杨修　　</p>
+<p>　　晋杨修九岁，甚聪慧。孔君平诣其父，不在。杨修时为君平设。有果杨梅，君平以示修：此实君家果。应声答曰：未闻孔雀是夫子家禽也。（出《启颜录》）</p>
+<p>　　孙子荆　　</p>
+<p>　　晋孙子荆年少时欲隐，语王武子云：当枕石漱流。误曰漱石枕流。王曰：流可枕，石可漱乎？子荆曰：所以枕流，欲洗其耳；所以漱石，欲砺其齿。（出《世说新语》，明抄本作出《启颜录》）</p>
+<p>　　蔡洪　　</p>
+<p>　　晋蔡洪赴洛，洛中问曰：募府初开，群公辟命。求英奇于仄陋，采贤俊于岩穴。君吴楚之士，亡国之余，有何异才，而应斯举？蔡答曰：夜光之珠，不必出于盟津之河；盈握之璧，不必采于昆仑之山。大禹生于东夷；文王生于西羌。圣贤所出，何必常处。昔武王伐纣，迁顽民于洛邑，诸君得无是其苗裔乎？（出《启颜录》）</p>
+<p>　　陆机　　</p>
+<p>　　陆机诣王武子，武子有百斛羊酪。指以示之曰：卿东吴何以敌此。陆曰：有千里莼羹，未下盐豉耳。机在坐，潘安至，陆便起。安仁曰：清风至，乱物起。陆应声答曰众鸟集。（启出《颜录》）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11043.aspx">上一章</a>
+<a href="/guwen/book_119.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11045.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8990" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

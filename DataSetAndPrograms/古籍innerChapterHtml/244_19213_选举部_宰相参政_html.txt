@@ -1,0 +1,115 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·选举部·宰相参政_古诗文网
+</title>
+<meta content="参政（下丞相一等）历代置相颛顼置乐正。黄帝七辅。汤六傅。伏羲置二相。秦献公置左右二卿，称丞相。庄襄王改相国。唐庄宗置丞相兼枢密。唐中宗始置大学士。五代置文明殿大学士，始为宰相兼职，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19213.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>选举部·宰相参政</b></span>
+<a href="javascript:PlayBookv(19213)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19213" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19213" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　参政（下丞相一等）</p>
+<p>　　<strong>历代置相</strong></p>
+<p>　　颛顼置乐正。黄帝七辅。汤六傅。伏羲置二相。秦献公置左右二卿，称丞相。庄襄王改相国。唐庄宗置丞相兼枢密。唐中宗始置大学士。五代置文明殿大学士，始为宰相兼职，宋真宗置资政殿学士，班翰林上。汉武帝置秘书令，置太史令。汉桓帝置秘书监。唐太宗始置宰相，监修国史。唐德宗始宰相政事，诏迭秉笔。</p>
+<p>　　<strong>通明相</strong></p>
+<p>　　汉翟方进为丞相，智能有余，兼通文法吏事，以儒术缘饰法律，人号通明相。</p>
+<p>　　<strong>澣救时宰相</strong></p>
+<p>　　唐姚崇拜相，问齐澣曰：“予为相，何如管晏？” 澣曰“管晏之法，虽不能施于后世，犹可以终其身。公所为法，随复更之，只可为救时宰相。”</p>
+<p>　　<strong>知大体</strong></p>
+<p>　　汉丙吉不问横道死人，而问牛喘。吏谓失问。吉曰：“宰相不亲细事，民斗伤命，则有司存。方今春月牛喘，恐阴阳失调，宰相职司燮理阴阳，是以问之。”人称其知大体。</p>
+<p>　　<strong>伴食相</strong></p>
+<p>　　唐卢怀慎为相，自以才能不及姚崇，政事皆推委不与，人讥其为伴食宰相。</p>
+<p>　　<strong>纱笼中人</strong></p>
+<p>　　唐卜者胡芦生，卜筮甚验，李藩常问之，生曰：“公乃纱笼中人。”藩不解所以。后有异僧言：凡宰相，冥司必潜以纱笼护之，恐为异物所扰。藩默喜卜者言，果拜相。</p>
+<p>　　<strong>琉璃瓶覆名</strong></p>
+<p>　　五代唐废帝择相，问左右，皆言卢文纪、姚顗有声望。帝因悉书清望官名，纳琉璃瓶中，夜焚香祝天，以箸挟之，得卢文纪，欣然相之。</p>
+<p>　　<strong>金瓯覆名</strong></p>
+<p>　　唐玄宗卜相，皆书其名，纳之金瓯，名曰瓯卜。一曰，书崔琳等名，问太子曰：“此宰相名，若谓谁？”太子曰：“非崔琳、卢从愿乎？”上曰：“然。”</p>
+<p>　　<strong>枚卜</strong></p>
+<p>　　古天子卜相，必书清望官名，纳金瓯或琉璃瓶中，焚香祝天，以箸挟之，得其名，即拜相，故曰枚卜，又曰瓯卜。</p>
+<p>　　<strong>鱼头参政</strong></p>
+<p>　　宋鲁宗道为参政，时枢密使曹利用恃权骄横，公屡折之帝前。时贵戚用事者，莫不惮之，称为鱼头参政。</p>
+<p>　　<strong>骰子选</strong></p>
+<p>　　宋丁谓作参政，或率杨文公贺之，谓曰：“骰子选耳，何足道哉！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19212.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19214.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

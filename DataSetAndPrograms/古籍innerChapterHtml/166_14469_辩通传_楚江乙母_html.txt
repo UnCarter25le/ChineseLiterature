@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+列女传·辩通传·楚江乙母_古诗文网
+</title>
+<meta content="楚大夫江乙之母也。当恭王之时，乙为郢大夫。有入王宫中盗者，令尹以罪乙，请于王而绌之。处家无几何，其母亡布八寻，乃往言于王曰：“妾夜亡布八寻，令尹盗之。”王方在小曲之台，令尹侍焉。王" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14469.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>辩通传·楚江乙母</b></span>
+<a href="javascript:PlayBookv(14469)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14469" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14469" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　楚大夫江乙之母也。当恭王之时，乙为郢大夫。有入王宫中盗者，令尹以罪乙，请于王而绌之。处家无几何，其母亡布八寻，乃往言于王曰：“妾夜亡布八寻，令尹盗之。”王方在小曲之台，令尹侍焉。王谓母曰：“令尹信盗之，寡人不为其富贵而不行法焉。若不盗而诬之，楚国有常法。”母曰：“令尹不身盗之也，乃使人盗之。”王曰：“其使人盗柰何？”对曰：“昔孙叔敖之为令尹也，道不拾遗，门不闭关，而盗贼自息。今令尹之治也，耳目不明，盗贼公行，是故使盗得盗妾之布，是与使人盗何以异也？”王曰：“令尹在上，寇盗在下，令尹不知有何罪焉？”母曰：“吁，何大王之言过也！昔日妾之子为郢大夫，有盗王宫中之物者，妾子坐而绌，妾子亦岂知之哉！然终坐之，令尹独何人，而不以是为过也？昔者周武王有言曰：‘百姓有过，在予一人。’上不明则下不治，相不贤则国不宁。所谓国无人者，非无人也，无理人者也。王其察之。”王曰：“善。非徒讥令尹，又讥寡人。”命吏偿母之布，因赐金十镒，母让金布曰：“妾岂贪货而干大王哉，怨令尹之治也。”遂去，不肯受。王曰：“母智若此，其子必不愚。”乃复召江乙而用之。君子谓乙母善以微喻。诗云：“猷之未远，是用大谏。”此之谓也。</p>
+<p>　　颂曰：江乙失位，乙母动心，既归家处，亡布八寻，指责令尹，辞甚有度，王复用乙，赐母金布。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14468.aspx">上一章</a>
+<a href="/guwen/book_166.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14470.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

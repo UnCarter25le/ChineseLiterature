@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+幼学琼林·卷三·疾病死丧_古诗文网
+</title>
+<meta content="福寿康宁，固人之所同欲；死亡疾病，亦人所不能无。惟智者能调，达人自玉。问人病曰贵体违和，自谓疾曰偶沾微恙。罹病者，甚为造化小儿所苦；患病者，岂是实沈台骀为灾。病不可疗，曰膏肓；平安" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5509.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3809" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·疾病死丧</b></span>
+<a href="javascript:PlayBookv(5509)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5509" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3809)" id="leftbtn3809" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5509" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%a8%8b%e7%99%bb%e5%90%89">程登吉</a></p>
+<div class="contson">
+<p>　　福寿康宁，固人之所同欲；死亡疾病，亦人所不能无。惟智者能调，达人自玉。问人病曰贵体违和，自谓疾曰偶沾微恙。罹病者，甚为造化小儿所苦；患病者，岂是实沈台骀为灾。病不可疗，曰膏肓；平安无事，曰无恙。</p>
+<p>　　采薪之忧，谦言抱病；河鱼之患，系是腹疾。可以勿药，喜其病安；厥疾勿瘳，言其病笃。疟不病君子，病君子正为疟耳；卜所以决疑，既不疑复何卜哉？谢安梦鸡而疾不起，因太岁之在酉；楚王吞蛭而疾乃痊，因厚德之及人。将属纩，将易篑，皆言人之将死；作古人，登鬼箓，皆言人之已亡。亲死则丁忧，居丧则读《礼》。</p>
+<p>　　在床谓之尸，在棺谓之柩。报孝书曰讣，慰孝子曰唁。往吊曰匍匐，庐墓日倚庐。寝苫枕块，哀父母之在土；节哀顺变，劝孝子之惜身。男子死曰寿终正寝，女人死曰寿终内寝。天子死曰崩，诸侯死曰薨，大夫死曰卒，土人死曰不禄，庶人死曰死，童子死曰殇。</p>
+<p>　　自谦父死曰孤子，母死曰哀子，父母俱死曰孤哀子；自言父死曰失怙，母死曰失恃，父母俱死曰失怙恃。父死何谓考，考者成也，已成事业也；母死何谓妣，妣者媲也，克媲父美也。百日内曰泣血，百日外曰稽颡。期年曰小祥，两期曰大祥。不缉曰斩衰，缉之曰齐衰，论丧之有轻重；九月为大功，五月为小功，言服之有等伦。</p>
+<p>　　三月之服曰缌麻，三年将满曰禫礼。孙承祖服，嫡孙杖期；长子已死，嫡孙承重。死者之器曰明器，待以神明之道；孝子之枚曰哀杖，为扶哀痛之躯。父之节在外，故杖取乎竹；母之节在内，故杖取乎桐。以财物助丧家，谓之赙；以车马助丧家，谓之赗；以衣殓死者之身，谓之禭；以玉实死者之口，谓之琀。</p>
+<p>　　送丧曰执绋，出柩曰驾輀。吉地曰牛眠地，筑坟曰马鬣封。墓前石人，原名翁仲；柩前功布，今日铭旌。挽歌始于田横，墓志创于傅奕。生坟曰寿藏，死墓曰佳城。坟曰夜台，圹曰窀穸。已葬曰瘗玉，致祭曰束刍。春祭曰禴，夏祭曰禘，秋祭曰尝，冬祭曰烝。</p>
+<p>　　饮杯棬而抱痛，母之口泽如存；读父书以增伤，父之手泽未泯。子羔悲亲而泣血，子夏哭子而丧明。王裒哀父之死，门人因废《蓼莪》诗；王修哭母之亡，邻里遂停桑柘杜。树欲静而风不息，子欲养而亲不在。皋鱼增感，与其椎牛而祭墓，不如鸡豚之逮存，曾子兴思。故为人子者，当思木本水源，须重慎终追远。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5508.aspx">上一章</a>
+<a href="/guwen/book_70.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5510.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3809" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

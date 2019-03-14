@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+圆觉经·贤善首菩萨_古诗文网
+</title>
+<meta content="于是，贤善首菩萨在大众中，即从座起，顶礼佛足，右绕三匝，长跪叉手，而白佛言：“大悲世尊，广为我等及末世众生，开悟如是不思议事。世尊，此大乘教，名字何等？云何奉持？众生修习得何功德？" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13963.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>贤善首菩萨</b></span>
+<a href="javascript:PlayBookv(13963)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13963" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13963" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9b%e9%99%80%e5%a4%9a%e7%bd%97%e8%af%91">佛陀多罗译</a></p>
+<div class="contson">
+<p>　　于是，贤善首菩萨在大众中，即从座起，顶礼佛足，右绕三匝，长跪叉手，而白佛言：“大悲世尊，广为我等及末世众生，开悟如是不思议事。世尊，此大乘教，名字何等？云何奉持？众生修习得何功德？云何使我护持经人？流布此教至于何地？”作是语已，五体投地，如是三请，终而复始。 </p>
+<p>　　尔时，世尊告贤善首菩萨言：“善哉！善哉！善男子，汝等乃能为诸菩萨及末世众生，问于如来如是经教功德名字。汝今谛听，当为汝说。”时贤善首菩萨奉教欢喜，及诸大众默然而听。 </p>
+<p>　　“善男子，是经百千万亿恒河沙诸佛所说，三世如来之所守护，十方菩萨之所皈依，十二部经清净眼目，是经名《大方广圆觉陀罗尼》，亦名《修多罗了义》，亦名《秘密王三昧》，亦名《如来决定境界》，亦名《如来藏自性差别》，汝当奉持。善男子，是经唯显如来境界，唯佛如来能尽宣说。若诸菩萨及末世众生依此修行，渐次增进至于佛地。善男子，是经名为《顿教大乘》，顿机众生从此开悟，亦摄渐修一切群品。譬如大海不让小流，乃至蚊虻及阿修罗饮其水者，皆得充满。 </p>
+<p>　　“善男子，假使有人纯以七宝，积满三千大千世界以用布施，不如有人闻此经名及一句义。善男子，假使有人教百千恒河沙众生得阿罗汉果，不如有人宣说此经分别半偈。善男子，若复有人闻此经名信心不惑，当知是人非于一佛、二佛种诸福慧，如是乃至尽恒河沙一切佛所种诸善根，闻此经教。汝善男子，当护末世是修行者，无令恶魔及诸外道恼其身心，令生退屈。” </p>
+<p>　　尔时，会中有火首金刚、摧碎金刚、尼蓝婆金刚等八万金刚并其眷属，即从座起，顶礼佛足，右绕三匝，而白佛言：“世尊，若后末世一切众生，有能持此决定大乘，我当守护如护眼目。乃至道场所修行处，我等金刚自领徒众，晨夕守护，令不退转。其家乃至永无灾障，疫病销灭，财宝丰足，常不乏少。” </p>
+<p>　　尔时，大梵天王、二十八天王，并须弥山王、护国天王等，即从座起，顶礼佛足，右绕三匝，而白佛言：“世尊，我亦守护是持经者，常令安隐，心不退转。” </p>
+<p>　　尔时，有大力鬼王名吉槃荼，与十万鬼王，即从座起，顶礼佛足，右绕三匝，而白佛言：“世尊，我亦守护是持经人，朝夕侍卫，令不退屈。其人所居一由旬内，若有鬼神侵其境界，我当使其碎如微尘。” </p>
+<p>　　佛说此经已，一切菩萨、天龙鬼神、八部眷属及诸天王、梵王等，一切大众，闻佛所说，皆大欢喜，信受奉行。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13962.aspx">上一章</a>
+<a href="/guwen/book_156.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

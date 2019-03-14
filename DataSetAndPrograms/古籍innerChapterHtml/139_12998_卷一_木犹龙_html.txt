@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+陶庵梦忆·卷一·木犹龙_古诗文网
+</title>
+<meta content="木龙出辽海，为风涛漱击，形如巨浪跳蹴，遍体多著波纹，常开平王得之辽东，辇至京。开平第毁，谓木龙炭矣。及发瓦砾，见木龙埋入地数尺，火不及，惊异之，遂呼为龙。不知何缘出易于市，先君子以" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12998.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·木犹龙</b></span>
+<a href="javascript:PlayBookv(12998)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12998" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12998" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　木龙出辽海，为风涛漱击，形如巨浪跳蹴，遍体多著波纹，常开平王得之辽东，辇至京。开平第毁，谓木龙炭矣。及发瓦砾，见木龙埋入地数尺，火不及，惊异之，遂呼为龙。不知何缘出易于市，先君子以犀觥十七只售之，进鲁献王，误书“木龙”犯讳，峻辞之，遂留长史署中。先君子弃世，余载归，传为世宝。丁丑诗社，恳名公人赐之名，并赋小言咏之。周墨农字以“木犹龙”，倪鸿宝字以“木寓龙”，祁世培字以“海槎”，王士美字以“槎浪”，张毅儒字以“陆槎”，诗遂盈帙。木龙体肥痴，重千余斤，自辽之京、之兖、之济，由陆。济之杭，由水。杭之江、之萧山、之山阴、之余舍，水陆错。前后费至百金，所易价不与焉。呜呼，木龙可谓遇矣！</p>
+<p>　　余磨其龙脑尺木，勒铭志之，曰：“夜壑风雷，骞槎化石；海立山崩，烟云灭没；谓有龙焉，呼之或出。”又曰：“扰龙张子，尺木书铭；何以似之？秋涛夏云。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12997.aspx">上一章</a>
+<a href="/guwen/book_139.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12999.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

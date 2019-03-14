@@ -1,0 +1,159 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷六·手太阳小肠经_古诗文网
+</title>
+<meta content="手太阳经穴主治《内经》曰：“小肠者，受盛之官，化物出焉。”又云：“小肠为赤肠。”胃之下口，小肠之上口也，在脐上二寸，水谷于是分焉。大肠上口，小肠之下口也。至是而泌别清浊，水液渗入膀" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18880.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·手太阳小肠经</b></span>
+<a href="javascript:PlayBookv(18880)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18880" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18880" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　<strong>手太阳经穴主治</strong></p>
+<p>　　《内经》曰：“小肠者，受盛之官，化物出焉。”又云：“小肠为赤肠。”</p>
+<p>　　胃之下口，小肠之上口也，在脐上二寸，水谷于是分焉。大肠上口，小肠之下口也。至是而泌别清浊，水液渗入膀胱，滓秽流入大肠。</p>
+<p>　　<strong>手太阳小肠经穴歌</strong></p>
+<p>　　手太阳穴一十九，少泽前谷后溪薮，腕骨阳谷养老绳，支正小海外辅肘，肩贞臑俞接天宗，髎外秉风曲垣首，肩外俞连肩中俞，天窗乃与天容偶，锐骨之端上颧髎，听宫耳前珠上走（左右三十八穴）。</p>
+<p>　　此一经起于少泽，终于听宫。取少泽、前谷、后溪、腕骨、阳谷、少海，与井荥俞原经合也。</p>
+<p>　　脉起小指之端，循手外侧上腕，出踝中直上，循臂骨下廉，出肘内侧两骨之间，上循臑外后廉，出肩解，绕肩胛，交肩上，入缺盆，络心，循咽下膈抵胃，属小肠；其支者，从缺盆贯颈上颊，至目锐眦，却入耳中；其支别者，别循颊上雜（雜音拙）抵鼻，至目内眦也。多血少气，未时气血注此。</p>
+<p>　　丙火之腑，脉详左寸。是经之为病也，面白耳前热，苦寒，肩臂廉内外肿痛。沉诊为心，实则脉实，烦满而口舌生疮；浮取小肠，虚则脉虚，懊憹而唇青下白。颔肿不可转，清痰降火；腰折难动履，渗湿利热。倘小便数频，乌药益智丸，用酒煮山药；若精气不固，白茯猪苓和，须蜡化津液。小肠疝气，茴香姜浸入青盐；肾宫精冷，川楝炒成加木破。滑石寒而能治诸淋，沉香温而能行诸气。尿血煮苦苋菜根，血淋煎车前子叶。清泉旋汲饮发灰，薄荷时煎调琥珀。热入小肠为赤带，茴香苦楝当归；邪归大腑变膏淋，滑石金砂甘草。尝考牡蛎石斛补，续随金砂泻。巴戟乌药茴香温，黄芩通草花粉凉。羌活藳本引于</p>
+<p>　　上，黄柏二苓行于下，细阅本草之旨，略为理治之阶，毋执己见，妙在言传。</p>
+<p>　　<strong>手太阳小肠经考正穴法</strong></p>
+<p>　　少泽（一名小吉）：</p>
+<p>　　手小指端外侧，去爪甲角下一分陷中。手太阳小肠脉所出为井金。《素注》灸三壮。《铜人》灸一壮，针一分，留二呼。</p>
+<p>　　主疟寒热，汗不出，喉痹舌强，口干心烦，臂痛瘛瘲，咳嗽，口中涎唾，颈项急不得回顾，目生肤翳复瞳子，头痛。</p>
+<p>　　前谷：</p>
+<p>　　手小指外侧本节前陷中。手太阳小肠脉所溜为荥水。《铜人》针一分，留三呼，灸一壮。《明堂》灸三壮。</p>
+<p>　　主热病汗不出，痎疟癫疾，耳鸣，颈项肿，喉痹，颊肿引耳后，鼻塞不利，咳嗽吐衄，臂痛不得举，妇人产后无乳。</p>
+<p>　　后溪：</p>
+<p>　　手小指外侧本节后陷中，握拳取之。手太阳小肠脉所注为俞木。小肠虚补之。《铜人》针一分，留二呼，灸一壮。</p>
+<p>　　主疟寒热，目赤生翳，鼻衄，耳聋，胸满，颈项强，不得回顾，癫疾，臂肘挛急，痂疥。</p>
+<p>　　腕骨：</p>
+<p>　　手外侧腕前起骨下陷中。手太阳小肠脉所过为原。小肠虚实皆拔之。《铜人》针二分，留三呼，灸三壮。</p>
+<p>　　主热病汗不出，胁下痛不得息，颈颔肿，寒热，耳鸣，目冷泪生翳，狂惕，偏枯，肘不得屈伸，痎疟头痛，烦闷，惊风，瘛瘲，五指掣，头痛。</p>
+<p>　　阳谷：</p>
+<p>　　手外侧腕中，锐骨下陷中。手太阳小肠脉所行为经火。《素注》灸三壮，针二分，留三呼。《甲乙》留二呼。</p>
+<p>　　主癫疾狂走，热病汗不出，胁痛，颈颔肿，寒热，耳聋耳鸣，齿龋痛，臂外侧痛不举，吐舌，戾颈，妄言，左右顾，目眩，小儿瘛瘲，舌强不嗍乳。</p>
+<p>　　养老：</p>
+<p>　　手踝骨前上，一云腕骨后一寸陷中。手太阳郄。《铜人》针三分，灸三壮。主</p>
+<p>　　肩臂酸疼，肩欲折，臂如拔，手不能自上下，目视不明。</p>
+<p>　　支正：</p>
+<p>　　腕后五寸，手太阳络脉，别走少阴。《铜人》针三分，灸三壮。《明堂》灸五壮。</p>
+<p>　　主风虚，惊恐悲愁，癫狂，五劳，四肢虚弱，肘臂挛难屈伸，手不握，十指尽痛，热痛先腰颈酸，喜渴，强项，疣目。实则节弛肘废，泻之，虚则生疣小如指，痂疥，补之。</p>
+<p>　　小海：</p>
+<p>　　肘外大骨外，去肘端五分陷中，屈手向头取之。手太阳小肠脉所入为合土。小肠实泻之。《素注》针二分，留七呼，灸三壮。</p>
+<p>　　主颈颔、肩臑、肘臂外后廉痛，寒热齿龈肿，风眩颈项痛，疡肿振寒，肘腋痛肿，小腹痛，痫发羊鸣，戾颈，瘛瘲狂走，颔肿不可回顾，肩似拔，臑似折，耳聋，目黄，颊肿。</p>
+<p>　　肩贞：</p>
+<p>　　曲胛下两骨解间，肩髎后陷中。《铜人》针五分。《素注》针八分，灸三壮。</p>
+<p>　　主伤寒寒热，耳鸣耳聋，缺盆肩中热痛，风痹，手足麻木不举。</p>
+<p>　　臑俞：</p>
+<p>　　侠肩髃（手阳明穴）后大骨下，胛上廉陷中，举臂取之。手太阳、阳维、阳蹻三脉之会。《铜人》针八分，灸三壮。</p>
+<p>　　主臂酸无力，肩痛引胛，寒热气肿胫痛。</p>
+<p>　　天宗：</p>
+<p>　　秉风后大骨下陷中。《铜人》灸三壮，针五分，留六呼。</p>
+<p>　　主肩臂酸疼，肘外后廉痛，颊颔肿。</p>
+<p>　　秉风：</p>
+<p>　　天髎外肩上小髃后，举臂有空。手太阳、阳明、手足少阳四脉之会。《铜人》灸五壮，针五分。</p>
+<p>　　主肩痛不能举。</p>
+<p>　　曲垣：</p>
+<p>　　肩中央曲胛陷中，按之应手痛。《铜人》灸三壮，针五分，《明堂》针五分。</p>
+<p>　　主肩痹热痛，气注肩胛，拘急痛闷。</p>
+<p>　　肩外俞：</p>
+<p>　　肩胛上廉，去脊三寸陷中。《铜人》针六分，灸三壮。《明堂》灸一壮。</p>
+<p>　　主肩胛痛，周痹寒至肘。</p>
+<p>　　肩中俞：</p>
+<p>　　肩胛内廉，去脊二寸陷中。《素注》针六分，灸三壮。《铜人》针三分，留七呼，灸十壮。</p>
+<p>　　主咳嗽，上气唾血，寒热，目视不明。</p>
+<p>　　天窗（一名窗笼）：</p>
+<p>　　颈大筋间前曲颊下，扶突后动脉应手陷中。《铜人》灸三壮，针三分。《素注》针六分。</p>
+<p>　　主痔瘘、颈痛、肩痛引项不得回顾，耳聋颊肿，喉中痛，暴喑不能言，齿禁中风。</p>
+<p>　　天容：</p>
+<p>　　耳下曲颊后。针一寸，灸三壮。</p>
+<p>　　主喉痹寒热，咽中如梗，瘿颈项痈，不可回顾，不能言，胸痛，胸满不得息，呕逆吐沫，齿噤，耳聋耳鸣。</p>
+<p>　　颧髎：</p>
+<p>　　面頄骨下廉锐骨端陷中。手少阳、太阳之会。《素注》针三分。《铜人》针二分。</p>
+<p>　　主口喎，面赤目黄，眼瞤动不止，雜肿齿痛。</p>
+<p>　　听宫（一名多所闻）：</p>
+<p>　　耳中珠子，大如赤小豆。手足少阳、手太阳三脉之会。《铜人》针三分，灸三壮。《明堂》针一分。《甲乙》针三分。</p>
+<p>　　主失音，癫疾，心腹满，聤耳，耳聋如物填塞无闻，耳中嘈嘈憹憹蝉鸣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18879.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18881.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

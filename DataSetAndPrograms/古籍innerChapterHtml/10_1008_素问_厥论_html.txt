@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·厥论_古诗文网
+</title>
+<meta content="黄帝问曰：厥之寒热者何也？岐伯对曰：阳气衰于下，则为寒厥；阴气衰于下，则为热厥。帝曰：热厥之为热也，必起于足下者何也？岐伯曰：阳气起于足五指之表，阴脉者集于足下，而聚于足心，故阳气" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1008.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left827" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·厥论</b></span>
+<a href="javascript:PlayBookv(1008)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1008" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(827)" id="leftbtn827" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1008" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问曰：厥之寒热者何也？</p>
+<p>　　岐伯对曰：阳气衰于下，则为寒厥；阴气衰于下，则为热厥。</p>
+<p>　　帝曰：热厥之为热也，必起于足下者何也？</p>
+<p>　　岐伯曰：阳气起于足五指之表，阴脉者集于足下，而聚于足心，故阳气盛则足下热也。</p>
+<p>　　帝曰：寒厥之为寒也，必从五指而上于膝者何也？</p>
+<p>　　岐伯曰：阴气起于五指之里，集于膝下而聚于膝上，故阴气盛，则从五指至膝上寒，其寒也，不从外，皆从内也。</p>
+<p>　　帝曰：寒厥何失而然也？</p>
+<p>　　岐伯曰：前阴者，宗筋之所聚，太阴阳明之所合也。春夏则阳气多而阴气少，秋冬则阴气盛而阳气衰。此人者质壮，以秋冬夺于所用，下气上争不能复，精气溢下，邪气因从之而上也；气因于中，阳气衰，不能渗营其经络，阳气日损，阴气独在，故手足为之寒也。</p>
+<p>　　帝曰：热厥何如而然也？</p>
+<p>　　岐伯曰：洒入于胃，则络脉满而经脉虚；脾主为胃行其津液者也，阴气虚则阳气入，阳气入则胃不和，胃不和则精气竭，精气竭则不营其四支也。此人必数醉若饱以入房，气聚于脾中不得散，酒气与谷气相薄，热盛于中，故热偏于身内热而溺赤也。夫酒气盛而慓悍，肾气有衰，阳气独盛，故手足为之热也。</p>
+<p>　　帝曰：厥或令人腹满，或令人暴不知人，或至半日远至一日乃知人者何也？</p>
+<p>　　岐伯曰：阴气盛于上则下虚，下虚则腹胀满；阳气盛于上，则下气重上，而邪气逆，逆则阳气乱，阳气乱则不知人也。</p>
+<p>　　帝曰：善。愿闻六经脉之厥状病能也。</p>
+<p>　　岐伯曰：巨阳之厥，则肿首头重，足不能行，发为（目旬）仆；阳明之厥，则癫疾欲走呼，腹满不得卧，面赤而热，妄见而妄言；少阳之厥，则暴聋颊肿而热，胁痛，（骨行）不可以运；太阴之厥，则腹满（月真）胀，后不利，不欲食，食则呕，不得卧；少阴之厥，则口干溺赤，腹满心痛；厥阴之厥，则少腹肿痛，腹胀，泾溲不利，好卧屈膝，阴缩肿，（骨行）内热。盛则泻之，虚则补之，不盛不虚，以经取之。</p>
+<p>　　太阴厥逆，（骨行）急挛，心痛引腹，治主病者；少阴厥逆，虚满呕变，下泄清，治主病者；厥阴厥逆，挛、腰痛，虚满前闭，谵言，治主病者；三阴俱逆，不得前后，使人手足寒，三日死。太阳厥逆，僵仆，呕血善衄，治主病者；少阳厥逆，机关不利，机关不利者，腰不可以行，项不可以顾，发肠痈不可治，惊者死；阳明厥逆，喘咳身热，善惊，衄，呕血。</p>
+<p>　　手太阴厥逆，虚满而咳，善呕沫，治主病者；手心主、少阴厥逆，心痛引喉，身热死，不可治。手太阳厥逆，耳聋泣出，项不可以顾，腰不可以俛仰，治主病者；手阳明、少阳厥逆，发喉痹、嗌肿，治主病者。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1007.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1009.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right827" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

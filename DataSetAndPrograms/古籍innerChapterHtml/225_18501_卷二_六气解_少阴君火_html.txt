@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷二·六气解·少阴君火_古诗文网
+</title>
+<meta content="热者，少阴君火之所化也。在天为热，在地为火，在人为心。少阴以君火主令，手少阴心，火也，足少阴肾，水也，水火异气，而以君火统之，缘火位于上而生于下。坎中之阳，火之根也。坎阳升则上交离" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18501.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·六气解·少阴君火</b></span>
+<a href="javascript:PlayBookv(18501)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18501" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18501" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　热者，少阴君火之所化也。在天为热，在地为火，在人为心。少阴以君火主令，手少阴心，火也，足少阴肾，水也，水火异气，而以君火统之，缘火位于上而生于下。坎中之阳，火之根也。坎阳升则上交离位而化火，火升于水，是以癸水化气于丁火。水化而为火，则寒从热化，故少阴之气，水火并统，而独以君火名也。</p>
+<p>　　君火虽降于手，而实升于足。阳盛则手少阴主令于上，而癸水亦成温泉；阴盛则足少阴司气于下，而丁火遂为寒灰。以丁火虽司气化，而制胜之权，终在癸水，所恃者，生土以镇之。但土虽克水，而百病之作，率由土湿，湿则不能克水而反被水侮。土能克水者，惟伤寒阳明承气一证，其余则寒水侮土者，十九不止。土溃则火败，故少阴一病，必寒水泛滥而火土俱负，其势然也。</p>
+<p>　　至于上热者，此相火之逆也。火中有液，癸水之根，相火上逆，灾及宫城，心液消亡，是以热作。凡少阴病热，乃受累于相火，实非心家之过。而方其上热，必有下寒，以水火分离而不交也。见心家之热，当顾及肾家之寒。盖水火本交，彼此相交，则为一气，不交则离析分崩，逆为冰炭。究之火不胜水，则上热不敌下寒之剧，不问可知也。</p>
+<p>　　血根于心而藏于肝，气根于肾而藏于肺。心火上热，则清心家之血；肾水下寒，则暖肾家之气。故补肝之血则宜温，补心之血则宜清，补肺之气则宜凉，补肾之气则宜暖，此定法也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18500.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18502.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

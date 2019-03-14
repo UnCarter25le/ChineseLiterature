@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄庭经·外景·上部经_古诗文网
+</title>
+<meta content="老君闲居作七言，解说身形及诸神，上有黄庭下关元，后有幽阙前命门， 呼吸庐间入丹田，玉池清水灌灵根，审能修之可长存，黄庭中人衣朱衣， 关元茂龠阖两靡，幽阙侠之高巍巍，丹田之中精气微，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14003.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>外景·上部经</b></span>
+<a href="javascript:PlayBookv(14003)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14003" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14003" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　老君闲居作七言，解说身形及诸神，上有黄庭下关元，后有幽阙前命门， </p>
+<p>　　呼吸庐间入丹田，玉池清水灌灵根，审能修之可长存，黄庭中人衣朱衣， </p>
+<p>　　关元茂龠阖两靡，幽阙侠之高巍巍，丹田之中精气微，玉池清水上生肥， </p>
+<p>　　灵根坚固老不衰，中池有士服赤衣，横下三寸神所居，中外相距重闭之， </p>
+<p>　　神庐之中当修治，玄府气管受精府，急固子精以自持，宅中有士常衣绎， </p>
+<p>　　子能见之可不病，横立长尺约其上，子能守之或无惹，呼吸庐间以自偿， </p>
+<p>　　子保完坚身受庆，方寸之中谨盖藏，精神还归老复壮，心结幽厥流下竞， </p>
+<p>　　养子玉树令可壮，至道不烦无旁午，灵台通天临中野，方寸之中间关下， </p>
+<p>　　玉房之中神门户，既是公子教我者，明堂四达法海源，真人子丹当吾前， </p>
+<p>　　三关之中精气深，子欲不死修昆仑，绎官重楼十二环，琼室之中五色集， </p>
+<p>　　赤神之子中池立，下有长城玄谷邑，长生要慎房中急，弃捐淫欲专子精， </p>
+<p>　　寸田尺宅可治生，系子长留心安宁，推志游神三奇灵，行间无事心太平， </p>
+<p>　　常存玉房神明达，时思太仓不饥渴，役使六丁玉女渴，闭子精门可长活， </p>
+<p>　　正室堂前神所舍，洗心自治无败污，历观五脏视节度，六府修治洁如素， </p>
+<p>　　虚无自然道之固，物有自然道不烦，垂拱无为身体安，虚无之居在帏间， </p>
+<p>　　寂寞郭然口不言，修和独立真人官，恬淡无欲游德园，清净香洁玉女前， </p>
+<p>　　修德明达神之门。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14002.aspx">上一章</a>
+<a href="/guwen/book_158.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14004.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

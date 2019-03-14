@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·石部·硝石_古诗文网
+</title>
+<meta content="释名亦名硭硝、苦硝、焰硝、火硝、地霜、生硝、北帝玄珠。气味苦、寒、无毒。李明珍认为：应该是辛、苦、大温、无毒。主治头痛欲死。以硝石末吹鼻内，即愈。心腹痛。以硝石、雄黄各一钱，研细。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1494.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>石部·硝石</b></span>
+<a href="javascript:PlayBookv(1494)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1494" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1494" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>亦名硭硝、苦硝、焰硝、火硝、地霜、生硝、北帝玄珠。</p>
+<p><strong>气味</strong><br/>苦、寒、无毒。李明珍认为：应该是辛、苦、大温、无毒。</p>
+<p><strong>主治</strong><br/>头痛欲死。以硝石末吹鼻内，即愈。<br/>心腹痛。以硝石、雄黄各一钱，研细。每点少许在眼眶内，即愈。此方名“火龙丹”。<br/>腰腹痛。也用火龙丹。<br/>眼红肿痛。用硝石研细，卧时取黍米大点眼眶内。次早，盐水洗去。<br/>眼目障翳。用硝石一两，熔于铜器中，加水飞过的铅丹二分、片脑二分。点眼。<br/>喉痹。用硝石一两半、白僵蚕一钱、硼砂半两、脑子少许，共研细，吹喉内。<br/>伏暑泻痢，肠风下血。用硝石、硫磺各一两，白矾、滑石各半两，面粉四两，共研细，滴水做成丸子，如梧子大。每服三十至五十丸。清水送下。<br/>五种淋疾(一、劳淋：劳倦虚损，小便不通，小腹急痛。二、血淋：小便不出，只是下血，疼痛满急。三、热淋：小便红热，脐下急痛。四、气淋：小腹满急，尿后常有余滴。五、石淋：尿不能出，只下石砂，小腹胀痛)。用上等硝石一两，研细，每服二钱。劳淋者，用葵子末煎汤送下，通后应服补虚丸散。血淋者，热淋者，都有冷水送下。气淋者，用木通煎汤送下。石淋者，用温水送下，但须先将药末在锅内隔纸炒过。此方名“透格散”。一般小便不通者。也可服透格散，小麦汤送下。<br/>背疽初起(恶寒，背上现疮肿瘾疹)。用硝石三两，溶开水一升中泡化。然后以厚毛巾浸水拧干 在患处。巾冷再换。<br/>女劳黑疸(傍晚时便恶寒发热，膀胱急，小腹满，全身发黄，只是额头黑，故称“黑疸”)。用硝石、矾石(烧过)，等分为末，每服一茶匙，大麦汁送下。一日服三次。服后，如小便变黄，小便变黑，即为将愈之象。</p>
+<p><strong>附方</strong><br/>硝石初煎炼时，有细芒，状如朴硝，因此也有“硭硝”之名。与来源于朴硝的硭硝是不同类的东西。(按硝石的主要成分是硝酸钾，朴硝的主要成分是硫酸钠。)</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1493.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1495.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

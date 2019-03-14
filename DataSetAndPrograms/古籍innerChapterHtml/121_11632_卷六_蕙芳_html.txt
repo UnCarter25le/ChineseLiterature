@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷六·蕙芳_古诗文网
+</title>
+<meta content="马二混，居青州东门内，以货面为业。家贫无妇，与母共作苦。一日，媪独居，忽有美人来，年可十六七，椎布甚朴，光华照人。媪惊诘之，女笑曰：“我以贤郎诚笃，愿委身母家。”媪益惊曰：“娘子天" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11632.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·蕙芳</b></span>
+<a href="javascript:PlayBookv(11632)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11632" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11632" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　马二混，居青州东门内，以货面为业。家贫无妇，与母共作苦。一日，媪独居，忽有美人来，年可十六七，椎布甚朴，光华照人。媪惊诘之，女笑曰：“我以贤郎诚笃，愿委身母家。”媪益惊曰：“娘子天人，有此一言，则折我母子数年寿！”女固请之，媪拒益力，女去。越三日复来，留连不去。问其姓氏，曰：“母肯纳我，我乃言；不然，无庸问。”媪曰：“贫贱佣保骨，得妇如此，不称亦不祥。”女笑坐床头，恋恋殊殷。媪辞之曰：“娘子宜速去，勿相祸。”女出门，媪窥之西去。</p>
+<p>　　又数日，西巷中吕媪来，谓母曰：“邻女董蕙芳，孤而无依，自愿为贤郎妇，胡勿纳？”母以所疑为逃亡具白之。吕曰：“乌有是？如有乖谬，咎在老身。”母大喜，诺之。吕去，媪扫室布席，将待子归往娶之。日将暮，女飘然自至，入室参母，起拜尽礼。告媪曰：“妾有两婢，未得母命，不敢进也。”媪曰：“我母子守穷庐，不解役婢仆。日得蝇头利，仅足自给。今增新妇一人，娇嫩坐食，尚恐不充饱；益之二婢，岂吸风所能活耶？”女笑曰：“婢来，亦不费母度支，皆能自食。”问：“婢何在？”女乃呼：“秋月、秋松！”声未及已，忽如飞鸟堕，二婢已立于前，即令伏地叩母。</p>
+<p>　　既而马归，母迎告之，马喜。入室，见翠栋雕梁，侔于宫殿，几屏帘幕，光耀夺目。惊极，不敢入。女下床迎笑，睹之若仙，益骇，却退，女挽之，坐与温语。马喜出非分，形神若不相属。即起，欲出行沽，女曰：勿须。”因命二婢治具。秋月出一革袋，执向扉后，掿掿撼摆之。已而以手探入，壶盛酒，柈盛炙，触类熏腾。饮已而寝，则花罽锦裀，温腻非常。</p>
+<p>　　天明出门，则茅庐依旧。母子共奇之。媪诣吕所，将迹所由。入门，先谢其媒合之德，吕讶云：“久不拜访，何邻女之曾托乎？”媪益疑，具言端委。吕大骇，即同媪来视新妇。女笑迎之。极道作合之义。吕见其惠丽，愕眙良久，即亦不辨，唯唯而已。女赠白木搔具一事，曰：“无以报德，姑奉此为姥姥爬背耳。”吕受以归，审视则化为白金。</p>
+<p>　　马自得妇，顿更旧业，门户一新。笥中貂锦无数，任马取着，而出室门，则为布素，但轻暖耳。女所自衣亦然。积四五年，忽曰：“我谪降人间十余载，因与子有缘，遂暂留止。今别矣。”马苦留之，女曰：“请别择良偶以承庐墓，我岁月当一至焉。”忽不见。马乃娶秦氏。后三年，七夕，夫妻方共语，女忽入，笑曰：“新偶良欢，不念故人耶？”马惊起，怆然曳坐，便道衷曲。女曰：“我适送织女渡河，乘间一相望耳。”两相依依，语勿休止。忽空际有人呼“蕙芳”，女急起作别。马问其谁，曰：“余适同双成姊来，彼不耐久伺矣。”马送之，女曰：“子寿八旬，至期，我来收尔骨。”言已遂逝。今马六十余矣。其人但朴讷，无他长。</p>
+<p>　　异史氏曰：“马生其名混，其业亵，蕙芳奚取哉？于此见仙人之贵朴讷诚笃也。余尝谓友人曰：若我与尔，鬼狐且弃之类。所差不愧于仙人者，惟‘混’耳。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11631.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11633.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

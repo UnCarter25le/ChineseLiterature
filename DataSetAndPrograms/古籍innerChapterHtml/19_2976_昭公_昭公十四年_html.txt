@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·昭公·昭公十四年_古诗文网
+</title>
+<meta content="【经】十有四年春，意如至自晋。三月，曹伯滕卒。夏四月。秋，葬曹武公。八月，莒子去疾卒。冬，莒杀其公子意恢。 【传】十四年春，意如至自晋，尊晋罪己也。尊晋、罪己，礼也。 南蒯之将叛也" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2976.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1507" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>昭公·昭公十四年</b></span>
+<a href="javascript:PlayBookv(2976)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2976" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1507)" id="leftbtn1507" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2976" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】十有四年春，意如至自晋。三月，曹伯滕卒。夏四月。秋，葬曹武公。八月，莒子去疾卒。冬，莒杀其公子意恢。 </p>
+<p>　　【传】十四年春，意如至自晋，尊晋罪己也。尊晋、罪己，礼也。 </p>
+<p>　　南蒯之将叛也，盟费人。司徒老祁、虑癸伪废疾，使请于南蒯曰：「臣愿受盟而疾兴，若以君灵不死，请待间而盟。」许之。二子因民之欲叛也，请朝众而盟。遂劫南蒯曰：「群臣不忘其君，畏子以及今，三年听命矣。子若弗图，费人不忍其君，将不能畏子矣。子何所不逞欲？请送子。」请期五日。遂奔齐。侍饮酒于景公。公曰：「叛夫？」对曰：「臣欲张公室也。」子韩皙曰：「家臣而欲张公室，罪莫大焉。」司徒老祁、虑癸来归费，齐侯使鲍文子致之。</p>
+<p>　　夏，楚子使然丹简上国之兵于宗丘，且抚其民。分贫，振穷；长孤幼，养老疾，收介特，救灾患，宥孤寡，赦罪戾；诘奸慝，举淹滞；礼新，叙旧；禄勋，合亲；任良，物官。使屈罢简东国之兵于召陵，亦如之。好于边疆，息民五年，而后用师，礼也。 </p>
+<p>　　秋八月，莒着丘公卒，郊公不戚。国人弗顺，欲立着丘公之弟庚舆。蒲余侯恶公子意恢而善于庚舆，郊公恶公子铎而善于意恢。公子铎因蒲余侯而与之谋曰：「尔杀意恢，我出君而纳庚舆。」许之。 </p>
+<p>　　楚令尹子旗有德于王，不知度。与养氏比，而求无厌。王患之。九月甲午，楚子杀斗成然，而灭养氏之族。使斗辛居郧，以无忘旧勋。</p>
+<p>　　冬十二月，蒲余侯兹夫杀莒公子意恢，郊公奔齐。公子铎逆庚舆于齐。齐隰党、公子锄送之，有赂田。 </p>
+<p>　　晋邢侯与雍子争赂田，久而无成。士景伯如楚，叔鱼摄理，韩宣子命断旧狱，罪在雍子。雍子纳其女于叔鱼，叔鱼蔽罪邢侯。邢侯怒，杀叔鱼与雍子于朝。宣子问其罪于叔向。叔向曰：「三人同罪，施生戮死可也。雍子自知其罪而赂以买直，鲋也鬻狱，刑侯专杀，其罪一也。己恶而掠美为昏，贪以败官为墨，杀人不忌为贼。《夏书》曰：『昏、墨、贼，杀。』皋陶之刑也。请从之。」乃施邢侯而尸雍子与叔鱼于市。 </p>
+<p>　　仲尼曰：「叔向，古之遗直也。治国制刑，不隐于亲，三数叔鱼之恶，不为末减。曰义也夫，可谓直矣。平丘之会，数其贿也，以宽卫国，晋不为暴。归鲁季孙，称其诈也，以宽鲁国，晋不为虐。邢侯之狱，言其贪也，以正刑书，晋不为颇。三言而除三恶，加三利，杀亲益荣，犹义也夫！」 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2975.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2977.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1507" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

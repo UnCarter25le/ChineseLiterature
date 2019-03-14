@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十二·造微论_古诗文网
+</title>
+<meta content="两仪肇辟。六甲攸生。将三元而作三才，建四时而为四柱。干为禄本，定一生职位高低。支作命基，布三限寿元终始。年生为根，月建为苗。日管经营，断中年之休咎。时为结果，定晚岁之荣枯。先推胎息" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16707.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十二·造微论</b></span>
+<a href="javascript:PlayBookv(16707)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16707" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16707" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>两仪肇辟。六甲攸生。<br/>将三元而作三才，建四时而为四柱。<br/>干为禄本，定一生职位高低。<br/>支作命基，布三限寿元终始。<br/>年生为根，月建为苗。<br/>日管经营，断中年之休咎。<br/>时为结果，定晚岁之荣枯。<br/>先推胎息之由，次入变通之道。<br/>为官为贵，缘上下以咸和。<br/>多滞多危，本根元而相克。是故：<br/>格清局正，当为台阁之臣。<br/>印旺官生，必秉钧衡之任。<br/>马头带剑，威镇边疆。<br/>印绶逢华，尊居翰苑。<br/>禄虽多而有害，福不为祥。<br/>煞虽重而无伤，凶不为祸。<br/>三奇弗遇，才高难解成名。<br/>六合正逢，家富又能增业。<br/>空亡亲於其宿，孤独龙钟。<br/>长生陷於空亡，贫寒偃蹇。<br/>桃花若逢帝座，因色亡身。<br/>咸池更会日宫，缘妻致富。<br/>根元浅薄，逢生旺而不荣。<br/>本主兴隆，遇休困而反吉。<br/>羊刃临於五鬼，定须重犯徙流。<br/>勾绞叠於三刑，应是频遭编配。是以：<br/>登仕途者，莫逢吞啗，爵禄亏停。<br/>当兵权者，勿遇天中，身权退失。<br/>胸襟澄澈，盖因水济江湖。<br/>学问渊源，本是水居壬癸。<br/>慈祥恺悌，木乘甲乙之乡。<br/>焦燥暴恶，火盛丙丁之地。<br/>名高禄重，乾金早会庚辛。<br/>贯朽粟陈，镇土重亲戊己。<br/>木繁而无金斲削，纵荣而末岁孤穷。<br/>火炎而无水陶熔，虽发而早年夭折。<br/>粤若水之浮泛，惟凭土以堤防。<br/>土重而无木疏通，逐归愚浊。<br/>金坚而无火锻炼，终是凶顽。<br/>至若金脆火炎，多则损己。<br/>木柔金重，利则伤身。<br/>水清不假土多，土弱不禁木盛。<br/>火强燥而微眇，水既济以宽和。<br/>须将匀配为佳，亦以均调为上。<br/>大显者，贵乎深隐。<br/>大屈者，贵乎卑伸。<br/>寿永年高，皆是禄临帝旺。<br/>职崇位显，为缘马会官星。<br/>华盖逢空，偏宜僧道。<br/>学堂遇贵，惟利师儒。<br/>五行若也萧索，三命因而低弱。<br/>日逢空寡，其妻多致生离。<br/>时值空虚，其子纵有不肖。<br/>绝宫为鼓盆之煞，胎宫为白虎之神。<br/>天空临嗣续之官，末岁损成家之子。<br/>运逢吉宿，无本主，则未足欢娱。<br/>限守凶神，有根苗，则不须畏惧。<br/>岁君若临恶曜，一岁迍邅。<br/>生时若遇休囚，一生愁叹。<br/>源清者，其流必远。<br/>本浊者，所作无成。<br/>八字超群，不贵即当大富。<br/>五行驳杂，居安可不虑危。<br/>休囚者，身性卑微。<br/>旺相者，名利壮实。<br/>先强後弱，必先吉而後凶。<br/>始弱终强，亦始凶而终吉。乃若：<br/>初逢贵吉，未可便作贵推。<br/>中遇凶强，岂可便作凶兆。<br/>大抵文贵要长生之地，刑煞宜死绝之宫。<br/>是以当忧不忧，闻喜不喜，详其本末，察其盈虚。<br/>荣辱穷通，不言而喻；吉凶悔吝，可考而知。<br/>名曰《造微》，岂云小补？</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16706.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16708.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·经别_古诗文网
+</title>
+<meta content="黄帝问于歧伯曰：余闻人之合于天道也，内有五脏，以应五音、五色、五时、五味、五位也；外有六腑，以应六律。六律建阴阳诸经而合之十二月、十二辰、十二节、十二经水、十二时、十二经脉者，此五" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1055.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left879" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·经别</b></span>
+<a href="javascript:PlayBookv(1055)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1055" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(879)" id="leftbtn879" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1055" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问于歧伯曰：余闻人之合于天道也，内有五脏，以应五音、五色、五时、五味、五位也；外有六腑，以应六律。六律建阴阳诸经而合之十二月、十二辰、十二节、十二经水、十二时、十二经脉者，此五脏六腑之所以应天道。夫十二经脉者，人之所以生，病之所以成，人之所以治，病之所以起，学之所始，工之所止也。粗之所易，上之所难也。请问其离合，出入奈何？</p>
+<p>　　歧伯稽首再拜曰：明乎哉问也！此粗之所过，上之所息也，请卒言之。</p>
+<p>　　足太阳之正，别入于腘中，其一道下尻五寸，别入于肛，属于膀胱，散之肾，循膂，当心入散；直者，从膂上出于项，复属于太阳此为一经也。</p>
+<p>　　足少阴之正至腘中，别走太阳而合，上至肾，当十四椎出属带脉；直者，系舌本，复出于项，合于太阳此为一合。成以诸阴之别，皆为正也。</p>
+<p>　　足少阳之正，绕髀入毛际，合于厥阴，别者入季胁之间，循胸里属胆，散之上肝，贯心以上挟咽，出颐颔中，散于面，系目系，合少阳于外眦也。</p>
+<p>　　足厥阴之正，别跗上，上至毛际，合于少阳，与别俱行，此为二合也。</p>
+<p>　　足阳明之正，上至髀，入于腹里属胃，散之牌，上通于心上循咽出于口，上頞颅，还系目系，合于阳明也。足太阴之正，上至髀，合于阳明，与别俱行，上结于咽，贯舌中，此为三合也。</p>
+<p>　　足太阴之正，上至髀，合于阳明，与别俱行，上结于于咽，贯舌中，此为三合也。</p>
+<p>　　手太阳之正，指地，别于肩解，入腋走心，系小肠也。</p>
+<p>　　手少阴之正，别入于渊腋两筋之间，属于心，上走喉咙，出于面，合目内眦，此为四合也。</p>
+<p>　　手少阳之正，指天，别于巅，入缺盆，下走三焦，散于胸中也。</p>
+<p>　　手心主之正，别入渊腋三寸，入胸中，别属三焦，出循喉咙，出耳后，合少阳完骨之下，此为五合也。</p>
+<p>　　手阳明之正，从手循膺乳，别于肩髃，入柱骨下走大肠，属于肺，上循喉咙，出缺盆，合于阳明也。</p>
+<p>　　手太阴之正，别入渊腋少阴之前，入走肺，散之太阳，上出缺盆，循喉咙，复合阳明，此六合也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1054.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1056.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right879" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

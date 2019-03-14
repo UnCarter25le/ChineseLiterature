@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+何博士备论·五代论_古诗文网
+</title>
+<meta content="唐以陵夷蹙弱，遂亡天下，而真主未兴，五代之君遂相攘取，朝获暮失，合其世祀，不数十年。自古有国，成败得丧，未有如此之亟者。然窃观之，莫不皆有所以必至之理也。梁祖起于宛朐群盗之党，已而" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20170.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>五代论</b></span>
+<a href="javascript:PlayBookv(20170)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20170" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20170" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%95%e5%8e%bb%e9%9d%9e">何去非</a></p>
+<div class="contson">
+<p>　　唐以陵夷蹙弱，遂亡天下，而真主未兴，五代之君遂相攘取，朝获暮失，合其世祀，不数十年。自古有国，成败得丧，未有如此之亟者。然窃观之，莫不皆有所以必至之理也。</p>
+<p>　　梁祖起于宛朐群盗之党，已而挟听命之唐，鞭笞天下，以收神器，亦可谓一时之奸雄。然及其衰暮，而河、汾李氏基业已大，固当气吞而志灭之矣。借使不遂及于子祸，则其后嗣有足以为庄宗之抗哉？此梁之亡不待旋踵也。后唐武皇假平仇之忠义，发迹阴山，转战千里，奄践汾晋。及其子庄宗，以兵威霸业，遂夷梁室而王天下，可谓壮矣。然天下略定，强臣骄卒遂至不制，一倡而叛之。不及反顾，而天下遂归于明宗。至于末帝所以失天下者，犹庄宗也。夫以新造未安之业，而有强臣骄兵以乘其失政，其能自立于天下乎？晋人挟震主之威，乘衅而起，君父契丹，假其兵力以收天下，易若反掌。一朝嗣主孱昏肆虐，而北人骄功恃强，殚耗天下不足以充其要取之欲，乃负反之。及其所以蒙祸辱者，不可胜言。观其所以自托而起者如此，则晋安得而后亡哉？汉祖承兵戈扰践之余、生灵无所制命，起视天下复无英雄，慨然投袂而作者，乃建号而应之。而天下之人无所归往，亦皆俯首听役于汉。然一旦委裘，而强臣世室已不为幼子下矣。故不胜其忿，起而图之，侥幸于一决。而周人抗命，卒无以御之，而至于亡。周之太祖、世宗，皆所谓一时之雄。而世宗英特之姿，有足以居天下而自立者。然降年不永，孺子不足当天之眷命。而真人德业日隆，已为天下之所归戴，则其重负安得而不释哉？由是观之，自梁以迄于周，其兴亡得丧，世祀如此，安足怪哉？皆有所以必至之理也。</p>
+<p>　　又尝究之，若唐之庄宗与夫末帝，皆以雄武壮决转斗无前，摧夷强敌，卒收天下而王之，非夫孱昏不肖者也。然明宗之旅变于邺下，晋祖之甲倡于并门。彼二王者，乃低摧悸迫，儿女悲涕，垂颐拱手，以需死期，无复平日万分之一者，何也？有强臣骄兵以制其命。唯至乎此，始悟其身之孤弱，无以自救之也。</p>
+<p>　　夫以功就天下者，常有强臣；以力致天下者，常有骄兵。臣非故强也，恃勋赏之积而卒至于强；兵非故骄也，恃战役之勤而卒至于骄。故古者拨乱定倾之主，不忧天下大计之不集，而深虞大臣之或强、战士之或骄。故常先事而董治之，使其操制常在于我。是以天下既集，而国家安强；举而遗之冲人弱息，而变故不作。彼以乱继乱者则不然：方其图天下之即集也，日责功于将，而责战于士。责功之亟，则凡所以酬将者未尝恤，其或至于强；责战之切，则凡所以抚士者未尝病，其或至于骄。是以天下略定，强臣倚骄兵而睥睨，骄兵挟强臣而冀望。一旦相与起而迫之，反视其身，彷徨孤立，而大事且去。则虽有平日壮决之气，持是而安归哉？此唐之庄宗、末帝所以失天下者，由此故也。嗟乎！图天下于亟集，而不计其既集之利害者，终亦亟亡而已矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20169.aspx">上一章</a>
+<a href="/guwen/book_280.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

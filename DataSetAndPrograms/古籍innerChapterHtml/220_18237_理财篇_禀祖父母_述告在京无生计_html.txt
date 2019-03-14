@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·理财篇·禀祖父母·述告在京无生计_古诗文网
+</title>
+<meta content="孙男国藩跪禀祖父大人万福金安，六月初五日，接家信一封，系四弟初十日在省城发，得悉一切，不胜欣慰！孙国藩日内身体平安，国荃于什日微受暑热，服药一帖，次日即愈。初三日复患腹泻，服药二帖" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18237.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>理财篇·禀祖父母·述告在京无生计</b></span>
+<a href="javascript:PlayBookv(18237)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18237" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18237" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　孙男国藩跪禀</p>
+<p>　　祖父大人万福金安，六月初五日，接家信一封，系四弟初十日在省城发，得悉一切，不胜欣慰！孙国藩日内身体平安，国荃于什日微受暑热，服药一帖，次日即愈。初三日复患腹泻，服药二帖，即愈，曾孙甲三于廿三日腹泻不止，比请郑小珊诊治，次日添请吴竹如，皆云系脾虚而并受暑气，三日内服药六贴，亦无大效，廿六日添请本京王医，专服凉药渐次平复。初一二两日未吃药，刻下病已好，惟脾元尚亏，体尚未复。孙等自知细心调现，观其行走如常，饮食如常，不吃药即可复体，堂上不必挂念。长孙妇身体亦好，婢仆如旧。</p>
+<p>　　同乡梅霖生病，于五月中旬，日日加重，十八日上床，廿五日子时仙逝。胡云阁先生亦同日同时同刻仙逝。梅霖生身后一切事宜，系陈岱云黎樾乔与孙三人料理。戊戌同年，赙仪共五百两，吴甄甫夫子（戊戌总裁）进京，赙赠百两，将来一概，共可张罗千余金。计京中用费，及灵枢回南途费，不过用四百金，其余尚可周恤遗孤。</p>
+<p>　　自五月下旬以至六月初，诸事殷繁，孙荃亦未得读书。六月前寄文来京，尚有三篇，孙未暇改。广东事已成功，由军功升官及戴花蓝翎者，共二百余人，将上谕抄回前半节，其后半载升官人名，未及全抄，昨接家信，始知楚善八叔竹山湾田，已于去冬归祖父大人承买，八叔之家稍安，而我家更窘迫，不知祖父如何周停？去冬今年，如何设法？望于家信内详示。孙等在京，别无生计，大约冬初即须借账，不能务仰事之资寄回，不胜愧悚！余容续禀，即禀祖父母大人万福金安。孙跪禀。（道光二十一年六月初七日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18236.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18238.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

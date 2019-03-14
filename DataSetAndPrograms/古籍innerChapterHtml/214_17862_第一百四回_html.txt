@@ -1,0 +1,114 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+小八义·第一百四回_古诗文网
+</title>
+<meta content="秀英翠屏叙别情　团聚喜贺庆诗曰：夫妻分别复又合　离散多日死中活秀英投河李公救　贵人必要受磨折难满灾消得相见　破镜重圆相难得景隆公子登金榻　迷天之仇当殿说话说阮英听着李公说明：“我的" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17862.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第一百四回</b></span>
+<a href="javascript:PlayBookv(17862)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17862" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17862" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%8a%e9%97%b2%e5%b1%85%e5%a3%ab">半闲居士</a></p>
+<div class="contson">
+<p>　　<strong>秀英翠屏叙别情　团聚喜贺庆</strong></p>
+<p>　　诗曰：</p>
+<p>　　夫妻分别复又合　离散多日死中活</p>
+<p>　　秀英投河李公救　贵人必要受磨折</p>
+<p>　　难满灾消得相见　破镜重圆相难得</p>
+<p>　　景隆公子登金榻　迷天之仇当殿说</p>
+<p>　　话说阮英听着李公说明：“我的冤枉，多亏我表兄吕刚回奏明於于圣上，保我无事，官司完结。老夫回家，问女儿你怎么能逃出相府呢？我女儿对我说，多亏他夫君有一位盟弟，名叫猴子阮英，此人本领出众，武艺高强，有飞檐走壁之能，他把蔡猛眼睛射瞎了一只，又将我儿救出龙潭虎穴。”李公说：“原来你就是阮壮士。你今来了，那就好找周公子的下落。”阮英说：“不用找，周公子来了。”李公说：“他在哪里？快请来相见，省的我女儿诸日忧愁。”阮英用手指道：“这位就是周公子了。”</p>
+<p>　　阮英一指说请观　他是公子在面前　李公摇头说不对这位姓陈休胡言　阮英说是改了姓　皆因科考到这边他与奸相有仇报　不准周姓来作官　为入考场改了姓所以如此是这般　李公闻听将头点　可恨奸相心太偏景隆公子忙跪倒　多蒙大人恩如山　李公伸手忙拉起盼你度日却如年　今日幸而你来了　老夫我也添喜欢等我去见他母女　将你之事说周全　阮英站起又说道还有二人在外边</p>
+<p>　　李公拉起周公子，满心欢喜道：“老夫先到里边对她母子说明，再请公子相见。”阮英说：“门外还有二人等候呢。”李公说道：“同请进来。”</p>
+<p>　　阮英说：“梁氏嫂嫂她也能认识此人，是郑翠屏姐弟两位。”梁氏秀英知道后喜欢不尽，老夫人带领小姐家使仆妇跟随在后。李公吩咐李忠，急带出去请进姐弟二人。管家答应一声，来到大门，对着郑翠屏说道：“我家老爷、夫人、小姐讲二位入内相见。”</p>
+<p>　　郑氏翠屏闻此言　管家慌忙接过来　姐弟二人抬头看李公阮英来门前　阮英引见翠屏妇　李公面前来问安翠屏梦熊忙行礼　李公留神仔细瞧　千姣百媚如花玉沉鱼落雁似天仙　好位俊俏多姣女　闭月羞花一样般又看梦熊多威武　真是当世一魁元　李公看罢往里请梦熊请至到外边　翠屏请到二门内　梁氏秀英即向前看见翠屏心欢悦　伸手拉住泪连连　自从上阵不见你我们无奈下了山</p>
+<p>　　话说梁氏秀英见了郑翠屏，叫道：“妹妹，你可想死我了。”眼中落泪。</p>
+<p>　　郑翠屏双膝跪倒行礼，梁秀英急忙将郑翠屏扶起说：“你我姊妹不必行此大礼。”二人又悲又喜，悲喜交加，二人连手揽腕。</p>
+<p>　　二人一见喜非常　连手揽腕奔上房　梁氏秀英悲又喜今日相逢痛断肠　只因妹妹去上阵　你的本领真高强杀的妖僧他大败　我们观看喜气扬　忽见妖人使法宝奔了妹妹一毫光　只见妹妹落了马　眼看一阵大风狂吩咐兵卒去抢你　不见妹妹在哪方　我们三人魂飞掉嚎嚎痛哭泪汪汪　山下官兵攻的紧　万般无奈下山岗兄弟梦熊写书信　叫我夫妻去躲藏　突出重围逃了命半路遇兵遭了殃</p>
+<p>　　姐妹见面，各诉离别之情。梁秀英问道：“妹妹你在何处去了？”郑翠屏将师父圣母救去之事说明，复来下山，先破了八卦阵，然后在旅店救公子，相逢见面，这才保着公子来京科考。阮英领来特见姐姐之面，欢聚一处，不幸之幸。又各自诉说受难遭灾，路途衷情痛苦，各各悲喜交加。老夫人见了郑翠屏，满心欢喜，又知她文武皆通。又见李老大人领来三个人，一文二武到了上房。梁秀英看见周公子，喜不自胜，叫道：“娘呵，你老人家看这一文生，就是你女婿周景隆来了。”</p>
+<p>　　夫人抬头留神看　好位秀士美少年　面如白玉一般样恰似银盆新又鲜　眉清目秀天生俊　鼻直口方貌不凡天庭饱满多福相　下部地阁方又圆　两耳垂肩无宽厚唇似丹砂一样般　好位风流一才子　堪与佳人配凤凰这是天缘巧相配　童子仙女降下凡　郎才女貌人间少也是天意配良缘　李老夫人添欢悦　公子来到她面前梁氏秀英来引见　这是岳母对你言　公子闻听秀英语双膝跪倒把娘参</p>
+<p>　　梁秀英引见说道：“这位是妻身秀英的母亲。”又叫：“娘呵，这就是你女婿景隆公子他来到。”公子慌忙跪倒，磕头行礼。已毕，又叫过阮英梦熊二人对着老夫人叩首。夫人认得阮英，前番那天晚他送秀英来过。</p>
+<p>　　夫人见过小阮爷　救她秀英保贞节　为救秀英到相府三盗透龙斩妖邪　不是阮英救此妇　秀英早已命完结夫人一见说罢了　阮英义气盖世稀　他敢相府射蔡猛伤他一目是豪杰　孙氏夫人连夸奖　满面含笑真欢悦对着李公忙说道　妾身有话对你白　今日这是天大喜快摆筵席把风接　李公点头说是好　急叫从人搬杯碟就在上房来摆酒　使女仆妇人好些</p>
+<p>　　李公说：“皆是至亲至戚，不是外人，就在上房东西摆酒。”众使女仆人揩抹桌椅，搬运杯盏，即将那酒席摆妥。李公陪着阮英、周公子、郑梦雄在东房之中，老夫人领着梁秀英、郑翠屏在西屋之中，一家庆贺恭喜，人人快畅。</p>
+<p>　　一家团圆把酒吃　真是庆贺有余德　夫妻年迈无儿女半路拣个女姣娥　因为此女招大难　难满灾消吉庆多积善之家有余庆　积恶之家多遭磨　李公吃酒多欢悦对着阮英把话说　明日你先回山寨　耐等日期面相会就说找着周公子　来到东京考恩科　此时暂且回山去见你周母说明白　单等公子入考场　独占魁首状元得当殿明冤拿奸相　杀尽奸党抄尽窝</p>
+<p>　　李公叫阮英回山送信，又吩咐丫环打扫后旁叫周景隆夫妻三人在后屋居住。用饭已毕，阮英、梦熊住了一宿。夫妻三人如鱼得水。第二日阮英、郑梦熊二人由上房起来，周景隆由后屋出来会二英雄。李公在旁边接言说道：“你们回山预备兵马，公子得中才能金殿明冤。万岁准状还好，倘或偏向太师奸相，那时再行起事，凡事三思而行，莫贻后悔。”</p>
+<p>　　李公旁边说得详　此事还要细商量　倘或得中好告状吉凶祸福在里藏　公子在我家中住　他妻是我义姑娘夫妻三人是天配　公子如同我儿郎　若要有事全在我夫人与我同敢当　哪怕蔡京他知晓　老夫还要逞逞强上次他将我监入　皆因表兄立朝纲　若是吕刚在朝内定使奸相要遭殃　吕刚回来救出我　恨的老夫牙多长公子倘若得了中　捉拿蔡京大开腔　俗知报仇详细事下回书中说其详</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17861.aspx">上一章</a>
+<a href="/guwen/book_214.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17863.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

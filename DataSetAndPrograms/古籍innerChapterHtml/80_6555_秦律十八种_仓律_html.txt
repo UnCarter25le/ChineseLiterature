@@ -1,0 +1,120 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+睡虎地秦墓竹简·秦律十八种·仓律_古诗文网
+</title>
+<meta content="入禾倉，萬石一積而比黎之為戶。縣嗇夫若丞及倉、鄉相雜以印之，而遺倉嗇夫及離邑倉佐主稟者各一戶以氣（餼），自封印，皆輒出，餘之索而更為發戶。嗇夫免，效者發，見雜封者，以隄（題）效之，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6555.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5595" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>秦律十八种·仓律</b></span>
+<a href="javascript:PlayBookv(6555)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6555" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5595)" id="leftbtn5595" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6555" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　入禾倉，萬石一積而比黎之為戶。縣嗇夫若丞及倉、鄉相雜以印之，而遺倉嗇夫及離邑倉佐主稟者各一戶以氣（餼），自封印，皆輒出，餘之索而更為發戶。嗇夫免，效者發，見雜封者，以隄（題）效之，而復雜封之，勿度縣，唯倉自封印者是度縣。出禾，非入者是出之，令度之，度之當堤（題），令出之。其不備，出者負之；其贏者，入之。雜出禾者勿更。入禾未盈萬石而欲增積焉，其前入者是增積，可（也）；其它人是增積，積者必先度故積，當堤（題），乃入焉。後節（即）不備，後入者獨負之；而書入禾增積者之名事邑里於廥籍。萬石之積及未盈萬石而被（柀）出者，毋敢增積。櫟陽二萬石一積，咸陽十萬一積，其出入禾、增積如律令。長吏相雜以入禾倉及發，見之粟積，義積之，勿令敗。</p>
+<p>　　入禾稼、芻，輒為廥籍，上內史。芻各萬石一積，咸陽二萬一積，其出入、增積及效如禾。</p>
+<p>　　禾、芻積（索）出日，上贏不備縣廷。出之未（索）而已備者，言縣廷，廷令長吏雜封其廥，與出之，輒上數廷；其少，欲一縣之，可（也）。廥才（在）都邑，當□□□□□□□□者與雜出之。</p>
+<p>　　□□□□□不備，令其故吏與新吏雜先（索）出之。其故吏弗欲，勿強。其毋（無）故吏者，令有秩之吏、令史主，與倉□雜出之，（索）而論不備。雜者勿更；更之而不備，令令、丞與賞（償）不備。</p>
+<p>　　程禾、黍□□□□以書言年，別其數，以稟人。</p>
+<p>　　計禾，別黃、白、青。（秫）勿以稟人。</p>
+<p>　　稻後禾孰（熟），計稻後年。已穫上數，別粲、（糯）（）稻。別粲、（糯）之襄（釀），歲異積之，勿增積，以給客，到十月牒書數，上內史。</p>
+<p>　　縣上食者籍及它費大（太）倉，與計偕。都官以計時讎食者籍。</p>
+<p>　　種：稻、麻畝用二斗大半斗，禾、麥畝一斗，黍、荅畝大半斗，叔（菽）畝半斗。利田疇，其有不盡此數者，可（也）。其有本者，稱議種之。</p>
+<p>　　縣遺麥以為種用者，殽禾以臧（藏）之。</p>
+<p>　　粟一石六斗大半斗，舂之為（糲）米一石；（糲）米一石為鑿（）米九斗；九斗為毀（毇）米八斗。稻禾一石。有米委賜，稟禾稼公，盡九月，其人弗取之，勿鼠（予）。</p>
+<p>　　為粟廿斗，舂為米十斗；十斗粲，毀（毇）米六斗大半斗。麥十斗，為三斗。叔（菽）、荅、麻十五斗為一石。?稟毀（毇）粺者，以十斗為石。</p>
+<p>　　宦者、都官吏、都官人有事上為將，令縣貣（貸）之，輒移其稟縣，稟縣以其稟。已稟者，移居縣責之。</p>
+<p>　　有事軍及下縣者，齎食，毋以傳貣（貸）縣。</p>
+<p>　　月食者已致稟而公使有傳食，及告歸盡月不來者，止其後朔食，而以其來日致其食；有秩吏不止。</p>
+<p>　　駕傳馬，一食禾，其顧來有（又）一食禾，皆八馬共。其數駕，毋過日一食。駕縣馬勞，有（又）益壺〈壹〉禾之。</p>
+<p>　　妾未使而衣食公，百姓有欲（假）者，（假）之，令就衣食焉，吏輒柀事之。</p>
+<p>　　隸臣妾其從事公，隸臣月禾二石，隸妾一石半；其不從事，勿稟。小城旦、隸臣作者，月禾一石半石；未能作者，月禾一石。小妾、舂作者，月禾一石二斗半斗；未能作者，月禾一石。嬰兒之毋（無）母者各半石；雖有母而與其母冗居公者，亦稟之，禾月半石。隸臣田者，以二月月稟二石半石，到九月盡而止其半石。舂，月一石半石。隸臣、城旦高不盈六尺五寸，隸妾、舂高不盈六尺二寸，皆為小；高五尺二寸，皆作之。</p>
+<p>　　小隸臣妾以八月傅為大隸臣妾，以十月益食。</p>
+<p>　　更隸妾節（即）有急事，總冗，以律稟食；不急勿總。</p>
+<p>　　城旦之垣及它事而勞與垣等者，旦半夕參；其守署及為它事者，參食之。其病者，稱議食之，令吏主。城旦舂、舂司寇、白粲操土攻（功），參食之；不操土攻（功），以律食之。</p>
+<p>　　日食城旦，盡月而以其餘益為後九月稟所。城旦為安事而益其食，以犯令律論吏主者。舂城旦月不盈之稟。</p>
+<p>　　免隸臣妾、隸臣妾垣及為它事與垣等者，食男子旦半夕參，女子參。</p>
+<p>　　食囚，日少半斗。</p>
+<p>　　隸臣欲以人丁粼者二人贖，許之。其老當免老、小高五尺以下及隸妾欲以丁粼者一人贖，許之。贖者皆以男子，以其贖為隸臣。女子操紅及服者，不得贖。邊縣者，復數其縣。</p>
+<p>　　畜離倉。用犬者，畜犬期足。、之息子不用者，買（賣）之，別計其錢。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6554.aspx">上一章</a>
+<a href="/guwen/book_80.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6556.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5595" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·修身篇·致诸弟·劝宜力除牢骚_古诗文网
+</title>
+<meta content="澄侯温甫子植季洪四弟足下：日来京寓大小平安，癣疾又已微发，幸不为害，听之而已。湖南榜发，吾邑竟不中一人。沅弟书中，言温弟之文，典丽鹬皇，亦尔被抑，不知我诸弟中半来科名，究竟何如？以" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18146.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>修身篇·致诸弟·劝宜力除牢骚</b></span>
+<a href="javascript:PlayBookv(18146)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18146" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18146" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　澄侯温甫子植季洪四弟足下：</p>
+<p>　　日来京寓大小平安，癣疾又已微发，幸不为害，听之而已。湖南榜发，吾邑竟不中一人。沅弟书中，言温弟之文，典丽鹬皇，亦尔被抑，不知我诸弟中半来科名，究竟何如？以祖宗之积累，及父亲叔父之居心立行，则诸弟应可多食厥报。以诸弟之年华正盛，即稍迟一科，亦未遂为过时。特兄自近年以来，事务日多，精神日耗，常常望诸弟有继起者，长住京城，为我助一臂之力。且望诸弟分此重任，余亦欲稍稍息肩，乃不得一售，使我中心无倚。</p>
+<p>　　盖植弟今年一病，百事荒废，场中之患目疾，自难见长。温弟天分，本甲于诸弟，惟牢骚太多，性情太懒，前在京华，不好看书，又不作文，余即心甚忧之。近闻还家后，亦复牢骚如常，或数月不搦管为文。吾家之无人继起，诸弟犹可稍宽其责，温弟则实自弃，不昨尽诿其咎于命运。</p>
+<p>　　吾尝见朋友不中牢骚太甚者，其后必多抑塞①，如吴（木云）台凌荻舟之流，指不胜屈。盖无故而怨天，则天必不许，无故而尤天，则天必不许，无故而尤人，则人必不服，感应之理，自然随之。温弟所处，乃读书人中最顺之境，乃动则怨尤满腹，百不如意，实我之所不解。以后务宜力除此病，以吴（木云）台凌荻舟为眼前之大戒。凡遇牢骚欲发之时，则反躬自思，吾果有何不足，而蓄此不平之气，猛然内省，决然去之。不惟平心谦抑，可以早得科名，亦一养此和气，可以稍减病患。万望温弟再三细想，勿以吾言为老生常谈，不直一哂②也。</p>
+<p>　　王晓林先生在江西为钦差，昨有旨命其署江西巡抚，余署刑部，恐须至明年乃能交卸。袁漱六昨又生一女，凡四女，已殇其二，又丧其兄，又丧其弟，又一差不得，甚矣穷翰林之难当也！黄麓西由江苏引入京，迥非昔日初中进士时气象，居然有经济才。</p>
+<p>　　王衡臣于闰月初九引见，以知县用，后于月底搬寓下洼一庙中，竟于九月初二夜无故遽卒。先夕与同寓文任吾谈至二更，次早饭时，讶其不起，开门视之，则已死矣。死生之理，善人之报，竟不可解。</p>
+<p>　　邑中劝捐，弥补亏空之事，余前己有信言之。万不可勉强勒派。我县之亏，亏于官者半，亏于书吏者半，而民则无辜也。向来书吏之中饱，上则吃官，下则吃民，名为包片包解。其实当征之时，是以百姓为鱼肉而吞噬之，当解之时，则以官为雉媒而播弄之。官索钱粮于书吏之手，犹索食于虎狼之口，再四求之，而终不肯吐，所以积成巨亏。并非实欠在民，亦非官之侵蚀人已也。今年父亲大人议定粮饷之事，一破从前包征包解之陋风，实为官民两利，所不利者，仅书吏耳。即见制台留朱公，亦造福一邑不小，诸弟皆宜极力助父大人办成此事。惟损银弥亏，则不宜操之太急，须人人愿捐乃可。若稍有勒派，则好义之事，反为厉民之举，将来或翻为书吏所藉口，必且串通劣绅，仍还包征包解之故智，万不可不预防也。</p>
+<p>　　梁侍御处银二百，月内必送去，凌宅之二百，亦已兑去。公车来，兑六七十金，为送亲族之用，亦必不可缓，但京寓近极艰窘，此外不可再兑也。书不详荆余俟续县。国藩手草。（咸丰元年九月初五日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18145.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18147.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

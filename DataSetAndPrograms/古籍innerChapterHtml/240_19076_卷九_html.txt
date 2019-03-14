@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西夏书事·卷九_古诗文网
+</title>
+<meta content="景德四年春三月，德明使谢廪俸。宋制：节度使俸给钱四百千、粟一百五十石，春冬加绢各百匹、大绫各二十匹、小绫各三十匹、罗各十匹、绵各五百两，惟诸王皇族充节度及藩镇管军节度则有之，外蕃遥" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19076.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九</b></span>
+<a href="javascript:PlayBookv(19076)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19076" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19076" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%b9%bf%e6%88%90">吴广成</a></p>
+<div class="contson">
+<p>　　景德四年春三月，德明使谢廪俸。</p>
+<p>　　宋制：节度使俸给钱四百千、粟一百五十石，春冬加绢各百匹、大绫各二十匹、小绫各三十匹、罗各十匹、绵各五百两，惟诸王皇族充节度及藩镇管军节度则有之，外蕃遥领者不与焉。真宗赐德明廪俸，悉与内地节度同，德明感恩，遣使奉表自称草土臣，献马五百匹、橐驼三百头以谢。故事：赐物谢恩，止给来使缗帛，真宗以德明进奉频数，加赐袭衣、金带、器币。兵侵甘州，</p>
+<p>　　请于京师市易。等不得。秋七月，请置德明表请进奉使至京师，市所需物，诏从之。表自陈夏四月，建馆舍于绥、夏二州。明遣万子等德明以中国恩礼优渥，天使频临，遂于绥、夏州建馆舍二：曰“承恩”，曰“迎晖”。五百里内，道路、桥梁修治整饬，闻朝使至，必遣亲信重臣郊迎道左，礼仪中节，渐有华风。，盐州五原县</p>
+<p>　　五月，母罔氏卒，遣使告哀。春正月，德明入贡</p>
+<p>　　德明嫡母罔氏卒，遣都押牙贺承珍诣京师告哀。真宗命殿中丞赵稹为吊赠兼起复官告使，授德明镇军大将军、右金吾卫上将军，员外置同正员，余如故。德明以鼓乐迎至柩前，明日衣礻覃衣受赐，泣对使者曰：“蕃夷母丧，蒙天子吊赠、起复，宠荣极矣。”及葬，请修供五台山十寺为母祈福。真宗遣ト门祗候袁为致祭使，随护送德明所供物至五台。请市弩。</p>
+<p>　　按：此西夏告哀中国之始。逐，德明不能拒，契丹使来吊祭。之役四书矣，且赐起复。推忠顺，自行牒延州，请止保安军修驿。卒，遣都押牙贺承珍诣自德明纳款，真宗令缘边城池依誓约应行修葺外，自余移徙寨栅，开复河道，无大小悉禁之。时保安军起葺驿舍，德明移牒延州，言边民扰惧不安，愿罢其役，从之。麟州置</p>
+<p>　　六月，贡马助皇后园陵。入环庆，被获。</p>
+<p>　　章穆皇后初葬，德明献马五百匹，助修园陵。真宗嘉纳之。泰山，遣使索夏州民刘岩等不得。秋七月，请置榷场于保安军。春正月，德明赐“守正功</p>
+<p>　　先是，夏州民刘岩等二十余人内属，给以延州旷土耕之。而所居当绥州要路，德明部族出入多为擒戮。及德明归顺，移牒求岩等复还，真宗难之，颇严边禁。德明请置榷场于保安军，许蕃汉贸易。朝议从之，令以驼马、牛羊、玉、毡毯、甘草易缯帛、罗绮，以密蜡、麝香、毛褐、羚角、冈砂、柴胡、苁蓉、红花、翎毛易香药、瓷漆器、姜桂等物，其非官市者，听与民交易。绥州土田、</p>
+<p>　　按：此西夏复互市之始。始此。</p>
+<p>　　九月，出兵攻六谷，不果行。舍于绥、夏二六谷诸酋，久推忠顺，自潘罗支死，折逋游龙钵等尽归德明部下，惟罗支弟朔方节度、西凉府六谷大首领厮铎督犹与德明抗。德明以六谷世仇，意将阻绝使人，使不得列于缘边属户，侵掠无虚日。厮铎督潜以蕃书入诉，真宗令张崇贵谕之，德明不听，率兵屯境上，谋取六谷，厮铎督援结回鹘为备，德明兵不出。通兵</p>
+<p>　　冬十月，请行“仪天历”。俸给钱四百。</p>
+<p>　　宋初用周时旧历，建隆三年，始命司天少监王处讷别造新历，命名“应天”。太平兴国中，改为“乾元”。真宗嗣位，命司天监史序考验前法，研核旧文，取其枢要，成“仪天历”。时咸平四年三月也。西夏自保吉ㄈ扰，羌戎不知正朔几二十年。德明遣贡使表请，真宗以新历并冬服赐之。初，诏延州牙校赍往，比闻德明葺馆舍、修道路以待朝命，乃命ト门祗候往赐，德明受而行之。卒。</p>
+<p>　　按：此西夏受历之始。殿覃恩。</p>
+<p>　　十一月，请于麟州置榷场。春二月，德真宗以延州已置，不许。</p>
+<p>　　大中祥符元年春正月，德明赐“守正功臣”号。贵卒，德明益逾轶，</p>
+<p>　　益食邑千户，实封四百户。时天书降于承天门，故有是赐。守正，乃赐中书、枢密号也。麟州置榷场。</p>
+<p>　　出兵侵甘州回鹘。</p>
+<p>　　回鹘有甘州、沙州、西州、新复州数种，而甘州地逼西夏，其可汗夜落纥尝与沙州可汗禄胜数出兵为保吉难。保吉死，德明思报怨，遣将张浦率骑数千，抄掠其境，夜落纥出兵拒之，浦不能胜。置，不许。</p>
+<p>　　三月，复遣万子等族袭甘州，大败。，西夏与室韦例张浦兵还，德明遣万子等四军主悉其族兵取六谷，进图甘州。万子军主至西凉，见六谷兵盛，不敢攻，径趋甘州，袭回鹘。回鹘侦知设伏，示弱不与斗，俟其过，奋击之，剿杀殆尽。军主挺身走免，其被擒者，因鹘驱坐于野，悉以所获资粮示之，曰：“尔辈狐鼠，规求小利，我则不然！”尽焚讫，乃杀之。，州军德明进奉使每挟带私物，规免市征，延路钤辖张继能奏请条约。真宗以戎人远来，获利无几，命第如旧制。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19075.aspx">上一章</a>
+<a href="/guwen/book_240.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19077.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

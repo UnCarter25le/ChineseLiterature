@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷十一·郑芝龙小传_古诗文网
+</title>
+<meta content="芝龙号飞黄，福建漳州府漳镇人。离府六十里，滨于海。父翔宇，祖寿寰，世府掾，飞黄行居四，三兄亦府掾。飞黄年十八，早缘掾缺上役，已择吉有期矣。父多妾媵，其生第六子之母，与飞黄构别情。一" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13623.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十一·郑芝龙小传</b></span>
+<a href="javascript:PlayBookv(13623)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13623" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13623" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　芝龙号飞黄，福建漳州府漳镇人。离府六十里，滨于海。父翔宇，祖寿寰，世府掾，飞黄行居四，三兄亦府掾。飞黄年十八，早缘掾缺上役，已择吉有期矣。父多妾媵，其生第六子之母，与飞黄构别情。一日，为飞黄理发，飞黄以手插入其裙腰，调情意密。父自后走出，飞黄提缩，势急，裙带为绝，父目击，持棍怒逐飞黄，奔一飘洋船。时盖泊其舍傍也。父怒，方骂声言，寻出杀之，急切不得归。洋船又刻时挂帆，飞黄恳巨商带往日本。飞黄固姣好色媚、爱之者非一商，遂与具往。至则各商有发货、置货之烦，飞黄独无所事。日就岛主宴饮歌舞，时岛主家有文君悦之，即国姓郑成功之母也。赘入为日本人婿。来艘已返，且未归，生一子，国姓也。再一年，前艘与客又至，乃只身附归。至中途，为海盗所劫。飞黄亦随船货作千金，分与主寨之贼。贼嬖之。海盗有十寨，寨各有主，停一年，飞黄之主有疾，疾且痼，九主为之宰牲疗祭，飞黄乃泣求其主，明日祭后，必会饮，乞众力为我放一洋，获之有无多寡，皆我之命，烦缓颊恳之。主如言，众各欣然，劫四艘，货物皆自暹逻来者，每艘约二十余万，九主重信义，尽畀飞黄，飞黄之富，逾十寨矣。海中以富为尊，其主亦就殂，飞黄遂为十主中之一。时则通家耗，辇金还家，置苏杭细软，两京大内宝玩，兴贩琉球、朝鲜、真腊、占城、三佛齐等国，兼掠犯东粤、潮惠、广肇、福游、汀闽、台绍等处。此天启初年事也。闽、粤两抚，为剿除策，各遣海道张浚、李芳枝二人，先驻海涯，扬旗震鼓，以集调王汉等兵，不逾三夕，两道臣为飞黄取入海寨，二抚悔恨无策，剿抚并淆，不得不上闻。飞黄亦日醉二道臣于洪波中，恐之、侮之，绝不甚危之。三月余，主抚之旨下颁，且设漳参将府镇之座，以待飞黄。飞黄遂挟二道臣登涯就职矣。两抚以脱卸为事，仍叙功加部衔、官保不等。飞黄又多所赠至喜也。其在海九寨为主者，为刘香，蹈飞黄故辙，为海边患，飞黄则尽力窘之。几穷，逼其无挽泊处，香甚恨焉。访飞黄在漳镇，尽遣其党，围其居而擒焉。飞黄见曰：吾为岸上贪官污吏所束缚，正欲仍来入伙，问舟泊何处，即先遣家眷登入，复尽卷家之所有归船。飞黄又曰：室中酒肉甚多，何不畅饮而去。乃令治具，取其精腆者咨为饱渥；碗酒块肉，数指轮拳至醉。而酩酊者，随身之力，各倒地挂壁不顾矣。忽闻锣响，头皆落地，飞黄取上家眷什物解其衣甲衣我家丁，驾彼之舡，挺立船头，刘香遥望本船衣饰，与飞黄大喜而呼曰。来矣！飞黄亦应曰：来矣！即跃上岸，乘其不备，举刀便斫，刘香既杀，余皆跪拜投降，海上从此太平。往来各国，皆飞黄旗号，沧海大洋，如内地矣。抚按又为报功，因升漳潮两府副总兵。后至祟祯末年，百计营求，欲得福闽全省正总兵，齎银十万至京师，大小司马手长胆炫，不敢也。至十七年三月，此银为流贼所得。至弘光朝，马士英晋之以五等之爵，封靖海侯矣。至隆武朝疏陈有子在日本，隆武召归，竟立为己子，赐国姓矣。不久飞黄，亦即归大清（此芝龙族婿翁吉炉所述）。</p>
+<p>　　遗闻云：芝龙有弟芝虎，勇冠三军，以征刘香殁于海。次鸿逵，次芝豹，一门声势烜赫东南。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13622.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13624.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

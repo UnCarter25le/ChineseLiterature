@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+徐霞客游记·江右游日记十一_古诗文网
+</title>
+<meta content="十二月初一日　先晚雨丝丝下，中夜愈甚，遂无意留吉水。入城问打听张侯后裔。有张君重、伯起父子居南门内，隔晚托顾仆言，与张同宗，欲一晤，因冒雨造其家云。盖张乃世科而无登第者，故后附于侯" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5349.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4474" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>江右游日记十一</b></span>
+<a href="javascript:PlayBookv(5349)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5349" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4474)" id="leftbtn4474" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5349" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%bc%98%e7%a5%96">徐弘祖</a></p>
+<div class="contson">
+<p>　　十二月初一日　先晚雨丝丝下，中夜愈甚，遂无意留吉水。入城问打听张侯后裔。有张君重、伯起父子居南门内，隔晚托顾仆言，与张同宗，欲一晤，因冒雨造其家云。盖张乃世科而无登第者，故后附于侯族，而实非同派。君重之曾祖名峻，嘉靖间云亦别驾吾常，有遗墨在家云，曾附祀张侯之庙，为二张祠。此一时附托之言。按张侯无在郡之祠，其在吾邑者，嘉靖时被毁已久，何从而二之？更为余言：侯之后人居西园，在城西五六十里，亦文昌乡也；族虽众，无读书者，即子衿秀才亦无一人。余因慨然！时雨滂沱，以舟人待已久，遂冒雨下舟，盖此中已三月无雨矣。时舟已移北门赣江上。由北门入至南门之张氏，仍出北门。下舟已上午，遂西南溯赣江行。十里，挟天马山之西。十里，过小洲头，东有大、小洲二重，西则长冈逶迤，有塔与小洲夹江相对。至是雨止日出。又十里，转挟螺子山之东，而泊于梅林渡，去吉郡尚十里。既暮，零雨复至。螺子，吉郡水口之第一山也。 </p>
+<p>　　吉水东大而高者，曰东山，即仁山也。太平山在其内，又近而附城，曰龙华寺。寺甚古，今方修葺qì修整，有邹南皋先生祠。佛殿前东一碑，为韩熙载五代南唐重臣，著有《宁史•南唐世家》撰，徐铉八行书。盖即太平西下之垅，南北回环，琐成一坞，而寺在中央。吉水西为天马山，在恩、赣二江夹脊中。北为玉笥sì山，即峡山之界赣江下流所经也。南为巽xùn峰，尖峭特立，乃南皋先生堆加而峻者，为本县之文笔峰。建昌人言军峰为吉水文笔，因此峰而误也，大小迥绝矣。 </p>
+<p>　　初二日　黎明甫刚刚挂帆，忽有顺水舟叱咤而至，掀篷逼舟，痛殴舟人而缚之，盖此间棍徒托言解官银，而以拿舟吓诈舟人也。势如狼虎，舟中三十人，视舟子如搏羊，竟欲以余囊过其舟，以余舟下省。然彼所移入舟者，俱铺盖铃串之物，而竟不见银扛，即果解银，亦无中道之理。余谕其此间去吉郡甚近，何不同至郡，以舟畀bì给以汝。其人闻言，咆哮愈甚，竟欲顺流挟舟去。余乘其近涯，一跃登岸，亟觅地方王姓者，梅林保长也。呼而追之，始得放舟。余行李初已被移，见余登陆，乃仍畀还即归还；而舟子所有，悉为抄洗，一舟荡然矣。又十里，饭毕，〔抵吉安郡。〕已过白鹭洲之西，而舟人欲泊南关；余久闻白鹭书院之胜，仍返舟东泊其下，觅寓于书院中净土庵。是日雨丝丝不止，余人游城中，颇寥寂，出南门，见有大街濒江，直西属神冈山，十里阛闠，不减金阊也。 </p>
+<p>　　初三日　中夜雨滂沱。晨餐后，即由南关外西向神冈。时雨细路泞，举步不前，半日且行且止，市物未得其半，因还至其寓。是日书院中为郡侯季考，余出时诸士毕集，及返而各已散矣。郡侯即家复生，是日季考不亲至，诸生颇失望。 </p>
+<p>　　初四日　雨。入游城中，出止白鹭洲。 </p>
+<p>　　初五日　入城拜朱贞明、马继芳。下午，取药煮酒，由西门出，街市甚盛。已由南门大街欲上神冈，复行不及也。 </p>
+<p>　　初六日　卧雪鹭洲。 </p>
+<p>　　初七日　卧雪鹭洲。下午霁，入城。由东门出，至大觉庵，已在梅林对江，不及返螺子。 </p>
+<p>　　初八日　由鹭洲后渡梅林，五里。又东北十里，大洲。乃东十里入山，登洲岭，乃南山北度之脊，因西通大洲，故云。从岭直上五里，天狱山。下直南十里，宿南山下坑中季道人家。 </p>
+<p>　　初九日　东十里，出山口曰五十都。东南十里，过施坊。人家甚盛。入山五里，直抵嵩华山西麓，日虎浮，拜萧氏。其外包山一重，即与施坊为界者也，东北从嵩华过脉，今凿而烧灰，西面有洞云庵向施坊焉。 </p>
+<p>　　初十日　登嵩华山，上下俱十里。 </p>
+<p>　　十一日　游洞云。由北脊来时，由南峡口大路入，往返俱六里。 </p>
+<p>　　十二日　晨餐于萧处，上午始行。循嵩华而南五里，镜坊澎。东为嵩华南走之支，北转而高峙者名香炉峰，其支盖于查埠止十里也。又南五里登分水岭，逾岭东下五里为带源，大魁王艮所发处也。由带源随水东行五里，出水口之峡，南入山。三里为燕山，其处山低岭小，居民萧氏，俱筑山为塘以蓄水，水边盛放。复逾小岭而南，三里，过罗源桥，复与带溪水遇，盖其水出峡东行，循山南转至此。度桥而南，山始大开，又五里宿于水北。 </p>
+<p>　　十三日　由水北度桥，直南五里，渡沪溪桥，是为夏朗，即刘大魁名俨发迹处也。又南五里，为西园张氏，是日在其家。下午，淮河自罗坡来。 </p>
+<p>　　十四日　雨雪。淮河同乃郎携酒来。是晚二巫归。 </p>
+<p>　　十五日　霁，风寒甚。晚往西山。 </p>
+<p>　　十六日　张氏公祠宴。 </p>
+<p>　　十七日　五教祠宴。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5348.aspx">上一章</a>
+<a href="/guwen/book_67.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5350.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4474" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,124 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+汉官六种·漢官儀一卷_古诗文网
+</title>
+<meta content="漢官儀漢應劭撰元陶宗儀輯獬豸獸性觸不直，故執憲者以其角形為冠。〔一〕侍御史，周官也，為柱下史，冠法冠。一曰柱後，以鐵為柱。〔二〕 正月旦，天子御德陽殿，臨軒。公、卿、大夫、百官各陪" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19063.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>漢官儀一卷</b></span>
+<a href="javascript:PlayBookv(19063)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19063" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19063" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%98%9f%e8%a1%8d">孙星衍</a></p>
+<div class="contson">
+<p>　　漢官儀漢應劭撰元陶宗儀輯獬豸獸性觸不直，故執憲者以其角形為冠。〔一〕侍御史，周官也，為柱下史，冠法冠。一曰柱後，以鐵為柱。〔二〕 </p>
+<p>　　正月旦，天子御德陽殿，臨軒。公、卿、大夫、百官各陪位朝賀。蠻貊胡羌朝貢，必見屬郡（封）〔計〕吏，皆陛覲。〔三〕 </p>
+<p>　　孝武時，天子以下未有幘。元帝頞上有壯髮，不欲使人見，乃始進幘，群僚隨焉。〔四〕 </p>
+<p>　　省中皆胡粉塗壁，畫古烈王。〔五〕 </p>
+<p>　　孝武皇帝南平百越，北攘戎狄，置交阯朔方之州，復徐梁之地，改雍曰梁，改梁曰益，凡十三州。所以交朔獨不州，明示帝王未必相襲，始開地方，〔六〕遂交南方，為子孫基阯也。 </p>
+<p>　　侍中，秩千石。黃門有畫室署、玉堂署，各有長一人。〔七〕 </p>
+<p>　　尚書郎懷香握蘭，趨走丹墀。〔八〕 </p>
+<p>　　世祖封禪，久有白氣一丈，〔九〕東南極望，正直壇所，有青氣上與天屬，遙望不見此，〔一０〕瑞命之符也。 </p>
+<p>　　謁者著緗幘大冠。〔一一〕 </p>
+<p>　　綬者，有所受，以別尊卑，彰有德也。〔一二〕 </p>
+<p>　　司空騎吏以下皂，因秦水德。今漢家火德，宜著絳。〔一三〕 </p>
+<p>　　虎賁中郎將衣紗縠單衣，虎綿。〔一四〕 </p>
+<p>　　尚書令、僕、丞、郎月賜渝糜大墨一枚，小墨一枚。〔一五〕 </p>
+<p>　　天子壇田，公卿耕訖，嗇夫下種。凡稱籍田為千，亦曰帝籍，亦曰耕籍，亦曰東耕，亦曰親耕，亦曰玉籍。〔一六〕 </p>
+<p>　　侍中向存年老口臭，〔一七〕帝乃賜以雞舌香，令含之。 </p>
+<p>　　校勘記〔一〕此引出初學記卷二六。 </p>
+<p>　　〔二〕同右。 </p>
+<p>　　〔三〕宛委山堂本說郛避清人之忌，刪「胡」字。今據御覽卷二九補。又改「封」作「計」。此引又見于類聚卷三九，「必」作「畢」，屬上讀。 </p>
+<p>　　〔四〕此引見於御覽卷八九。 </p>
+<p>　　〔五〕御覽卷一八七有此引，「烈王」作「烈士」，當是。 </p>
+<p>　　〔六〕御覽卷一五七引「地方」作「北方」，餘皆同。 </p>
+<p>　　〔七〕此引見於御覽卷二一九。 </p>
+<p>　　〔八〕此引與御覽卷九八三所引皆同，但御覽作蔡質漢官儀之文。又書鈔卷六０、初學記卷一一引漢官儀中，有此十一字。御覽卷二一五引漢官儀中，有「郎」以下九字。不詳陶氏所本為何。 </p>
+<p>　　〔九〕御覽卷八七二「久」引作「夕」，御覽卷一五亦同。夕，於此指夕牲之時，詳見續漢志補注所引封禪儀。 </p>
+<p>　　〔一０〕御覽卷八七二「此」作「巔」，是。 </p>
+<p>　　〔一一〕此引見於御覽卷六八七。 </p>
+<p>　　〔一二〕此引出御覽卷六八二。 </p>
+<p>　　〔一三〕唯御覽卷六九五引與此引多同，僅兩「德」字皆作「行」，「宜」下無「著」字。 </p>
+<p>　　〔一四〕此引分見書鈔卷一二九、御覽卷六九五。疑陶輯「虎」下脫「文」字。 </p>
+<p>　　〔一五〕此引與初學記卷二一中兩引同。然其中敘事引作漢書之文，事對作蔡質漢官之語。疑陶輯引誤。 </p>
+<p>　　〔一六〕此引分見初學記卷一四、御覽卷五三七。其引「壇田」作「升壇」，「玉藉」作「王藉」，與陶輯略異。 </p>
+<p>　　〔一七〕御覽卷三六七引有此條，「向存」作「乃存」。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19062.aspx">上一章</a>
+<a href="/guwen/book_239.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19064.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

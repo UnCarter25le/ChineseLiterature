@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+洗冤集录·卷二·疑难杂说下_古诗文网
+</title>
+<meta content="有检验被杀尸在路旁，始疑盗者杀之，及点检沿身衣物俱在，遍身镰刀砍伤十余处。检官曰∶盗只欲人死取财，今物在伤多，非冤雠而何?遂屏左右，呼其妻问曰∶“汝夫自来与甚人有冤雠最深?”应曰∶" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17017.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·疑难杂说下</b></span>
+<a href="javascript:PlayBookv(17017)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17017" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17017" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ae%8b%e6%85%88">宋慈</a></p>
+<div class="contson">
+<p>　　有检验被杀尸在路旁，始疑盗者杀之，及点检沿身衣物俱在，遍身镰刀砍伤十余处。检官曰∶盗只欲人死取财，今物在伤多，非冤雠而何?遂屏左右，呼其妻问曰∶“汝夫自来与甚人有冤雠最深?”应曰∶“夫自来与人无冤雠，只近日有某甲来做债，不得，曾有克期之言，然非冤雠深者。”检官默识其居。遂多差人，分头告示侧近居民∶“各家所有镰刀尽底将来，只今呈验；如有隐藏，必是杀人贼，当行根勘。”俄而，居民 到镰刀七八十张，令布列地上。时方盛暑，内镰刀一张，蝇子飞集。检官指此镰刀问为谁者，忽有一人承当，乃是做债克期之人，就擒。讯问犹不伏，检官指刀令自看∶“众人镰刀无蝇子，今汝杀人，血腥气犹在，蝇子集聚，岂可隐耶？”左右环视者，失声叹服；而杀人者，叩首服罪。</p>
+<p>　　昔有深池中溺死人，经久，事属大家因仇事发。体究官见皮肉尽无，惟髑髅、骸骨尚在，累委官不肯验。上司督责至数人，独一官员承当。即行就地检骨，先点检见得其它并无痕迹。乃取髑髅净洗，将净（热）汤瓶细细斟汤，灌从脑门穴入，看有无细泥沙屑自鼻窍中出，以此定是与不是生前溺水身死。盖生前落水，则因鼻息取气，吸入沙土，死后则无。</p>
+<p>　　广右有凶徒，谋死小童行，而夺其所 。发觉距行凶日已远，囚已招伏∶“打夺就推入水中。”尉司打捞，已得尸于下流，肉已溃尽，仅留骸骨，不可辨验，终未免疑其假合，未敢处断。后因阅案卷，见初检体究官缴到血属所供，称其弟原是龟胸而矮小。遂差官覆验，其胸果然，方敢定刑。</p>
+<p>　　南方之民，每有小小争竞，便自尽其命，而谋赖人者多矣。先以榉树皮罨成痕损，死后如他物所伤。何以验之?但看其痕里面须深墨色，四边青赤，散成一痕，而无虚肿者，即是生前以榉树皮罨成也。盖人生即血脉流行，与榉相扶而成痕；(若以手按着，痕损处虚肿，即非榉皮所罨也)若死后以榉皮罨者，即苦无散远青赤色，只微有黑色，而按之不紧硬者，其痕为死后罨之也。盖人死后血脉不行，致榉不能施其效。更在审详原情，尸首痕损那边长短，能合他物大小，临时裁之，必无疏误。</p>
+<p>　　凡有死尸肥壮，无痕损，不黄瘦，不得作病患死。又有尸首无痕损，只是黄瘦，亦不得据所见只作病患死检了。切须仔细验定因何致死，唯此等检验最误人也。</p>
+<p>　　凡疑难检验，及两争之家稍有势力，须选惯熟仵作人、有行止畏谨守分贴司，并随马行，饮食水火，令人监之，少休以待其来。不如是，则私请行矣。假使验得甚实，吏或受赂，其事亦变。官吏获罪犹庶几，变动事情，枉致人命，事实重焉。</p>
+<p>　　应检验死人，诸处伤损并无，不是病状，难为定验者，先须勒下骨肉次第等人状讫，然后剃除死人发髻，恐生前被人将刃物钉入囟门或脑中，杀害性命。</p>
+<p>　　被残害死者，须检齿、舌、耳、鼻内，或手足、指甲中，有签刺算害之类。</p>
+<p>　　凡检验尸首，指定作被打后服毒身死，及被打后自缢身死、被打后投水身死之类，最须见得亲切，方可如此申上。世间多有打死人后，以药灌入口中，诬以自服毒（药）〔者〕；亦有死后用绳吊起，假作生前自缢者；亦有死后推入水中，假作自投水者。一有差互，利害不小。今须仔细点检死人在身伤痕，如果不是要害致命去处，其自缢、投水及自服毒皆有可凭实迹，方可保明。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17016.aspx">上一章</a>
+<a href="/guwen/book_195.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17018.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

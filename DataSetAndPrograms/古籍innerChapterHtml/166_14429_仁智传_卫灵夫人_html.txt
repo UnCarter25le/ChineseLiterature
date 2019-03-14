@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+列女传·仁智传·卫灵夫人_古诗文网
+</title>
+<meta content="卫灵公之夫人也。灵公与夫人夜坐，闻车声辚辚，至阙而止，过阙复有声。公问夫人曰：“知此谓谁？”夫人曰：“此必蘧伯玉也。”公曰：“何以知之？”夫人曰：“妾闻：礼下公门式路马，所以广敬也" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14429.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>仁智传·卫灵夫人</b></span>
+<a href="javascript:PlayBookv(14429)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14429" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14429" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　卫灵公之夫人也。灵公与夫人夜坐，闻车声辚辚，至阙而止，过阙复有声。公问夫人曰：“知此谓谁？”夫人曰：“此必蘧伯玉也。”公曰：“何以知之？”夫人曰：“妾闻：礼下公门式路马，所以广敬也。夫忠臣与孝子，不为昭昭信节，不为冥冥堕行。蘧伯玉，卫之贤大夫也。仁而有智，敬于事上。此其人必不以闇昧废礼，是以知之。”公使视之，果伯玉也。公反之，以戏夫人曰：“非也。”夫人酌觞再拜贺公，公曰：“子何以贺寡人？”夫人曰：“始妾独以卫为有蘧伯玉尔，今卫复有与之齐者，是君有二贤臣也。国多贤臣，国之福也。妾是以贺。”公惊曰：“善哉！”遂语夫人其实焉。君子谓卫夫人明于知人道。夫可欺而不可罔者，其明智乎！诗云：“我闻其声，不见其人。”此之谓也。</p>
+<p>　　颂曰：卫灵夜坐，夫人与存，有车辚辚，中止阙门，夫人知之，必伯玉焉，维知识贤，问之信然。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14428.aspx">上一章</a>
+<a href="/guwen/book_166.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14430.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

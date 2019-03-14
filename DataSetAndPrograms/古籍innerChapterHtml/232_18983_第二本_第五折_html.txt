@@ -1,0 +1,113 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西厢记·第二本·第五折_古诗文网
+</title>
+<meta content="﻿　　[末上云]红娘之言，深有意趣。天色晚也，月儿，你早些出来么！[焚香了]呀，却早发擂也；呀,却早撞钟也。[做理琴科]琴呵，小生与足下湖海相随数年，今夜这一场大功，都在你这神品、" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18983.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第二本·第五折</b></span>
+<a href="javascript:PlayBookv(18983)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18983" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18983" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e5%ae%9e%e7%94%ab">王实甫</a></p>
+<div class="contson">
+<p>﻿　　[末上云]红娘之言，深有意趣。天色晚也，月儿，你早些出来么！[焚香了]呀，却早发擂也；呀,却早撞钟也。[做理琴科]琴呵，小生与足下湖海相随数年，今夜这一场大功，都在你这神品、金徽、玉轸、蛇腹、断纹、峄阳、焦尾、冰弦之上。天哪！却怎生借得一阵顺风，将小生这琴声吹入俺那小姐玉琢成、粉捏就、知音的耳朵里去者！[旦引红上，红云]小姐，烧香去来，好明月也呵！[旦云]事已无成，烧香何济！月儿，你团圆呵，咱却怎生？</p>
+<p>　　[越调]斗鹌鹑]云敛晴空，冰轮乍涌；风扫残红，香阶乱拥；离恨千端，闲愁万种。夫人哪，“靡不有初，鲜克有终。”他做了影儿里的情郎，我做了画儿里的爱宠。</p>
+<p>　　[紫花儿序]则落得心儿里念想，口儿里闲提，则索向梦儿里相逢。俺娘昨日个大开东阁，我则道怎生般炮凤烹龙？朦胧，可教我“翠袖殷勤捧玉钟”，却不道“主人情重”？则为那兄妹排连，因此上鱼水难同。</p>
+<p>　　[红云]姐姐，你看月阑，明日敢有风也？[旦云]风月天边有，人间好事无。</p>
+<p>　　[小桃红]人间看波，玉容深锁绣帏中，怕有人搬弄。想嫦娥，西没东生谁与共？怨天公，裴航不作游仙梦。这云似我罗帏数重，只恐怕嫦娥心动，因此上围住广寒宫。</p>
+<p>　　[红做咳嗽科][末云]来了。[做理琴科][旦云]这甚么响？[红发科][旦唱]</p>
+<p>　　[天净沙]莫不是步摇得宝髻玲珑？莫不是裙拖得环珮叮咚？莫不是铁马儿檐前骤风？莫不是金钩双控吉丁当敲响帘栊？</p>
+<p>　　[调笑令]莫不是梵王宫，夜撞钟？莫不是疏潇潇曲槛中？莫不是牙尺剪刀声相送？莫不是漏声长滴响壶铜？潜身再听在墙角东，原来是近西厢理连结丝桐。</p>
+<p>　　[秃厮儿]其声壮，似铁骑刀枪冗冗；其声幽，似落花流水溶溶；其声高，似风清月朗鹤唳空；其声低，似听儿女语，小窗中，喁喁。</p>
+<p>　　[圣药王]他那里思不穷，我这里意已通，娇鸾雏凤失雌雄；他曲未终，我意转浓，争奈伯劳飞燕各西东：尽在不言中。</p>
+<p>　　我近书窗听咱。[红云]姐姐，你这里听，我瞧夫人一会便来。[末云]窗外有人，已定是小姐，我将弦改过，弹一曲，就歌一篇，名曰《凤求凰》。昔日司马相如得此曲成事，我虽不及相如，愿小姐有文君之意。[歌曰]有美人兮，见之不忘。一日不见兮，思之如狂。凤飞翩翩兮，四海求凰。无奈佳人兮，不在东墙。张弦代语兮，欲诉衷肠。何时见许兮，慰我彷徨？愿言配德兮，携手相将！不得于飞兮，使我沦亡。[旦云]是弹得好也呵！其词哀，其意切，凄凄如鹤唳天；故使妾闻之，不觉泪下。</p>
+<p>　　[麻郎儿]这的是令他人耳聪，诉自己情衷。知音者芳心自懂，感怀者断肠悲痛。</p>
+<p>　　[幺篇]这一篇与本宫、始终、不同。又不是清夜闻钟，又不是黄鹤醉翁，又不是泣麟悲凤。</p>
+<p>　　[络丝娘]一字字更长漏永，一声声衣宽带松。别恨离愁，变成一弄。张生呵，越教人知重。</p>
+<p>　　[末云]夫人且做忘恩，小姐，你也说谎也呵！[旦云]你羞怨了我。</p>
+<p>　　[东原乐]这的是俺娘的机变，非干是妾身脱空；若由得我呵，乞求得效鸾凤。俺娘无夜无明并女工；我若得些儿闲空，张生呵，怎教你无人处把妾身做诵。</p>
+<p>　　[绵搭絮]疏帘风细，幽室灯清，都则是一层儿红纸，几榥儿疏檑，兀的不是隔着云山几万重，怎得个人来信息通？便做道十二巫峰，他也曾赋高唐来梦中。</p>
+<p>　　[红云]夫人寻小姐哩，咱家去来。[旦唱]</p>
+<p>　　[拙鲁速]则见他走来气冲冲，怎不教人恨匆匆。唬得人来怕恐。早是不曾转动，女孩儿家直凭响喉咙！紧摩弄，索将他拦纵，则恐夫人行把我来厮葬送。</p>
+<p>　　[红云]姐姐则管听琴怎么？张生着我对姐姐说，他回去也。[旦云]好姐姐呵，是必再着他住一程儿！[红云[再说甚么？[旦云]你去呵，</p>
+<p>　　[尾]则说道夫人时下有人唧哝，好共歹不着你落空。不问俺口不应的狠毒娘，怎肯着别离了志诚种？[并下]</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18982.aspx">上一章</a>
+<a href="/guwen/book_232.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18984.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

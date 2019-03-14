@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷六·杂病解中·腹痛根原_古诗文网
+</title>
+<meta content="腹痛者，土湿而木贼之也。乙木升于己土，甲木降于戊土，肝脾左旋，胆胃右转，土气回运而木气条达，故不痛也。水寒土湿，脾气陷而胃气逆，肝胆郁遏，是以痛作。盖乙木上升，是为枝叶，甲木下降，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18544.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·杂病解中·腹痛根原</b></span>
+<a href="javascript:PlayBookv(18544)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18544" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18544" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　腹痛者，土湿而木贼之也。乙木升于己土，甲木降于戊土，肝脾左旋，胆胃右转，土气回运而木气条达，故不痛也。水寒土湿，脾气陷而胃气逆，肝胆郁遏，是以痛作。</p>
+<p>　　盖乙木上升，是为枝叶，甲木下降，是为根本。脾陷则乙木之枝叶不能上发，横塞地下而克己土，故痛在少腹；胃逆则甲木之根本不能下培，盘郁地上而克戊土，故痛在心胸。肝胆之经，旁循胁肋，左右并行，而三阳之病，则外归于经，三阴之病，则内归于藏。以阴盛于内而阳盛于外，故痛在脏腑者，厥阴之邪，痛在胁肋者，少阳之邪也。至于中气颓败，木邪内侵，则不上不下，非左非右，而痛在当脐，更为剧也。</p>
+<p>　　此其中间，有木郁而生风热者。肝以风木主令，胆从相火化气，下痛者，风多而热少，上痛者，热多而风少。而究其根原，总属湿寒。</p>
+<p>　　若有水谷停瘀，当以温药下之，仲景大黄附子汤，最善之制也。若宿物留滞，而生郁热，则厚朴七物汤，是良法也。如其瘀血堙塞，气道梗阻，而生痛者，则以破结行瘀之品利之，桂枝茯苓丸、下瘀血汤，酌其寒热而选用焉。若无宿物，法宜培土疏木、温寒去湿之剂，大建中、附子粳米、乌头石脂三方，实诸痛证之准绳也。</p>
+<p>　　姜苓桂枝汤</p>
+<p>　　桂枝三钱　芍药三钱　甘草二钱　茯苓三钱　干姜三钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　治脾肝下陷，痛在少腹者。</p>
+<p>　　柴胡桂枝鳖甲汤</p>
+<p>　　柴胡三钱　鳖甲三钱，醋炙　甘草二钱　桂枝三钱　半夏三钱　芍药三钱　茯苓三钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　治胃胆上逆，痛在心胸者。</p>
+<p>　　胃寒，加干姜、川椒、附子。</p>
+<p>　　凡心腹疼痛，率因水寒土湿，木气郁冲所致。心腹痛剧欲死，四肢冰冷，唇口指甲青白者，宜姜、椒、附、桂，驱寒邪而达木郁，必重用苓、甘，泻湿培土，而缓其迫急，其痛自止。</p>
+<p>　　肝以风木主令，胆从相火化气，其间木郁风动，火郁热发，亦往往而有，而推其脾肾，无不湿寒之理。即有风热兼作，用芍药、柴、芩，以泻肝胆，而脾肾之药，必宜温燥，此定法也。</p>
+<p>　　肝主藏血，风动血耗，乙木枯槁，生意不遂，郁怒而贼脾土，则生疼痛。若血枯木燥，宜芍药、阿胶、归、地、首乌之类，以滋风木。木荣风退，即当减去，不可肆用，以败土气。</p>
+<p>　　血郁痛作，或内在脏腑，或外在经络。其证肌肤甲错，两目黯黑，多怒而善忘。以肝窍于木，主藏血而华色，血瘀不能外华，故皮肤粗涩而黑黯也。宜用丹皮、桃仁，破其瘀血。若癥结难开，加（庶/虫）虫、虻虫之类行之。寻常血瘀，五灵脂、山羊血，功力亦良。</p>
+<p>　　饮食停滞，土困木郁，以致作痛，用仲景温下之法，大黄、姜、附，泻其食水。剧者，少加巴霜一二厘，扩清陈宿，功效最捷。一切宿物壅阻，并宜此法。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18543.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18545.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

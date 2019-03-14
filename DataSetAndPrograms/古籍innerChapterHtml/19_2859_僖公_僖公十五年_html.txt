@@ -1,0 +1,113 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·僖公·僖公十五年_古诗文网
+</title>
+<meta content="【经】十有五年春王正月，公如齐。楚人伐徐。三月，公会齐侯、宋公、陈侯、卫候、郑伯、许男、曹伯盟于牡丘，遂次于匡。公孙敖帅师及诸侯之大夫救徐。夏五月，日有食之。秋七月，齐师、曹师伐厉" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2859.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1380" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>僖公·僖公十五年</b></span>
+<a href="javascript:PlayBookv(2859)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2859" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1380)" id="leftbtn1380" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2859" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】十有五年春王正月，公如齐。楚人伐徐。三月，公会齐侯、宋公、陈侯、卫候、郑伯、许男、曹伯盟于牡丘，遂次于匡。公孙敖帅师及诸侯之大夫救徐。夏五月，日有食之。秋七月，齐师、曹师伐厉。八月，螽。九月，公至自会。季姬归于鄫。己卯晦，震夷伯之庙。冬，宋人伐曹。楚人败徐于娄林。十有一月壬戌，晋侯及秦伯战于韩，获晋侯。 </p>
+<p>　　【传】十五年春，楚人伐徐，徐即诸夏故也。三月，盟于牡丘，寻蔡丘之盟，且救徐也。孟穆伯帅师及诸侯之师救徐，诸侯次于匡以待之。</p>
+<p>　　夏五月，日有食之。不书朔与日，官失之也。 </p>
+<p>　　秋，伐，厉，以救徐也。 </p>
+<p>　　晋侯之入也，秦穆姬属贾君焉，且曰：「尽纳群公子。」晋侯烝于贾君，又不纳群公子，是以穆姬怨之。晋侯许赂中大夫，既而皆背之。赂秦伯以河外列城五，东尽虢略，南及华山，内及解梁城，既而不与。晋饥，秦输之粟；秦饥，晋闭之籴，故秦伯伐晋。 </p>
+<p>　　卜徒父筮之，吉。涉河，侯车败。诘之，对曰：「乃大吉也，三败必获晋君。其卦遇《蛊》，曰：『千乘三去，三去之馀，获其雄狐。』夫狐蛊，必其君也。《蛊》之贞，风也；其悔，山也。岁云秋矣，我落其实而取其材，所以克也。实落材亡，不败何待？」 </p>
+<p>　　三败及韩。晋侯谓庆郑曰：「寇深矣，若之何？」对曰：「君实深之，可若何？」公曰：「不孙。」卜右，庆郑吉，弗使。步扬御戎，家仆徒为右，乘小驷，郑入也。庆郑曰：「古者大事，必乘其产，生其水土而知其人心，安其教训而服习其道，唯所纳之，无不如志。今乘异产，以从戎事，及惧而变，将与人易。乱气狡愤，阴血周作，张脉偾兴，外强中乾。进退不可，周旋不能，君必悔之。」弗听。</p>
+<p>　　九月，晋侯逆秦师，使韩简视师，复曰：「师少于我，斗士倍我。」公曰：「何故？」对曰：「出因其资，入用其宠，饥食其粟，三施而无报，是以来也。今又击之，我怠秦奋，倍犹未也。」公曰：「一夫不可狃，况国乎。」遂使请战，曰：「寡人不佞，能合其众而不能离也，君若不还，无所逃命。」秦伯使公孙枝对曰：「君之未入，寡人惧之，入而未定列，犹吾忧也。苟列定矣，敢不承命。」韩简退曰：「吾幸而得囚。」 </p>
+<p>　　壬戌，战于韩原，晋戎马还泞而止。公号庆郑。庆郑曰：「愎谏违卜，固败是求，又何逃焉？」遂去之。梁由靡御韩简，虢射为右，辂秦伯，将止之。郑以救公误之，遂失秦伯。秦获晋侯以归。晋大夫反首拔舍从之。秦伯使辞焉，曰：「二三子何其戚也？寡人之从君而西也，亦晋之妖梦是践，岂敢以至。」晋大夫三拜稽首曰：「君履后土而戴皇天，皇天后土实闻君之言，群臣敢在下风。」 </p>
+<p>　　穆姬闻晋侯将至，以大子荦、弘与女简、璧登台而履薪焉，使以免服衰絰逆，且告曰：「上天降灾，使我两君匪以玉帛相见，而以兴戎。若晋君朝以入，则婢子夕以死；夕以入，则朝以死。唯君裁之。」乃舍诸灵台。 </p>
+<p>　　大夫请以入。公曰：「获晋侯，以厚归也。既而丧归，焉用之？大夫其何有焉？且晋人戚忧以重我，天地以要我。不图晋忧，重其怒也；我食吾言，背天地也。重怒难任，背天不祥，必归晋君。」公子絷曰：「不如杀之，无聚慝焉。」子桑曰：「归之而质其大子，必得大成。晋未可灭而杀其君，只以成恶。且史佚有言曰：『无始祸，无怙乱，无重怒。』重怒难任，陵人不祥。」乃许晋平。 </p>
+<p>　　晋侯使郤乞告瑕吕饴甥，且召之。子金教之言曰：「朝国人而以君命赏，且告之曰：『孤虽归，辱社稷矣。其卜贰圉也。』」众皆哭。晋于是乎作爰田。吕甥曰：「君亡之不恤，而群臣是忧，惠之至也。将若君何？」众曰：「何为而可？」对曰：「征缮以辅孺子，诸侯闻之，丧君有君，群臣辑睦，甲兵益多，好我者劝，恶我者惧，庶有益乎！」众说。晋于是乎作州兵。 </p>
+<p>　　初，晋献公筮嫁伯姬于秦，遇《归妹》三之《睽》三。史苏占之曰：「不吉。其繇曰：『士刲羊，亦无亡也。女承筐，亦无贶也。西邻责言，不可偿也。《归妹》之《睽》，犹无相也。』《震》之《离》，亦《离》之《震》，为雷为火。为嬴败姬，车说问其輹，火焚其旗，不利行师，败于宗丘。《归妹》《睽》孤，寇张之弧，侄其从姑，六年其逋，逃归其国，而弃其家，明年其死于高梁之虚。」及惠公在秦，曰：「先君若从史苏之占，吾不及此夫。」韩简侍，曰：「龟，像也；筮，数也。物生而后有象，像而后有滋，滋而后有数。先君之败德，乃可数乎？史苏是占，勿从何益？《诗》曰：『下民之孽，匪降自天，僔沓背憎，职竞由人。』」</p>
+<p>　　震夷伯之庙，罪之也，于是展氏有隐慝焉。</p>
+<p>　　冬，宋人伐曹，讨旧怨也。 </p>
+<p>　　楚败徐于娄林，徐恃救也。</p>
+<p>　　十月，晋阴饴甥会秦伯，盟于王城。 </p>
+<p>　　秦伯曰：「晋国和乎？」对曰：「不和。小人耻失其君而悼丧其亲，不惮征缮以立圉也，曰：『必报仇，宁事戎狄。』君子爱其君而知其罪，不惮征缮以待秦命，曰：『必报德，有死无二。』以此不和。」秦伯曰：「国谓君何？」对曰：「小人戚，谓之不免。君子恕，以为必归。小人曰：『我毒秦，秦岂归君？』君子曰：『我知罪矣，秦必归君。贰而执之，服而舍之，德莫厚焉，刑莫威焉。服者怀德，贰者畏刑。此一役也，秦可以霸。纳而不定，废而不立，以德为怨，秦不其然。』」秦伯曰：「是吾心也。」改馆晋侯，馈七牢焉。 </p>
+<p>　　蛾析谓庆郑曰：「盍行乎？」对曰：「陷君于败，败而不死，又使失刑，非人臣也。臣而不臣，行将焉入？」十一月，晋侯归。丁丑，杀庆郑而后入。 　　是岁，晋又饥，秦伯又饩之粟，曰：「吾怨其君而矜其民。且吾闻唐叔之封也，箕子曰：『其后必大。』晋其庸可冀乎！姑树德焉以待能者。」于是秦始征晋河东，置官司焉。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2858.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2860.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1380" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

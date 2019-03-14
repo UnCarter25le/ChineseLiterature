@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·赵四·齐欲攻宋_古诗文网
+</title>
+<meta content="齐欲攻宋，秦令起贾禁之。齐乃捄赵以伐宋。秦王怒，属怨于赵。李兑约五国以伐秦，无功，留天下之兵成皋，而阴构于秦。又欲与秦攻魏，以解其怨而取封焉。魏王不说。之齐，谓齐王曰：“臣为足下谓" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4614.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3543" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>赵四·齐欲攻宋</b></span>
+<a href="javascript:PlayBookv(4614)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4614" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3543)" id="leftbtn3543" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4614" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　齐欲攻宋，秦令起贾禁之。齐乃捄赵以伐宋。秦王怒，属怨于赵。李兑约五国以伐秦，无功，留天下之兵成皋，而阴构于秦。又欲与秦攻魏，以解其怨而取封焉。</p>
+<p>　　魏王不说。之齐，谓齐王曰：“臣为足下谓魏王曰：‘三晋皆有秦患。今之攻秦也，为赵也。五国伐赵，赵必亡矣。秦逐李兑，李兑必死。今之伐秦也，以救李子之于死也。今赵留天下之甲于成皋，而阴鬻之于秦，已讲，则令秦攻魏以成其私封，王之事赵也何得矣?且王尝济于漳，而身朝于邯郸，抱阴、成，负蒿、葛、薜，以为赵蔽，而赵无为王行也。今又以何阳、姑密封其子，而乃令秦攻王，以便取阴。人比然而后如贤不，如王若用所以事赵之半收齐，天下有敢谋王者乎?王之事齐也，无入朝之辱，无割地之费。齐为王之故，虚国于燕、赵之前，用兵于二千里之外，故攻城野战，未尝不为王先被矢石也。得二都，割河东，尽效之于王。自是之后，秦攻魏，齐甲未尝不岁至于王之境也。请问王之所以报齐者可乎?韩呡处于赵，去齐三千里，王以此疑齐，曰有秦阴。今王又挟故薛公以为相，善韩徐以为上交，尊虞商以为大客，王固可以反疑齐乎?’于魏王听此言也甚诎，其欲事王也甚循。甚怨于赵。臣愿王之日闻魏而无庸见恶也，臣请为王推其怨于赵，愿王之阴重赵，而无使秦之见王之重赵也。秦见之且亦重赵。齐、秦交重赵，臣必见燕与韩、魏亦且重赵也，皆且无敢与赵治。五国事赵，赵从亲以合于秦，必为王高矣。臣故欲王之偏劫天下，而皆私甘之也。王使臣以韩、魏与燕劫赵，使丹也甘之；以赵劫韩、魏，使臣也甘之；以三晋劫秦，使顺也甘之；以天下劫楚，使顺也甘之。则天下皆呡秦以事王，而不敢相私也。交定，然后王择焉。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4613.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4615.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3543" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

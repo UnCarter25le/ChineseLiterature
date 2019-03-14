@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+周礼·夏官司马·小司马/司险_古诗文网
+</title>
+<meta content="小司马之职，掌凡小祭祀。会同、飨射、师田、丧纪，掌其事，如大司马之法。军司马，阙。 舆司马阙。 行司马阙。司勋掌六乡赏地之法，以等其功。王功曰勋，国功曰功，民功曰庸，事功曰劳，治功" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3219.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1749" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>夏官司马·小司马/司险</b></span>
+<a href="javascript:PlayBookv(3219)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3219" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1749)" id="leftbtn1749" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3219" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%91%a8%e5%85%ac%e6%97%a6">周公旦</a></p>
+<div class="contson">
+<p>　　小司马之职，掌凡小祭祀。会同、飨射、师田、丧纪，掌其事，如大司马之法。</p>
+<p>　　军司马，阙。 舆司马阙。 行司马阙。</p>
+<p>　　司勋掌六乡赏地之法，以等其功。王功曰勋，国功曰功，民功曰庸，事功曰劳，治功曰力，战功曰多。凡有功者，铭书于王之大常，祭於大烝，司勋诏之。大功，司勋藏其贰。掌赏地之政令。凡赏无常，轻重眡功。凡颁赏地，三之一食，唯加田无国正。 马质掌质马。马量三物，一曰戎马，二曰田马，三曰驽马，皆有物贾，纲恶马。凡受马于有司者，书其齿毛与其贾。马死，则旬之内更，旬之外入马耳，以其物更，其外否。马及行，则以任齐其行。若有马讼，则听之。禁原蚕者。 量人掌建国之法。以分国为九州，营国城郭，营后宫，量市朝道巷门渠。造都邑，亦如之。营军之垒舍，量其市朝州涂，军社之所里。邦国之地与天下之涂数，皆书而藏之。凡祭祀，飨宾，制其従献脯燔之数量，掌丧祭奠之俎实。凡宰祭、与郁人受斝历而皆饮之。</p>
+<p>　　小子掌祭祀羞羊肆、羊殽、肉豆，而掌珥于社稷，祈于五祀。凡沈、辜、侯、禳，饰其牲，衅邦器及军器。凡师田，斩牲以左右徇陈。祭祀，赞羞，受撤焉。</p>
+<p>　　羊人掌羊牲。凡祭祀，饰羔。祭祀，割羊牲，登其首。凡祈珥，共其羊牲。宾客，共其法羊。凡沈、辜、侯、禳、衅、积，共其羊牲。若牧人无牲，则受布于司马，使其贾买牲而共之。</p>
+<p>　　司爟掌行火之政令。四时变国火，以救时疾，季春出火，民咸従之。季秋内火，民亦如之。时则施火令。凡祭祀，则祭爟。凡国失火，野焚莱，则有刑罚焉。</p>
+<p>　　掌固掌修城郭、沟池、树渠之固，颁其士、庶子及其众庶之守，设其饰器，分其财用，均其稍食，任其万民，用其材器。凡守者受法焉，以通守政，有移甲，与其役，财用唯是得通，与国有司帅之，以赞其不足者。昼三巡之；夜亦如之；夜三鼜以号戒。若造都邑则治其固与其守法。凡国都之竟有沟树之固，郊亦如之。民皆有职焉，若有山川，则因之。 司险掌九州之图，以周知其山林、川泽之阻，而达其道路。设国之五沟、五涂，而树之林以为阻固，皆有守禁，而达其道路。国有故，则藩塞阻路而止行者，以其属守之，唯有节者达之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3218.aspx">上一章</a>
+<a href="/guwen/book_24.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3220.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1749" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

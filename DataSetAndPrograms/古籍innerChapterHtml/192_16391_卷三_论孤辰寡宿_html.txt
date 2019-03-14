@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷三·论孤辰寡宿_古诗文网
+</title>
+<meta content="先贤有云：老而无夫曰寡，幼而无父曰孤，此其义也。辰谓星辰，宿谓星宿，指其神也。人命犯此星辰，则孤寡如是。如亥子丑逐方三位，进前一辰见寅为孤，退后一辰见戌为寡。又过角为孤，退角为寡。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16391.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·论孤辰寡宿</b></span>
+<a href="javascript:PlayBookv(16391)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16391" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16391" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　先贤有云：老而无夫曰寡，幼而无父曰孤，此其义也。辰谓星辰，宿谓星宿，指其神也。人命犯此星辰，则孤寡如是。如亥子丑逐方三位，进前一辰见寅为孤，退后一辰见戌为寡。又过角为孤，退角为寡。其余三方皆依此推。乃阴阳惆怅之义。且夫寅为春始，辰为春末，巳为夏始，未为夏末，申为秋始，戌为秋末，亥为冬始，丑为冬末，皆阴阳支离之神，四时代谢之方。《三车》云：造物中以生我者为母，克我者为夫，我克者为妻。亥子丑属北方水位，水用金为母，金绝于寅，是母绝也；用火为妻，火墓为戌，是妻墓也。巳午未，南方火位，火用木为母，木绝在申；用水为夫，水墓在辰。寅卯辰属东方木位，木用水为母，水绝在巳；用金为夫，金墓在丑。是取母绝为孤辰，夫墓、妻墓为寡宿，其义尤切。《珞录子》云：“骨肉中道分离，孤寡犹嫌于隔角。”《玉门集》云：“寅申巳亥为角，辰戌丑未为隔。进者为阳，不利父；退者为阴，不利母。”又云：“在阳宫妨父，在阴宫妨母。如寅卯辰人，巳为孤，丑为寡，寅辰为阳之位，丑巳为阴之位。男女生命见之，虽亲生儿女，多不和顺。”王氏云：“男命生于妻绝之中而逢孤辰，平生难于婚偶；女命生于夫绝之中而遇寡宿，屡嫁不能偕老。”如辛丑人得庚寅，寅为丑孤辰，丑为寅寡宿，寅丑互为寡宿。隔角言丑寅中有艮卦隔，乾坤艮巽四犹之角也。</p>
+<p>　　《烛神经》云：“凡人命犯孤寡，主形孤骨露，面无和气，不利六亲。生旺稍可，死绝尤甚。驿马并，放荡他乡；空亡并，幼小无倚；丧吊并，父母相继而亡。一生多逢重丧叠祸，骨肉伶仃，单寒不利。入贵格，赘婿妇家；入贱格，移流未免。”《鬼谷遗文》云：“连属不言孤寡，如亥得寅戌，寅得丑巳；或支干朝会包裹贵人，虽犯孤寡，不以孤寡论。”《广录》云：“井栏斜冲，是孤辰寡宿。”更天干带倒食，谓之井栏倒食。若巳午未人再生夏三月，是带两重孤寡，主克妻害子，少六亲，不聚财，多生女；更带诸凶煞，主不令终。《珞录子》云：“凭阴察其阳祸，岁星莫犯于孤辰；恃阳鉴以阴灾，天年忌逢于寡宿。”盖言小运、太岁不可犯之，阳以孤辰为重，阴以寡宿为重。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16390.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16392.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

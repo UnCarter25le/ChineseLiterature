@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·曲礼公西赤问_古诗文网
+</title>
+<meta content="公西赤問於孔子曰：「大夫以罪免卒，其葬也如之何？」孔子曰：「大夫廢其事，終身不仕，死則葬之以士禮，老而政仕者，死則從其列．」公儀仲子嫡子死，而立其弟，檀弓問子服伯子曰：「何居？我未" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4153.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2753" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>曲礼公西赤问</b></span>
+<a href="javascript:PlayBookv(4153)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4153" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2753)" id="leftbtn2753" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4153" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　公西赤問於孔子曰：「大夫以罪免卒，其葬也如之何？」孔子曰：「大夫廢其事，終身不仕，死則葬之以士禮，老而政仕者，死則從其列．」</p>
+<p>　　公儀仲子嫡子死，而立其弟，檀弓問子服伯子曰：「何居？我未之前聞也．」子服伯子曰：「仲子亦猶行古人之道，昔者文王拾伯邑考，而立武王，微子捨其孫腯，立其弟衍．」子游以聞諸孔子，子曰：「否，周制立孫．」</p>
+<p>　　孔子之母既葬，將立葬焉，曰：「古者不祔葬，為不忍先死者之復見也．詩云：『死則同穴．』自周公已來祔葬矣．故衛人之祔也，離之，有以聞焉；魯人之祔也，合之，美夫，吾從魯．」遂合葬於防曰：「吾聞之有備物而不可用也，是故竹不成用，而瓦不成膝，琴瑟張而不平，笙竽備而不和，有鐘磬而無簨虡．其曰盟器，神明之也，哀哉，死者而用生者之器，不殆而用殉也．」</p>
+<p>　　子游問於孔子曰：「葬者塗車芻靈，自古有之，然今人或有偶，是無益於喪．」孔子曰：「為芻靈者善矣，為偶者不仁，不殆於用人乎．」</p>
+<p>　　顏淵之喪既祥，顏路饋祥肉於孔子．孔子自出而受之，入彈琴以散情，而後乃食之．孔子嘗奉薦而進，其親也愨，其行也趨，趨以數．已祭，子貢問曰：「夫子之言祭也，濟濟漆漆焉，今夫子路為季氏宰，季氏祭逮昏而奠，終日不足，繼以燭，雖有彊力之容，肅敬之心，皆倦怠矣．有司跛倚以臨，其為不敬也大矣．」他日，子路與焉，室事交于戶，堂事當于階，質明而始行事，晏朝而徹．孔子聞之曰：「孰為士也而不知禮．」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4152.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2753" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

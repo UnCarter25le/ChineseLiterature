@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·为政篇·禀父母·请四弟送归诰轴_古诗文网
+</title>
+<meta content="男国藩跪禀父母亲大人万福金安。九月二三四日内，诰轴用玺，大约十八日右领到。同乡夏阶平部丁内艰，二十日起程回南。男因渠是素服，不便托带诰轴，又恐其在道拜客，或者耽搁。祖母大人于月出廿" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18303.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>为政篇·禀父母·请四弟送归诰轴</b></span>
+<a href="javascript:PlayBookv(18303)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18303" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18303" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　男国藩跪禀</p>
+<p>　　父母亲大人万福金安。九月二三四日内，诰轴用玺，大约十八日右领到。同乡夏阶平部丁内艰，二十日起程回南。男因渠是素服，不便托带诰轴，又恐其在道拜客，或者耽搁。祖母大人于月出廿九寿，若赶紧送回，尚可于寿辰迎接连轴。祖母特命四弟束装出京，专送诰轴回家，与夏阶平同伴，计十一月十七八可到汉口。</p>
+<p>　　汉口到岳州，不过三四天，雇轿五天可到家。四弟到省，即专人回家，以便家中办事，迎接诰命。</p>
+<p>　　见事难以逆料，风顺则坐船，风不顺则坐轿。恐四弟道上或有风水阻隔，不能赶上祖母寿辰，亦未顺知。家做生日酒，且不必办接诰封事。若四弟能到，廿七日有信，廿八办鼓手香案，廿九接片可也。倘四弟能到省之信，则廿九但办寿筵，明睥正月初八日接片可也。倘四弟不归而托别人，不特廿九赶不上，恐初八亦接不到，此男所以特命四弟送归之意耳。</p>
+<p>　　四弟数千里来京，伊意不愿遽归。男与国子监祭洒车意园先生商议，令四弟在国子监报名，先交银数十两，即可给顶戴。男因具呈为四弟报名，缴银三十两，其余俟明年陆续缴纳，缴完之日，即可领照。男以此打发四弟，四弟亦欣然感谢。且言愿在家中帮堂上大人照料家事，不愿再应小考，男亦颇以为然。</p>
+<p>　　男等在京，身体平安，男妇生女后亦平善。六弟决计留京，弟在江西，有信来甚好；陈岱云待之如胞弟，饮食教诲，极为可感！书法亦大有长进，然无故而依人，究似非宜。男写书与九弟，嘱其今年偕郭筠仙同伴回家，大约年底可到家。男在京一切用度，自吸调度，家中不必挂心。男谨禀。（道光二十六年十月廿五日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18302.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18304.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

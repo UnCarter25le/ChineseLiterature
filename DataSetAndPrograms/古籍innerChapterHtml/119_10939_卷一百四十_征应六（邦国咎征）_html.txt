@@ -1,0 +1,115 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平广记·卷一百四十·征应六（邦国咎征）_古诗文网
+</title>
+<meta content="大星　火灾　水灾　僧一行　汪凤　僧普满　秦城芭蕉　睿陵僧　兴圣观　骆驼杖大星　唐开元二年五月二十九日夜，大流星如瓮。或如盆大者，贯北斗，并西北落。小者随之无数。天星尽摇，至晓乃止。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_10939.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8881" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一百四十·征应六（邦国咎征）</b></span>
+<a href="javascript:PlayBookv(10939)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv10939" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8881)" id="leftbtn8881" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay10939" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89%e3%80%81%e6%89%88%e8%92%99%e3%80%81%e5%be%90%e9%93%89%e7%ad%89">李昉、扈蒙、徐铉等</a></p>
+<div class="contson">
+<p>　　大星　火灾　水灾　僧一行　汪凤　僧普满　秦城芭蕉　睿陵僧　兴圣观　骆驼杖</p>
+<p>　　大星　</p>
+<p>　　唐开元二年五月二十九日夜，大流星如瓮。或如盆大者，贯北斗，并西北落。小者随之无数。天星尽摇，至晓乃止。（“止”原作“上”。据明抄本、黄本改。）七月，襄王崩，谥殇帝。十月，吐蕃入陇右，掠羊马，杀伤无数。其年六月，大风拔树发屋，长安街中树，连根出者十七八。长安城初建，隋将作大匠高颖所植槐树，殆三百余年，至是拔出。终南山竹，开花结子，绵亘山谷，大小如麦。其岁大饥，其竹并枯死。岭南亦然。人取而食之，醴泉雨面，如米颗，人可食之。后汉襄楷云：国中竹柏枯者，不出三年，主当之。人家竹结实枯死者，家长当之。终南竹花枯死者，开元四年而太上皇崩。（出《朝野佥载》）</p>
+<p>　　火灾　　</p>
+<p>　　开元五年，洪潭二州，复有火灾。昼日，人见火精赤燩燩，所诣即火起。东晋时，王弘为吴郡太守，亦有此灾。弘挞部人，将为不慎。后坐厅事，见一物赤如信幡，飞向人家舍上，俄而火起。方知变不复由人，遭爇人家，遂免笞罚。（出《朝野佥载》）</p>
+<p>　　水灾　　</p>
+<p>　　唐开元八年，契丹叛。关中兵救营府，至渑池缺门，营于穀水侧。夜半水涨，漂二万余人。唯行纲夜樗蒲不睡，接高获免。村店并没尽，上阳宫中水溢，宫人死者十七八。其年，京兴道坊一夜陷为池，没五百家。初邓州三鸦口见二小儿以水相泼；须臾，有大蛇十围已上，张口向天。人或有斫射者，俄而云雨晦冥，雨水漂二百家。小儿及蛇，不知所在。（出《朝野佥载》）</p>
+<p>　　僧一行　　</p>
+<p>　　唐开元十五年，一行禅师临寂灭，遗表云：他时慎勿以宗子为相，蕃臣为将。后李林甫擅权于内，安禄山弄兵于外，东都为贼所陷。天宝中，乐人及闾巷好唱胡《渭州》，以回纥为破。后逆胡兵马，竟被回纥击破。国风兴废，潜见于乐音。时两京小儿，多将（“将”原作“小”。据明抄本改。）钱摊地，于穴中更争胜负，名曰投胡。后士庶果投身于胡庭。两京童谣曰：“不怕上兰单，唯愁答辩难。无钱求案典，生死任都官。”及克复，诸旧僚朝士，系于三司狱，鞠问罪状，家产罄尽，骨肉分散，申雪无路，即其兆也。（出《广德神异录》）</p>
+<p>　　汪凤　　</p>
+<p>　　唐苏州吴县甿汪凤，宅在通津，往往怪异起焉。不十数年，凤之妻子洎仆使辈，死丧略尽。凤居不安，因货之同邑盛忠。忠居未五六岁，其亲戚凋陨，又复无几。忠大忧惧，则损其价而摽货焉。吴人皆知其故，久不能售。邑胥张励者，家富于财，群从强大，为邑中之蠹横，居与忠同里。每旦诣曹，路经其门，则遥见二青气，粗如箭竿，而紧锐彻天焉。励谓实玉之藏在下，而精气上腾也。不以告人，日日视之。因诣忠，请以百缗而交关焉。寻徙入，复晨望，其气不衰。于是大具畚锸，发其气之所萌也。掘地不六七尺，遇盘石焉。去其石，则有石柜，雕镌制造，工巧极精，仍以铁索周匝束缚，皆用铁汁固缝，重以石灰密封之。每面各有朱记七窠，文若谬篆，而又屈曲勾连，不可知识，励即加钳锤，极力开拆。石柜既启，有铜釜，可容一斛，釜口铜盘覆焉，用铅锡锢护。仍以紫印九窠，回旋印之，而印文不类前体，而全如古篆。人无解者。励拆去铜盘，而釜口以绯缯三重幂之。励才揭起，忽有大猴跳而出。众各惊骇，无敢近者。久之，超逾而莫如所诣。励因视釜中，乃有石铭云：祯明元年，七月十五日，茅山道士鲍知远，囚猴神于此。其有发者，发后十二年，胡兵大扰，六合烟尘，而发者俄亦族灭。祯明即陈后主叔宝年号也。励以天宝二年十月发，至十四年冬，禄山起戎，自是周年，励家灭矣。（出《集异记》）</p>
+<p>　　僧普满　　</p>
+<p>　　唐大历中，泽潞有僧，号普满，随意所为，不拘僧相，或歌或笑，莫喻其旨。以言事往往有验，故时人待之为万回。建中初，于潞州佛舍中题诗数篇而亡。所记者云：“此水连泾水。”双珠血满川。青牛将赤虎，还号太平年。”题诗后，人莫能知。及贼泚称兵，众方解悟。此水者泚字，泾水者，自泾州兵乱也。双珠者，泚与滔也，青牛者，兴元二年乙丑岁，乙者木也，丑者牛也。明年改元贞元，岁在丙寅。丙者火也，寅者虎也。至是贼已平，故云青牛将赤虎，还号太平年。（出《广德神异录》）</p>
+<p>　　秦城芭蕉　　</p>
+<p>　　天水之地，迩于边陲，土寒，不产芭蕉。戎师使人于兴元求之，植二本于亭台间。每至入冬，即连土掘取之，埋藏于地窟。候春暖，即再植之。庚午辛未之间，有童谣曰：“花开来裹，花谢束裹。”而又节气变而不寒，冬即和煦。夏即暑毒，甚于南中，芭蕉于是花开。秦人不识，远近士女来看者，填咽衢路。寻则蜀人犯我封疆，自尔年年一来，不失芭蕉开谢之候。乙亥岁，歧陇援师不至，自陇之西，竟为蜀人所有。暑湿之候，一如巴邛者。盖剑外节气，先布于秦城。童谣之言，不可不察。（出《玉堂闲话》）</p>
+<p>　　睿陵僧　　</p>
+<p>　　睿陵之侧，有贫僧居之。草衣芒履，不接人事。尝燔木取灰贮之，亦有施其资镪者，得即藏于灰中，无所使用。出入必挽一拖车，谓人曰：“此是驷马车，汝知之乎？他日，必有龙舆凤辇，萃于此地。”居人罔测其由。及汉高祖皇帝，因山于此，陵寝陶器，所用须灰。僧贮灰甚多，至于毕功，资用不阙。又于灰积中颇获资镪。辇辂之应，不差毫厘。因山既毕，僧亦化灭。睿陵行礼官寮，靡不知者。（出《玉堂闲话》）</p>
+<p>　　兴圣观　　</p>
+<p>　　蜀城旧有兴圣观，废为军营，庭宇堙毁，已数十年。军中生子者，奕世擐甲矣，殊不知此为观基。甲申岁，为蜀少主生日，僚属将率俸金营斋。忽下令，遣将营斋之费，及修兴圣观。左徒藏事，急如星火，不日而观成。丹雘未晞，兴圣统师而入蜀。嗟乎，国之兴替，运数前定，其可以苟延哉。（出《王氏见闻录》）</p>
+<p>　　骆驼杖　　</p>
+<p>　　蜀地无骆驼，人不识之。蜀将亡，王公大人及近贵权幸出入宫省者，竟执骆驼杖以为礼，自是内外效之。其杖长三尺许，屈一头。傅以桦皮。识者以为不祥。明年，北军至，骆驼塞剑栈而来，般辇珍宝，填满城邑，至是方验。（《出王氏见闻录》）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_10938.aspx">上一章</a>
+<a href="/guwen/book_119.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_10940.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8881" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

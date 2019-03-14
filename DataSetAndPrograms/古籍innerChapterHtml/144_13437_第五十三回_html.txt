@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+说唐全传·第五十三回_古诗文网
+</title>
+<meta content="小罗成力擒女将 马赛飞勘破迷途当下王世充、孟海公见马赛飞得胜回营，不胜欢喜，就令军士把尉迟恭推进来。军士一声答应。就将程咬金推至帐前，咬金立而不跪。孟海公骂道：“尉迟恭，你自恃日抢" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13437.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第五十三回</b></span>
+<a href="javascript:PlayBookv(13437)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13437" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13437" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%88%e6%b1%9d%e8%a1%a1%e6%94%b9%e5%86%99">陈汝衡改写</a></p>
+<div class="contson">
+<p>　　<strong>小罗成力擒女将 马赛飞勘破迷途</strong></p>
+<p>　　当下王世充、孟海公见马赛飞得胜回营，不胜欢喜，就令军士把尉迟恭推进来。军士一声答应。就将程咬金推至帐前，咬金立而不跪。孟海公骂道：“尉迟恭，你自恃日抢三关，夜劫八寨，英雄无敌，谁想今日被孤家所擒？”咬金道：“你们瞎眼的大王，黑炭团弄你的爱姬，却来寻我卖柴扒的出气！”旁边走出单雄信说道：“王爷，这不是尉迟恭，他叫程咬金。”孟海公便对马赛飞道：“夫人，你人也不认明白，混乱就拿。”赛飞道：“既不是尉迟恭，可把这厮监禁后营，待我再去拿尉迟恭来，一并处斩。”众王道：“有理。”就把咬金监禁后营，马赛飞又提刀上马而去。</p>
+<p>　　再说秦王闻咬金被擒，十分忧闷。茂公道：“主公勿忧，臣料他不出三日，自然回来。”言未了，外边又报，女将在营外讨战。茂公道：“此番交战，非罗成不可。”就叫罗成说道：“外边女将，他有飞刀二十四把，十分厉害。你去出战，只要不放他手空。他手不空，神刀便不能起，快与我拿来。”罗成得令，提枪上马，直到阵前。那马赛飞看见罗成少年英貌，心中暗恩：“这样俊俏郎君，与他同宿一宵，胜如做皇后了。”因问道：“小将，你青春多少？可曾娶妻么？”罗成道：“你问俺做什么？”马赛飞道：“我看你小小年纪，不知交兵厉害，恐伤你性命，岂不可惜，故此问你。你今与我结为姊弟，共助孟海公，我和你自有好处。”罗成大怒，骂道：“不顾脸面的淫妇，你虽生得美貌，奈我罗将军不是好色之徒！”就举枪剌来。马赛飞被他骂了这话，心中大怒，遂举刀交战。罗成抢上一步，借势一提，就把马赛飞擒过来，回营缴令。茂公吩咐，监禁在后营。</p>
+<p>　　那洛阳军士，飞报入营说：“马娘娘着罗成活擒去了！”孟海公听见，叫声：“罢了！孤家献尽丑了！”又叫道：“王兄，那马氏是小弟要紧的人，怎生救他回来？”王世充道：“如今可将程咬金去换马娘娘回来，谅他必定许允。”孟海公就问：“那位将军押程咬金到唐营去，换马娘娘回来？”单雄信应声愿往，遂领命来到后营，见咬金在囚车内。雄信道：“程兄弟，我待来放你回去。”咬金道：“你既有这般好心，为什么捉到之时，不放我出去？直到如今才放，其中必有缘故，你可对我说明。”雄信道：“今因马赛飞被罗成擒去，如今要将你去换来。”咬金道：“既然如此，二哥你可把酒肉请我，吃个畅快，我才肯去。”雄信道：“容易。”就叫家将取酒肉进来，放咬金出囚车，咬金把酒肉吃个醉饱。雄信道：“如今我同你去。”咬金道：“二哥，我是直性汉子，若同我去，就没了我的体面。待我自己回去，包管还你马赛飞便了。如若不信，待我罚一咒与你听！我程咬金回去，若不放马赛飞回来，天打木头狗遭瘟！”雄信道：“不必罚咒，我是信得过你的，去吧。”</p>
+<p>　　咬金出了营门，一路思想，必须如此如此，方出我心头之气。回到营中，秦王大喜，就问，如何得回来。咬金道：“臣被他拿去，他用好酒好肉请我，今日送臣回来，臣说：‘承你一片好心，待我回去，放马赛飞还你。’他所了，千谢万谢。主公看臣面上，把这马赛飞还了他吧。若是主公下次要这个人，臣就去拿来。”秦王道：“他有随身飞刀，甚是厉害，你日后如何拿他？”咬金道：“不难，待臣杀只狗来，将狗血涂在他飞刀上，自然飞不起来。”秦王道：“有理。”便吩咐将马氏推出。咬金对马氏说道：“你这不中抬举的，我程爷要你做偏房，你却千推万阻，为何今日落在我手里？我不要你做小婆子。”吩咐小军推出去，把宝贝用狗血涂抹了。</p>
+<p>　　那马赛飞又气又恼，来至本营，见孟海公大哭道：“奴家被程咬金许多羞辱，又将宝贝弄坏了，好不可恨！”孟海公道：“日后再擒这厮，将他千刀万剐，与爱妻出气。但宝贝被他弄坏，怎生是好？”马赛飞道：“不妨。待妻前往山中，七日七夜，重炼飞刀二十四把，再来复仇便了。如今辞别王爷前去，不出十日之期，自然回来。”孟海公道：“御妻，你早去早回。”马赛飞道：“晓得。”遂出营门。</p>
+<p>　　一路前去，来至一山，名叫“杏花山”，忽见一个道人，叫道：“马赛飞，你但晓得炼就飞刀害人，却不知自家的死活？那秦王是紫微星君下降，真命天子。这孟海公是奎星降世，以乱隋室，不久就灭。你若炼就飞刀前去，性命决然难保。不若拜我为师，与众仙姑修仙学道，长生不死，你意下若何？”马赛飞听了，惊得毛骨悚然，只得跪下，叫声：“师父，弟子情愿跟随师父出家。”遂同道人修仙学道去了。马赛飞命不该绝，遇道人前来点化他，也是仙缘有分，他从此就留山学道，一去不回。未知孟海公如何记念，且听下回分解。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13436.aspx">上一章</a>
+<a href="/guwen/book_144.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13438.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

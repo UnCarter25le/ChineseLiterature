@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·草部·黄芪_古诗文网
+</title>
+<meta content="释名亦名戴糁、戴椹、 草、百本、王孙。(“芪”原作为“耆”)。气味(根)甘、微温、无毒。主治小便不通。用黄芪二钱，加水二碗，煎成一碗，温服。小儿减半。酒疸黄疾(醉后感寒，身上发赤、" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1552.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>草部·黄芪</b></span>
+<a href="javascript:PlayBookv(1552)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1552" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1552" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>亦名戴糁、戴椹、 草、百本、王孙。(“芪”原作为“耆”)。</p>
+<p><strong>气味</strong><br/>(根)甘、微温、无毒。</p>
+<p><strong>主治</strong><br/>小便不通。用黄芪二钱，加水二碗，煎成一碗，温服。小儿减半。<br/>酒疸黄疾(醉后感寒，身上发赤、黑、黄斑)。用黄芪二两、木兰一两，共研细。每服少许。一天服三次，酒送下。<br/>白浊。用盐炒黄芪半两、茯苓一两，共研细。每服一钱。<br/>萎黄焦渴(每与痈疽发作，先后伴随)。用黄芪六两，一半生焙，一半加盐水在饭上蒸熟；另用甘草一两，也是一半生用，一半灸黄。二药共研细。每服二钱，一天两次。也可以煎服。此方名“黄芪六一汤”。<br/>老人便秘。用黄芪、陈皮各半两，研细。另用大麻子一合，捣烂，加水揉出浆汁，煎至半干，调入白蜜一匙，再煮过，把黄芪、陈皮末加入调匀服下。两服可通便。可以常服。<br/>血。用黄芪、黄连，等分为末，加面糊做成丸子，如绿豆大。每服三十丸。<br/>血淋少淋。用黄芪、人参，等分为末。另用萝卜四、五片，加蜜二两，稍稍灸过后，蘸药末吃下，以盐水送服。<br/>吐血。用黄芪二钱半、紫背浮萍五钱，共研为末。每服一钱，姜蜜水送下。<br/>咳脓咳血，咽干(这是虚热，不可吃凉药)。用黄芪四两、甘草一两，共研为末。每服二钱，热水送下。<br/>肺痈。用黄芪二两研细，每取二钱煎汤服。一天可服三、四次。<br/>甲疽(趾甲边红肉突出成疽)。用黄芪二两、 茹一两，醋浸一宿，加入猪油五合，微火煎成二合。去渣，取脂涂疮上。一天三次。<br/>胎动不安(腹痛，下黄汁)。用黄芪、芎 各一两，糯米一合，水一升，一起煮到半到。分次服下。<br/>阴汗湿痒。用黄芪酒炒后研细，切熟猪心蘸着吃，有效。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1551.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1553.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

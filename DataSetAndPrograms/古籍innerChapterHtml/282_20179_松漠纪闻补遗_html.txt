@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+松漠纪闻·松漠纪闻补遗_古诗文网
+</title>
+<meta content="虏中庙讳尤严，不许人犯。尝有一武弁经西元帅投牒，误斥其讳，杖背流递。武元初，只讳“旻”，后有申请云：旻，闵也。遂并“闵”讳之。虏中中丞唯掌讼牒，若断狱会法。或春山秋水，谓去国数百里" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20179.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>松漠纪闻补遗</b></span>
+<a href="javascript:PlayBookv(20179)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20179" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20179" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b4%aa%e7%9a%93">洪皓</a></p>
+<div class="contson">
+<p>　　虏中庙讳尤严，不许人犯。尝有一武弁经西元帅投牒，误斥其讳，杖背流递。武元初，只讳“旻”，后有申请云：旻，闵也。遂并“闵”讳之。</p>
+<p>　　虏中中丞唯掌讼牒，若断狱会法。或春山秋水，谓去国数百里，逐水草而居处。从驾在外，卫兵物故，则掌其骸骼，至国则归其家。谏官并以他官兼之，与台官皆备员，不弹击。外道虽有漕使，亦不刺举，故官吏赃秽，略无所惮。</p>
+<p>　　虏法：文武官不以高下，凡丁家难未满百日，皆差监关税、州商税院、盐铁场，一年为任，谓之“优饶”。其税课倍增者谓之“得筹”。每一筹转一官，有岁中八、九迁者。近有止法，不得过三官。富者择课额少处受之，或以家财贴纳，只图迁转。其不欲迁者于课利多处，除岁额外，公然分之。</p>
+<p>　　虏中有负犯者，不责降，只差监盐场。课额虽登，出卖甚迟，虽任满去官，非卖尽不得仕，至有十年不调者。无磨勘之法，每一任转一官，以二十五月为任，将满即改除，并不待阙。</p>
+<p>　　北地汉儿张献甫作太原都军，都监也。其姊夫刘思与侍郎高庆裔为十友之数。张有一犀带，国初钱王所献者，号“镇国宝带”，是正透，中间龙形。</p>
+<p>　　契丹重骨咄犀，犀不大，万株犀无一不曾作带纹，如象牙带黄色，止是作刀把，已为无价。天祚以此作兔鹘，中国谓之腰条皮。插垂头者。</p>
+<p>　　鹿顶合，燕以北者方可车，须是未解角之前。才解角，血脉通，冬至方解。顶之上为“合正须”，亦作“合”。好者有人字，不好者成八字，有髓眼，不实。北人谓角为鹿角合，顶为鹿顶合。南中止有鹿角合。南鹿不实，定有髓眼，不可车。北地角未老，不至秋时不中。</p>
+<p>　　糜角与鹿角不同，糜角如驼骨，通身可车，却无纹，生枝不比。鹿皆小鹿，顶骨有纹，上下无之，亦可熏成纹。</p>
+<p>　　犀有三种：重透，外黑有一晕白，中又黑，世艰得之。正透，又曰通犀。例透，亦曰花犀或班犀，有游鱼形诸犀中。水犀最贵。秀州周通直家有正透犀带，其中一点白，以纸镫近之即时灭，有湿气，疑是水犀。</p>
+<p>　　耀段褐色，泾段白色。生丝为经，羊毛为纬，好而不耐。丰段有白有褐最佳，驼毛段出河西，有褐有白。</p>
+<p>　　秋毛最佳，不蛀。冬间毛落，去毛上之粗者，取其茸毛。皆关西羊为之，蕃语谓之“髊劝”。北羊止作粗毛。</p>
+<p>　　先忠宣《松漠纪闻》，伯兄镂板歙越。遵来守建业又刻之。暇日，搜阅故牍，得北方十有一事，皆曩岁侍旁亲闻之者，目曰“补遗”，附载于此。干道九年六月二日，第二男资政殿大学士、左中大夫知建康府江南东路安抚使兼行宫留守遵谨书。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20178.aspx">上一章</a>
+<a href="/guwen/book_282.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

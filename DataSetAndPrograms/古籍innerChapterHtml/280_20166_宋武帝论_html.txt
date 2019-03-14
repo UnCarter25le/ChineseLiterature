@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+何博士备论·宋武帝论_古诗文网
+</title>
+<meta content="天下之事，日至而无穷。而吾有以应之，莫不中理者，在乎善用其机。况乎争天下之利，处两军之交，不得其机以决之，则事亦随去矣。盖机之为物，不可以期待，不能以巧致者也。卒然而会，迅忽眇微；" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20166.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>宋武帝论</b></span>
+<a href="javascript:PlayBookv(20166)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20166" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20166" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%95%e5%8e%bb%e9%9d%9e">何去非</a></p>
+<div class="contson">
+<p>　　天下之事，日至而无穷。而吾有以应之，莫不中理者，在乎善用其机。况乎争天下之利，处两军之交，不得其机以决之，则事亦随去矣。盖机之为物，不可以期待，不能以巧致者也。卒然而会，迅忽眇微；及其去之，疾不容瞬。先机而起，于机为妄赴；后机而发，于机为失应。是以御天下之事于一己而权不移，制天下之变于无穷而不诎。夫机有待之百年而不至者，有居之一日而数至者。待之百年而无可乘之机，则吾未尝迟之而求于先发；居之一日而机数至，则吾未尝厌之而怠于必应。呜呼！人能知此，然后可与济天下之大业矣。</p>
+<p>　　昔者越王勾践辱于会稽之栖，迨其返国，苦身焦思，拊循其民，求有以报于吴也。盖七年而民求奋于吴，其臣逢同、大夫种、范蠡之徒止之，以为未睹其可乘之机以发之也。于是乎敛形匿迹以伺其隙者，凡十八年。一旦吴王空国，北从黄池之会，遂一举而败吴，再举而亡之。西晋自永嘉之乱，群雄四起而分中原。元帝窜身南渡，收区区之江左以续宗祀。而群雄自相搏噬，骤兴骤灭，百年之久。至于苻坚，并兼略尽，乃空国大举而图江南，遂及淝水百万之败。返未及国，而慕容亡燕之裔并起而乘之，垂收陜东而冲乱关右。苻丕坐困邺城，求我粮援。既而垂以幽冀之民馑死殆尽，其党溃叛，退保中山。坚、冲相持，其势俱惫。于斯时也，可谓千载一至之机也。晋人有能乘燕、秦相弊之余，因淝水克敌之势，选师择将而命二军：一军北收邺城以举燕代，一军西趋咸阳而定关陇。据旧都之固，复七庙之坠，镇抚士民，以殄余党，则武帝之业一朝可复，而大耻刷矣。晋人抚机而不知发，乃方出师漕粟以慰其既来，而尺土不获，而师以丧败。此谢安以气怯而失机也。</p>
+<p>　　宋武帝以英特之姿，攘袂而起，平灵宝于旧楚，定刘毅于荆豫，灭南燕于二齐，克谯纵于庸蜀，殄卢循于交广，西执姚泓而灭后秦，盖举无遗策而天下惮服矣。北方之寇，独关东之拓跋，陇北之赫连耳。方其入关，魏人虽强，不敢南指西顾以议其后。而秦民大悦，以谓百年愤辱去于一朝，相与涕泣而留之，以其为汉室之裔，乃以长安十陵、咸阳宫室以动其情。使武帝因三秦悦附之民，治兵搜骑而留拊之，通江淮之漕，下巴蜀之粟，举荆豫之师，发青齐之甲以拔赵魏，从事于中原，则天下之势，不劳而遂一矣。然其席不暇暖，举千里之秦，属之乳褓之儿，引兵遽还，无复顾虑，大违秦民之望。盖一举足而赫连蹑踵以收关中，如探物于怀间。此宋武以志卑而失机也。</p>
+<p>　　察夫宋武之心，非以秦雍为当捐，而赵魏于足惮也。然其亟去而不顾者，盖以其艰难百战，凡所以造宋之基业者，皆在乎江左故也。往日南燕之役，卢循乘虚而下，几失建业。今之速返者，畏人之议其后而为卢循之举也。此所以轻捐关中而不顾也。又其起于渔樵匹夫之微，崎岖转战以经略江左者，凡三十年。今之西师者，徒欲成败晋之资，而其志虑之所在，亦曰代晋而已，未暇为王业万世虑也。使司马氏卒不复见中州之定，而群敌遂为不讨之仇者，由再失天下之大机也。嗟夫！集大事者，恶夫志卑而失机，宋武兼之矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20165.aspx">上一章</a>
+<a href="/guwen/book_280.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20167.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

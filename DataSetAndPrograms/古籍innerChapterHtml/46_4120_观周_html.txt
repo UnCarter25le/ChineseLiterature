@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·观周_古诗文网
+</title>
+<meta content="孔子謂南宮敬叔曰：「吾聞老聃博古知今，通禮樂之原，明道德之歸，則吾師也，今將徃矣．」對曰：「謹受命．」遂言於魯君曰：「臣受先臣之命，云孔子聖人之後也，滅於宋，其祖弗父何，始有國而授" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4120.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2720" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>观周</b></span>
+<a href="javascript:PlayBookv(4120)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4120" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2720)" id="leftbtn2720" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4120" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　孔子謂南宮敬叔曰：「吾聞老聃博古知今，通禮樂之原，明道德之歸，則吾師也，今將徃矣．」對曰：「謹受命．」遂言於魯君曰：「臣受先臣之命，云孔子聖人之後也，滅於宋，其祖弗父何，始有國而授厲公，及正考父佐戴武宣，三命茲益恭．故其鼎銘曰：『一命而僂，再命而傴，三命而俯，循牆而走，亦莫余敢侮，饘於是，粥於是，以餬其口，其恭儉也，若此．』」臧孫紇有言：「聖人之後，若不當世，則必有明君而達者焉，孔子少而好禮，其將在矣．」屬臣曰：「汝必師之，今孔子將適周，觀先王之遺制，考禮樂之所極，斯大業也，君盍以乘資之，臣請與徃．」公曰：「諾．」與孔子車一乘，馬二疋，堅其侍御．敬叔與俱至周，問禮於老聃，訪樂於萇弘，歷郊社之所，考明堂之則，察廟朝之度．於是喟然曰：「吾乃今知周公之聖，與周之所以王也．」及去周，老子送之曰：「吾聞富貴者送人以財，仁者送人以言，吾雖不能富貴，而竊仁者之號，請送子以言乎．凡當今之士，聰明深察而近於死者，好譏議人者也；博辯閎達而危其身，好發人之惡者也；無以有己為人子者，無以惡己為人臣者．」孔子曰：「敬奉教．」自周反魯，道彌尊矣．遠方弟子之進，蓋三千焉．</p>
+<p>　　孔子觀乎明堂，睹四門墉有堯舜之容，桀紂之象，而各有善惡之狀，興廢之誡焉．又有周公相成王，抱之負斧扆，南面以朝諸侯之圖焉，孔子徘徊而望之，謂從者曰：「此周之所以盛也．夫明鏡所以察形，徃古者所以知今，人主不務襲跡於其所以安存，而忽怠所以危亡，是猶未有以異於卻走而欲求及前人也，豈不惑哉．」</p>
+<p>　　孔子觀周，遂入太祖后稷之廟，廟堂右階之前，有金人焉，三緘其口，而銘其背曰：「古之慎言人也，戒之哉．無多言，多言多敗．無多事，多事多患．安樂必戒，無所行悔．勿謂何傷，其禍將長．勿謂何害，其禍將大．勿喟不聞，神將伺人．焰焰不滅，炎炎若何．涓涓不壅，終為江河．綿綿不絕，或成網羅．毫末不札，將尋斧柯．誠能慎之，福之根也．口是何傷，禍之門也．強梁者不得其死，好勝者必遇其敵．盜憎主人，民怨其上，君子知天下之不可上也，故下之．知眾人之不可先也，故後之．溫恭慎德，使人慕之．執雌持下，人莫踰之．人皆趨彼，我獨守此．人皆或之，我獨不徙．內藏我智，不示人技，我雖尊高，人弗我害，誰能於此．江海雖左，長於百川，以其卑也．天道無親，而能下人，戒之哉！」孔子既讀斯文也，顧謂弟子曰：「小人識之，此言實而中，情而信．詩曰：『戰戰兢兢，如臨深淵，如履薄冰．』行身如此，豈以口過患哉？」孔子見老聃而問焉，曰：「甚矣道之於今難行也，吾比執道，而今委質以求當世之君而弗受也，道於今難行也．」老子曰：「夫說者流於辯，聽者亂於辭，如此二者，則道不可以忘也．」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4119.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4121.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2720" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

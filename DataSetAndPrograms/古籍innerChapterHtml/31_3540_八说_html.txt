@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+韩非子·八说_古诗文网
+</title>
+<meta content="为故人行私谓之“不弃”，以公财分施谓之“仁人”，轻禄重身谓之“君子”，枉法曲亲谓之“有行”，弃官宠交谓之“有侠”，离世遁上谓之“高傲”，交争逆令谓之“刚材”，行惠取众谓之“得民”" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3540.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2147" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>八说</b></span>
+<a href="javascript:PlayBookv(3540)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3540" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2147)" id="leftbtn2147" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3540" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%9f%a9%e9%9d%9e">韩非</a></p>
+<div class="contson">
+<p>　　为故人行私谓之“不弃”，以公财分施谓之“仁人”，轻禄重身谓之“君子”，枉法曲亲谓之“有行”，弃官宠交谓之“有侠”，离世遁上谓之“高傲”，交争逆令谓之“刚材”，行惠取众谓之“得民”。不弃者，吏有奸也；仁人者，公财损也；君子者，民难使也；有行者，法制毁也；有侠者，官职旷也；高傲者，民不事也；刚材者，令不行也；得民者，君上孤也。此八者，匹夫之私誉，人主之大败也。反此八者，匹夫之私毁，人主之公利也。人主不察社稷之利害，而用匹夫之私毁，索国之无危乱，不可得矣。</p>
+<p>　　任人以事，存亡治乱之机也，无术以任人，无所任而不败。人君之所任，非辩智则修洁也。任人者，使有势也。智士者未必信也，为多其智，因惑其信也。以智士之计，处乘势之资而为其私急，则君必欺焉。为智者之不可信也，故任修士者，使断事也。修士者未必智，为洁其身、因惑其智。以愚人之所惽，处治事之官而为所然，则事必乱矣。故无术以用人，任智则君欺，任修则君事乱，此无术之患也。明君之道，贱德义贵，下必坐上，决诚以参，听无门户，故智者不得诈欺。计功而行赏，程能而授事，察端而观失，有过者罪，有能者得，故愚者不任事。智者不敢欺，愚者不得断，则事无失矣。</p>
+<p>　　察士然后能知之，不可以为令，夫民不尽察。贤者然后行之，不可以为法，夫民不尽贤。杨朱、墨崔，天下之所察也，干世乱而卒不决，虽察而不可以为官职之令。鲍焦、华角，天下之所贤也，鲍焦木枯，华角赴河，虽贤不可以为耕战之士。故人主之察，智士尽其辩焉；人主之所尊，能士能尽其行焉。今世主察无用之辩，尊远功之行，索国之富强，不可得也。博习辩智如孔、墨，孔、墨不耕耨，则国何得焉？修孝寡欲如曾、史，曾、史不战攻，则国何利焉？匹夫有私便，人主有公利。不作而养足，不仕而名显，此私便也；息文学而明法度，塞私便而一功劳，此公利也。错法以道民也，而又贵文学，则民之所师法也疑；赏功以劝民也，而又尊行修，则民之产利也惰。夫贵文学以疑法，尊行修以贰功，索国之富强，不可得也。</p>
+<p>　　搢 笏干戚，不适有方铁铦；登降周旋，不逮日中奏百；《狸首》射侯，不当强弩趋发；干城距衡冲，不若堙穴伏橐。古人亟于德，中世逐于智，当今争于力。古者寡事而备简，朴陋而不尽，故有珧铫而推车者。古者人寡而相亲，物多而轻利易让，故有揖让而传天下者。然则行揖让，高慈惠，而道仁厚，皆推政也。处多事之时，用寡事之器，非智者之备也；当大争之世，而循揖让之轨，非圣人之治也。故智者不乘推车，圣人不行推政也。</p>
+<p>　　法所以制事，事所以名功也。法有立而有难，权其难而事成，则立之；事成而有害，权其害而功多，则为之。无难之法，无害之功，天下无有也。是以拔千丈之都，败十万之众，死伤者军之乘，甲兵折挫，士卒死伤，而贺战胜得地者，出其小害计其大利也。夫沐者有弃发，除者伤血肉。为人见其难，因释其业，是无术之事也。先圣有言曰：“规有摩而水有波，我欲更之，无奈之何！”此通权之言也。是以说有必立而旷于实者，言有辞拙而急于用者。故圣人不求无害之言，而务无易之事。人之不事衡石者，非贞廉而远利也，石不能为人多少，衡不能为人轻重，求索不能得，故人不事也。明主之国，官不敢枉法，吏不敢为私利，货赂不行，是境内之事尽如衡石也。此其臣有奸者必知，知者必诛。是以有道之主，不求清洁之吏，而务必知之术也。</p>
+<p>　　慈母之于弱子也，爱不可为前。然而弱子有僻行，使之随师；有恶病，使之事医。不随师则陷于刑，不事医则疑于死。慈母虽爱，无益于振刑救死，则存子者非爱也。子母之性，爱也；臣主之权，策也。母不能以爱存家，君安能以爱持国？明主者通于富强，则可以得欲矣。故谨于听治，富强之法也。明其法禁，察其谋计。法明则内无变乱之患，计得于外无死虏之祸。故存国者，非仁义也。仁者，慈惠而轻财者也；暴者，心毅而易诛者也。慈惠，则不忍；轻财，则好与。心毅，则憎心见于下；易诛，则妄杀加于人。不忍，则罚多宥赦；好与，则赏多无功。憎心见，则下怨其上；妄诛，则民将背叛。故仁人在位，下肆而轻犯禁法，偷幸而望于上；暴人在位，则法令妄而臣主乖，民怨而乱心生。故曰：仁暴者，皆亡国者也。</p>
+<p>　　不能具美食而劝饿人饭，不为能活饿者也；不能辟草生粟而劝贷施赏赐，不能为富民者也。今学者之言也，不务本作而好末事，知道虚圣以说民，此劝饭之说。劝饭之说，明主不受也。</p>
+<p>　　书约而弟子辩，法省而民讼简，是以圣人之书必著论，明主之法必详尽事。尽思虑，揣得失，智者之所难也；无思无虑，挈前言而责后功，愚者之所易也。明主虑愚者之所易，以责智者之所难，故智虑力劳不用而国治也。</p>
+<p>　　酸甘咸淡，不以口断而决于宰尹，则厨人轻君而重于宰尹矣。上下清浊，不以耳断而决于乐正，则瞽工轻君而重于乐正矣。治国是非，不以术断而决于宠人，则臣下轻君而重于宠人矣。人主不亲观听，而制断在下，托食于国者也。</p>
+<p>　　使人不衣不食而不饥不寒，又不恶死，则无事上之意。意欲不宰于君，则不可使也。今生杀之柄在大臣，而主令得行者，未尝有也。虎豹必不用其爪牙而与鼷鼠同威，万金之家必不用其富厚而与监门同资。有土之君，说人不能利，恶人不能害，索人欲畏重己，不可得也。</p>
+<p>　　人臣肆意陈欲曰“侠”，人主肆意陈欲曰“乱”；人臣轻上曰“骄”，人主轻下曰“暴”。行理同实，下以受誉，上以得非。人臣大得，人主大亡。</p>
+<p>　　明主之国，有贵臣，无重臣。贵臣者，爵尊而官大也；重臣者，言听而力多者也。明主之国，迁官袭级，官爵受功，故有贵臣。言不度行而有伪，必诛，故无重臣也。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3539.aspx">上一章</a>
+<a href="/guwen/book_31.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3541.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2147" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

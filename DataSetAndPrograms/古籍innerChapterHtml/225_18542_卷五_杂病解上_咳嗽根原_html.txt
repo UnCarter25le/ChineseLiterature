@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷五·杂病解上·咳嗽根原_古诗文网
+</title>
+<meta content="咳嗽者，肺胃之病也。胃土右转，肺金顺下，雾气降洒，津液流通，是以无痰；呼吸安静，上下无阻，是以不嗽。胃土上逆，肺无降路，雾气堙塞，故痰涎淫生，呼吸壅碍，则咳嗽发作。其多作于秋冬者，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18542.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·杂病解上·咳嗽根原</b></span>
+<a href="javascript:PlayBookv(18542)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18542" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18542" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　咳嗽者，肺胃之病也。胃土右转，肺金顺下，雾气降洒，津液流通，是以无痰；呼吸安静，上下无阻，是以不嗽。胃土上逆，肺无降路，雾气堙塞，故痰涎淫生，呼吸壅碍，则咳嗽发作。其多作于秋冬者，风寒外闭，里气愈郁故也。</p>
+<p>　　而胃之所以不降，全缘阳明之阳虚。太阴以己土而生湿，阳明从庚金而化燥。燥敌其湿，则胃降而脾升；湿夺其燥，则脾陷而胃逆。以燥为阳而湿为阴，阳性运而阴性滞，理自然也。</p>
+<p>　　《素问·咳论》：其寒饮食入胃，从肺脉上至于肺则肺寒，肺寒则外内合邪，因而客之，则为肺咳。是咳嗽之证，因于胃逆而肺寒，故仲景治咳，必用干姜、细辛。</p>
+<p>　　其燥热为嗽者，金燥而火炎也。手阳明以燥金主令，燥气旺则手太阴化气于庚金而不化气于湿土，一当胃逆胆升，刑以相火，则壅嗽生焉。然上虽燥热，而下则依旧湿寒也。盖肺胃顺降，则相火蛰藏而下温；肺胃逆升，则相火浮动而上热。上热则下寒，以其火升而不降也。</p>
+<p>　　缘足太阴之湿盛，则辛金从令而化湿，是生湿嗽；手阳明之燥盛，则戊土从令而化燥，是生燥咳。燥则上热，湿则下寒。究之，湿为本而燥为标，寒为原而热为委。悟先圣咳嗽之义，自得之矣。</p>
+<p>　　姜苓五味细辛汤</p>
+<p>　　茯苓三钱　甘草二钱　干姜三钱　半夏三钱　细辛三钱　五味一钱，研</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　咳证缘土湿胃逆，肺金不降。气滞痰生，窍隧阻碍，呼吸不得顺布。稍感风寒，闭其皮毛，肺气愈郁，咳嗽必作。其肺家或有上热，而非脾肾湿寒，不成此病。岐伯之论，仲景之法，不可易也。</p>
+<p>　　其甚者，则为齁喘，可加橘皮、杏仁，以利肺气。若肺郁生热，加麦冬、石膏，清其心肺。若胆火刑金，加芍药、贝母，以清胆肺。劳嗽吐血，加柏叶，以敛肺气。若感冒风寒，嚏喷流涕，头痛恶寒，加生姜、苏叶，以解表邪。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18541.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18543.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

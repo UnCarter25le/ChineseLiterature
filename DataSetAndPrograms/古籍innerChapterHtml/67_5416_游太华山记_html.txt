@@ -1,0 +1,111 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+徐霞客游记·游太华山记_古诗文网
+</title>
+<meta content="出省城，西南二里下舟，两岸平畴夹水。十里田尽，萑ｈｕáｎ苇长成后的芦苇满泽，舟行深绿间，不复知为滇池巨流，是为草海，草间舟道甚狭，遥望西山绕臂东出，削崖排空，则罗汉寺也，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5416.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4746" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>游太华山记</b></span>
+<a href="javascript:PlayBookv(5416)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5416" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4746)" id="leftbtn4746" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5416" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%bc%98%e7%a5%96">徐弘祖</a></p>
+<div class="contson">
+<p>　　出省城，西南二里下舟，两岸平畴夹水。十里田尽，萑ｈｕáｎ苇长成后的芦苇满泽，舟行深绿间，不复知为滇池巨流，是为草海，草间舟道甚狭，遥望西山绕臂东出，削崖排空，则罗汉寺也，又西十五里抵高峣ｑｉāｏ，乃舍舟登陆高峣者，西山中逊处也。南北山皆环而东出，中独西逊，水亦西逼之，有数百家倚山临水，为迤西大道。</p>
+<p>　　北上有傅园；园西上五里，为碧鸡关，即大道达安宁州者。由高峣南上，为杨太史祠，祠南至华亭、太华，尽于罗汉，即碧鸡山南突为重崖者。盖碧鸡山自西北亘东南，进耳诸峰由西南亘东北，两山相接，即西山中逊处，故大道从之，上置关，高峣实当水埠焉。</p>
+<p>　　余南一里，饭太史祠。又南过一村，乃西南上山，共三里，山半得华亭寺。寺东向，后倚危峰，草海临其前。由寺南侧门出，循寺南西上，南逾支陇入腋，共二里，东南升岭，岭界华亭、太华两寺中而东突者。</p>
+<p>　　南逾岭，西折入腋凑间，上为危峰，下盘深谷，太华则高峙谷东，与行处平对。然路必穷极西腋，后乃东转出。</p>
+<p>　　腋中悬流两派坠石窟，幽峭险仄，不行此径不见也。转峡，又东盘山嘴，共一里，俯瞰一寺在下壑，乃太平寺也。又南一里，抵太华寺。寺亦东向，殿前夹墀ｃｈí台阶皆山茶，南一株尤巨异。</p>
+<p>　　前廊南穿庑入阁，东向瞰海。</p>
+<p>　　然此处所望犹止及草海，若潆潆浩荡观，当更在罗汉寺南也。</p>
+<p>　　遂出南侧门，稍南下，循坞西入。又东转一里半，南逾岭。岭自西峰最高处东垂下，有大道直上，为登顶道。截之东南下，复南转，遇石峰嶙峋南拥。辄从其北，东向坠土坑下，共一里，又西行石丛中。一里，复上蹑崖端，盘崖而南，见南崖上下，如峰房燕窝，累累欲堕者，皆罗汉寺南北庵也。</p>
+<p>　　披石隙稍下，一里，抵北庵，已出文殊岩上，始得正道。由此南下，为罗汉寺正殿；由此南上，为朝天桥。桥架断崖间，上下皆嵌崖，此复崭崖中坠。桥度而南，即为灵官殿，殿门北向临桥。由殿东侧门下，攀崖蹑峻，愈上愈奇，而楼、供纯阳、而殿、供元帝、而阁、供玉皇、而宫名抱一，皆东向临海，嵌悬崖间。</p>
+<p>　　每上数十丈，得斗大平崖，辄杙ｙì小木桩空架隙成之。</p>
+<p>　　故诸殿俱不巨，而点云缀石，互为披映，至此始扩然全收水海之胜。南崖有亭前突，北崖横倚楼，楼前高柏一株，浮空漾翠。并楼而坐，如倚危樯上，不复知有崖石下藉也。抱一宫南削崖上，杙木栈，穿石穴，栈悬崖树，穴透崖隙，皆极险峭。度隙，有小楼粘石端，寝龛炊灶皆具。北庵景至此而极。</p>
+<p>　　返下朝天桥，谒罗汉正殿。殿后崖高百仞。崖南转折间，泉方渟ｔíｎｇ水积聚而不流通崖麓，乃朝天桥迸缝而下者，曰勺冷泉。</p>
+<p>　　南逾泉，即东南折，其上崖更崇列，中止潆坪一缕若腰带，下悉隤阪崩崖，直插海底，坪间梵宇仙宫，雷神庙、三佛殿、寿佛殿、关帝殿、张仙祠、真武宫次第连缀。真武宫之上，崖愈杰竦，昔梁王避暑于此，又名避暑台，为南庵尽处，上即穴石小楼也。</p>
+<p>　　更南，则庵尽而崖不尽，穹壁覆云，重崖拓而更合。南绝壁下，有猗兰阁址。</p>
+<p>　　还至正殿，东向出山门，凡八折，下二里抵山麓，有村氓数十家，但网罟ｇǔ织网为业。村南即龙王堂，前临水海。由其后南循南崖麓，村尽波连，崖势愈出，上已过猗兰旧址。</p>
+<p>　　南壁愈拓削，一去五里，黄石痕挂壁下，土人名为挂榜山。再南则崖回嘴突，巨石垒空嵌水折成璺ｗèｎ裂缝，南复分接屏壁，雄峭不若前，而兀突离奇，又开异境。三里，下瞰海涯，舟出没石隙中，有结茅南涯侧者，亟悬仄径下，得金线泉。泉自西山透腹出，外分三门，大仅如盎，中崆峒，悉巨石欹侧，不可入。水由盎门出，分注海。海中细鱼溯流入洞，是名金线鱼。鱼大不逾四寸，中腴脂，首尾金一缕如线，为滇池珍味。泉北半里，有大石洞，洞门东瞰大海，即在大道下，崖倾莫可坠，必迂其南，始得逶迤入，即前所望石中小舟出没处也。门内石质玲透，裂隙森柱，俱当明处。南入数丈辄暗，觅炬更南，洞愈崇拓。共一里，始转而分东西向，东上三丈止，西入窈窕莫极。俱火炬不给，乃出。</p>
+<p>　　上山返抱一宫。问山顶黑龙池道，须北向太华中，乃南转。然池实在山南金线泉绝顶，以此地崖崇石峻，非攀援可至耳。余辄从危崖历隙上，壁虽峭，石缝多棱，悬跃无不如意。壁纹琼葩瑶茎，千容万变，皆目所未收。素习者惟牡丹，枝叶离披，布满石隙，为此地绝遘ｇòｕ绝难遇见，乃结子垂垂，外绿中红，又余地所未见。土人以高远莫知采鉴，第曰山间野药，不辨何物也。攀跻里余，遂蹑巅，则石萼鳞鳞，若出水青莲，平散竟地。峰端践侧锷而南，惟西南一峰最高。行峰顶四里，凌其上，为碧鸡绝顶。顶南石萼骈丛，南坠又起一突兀峰，高少逊之，乃南尽海口山也。绝顶东下二里，已临金线泉之上，乃于耸崖间观黑龙池而下。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5415.aspx">上一章</a>
+<a href="/guwen/book_67.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5417.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4746" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,144 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·天文部·风云_古诗文网
+</title>
+<meta content="【风神名封十八姨，又名冯异】【云神名云将】八风八节之风，立春条风（赦小过，出稽留），春分明庶风（正封疆，修田畴），立夏清明风（出币帛，礼诸侯），夏至景风（辩大将，封有功），立秋凉风" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19166.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>天文部·风云</b></span>
+<a href="javascript:PlayBookv(19166)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19166" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19166" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　【风神名封十八姨，又名冯异】【云神名云将】</p>
+<p>　　<strong>八风</strong></p>
+<p>　　八节之风，立春条风（赦小过，出稽留），春分明庶风（正封疆，修田畴），立夏清明风（出币帛，礼诸侯），夏至景风（辩大将，封有功），立秋凉风（报土功，祀四郊），秋分闾阖风（解悬垂，琴瑟不张），立冬不周风（修宫室，完边城），冬至广汉风（诛有罪，断大刑）。</p>
+<p>　　<strong>四时风</strong></p>
+<p>　　郎仁宝曰：春之风，自下升上，纸鸢因之以起。夏之风，横行空中，故树杪多风声。秋之风，自上而下，木叶因之以陨。冬之风，着土而行，是以吼地而生寒。</p>
+<p>　　<strong>少女风</strong></p>
+<p>　　管辂过清河，倪太守以天旱为忧。辂曰：“树上已有少女微风，树间已有阳鸟和鸣。其雨至矣。”果如其言。</p>
+<p>　　<strong>飓风</strong></p>
+<p>　　《岭表录》：飓风之作，多在初秋，作则海潮溢，俗谓之飓母风。</p>
+<p>　　<strong>石尤风</strong></p>
+<p>　　石氏女为尤郎妇。尤为商远出，妻阻之，不从。郎出不归，石病且死，曰：“吾恨不能阻郎行。后有商贾远行者，吾当作大风以阻之。”自后行旅遇逆风，曰：“此石尤风也。”</p>
+<p>　　<strong>羊角风</strong></p>
+<p>　　《庄子》：“大鹏起于北溟，而徙南溟也，抟扶摇羊角而上者九万里。”宋熙宁间，武城有旋风如羊角，拔木，官舍卷入云中，人民坠地死。</p>
+<p>　　《尔雅》：南方谓之凯风，东方谓之谷风，北方谓之凉风，西方谓之泰风。焚轮谓之颓，扶摇谓之焱。风与火为。回风为飘。日出而风谓之暴。风而雨为霾。阴日风为噎。猛风曰，凉风曰，微风曰飙，小风曰飕。</p>
+<p>　　<strong>花信风</strong></p>
+<p>　　唐徐师川诗云：“一百五日寒食雨，二十四番花信风。”《岁时记》曰：“一月二气六候，自小寒至谷雨。四月八气二十四候，每候五日，以一花之风信应之。”</p>
+<p>　　<strong>泰山云</strong></p>
+<p>　　《公羊传》：泰山之云，触石而起，肤寸而合，不崇朝而雨天下。</p>
+<p>　　<strong>卿云</strong></p>
+<p>　　若云非云，若烟非烟，郁郁纷纷，萧索轮菌，谓之庆云。王者德至于山陵，则卿云出。《春秋繁露》：“人君修德，则矞云见。”云五色为卿，三色为矞。</p>
+<p>　　<strong>沆瀣</strong></p>
+<p>　　夜半清气从北方起者，谓之沆瀣。</p>
+<p>　　<strong>神瀵</strong></p>
+<p>　　《列子》言：神瀵即《易》所谓山泽气相蒸，云兴而为雨也。陈希夷诗：“倏尔火轮煎地脉，愕然神瀵涌山椒。”</p>
+<p>　　<strong>白云孤飞</strong></p>
+<p>　　狄仁杰尝赴并州法掾，登天行山，见白云孤飞，泣曰：“吾亲舍其下。”</p>
+<p>　　<strong>五色云</strong></p>
+<p>　　宋韩琦，弱冠及第，方传胪，时太史奏：“五色云现。”出入将相，为一代名臣。</p>
+<p>　　<strong>风</strong></p>
+<p>　　天地之使也，大块之噫气，阴阳之怒而为风也。《洛神赋》：“屏翳收风”。屏翳，风师也，又名飞廉；飞廉，神禽，即箕主也。又曰：“箕主簸扬，能致风雨。”</p>
+<p>　　<strong>风霾</strong></p>
+<p>　　明天启间，魏阉肆毒，风霾旱魃，赤地千里，京师地震，火灾焚烧，震压死伤甚惨。崇祯十七年正月朔，大风霾。占曰：“风从干起主暴。”兵破城。三月丙申，大风霾，昼晦。</p>
+<p>　　<strong>风木悲</strong></p>
+<p>　　《春秋》：皋鱼宦游列国，归而母卒，泣曰：“树欲静而风不息，子欲养而亲不在。”遂自刎死。</p>
+<p>　　<strong>歌南风之诗</strong></p>
+<p>　　大舜弹五弦之琴，歌南风之诗，曰：“南风之熏兮，可以解吾民之愠兮；南风之时兮，可以阜吾民之财兮。”</p>
+<p>　　<strong>占风知赦</strong></p>
+<p>　　汉河内张成善风角，推占当赦，教子杀人。司隶李膺督促收捕，既而逢宥获免，膺愈愤疾，竟按杀之。</p>
+<p>　　<strong>祭风破操</strong></p>
+<p>　　操连船舰于赤壁，周瑜用黄盖火攻之策。时隆冬无东南风，诸葛孔明筑坛而祭，应期风至，大破曹兵。</p>
+<p>　　<strong>云霞</strong></p>
+<p>　　云，山川之气也。日旁彩云名霞，东西二方赤色，亦曰霞。《易经》：“云从龙，风从虎。”孔子曰：“于我如浮云”。</p>
+<p>　　<strong>云出无心</strong></p>
+<p>　　陶词：“云无心而出岫。”</p>
+<p>　　<strong>占云</strong></p>
+<p>　　二至、二分，望云色以卜岁之丰凶水旱。</p>
+<p>　　<strong>行云</strong></p>
+<p>　　楚襄王游于高唐，梦一女曰：“妾在巫山之阳，高丘之上，朝为行云，暮为行雨。”彼旦视之，如其言。</p>
+<p>　　<strong>落霞</strong></p>
+<p>　　王勃《滕王阁赋》：“落霞与孤鹜齐飞。”后一士子夜泊江中，闻水中吟，此士曰：“何不云‘落霞孤鹜齐飞，秋水长天一色’。”鬼遂绝。</p>
+<p>　　<strong>飓风覆舟</strong></p>
+<p>　　《岭表录》：飓风之作，多在初秋，作则海潮溢，俗谓之飓母风。明正德七年，流贼刘大等舟至通州狼山，遇飓风大作，舟覆，贼尽死。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19165.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19167.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝四经·道原经·全文_古诗文网
+</title>
+<meta content="恒先之初，迥同太虚。虚同为一，恒一而止。湿湿梦梦，未有明晦。神微周盈，精静不熙。古未有以。万物莫以。古无有刑（形），太迥无名。天弗能复（覆），地弗能载。小以成小，大以成大。盈四海之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5189.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3458" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>道原经·全文</b></span>
+<a href="javascript:PlayBookv(5189)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5189" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3458)" id="leftbtn3458" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5189" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　恒先之初，迥同太虚。虚同为一，恒一而止。湿湿梦梦，未有明晦。神微周盈，精静不熙。古未有以。万物莫以。古无有刑（形），太迥无名。天弗能复（覆），地弗能载。小以成小，大以成大。盈四海之内，又包其外。在阴不腐，在阳不焦。一度不变，能适规（）侥（蛲）。鸟得而蜚（飞），鱼得而流（游），兽得而走。万物得之以生，百事得之以成。人皆以之，莫知其名。人皆用之，莫见其刑（形）。一者其号也。虚其舍也，无为其素也，和其用也。是故上道高而不可察也，深而不可则（测）也。显明弗能为名，广大弗能为刑（形），独立不偶，万物莫之能令。天地阴阳，（四）时日月，星辰云气规行侥（蛲）重动，戴根之徒，皆取生，道弗为益少；皆反焉，道弗为益多。坚强而不，，柔弱而不可化。精微之所不能至，稽极之所不能过。故唯圣人能察无刑（形），能听无（声）。知虚之实，后能大虚。乃通天地之精，通同而无间，周袭而不盈。服此道者，是胃（谓）能精。明者固能察极，知人之所不能知，人服人之所不能得。是胃（谓）察稽知□极。圣王用此，天下服。无好无亚（恶）。上用□□而民不麋（迷）惑。其分，而万民不争。授之以其名，而万物自定。不为治劝，不为乱解（懈）。广大弗务，及也。深微弗索，得也。□为一而不化。得道之本，握少以知多。得事之要，操正以政（正）畸（奇）。前知大古，后□精明。抱道执度，天下可一也。观之大古，周其所以。索之未无，得之所以。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5188.aspx">上一章</a>
+<a href="/guwen/book_61.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3458" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

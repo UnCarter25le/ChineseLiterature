@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷六·福德秀气_古诗文网
+</title>
+<meta content="此格专以巳酉丑金局而看所得天干，如乙巳、乙酉、乙丑三日，是乙用金为煞，喜印绶，喜制伏，不宜生六月逢未，以墓上带旺，金能克木，不宜生八月再露其煞，运行印绶官旺乡，便能发福。丁巳、丁酉" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16442.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·福德秀气</b></span>
+<a href="javascript:PlayBookv(16442)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16442" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16442" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　此格专以巳酉丑金局而看所得天干，如乙巳、乙酉、乙丑三日，是乙用金为煞，喜印绶，喜制伏，不宜生六月逢未，以墓上带旺，金能克木，不宜生八月再露其煞，运行印绶官旺乡，便能发福。丁巳、丁酉、丁丑三日，是丁用壬为官，喜金旺生水，亦不喜生八月，以八月火死，功名蹭蹬，又不喜生十一月，以十一月癸水为煞为寿不耐，柱中喜见财官，旺位为贵，运行官旺，便可发福。己巳、己酉、己丑三日，是己用甲木为官，巳酉丑金局皆伤其官，亦名盗气，何以为吉？殊不知金能生水财，喜行财运便发，柱中不要见丙丁寅午戌，以伤金局及刑冲破害，又不喜生四月火旺，秀气浅薄，立身在晚，多成败孤克。癸巳、癸酉、癸丑三日，是用金神为印，见巳酉丑金局能生癸水，喜秋冬，亦不喜生四月，以水绝于巳，虽然金生在巳，以金生水亦不能绝，得官印运便能发福，只嫌火财伤金。辛巳、辛酉、辛丑三日，柱全金局为妙，若见午戌火旺有破，反生灾咎，若通丙火旺为正气官星，或值寅位为天乙贵人，俱吉。岁运同。古歌曰：阴木加临酉丑蛇，生居六月暗咨嗟，为官得禄难长久，纵有文章不足夸。又：乙巳乙酉并乙丑，八月生人人短寿，四柱若见火伤官，降官失职定然有。又：阴火相临巳酉丑，生居丑月寿难长，更兼名利多成败，破败荒淫不可当。又：丁巳丁酉并丁丑，八月生人人不久，前程名利两区区，更忌饮酒及交友。又：阴土逢蛇鸡与牛，名为福德号貔貅，秀气火来侵克破，须教名利一时休。又：己巳己酉及己丑，福德秀气造化有，大怕四柱火相侵，纵有功名不长久。又；阴金合局主前程，造化清奇大有情，四柱火来侵克破，须知名利两无成。又：西方金气坐阴柔，不怕休时不怕囚，鬼煞生时方发福，功名随步上瀛洲。又：癸巳癸酉月临风，百务迟延作事空，名利生成难有望，始知人在五行中。又；癸巳癸酉及癸丑，四月生人人不久，功名成败在晚年，最忌贪花并饮酒。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16441.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16443.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

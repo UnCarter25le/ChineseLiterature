@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+世说新语·忿狷_古诗文网
+</title>
+<meta content="魏武有一妓，声最清高，而情性酷恶。欲杀则爱才，欲置则不堪。于是选百人一时俱教。少时，还有一人声及之，便杀恶性者。王蓝田性急。尝食鸡子，以箸刺之，不得，便大怒，举以掷地。鸡子于地圆转" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2776.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1593" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>忿狷</b></span>
+<a href="javascript:PlayBookv(2776)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2776" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1593)" id="leftbtn1593" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2776" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e4%b9%89%e5%ba%86">刘义庆</a></p>
+<div class="contson">
+<p>　　魏武有一妓，声最清高，而情性酷恶。欲杀则爱才，欲置则不堪。于是选百人一时俱教。少时，还有一人声及之，便杀恶性者。</p>
+<p>　　王蓝田性急。尝食鸡子，以箸刺之，不得，便大怒，举以掷地。鸡子于地圆转未止，仍下地以屐齿蹍之，又不得，瞋甚，复于地取内口中，啮破即吐之。王右军闻而大笑曰：“使安期有此性，犹当无一豪可论，况蓝田邪？”</p>
+<p>　　王司州尝乘雪往王螭许。司州言气少有牾逆于螭，便作色不夷。司州觉恶，便舆床就之，持其臂曰：“汝讵复足与老兄计？”螭拨其手曰：“冷如鬼手馨，强来捉人臂！”</p>
+<p>　　桓宣武与袁彦道樗蒱，袁彦道齿不合，遂厉色掷去五木。温太真云：“见袁生迁怒，知颜子为贵。”</p>
+<p>　　谢无奕性粗强。以事不相得，自往数王蓝田，肆言极骂。王正色面壁不敢动，半日。谢去良久，转头问左右小吏曰：“去未？”答云：“已去。”然后复坐。时人叹其性急而能有所容。</p>
+<p>　　王令诣谢公，值习凿齿已在坐，当与并榻。王徙倚不坐，公引之与对榻。去后，语胡儿曰：“子敬实自清立，但人为尔多矜咳，殊足损其自然。”</p>
+<p>　　王大、王恭尝俱在何仆射坐。恭时为丹阳尹，大始拜荆州。讫将乖之际，大劝恭酒。恭不为饮，大逼强之，转苦，便各以裙带绕手。恭府近千人，悉呼入斋，大左右虽少，亦命前，意便欲相杀。射无计，因起排坐二人之闲，方得分散。所谓势利之交，古人羞之。</p>
+<p>　　桓南郡小儿时，与诸从兄弟各养鹅共斗。南郡鹅每不如，甚以为忿。迺夜往鹅栏闲，取诸兄弟鹅悉杀之。既晓，家人咸以惊骇，云是变怪，以白车骑。车骑曰：“无所致怪，当是南郡戏耳！”问，果如之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2775.aspx">上一章</a>
+<a href="/guwen/book_18.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2777.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1593" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,133 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·杂式·玉女闭局法_古诗文网
+</title>
+<meta content="元女式元女式者，一名六壬式。元女所造，主北方万物之始，因六甲之壬，故曰：六壬。六甲之上运斗柄，设十二月之合神，为十二将间置十干，次列二十八宿、三十六禽，以月将加正时，课日辰用为天乙" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16089.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>杂式·玉女闭局法</b></span>
+<a href="javascript:PlayBookv(16089)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16089" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16089" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　元女式</p>
+<p>　　元女式者，一名六壬式。元女所造，主北方万物之始，因六甲之壬，故曰：六壬。六甲之上运斗柄，设十二月之合神，为十二将间置十干，次列二十八宿、三十六禽，以月将加正时，课日辰用为天乙，所理十二神，将以断吉凶成败。</p>
+<p>　　推月将法</p>
+<p>　　登明正月将加在亥水神，河魁二月将加在戌土神，从魁三月将加在酉金神，传送四月将加在申金神，小吉五月将加在未土神，胜光六月将加在午火神，天乙七月将加在巳火神，天罡八月将加在辰土神，太冲九月将加在卯木神，功曹十月将加在寅木神，大吉十一将加在丑土神，神后十将加在子水神。</p>
+<p>　　推四维法</p>
+<p>　　乾天门，坤人门，巽地户，艮鬼路。</p>
+<p>　　推三十六禽法</p>
+<p>　　东方：狸、虎、豹、兔、貉、蛟、龙、鱼、虾</p>
+<p>　　南方：蚓、蛇、狙、鹿、獐、雁、羊、鹜、□</p>
+<p>　　西方：猿、犺、猴、乌、鸡、犬、豕、豺、狼</p>
+<p>　　北方：熊、猪、罴、燕、鼠、蝠、蟹、牛、鳖</p>
+<p>　　推四课法</p>
+<p>　　常以月将加正时，视干日、支辰、阴阳，以为四课。干日上神为日之阳支，日上神本位所得之神为日之阴支；支辰上神为辰之阳支，辰上神本位所得之神为辰之阴支。谓之四课四课之中，察其五行；取相克者，为用四课。阴阳先以下贼上为用，若无下贼上，以上克下为用，若三上克下一下，贼上还；以下贼上为用，若四上克下四下，贼上与。</p>
+<p>　　今日比者为用；俱比、俱不比；涉害深者为用，涉害俱深，以先干後支为用。四课阴阳皆克，以遥相克为用。若有干克神、神克干，先以克干为用；若干克两神、两神克干，以比者为用。俱比、俱不比，刚用干比、柔用支比为用。四课阴阳无上下相克，又无遥相克，以昴星为用。刚干，视酉上所得神为用；柔干，伏视从魁所临神为用。刚日，先传支後传干；柔日，先传干後传支。若天地返吟，伏吟，先以相克为用，若无相克伏吟，刚干，以干上神为用；柔干，以支上神为用。反吟，刚干，以干上神为用；柔干，以支上神为用。反吟，刚干，以干冲；柔日，以辰冲为用。以刑及冲用为传，终八，专日，四课不相见。刚干，从干上阳神顺数；柔干，从支上阴神逆数。皆及，三神为用，足以定吉凶。当知所受用三传，以考终始善恶所致，何先何後？变化何从？将安所极？三传之要诀在天宫，各以神将言其祸福，将以并合所加日辰，又以五行论其忧喜，欲取诸将，以天乙为首。</p>
+<p>　　推天乙所理法</p>
+<p>　　天乙者，贵人也。家在丑，甲戊之日，旦理大吉，暮理小吉。乙己之日，旦理神后，暮理传送。丙丁之日，旦理登明，暮理从魁。庚辛之日，旦理胜光，暮理功曹。壬癸之日，旦理太乙，暮理太冲。天乙在东方、西方，则南方为前，北方为後；在南方、北方，则东方为前，西方为後；常以星没为旦，星出为暮。</p>
+<p>　　推十二神将法</p>
+<p>　　用起天乙，以将兵，大胜，辟地千里；用起螣蛇，以将兵，兵数惊骇，上下相克。天乙前一神也。用起朱雀，以将兵，士卒惊恐，妄作口舌。天乙前二神也。用起六合，以将兵，战胜，得子女、玉帛。天乙前三神也。用起勾陈，以将兵，士卒战亡。天乙前四神也。用起青龙，以将兵，大胜。天乙前五神也。</p>
+<p>　　用起天后，以将兵，不胜自败。天乙後一神也。用起太阴，以将兵，士卒怯弱。天乙後二神也。用起太常，以将兵，平平。天乙後四神也。用起白虎，以将兵，师亡。天乙後五神也。用起天空，以将兵，士卒死亡，为敌欺诈。天乙後六神也。天乙理十一将，前尽于五，後尽于六。</p>
+<p>　　推伏吟返吟法</p>
+<p>　　凡兴师动众，勿取伏吟之时，必见固守。行者不坐，坐者不起。返吟时，前胜後负，诸神自临其冲，曰：反吟；诸神自临曰：伏吟。</p>
+<p>　　推阴阳相覆法</p>
+<p>　　天罡加太岁，是阳覆阴也。天罡加月建，是阴覆阳也。阴阳相覆之时，兵必有奸，计重阳时，执于火为惊；重阴时，执于水为恐。阳覆阴，君欲害臣；阴覆阳，内奸生，不利举百事，凶。</p>
+<p>　　推神在内外法</p>
+<p>　　斗加孟，神在内，道路壅塞，出军凶；斗加季，神在外，出师吉；斗加仲，神在门，或战胜密谋。</p>
+<p>　　推九丑法</p>
+<p>　　乙戊己辛壬之日为子午卯酉之神，合五得四，交合为九丑。主败军杀将，丑恶之日，故曰：九丑。己卯、辛卯、戊午、戊子、壬子、壬午、乙酉、辛酉、己酉是也。</p>
+<p>　　推兵雠法</p>
+<p>　　仰见其兵，暮见其辰，俯见其雠，下贼上比时，军兵戮，将死亡。</p>
+<p>　　推行军本命法</p>
+<p>　　军出日时，天罡不欲临将军本命，及行年大凶，螣蛇、白虎，小凶；天乙、青龙、六合、太常临，小吉；岁月杀所临之方，不可往。</p>
+<p>　　推天门地户法</p>
+<p>　　以天二门太冲、从魁，覆地四户，除定危开，从下而出，万夫莫当。</p>
+<p>　　推五帝法</p>
+<p>　　春三月，五帝任东，出军，先锋出城，西门立营，牙门向东，常以青旗居前，赤旗次之，次引白旗，次引黑旗，四时仿此，不向旺方也。</p>
+<p>　　推国君自将法</p>
+<p>　　置营讫，国君居北斗四星之下，徵明是也。前将军居太微下，胜光是也。後将军居华盖下，神后是也。左将军居天府下，太冲是也。右将军居文昌下，从魁是也。旗鼓居蓬星下，六乙是也。偃众居明堂下，六丙是也。军门居天门下，六戊是也。小将居地户下，六己是也。斩杀居天狱下，六庚是也。判事居天庭下，六辛是也。囚禁居天牢下，六壬是也。军器居天藏下，六癸是也。顺旬依法，不可妄举，起甲尽癸，则复旋改。</p>
+<p>　　推神位诸煞例</p>
+<p>　　假令甲子旬，子为青龙，丑为蓬星，寅为明堂，卯为太阳，辰为天门，巳为地户，午为天狱，未为天庭，申为天牢，酉为天藏，终十辰，至甲戌为青龙，余仿此。</p>
+<p>　　推玉帐法</p>
+<p>　　出军行阵，深入敌国，止宿营垒，休舍憩息，大将军居太乙玉帐下，吉。攻之不得，以功曹加月建，前五辰是也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16088.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16090.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+闲情偶寄·器玩部·位置第二_古诗文网
+</title>
+<meta content="器玩未得，则讲购求；及其既得，则讲位置。位置器玩与位置人才同一理也。设官授职者，期于人地相宜；安器置物者，务在纵横得当。设以刻刻需用者，而置之高阁，时时防坏者，而列于案头，是犹理繁" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18361.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>器玩部·位置第二</b></span>
+<a href="javascript:PlayBookv(18361)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18361" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18361" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%b8%94">李渔</a></p>
+<div class="contson">
+<p>　　器玩未得，则讲购求；及其既得，则讲位置。位置器玩与位置人才同一理也。设官授职者，期于人地相宜；安器置物者，务在纵横得当。设以刻刻需用者，而置之高阁，时时防坏者，而列于案头，是犹理繁治剧之材，处清静无为之地，黼黻皇猷之品，作驱驰孔道之官。有才不善用，与空国无人等也。他如方圆曲直，齐整参差，皆有就地立局之方，因时制宜之法。能于此等处展其才略，使人入其户、登其堂，见物物皆非苟设，事事具有深情，非特泉石勋猷，于此足征全豹，即论庙堂经济，亦可微见一斑。未闻有颠倒其家，而能整齐其国者也。</p>
+<p>　　○忌排偶</p>
+<p>　　“胪列古玩，切忌排偶。”此陈说也。予生平耻拾唾余，何必更蹈其辙。但排偶之中，亦有分别。有似排非排，非偶是偶；又有排偶其名，而不排偶其实者。皆当疏明其说，以备讲求。如天生一日，复生一月，似乎排矣，然二曜出不同时，且有极明微明之别，是同中有异，不得竟以排比目之矣。所忌乎排偶者，谓其有意使然，如左置一物，右无一物以配之，必求一色相俱同者与之相并，是则非偶而是偶，所当急忌者矣。若夫天生一对，地生一双，如雌雄二剑，鸳鸯二壶，本来原在一处者，而我必欲分之，以避排偶之迹，则亦矫揉执滞，大失物理人情之正矣。即避排偶之迹，亦不必强使分开，或比肩其形，或连环其势，使二物合成一物，即排偶其名，而不排偶其实矣。大约摆列之法，忌作八字形，二物并列，不分前后、不爽分寸者是也；忌作四方形，每角一物，势如小菜碟者是也；忌作梅花体，中置一大物，周遭以小物是也；余可类推。当行之法，则有时变化，就地权宜，视形体为纵横曲直，非可预设规模者也。如必欲强拈一二，若三物相俱，宜作品字格，或一前二后，或一后二前，或左一右二，或右一左二，皆谓错综；若以三者并列，则犯排矣。四物相共，宜作心字及火字格，择一或高或长者为主，余前后左右列之，但宜疏密断连，不得均匀配合，是谓参差；若左右各二，不使单行，则犯偶矣。此其大略也，若夫润泽之，则在雅人君子。</p>
+<p>　　○贵活变</p>
+<p>　　幽斋陈设，妙在日异月新。若使古董生根，终年匏系一处，则因物多腐象，遂使人少生机，非善用古玩者也。居家所需之物，惟房舍不可动移，此外皆当活变。何也？眼界关乎心境，人欲活泼其心，先宜活泼其眼。即房舍不可动移，亦有起死回生之法。譬如造屋数进，取其高卑广隘之尺寸不甚相悬者，授意匠工，凡作窗棂门扇，皆同其宽窄而异其体裁，以便交相更替。同一房也，以彼处门窗挪入此处，便觉耳目一新，有如房舍皆迁者；再入彼屋，又换一番境界，是不特迁其一，且迁其二矣。房舍犹然，况器物乎？或卑者使高，或远者使近，或一物别之既久，而使一旦相亲，或数物混处多时，而使忽然隔绝，是无情之物变为有情，若有悲观离合于其间者。但须左之右之，无不宜之，则造物在手，而臻化境矣。人谓朝东夕西，往来仆仆，何许子之不惮烦乎？予曰：陶士行之运甓，视此犹烦，未有笑其多事多；况古玩之可亲，犹胜于甓，乐此者不觉其疲，但不可为饱食终日无所用心者道。</p>
+<p>　　古玩中香炉一物，其体极静，其用又妙在极动，是当一日数迁其位，片刻不容胶柱者也。人问其故，予以风帆喻之。舟行所挂之帆，视风之斜正为斜正，风从左而帆向右，则舟不进而且退矣。位置香炉之法亦然。当由风力起见，如一室之中有南北二牖，风从南来，则宜位置于正南，风从北入，则宜位置于正北；若风从东南或从西北，则又当位置稍偏，总以不离乎风者近是。若反风所向，则风去香随，而我不沾其味矣。又须启风来路，塞风去路，如风从南来而洞开北牖，风从北至而大辟南轩，皆以风为过客，而香亦传舍视我矣。须知器玩之中，物物皆可使静，独香炉一物，势有不能。“爱之能勿劳乎？”待人之法也，吾于香炉亦云。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18360.aspx">上一章</a>
+<a href="/guwen/book_222.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18362.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

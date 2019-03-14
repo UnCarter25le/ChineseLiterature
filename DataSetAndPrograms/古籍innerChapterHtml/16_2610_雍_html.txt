@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·雍_古诗文网
+</title>
+<meta content="历史来源　　1、出自姬姓，以国名为氏。西周初周朝刚建立时，周文王的第十三个儿子，也就是周武王的兄弟，被封于雍地，就是现今河南省沁阳县一带。这位王子又封为伯爵，所以人称雍伯，雍伯是雍" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2610.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>雍</b></span>
+<a href="javascript:PlayBookv(2610)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2610" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2610" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自姬姓，以国名为氏。西周初周朝刚建立时，周文王的第十三个儿子，也就是周武王的兄弟，被封于雍地，就是现今河南省沁阳县一带。这位王子又封为伯爵，所以人称雍伯，雍伯是雍国的创始人。其后人以国名为氏，称雍氏，世代相传，形成了今天的雍姓。<br/>　　2、出自姞姓，以邑名为氏。据《古今姓氏辩证》记载说，黄帝的后代中，在商、周之间有的食采于雍邑这个地方，就以邑名为氏，称为雍氏。因此雍氏的姓源可以追溯得更早。望族居于京兆郡，就是现在的陕西省西安以东。</p>
+<p><strong>家族名人</strong><br/>　　雍齿：汉高祖刘邦的武将，很能打仗，因战功而被封为侯爵。<br/>　　雍陶：字国钧，成都人。他是唐代后期的重要诗人，尤以写山水名噪一时，被称为“山水诗人”。雍陶少年时家境贫困，因蜀中战乱，颠沛流离，羁旅他乡。他曾考试落第，写有《自述》诗：“万事谁能问，一名犹未知。贫当多累日，闲过少年时。灯下和愁睡，花前带酒悲。无谋常委命，转觉命堪疑。”叙述了他当时穷困潦倒和悲观失望的心清。他又曾把自己的诗文写成卷轴投送给当时的宰相裴度。唐文宗大和八年（834年）登进士第，为当时名辈所推重。唐宣宗大中六年（852年）授国子毛诗博士。在长安，他与张籍、王建、贾岛、无可、徐凝、章孝标等友善，以琴樽诗翰相娱，时相唱和赠答。这些人中有的是当时名士，有的因怀才不遇而后归隐，他们对雍陶有相当影响，虽然雍陶曾出任简州（今四川省简阳）和雅州（今四川省雅安）刺史，但后来雍陶却辞官隐居庐山，养疴傲世，与尘世隔绝而终。<br/>　　雍献：宋朝的画家，山水画名盛一时，而又善于画竹和画梅花，并且不爱上色，用墨笔分浓淡，就使梅、竹生动多姿，这种画法称为墨竹、墨梅。<br/>　　雍泰：明朝成化年间举为进士，当上南京吏部尚书的高官。他为官为人都廉洁清明，受到朝中官员和地方百姓的称赞。<br/>　　此外，雍姓名人还有：春秋时期郑国有大夫雍纠，楚国有雍子，齐国有雍禀，宋国有雍锄。先秦时期，雍纠、雍门子周。宋代有以隐求导的雍存……等是雍姓家族的杰出代表。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）雍姓在大陆和台湾都没有列入百家姓前一百位。雍姓出自姬姓。上古周朝时，武王姬发打败纣王得天下以后，分封诸侯，将他的弟弟，周文王的第十三个儿子封在雍（今河南焦作市一带，一说河南省沁阳县一带）为伯，人称雍伯。雍伯的后代中有的以封地名作姓氏，称为雍氏，世代相传，形成了今天的雍姓。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2609.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2611.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

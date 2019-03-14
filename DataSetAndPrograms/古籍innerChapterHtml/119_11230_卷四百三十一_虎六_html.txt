@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平广记·卷四百三十一·虎六_古诗文网
+</title>
+<meta content="李大可　蔺庭雍　王太　荆州人　刘老　虎妇　赵倜　周义　中朝子李大可　　宗正卿李大可尝至沧州。州之饶安县有人野行，为虎所逐。既及，伸其左足示之，有大竹刺，贯其臂。虎俯伏贴耳，若请去之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11230.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left9185" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四百三十一·虎六</b></span>
+<a href="javascript:PlayBookv(11230)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11230" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(9185)" id="leftbtn9185" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay11230" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89%e3%80%81%e6%89%88%e8%92%99%e3%80%81%e5%be%90%e9%93%89%e7%ad%89">李昉、扈蒙、徐铉等</a></p>
+<div class="contson">
+<p>　　李大可　蔺庭雍　王太　荆州人　刘老　虎妇　赵倜　周义　中朝子</p>
+<p>　　李大可　　</p>
+<p>　　宗正卿李大可尝至沧州。州之饶安县有人野行，为虎所逐。既及，伸其左足示之，有大竹刺，贯其臂。虎俯伏贴耳，若请去之者。其人为拔之，虎甚悦，宛转摇尾，随其人至家乃去。是夜，投一鹿于庭。如此岁余，投野豕獐鹿，月月不绝。或野外逢之，则随行。其人家渐丰，因洁其衣服，虎后见改服，不识，遂齿杀之。家人收葬讫，虎复来其家。母骂之曰：“吾子为汝去刺，不知报德，反见杀伤。今更来吾舍，岂不愧乎？”虎羞惭而出。然数日常旁其家，既不见其人，知其误杀，乃号呼甚悲，因入至庭前，奋跃拆脊而死。见者咸异之。</p>
+<p>　　蔺庭雍　　</p>
+<p>　　吉阳治在涪州南。泝黔江三十里有寺，像设灵应，古碑犹在，物业甚多，人莫敢犯。涪州裨将蔺庭雍妹因过寺中，盗取常住物。遂即迷路。数日之内，身变为虎。其前足之上，银缠金钏，宛然犹存。每见乡人，隔树与语云：“我盗寺中之物，变身如此。”求见其母，托人为言之。母畏之，不敢往。虎来郭外，经年而去。（出《录异记》）</p>
+<p>　　王太　　</p>
+<p>　　海陵人王太者与其徒十五六人野行，忽逢一虎当路。其徒云：“十五六人决不尽死，当各出一衣以试之。”至太衣，吼而隈者数四。海陵（“陵”字原缺，明抄本补。）多虎，行者悉持大棒。太选一棒，脱衣独立。谓十四人：“卿宜速去。”料其已远，乃持棒直前，击虎中耳，故闷倒，寻复起去。太背走惶惧，不得故道，但草中行。可十余里，有一神庙，宿于梁上。其夕，月明，夜后闻草中虎行。寻而虎至庙庭，跳跃变成男子，衣冠甚丽。堂中有人问云：“今夕何尔累悴？”神曰：“卒遇一人，不意劲勇，中其健棒，困极迨死。”言讫，入座上木形中。忽举头见太，问是何客，太惧堕地，具陈始末。神云：“汝业为我所食。然后十余日方可死。我取尔早，故中尔棒。今以相遇，理当佑之。后数日，宜持猪来。以己血涂之……”指庭中大树，“可系此下，速上树，当免。”太后如言。神从堂中而出为虎，劲跃，太高不可得，乃俯食猪。食毕，入堂为人形。太下树再拜乃还。尔后更无患。（出《广异记》）</p>
+<p>　　荆州人　　</p>
+<p>　　荆州有人山行，忽遇伥鬼，以虎皮冒己，因化为虎，受伥鬼指挥。凡三四年，搏食人畜及诸野兽，不可胜数。身虽虎而心不愿，无如之何。后伥引虎经一寺门过，因遽走入寺库，伏库僧床下。道人惊恐，以白有德者。时有禅师能伏诸横兽。因至虎所，顿锡问：“弟（明抄本、陈校本“弟”作“佛”。）子何所求耶？为欲食人？为厌兽身？”虎弭耳流涕，禅师手巾系颈，牵还本房。恒以众生食及他味哺之。半年毛落，变人形。具说始事，二年不敢离寺。后暂出门，忽复遇伥，以虎皮冒己，遽走入寺，皮及其腰下，遂复成虎。笃志诵经，岁余方变。自尔不敢出寺门，竟至死。（出《广异记》）</p>
+<p>　　刘老　　</p>
+<p>　　信州刘老者以白衣住持于山溪之间。人有鹅二百余只诣刘放生，恒自看养。数月后，每日为虎所取，以耗三十余头。村人患之，罗落陷阱，遍于放生所。自尔虎不复来。后数日，忽有老叟巨首长鬣来诣刘，问鹅何以少减。答曰：“为虎所取。”又问何不取虎？答云：“已设陷阱，此不复来。”叟曰：“此为伥鬼所教，若先制伥，即当得虎。”刘问何法取之？叟云：“此鬼好酸，可以乌白等梅及杨梅布之要路，伥若食之，便不见物，虎乃可获。”言讫不见。是夕，如言布路之，四鼓后，闻虎落阱。自尔绝焉。（出《广异记》）</p>
+<p>　　虎妇　　</p>
+<p>　　利州卖饭人，其子之妇山园采菜，为虎所取。经十二载而后还。自说入深山石窟中，本谓遇食。久之相与寝处，窟中都自四虎，妻妇人者最老。老虎恒持糜鹿等肉还以哺妻，或时含水吐其口中。妇人欲出，辄为所怒，驱以入窟，积六七年。后数岁，渐失余虎，老者独在。其虎自有妇人，未（“未”原作“来”，据明抄本改。）常外宿。后一日，忽夜不还。妇人心怪之，欲出而不敢。如是又一日，乃徐出，行数十步，不复见虎，乃极力行五六里。闻山中伐木声，径往就之。伐木人谓是鬼魅，以砾石投掷。妇人大言其故，乃相率诘问。妇人云：“己是某家新妇。”诸人亦有是邻里者，先知妇人为虎所取，众人方信之。邻人因脱衫衣之，将还。会其夫已死，翁姥悯而收养之。妇人亦憨戆。乏精神，恒为往来之所狎。刘全白亲见妇人，说其事云。（出《广异记》）</p>
+<p>　　赵倜　　</p>
+<p>　　荆州有一商贾，姓（“姓”原作“说”，据明抄本改。）赵名倜。多南泛江湖。忽经岁余未归。有一人先至其家，报赵倜妻云：“赵倜物货俱没于湖中，倜仅免一死。甚贫乏，在路即当至矣。”其妻惊哭不已。后三日，有一人，一如赵倜仪貌，来及门外大哭。其妻遽引入家内，询问其故。安存经百余日。欲再商贩，谓赵倜妻曰：“我惯为商在外，在家不乐，我心无聊。勿以我不顾恋尔，当容我却出，投交友。”俄而倜辇物货自远而至，及入门，其妻反乃惊疑走出，以投邻家。其赵倜良久问其故，知其事，遂令人唤其人。其人至，既见赵倜，奔突南走。赵倜与同伴十余人共趁之，直入南门。其人回（“回”原作“面”，据明抄本改。）顾，谓倜曰：“我通灵虎也，勿逐我，我必伤尔辈。”遂跃身化为一赤色虎，叫吼而去。（出《潇湘录》）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11229.aspx">上一章</a>
+<a href="/guwen/book_119.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11231.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right9185" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+尚书·周书·洛诰_古诗文网
+</title>
+<meta content="召公既相宅，周公往营成周，使来告卜，作《洛诰》。周公拜手稽首曰：「朕复子明辟。王如弗敢及天基命定命，予乃胤保大相东土，其基作民明辟。予惟乙卯，朝至于洛师。我卜河朔黎水，我乃卜涧水东" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3119.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1996" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>周书·洛诰</b></span>
+<a href="javascript:PlayBookv(3119)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3119" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1996)" id="leftbtn1996" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3119" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　召公既相宅，周公往营成周，使来告卜，作《洛诰》。</p>
+<p>　　周公拜手稽首曰：「朕复子明辟。王如弗敢及天基命定命，予乃胤保大相东土，其基作民明辟。予惟乙卯，朝至于洛师。我卜河朔黎水，我乃卜涧水东，瀍水西，惟洛食；我又卜瀍水东，亦惟洛食。伻来以图及献卜。」</p>
+<p>　　王拜手稽首曰：「公不敢不敬天之休，来相宅，其作周配，休！公既定宅，伻来，来，视予卜，休恒吉。我二人共贞。公其以予万亿年敬天之休。拜手稽首诲言。」</p>
+<p>　　周公曰：「王，肇称殷礼，祀于新邑，咸秩无文。予齐百工，伻从王于周，予惟曰：『庶有事。』今王即命曰：『记功，宗以功作元祀。』惟命曰：『汝受命笃弼，丕视功载，乃汝其悉自教工。』</p>
+<p>　　孺子其朋，孺子其朋，其往！无若火始焰焰；厥攸灼叙，弗其绝。厥若彝及抚事如予，惟以在周工往新邑。伻向即有僚，明作有功，惇大成裕，汝永有辞。」</p>
+<p>　　公曰：「已！汝惟冲子，惟终。汝其敬识百辟享，亦识其有不享。享多仪，仪不及物，惟曰不享。惟不役志于享，凡民惟曰不享，惟事其爽侮。乃惟孺子颁，朕不暇听。</p>
+<p>　　朕教汝于棐民，彝汝乃是不[B194]，乃时惟不永哉！笃叙乃正父罔不若予，不敢废乃命。汝往敬哉！兹予其明农哉！被裕我民，无远用戾。」</p>
+<p>　　王若曰：「公！明保予冲子。公称丕显德，以予小子扬文武烈，奉答天命，和恒四方民，居师；惇宗将礼，称秩元祀，咸秩无文。惟公德明光于上下，勤施于四方，旁作穆穆，迓衡不迷。文武勤教，予冲子夙夜毖祀。」王曰：「公功棐迪，笃罔不若时。」</p>
+<p>　　王曰：「公！予小子其退，即辟于周，命公后。四方迪乱未定，于宗礼亦未克敉，公功迪将，其后监我士师工，诞保文武受民，乱为四辅。」王曰：「公定，予往已。以功肃将祗欢，公无困哉！我惟无斁其康事，公勿替刑，四方其世享。」</p>
+<p>　　周公拜手稽首曰：「王命予来承保乃文祖受命民，越乃光烈考武王弘朕恭。孺子来相宅，其大惇典殷献民，乱为四方新辟，作周恭先。曰其自时中乂，万邦咸休，惟王有成绩。予旦以多子越御事笃前人成烈，答其师，作周孚先。』考朕昭子刑，乃单文祖德。</p>
+<p>　　伻来毖殷，乃命宁予以秬鬯二卣。曰明禋，拜手稽首休享。予不敢宿，则禋于文王、武王。惠笃叙，无有遘自疾，万年厌于乃德，殷乃引考。王伻殷乃承叙万年，其永观朕子怀德。」</p>
+<p>　　戊辰，王在新邑烝，祭岁，文王騂牛一，武王騂牛一。王命作册逸祝册，惟告周公其后。</p>
+<p>　　王宾杀禋咸格，王入太室，裸。王命周公后，作册逸诰，在十有二月。惟周公诞保文武受命，惟七年。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3118.aspx">上一章</a>
+<a href="/guwen/book_22.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3120.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1996" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

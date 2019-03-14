@@ -1,0 +1,90 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+陶庵梦忆·卷八·琅嬛福地_古诗文网
+</title>
+<meta content="陶庵梦有夙因，常梦至一石厂，峥窅岩岪，前有急湍洄溪，水落如雪，松石奇古，杂以名花。梦坐其中，童子进茗果，积书满架，开卷视之，多蝌蚪、鸟迹、霹雳篆文，梦中读之，似能通其棘涩。闲居无事" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13109.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·琅嬛福地</b></span>
+<a href="javascript:PlayBookv(13109)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13109" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13109" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　陶庵梦有夙因，常梦至一石厂，峥窅岩岪，前有急湍洄溪，水落如雪，松石奇古，杂以名花。梦坐其中，童子进茗果，积书满架，开卷视之，多蝌蚪、鸟迹、霹雳篆文，梦中读之，似能通其棘涩。闲居无事，夜辄梦之，醒后伫思，欲得一胜地仿佛为之。郊外有一小山，石骨棱砺，上多筠篁，偃伏园内。余欲造厂，堂东西向，前后轩之，后磥一石坪，植黄山松数棵，奇石峡之。堂前树娑罗二，资其清樾。左附虚室，坐对山麓，磴磴齿齿，划裂如试剑，匾曰“一丘”。右踞厂阁三间，前临大沼，秋水明瑟，深柳读书，匾曰“一壑”。</p>
+<p>　　缘山以北，精舍小房，绌屈蜿蜒，有古木，有层崖，有小涧，有幽篁，节节有致。山尽有佳穴，造生圹，俟陶庵蜕焉，碑曰“呜呼有明陶庵张长公之圹”。圹左有空地亩许，架一草庵，供佛，供陶庵像，迎僧住之奉香火。大沼阔十亩许，沼外小河三四折，可纳舟入沼。河两崖皆高阜，可植果木，以橘、以梅、以梨、以枣，枸菊围之。山顶可亭。山之西鄙，有腴田二十亩，可秫可秔。门临大河，小楼翼之，可看炉峰、敬亭诸山。楼下门之，匾曰“琅嬛福地”。缘河北走，有石桥极古朴，上有灌木，可坐、可风、可月。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13108.aspx">上一章</a>
+<a href="/guwen/book_139.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

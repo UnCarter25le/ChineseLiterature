@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷五·长治女子_古诗文网
+</title>
+<meta content="陈欢乐，潞之长治人，有女慧美。一道士行乞，睨之而去。由是日持钵近廛间。适一瞽人自陈家出，道士追与同行，问何来。瞽云：“适从陈家推造命。”道士曰：“闻其家有女郎，我中表亲欲求姻好，但" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11590.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·长治女子</b></span>
+<a href="javascript:PlayBookv(11590)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11590" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11590" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　陈欢乐，潞之长治人，有女慧美。一道士行乞，睨之而去。由是日持钵近廛间。适一瞽人自陈家出，道士追与同行，问何来。瞽云：“适从陈家推造命。”道士曰：“闻其家有女郎，我中表亲欲求姻好，但未知其甲子。”瞽为述之，道士乃别而去。居数日，女绣于房，忽觉足麻痹，渐至股，又渐至腰腹，俄而晕然倾仆。定逾刻，始恍惚能立，将寻告母。及出门，则见茫茫黑波中，一路如线，骇而却退，门舍居庐，已被黑水淹没。又视路上，行人绝少，惟道士缓步于前。遂遥尾之，翼见同乡以相告语。走数里，忽睹里舍，视之，则己家门。大骇曰：“奔驰如许，固犹在村中。何向来迷惘若此！”欣然入门，父母尚未归。复至己房，所绣业履，犹在榻上。自觉奔波殆极，就榻憩坐。道士忽入，女大惊欲遁。道士捉而捺之，女欲号，则喑不能声。道士急以利刃剖女心，女觉魂飘飘离壳而立，四顾家舍全非，惟有崩崖若覆。视道士以己心血点木人上，又复叠指诅咒，女觉木人遂与己合。道士嘱曰：“自兹当听差遣，勿得违误！”遂佩戴之。</p>
+<p>　　陈氏失女，举家惶惑。寻至牛头山，始闻村人传言，岭下一女子剖心而死。陈奔验，果其女也。泣以诉宰。宰拘岭下居人，拷掠几遍，讫无端绪。姑收群犯，以待覆勘。道士去数里外，坐路旁柳树下，忽谓女曰：“今遣汝第一差，往侦邑中审狱状，去当隐身暖阁上。倘见官宰用印，即当趋避，切记勿忘！限汝辰去巳来。迟一刻，则以一针刺汝心中，令作急痛；二刻，刺二针；至三针，则使汝魂魄销灭矣。”女闻之，四体惊悚，飘然遂去。瞬息至官廨，如言伏阁上。一时岭下人罗跪堂下，尚未讯诘。适将钤印公牒，女未及避，而印已出匣。女觉身躯重软，纸格似不能胜，嚗然作响，满堂愕顾。宰命再举，响如前；三举，翻坠地下，众悉闻之。宰起祝曰：“如是冤鬼，当便直陈，为汝昭雪。”女哽咽而前，历言道士杀己、遣己状。宰差役驰去，至柳树下，道士果在。捉还，一鞫而服。人犯乃释。宰问女：“冤雪何归？”女曰：“将从大人。”宰曰：“我署中无处可容，不如暂归汝家。”女良久曰：“官署即吾家，我将入矣。”宰又问，音响已寂。退入宅中，则夫人生女矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11589.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11591.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

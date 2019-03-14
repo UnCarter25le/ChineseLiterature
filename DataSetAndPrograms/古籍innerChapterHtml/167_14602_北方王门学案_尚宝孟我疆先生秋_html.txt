@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·北方王门学案·尚宝孟我疆先生秋_古诗文网
+</title>
+<meta content="孟秋字子成，号我疆，山东茌平人。隆庆辛未进士。知昌黎县。历大理评事、职方郎中，致仕。起刑部主事、尚宝寺丞、少卿而卒，年六十五。先生少授《毛诗》，至桑间濮上，不肯竟读。闻邑人张宏山讲" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14602.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>北方王门学案·尚宝孟我疆先生秋</b></span>
+<a href="javascript:PlayBookv(14602)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14602" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14602" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　孟秋字子成，号我疆，山东茌平人。隆庆辛未进士。知昌黎县。历大理评事、职方郎中，致仕。起刑部主事、尚宝寺丞、少卿而卒，年六十五。先生少授《毛诗》，至桑间濮上，不肯竟读。闻邑人张宏山讲学，即往从之。因《尚书》明目达聪语，洒然有悟。邹聚所、周讷溪官其地，相与印证，所至惟发明良知，改定《明儒经翼》，去其驳杂者。时唐仁卿不喜心学，先生谓顾泾阳曰：“仁卿何如人也？”泾阳曰：“君子也。”先生曰：“彼排阳明，恶得为君子？”泾阳曰：“朱子以象山为告子，文成以朱子为杨、墨，皆甚辞也，何但仁卿。”先生终不以为然。许敬菴尝访先生，盈丈之地，瓦屋数椽，其旁茅舍倍之。敬菴谓：“此风味，大江以南所未有也。”先生大指以“心体本自澄澈，有意克己，便生翳障。盖真如的的，一齐现前，如如而妙自在，必克己而后言仁，则宣父何不以克伐仁原宪耶？弘山谓‘良即是知，知即是良，良外无知，知外无良’，师门之宗传固如是也。此即现成良知之说，不烦造作，动念即乖。夫良知固未有不现成者，而现成之体，极是难认，此明道所以先识仁也。”先生之论，加於识仁之后则可，若未识仁，则克己之功诚不可已，但克己即是识仁。颜子有不善未尝不知，知之未尝复行也。仁体丝毫不清楚，便是不善，原宪之克伐怨欲，有名件可指，已是出柙之虎兕，安可相提而论哉！</p>
+<p>　　我疆论学语</p>
+<p>　　心无方无体，凡耳目视听，一切应感皆心也。指腔子内为言者，是血肉之躯，非灵莹之天君矣。</p>
+<p>　　天道曾有一刻不感时？地道曾有一刻不应时？人心曾有一刻无事时？一刻无事是槁灭也，故时时必有事，亦时时未发。未发云者，发而无发之谓，非可以有感而感论也。</p>
+<p>　　自圣学不传，而性善之旨日晦。入圣无门，人是其见，虽尽力洗涤，渣滓尚在，以故终身盘桓，只在改过间。就其所造，仅以小儒而止。皆由“克去人欲，复还天理”之说误之也。人欲无穷，去一日，生一日，去一年，生一年，终身去欲，终身多欲，劳苦烦难，何日是清净宁一时耶！来书云“有病不得不服药”是也。有人於此，养其元气，保其四肢，血气和平，虽有风寒暑湿，不得乘间而入。使不保元气，药剂日来，则精神日耗，邪气日侵，因药而发病者，日相寻焉，终身病夫而已，岂善养身者乎？又云：“必有主人，方可逐贼。”此就多积者言耳。若家无长物，空空如也，吾且高枕而卧，盗贼自不吾扰，又何用未来则防，既来则逐乎？此两喻者，乃志仁之说，无欲之证也。</p>
+<p>　　曾子之学，一贯之学也，此曾子作《大学》之宗旨也。故析而言之曰修身也，正心也，诚意也，致知也，格物也，若名目之不同。合而言之则一也。何也？自身之神明谓之心，自心之发动谓之意，自意之灵觉谓之知，自知之感应谓之物。心意知物，总而言之一身也。正者正其身之心也，诚者诚其心之意也，致者致其意之知也，格者格其知之物也。格致诚正，总而言之修身也。道无二致，一时俱到，学无二功，一了百当，此一贯之道也。</p>
+<p>　　道有本门，路无多歧，会道以心，不泥文字间。性原有本，利原无根，端本澄源，则万派千流，一清彻底矣，又何尘垢之染乎？</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14601.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14603.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

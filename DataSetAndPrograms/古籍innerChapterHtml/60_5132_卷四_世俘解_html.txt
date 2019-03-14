@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+逸周书·卷四·世俘解_古诗文网
+</title>
+<meta content="维四月乙未日，武王成辟，四方通殷，命有国。惟一月丙午，旁生魄，若翼日丁未，王乃步自于周，征伐商王纣。越若来二月既死魄，越五日，甲子朝，至接于商。则咸刘商王纣，执矢恶臣百人。太公望命" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5132.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3400" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·世俘解</b></span>
+<a href="javascript:PlayBookv(5132)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5132" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3400)" id="leftbtn3400" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5132" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　维四月乙未日，武王成辟，四方通殷，命有国。惟一月丙午，旁生魄，若翼日丁未，王乃步自于周，征伐商王纣。越若来二月既死魄，越五日，甲子朝，至接于商。则咸刘商王纣，执矢恶臣百人。太公望命御方来，丁卯至，告以馘俘。</p>
+<p>　　戊辰，王遂御循追祀文王。时日王立政。吕他命伐越、戏、方，壬申荒新至，告以馘俘。侯来命伐，靡集于陈。辛巳，至，告以馘俘。甲申，百唶以虎贲誓命伐卫，告以亳俘。</p>
+<p>　　辛亥，荐俘殷王鼎。武王乃翼，矢慓矢宪，告天宗上帝。王不革服，格于庙，秉语治庶国，籥入九终。王烈祖自太王、太伯、王季、虞公、文王、邑考以列升，维告殷罪，籥人造，王秉黄钺，正国伯。壬子，王服衮衣，矢琰格庙，籥人造王，秉黄钺，正邦君。</p>
+<p>　　癸丑，荐殷俘王士百人。籥人造王矢琰、秉黄钺、执戈王奏庸，大享一终，王拜手，稽首。王定奏庸，大享三终。甲寅，谒戎殷于牧野，王佩赤白畤，籥人奏，武王入，进万献。明明三终。</p>
+<p>　　乙卯，籥人奏崇禹生开三终，王定。庚子，陈本命，伐磨百韦，命伐宣方、新荒，命伐蜀。乙巳，陈本命新荒蜀磨，至告禽霍侯、艾侯，俘佚侯，小臣四十有六，禽御八百有三百两，告以馘俘。百谓至，告以禽宣方，禽御三十两，告以馘俘百韦，命伐厉，告以馘俘。武王狩，禽虎二十有二，猫二，糜五千二百三十五，犀十有二，氂七百二十有一熊百五十有一，罴百一十有八，豕三百五十有二，貉十有八，麈十有六，麝五十，糜三十，鹿三千五百有八。武王遂征四方，凡憝国九十有九国，馘磨亿有十万七千七百七十有九，俘人三亿万有二百三十。凡服国六百五十有二。</p>
+<p>　　时四月，既旁生魄，越六日，庚戌，武王朝，至燎于周，维予冲子绥文。武王降自车，乃俾史佚繇书于天号。武王乃废于纣矢恶臣人百人，伐右厥甲孝子鼎大师。伐厥四十夫，家君、鼎帅、司徒、司马，初厥于郊号。武王乃夹于南门，用俘，皆施佩衣，衣先馘入。武王在祀，太师负商王纣，县首白畤，乃以先馘入燎于周庙。</p>
+<p>　　若翼日辛亥，祀于位，用籥于天位。越五日乙卯，武王乃以庶祀馘于国周庙，翼予冲子，断牛六，断羊二。庶国乃竟，告于周庙，曰：“古朕闻文考修商人典，以斩纣身，告于天于稷。用小牲羊犬豕于百神水土、于誓社。”曰：“惟予冲子，绥文考，至于冲子，用牛于天、于稷，五百有四，用小牲羊豕于百神水土社三千七百有一。”</p>
+<p>　　益之商王纣于南郊。时甲子夕，商王纣取天智玉琰五，环身，厚以自焚。凡厥有庶，告焚玉四千。五日，武王乃俾于千人，亲爱之四千庶玉，则销天智玉五，在火中不销。凡天智玉，武王则宝与同。凡武王俘商旧玉有百万。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5131.aspx">上一章</a>
+<a href="/guwen/book_60.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5133.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3400" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

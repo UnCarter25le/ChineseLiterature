@@ -1,0 +1,115 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·晋语·骊姬谮杀太子申生_古诗文网
+</title>
+<meta content="反自稷桑，处五年，骊姬谓公曰：“吾闻申生之谋愈深。日，吾固告君曰得众，众不利，焉能胜狄？今矜狄之善，其志益广。狐突不顺，故不出。吾闻之，申生甚好信而强，又失言于众矣，虽欲有退，众将" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9645.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8396" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>晋语·骊姬谮杀太子申生</b></span>
+<a href="javascript:PlayBookv(9645)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9645" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8396)" id="leftbtn8396" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9645" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+反自稷桑，处五年，骊姬谓公曰：“吾闻申生之谋愈深。日，吾固告君曰得众，众不利，焉能胜狄？今矜狄之善，其志益广。狐突不顺，故不出。吾闻之，申生甚好信而强，又失言于众矣，虽欲有退，众将责焉。言不可食，众不可弭，是以深谋。君若不图，难将至矣！”公曰：“吾不忘也，抑未有以致罪焉。”
+</p><p>　　
+骊姬告优施曰：“君既许我杀太子而立奚齐矣，吾难里克，奈何！”优施曰：“吾来里克，一日而已。子为我具特羊之飨，吾以从之饮酒。我优也，言无邮。”骊姬许诺，乃具，使优施饮里克酒。中饮，优施起舞，谓里克妻曰：“主孟啖我，我教兹暇豫事君。”乃歌曰：“暇豫之吾吾，不如鸟乌。人皆集于苑，己独集于枯。”里克笑曰：“何谓苑，何谓枯？”优施曰：“其母为夫人，其子为君，可不谓苑乎？其母既死，其子又有谤，可不谓枯乎？枯且有伤。”
+</p><p>　　
+优施出，里克辟奠，不飧而寝。夜半，召优施，曰：“曩而言戏乎？抑有所闻之乎？”曰：“然。君既许骊姬杀太子而立奚齐，谋既成矣。”里克曰：“吾秉君以杀太子，吾不忍。通复故交，吾不敢。中立其免乎？”优施曰：“免。”
+</p><p>　　
+旦而里克见丕郑，曰：“夫史苏之言将及矣！优施告我，君谋成矣，将立奚齐。”丕郑曰：“子谓何？”曰：“吾对以中立。”丕郑曰：“惜也！不如曰不信以疏之，亦固太子以携之，多为之故，以变其志，志少疏，乃可间也。今子曰中立，况固其谋也，彼有成矣，难以得间。”里克曰：“往言不可及也，且人中心唯无忌之，何可败也！子将何如？”丕郑曰：“我无心。是故事君者，君为我心，制不在我。”里克曰：“弑君以为廉，长廉以骄心，因骄以制人家，吾不敢。抑挠志以从君，为废人以自利也，利方以求成人，吾不能。将伏也！”明日，称疾不朝。三旬，难乃成。
+</p><p>　　
+骊姬以君命命申生曰：“今夕君梦齐姜，必速祠而归福。”申生许诺，乃祭于曲沃，归福于绛。公田，骊姬受福，乃■鸩于酒，■堇于肉。公至，召申生献，公祭之地，地墤。申生恐而出。骊姬与犬肉，犬斃；饮小臣酒，亦斃。公命杀杜原款。申生奔新城。
+</p><p>　　
+杜原款将死，使小臣圉告于申生，曰：“款也不才，寡智不敏，不能教导，以至于死。不能深知君之心度，弃宠求广土而窜伏焉；小心狷介，不敢行也。是以言至而无所讼之也，故陷于大难，乃逮于谗。然款也不敢爱死，唯与谗人钧是恶也。吾闻君子不去情，不反谗，谗行身死可也。犹有令名焉。死不迁情，强也。守情说父，孝也。杀身以成志，仁也。死不忘君，敬也。
+</p><p>　　
+孺子勉之！死必遗爱，死民之思，不亦可乎？”申生许诺。
+</p><p>　　
+人谓申生曰：“非子之罪，何不去乎？”申生曰：“不可。去而罪释，必归于君，是怨君也。章父之恶，取笑诸侯，吾谁乡而入？内困于父母，外困于诸侯，是重困也。弃君去罪，是逃死也。吾闻之：‘仁不怨君，智不重困，勇不逃死。’若罪不释，去而必重。去而罪重，不智。逃死而怨君，不仁。有罪不死，无勇。去而厚怨，恶不可重，死不可避，吾将伏以俟命。”
+</p><p>　　
+骊姬见申生而哭之，曰：“有父忍之，况国人乎？忍父而求好人，人孰好之？杀父以求利人，人孰利之？皆民之所恶也，难以长生！”骊姬退，申生乃雉经于新城之庙。将死，乃使猛足言于狐突曰：“申生有罪，不听伯氏，以至于死。申生不敢爱其死，虽然，吾君老矣，国家多难，伯氏不出，奈吾君何？伯氏苟出而图吾君，申生受赐以至于死，虽死何悔！”是以谥为共君。
+</p><p>　　
+骊姬既杀太子申生，又谮二公子曰：“重耳、夷吾与知共君之事。”公令阉楚刺重耳，重耳逃于狄；令贾华刺夷吾，夷吾逃于梁。尽逐群公子，乃立奚齐焉。始为令，国无公族焉。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9644.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9646.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8396" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

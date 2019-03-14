@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+世说新语·汰侈_古诗文网
+</title>
+<meta content="石崇每要客燕集，常令美人行酒。客饮酒不尽者，使黄门交斩美人。王丞相与大将军尝共诣崇。丞相素不能饮，辄自勉强，至于沉醉。每至大将军，固不饮，以观其变。已斩三人，颜色如故，尚不肯饮。丞" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2775.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1591" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>汰侈</b></span>
+<a href="javascript:PlayBookv(2775)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2775" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1591)" id="leftbtn1591" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2775" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e4%b9%89%e5%ba%86">刘义庆</a></p>
+<div class="contson">
+<p>　　石崇每要客燕集，常令美人行酒。客饮酒不尽者，使黄门交斩美人。王丞相与大将军尝共诣崇。丞相素不能饮，辄自勉强，至于沉醉。每至大将军，固不饮，以观其变。已斩三人，颜色如故，尚不肯饮。丞相让之，大将军曰：“自杀伊家人，何预卿事！”</p>
+<p>　　石崇厕，常有十余婢侍列，皆丽服藻饰。置甲煎粉、沉香汁之属，无不毕备。又与新衣箸令出，客多羞不能如厕。王大将军往，脱故衣，箸新衣，神色傲然。群婢相谓曰：“此客必能作贼。”</p>
+<p>　　武帝尝降王武子家，武子供馔，并用琉璃器。婢子百余人，皆绫罗裤(衣罗)，以手擎饮食。烝豚肥美，异于常味。帝怪而问之，答曰：“以人乳饮豚。”帝甚不平，食未毕，便去。王、石所未知作。</p>
+<p>　　王君夫以(米台)糒澳釜，石季伦用蜡烛作炊。君夫作紫丝布步障碧绫裹四十里，石崇作锦步障五十里以敌之。石以椒为泥，王以赤石脂泥壁。</p>
+<p>　　石崇为客作豆粥，咄嗟便办。恒冬天得韭蓱虀。又牛形状气力不胜王恺牛，而与恺出游，极晚发，争入洛城，崇牛数十步后，迅若飞禽，恺牛绝走不能及。每以此三事为搤腕。乃密货崇帐下都督及御车人，问所以。都督曰：“豆至难煮，唯豫作熟末，客至，作白粥以投之。韭蓱虀是捣韭根，杂以麦苗尔。”复问驭人牛所以驶。驭人云：“牛本不迟，由将车人不及制之尔。急时听偏辕，则驶矣。”恺悉从之，遂争长。石崇后闻，皆杀告者。</p>
+<p>　　王君夫有牛，名“八百里驳”，常莹其蹄角。王武子语君夫：“我射不如卿，今指赌卿牛，以千万对之。”君夫既恃手快，且谓骏物无有杀理，便相然可。令武子先射。武子一起便破的，却据胡床，叱左右：“速探牛心来！”须臾，炙至，一脔便去。</p>
+<p>　　王君夫尝责一人无服余衵，因直内箸曲合重闺里，不听人将出。遂饥经日，迷不知何处去。后因缘相为垂死，迺得出。</p>
+<p>　　石崇与王恺争豪，并穷绮丽，以饰舆服。武帝，恺之甥也，每助恺。尝以一珊瑚树，高二尺许赐恺。枝柯扶疏，世罕其比。恺以示崇。崇视讫，以铁如意击之，应手而碎。恺既惋惜，又以为疾己之宝，声色甚厉。崇曰：“不足恨，今还卿。”乃命左右悉取珊瑚树，有三尺四尺，条干绝世，光彩溢目者六七枚，如恺许比甚众。恺惘然自失。</p>
+<p>　　王武子被责，移第北邙下。于时人多地贵，济好马射，买地作埒，编钱币地竟埒。时人号曰“金沟”。</p>
+<p>　　石崇每与王敦入学戏，见颜、原象而叹曰：“若与同升孔堂，去人何必有间！”王曰：“不知余人云何？子贡去卿差近。”石正色云：“士当令身名俱泰，何至以瓮牖语人！”</p>
+<p>　　彭城王有快牛，至爱惜之。王太尉与射，赌得之。彭城王曰：“君欲自乘则不论；若欲啖者，当以二十肥者代之。既不废啖，又存所爱。”王遂杀啖。</p>
+<p>　　王右军少时，在周侯末坐，割牛心啖之。于此改观。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2774.aspx">上一章</a>
+<a href="/guwen/book_18.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2776.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1591" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

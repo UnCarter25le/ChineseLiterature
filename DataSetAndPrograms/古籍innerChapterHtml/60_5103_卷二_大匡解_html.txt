@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+逸周书·卷二·大匡解_古诗文网
+</title>
+<meta content="维周王在酆，三年遭天之大荒，作《大匡》，以诏牧其方，三州之侯咸率。王乃召冢卿、三老、三吏大夫、百执事之人，朝于大庭。问罢病之故，政事之失，刑罚之戾，哀乐之尤，宾客之盛，用度之费，及" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5103.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3382" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·大匡解</b></span>
+<a href="javascript:PlayBookv(5103)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5103" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3382)" id="leftbtn3382" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5103" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　维周王在酆，三年遭天之大荒，作《大匡》，以诏牧其方，三州之侯咸率。王乃召冢卿、三老、三吏大夫、百执事之人，朝于大庭。问罢病之故，政事之失，刑罚之戾，哀乐之尤，宾客之盛，用度之费，及关市之征，山林之匮，田宅之荒，沟渠之害，怠堕之过，骄顽之虐，水旱之灾。曰：“不谷不德，政事不时，国家罢病，不能胥匡，二三子不尚助不谷，官考厥职，乡问其人，因其耆老，及其总害，慎问其故，无隐乃情。”及某日以告于庙，有不用命，有常不赦。王既发命，八食不举，百官质方，□不食饔。</p>
+<p>　　及期日质明，王麻衣以朝，朝中无采衣。官考其职，乡问其利，因谋其灾，旁匡于众，无敢有违。诘退骄顽，方收不服，慎惟怠堕，什伍相保，动劝游居，事节说茂，农夫任户，户尽夫出。农廪分乡，乡命受粮，程课物征，躬竞比藏，藏不粥籴，籴不加均，赋洒其币，乡正保贷。成年不偿，信诚匡之类，以辅殖财。财殖足食，克赋为征，数口以食，食均有赋。外食不赡，开关通粮，粮穷不转，孤寡不废。滞不转留，戍城不留，□足以守，出旅分均，驰车送逝，旦夕运粮。于是告四方游旅旁生，忻通所在，津济道宿，所至如归。币租轻，乃作母，以行其子。易资贵贱，以均游旅，使无滞。无粥熟，无室市，权内外，以立均，无蚤暮，闾次均行。均行众从，积而勿□，以罚助均，无使之穷，平均无乏，利民不淫。无播蔬，无食种，以数度多少省用。祈而不宾祭，服漱不制。国不乡射，乐不墙合。屋有补无作。资农不败务。非公卿不宾，宾不过具。哭不留日，登降一等。庶人不独，葬伍有植，送往迎来，亦如之。有不用命，有常不违。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5102.aspx">上一章</a>
+<a href="/guwen/book_60.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5104.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3382" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

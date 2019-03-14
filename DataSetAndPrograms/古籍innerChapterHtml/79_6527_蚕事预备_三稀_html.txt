@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+农桑辑要·蚕事预备·三稀_古诗文网
+</title>
+<meta content="《蚕经》：下蚁，上箔，入簇。《齐民要术》：蚕老时值雨者，则坏茧，宜于屋内簇之。薄布薪于箔上，散蚕讫，又薄以薪覆之。一槌得安十箔。《务本新书》：簇蚕：地宜高平，内宜通风。匀布柴草，布" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6527.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5556" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>蚕事预备·三稀</b></span>
+<a href="javascript:PlayBookv(6527)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6527" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5556)" id="leftbtn5556" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6527" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　《蚕经》：下蚁，上箔，入簇。</p>
+<p>　　《齐民要术》：蚕老时值雨者，则坏茧，宜于屋内簇之。薄布薪于箔上，散蚕讫，又薄以薪覆之。一槌得安十箔。</p>
+<p>　　《务本新书》：簇蚕：地宜高平，内宜通风。匀布柴草，布蚕宜稀；密则热，热则茧难成，丝亦难缲。东北位，并养六畜处、树下、坑上、粪恶流水之地，不得簇。《野语》：如天气暄热，不宜日午簇蚕；蚕老不禁日气晒暴故也。</p>
+<p>　　《士农必用》：治簇之方，惟在干暖，使内无寒湿。簇中茧病有六：一、簇汗，二、落簇，三、游走，四、变赤蛹，五、变僵，六、黑色。簇汗之病，蚕老食叶不净，其叶蒸湿，带叶入簇。故茧亦湿润，此为簇汗。其余五病，皆地湿天寒所致。蚕欲老，可簇地盘，烧令极干，除扫灰净，于上置簇。</p>
+<p>　　《韩氏直说》：安圆簇：于阜高处，打成簇脚；一簇可六箔蚕。十分中有九分老者宜少掺叶。名“上马桑”。就箔上用簸箕般去，宜款手掺于簇上，自东南起头，不令落地。务令稀匀。</p>
+<p>　　上复覆梢蒿，或豆秸。复掺蚕如前。至三箔，覆梢倒根在上。如此则簇圆又稳。自后蚕可近上掺。至六箔覆蒿令簇圆；上用箔围苫缴，簇顶如亭子样。防雨。至晚，又用苫，将簇从下缴至上苫相接。日出高时，卷去；至晚，复缴。三日外，茧成不用。“马头簇”，亦依上苫缴。柴薪要广、簇又玲珑，中间宜架杆。蚕多，宜“马头簇”，簇脚宜南北。晒簇：上蚕后第三日，辰巳时间，开苫箔日晒；至未时，复苫盖如前。如当日过热，上榰⑨单箔遮日色。翻簇：上蚕时，被雨沾湿，雨才止才晴，即选一簇地盘。如雨湿了，则取干墙土厚覆，治簇之法如前。不以成茧不成茧，翻謄迁移别簇，封苫如前。小雨则不须，但可曝晒。又有一法：临簇有雨，只于蚕屋中本槌下，地面上安簇；开了门窗，使透风气，早夜或阴雨变寒，则闭门窗，添牛粪火，比翻簇之法，义为妙也。又一法：槌箔上、虚撒蒿、槌周围簇梢与蒿，箔苫围之，蚕自作茧，犹胜于雨中簇也。“槽”音支。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6526.aspx">上一章</a>
+<a href="/guwen/book_79.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6528.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5556" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷六·细侯_古诗文网
+</title>
+<meta content="昌化满生，设帐余杭。偶涉廛市，经临街阁下，忽有荔壳坠肩头。仰视，一雏姬凭阁上，妖姿要妙，不觉注目发狂，姬俯哂而入。询之，知为娼楼贾氏女细侯也。其声价颇高，自顾不能适愿。归斋冥想，终" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11628.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·细侯</b></span>
+<a href="javascript:PlayBookv(11628)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11628" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11628" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　昌化满生，设帐余杭。偶涉廛市，经临街阁下，忽有荔壳坠肩头。仰视，一雏姬凭阁上，妖姿要妙，不觉注目发狂，姬俯哂而入。询之，知为娼楼贾氏女细侯也。其声价颇高，自顾不能适愿。归斋冥想，终宵不枕。明日，往投以刺，相见，言笑甚欢，心志益迷。托故假贷同人，敛金如干，携以赴女，款洽臻至。即枕上口占一绝赠之云：“膏腻铜盘夜未央，床头小语麝兰香。新鬟明日重妆凤，无复行云梦楚王。”细侯蹙然曰：“妾虽污贱，每愿得同心而事之。君既无妇，视妾可当家否？”生大悦，即叮咛，坚相约。细侯亦喜曰：“吟咏之事，妾自谓无难，每于无人处，欲效作一首，恐未能便佳，为观听所讥。倘得相从，幸以教妾。”因问生：“家田产几何？”答曰：“薄田半顷，破屋数椽而已。”细侯曰：“妾归君后，当常相守，勿复设帐为也。四十亩聊足自给，十亩可以种黍，织五匹绢，纳太平之税有余矣。闭户相对，君读妾织，暇则诗酒可遣，千户侯何足贵！”生曰：“卿身价约可几多？”曰：“依媪贪志，何能盈也？多不过二百金足矣。可恨妾齿稚，不知重资财，得辄归母，所私者区区无多。君能办百金，过此即非所虑。”生曰：“小生之落寞，卿所知也，百金何能自致，有同盟友令于湖南，屡相见招，仆因道远，故惮于行。今为卿故，当往谋之。计三四月，可以复归，幸耐相候。”细侯曰：“诺。”生即弃馆南游，至则令已免官，以挂误居民舍，宦囊空虚，不能为礼。生落魄难返，就邑中授徒焉。三年，莫能归。偶笞弟子，弟子自溺死。东翁痛子而讼师，因被逮囹圄。幸有他门人，怜师无过，时致馈遗，得以无苦。</p>
+<p>　　细侯自别生，杜门不交一客。母诘知故，而志不可夺，亦姑听之。有富贾慕细侯名，托媒于媪。务在必得，不靳直。细侯不可，贾以负贩诣湖南，敬侦生耗。时狱已将解，贾以金赂当事吏，使久锢之。归告媪云：“生已瘐死。”细侯不信。媪曰：“无论满生已死，纵或不死，与其从穷措大以椎布终也，何如衣锦而厌粱肉乎？”细侯曰：“满生虽贫，其骨清也；守龌龊商，诚非所愿。且道路之言，何足凭信！”贾又转嘱他商，假作满生绝命书寄细侯，以绝其望。细侯得书，朝夕哀哭，媪曰：“我自幼于汝，抚育良劬。汝成人二三年，所得报日亦无多。既不愿隶籍，又不肯嫁，何以能生活？”细侯不得己，遂嫁贾。贾衣服簪环，供给丰侈。年余，生一子。</p>
+<p>　　无何，生得门人力，昭雪出狱，始知贾之锢己也。然念素无嫌隙，反复不得其由，门人义助资斧得归，既闻细侯已嫁，心甚激楚，因以所苦，托市媪卖浆者达细侯。细侯大悲，方悟前此多端，悉贾之诡谋。乘贾他出，杀抱中儿，携所有以归满；凡贾家服饰，一无所取。贾归，怒讼于官。官原其情，竟置不问。嘻！破镜重归，盟心不改，义实可嘉。然必杀子而行，未免太忍矣！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11627.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11629.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

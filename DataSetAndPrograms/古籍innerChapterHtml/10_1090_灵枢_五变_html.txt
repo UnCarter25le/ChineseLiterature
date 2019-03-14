@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·五变_古诗文网
+</title>
+<meta content="黄帝问于少俞曰：余闻百疾之始期也，必生于风雨寒暑，循毫毛而入腠理，或复还，或留止，或为风肿汗出，或为消瘅，或为寒热，或为留痹，或为积聚。奇邪淫溢，不可胜数，愿闻其故。夫同时得病，或" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1090.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left914" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·五变</b></span>
+<a href="javascript:PlayBookv(1090)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1090" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(914)" id="leftbtn914" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1090" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问于少俞曰：余闻百疾之始期也，必生于风雨寒暑，循毫毛而入腠理，或复还，或留止，或为风肿汗出，或为消瘅，或为寒热，或为留痹，或为积聚。奇邪淫溢，不可胜数，愿闻其故。夫同时得病，或病此，或病彼，意者天之为人生风乎，何其异也？少俞曰：夫天之生风者，非以私百姓也，其行公平正直，犯者得之，避者得无殆，非求人而人自犯之。</p>
+<p>　　黄帝日：一时遇风，同时得病，其病各异，愿闻其故。少俞曰：善乎哉问！请论以比匠人。匠人磨斧斤，砺刀削斫材木。木之阴阳，尚有坚脆，坚者不入，脆者皮弛，至其交节，而缺斤斧焉。夫一木之中，坚脆不同，坚者则刚，脆者易伤，况其材木之不同，皮之厚薄，汁之多少，而各异耶。夫木之蚤花先生叶者，遇春霜烈风，则花落而叶萎；久曝大旱，则脆木薄皮者，枝条汁少而叶萎；久阴淫雨，则薄皮多汁者，皮渍而漉；卒风暴起，则刚脆之木枝折扤伤，秋霜疾风则刚，脆之木根摇而叶落。凡此五者，各有所伤，况于人乎！</p>
+<p>　　黄帝曰：以人应木，奈何？少俞答曰：木之所伤也，皆伤其枝。枝之刚脆而坚，未成伤也。人之有常病也，亦因其骨节皮肤腠理之不坚固者，邪之所舍也，故常为病也。</p>
+<p>　　黄帝曰：人之善病风厥漉汗者，何以候之？少俞答曰：肉不坚，腠理疏，则善病风。</p>
+<p>　　黄帝曰：何以候之不坚也？少俞答曰：腘肉不坚，而无分理。理者粗理，粗理而皮不致者，腠理疏。此言其浑然者。</p>
+<p>　　黄帝曰：人之善病消瘅者，何以候之？少俞答曰：五脏皆柔弱者，善病消瘅。</p>
+<p>　　黄帝曰：何以知五脏之柔弱也？少俞答曰：夫柔弱者，必有刚强，刚强多怒，柔者易伤也。</p>
+<p>　　黄帝曰：何以候柔弱之与刚强？少俞答曰：此人薄皮肤，而目坚固以深者，长冲直肠，其心刚，刚则多怒，怒则气上逆，胸中蓄积，血气逆留，臗皮充肌，血脉不行，转而为热，热则消肌肤，故为消瘅。此言其人暴刚而肌肉弱者也。</p>
+<p>　　黄帝曰：人之善病寒热者，何以候之？少俞答曰：小骨弱肉者，善病寒热。</p>
+<p>　　黄帝曰：何以候骨之小大，肉之坚脆，色之不一也？少俞答曰：颧骨者，骨之本也。颧大则骨大，颧小则骨小。皮肤薄而其肉无□，其臂懦懦然，其地色殆然，不与其天同色，污然独异，此其候也。然后臂薄者，其髓不满，故善病寒热也。</p>
+<p>　　黄帝曰：何以候人之善病痹者？少俞答曰：粗理而肉不坚者，善病痹。</p>
+<p>　　黄帝曰：痹之高下有处乎？少俞答曰：欲知其高下者，各视其部。</p>
+<p>　　黄帝曰：人之善病肠中积聚者，何以候之？少俞答曰：皮肤薄而不泽，肉不坚而淖泽。如此，则肠胃恶，恶则邪气留止，积聚乃伤脾胃之间，寒温不次，邪气稍至。蓄积留止，大聚乃起。</p>
+<p>　　黄帝曰：余闻病形，已知之矣！愿闻其时。少俞答曰：先立其年，以知其时。时高则起，时下则殆，虽不陷下，当年有冲道，其病必起，是谓因形而生病，五变之纪也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1089.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1091.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right914" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

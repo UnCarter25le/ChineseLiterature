@@ -1,0 +1,161 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·上七窍病·齿病第六_古诗文网
+</title>
+<meta content="（论一首，方三十八首，灸法二首）论曰∶凡齿龈宣露，多是疳 及月蚀，以角蒿灰夜敷龈间，使满，勿食油，不过二三夜，瘥。食油及干枣即发，所以患齿者，忌油干枣及桂心。每旦以一捻盐纳口中，以" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12684.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上七窍病·齿病第六</b></span>
+<a href="javascript:PlayBookv(12684)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12684" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12684" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（论一首，方三十八首，灸法二首）</span></p>
+<p>　　论曰∶凡齿龈宣露，多是疳 及月蚀，以角蒿灰夜敷龈间，使满，勿食油，不过二三夜，瘥。食油及干枣即发，所以患齿者，忌油干枣及桂心。每旦以一捻盐纳口中，以暖水含，揩齿及叩齿百遍，为之不绝，不过五日，口齿即牢密。凡人齿龈不能食果菜者，皆由齿根露也，为此盐汤揩齿、叩齿法，无不愈也，神良。凡人好患齿病，多由月蚀夜食饮之所致也，识者深宜慎之。所以日月蚀未平时，特忌饮食，小儿亦然。</p>
+<p>　　<strong>治龋齿及虫痛方。</strong></p>
+<p>　　白附子 知母 细辛（各六铢） 川芎 高良姜（各十二铢）</p>
+<p>　　上五味末之，以绵裹少许着齿上，有汁吐出，一日两度，含之，亦治口气。</p>
+<p>　　又方 切白马悬蹄如米许，以绵裹着痛处孔中，不过三度。</p>
+<p>　<strong>　治 齿虫齿，积年不瘥，从少至老方。</strong></p>
+<p>　　雀麦草一名杜姥草，似牛毛草，以苦瓠叶四十枚净洗，露一宿，平旦取草屈长二寸，广一寸，浓五分，以瓠叶裹缚之，作五六十裹子，取三年酽醋浸之，至日中取两裹纳火中，炮令极热，纳口中齿外边熨之，冷则易之，取铜器以水纳中，解裹于水中洗之，得虫长三分，老者黄赤色，小者白色，多者得三四十枚，少者得一二十枚。</p>
+<p>　　<strong>治虫齿方</strong></p>
+<p>　　莨菪子三合，如无，葱子、韭子并得，以青钱七文，烧令赤，取小口罂子令可口含得者，将钱纳罂子中，取一撮许莨菪子安钱上，令炮炮声，仍与半合许水淋，令气上，从罂出，将口含罂口，令气莫出，用熏齿，冷复更作，取三合药尽为剂。非止虫齿得瘥，或风齿、龋齿、齿中病悉主之，口中多津，即吐之。</p>
+<p>　　<strong>又方</strong> 白杨叶切一升，水三升，煮取一升，含之。</p>
+<p>　　<strong>又方</strong> 大醋一升煮枸杞根白皮一升，取半升含之，虫立出。</p>
+<p>　　<strong>又方</strong> 取桃仁少许，以钗头穿向灯上烧之，烟出，经少时吹灭，即纳入口安虫齿上咬之，不过五六度。（一方作胡桃仁。</p>
+<p>　　<strong>治疳虫蚀齿根方。</strong></p>
+<p>　　地龙置石上，着一撮盐，须臾化为水，以面展取，却待凝浓，取以纳病上，又以皂荚去皮涂上，虫即出。</p>
+<p>　<strong>　又方</strong> 纯麻子烛烬研，以井花水涂之。</p>
+<p>　　<strong>又方</strong> 黑 羊脂、莨菪子各等分，先烧铁锄斧銎令赤，纳其中，烟出，以布单覆头，令烟气入口熏之。</p>
+<p>　　<strong>治齿龈肿痛，及虫痛方。</strong></p>
+<p>　　黄芩 甘草 桂心 当归 细辛 蛇床子（各一两）</p>
+<p>　　上六味 咀，以醋浆水七升，煮取三升，去滓含之，日三夜二。</p>
+<p>　　<strong>治齿有孔不得食、面肿方。</strong></p>
+<p>　　莽草（十叶） 猪椒附根皮（长四寸者七枚）</p>
+<p>　　上二味 咀，以浆水二升，煮取一升，满口含，倦即吐却，日二三度。</p>
+<p>　　<strong>治齿根肿方。</strong></p>
+<p>　　松叶（一把切） 盐（一合）</p>
+<p>　　上二味以酒三升，煮取一升含之。</p>
+<p>　　<strong>治齿根动欲脱落方</strong></p>
+<p>　　生地黄绵裹着齿上，咋之，又 咀，以汁渍齿根，日四、五着之，并咽汁，十日大佳。</p>
+<p>　　<strong>治齿根动痛方。</strong></p>
+<p>　　生地黄 独活（各三两）</p>
+<p>　　上二味 咀，以酒一升渍一宿，以含之。</p>
+<p>　　<strong>治齿龈间津液、血出不止方</strong>。</p>
+<p>　　生竹茹二两，醋煮含之。</p>
+<p>　　<strong>又方</strong> 细辛（二两） 甘草（一两）</p>
+<p>　　上二味 咀。以醋二升煎取一升，日夜旋含之。</p>
+<p>　　<strong>又方</strong> 矾石一两，烧水三升，煮取一升，先拭血，乃含之，已后不用朽人牙根，齿落不用之可也。</p>
+<p>　　<strong>治齿间血出方。</strong></p>
+<p>　　以苦竹叶浓煮之，与盐少许，寒温得所，含之，冷吐。</p>
+<p>　　<strong>又方</strong> 温童子小便半升，取三合含之，其血即止。</p>
+<p>　　<strong>治齿出血不止方。</strong></p>
+<p>　　刮生竹皮二两，苦酒浸之，令其人解衣坐，使人含 其背上三过。仍取竹茹浓煮汁，勿与治酒醉、牙齿涌血出方。</p>
+<p>　　当归（二两） 桂心 细辛 甘草（各一两） 矾石（六铢）</p>
+<p>　　上五味 咀。以浆水五升，煮取二升含之，日五六，夜三。</p>
+<p>　　<strong>又方</strong> 烧钉令赤，注血孔中，止。</p>
+<p>　　治头面风，口齿疼痛不可忍方。</p>
+<p>　　蜀椒（二合） 莽草（十叶） 雀李根 独活（各二两） 细辛 川芎 防风（各一两）</p>
+<p>　　上七味 咀。以酒二升半，煮三五沸，去滓含之，冷吐，更含之，勿咽汁。（张文仲有白术二两）</p>
+<p>　　<strong>又方</strong> 鸡屎白烧灰，以绵裹置齿痛上，咬咋之。</p>
+<p>　　<strong>又方</strong> 鸡屎白以醋渍煮，稍稍含之。</p>
+<p>　　<strong>又方</strong> 煮枸杞汁含之。</p>
+<p>　<strong>　又方</strong> 生地黄（一节），蒜（一瓣）。上二味熟捣绵裹着痛上，咬之，勿咽汁，汁出吐之，日日 ？</p>
+<p>　　<strong>又方</strong> 含驴尿，须臾止。</p>
+<p>　　风齿疼痛，灸外踝上高骨前交脉三壮。</p>
+<p>　　又以线量手中指至掌后横纹，折为四分，量横纹后当臂中灸二壮愈，随左右。</p>
+<p>　　<strong>含漱汤<br/>　　治齿痛方。</strong></p>
+<p>　　独活（三两） 黄芩 川芎 细辛 荜茇（各二两） 当归（三两） 丁香（一两）</p>
+<p>　　上七味 咀。以水五升，煮取二升半，去滓含嗽之，须臾闷乃吐，更含之。（《古今录验》同，有甘草二两）</p>
+<p>　　<strong>又方</strong> 含白马尿，随左右含之，不过三五口。</p>
+<p>　<strong>　治齿痛漱汤方。</strong></p>
+<p>　　腐棘刺二百枚，以水二升，煮取一升，旋旋含之，日四五度，以瘥止。</p>
+<p>　　<strong>又方</strong> 川芎 细辛 防风 矾石 附子 藜芦 莽草上七味各等分作末，绵裹如弹丸大。酒浸安所患处，含之勿咽，日三，刺破，极佳。</p>
+<p>　　<strong>又方</strong> 蚯蚓粪水和，作稠泥团，以火烧之，令极赤如粉，以腊月猪膏和，敷齿龈上，日三两度，永瘥。</p>
+<p>　　<strong>又方</strong> 取自死蚯蚓干者捣末，着痛处，即止。</p>
+<p>　　<strong>治齿龈痛、不可食生果方。</strong></p>
+<p>　　生地黄 桂心上二味合嚼之，令味相得，咽之。</p>
+<p>　　<strong>又方</strong> 马齿苋一把嚼之，即瘥。</p>
+<p>　　<strong>治牙痈塞、口噤不开方。</strong></p>
+<p>　　附子（大者一枚） 黄连（十八铢） 矾石（一两）</p>
+<p>　　上三味末之。纳管中，强开口吹之，入喉间，细细吹之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12683.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12685.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

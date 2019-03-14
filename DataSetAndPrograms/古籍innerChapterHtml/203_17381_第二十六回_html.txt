@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第二十六回_古诗文网
+</title>
+<meta content="洞宾酒楼画鹤洞宾既得云房之道，火龙真人又授以剑法，使游江淮。时有蛟精出没淮水，或作雷雨，沉去州具民房；或乘风鼓浪，覆往来客船；或化为人，淫乱良家女子，乱者即病多死。人甚苦之。官府百" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17381.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第二十六回</b></span>
+<a href="javascript:PlayBookv(17381)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17381" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17381" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>洞宾酒楼画鹤</strong></p>
+<p>　　洞宾既得云房之道，火龙真人又授以剑法，使游江淮。时有蛟精出没淮水，或作雷雨，沉去州具民房；或乘风鼓浪，覆往来客船；或化为人，淫乱良家女子，乱者即病多死。人甚苦之。官府百计驱逐，不能制治。是时府县正设醮出榜，求异人降服蛟精。适洞宾至，自言于府县曰：“我能除此，汝勿多忧。”府县甚喜，即请行法。</p>
+<p>　　洞宾拔剑挥舞，大喝一声，望水中一掷，须臾淮水皆红，一大蛟死于水面。其剑复跃入鞘中，众皆惊异，求其姓名。曰：“吾回道人也。”府县酬以金帛，皆不受而去。自是江淮间悉定。</p>
+<p>　　洞宾斩蛟之后，游至岳阳，或施果于街中，或玩游于乡村。欲得正心好善者而度之，通县无有其人。适有辛氏素业酒肆，洞宾往其家，大饮而去，竟不以钱偿之。辛氏亦不向索。明日又至，饮之而去。如此者饮之而半年，而辛氏终不与之索钱。</p>
+<p>　　一日复去其肆饮之，乃呼主人谓之曰：“多负酒债，未能一偿。”命取桔皮画一鹤于壁上。曰：“但有客至此饮者，呼而歇之，彼自能舞，以此报汝，数年之内，可以富汝矣。”主人留之饮，乃竟别而去。后人至饮者但呼之，其鹤果从壁上飞下，跳舞万状，止则复居壁上，人皆奇之，于是远近来观，饮者填肆，不数年果大富。</p>
+<p>　　一日洞宾复至。主人见其入，延归拜谢，大饮。洞宾问之曰：“来者可多否？”主人曰：“富足有余矣。”洞宾乃三弄其笛，其鹤自壁上飞至宾前，乃跨之乘空而去。主人神异其事，于跨鹤之处，筑一楼，名黄鹤楼，以记其事。后来有诗题其上云：</p>
+<p>　　昔人已乘黄鹤去，此地空留黄鹤楼；<br/>　　黄鹤一去不复返，白云千载空悠悠。<br/>　　晴川历历汉阳树，芳草萋萋鹦鹉洲，<br/>　　日暮乡关何处是？烟波江上使人愁。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17380.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17382.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

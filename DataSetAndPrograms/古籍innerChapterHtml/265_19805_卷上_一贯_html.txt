@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+北溪字义·卷上·一贯_古诗文网
+</title>
+<meta content="一只是这个道理全体浑沦一大本处，贯是这一理流出去，贯串乎万事万物之间。圣人之心，全体浑沦只是一理，这是一个大本处。从这大本中流出见于用，在君臣则为义，在父子则为仁，在兄弟则为友，在" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19805.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷上·一贯</b></span>
+<a href="javascript:PlayBookv(19805)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19805" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19805" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%88%e6%b7%b3">陈淳</a></p>
+<div class="contson">
+<p>　　一只是这个道理全体浑沦一大本处，贯是这一理流出去，贯串乎万事万物之间。圣人之心，全体浑沦只是一理，这是一个大本处。从这大本中流出见于用，在君臣则为义，在父子则为仁，在兄弟则为友，在夫妇则为别，在朋友则为信。又分而言之，在父则为慈，在子则为孝，在君则为仁，在臣则为敬。又纤悉而言之，为视之明、听之聪、色之温、貌之恭，凡三千三百之仪，动容周旋之礼。又如乡党之条目，如见冕者与瞽者必以貌、如或仕或止、或久或速、或温而厉或恭而安、或为居处之恭、或为执事之敬，凡日用间微而洒扫应对进退，大而参天地赞化育，凡百行万善，千条万绪，无非此一大本流行贯串。</p>
+<p>　　自其浑沦一理而言，万理无不森然具备。自其万理著见而言，又无非即此一理也。一所以贯乎万，而万无不本乎一。</p>
+<p>　　一贯是天道一以贯之，圣人此语向曾子说得甚亲切。曾子忠恕，即所以形容此一贯，借人道之实以发明天道之妙，尤为确定切实。盖忠即是一，恕即是贯。夫尽己之心真实无妄，则此心浑沦是一个天理，即此便是大本处，何物不具于此。由是而酬酢应接，散为万事，那个事不从这心做去？那个道理不从这里发出？即此便见一贯处。故曾子之说，于理尤为确定切实，于圣人之蕴尤为该尽，而于学者尤为有力。其进道入德，有可依据实下手处。</p>
+<p>　　在学者做工夫，不可躐进。那所谓一，只当专从事。其所谓贯，凡日用间千条万绪，各一一精察其理之所以然，而实践其事之所当然，然后合万理为一理。而圣人浑沦太极之全体，自此可以上达矣。</p>
+<p>　　天只是一元之气流行不息如此，即这便是大本，便是太极。万物从这中流出去，或纤或洪，或高或下，或飞或潜，或动或植，无不各得其所欲，各具一太极去，个个各足，无有欠缺。亦不是天逐一去妆点，皆自然而然从大本中流出来。此便是天之一贯处。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19804.aspx">上一章</a>
+<a href="/guwen/book_265.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19806.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+搜神记·卷十_古诗文网
+</title>
+<meta content="汉和熹邓皇后，尝梦登梯以扪天，体荡荡正清滑，有若钟乳状。乃仰嗡饮之。以讯诸占梦。言：“尧梦攀天而上，汤梦及天砥之，斯皆圣王之前占也。吉不可言。”孙坚夫人吴氏，孕而梦月入怀。已而生策" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4213.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2813" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十</b></span>
+<a href="javascript:PlayBookv(4213)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4213" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2813)" id="leftbtn2813" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4213" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b9%b2%e5%ae%9d">干宝</a></p>
+<div class="contson">
+<p>　　汉和熹邓皇后，尝梦登梯以扪天，体荡荡正清滑，有若钟乳状。乃仰嗡饮之。以讯诸占梦。言：“尧梦攀天而上，汤梦及天砥之，斯皆圣王之前占也。吉不可言。”孙坚夫人吴氏，孕而梦月入怀。已而生策。及权在孕，又梦日入怀。以告坚曰：“妾昔怀策，梦月入怀；今又梦日，何也：”坚曰：“日月者，阴阳之精，极贵之象，吾子孙其兴乎。”汉蔡茂字子礼，河内怀人也。初在广汉，梦坐大殿，极上有禾三穗。茂取之，得其中穗，辄复失之。以问主簿郭贺。贺曰：“大殿者，官府之形象也。极而有禾，人臣之上禄也。取中穗，是中台之象也。于字，‘禾’‘失’为‘秩’，虽曰失之，乃所以禄也。兖职中阙，君其补之。”旬月，而茂征焉。</p>
+<p>　　周揽啧者，贫而好道，失妇夜耕，困，息卧。梦天公过而哀之，敕外有以给与。司命按录籍，云：“此人相贫，限不过此。惟有张车子，应赐录千万。车子未生，请以借之。”天公曰：“善。”曙觉，言之。于是夫妇戮力，昼夜治生，所为辄得，赀至千万。先时。有张妪者，尝往周家佣赁，野合，有身，月满，当孕，便遣出外，驻车屋下，产得儿。主人往视，哀其孤寒，作粥糜食之。问：“当名汝儿作何？”妪曰：“今在车屋下而生，梦天告之，名为车子。”周乃悟曰：“吾昔梦从天换钱，外白以张车子钱贷我，必是子也。财当归之矣。”自是居日衰减，车子长大，富于周家。</p>
+<p>　　夏阳卢汾，字士济，梦入蚁穴，见堂宇三间，势甚危豁，题其额，曰：审雨堂。吴选曹令史刘卓，病笃，梦见一人，以白越单衫与之，言曰：“汝着衫，污，火烧，便洁也。”卓觉，果有衫在侧。污，辄火浣之。</p>
+<p>　　进南书佐刘雅。梦见青刺蜴从屋落其腹内。因苦腹痛病。后汉张奂为武威太守，其妻梦帝与印绶，登楼而歌。觉，以告奂。奂令占之，曰：“夫人方生男，后临此郡命终此楼。”后生子猛，建安中，果为武威太守杀刺史，邯郸商州兵围急，猛耻见擒，乃登楼自焚而死。</p>
+<p>　　汉灵帝梦见桓帝，怒曰：“宋皇后有何罪过，而听用邪孽，使绝其命。渤海王悝，既已自贬，又受诛毙。今宋氏及悝，自诉于天，上帝震怒，罪在难救。”梦殊明察。帝既觉而恐，寻亦崩。吴时嘉兴徐伯始病，使道士吕石安神座，石有弟子戴本、王思，三人居住海盐，伯始迎之以助石。昼卧，梦上天北斗门下见外鞍马三匹。云：“明日当以一迎石，一迎本，一迎思。”石梦觉，语本、思云：“如此死期，可急还，与家别。”不卒事而去。伯始怪而留之。曰：“惧不得见家也。”间一日，三人同时死。会稽谢奉与永嘉太守郭伯猷善，谢忽梦郭与人于浙江上争樗蒲钱。因为水神所责，堕水而死。已营理郭凶事。及觉，即往郭许，共围棋，良久，谢云：“卿知吾来意否：”因说所梦。郭闻之，怅然云：“吾作夜亦梦与人争钱，如卿所梦，何期太的的也？”须臾，如厕，便倒，气绝。谢为凶具。</p>
+<p>　　嘉兴徐泰，幼丧父母，叔父隗养之，甚于所生。隗病，泰营侍甚勤。是夜三更中，梦二人乘船持箱，上泰床头，发箱，出簿书示曰：“汝叔应死。”泰即于梦中叩头祈请。良久，二人曰：“汝县有同姓名人否？”泰思得，语二人云：“张隗，不姓徐。”二人云：“亦可强逼。念汝能事叔父，当为汝活之。”遂不复见。泰觉，叔病乃差。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4212.aspx">上一章</a>
+<a href="/guwen/book_49.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4214.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2813" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

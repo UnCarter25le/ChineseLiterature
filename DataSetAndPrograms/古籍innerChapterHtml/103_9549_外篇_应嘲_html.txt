@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+抱朴子·外篇·应嘲_古诗文网
+</title>
+<meta content="抱朴子曰:客嘲余云:“先生载营抱一， 韬景灵渊， 背俗独住， 邈尔萧然。 计决而犹豫， 不栖於心术;分定而世累， 无系於胸间。 伯阳以道德为首， 庄周以逍遥冠篇， 用能标峻格於九霄" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9549.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>外篇·应嘲</b></span>
+<a href="javascript:PlayBookv(9549)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9549" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9549" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e6%b4%aa">葛洪</a></p>
+<div class="contson">
+<p>　　抱朴子曰:客嘲余云:“先生载营抱一， 韬景灵渊， 背俗独住， 邈尔萧然。 计决而犹豫， 不栖於心术;分定而世累， 无系於胸间。 伯阳以道德为首， 庄周以逍遥冠篇， 用能标峻格於九霄， 宣芳烈於罔极也。 今先生高尚勿用， 身不服事， 而著君道臣节之书;不交於世， 而作讥俗救生之论;甚爱骨干毛， 而缀用兵战守之法;不营进趋， 而有审举穷达之篇;蒙窃惑焉。”</p>
+<p>　　抱朴子曰:“君臣之大， 次於天地， 思乐有道， 出处一情， 隐显任时， 言亦何系。 大人君子， 与事变通。 老子无为者也， 鬼谷终隐者也， 而著其书， 咸论世务。 何必身居其位， 然後乃言其事乎? 夫器非琼瑶， 楚和不泣， 质非潜虬， 风云不集。 余才短德薄， 干不适治， 出处同归， 行止一致， 岂必达官， 乃可议政事君， 否则不可论治乱乎? 常恨庄生言行自伐， 桎梏世业， 身居漆园而多诞谈， 好画鬼魅， 憎图狗马， 狭细忠贞， 贬毁仁义。 可谓雕虎画龙， 难以征风云;空板亿万， 不能救无钱。 孺子之竹马， 不免於脚剥;士柈之盈案， 无益於腹虚也。”</p>
+<p>　　或人又曰:“然吾子所著， 弹断风俗， 言苦辞直， 吾恐适足取憎在位， 招摈於时， 非所以扬声发誉， 见贵之道也。”</p>
+<p>　　抱朴子曰:“夫制器者珍於周急， 而不以辨饰外形为善;立言者贵於助教， 而不以偶俗集誉为高。 若徒阿顺谄谀， 虚美隐恶， 岂所匡失弼违， 醒迷补过者乎? 虑寡和而废白雪之音， 嫌难售而贱连城之价， 余无取焉。 非不能属华艳以取悦， 非不知抗直言之多吝， 然不忍违情曲笔， 错滥真伪， 欲令心口相契， 顾不愧景， 冀知音之在後也。 否泰有命， 通塞听天， 何必书行言用， 荣及当年乎? 夫君子之开口动笔， 必戒悟蔽， 式整雷同之倾邪， 磋砻流遁之暗秽， 而著书者徒饰弄华藻， 张磔迂阔， 属难验无益之辞， 治靡丽虚言之美， 有似坚白厉修之书， 公孙刑名之论， 虽旷笼天地之外， 微入无间之内， 立解连环， 离同合异， 鸟影不动， 鸡卵有足， 犬可为羊， 大龟长蛇之言， 适足示巧表奇以诳俗， 何异乎画敖仓以救饥， 仰天汉以解渴。 说昆山之多玉， 不能赈原宪之贫;观药藏之簿领， 不能治危急之疾;墨子刻木鸡以厉天， 不如三寸之车金害;管青铸骐骥於金象， 不如驽马之周用。 言高秋天而不可施者， 丘不与易也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9548.aspx">上一章</a>
+<a href="/guwen/book_103.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9550.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

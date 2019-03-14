@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·祝盟_古诗文网
+</title>
+<meta content="天地定位，祀遍群神，六宗既禋，三望咸秩，甘雨和风，是生黍稷，兆民所仰，美报兴焉！牺盛惟馨，本于明德，祝史陈信，资乎文辞。昔伊耆始蜡，以祭八神。其辞云∶“土反其宅，水归其壑，昆虫毋作" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4025.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2619" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>祝盟</b></span>
+<a href="javascript:PlayBookv(4025)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4025" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2619)" id="leftbtn2619" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4025" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　天地定位，祀遍群神，六宗既禋，三望咸秩，甘雨和风，是生黍稷，兆民所仰，美报兴焉！牺盛惟馨，本于明德，祝史陈信，资乎文辞。</p>
+<p>　　昔伊耆始蜡，以祭八神。其辞云∶“土反其宅，水归其壑，昆虫毋作，草木归其泽。”则上皇祝文，爰在兹矣！舜之祠田云∶“荷此长耜，耕彼南亩，四海俱有。”利民之志，颇形于言矣。至于商履，圣敬日跻，玄牡告天，以万方罪己，即郊禋之词也；素车祷旱，以六事责躬，则雩禜之文也。及周之大祝，掌六祝之辞。是以“庶物咸生”，陈于天地之郊；“旁作穆穆”，唱于迎日之拜；“夙兴夜处”，言于礻付庙之祝；“多福无疆”，布于少牢之馈；宜社类祃，莫不有文：所以寅虔于神祇，严恭于宗庙也。</p>
+<p>　　自春秋以下，黩祀谄祭，祝币史辞，靡神不至。至于张老贺室，致祷于歌哭之美。蒯聩临战，获祐于筋骨之请：虽造次颠沛，必于祝矣。若夫《楚辞·招魂》，可谓祝辞之组丽者也。汉之群祀，肃其百礼，既总硕儒之义，亦参方士之术。所以秘祝移过，异于成汤之心，侲子驱疫，同乎越巫之祝：礼失之渐也。</p>
+<p>　　至如黄帝有祝邪之文，东方朔有骂鬼之书，于是后之谴咒，务于善骂。唯陈思《诘咎》，裁以正义矣。</p>
+<p>　　若乃礼之祭祝，事止告飨；而中代祭文，兼赞言行。祭而兼赞，盖引伸而作也。又汉代山陵，哀策流文；周丧盛姬，内史执策。然则策本书赠，因哀而为文也。是以义同于诔，而文实告神，诔首而哀末，颂体而视仪，太祝所读，固祝之文者也。凡群言发华，而降神务实，修辞立诚，在于无愧。祈祷之式，必诚以敬；祭奠之楷，宜恭且哀：此其大较也。班固之祀涿山，祈祷之诚敬也；潘岳之祭庾妇，祭奠之恭哀也：举汇而求，昭然可鉴矣。</p>
+<p>　　盟者，明也。骍毛旄白马，珠盘玉敦，陈辞乎方明之下，祝告于神明者也。在昔三王，诅盟不及，时有要誓，结言而退。周衰屡盟，以及要劫，始之以曹沫，终之以毛遂。及秦昭盟夷，设黄龙之诅；汉祖建侯，定山河之誓。然义存则克终，道废则渝始，崇替在人，祝何预焉？若夫臧洪歃辞，气截云蜺；刘琨铁誓，精贯霏霜；而无补于汉晋，反为仇雠。故知信不由衷，盟无益也。</p>
+<p>　　夫盟之大体，必序危机，奖忠孝，共存亡，戮心力，祈幽灵以取鉴，指九天以为正，感激以立诚，切至以敷辞，此其所同也。然非辞之难，处辞为难。后之君子，宜存殷鉴。忠信可矣，无恃神焉。</p>
+<p>　　赞曰∶</p>
+<p>　　毖祀钦明，祝史惟谈。立诚在肃，修辞必甘。</p>
+<p>　　季代弥饰，绚言朱蓝，神之来格，所贵无惭。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4024.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4026.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2619" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

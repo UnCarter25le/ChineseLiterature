@@ -1,0 +1,146 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·解毒杂治方·解百药毒第二_古诗文网
+</title>
+<meta content="（论一首 方十二首 解毒品味二十八条）论曰∶甘草解百药毒，如汤沃雪，有同神妙。有人中乌头、巴豆毒，甘草入腹即定。中藜芦毒，葱汤下咽便愈。中野葛毒，土浆饮讫即止。如此之事，其验如反掌" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12809.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>解毒杂治方·解百药毒第二</b></span>
+<a href="javascript:PlayBookv(12809)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12809" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12809" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（论一首 方十二首 解毒品味二十八条）</span></p>
+<p>　　论曰∶甘草解百药毒，如汤沃雪，有同神妙。有人中乌头、巴豆毒，甘草入腹即定。中藜芦毒，葱汤下咽便愈。中野葛毒，土浆饮讫即止。如此之事，其验如反掌，要使人皆知之。</p>
+<p>　　然人皆不肯学，诚可叹息。方称大豆汁解百药毒，余每试之，大悬绝不及甘草，又能加之为甘豆汤，其验尤奇。有人服玉壶丸，治呕不能已，百药与之不止，蓝汁入口即定。如此之事，皆须知之，此成规更不须试练也。解毒方中条例极多，若不指出一二，学人不可卒知，余方例尔。</p>
+<p>　　石药毒 用白鸭屎、人参汁。</p>
+<p>　　雄黄毒 用防己。</p>
+<p>　　铁粉毒 用磁石。</p>
+<p>　　石毒 用大豆汁、白鹅膏。</p>
+<p>　　防葵毒 用葵根汁。</p>
+<p>　　大戟毒 用菖蒲汁。</p>
+<p>　　桔梗毒 用白粥。</p>
+<p>　　甘遂毒 用大豆汁。</p>
+<p>　　踯躅毒 用栀子汁。</p>
+<p>　　鸡子毒 用醇醋。</p>
+<p>　　马刀毒 用清水。</p>
+<p>　　野芋毒 用土浆、人粪汁。</p>
+<p>　　杏仁毒 用蓝子汁。</p>
+<p>　　百药毒 用甘草、荠 、大小豆汁、蓝叶根、实汁。</p>
+<p>　　金银毒 用水银服数两即出，或鸡子清及屎白烧猪脂和服，水淋鸡屎汁煮葱汁。</p>
+<p>　　芫花毒 用防己、防风、甘草、桂汁。</p>
+<p>　　野葛毒 用鸡子清、葛根汁、甘草汁、鸭头、热血、猪膏、鸡屎、人屎。</p>
+<p>　　藜芦毒 用雄黄，温汤煮葱汁。</p>
+<p>　　乌头、天雄、附子毒 用大豆汁、饴糖、防风、远志、枣肉。</p>
+<p>　　射罔毒 用蓝汁、大小豆汁、竹沥、大麻子汁、藕汁、荠汁、六畜血、贝齿屑、蚯蚓屎。</p>
+<p>　　半夏毒 用生姜汁及煮干姜汁。</p>
+<p>　　莨菪毒 用荠 、甘草、犀角、蟹汁、升麻。</p>
+<p>　　野狼毒毒 用杏仁、蓝汁、白蔹、盐汁、木占斯。</p>
+<p>　　巴豆毒 用黄连煮汁、大豆汁、菖蒲汁、生藿汁（《肘后》云∶小豆藿）煮寒水石汁。</p>
+<p>　　蜀椒毒 用葵子汁、蒜汁、豉汁、桂汁、人尿、冷水、土浆、鸡毛烧吸烟及水调服。</p>
+<p>　　斑蝥、芫青毒 用猪膏、戎盐、大豆汁、蓝汁、巴豆、盐汤煮猪膏。</p>
+<p>　　服药过剂闷乱者 用水和胡粉、水和葛粉、地浆、豉汁、 荷汁、粳米沈、干姜、黄连、饴糖、蓝汁 吞鸡子黄？</p>
+<p>　　上解毒诸药，一例中有数味者，但得一味即是，不必悉具。</p>
+<p>　　解一切毒药发不问草石，始觉恶即服此方∶</p>
+<p>　　豉（二升） 生麦门冬 葱白（各八两）</p>
+<p>　　上三味，以水七升，煮取二升半，分三服。</p>
+<p>　　<strong>鸡肠草散<br/>　　解诸毒方。</strong></p>
+<p>　　鸡肠草（三分） 荠 升麻（各四分） 芍药 当归 甘草（各一分） 坌土（一分）蓝子（一合）</p>
+<p>　　上八味，治下筛，水服方寸匕，多饮水为佳。若为蜂、蛇等毒虫所螫，以针刺螫上，血出，着药如小豆许于疮中，令湿瘥。若为射罔箭所中，削竹如钗股长一尺五寸，以绵缠绕，水沾湿，取药纳疮中，随疮深浅令至底止，有好血出即休。若服药有毒，水服方寸匕，毒解痛止愈。</p>
+<p>　　<strong>解毒药散方<br/></strong>　　荠 （一分），蓝（并花，二分）</p>
+<p>　　上二味，七月七日取蓝，阴干捣筛，水服方寸匕，日三。</p>
+<p>　　<strong>又方</strong> 取秦燕毛二七枚，烧灰服。</p>
+<p>　　<strong>解一切毒方∶ </strong></p>
+<p>　　母猪屎水和服之。又水三升三合和米粉饮之。</p>
+<p>　　<strong>解鸩毒及一切毒药不止烦懑方∶ </strong></p>
+<p>　　甘草 蜜（各四分） 粱米粉（一升）</p>
+<p>　　上三味，以水五升煮甘草，取二升，去滓，歇大热，纳粉汤中，搅匀调，纳蜜更煎，令熟如薄粥，适寒温饮一升。</p>
+<p><strong>　　治食莨菪，闷乱如卒中风，或似热盛狂病，服药即剧方∶</strong></p>
+<p>　　饮甘草汁、蓝青汁即愈。</p>
+<p><strong>　　治野葛毒已死口噤者方∶</strong></p>
+<p>　　取青竹去两节，柱两胁脐上，纳冷水注之，暖即易，须臾口开，开即服药立活，唯须数易水。</p>
+<p>　　治钩吻毒困欲死、面青口噤，逆冷身痹方∶（《肘后方》云∶钩吻、茱萸、食芹相似，荠 八两 咀，以水六升，煮取三升，冷如人体，服五合，日三夜二。凡煮荠 ，唯令浓佳。</p>
+<p>　<strong>　又方</strong> 煮桂汁饮之。</p>
+<p>　　<strong>又方</strong> 啖葱涕佳。（葱涕治诸毒。）</p>
+<p>　<strong>　治腹中有铁方∶</strong></p>
+<p>　　白折炭刮取末，以井花水服三钱，不过再服。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12808.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12810.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

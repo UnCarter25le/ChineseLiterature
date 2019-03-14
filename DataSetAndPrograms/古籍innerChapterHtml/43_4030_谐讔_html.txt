@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·谐讔_古诗文网
+</title>
+<meta content="芮良夫之诗云∶“自有肺肠，俾民卒狂。”夫心险如山，口壅若川，怨怒之情不一，欢谑之言无方。昔华元弃甲，城者发睅目之讴；臧纥丧师，国人造侏儒之歌；并嗤戏形貌，内怨为俳也。又蚕蟹鄙谚，狸" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4030.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2624" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>谐讔</b></span>
+<a href="javascript:PlayBookv(4030)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4030" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2624)" id="leftbtn2624" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4030" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　芮良夫之诗云∶“自有肺肠，俾民卒狂。”夫心险如山，口壅若川，怨怒之情不一，欢谑之言无方。昔华元弃甲，城者发睅目之讴；臧纥丧师，国人造侏儒之歌；并嗤戏形貌，内怨为俳也。又蚕蟹鄙谚，狸首淫哇，苟可箴戒，载于礼典，故知谐辞讔言，亦无弃矣。</p>
+<p>　　谐之言皆也，辞浅会俗，皆悦笑也。昔齐威酣乐，而淳于说甘酒；楚襄宴集，而宋玉赋好色。意在微讽，有足观者。及优旃之讽漆城，优孟之谏葬马，并谲辞饰说，抑止昏暴。是以子长编史，列传滑稽，以其辞虽倾回，意归义正也。但本体不雅，其流易弊。于是东方、枚皋，餔糟啜醨，无所匡正，而诋曼媟弄，故其自称“为赋，乃亦俳也，见视如倡”，亦有悔矣。至魏人因俳说以著笑书，薛综凭宴会而发嘲调，虽抃笑衽席，而无益时用矣。然而懿文之士，未免枉辔；潘岳丑妇之属，束皙卖饼之类，尤而效之，盖以百数。魏晋滑稽，盛相驱扇，遂乃应瑒之鼻，方于盗削卵；张华之形，比乎握舂杵。曾是莠言，有亏德音，岂非溺者之妄笑，胥靡之狂歌欤？</p>
+<p>　　讔者，隐也。遁辞以隐意，谲譬以指事也。昔还社求拯于楚师，喻眢井而称麦麹；叔仪乞粮于鲁人，歌珮玉而呼庚癸；伍举刺荆王以大鸟，齐客讥薛公以海鱼；庄姬托辞于龙尾，臧文谬书于羊裘。隐语之用，被于纪传。大者兴治济身，其次弼违晓惑。盖意生于权谲，而事出于机急，与夫谐辞，可相表里者也。汉世《隐书》，十有八篇，歆、固编文，录之赋末。</p>
+<p>　　昔楚庄、齐威，性好隐语。至东方曼倩，尤巧辞述。但谬辞诋戏，无益规补。自魏代以来，颇非俳优，而君子嘲隐，化为谜语。谜也者，回互其辞，使昏迷也。或体目文字，或图象品物，纤巧以弄思，浅察以衒辞，义欲婉而正，辞欲隐而显。荀卿《蚕赋》，已兆其体。至魏文、陈思，约而密之。高贵乡公，博举品物，虽有小巧，用乖远大。观夫古之为隐，理周要务，岂为童稚之戏谑，搏髀而忭笑哉！然文辞之有谐讔，譬九流之有小说，盖稗官所采，以广视听。若效而不已，则髡朔之入室，旃孟之石交乎？</p>
+<p>　　赞曰∶</p>
+<p>　　古之嘲隐，振危释惫。虽有丝麻，无弃菅蒯。</p>
+<p>　　会义适时，颇益讽诫。空戏滑稽，德音大坏。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4029.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4031.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2624" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

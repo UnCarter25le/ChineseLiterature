@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·劝学篇·禀父母·闻九弟习字长进_古诗文网
+</title>
+<meta content="男国藩跪禀父母亲大人万福金安，九弟之病，自正月十六日后，日见强旺；二月一日开荤，现全复元矣。二月以来，日日习字，时有长进。男亦常习小楷，以为明年考差之具。近来改临智永千字文贴，不复" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18176.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>劝学篇·禀父母·闻九弟习字长进</b></span>
+<a href="javascript:PlayBookv(18176)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18176" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18176" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　男国藩跪禀</p>
+<p>　　父母亲大人万福金安，九弟之病，自正月十六日后，日见强旺；二月一日开荤，现全复元矣。二月以来，日日习字，时有长进。男亦常习小楷，以为明年考差之具。近来改临智永千字文贴，不复临颜柳二家帖，以不合时宜故也。</p>
+<p>　　孙男身体甚好，每日佻达欢呼，曾无歇息，孙女亦好。浙江之事，闻于正月底交战，仍尔不胜。去岁所失宁波府城，定海、镇海二县城，尚未收复。英夷滋扰以来，皆汉好助之为卢，此辈食毛践土，丧尽天良，不知何日罪恶贯盈，始得聚而歼灭。</p>
+<p>　　湖北崇阳县逆贼钟人杰为乱，攻占崇阳、通城二县。裕制军即日扑灭，将钟人杰及逆党槛送京师正法，余孽俱已搜荆钟逆倡乱不及一月，党羽姻属，皆伏天诛，黄河去年决口，昨已合拢，大功告成矣。</p>
+<p>　　九弟前病中思归，近因难觅好伴，且闻道上有虞，是以不复作归计。弟自病好后，亦安心不甚思家。李碧峰在寓三月，现己找得馆地，在唐同年李杜家教书，每月俸金二两，月费一千。男于二月初配丸药一料，重三斤，约计费钱六千文。男等在京谨慎，望父母亲大人放心，男谨禀。（道光二十二年二月二十匹日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18175.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18177.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

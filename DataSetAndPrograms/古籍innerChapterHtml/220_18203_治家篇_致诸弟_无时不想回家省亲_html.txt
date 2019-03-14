@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·治家篇·致诸弟·无时不想回家省亲_古诗文网
+</title>
+<meta content="澄侯子植季洪足下：正月十一日发一家信，是日子极不闲，又见温甫在外未归，心中懊恼；故仅写信与诸弟，未尝为书禀堂上大人，不知此书近已接到否？温弟自去岁以来，时存牢骚抑郁之气，太史公所谓" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18203.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>治家篇·致诸弟·无时不想回家省亲</b></span>
+<a href="javascript:PlayBookv(18203)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18203" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18203" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　澄侯子植季洪足下：</p>
+<p>　　正月十一日发一家信，是日子极不闲，又见温甫在外未归，心中懊恼；故仅写信与诸弟，未尝为书禀堂上大人，不知此书近已接到否？</p>
+<p>　　温弟自去岁以来，时存牢骚抑郁之气，太史公所谓居则忽忽若有所亡，出则不知其往者，温甫颇有此象。举业工夫，大为抛荒，闲或思一振奋，而兴致不能鼓舞，余深忧虑，每劝其痛著祖鞭，并心一往。</p>
+<p>　　温弟辄言思得一馆。使身有管束，庶心有维系。余思自为京官，光景尚不十分窘迫，焉有不能养一胞弟，而必与寒士争馆地；向人求荐，实难启口，是以久不为之谋馆。</p>
+<p>　　自去岁秋冬以来，间温弟妇有疾，温弟羁留日久，牢落无偶，而叔父抱孙之念甚切，不能不思温弟南归，且余既官二品，明年顺天主考，亦在可简放之列，恐温弟留京三年，又告回避，念此数者，欲劝温弟南旋，故上次信道及此层，欲诸弟细心斟酌。</p>
+<p>　　不料发信之后，不过数日，温弟即定得黄正斋馆地。现在既已定馆，身有所管束，心有所系属，举业工夫，又可渐渐整理。待今年下半年再看光景，如我或圣眷略好，有明年主考之望，则到四五月，再与温弟商入南闱或北闱行止。如我今年圣眷平常，或别有外放意外之事，则温弟仍留京师，一定观北闱，不必议南旋之说也。坐馆以瞩束身心，自是最好事，然正斋家澄弟所深知者。万一不合，温弟亦难久坐。见可而留，知难而退，但能不得罪东家，好来好去，即无不可耳。</p>
+<p>　　余自去岁以来，日日想归省亲，所以不能者，一则京帐将近一千，归家途费，又须数百，甚难昔办。二则二品归籍，必须具折，折中难于措辞。私心所愿者，得一学差，三年任满，归家省亲，上也。若其不能，或明年得一外省主考，能办途费，后年必归，次也，若二者不能，只望六弟九弟，明年得中一人，后来得一京官，支持门面；余则告养归家，他日再定行止。如三者皆不得，则直待六年之后，至母亲七十之年，余誓具折告养；虽负债累万，归无储栗，亦断断不顾矣。然此实不得已之计，奢能于前三者之中，得其一者，则后年可堂上各大人，乃如天之福也！不审祖宗默佑否？</p>
+<p>　　现在寓中一切平安，癣疾上半身全好！惟腰下尚有纤痕。家门之福，可谓全盛，而余心归省之情，难以自慰，固偶书及，遂备陈之。</p>
+<p>　　毅然伯之项，去年已至余寓，余始觅便寄南，家中可将书封好，即行送去，余不详尽，诸惟心照，兄国藩手草。（道光二十八年正月廿一日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18202.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18204.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

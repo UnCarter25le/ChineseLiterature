@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·声律_古诗文网
+</title>
+<meta content="夫音律所始，本于人声者也。声合宫商，肇自血气，先王因之，以制乐歌。故知器写人声，声非学器者也。故言语者，文章关键，神明枢机，吐纳律吕，唇吻而已。古之教歌，先揆以法，使疾呼中宫，徐呼" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4048.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2642" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>声律</b></span>
+<a href="javascript:PlayBookv(4048)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4048" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2642)" id="leftbtn2642" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4048" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　夫音律所始，本于人声者也。声合宫商，肇自血气，先王因之，以制乐歌。故知器写人声，声非学器者也。故言语者，文章关键，神明枢机，吐纳律吕，唇吻而已。古之教歌，先揆以法，使疾呼中宫，徐呼中征。夫宫商响高，徵羽声下；抗喉矫舌之差，攒唇激齿之异，廉肉相准，皎然可分。今操琴不调，必知改张，攡文乖张，而不识所调。响在彼弦，乃得克谐，声萌我心，更失和律，其故何哉？良由外听易为察，内听难为聪也。故外听之易，弦以手定，内听之难，声与心纷；可以数求，难以辞逐。</p>
+<p>　　凡声有飞沉，响有双叠。双声隔字而每舛，迭韵杂句而必睽；沉则响发而断，飞则声飏不还，并辘轳交往，逆鳞相比，迕其际会，则往蹇来连，其为疾病，亦文家之吃也。夫吃文为患，生于好诡，逐新趣异，故喉唇纠纷；将欲解结，务在刚断。左碍而寻右，末滞而讨前，则声转于吻，玲玲如振玉；辞靡于耳，累累如贯珠矣。是以声画妍蚩，寄在吟咏，滋味流于下句，风力穷于和韵。异音相从谓之和，同声相应谓之韵。韵气一定，则馀声易遣；和体抑扬，故遗响难契。属笔易巧，选和至难，缀文难精，而作韵甚易。虽纤意曲变，非可缕言，然振其大纲，不出兹论。</p>
+<p>　　若夫宫商大和，譬诸吹籥；翻回取均，颇似调瑟。瑟资移柱，故有时而乖贰；籥含定管，故无往而不壹。陈思、潘岳，吹籥之调也；陆机、左思，瑟柱之和也。概举而推，可以类见。</p>
+<p>　　又诗人综韵，率多清切，《楚辞》辞楚，故讹韵实繁。及张华论韵，谓士衡多楚，《文赋》亦称不易，可谓衔灵均之馀声，失黄钟之正响也。凡切韵之动，势若转圜；讹音之作，甚于枘方。免乎枘方，则无大过矣。练才洞鉴，剖字钻响，识疏阔略，随音所遇，若长风之过籁，南郭之吹竽耳。古之佩玉，左宫右征，以节其步，声不失序。音以律文，其可忽哉！</p>
+<p>　　赞曰∶</p>
+<p>　　标情务远，比音则近。吹律胸臆，调钟唇吻。</p>
+<p>　　声得盐梅，响滑榆槿。割弃支离，宫商难隐。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4047.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4049.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2642" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

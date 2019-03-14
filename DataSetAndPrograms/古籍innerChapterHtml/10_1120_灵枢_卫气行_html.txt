@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·卫气行_古诗文网
+</title>
+<meta content="黄帝问于歧伯曰：愿闻卫气之行，出入之合，何如？歧伯曰：岁有十二月，日有十二辰，子午为经，卯酉为纬。天周二十八宿，而一面七星，四七二十八星。房昴为纬，虚张为经。是故房至毕为阳，昴至心" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1120.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left944" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·卫气行</b></span>
+<a href="javascript:PlayBookv(1120)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1120" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(944)" id="leftbtn944" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1120" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问于歧伯曰：愿闻卫气之行，出入之合，何如？歧伯曰：岁有十二月，日有十二辰，子午为经，卯酉为纬。天周二十八宿，而一面七星，四七二十八星。房昴为纬，虚张为经。是故房至毕为阳，昴至心为阴。阳主昼，阴主夜。故卫气之行，一日一夜五十周于身，昼日行于阳二十五周，夜行于阴二十五周，周于五藏。</p>
+<p>　　是故平旦阴尽，阳气出于目，目张则气上行于头，循项下足太阳，循背下至小趾之端。其散者，别于目锐眦，下手太阳，下至手小指之间外侧。其散者，别于目锐眦，下足少阳，注小趾次趾之间。以上循手少阳之分侧，下至小指之间。别者以上至耳前，合于颔脉，注足阳明以下行，至跗上，入五趾之间。其散者，从耳下下手阳明，入大指之间，入掌中。其至于足也，入足心，出内踝，下行阴分，复合于目，故为一周。</p>
+<p>　　是故日行一舍，人气行一周与十分身之八；日行二舍，人气行三周于身与十分身之六；日行三舍，人气行于身五周与十分身之四；日行四舍，人气行于身七周与十分身之二；日行五舍，人气行于身九周；日行六舍，人气行于身十周与十分身之八；日行七舍，人气行于身十二周在身与十分身之六；日行十四舍，人气二十五周于身有奇分与十分身之二，阳尽于阴，阴受气矣。其始入于阴，常从足少阴注于肾，肾注于心，心注于肺，肺注于肝，肝注于脾，脾复注于肾为周。</p>
+<p>　　是故夜行一舍，人气行于阴藏一周与十分藏之八，亦如阳行之二十五周，而复合于目。阴阳一日一夜，合有奇分十分身之四，与十分藏之二，是故人之所以卧起之时，有早晏者，奇分不尽故也。</p>
+<p>　　黄帝曰：卫气之在于身也，上下往来不以期，候气而刺之，奈何？伯高曰：分有多少，日有长短，春秋冬夏，各有分理，然后常以平旦为纪，以夜尽为始。是故一日一夜，水下百刻，二十五刻者，半日之度也，常如是毋已，日入而止，随日之长短，各以为纪而刺之。谨候其时，病可与期，失时反候者，百病不治。故曰：刺实者，刺其来也，刺虚者，刺其去也。此言气存亡之时，以候虚实而刺之。是故谨候气之所在而刺之，是谓逢时。在于三阳，必候其气在于阳而刺之，病在于三阴，必候其气在阴分而刺之。</p>
+<p>　　水下一刻，人气在太阳；水下二刻，人气在少阳；水下三刻，人气在阳明；水下四刻，人气在阴分。水下五刻，人气在太阳；水下六刻，人气在少阳；水下七刻，人气在阳明；水下八刻，人气在阴分。水下九刻，人气在太阳；水下十刻，人气在少阳；水下十一刻，人气在阳明；水下十二刻，人气在阴分。水下十三刻，人气在太阳；水下十四刻，人气在少阳；水下十五刻，人气在阳明；水下十六刻，人气在阴分。水下十七刻，人气在太阳；水下十八刻，人气在少阳；水下十九刻，人气在阳明；水下二十刻，人气在阴分。水下二十一刻，人气在太阳；水下二十二刻，人气在少阳；水下二十三刻，人气在阳明；水下二十四刻，人气在阴分。水下二十五刻，人气在太阳，此半日之度也。从房至毕一十四舍，水下五十刻，日行半度，回行一舍，水下三刻与七分刻之四。大要曰：常以日之加于宿上也。人气在太阳，是故日行一舍，人气行三阳行与阴分，常如是无已。天与地同纪，纷纷纷纷，终而复始，一日一夜水下百刻而尽矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1119.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1121.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right944" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

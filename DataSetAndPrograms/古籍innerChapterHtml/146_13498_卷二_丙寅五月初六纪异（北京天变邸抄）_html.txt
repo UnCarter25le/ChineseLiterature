@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷二·丙寅五月初六纪异（北京天变邸抄）_古诗文网
+</title>
+<meta content="天启丙寅五月初六日巳时，天色皎洁，忽有声如吼，从东北方，渐至京城西南角。灰气涌起，屋宇动荡，须臾大震一声，天崩地塌，昏黑如夜，万室平沈。东自顺城门大街，北至刑部街长三四里，周围十三" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13498.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·丙寅五月初六纪异（北京天变邸抄）</b></span>
+<a href="javascript:PlayBookv(13498)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13498" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13498" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　天启丙寅五月初六日巳时，天色皎洁，忽有声如吼，从东北方，渐至京城西南角。灰气涌起，屋宇动荡，须臾大震一声，天崩地塌，昏黑如夜，万室平沈。东自顺城门大街，北至刑部街长三四里，周围十三里，尽为齑粉，屋数万间，人二万余；王恭厂一带，糜烂尤甚。偃尸层叠，秽气熏天，瓦砾盈空而下，无从辨别。衙道门户，震声南由河西务，东自通州，北自密云、昌平、告变相同。城中屋宇无不震烈，举国狂奔。象房倾圮，象俱逸出。遥望云气，有如乱丝者，有如五色者，有如灵芝黑色者，冲天而起，经时方散。</p>
+<p>　　钦天监周司历奏曰：五月初六巳时，地鸣声如霹雳，从东北艮位上来行至西南方。有云气障天，良久散。占曰：地鸣者，天下起兵相攻，妇寺大乱。又曰：地中汹汹有声，是谓凶象，其地有殃。地中有声混混，其邑必亡。魏忠贤谓妖言惑众，杖一百乃死。</p>
+<p>　　后宰门火，神庙栋宇巍焕，初六日早，守门内侍忽闻音乐之声，一番粗乐过，又一番细乐，如此三叠，众内侍惊怪巡缉，其声出自庙中，方推殿门入，忽见有物如红球，从殿中滚出，腾空而上，俄东城震声发矣。</p>
+<p>　　哈达门火神庙，庙祝见火神支飒飒行动，势将下殿，忙拈香跪告曰：火神老爷，外边天旱，切不可走动。火神举足欲出，庙祝哀哭抱住。方在推阻间，而震声旋举矣。</p>
+<p>　　皇上此时方在干清宫进膳，殿震，急奔交泰殿，内侍俱不及随。止一近侍掖之而行。建极殿槛鸳瓦飞堕，此近侍脑裂，而干清宫御座御案俱翻倒。异矣哉。</p>
+<p>　　绍兴周吏目弟到京才两日，从蔡市口遇六人，拜揖尚未完，头忽飞去，其六人无恙。</p>
+<p>　　一部官家眷，因天黑地动，椅桌倾翻，妻妾仆地，乱相击触，逾时天渐明俱蓬跣泥面，若病若鬼。</p>
+<p>　　大殿做工之人，因是震而坠下者约二千人，俱成肉袋。</p>
+<p>　　郎中潘云翼母居后房，雷火时抱一铜佛跪于中庭，其房瓦不动，得生。前房十妾俱压重土之下。颂天胪笔云：抱佛者云翼之妻，非母也。</p>
+<p>　　北城察院此日进衙门，马上仰面见一神人，赤冠赤发，持剑坐一麒麟，近在头上，大惊，堕马伤额，方在喧嚷间，东城忽震。</p>
+<p>　　初六日五鼓，时东城有一赤脚僧，沿街大呼白：快走！快走！</p>
+<p>　　所伤男妇，俱赤体寸丝不挂，不知何故？有一长班于响之时，騌帽衣裤鞋袜，一霎俱无。</p>
+<p>　　都城隍庙中初五夜，道士闻殿中喧嚷叫呼，绝似唱名之声。</p>
+<p>　　初六日，王恭厂一小太监，早至厂见团团军马，围住听得内适内来，一个缚一个，监奔归响声震起。</p>
+<p>　　五月朔，山东济南知府往城隍庙行香，及门官吏舆从俱各昏迷，有一皂隶之妻来看其夫，见其前夫死已多年，乃在庙管门，前夫曰：庙里进去不得，天下城隍在此造册。</p>
+<p>　　四月二十七日午后，有云气似旗，又似关刀，见在东北角上，其长亘天，光彩初白色，后变红紫，经时而灭。</p>
+<p>　　五月初三日，又见于北方，形如绦，其色红赤。初四日，又见类如意，其色黑。占者曰：此太白蚩尤旗之变幻，总一物也。</p>
+<p>　　长安街空中飞堕人头，或眉毛和鼻或连一额，纷纷而下，大木飞至密云，驸马街，有大石狮子，重五千斤。数百人移之不动，从空飞出顺城门外。</p>
+<p>　　震崩后，有报红细丝衣等俱飘至西山，大半挂于树梢。昌平州教场中衣服成堆，首饰银钱器皿，无所不有。户部张凤达使长班往验，果然。</p>
+<p>　　予闻宰相顾秉谦妾，单裤走出街心，顾归见之，赤身跣足扶归，余人俱陷地中，不知踪迹甚众。又闻冯铨妻坐轿中被风吹去落下，止剩赤身而已。又石忽入云霄，磨转不下，非常怪异，笔难尽述。呜呼！熹庙登极以来，天灾地变，物怪人妖，无不叠见，未有若斯之甚者。思庙十七载之大饥大寇，以迄于亡，已于是乎兆之矣。而举朝若在醉梦中，真可三叹。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13497.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13499.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

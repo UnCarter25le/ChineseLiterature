@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷四·淮难_古诗文网
+</title>
+<meta content="窃恐陛下接王淮南王子，曾不与如臣者孰计之也。淮南王之悖逆亡道，陛下为顿颡谢罪皇太后之前，淮南王曾不诮让，敷留之罪无加身者。舍人横制等室之门，追而赦之，吏曾不得捕。主人于天子国横行，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18614.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·淮难</b></span>
+<a href="javascript:PlayBookv(18614)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18614" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18614" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　窃恐陛下接王淮南王子，曾不与如臣者孰计之也。淮南王之悖逆亡道，陛下为顿颡谢罪皇太后之前，淮南王曾不诮让，敷留之罪无加身者。舍人横制等室之门，追而赦之，吏曾不得捕。主人于天子国横行，不辜而无谴，乃赐美人，多载黄金而归。侯邑之在其国者，毕徙之佗所。陛下于淮南王，不可谓薄矣。然而淮南王，天子之法咫蹂促而弗用也，皇帝之令，咫批倾而不行，天下孰不知？天子选功臣有职者以为之相吏，王仅不踏蹴而逐耳，无不称病而走者，天下孰弗知？日接持怨言，以诽谤陛下之为，皇太后之馈赐，逆拒而不受，天子使者奉诏而弗得见，僵卧以发诏书，天下孰不知？聚罪人奇狡少年，通栈奇之徒启章之等，而谋为东帝，天下孰弗知？淮南王罪已明，陛下赦其死罪，解之金道，以为之神，其人自病死，陛下何负天下大指？孰能以王之死为不当？陛下无负也。</p>
+<p>　　如是，咫淮南王，罪人之身也，淮南子，罪人之子也，奉尊罪人之子，适足以负谤于天下耳，无解细于前事。且世人不以肉为心则已，若以肉为心，人之心可知也。今淮南子，少壮闻父辱状，是立咫泣洽衿，卧咫泣交项，肠至腰肘，如缪维耳，岂能须臾忘哉？是而不如是，非人也。陛下制天下之命，而淮南王至如此极，其子舍陛下而更安所归其怨尔。特曰势未便，事未发，含乱而不敢言，若诚其心，岂能忘陛下哉！白公胜所为父报仇者，报大父与诸伯父叔父也，令尹子西司马子綦皆亲群父也，无不尽伤。昔者白公之为乱也，非欲取国代王也，为发愤快志尔。故挟匕首以冲仇人之匈，固为要俱靡而已耳，固非冀生也。</p>
+<p>　　今淮南土虽小，黥布尝用之矣，汉存特幸耳。夫擅仇人足以危汉之资，于策安便？虽割而为四，四子一心也。豫让为智伯报赵襄子，五起而不取者，无他，资力少也。子胥之报楚也，有吴之众也；白公成乱也，有白公之众也；阖闾富故，然使专诸刺吴王僚；燕太子丹富故，然使荆轲杀秦王政。今陛下将尊不亿之人，与之众积之财，此非有白公、子胥之报于广都之中者，即疑有专诸、荆轲起两柱之闲，其策安便哉？此所谓假贼兵、为虎翼者，愿陛下少留意计之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18613.aspx">上一章</a>
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18615.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

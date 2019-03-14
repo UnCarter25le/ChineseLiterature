@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+历代兵制·隋_古诗文网
+</title>
+<meta content="隋高祖继周统，其兵制大抵仍周、齐府兵之旧，而特加润饰焉。自今考之，其十二卫之制，则曰翊卫、曰骁骑卫、曰武卫、曰屯卫、曰御卫、曰侯卫，各分左右。而置将军以统诸府之兵，故当时之兵互相统" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20026.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>隋</b></span>
+<a href="javascript:PlayBookv(20026)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20026" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20026" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%88%e5%82%85%e8%89%af">陈傅良</a></p>
+<div class="contson">
+<p>　　隋高祖继周统，其兵制大抵仍周、齐府兵之旧，而特加润饰焉。自今考之，其十二卫之制，则曰翊卫、曰骁骑卫、曰武卫、曰屯卫、曰御卫、曰侯卫，各分左右。而置将军以统诸府之兵，故当时之兵互相统摄而权不分。诸府之兵，有郎将、副郎将、坊主、团主之属以相统治；其外又有骠骑、车骑之军，折冲、果毅之军。虽增易不常（唐兵制云：骠骑、车骑二府皆有将军，后更骠骑曰鹰扬郎将，车骑曰副郎将，别置折冲、果毅。），而要其大概，则周家井田之遗制也。故隋之兵威，视南北之国为尤强。是征伐四克，而成一统之业，皆府兵之政也。</p>
+<p>　　案：魏、周、齐之世，已行租调之法，而府兵之制由是而始基（〈通鉴．陈纪〉：齐显祖令民十八受田，输租调，二十充兵，六十免力役，六十六还田，免租调。周、魏见前。）。加以宇文泰之贤，专意法古，当时兵制，增损尤详。然未易遽成也。故其制虽始于周、齐，而其效则渐见于隋，彰灼于唐。以此知先王之制，其废既久，则复之必以渐欤。</p>
+<p>　　隋取江南之役，凡总管兵合五十一万八千，而散之于要害之地，凡八所：或出于六合（晋王广），或出于襄阳（秦王俊），或出于永安（清河公杨素），以至江陵（刘仁恩）、蔪春（王世积）、庐州（韩擒虎）、广陵（贺若弼）、东海（燕荣），皆列兵分戍，旌旗舟楫数千里。然其节度则总之晋王，其元帅则归之高颎，各相统摄焉。此高祖御兵之意，亦有所寓也。故擒叔宝，取金陵，不啻如振槁之易。自炀帝不纲，府兵之制不讲。至伐高丽之役，四方兵集平壤，凡一百一十三万三千八百人。是以远近骚动，士卒死亡，耕稼失时，田畴荒芜。加之饥馑，谷价踊贵，挽运劳弊（大业七年，发鹿车夫六十余万，二人其推米三石。道涂崄远，不足以充糇粮，至镇无可输，皆惧罪亡命。），而辽东浪死之歌作矣（邹平民王薄拥众据长白山，自称知世郎，言事可知矣。又作《无向辽东浪死歌》以相感劝，避征役者多归之。）。隋遂以亡。</p>
+<p>　　案：炀帝大业八年，兵集平壤，驱督烦扰，所取之兵，皆非府卫之制。故其间老癃羸弱殆居其半，而训练之制寂焉不闻，况系而置之坚城之下乎！遂使堂堂之众，尽没辽东（炀帝凡九军度辽，及还至辽东城，惟二千七百人。资储器械巨万计，失之荡尽。），狼狈而归。而黎阳、江都之盗已炽矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20025.aspx">上一章</a>
+<a href="/guwen/book_272.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20027.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷一·长清僧_古诗文网
+</title>
+<meta content="长清僧道行高洁，年七十余犹健。一日颠仆不起，寺僧奔救，已圆寂矣。僧不自知死，魂飘去至河南界。河南有故绅子，率十余骑按鹰猎兔。马逸，坠毙。僧魂适值，翕然而合，遂渐苏。厮仆环问之，张目" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11416.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·长清僧</b></span>
+<a href="javascript:PlayBookv(11416)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11416" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11416" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　长清僧道行高洁，年七十余犹健。一日颠仆不起，寺僧奔救，已圆寂矣。僧不自知死，魂飘去至河南界。河南有故绅子，率十余骑按鹰猎兔。马逸，坠毙。僧魂适值，翕然而合，遂渐苏。厮仆环问之，张目曰：“胡至此！”众扶归。入门，则粉白黛绿者，纷集顾问。大骇曰：“我僧也，胡至此！”家人以为妄，共提耳悟之。僧亦不自申解，但闭目不复有言。饷以脱粟则食，酒肉则拒。夜独宿，不受妻妾奉。数日后，忽思少步。众皆喜。既出少定，即有诸仆纷来，钱簿谷籍，杂请会计。公子托以病倦，悉谢绝之。惟问：“山东长清县知之否？”共答：“知之。”曰：“我郁无聊赖，欲往游瞩，宜即治任。”众谓：“新瘳，未应远涉。”不听，翼日遂发。</p>
+<p>　　抵长清，视风物如昨。无烦问途，竟至兰若。弟子数人见贵客至，伏谒甚恭。乃问：“老僧焉往？”答云：“吾师曩已物化。”问墓所，群导以往，则三尺孤坟，荒草犹未合也。众僧不知何意。既而戒马欲归，嘱曰：“汝师戒行之僧，所遗手泽宜恪守，勿俾损坏。众唯唯。乃行。</p>
+<p>　　既归，灰心木坐，了不勾当家务。居数月，出门自遁，直抵旧寺，谓弟子曰：“我即汝师。”众疑其谬，相视而笑。乃述返魂之由，又言生平所为，悉符。众乃信，居以故榻，事之如平日。后公子家屡以舆马来哀请之，略不顾瞻。又年余，夫人遣纪纲至，多所馈遗，金帛皆却之，惟受布袍一袭而已。友人或至其乡，敬造之。见其人默然诚笃，年仅三十，而辄道其八十余年事。</p>
+<p>　　异史氏曰：“人死则魂散，其千里而不散者，性定故耳。余于僧，不异之乎其再生，而异之乎其入纷华靡丽之乡，而能绝人以逃世也。若眼睛一闪，而兰麝熏心，有求死而不得者矣，况僧乎哉！” </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11415.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11417.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

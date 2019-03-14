@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+管子·国蓄_古诗文网
+</title>
+<meta content="国有十年之蓄，而民不足于食，皆以其技能望君之禄也；君有山海之金，而民不足于用，是皆以其事业交接于君上也。故人君挟其食，守其用，据有余而制不足，故民无不累于上也。五谷食米，民之司命也" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3650.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2298" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>国蓄</b></span>
+<a href="javascript:PlayBookv(3650)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3650" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2298)" id="leftbtn2298" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3650" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ae%a1%e4%bb%b2%e5%8f%8a%e9%97%a8%e5%be%92">管仲及门徒</a></p>
+<div class="contson">
+<p>　　国有十年之蓄，而民不足于食，皆以其技能望君之禄也；君有山海之金，而民不足于用，是皆以其事业交接于君上也。故人君挟其食，守其用，据有余而制不足，故民无不累于上也。五谷食米，民之司命也；黄金刀币，民之通施也。故善者执其通施以御其司命，故民力可得而尽也。</p>
+<p>　　夫民者亲信而死利，海内皆然。民予则喜，夺则怒，民情皆然。先王知其然，故见予之形，不见夺之理。故民爱可洽于上也。租籍者，所以强求也：租税者，所虑而请也。王霸之君去其所以强求，废其所虑而请，故天下乐从也。</p>
+<p>　　利出于一孔者，其国无敌；出二孔者，其兵不诎；出三孔者，不可以举兵；出四孔者，其国必亡。先王知其然，故塞民之养，隘其利途。故予之在君，夺之在君，贫之在君，富之在君。故民之戴上如日月，亲君若父母。</p>
+<p>　　凡将为国，不通于轻重，不可为笼以守民；不能调通民利，不可以语制为大治。是故万乘之国有万金之贾，千乘之国有千金之贾，然者何也？国多失利，则臣不尽其忠，士不尽其死矣。岁有凶穰，故谷有贵贱；令有缓急，故物有轻重。然而人君不能治，故使蓄贾游市，乘民之不给，百倍其本。分地若一，强者能守；分财若一，智者能收。智者有什倍人之功，愚者有不赓本之事。然而人君不能调，故民有相百倍之生也。夫民富则不可以禄使也，贫则不可以罚威也。法令之不行，万民之不治，贫富之不齐也。且君引錣量用，耕田发草，上得其数矣。民人所食，人有若干步亩之数矣，计本量委则足矣。然而民有饥饿不食者何也？谷有所藏也。人君铸钱立币，民庶之通施也，人有若干百千之数矣。然而人事不及、用不足者何也？利有所并藏也。然则人君非能散积聚，钧羡不足，分并财利而调民事也，则君虽强本趣耕，而自为铸币而无已，乃今使民下相役耳，恶能以为治乎？</p>
+<p>　　岁适美，则市粜无予，而狗彘食人食。岁适凶，则市籴釜十繦，而道有饿民。然则岂壤力固不足而食固不赡也哉？夫往岁之粜贱，狗彘食人食，故来岁之民不足也。物适贱，则半力而无予，民事不偿其本；物适贵，则什倍而不可得，民失其用。然则岂财物固寡而本委不足也哉？夫民利之时失，而物利之不平也。故善者委施于民之所不足，操事于民之所有余。夫民有余则轻之，故人君敛之以轻；民不足则重之，故人君散之以重。敛积之以轻，散行之以重，故君必有十倍之利，而财之櫎可得而平也。</p>
+<p>　　凡轻重之大利，以重射轻，以贱泄平。万物之满虚随财，准平而不变，衡绝则重见。人君知其然，故守之以准平，使万室之都必有万钟之藏，藏繦千万；使千室之都必有千钟之藏，藏繦百万。春以奉耕，夏以奉芸。耒耜械器，种镶粮食，毕取赡于君。故大贾蓄家不得豪夺吾民矣。然则何？君养其本谨也。春赋以敛缯帛，夏贷以收秋实，是故民无废事而国无失利也。</p>
+<p>　　凡五谷者，万物之主也。谷贵则万物必贱，谷贱则万物必贵。两者为敌，则不俱平。故人君御谷物之秩相胜，而操事于其不平之间。故万民无籍而国利归于君也。夫以室庑籍，谓之毁成；以六畜籍，谓之止生；以田亩籍，谓之禁耕；以正人籍，谓之离情；以正户籍，谓之养赢。五者不可毕用，故王者遍行而不尽也。故天子籍于币，诸侯籍于食。中岁之谷，粜石十钱。大男食四石，月有四十之籍；大女食三石，月有三十之籍：吾子食二石，月有二十之籍。岁凶谷贵，籴石二十钱，则大男有八十之籍，大女有六十之籍，吾子有四十之籍。是人君非发号令收啬而户籍也，彼人君守其本委谨，而男女诸君吾子无不服籍者也。一人廪食，十人得余；十人廪食，百人得余；百人廪食，千人得余。夫物多则贱，寡则贵，散则轻，聚则重。人君知其然，故视国之羡不足而御其财物。谷贱则以币予食，布帛贱则以币予衣。视物之轻重而御之以准，故贵贱可调而君得其利。</p>
+<p>　　前有万乘之国，而后有千乘之国，谓之抵国。前有千乘之国，而后有万乘之国，谓之距国。壤正方，四面受敌，谓之衢国。以百乘衢处，谓之托食之君。千乘衢处，壤削少半。万乘衢处，壤削太半。何谓百乘衢处托食之君也？夫以百乘衢处，危慑围阻千乘万乘之间，夫国之君不相中，举兵而相攻，必以为捍挌蔽圉之用。有功利不得乡。大臣死于外，分壤而功；列陈系累获虏，分赏而禄。是壤地尽于功赏，而税臧殚于继孤也。是特名罗于为君耳，无壤之有；号有百乘之守，而实无尺壤之用，故谓托食之君。然则大国内款，小国用尽，何以及此？曰：百乘之国，官赋轨符，乘四时之朝夕，御之以轻重之准，然后百乘可及也。千乘之国，封天财之所殖，诫器之所出，财物之所生，视岁之满虚而轻重其禄，然后千乘可足也。万乘之国，守岁之满虚，乘民之缓急，正其号令而御其大准，然后万乘可资也。</p>
+<p>　　玉起于禺氏，金起于汝汉，珠起于赤野，东西南北距周七千八百里。水绝壤断，舟车不能通。先王为其途之远，其至之难，故托用于其重，以珠玉为上币，以黄金为中币，以刀布为下币。三币握之则非有补于暖也，食之则非有补于饱也，先王以守财物，以御民事，而平天下也。今人君籍求于民，令曰十日而具，则财物之贾什去一；令曰八日而具，则财物之贾什去二；令曰五日而具，则财物之贾什去半；朝令而夕具，则财物之贾什去九。先王知其然，故不求于万民而籍于号令也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3649.aspx">上一章</a>
+<a href="/guwen/book_34.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3651.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2298" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

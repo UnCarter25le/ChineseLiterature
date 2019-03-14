@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷六·颜氏_古诗文网
+</title>
+<meta content="顺天某生，家贫，值岁饥，从父之洛。性钝，年十七，裁能成幅。而丰仪秀美，能雅谑，善尺牍，见者不知其中之无有也。无何，父母继殁，孑然一身，受童蒙于洛汭。时村中颜氏有孤女，名士裔也，少慧" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11621.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·颜氏</b></span>
+<a href="javascript:PlayBookv(11621)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11621" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11621" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　顺天某生，家贫，值岁饥，从父之洛。性钝，年十七，裁能成幅。而丰仪秀美，能雅谑，善尺牍，见者不知其中之无有也。无何，父母继殁，孑然一身，受童蒙于洛汭。</p>
+<p>　　时村中颜氏有孤女，名士裔也，少慧，父在时尝教之读，一过辄记不忘。十数岁，学父吟咏，父曰：“吾家有女学士，惜不弁耳。”钟爱之，期择贵婿。父卒，母执此志，三年不遂，而母又卒。或劝适佳士，女然之而未就也。适邻妇逾垣来，就与攀谈。以字纸裹绣线，女启视，则某手翰，寄邻生者，反复之似爱好焉。邻妇窥其意，私语曰：“此翩翩一美少年，孤与卿等，年相若也。倘能垂意，妾嘱渠侬合之。”女默默不语。妇归，以意授夫。邻生故与生善，告之，大悦。有母遗金鸦环，托委致焉。刻日成礼，鱼水甚欢。</p>
+<p>　　及睹生文，笑曰：“文与卿似是两人，如此，何日可成？”朝夕劝生研读，严如师友。敛昏，先挑烛据案自哦，为丈夫率，听漏三下，乃已。如是年余，生制艺颇通，而再试再黜，身名蹇落，饔飧不给，抚情寂漠，嗷嗷悲泣。女诃之曰：“君非丈夫，负此弁耳！使我易髻而冠，青紫直芥视之！”生方懊丧，闻妻言，睒晹而怒曰：“闺中人，身不到场屋，便以功名富贵，似在厨下汲水炊白粥；若冠加于顶，恐亦犹人耳！”女笑曰：“君勿怒。俟试期，妾请易装相代。倘落拓如君，当不敢复藐天下士矣。”生亦笑曰：“卿自不知蘖苦，直宜使请尝试之。但恐绽露，为乡邻笑耳。”女曰：“妾非戏语。君尝言燕有故庐，请男装从君归，伪为弟。君以襁褓出，谁得辨其非？”生从之。女入房，巾服而出，曰：“视妾可作男儿否？”生视之，俨然一少年也。生喜，遍辞里社。交好者薄有馈遗，买一羸蹇，御妻而归。</p>
+<p>　　生叔兄尚在，见两弟如冠玉，甚喜，晨夕恤顾之。又见宵旰攻苦，倍益爱敬。雇一剪发雏奴为供给使，暮后辄遣去之。乡中吊庆，兄自出周旋，弟惟下帷读。居半年，罕有睹其面者。客或请见，兄辄代辞。读其文，蝦然骇异。或排闼入而迫之，一揖便亡去。客见丰采，又共倾慕，由此名大噪，世家争愿赘焉。叔兄商之，惟冁然笑。再强之，则言：“矢志青云，不及第，不婚也。”会学使案临，两人并出。兄又落；弟以冠军应试，中顺天第四。明年成进士，授桐城令，有吏治。寻迁河南道掌印御史，富埒王侯。因托疾乞骸骨，赐归田里。宾客填门，迄谢不纳。</p>
+<p>　　又自诸生以及显贵，并不言娶，人无不怪之者。归后渐置婢，或疑其私，嫂察之，殊无苟且。无何，明鼎革，天下大乱。乃告嫂曰：“实相告：我小郎妇也。以男子阘茸，不能自立，负气自为之。深恐播扬，致天子召问，贻笑海内耳。”嫂不信。脱靴而示之足，始愕，视靴中则絮满焉。于是使生承其衔，仍闭门而雌伏矣。而生平不孕，遂出资购妾。谓生曰：“凡人置身通显，则买姬媵以自奉，我宦迹十年犹一身耳。君何福泽，坐享佳丽？”生曰：“面首三十人，请卿自置耳。”相传为笑。是时生父母，屡受覃恩矣。搢绅拜往，尊生以侍御礼。生羞袭闺衔，惟以诸生自安，终身未尝舆盖云。</p>
+<p>　　异史氏曰：“翁姑受封于新妇，可谓奇矣。然侍御而夫人也者，何时无之？但夫人而侍御者少耳。天下冠儒冠、称丈夫者，皆愧死矣！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11620.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11622.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

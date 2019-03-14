@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贞观政要·卷六·论杜谗邪_古诗文网
+</title>
+<meta content="贞观初，太宗谓侍臣曰：“朕观前代，谗佞之徒，皆国之蟊贼也。或巧言令色，朋党比周。若暗主庸君，莫不以之迷惑，忠臣孝子所以泣血衔冤。故丛兰欲茂，秋风败之；王者欲明，谗人蔽之。此事著于史" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5212.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3481" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·论杜谗邪</b></span>
+<a href="javascript:PlayBookv(5212)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5212" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3481)" id="leftbtn3481" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5212" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%a2">吴兢</a></p>
+<div class="contson">
+<p>　　贞观初，太宗谓侍臣曰：“朕观前代，谗佞之徒，皆国之蟊贼也。或巧言令色，朋党比周。若暗主庸君，莫不以之迷惑，忠臣孝子所以泣血衔冤。故丛兰欲茂，秋风败之；王者欲明，谗人蔽之。此事著于史籍，不能具道。至如齐、隋间谗谮事，耳目所接者，略与公等言之。斛律明月，齐朝良将，威震敌国，周家每岁斫汾河冰，虑齐兵之西渡。及明月被祖孝征谗构伏诛，周人始有吞齐之意。高颎有经国大才，为隋文帝赞成霸业，知国政者二十余载，天下赖以安宁。文帝惟妇言是听，特令摈斥。及为炀帝所杀，刑政由是衰坏。又隋太子勇抚军监国，凡二十年间，固亦早有定分。杨素欺主罔上，贼害良善，使父子之道一朝灭于天性，逆乱之源，自此开矣。隋文既混淆嫡庶，竟祸及其身，社稷寻亦覆败。古人云‘世乱则谗胜’，诚非妄言。朕每防微杜渐，用绝谗构之端，犹恐心力所不至，或不能觉悟。前史云：‘猛兽处山林，藜藿为之不采；直臣立朝廷，奸邪为之寝谋。’此实朕所望于群公也。”魏征曰：“《礼》云：‘戒慎乎其所不睹，恐惧乎其所不闻。’《诗》云‘恺悌君子，无信谗言。谗言罔极，交乱四国。’又孔子曰：‘恶利口之覆邦家’，盖为此也。臣尝观自古有国有家者，若曲受谗谮，妄害忠良，必宗庙丘墟，市朝霜露矣。愿陛下深慎之！”</p>
+<p>　　贞观七年，太宗幸蒲州。刺史赵元楷课父老服黄纱单衣，迎谒路左，盛饰廨宇，修营楼雉以求媚；又潜饲羊百余口、鱼数千头，将馈贵戚。太宗知，召而数之曰：“朕巡省河、洛，经历数州，凡有所须，皆资官物。卿为饲羊养鱼，雕饰院宇，此乃亡隋弊俗，今不可复行。当识朕心，改旧态也。”以元楷在隋邪佞，故太宗发此言以戒之。元楷惭惧，数日不食而卒。</p>
+<p>　　贞观十年，太宗谓侍臣曰：“太子保傅，古难其选。成王幼小，以周、召为保傅，左右皆贤，足以长仁，致理太平，称为圣主。及秦之胡亥，始皇所爱，赵高作傅，教以刑法。及其篡也，诛功臣，杀亲戚，酷烈不已，旋踵亦亡。以此而言，人之善恶，诚由近习。朕弱冠交游，惟柴绍、窦诞等，为人既非三益，及朕居兹宝位，经理天下，虽不及尧、舜之明，庶免乎孙皓、高纬之暴。以此而言，复不由染，何也？”魏征曰：“中人可与为善，可与为恶，然上智之人自无所染。陛下受命自天，平定寇乱，救万民之命，理致升平，岂绍、诞之徒能累圣德？但经云：‘放郑声，远佞人。’近习之间，尤宜深慎。”太宗曰：“善。”</p>
+<p>　　尚书左仆射杜如晦奏言：“监察御史陈师合上《拔士论》，谓人之思虑有限，一人不可总知数职，以论臣等。”太宗谓戴胄曰：“朕以至公治天下，今任玄龄、如晦，非为勋旧，以其有才行也。此人妄事毁谤，止欲离间我君臣。昔蜀后主昏弱，齐文宣狂悖，然国称治者，以任诸葛亮、杨遵彦不猜之故也。朕今任如晦等，亦复如法。”于是，流陈师合于岭外。</p>
+<p>　　贞观中，太宗谓房玄龄、杜如晦曰：“朕闻自古帝王上合天心，以致太平者，皆股肱之力。朕比开直言之路者，庶知冤屈，欲闻谏诤。所有上封事人，多告讦百官，细无可采。朕历选前王，但有君疑于臣，则下不能上达，欲求尽忠极虑，何可得哉？而无识之人，务行谗毁，交乱君臣，殊非益国。自今以后，有上书讦人小恶者，当以谗人之罪罪之。”</p>
+<p>　　魏征为秘书监，有告征谋反者。太宗曰：“魏征，昔吾之雠，只以忠于所事，吾遂拔而用之，何乃妄生谗构？”竟不问征，遽斩所告者。</p>
+<p>　　贞观十六年，太宗谓谏议大夫褚遂良曰：“卿知起居，比来记我行事善恶？”遂良曰：“史官之设，君举必书。善既必书，过亦无隐。”太宗曰：“朕今勤行三事，亦望史官不书吾恶。一则鉴前代成败事，以为元龟；二则进用善人，共成政道；三则斥弃群小，不听谗言。吾能守之，终不转也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5211.aspx">上一章</a>
+<a href="/guwen/book_62.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5213.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3481" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

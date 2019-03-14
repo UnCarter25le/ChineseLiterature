@@ -1,0 +1,130 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·五运行大论_古诗文网
+</title>
+<meta content="黄帝坐明堂，始正天纲，临观八极，考建五常，请天师而问之曰：论言天地之动静，神明为之纪；阴阳之升降，寒暑彰其兆。余闻五运之数于夫子，夫子之所言，正五气之各主岁尔，首甲定运，余因论之。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1030.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left851" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·五运行大论</b></span>
+<a href="javascript:PlayBookv(1030)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1030" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(851)" id="leftbtn851" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1030" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝坐明堂，始正天纲，临观八极，考建五常，请天师而问之曰：论言天地之动静，神明为之纪；阴阳之升降，寒暑彰其兆。余闻五运之数于夫子，夫子之所言，正五气之各主岁尔，首甲定运，余因论之。</p>
+<p>　　鬼臾区曰：土主甲己，金主乙庚，水主丙辛，木主丁壬，火主戊癸。子午之上，少阴主之；丑未之上，太阴主之；寅申之上，少阳主之；卯酉之上，阳明主之；辰戌之上，太阳主之；巳亥之上，厥阴主之。不合阴阳，其故何也？</p>
+<p>　　岐伯曰：是明道也，此天地之阴阳也。夫数之可数者，人中之阴阳也，然所合，数之可得者也。夫阴阳者，数之可十，推之可百，数之可千，推之可万。天地阴阳者，不以数推，以象之谓也。</p>
+<p>　　帝曰：愿闻其所始也。</p>
+<p>　　岐伯曰：昭乎哉问也！臣览《太始天元册》文，丹天之气，经于牛女戊分；黅天之气，经于心尾已分；苍天之气，经于危室柳鬼；素天之气，经于亢氐昴毕；玄天之气，经于张翼娄胃。所谓戊己分者，奎璧角轸，则天地之门户也。夫候之所始，道之所生，不可不通也。</p>
+<p>　　帝曰：善。论言天地者，万物之上下，左右者，阴阳之道路，未知其所谓也。</p>
+<p>　　岐伯曰：所谓上下者，岁上下见阴阳之所在也。左右者，诸上见厥阴，左少阴，右太阳；见少阴，左太阴，右厥阴；见太阴，左少阳，右少阴；见少阳，左阳明，右太阴；见阳明，左太阳，右少阳；见太阳，左厥阴，右阳明。所谓面北而命其位，言其见也。</p>
+<p>　　帝曰：何谓下？</p>
+<p>　　岐伯曰：厥阴在上，则少阳在下，左阳明右太阴。少阴在上则阳明在下，左太阳右少阳。太阴在上则太阳在下，左厥阴右阳明。少阳在上则厥阴在下，左少阴右太阳。阳明在上则少阴在下，左太阴右厥阴。太阳在上则太阴在下，左少阳右少阴。所谓面南而命其位，言其见也。上下相遘，寒暑相临，气相得则和，不相得则疾。</p>
+<p>　　帝曰：气相得而病者，何也？</p>
+<p>　　岐伯曰：以下临上，不当位也。</p>
+<p>　　帝曰：动静何如？</p>
+<p>　　岐伯曰：上者右行，下者左行，左右周天，余而复会也。</p>
+<p>　　帝曰：余闻鬼臾区曰，应地者静。今夫子乃言下者左行，不知其所谓也，愿闻何以生之乎？</p>
+<p>　　岐伯曰：天地动静，五行迁复，虽鬼臾区其上候而巳，犹不能遍明。夫变化之用，天垂象，地成形，七曜纬虚，五行丽地。地者，所以载生成之形类也。虚者，所以列应天之精气也。形精之动，犹根本之与枝叶也，仰观其象，虽远可知也。</p>
+<p>　　帝曰：地之为下，否乎？</p>
+<p>　　岐伯曰：地为人之下，太虚之中者也。</p>
+<p>　　帝曰：冯乎？</p>
+<p>　　岐伯曰：大气举之也。燥以干之，暑以蒸之，风以动之，湿以润之，寒以坚之，火以温之。故风寒在下，燥热在上，湿气在中，火游行其间，寒暑六入，故令虚而生化也。故燥胜则地干，暑胜则地热，风胜则地动，湿胜则地泥，寒胜则地裂，火胜则地固矣。</p>
+<p>　　帝曰：天地之气，何以候之？</p>
+<p>　　岐伯曰：天地之气，胜复之作，不形于诊也。《脉法》曰：天地之变，无以脉诊，此之谓也。</p>
+<p>　　帝曰：间气何如？</p>
+<p>　　岐伯曰：随气所在，期于左右。</p>
+<p>　　帝曰：期之奈何？</p>
+<p>　　岐伯曰：从其气则和，违其气则病，不当其位者病，迭移其位者病，失守其位者危，尺寸反者死，阴阳交者死。先立其年，以知其气，左右应见，然后乃可以言死生之逆顺也。</p>
+<p>　　帝曰：寒暑燥湿风火，在人合之奈何？其于万物何以生化？</p>
+<p>　　岐伯曰：东方生风，风生木，木生酸，酸生肝，肝生筋，筋生心。其在天为玄，在人为道，在地为化。化生五味，道生智，玄生神，化生气。神在天为风，在地为木，在体为筋，在气为柔，在藏为肝。其性为暄，其德为和，其用为动，其色为苍，其化为荣，其虫毛，其政为散，其令宣发，其变摧拉，其眚为陨，其味为酸，其志为怒。怒伤肝，悲胜怒；风伤肝，燥胜风；酸伤筋，辛胜酸。</p>
+<p>　　南方生热，热生火，火生苦，苦生心，心生血，血生脾。其在天为热，在地为火，在体为脉，在气为息，在藏为心。其性为暑，其德为显，其用为躁，其色为赤，其化为茂，其虫羽，其政为明，其令郁蒸，其变炎烁，其眚燔(火芮)，其味为苦，其志为喜。喜伤心，恐胜喜；热伤气，寒胜热；苦伤气，咸胜苦。</p>
+<p>　　中央生湿，湿生土，土生甘，甘生脾，脾生肉，肉生肺。其在天为湿，在地为土，在体为肉，在气为充，在藏为脾。其性静兼，其德为濡，其用为化，其色为黄，其化为盈，其虫倮，其政为谧，其令云雨，其变动注，其眚淫溃，其味为甘，其志为思。思伤脾，怒胜思；湿伤肉，风胜湿；甘伤脾，酸胜甘。</p>
+<p>　　西方生燥，燥生金，金生辛，辛生肺，肺生皮毛，皮毛生肾。其在天为燥，在地为金，在体为皮毛，在气为成，在藏为肺。其性为凉，其德为清，其用为固，其色为白，其化为敛，其虫介，其政为劲，其令雾露，其变肃杀，其眚苍落，其味为辛，其志为忧。忧伤肺，喜胜忧；，热伤皮毛，寒胜热；辛伤皮毛，苦胜辛。</p>
+<p>　　北方生寒，寒生水，水生咸，咸生肾，肾生骨髓，髓生肝。其在天为寒，在地为水，在体为骨，在气为坚，在藏为肾。其性为凛，其德为寒，其用为藏，其色为黑，其化为肃，其虫鳞，其政为静，其令霰雪，其变凝冽，其眚冰雹，其味为咸，其志为恐。恐伤肾，思胜恐；寒伤血，燥胜寒；咸伤血，甘胜咸。正气更立，各有所先，非其位则邪，当其位则正。</p>
+<p>　　帝曰：病生之变何如？</p>
+<p>　　岐伯曰：气相得则微，不相得则甚。</p>
+<p>　　帝曰：主岁何如？</p>
+<p>　　岐伯曰：气有余，则制己所胜而侮所不胜；其不及，则己所不胜侮而乘之，己所胜轻而侮之。侮反受邪。侮而受邪，寡于畏也。</p>
+<p>　　帝曰：善。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1029.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1031.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right851" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

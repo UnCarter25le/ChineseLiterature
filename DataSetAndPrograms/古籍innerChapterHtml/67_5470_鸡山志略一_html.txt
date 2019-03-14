@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+徐霞客游记·鸡山志略一_古诗文网
+</title>
+<meta content="灵异十则放光老僧香金鸡泉收蛇穴石门复开土主报钟经声应耳然身雷雨猿猴执炊灵泉表异景致十则山之有景，即山之峦洞所标也。以人遇之而景成，以情传之而景别，故天下有四大景，图志有八景、十景。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5470.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4881" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>鸡山志略一</b></span>
+<a href="javascript:PlayBookv(5470)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5470" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4881)" id="leftbtn4881" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5470" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%bc%98%e7%a5%96">徐弘祖</a></p>
+<div class="contson">
+<p>　　灵异十则放光老僧香金鸡泉收蛇穴石门复开土主报钟经声应耳然身雷雨猿猴执炊灵泉表异景致十则山之有景，即山之峦洞所标也。以人遇之而景成，以情传之而景别，故天下有四大景，图志有八景、十景。岂天下之景，数反诎于郡邑乎？四乃拔其优，十乃足其数也。若鸡山则异于是，分言之，即一顶而已萃天下之四观，合言之，虽十景犹拘郡邑之成数也。</p>
+<p>　　绝顶四观东日、西海、北雪、南云。</p>
+<p>　　观之有四，分于张直指，而实开辟以来，即罗而致之。</p>
+<p>　　四之中，海内得其一，已为奇绝，而况乎全备者耶。此不特首鸡天，实首海内矣。</p>
+<p>　　诗五首未录〔见下〕华首重门龙华浩劫，转恨此门不辟。不知使其中堂奥潜通，纵别有天地，不过一窈窕之区耳；何如双阙高悬，一丸中塞，使仰之弥高，望之不尽乎。故方广石梁，以为五百应真之地，而亦旁无余窦。其意正与华首同也。</p>
+<p>　　诗一首见《鸡山十景》太子玄关琼台中悬，已凌灏爽。玄关上透，更转虚灵。栈壁排云，出没于烟霞之上。所称群玉峰头，瑶池月下，仿佛在此。</p>
+<p>　　诗一首见《鸡山十景》罗汉绝壁每爱袁石公“补填积雪成新径，展拓闲云架小庐”之句。</p>
+<p>　　行罗汉壁，宛然诗中之画也。至其崩云叠翠，人皆面壁，石可点头，自是一幅西来景，不烦丹青落笔。</p>
+<p>　　诗一首见《鸡山十景》狮林灵泉山下出泉，有渟ｔíｎｇ水积而不流有流，皆不为异，乃泉不出于麓而出于峦，峦不出于坳而出于脊，脊不出于外泻而出于中垂，中垂不出于旁溢而出于顶灌。此惟狮林念佛堂见之，欲不谓之灵不得也。</p>
+<p>　　诗二首见《鸡山十景》放光瑞影川泽之气，发为光焰，海之蜃楼，谷之光相太阳光通过山间云雾时衍射成相，俗称“佛光”，皆自下而上。放光四面深环，危崖上拥，灵气攸聚，瑞影斯彰，其与四大比隆，宜也。然四大亦惟峨眉、五台，其光最异；若九华、普陀，亦止佛灯，未着光相，故放光之瑞影，真四之中，二之上者矣。</p>
+<p>　　诗一首见《鸡山十景》浮屠绾胜三距东环，百刹中峙，扃龙华于双阙，悬象魏即庙门外双阙，象即“相”，相示；魏即“巍”，巍然于九重，玉毫遍地，只欠当门一楗，金掌中天，忽成华藏千祥。既合此尖，永证胜果。</p>
+<p>　　诗二首见《鸡山十景》瀑布腾空匡庐之瀑，不及雁宕，独得列名四景，以人所共瞻也。</p>
+<p>　　鸡山玉龙瀑布，亦不若猴子峒峡中崖石掩映，然玉龙独挂山前，漾荡众壑，领挈诸胜，与匡庐同，不得分大小观也。</p>
+<p>　　诗一首见《鸡山十景》传衣古松鸡山之松，以五鬣ｌｉè长毛，此指松毛见奇，参霄蔽陇，碧荫百里，须眉尽绿，然挺直而不虬，巨润而不古。而古者常种也，龙鳞鹤氅，横盘倒垂，缨络千万，独峙于传衣之前，不意众美之外，又独出此一老。</p>
+<p>　　诗一首见《鸡山十景》古洞别天鸡山岩有重门，洞无奥室，独于山后另辟神境。盖山脉至此将尽，更出一番胚胎，令人不可测识。人所共瞻者，则扃之使不可几通“及”；人所不到者，则通之示有所入，何山灵之幻乃尔？</p>
+<p>　　诗二首见《鸡山十景》</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5469.aspx">上一章</a>
+<a href="/guwen/book_67.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5471.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4881" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

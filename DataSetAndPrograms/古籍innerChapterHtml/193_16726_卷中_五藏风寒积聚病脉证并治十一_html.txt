@@ -1,0 +1,119 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+金匮要略·卷中·五藏风寒积聚病脉证并治十一_古诗文网
+</title>
+<meta content="（论二首 脉证十七条 方二首）肺中风者，口燥而喘，身运而重，冒而肿胀。肺中寒，吐浊涕。肺死藏，浮之虚，按之弱如葱叶，下无根者，死。肝中风者，头目目闰，两胁痛，行带伛，令人嗜甘。肝中" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16726.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷中·五藏风寒积聚病脉证并治十一</b></span>
+<a href="javascript:PlayBookv(16726)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16726" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16726" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e4%bb%b2%e6%99%af">张仲景</a></p>
+<div class="contson">
+<p>　　（论二首 脉证十七条 方二首）</p>
+<p>　　肺中风者，口燥而喘，身运而重，冒而肿胀。</p>
+<p>　　肺中寒，吐浊涕。</p>
+<p>　　肺死藏，浮之虚，按之弱如葱叶，下无根者，死。</p>
+<p>　　肝中风者，头目目闰，两胁痛，行带伛，令人嗜甘。</p>
+<p>　　肝中寒者，两臂不举，舌本燥，喜太息，胸中痛，不得转侧，食则吐而汗出也（《脉经、千金》云，时盗汗、咳，食已吐其汁）。</p>
+<p>　　肝死藏，浮之弱，按之如索不来，或曲如蛇行者，死。</p>
+<p>　　肝着，其人常欲蹈其胸上，先未苦时，但欲饮热，旋复花汤主之。（臣亿等校诸本族复花汤方；皆同）</p>
+<p>　　心中风者，翕翕发热，不能起，心中饥，食即呕吐。</p>
+<p>　　心中寒者，其人苦病心如口敢蒜状，剧者心痛彻背，背痛彻心，譬如蛊注。其脉浮者，自吐乃愈。</p>
+<p>　　心伤者，其人劳倦，即头面赤而下重，心中痛而自烦，发热，当脐跳，其脉弦，此为心藏伤所致也。</p>
+<p>　　心死藏，浮之实如麻豆，按之益躁疾者，死。</p>
+<p>　　邪哭使魂魄不安者，血气少也；血气少者属于心，心气虚者，其人则畏，合目欲眠，梦远行而精神离散，魂魄妄行。阴气衰者为癫，阳气衰者为狂。</p>
+<p>　　脾中风者，翕翕发热，形如醉人，腹中烦重，皮目目闰 目闰 而短气。</p>
+<p>　　脾死藏，浮之大坚，按之如覆杯，洁洁状如摇者，死（臣亿等：详五藏各有中风中寒，今脾只载中风，肾中风、中寒俱不载者，以古文简乱极多，去古既远，无它可以补缀也）。</p>
+<p>　　趺阳脉浮而涩，浮则胃气强，涩则小便数，浮涩相搏，大便则坚，其脾为约，麻子仁丸主之。</p>
+<p>　　麻子仁丸方</p>
+<p>　　麻子仁二升 芍药半斤 枳实一斤 大黄一斤 厚朴一尺 杏仁一升</p>
+<p>　　右六味，末之，炼蜜和丸梧桐子大，饮服十丸，日三，渐加，以知为度。</p>
+<p>　　肾着之病，其人身体重，腰中冷，如坐水中，形如水状，反不渴，小便自利，饮食如故，病属下焦，身劳汗出，衣（一作表）里冷湿，久久得之，腰以下冷痛，腹重如带五千钱，甘姜苓术汤主之。</p>
+<p>　　甘草干姜茯苓白术汤方</p>
+<p>　　甘草二两 白术二两 干姜四两 茯苓四两</p>
+<p>　　右四味，以水五升，煮取三升，分温三服，腰中即温。</p>
+<p>　　肾死藏，浮之坚，按之乱加转丸，益下入尺中者，死。</p>
+<p>　　问曰：三焦竭部，上焦竭善噫，何谓也？师曰：上焦受中焦气未和，不能消谷，故能噫耳；下焦竭，即遗溺失便，其气不和，不能自禁制，不须治，久则愈。</p>
+<p>　　师曰：热在上焦者，因咳为肺痿；热在中焦者，则为坚；热在下焦者，则尿血，亦令淋秘不通。大肠有寒者，多鹜溏；有热者，便肠垢。小肠有寒者，其人下重便血；有热者，必痔。</p>
+<p>　　问曰：病有积、有聚、有馨气，何谓也？师曰：积者，藏病也，终不移；聚者，府病也，发作有时，展转痛移，为可治；馨气者，胁下痛，按之则愈，复发，为馨气。诸积大法：脉来细而附骨者，乃积也。寸口积在胸中；微出寸口，积在喉中；关上积在脐旁；上关上，积在心下；微下关，积在少腹。尺中，积在气冲；脉出左，积在左；脉出*右，积在右；脉两出，积在中央；各以其部处之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16725.aspx">上一章</a>
+<a href="/guwen/book_193.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16727.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

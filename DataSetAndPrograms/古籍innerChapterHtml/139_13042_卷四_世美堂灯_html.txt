@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+陶庵梦忆·卷四·世美堂灯_古诗文网
+</title>
+<meta content="儿时跨苍头颈，犹及见王新建灯。灯皆贵重华美，珠灯料丝无论，即羊角灯亦描金细画，缨络罩之。悬灯百盏尚须秉烛而行，大是闷人。余见《水浒传》“灯景诗”有云：“楼台上下火照火，车马往来人看" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13042.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·世美堂灯</b></span>
+<a href="javascript:PlayBookv(13042)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13042" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13042" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　儿时跨苍头颈，犹及见王新建灯。灯皆贵重华美，珠灯料丝无论，即羊角灯亦描金细画，缨络罩之。悬灯百盏尚须秉烛而行，大是闷人。余见《水浒传》“灯景诗”有云：“楼台上下火照火，车马往来人看人。”已尽灯理。余谓灯不在多，总求一亮。余每放灯，必用如椽大烛，专令数人剪卸烬煤，故光迸重垣，无微不见。十年前，里人有李某者，为闽中二尹，抚台委其造灯，选雕佛匠，穷工极巧，造灯十架，凡两年。灯成而抚台已物故，携归藏椟中。又十年许，知余好灯，举以相赠，余酬之五十金，十不当一，是为主灯。遂以烧珠、料丝、羊角、剔纱诸灯辅之。而友人有夏耳金者，剪采为花，巧夺天工，罩以冰纱，有烟笼芍药之致。更用粗铁线界划规矩，匠意出样，剔纱为蜀锦，墁其界地，鲜艳出人。耳金岁供镇神，必造灯一些，灯后，余每以善价购之。余一小傒善收藏，虽纸灯亦十年不得坏，故灯日富。又从南京得赵士元夹纱屏及灯带数副，皆属鬼工，决非人力。灯宵，出其所有，便称胜事。鼓吹弦索，厮养臧获，皆能为之。有苍头善制盆花，夏间以羊毛炼泥墩，高二尺许，筑“地涌金莲”，声同雷炮，花盖亩余。不用煞拍鼓饶，清吹唢呐应之，望花缓急为唢呐缓急，望花高下为唢呐高下。灯不演剧，则灯意不酣；然无队舞鼓吹，则灯焰不发。余敕小傒串元剧四五十本。演元剧四出，则队舞一回，鼓吹一回，弦索一回。其间浓淡繁简松实之妙，全在主人位置。使易人易地为之，自不能尔尔。故越中夸灯事之盛，必曰“世美堂灯”。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13041.aspx">上一章</a>
+<a href="/guwen/book_139.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13043.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

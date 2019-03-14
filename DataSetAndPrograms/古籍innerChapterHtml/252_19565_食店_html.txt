@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+都城纪胜·食店_古诗文网
+</title>
+<meta content="都城食店，多是旧京师人开张，如羊饭店兼卖酒。凡点索食次，大要及时：如欲速饱，则前重后轻；如欲迟饱，则前轻后重（重者如头羹、石髓饭、大骨饭、泡饭、软羊、浙米饭；轻者如煎事件、托胎、奶" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19565.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>食店</b></span>
+<a href="javascript:PlayBookv(19565)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19565" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19565" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%80%90%e5%be%97%e7%bf%81">耐得翁</a></p>
+<div class="contson">
+<p>　　都城食店，多是旧京师人开张，如羊饭店兼卖酒。凡点索食次，大要及时：如欲速饱，则前重后轻；如欲迟饱，则前轻后重（重者如头羹、石髓饭、大骨饭、泡饭、软羊、浙米饭；轻者如煎事件、托胎、奶房、肚尖、肚、腰子之类）。南食店谓之南食，川饭分茶。盖因京师开此店，以备南人不服北食者，今既在南，则其名误矣，所以专卖面食鱼肉之属，如（铺羊面、生面、姜拨刀、盐煎面、鱼桐皮面、抹肉淘、肉齑淘、棋子、燥子面带汁煎）下至（扑刀鸡鹅面、家常三刀面）皆是也。若欲索供，逐店自有单于牌面。饱苸店专卖（大燠、燥子苸并馄饨）菜面店专卖（菜面、齑淘、血脏面、素棋子、经带或有拨刀、冷淘）此处不甚尊贵，非待客之所。素食店卖（素签、头羹、面食、乳茧、河鲲、脯、元鱼）凡麸笋乳蕈饮食，充斋素筵会之备。衢州饭店又谓之闷饭店，盖卖饭也。专卖家常（鱼、粉羹、鱼面、蝴蝶之属）欲求粗饱者可往，惟不宜尊贵人。</p>
+<p>　　市食点心，凉暖之月，大概多卖（猪羊鸡煎炸、子、四色馒头、灌脯、灌肠、红燠姜豉、蹿子肘件之属）夜间顶盘挑架者，如（鹌鹑儿、焦锤、羊脂韭饼、饼、春饼、旋饼、沙团子、宜利少、献糕、炙子之类）遍路歌叫，都人固自为常，若远方僻土之人乍见之，则以为稀遇。其余店铺夜市不可细数，如猪胰胡饼，自中兴以来只东京脏三家一分，每夜在太平坊巷口，近来又或有效之者。大抵都下买物，多趋有名之家，如昔时之内前下家从食，街市王宣旋饼，望仙桥糕麋是也。如酪面，亦只后市街卖酥贺家一分，每个五百贯，以新样油饼两枚夹而食之，此北食也。其余诸行百户亦如此。市食有名存而实亡者，如瓠羹是也；亦有名亡而实存者，如瓮羹，今号齑面是也；又有误名之者，如呼熟肉为白肉是也，盖白肉白是砧压去油者。</p>
+<p>　　又有专卖小儿戏剧糖果，如打娇惜、虾须、糖宜娘、打秋千、稠饧之类。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19564.aspx">上一章</a>
+<a href="/guwen/book_252.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19566.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

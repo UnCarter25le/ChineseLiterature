@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·病狂_古诗文网
+</title>
+<meta content="目眦外决于面者，为锐眦，在内近鼻者，为内眦，上为外眦，下为内眦。癫疾始生，先不乐，头重痛，视举目赤，甚作极已而烦心，候之于颜。取手太阳、阳明、太阴，血变而止。癫疾始作而引口啼呼喘悸" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1066.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left890" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·病狂</b></span>
+<a href="javascript:PlayBookv(1066)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1066" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(890)" id="leftbtn890" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1066" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　目眦外决于面者，为锐眦，在内近鼻者，为内眦，上为外眦，下为内眦。癫疾始生，先不乐，头重痛，视举目赤，甚作极已而烦心，候之于颜。取手太阳、阳明、太阴，血变而止。</p>
+<p>　　癫疾始作而引口啼呼喘悸者，候之手阳明，太阳，左强者攻其右，右强者攻其左，血变而止。癫疾始作，先反僵，因而脊痛，候之足太阳、阳明、太阴、手太阳，血变而止。</p>
+<p>　　治癫疾始作，常与之居，察其所当取之处。病至，视之有过者泻之，置其血于瓠壶之中，至其发时，血独动矣。不动，灸穷骨二十壮。穷骨者，□骨也。</p>
+<p>　　骨癫疾者，顑齿诸腧分肉皆满，而骨居，汗出，烦悗。呕多沃沫，气下泄，不治。筋癫疾者，身倦挛急，脉大，刺项大经之大杼脉。呕多沃沫，气下泄，不治。脉癫疾者，暴仆，四肢之脉皆胀而纵。脉满，尽刺之出血；不满，灸之挟项太阳，灸带脉于腰相去三寸，诸分肉本输。呕多沃沫，气下泄，不治。癫疾者，疾发如狂者，死不治。</p>
+<p>　　狂始生，先自悲也，喜忘、苦怒、善恐者，得之忧饥，治之取手太阴、阳明，血变而止及取足太阴、阳明。狂始发，少卧不饥，自高贤也，自辨智也，自尊贵也，善骂詈，日夜不休，治之取手阳明、太阳、太阴、舌下少阴。视之盛者，皆取之，不盛，释之也。</p>
+<p>　　狂言、惊、善笑、好歌乐、妄行不休者，得之大恐，治之取手阳明、太阳、太阴。狂，目妄见、耳妄闻、善呼者，少气之所生也。治之取手太阳、太阴、阳明、足太阴、头、两顑。</p>
+<p>　　狂者多食，善见鬼神，善笑而不发于外者，得之有所大喜，治之取足太阴、太阳、阳明，后取手太阴、太阳、阳明。狂而新发，未应如此者，先取曲泉左右动脉，及盛者见血，有顷已。不已，以法取之，灸骨□二十壮。</p>
+<p>　　风逆，暴四肢肿，身漯漯，唏然时寒，饥则烦，饱则善变。取手太阴表里、足少阴、阳明之经。肉清取荥、骨清取井、经也。</p>
+<p>　　厥逆为病也，足暴清，胸若将裂，肠苦将以刀切之，烦而不能食，脉大小皆涩，暖取足少阴，清取足阳明，清则补之，温则泻之。厥逆腹胀满，肠鸣，胸满不得息，取之下胸二胁，咳而动手者，与背输，以手按之，立快者是也。</p>
+<p>　　内闭不得溲，刺足少阴太阳，与抵上以长针。气逆，则取其太阴、阳明、厥阴，甚取少阴、阳明，动者之经也。</p>
+<p>　　少气，身漯漯也，言吸吸也，骨酸体重，懈惰不能动，补足少阴。短气，息短不属，动作气索；补足少阴，去血络也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1065.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1067.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right890" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+九州春秋·袁绍_古诗文网
+</title>
+<meta content="初，绍说进曰：“黄门，常侍累世太盛，威服海内，前窦武欲诛之而反为所害，但坐言语漏泄，以五营士为兵故耳。五营士生长京师，服畏中人，而窦氏反用其锋，遂果叛走归黄门，是以自取破灭。今将军" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19516.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>袁绍</b></span>
+<a href="javascript:PlayBookv(19516)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19516" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19516" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8f%b8%e9%a9%ac%e5%bd%aa">司马彪</a></p>
+<div class="contson">
+<p>　　初，绍说进曰：“黄门，常侍累世太盛，威服海内，前窦武欲诛之而反为所害，但坐言语漏泄，以五营士为兵故耳。五营士生长京师，服畏中人，而窦氏反用其锋，遂果叛走归黄门，是以自取破灭。今将军以元舅之尊，二府并领劲兵，其部曲将吏，皆英雄名士，乐尽死力，事在掌握，天赞其时也。今为天下诛除贪秽，功勋显著，垂名后世，虽周之申伯，何足道哉。今大行在前殿，将军以诏书领兵卫守，可勿入宫。”进纳其言，后更狐疑。绍惧进之改变，胁进曰：“今交构已成，形势已露，将军何为不早决之？”事留变生，后机祸至。进不从，遂败。</p>
+<p>　　授谏辞曰：“世称一兔走衢，万人逐之，一人获之，贪者悉止，分定故也。且年均以贤，德均则下，古之制也。愿上惟先代成败之戒，下思逐兔分定之义。”绍曰：“孤欲令四儿各据一州，以观其能。”授出曰：“祸其始此乎！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19515.aspx">上一章</a>
+<a href="/guwen/book_247.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19517.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

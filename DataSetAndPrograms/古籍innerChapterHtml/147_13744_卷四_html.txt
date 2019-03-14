@@ -1,0 +1,158 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+博物志·卷四_古诗文网
+</title>
+<meta content="物性九窍者胎化，八窍者卵生，龟鳖皆此类，咸卵生影伏。白鹢雄雌相视则孕。或曰雄鸣上风，则雌孕。兔舐毫望月而孕，口中吐子，旧有此说，余目所未见也。大腰无雄，龟鼍类也。无雄，与蛇通气则孕" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13744.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四</b></span>
+<a href="javascript:PlayBookv(13744)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13744" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13744" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%8d%8e">张华</a></p>
+<div class="contson">
+<p>　　物性</p>
+<p>　　九窍者胎化，八窍者卵生，龟鳖皆此类，咸卵生影伏。</p>
+<p>　　白鹢雄雌相视则孕。或曰雄鸣上风，则雌孕。</p>
+<p>　　兔舐毫望月而孕，口中吐子，旧有此说，余目所未见也。</p>
+<p>　　大腰无雄，龟鼍类也。无雄，与蛇通气则孕。细腰无雌，蜂类也。取桑蚕则阜螽子咒而成子，《诗》云“螟蛉之子，蜾蠃负之”是也。</p>
+<p>　　蚕三化，先孕而后交。不交者亦产子，子后为???虫?，皆无眉目，易伤，收采亦薄。</p>
+<p>　　鸟雌雄不可别，翼右掩左，雄；左掩右，雌。二足而翼谓之禽，四足而毛谓之兽。</p>
+<p>　　鹊巢门户背太岁，得非才智也。</p>
+<p>　　鸐雉长尾，雨雪，惜其尾，栖高树杪，不敢下食，往往饿死。时魏景初中天下所说。</p>
+<p>　　鹳，水鸟也。伏卵时，卵冷则不孕，取礜石周绕卵，以时助燥气。</p>
+<p>　　山鸡有美毛，自爱其色毛，终日映水，目眩则溺死。</p>
+<p>　　龟三千岁游于莲叶，巢于卷耳之上。</p>
+<p>　　屠龟，解其肌肉，唯肠连其头，而经日不死，犹能啮物。鸟往食之，则为所得。渔者或以张鸟，遇神蛇复续。</p>
+<p>　　蛴螬以背行，快于足用。</p>
+<p>　　《周官》云：“狢不渡汶水，鸜不渡济水。”鲁国无鸜鹆，来巢，记异也。</p>
+<p>　　橘渡江北，化为樍。今之江东，甚有枳橘。</p>
+<p>　　百足一名马蚿，中断成两段，各行而去。</p>
+<p>　　物理</p>
+<p>　　凡月晕，随灰画之，随所画而阙。 【 《淮南子》云：“未详其法。”】</p>
+<p>　　麒麟斗而日蚀，鲸鱼死则彗星出，婴儿号妇乳出，蚕弭丝而商弦绝。</p>
+<p>　　《庄子》曰：“地二年种蜀黍，其后七年多蛇。”</p>
+<p>　　积艾草，三年后烧，津液下流成铅锡，已试，有验。</p>
+<p>　　煎麻油，水气尽，无烟，不复沸则还冷，可内手搅之。得水则焰起，散卒而灭。此亦试之有验。</p>
+<p>　　庭州灞水，以金银铁器盛之皆漏，唯瓠叶则不漏。</p>
+<p>　　龙肉以醢渍之，则文章生。</p>
+<p>　　积油满万石，则自然生火。武帝泰始中武库火，积油所致。</p>
+<p>　　物类</p>
+<p>　　烧铅锡成胡粉，犹类也。烧丹朱成水银，则不类，物同类异用者。</p>
+<p>　　魏文帝所记诸物相似乱真者：武夫怪石似美玉；蛇床乱蘼芜；荠苨乱人参；杜衡乱细辛；雄黄似石流黄；鳊鱼相乱，以有大小相异；敌休乱门冬；百部似门冬；房葵似狼毒；钩吻草与荇华相似；拔揳与萆薢相似，一名狗脊。</p>
+<p>　　药物</p>
+<p>　　乌头、天雄、附子，一物，春秋冬夏采各异也。</p>
+<p>　　远志，苗曰小草，根曰远志。</p>
+<p>　　芎藭，苗曰江蓠，根曰芎藭。</p>
+<p>　　菊有二种，苗花如一，唯味小异，苦者不中食。</p>
+<p>　　野葛食之杀人。家葛种之三年，不收，后旅生亦不可食。</p>
+<p>　　《神仙传》云：“松柏脂入地千年化为茯苓，茯苓化为琥珀。”琥珀一名江珠。今泰山出茯苓而无琥珀，益州永昌出琥珀而无茯苓。或云烧蜂巢所作。未详此二说。</p>
+<p>　　地黄蓝首断心分根莱种皆生。女萝寄生兔丝，兔丝寄生木上，松根不着地。堇花朝生夕死。</p>
+<p>　　药论</p>
+<p>　　《神农经》曰：上药养命，谓五石之练形，六芝之延年也。中药养性，合欢蠲忿，萱草忘忧。下药治病，谓大黄除实，当归止痛。夫命之所以延，性之所以利，痛之所以止，当其药应以痛也。违其药，失其应，即怨天尤人，设鬼神矣。</p>
+<p>　　《神农经》曰：药物有大毒不可入口鼻耳目者，入即杀人。一曰钩吻。 【 卢氏曰：阴也。黄精不相连，根苗独生者是也。二曰鸱，状如雌鸡，生山中。三曰阴命，赤色着木，悬其子山海中。四曰内童，状如鹅，亦生海中。五曰鸩，羽如雀，黑头赤喙，亦曰虫?高虫?希，生海中，雄曰虫?希，雌曰虫?高虫?希也。】</p>
+<p>　　《神农经》曰：药种有五物：一曰狼毒，占斯解之；二曰巴豆，藿汁解之；三曰黎卢，汤解之；四曰天雄，乌头大豆解之；五曰班茅，戎盐解之。毒菜害，小儿乳汁解，先食饮二升。</p>
+<p>　　食忌</p>
+<p>　　人啖豆三年，则身重行止难。</p>
+<p>　　啖榆则眠，不欲觉。</p>
+<p>　　啖麦稼，令人力健行。</p>
+<p>　　饮真茶，令人少眠。</p>
+<p>　　人常食小豆，令人肥肌粗燥。</p>
+<p>　　食燕麦令人骨节断解。</p>
+<p>　　人食燕肉，不可入水，为蛟龙所吞。</p>
+<p>　　人食冬葵，为狗所啮，疮不差或致死。</p>
+<p>　　马食谷，则足重不能行。</p>
+<p>　　雁食粟，则翼重不能飞。</p>
+<p>　　药术</p>
+<p>　　胡粉、白石灰等以水和之，涂鬓须不白。涂讫着油，单裹令温暖，候欲燥未燥间洗之。汤则不得着晚，晚则多折，用暖汤洗讫，泽涂之。欲染，当熟洗，鬓须有腻不着药，临染时，亦当拭须燥温之。</p>
+<p>　　陈葵子微火炒，令爆咤，散着熟地，遍蹋之，朝种暮生，远不过经宿耳。</p>
+<p>　　陈葵子秋种，覆盖，令经冬不死，春有子也。 【 周日用曰：愚闻熟地植生菜兰，将石流黄筛于其上，以盆覆之，实时可待。又以变白牡丹为五色，皆以沃其根，以紫草汁则变之紫，红花汁则变红，并未试，于理可焉。此出《尔雅》。】</p>
+<p>　　烧马蹄羊角成灰，春夏散着湿地，生?勒。</p>
+<p>　　蟹漆相合成为《神仙药服食方》云。</p>
+<p>　　戏术</p>
+<p>　　削木令圆，举以向日，以艾于后成其影，则得火。</p>
+<p>　　取火法，如用珠取火，多有说者，此未试。</p>
+<p>　　《神农本草》云：鸡卵可作琥珀，其法取伏毈黄白浑杂者煮，及尚软随意刻作物，以苦酒渍数宿，既坚，内着粉中，佳者乃乱真矣。此世所恒用，作无不成者。</p>
+<p>　　烧白石作白灰，既讫，积着地，经日都冷，遇雨及水浇即更燃，烟焰起。</p>
+<p>　　五月五日埋蜻蜓头于西向户下，埋至三日不食则化成青真珠。又云埋于正中门。</p>
+<p>　　蜥蜴或名蝘蜒。以器养之，以朱砂，体尽赤，所食满七斤，治捣万杵，点女人支体，终年不灭。唯房室事则灭，故号守宫。《传》云：“东方朔语汉武帝，试之有验。”</p>
+<p>　　取鳖挫令如棋子大，捣赤苋汁和合，厚以茅苞，五六月中作，投池中，经旬脔脔尽成鳖也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13743.aspx">上一章</a>
+<a href="/guwen/book_147.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13745.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+山海经·海经·海内南经_古诗文网
+</title>
+<meta content="海内东南陬以西者。　　瓯居海中。闽在海中，其西北有山。一曰闽中山在海中。　　三天子鄣山在闽西海北。一曰在海中。　　桂林八树在番隅东。　　伯虑国、离耳国、雕题国、北朐国皆在郁水南。郁" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_10.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left10" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>海经·海内南经</b></span>
+<a href="javascript:PlayBookv(10)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv10" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(10)" id="leftbtn10" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay10" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+　　海内东南陬以西者。<br/>　　瓯居海中。闽在海中，其西北有山。一曰闽中山在海中。<br/>　　三天子鄣山在闽西海北。一曰在海中。<br/>　　桂林八树在番隅东。<br/>　　伯虑国、离耳国、雕题国、北朐国皆在郁水南。郁水出湘陵南海。一曰相虑。<br/>　　枭阳国在北朐之西。其为人人面长唇，黑身有毛，反踵，见人笑亦笑手操管。<br/>　　兕在舜葬东，湘水南。其状如牛，苍黑，一角。<br/>　　苍梧之山，帝舜葬于阳，帝丹朱葬于阴。<br/>　　泛林方三百里，在东。<br/>　　兕兕知人名，其为兽如豕而人面，在舜葬西。<br/>　　兕兕西北有犀牛，其状如牛而黑。<br/>　　夏后启之臣曰孟涂，是司神于巴。人请讼于孟涂之所，其衣有血者乃执之。是请生，在丹山西。丹山在丹阳南，丹阳居属也。<br/>　　窫窳龙首，居弱水中，在兕兕知人名之西，其状如龙首，食人。<br/>　　有木，其状如牛，引之有皮，若缨、黄蛇。其叶如罗，其实如栾，其木若蓲，其名曰建木。在窳西弱水上。<br/>　　氐人国在建木西，其为人人面而鱼身，无足。<br/>　　巴蛇食象，三岁而出其骨，君子服之，无心腹之疾。其为蛇青赤黑。一曰黑蛇青首，在犀牛西。<br/>　　旄马，其状如马，四节有毛。在巴蛇西北，高山南。<br/>　　匈奴、开题之国。列人之国并在西北。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9.aspx">上一章</a>
+<a href="/guwen/book_1.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right10" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

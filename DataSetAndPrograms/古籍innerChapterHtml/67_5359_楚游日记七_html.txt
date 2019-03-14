@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+徐霞客游记·楚游日记七_古诗文网
+</title>
+<meta content="三月初一日　桂王临朝，命承奉刘及王承奉之侄设斋桃花冲施僧。静闻往投斋，唔王承奉之侄，始知前投揭议助之意，内司不爽。盖此助非余本意，今既得金物，更少贷于刘，便可西去。静闻见王意如此，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5359.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4484" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>楚游日记七</b></span>
+<a href="javascript:PlayBookv(5359)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5359" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4484)" id="leftbtn4484" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5359" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%bc%98%e7%a5%96">徐弘祖</a></p>
+<div class="contson">
+<p>　　三月初一日　桂王临朝，命承奉刘及王承奉之侄设斋桃花冲施僧。静闻往投斋，唔王承奉之侄，始知前投揭议助之意，内司不爽。盖此助非余本意，今既得金物，更少贷于刘，便可西去。静闻见王意如此，不能无望。余乃议先往道州，游九疑，留静闻候助于此，余仍还后与同去，庶彼得坐俟，余得行游，为两便云。 </p>
+<p>　　初二日　乃促得金祥甫银，仍封置金寓，以少资随身。刘许为转借，期以今日，复不能得。予往别，且坐候之，遂不及下舟。 </p>
+<p>　　初三日　早出柴埠门登舟。刘明宇先以钱二千并绢布付静闻，更以糕果追予于南关外。时余舟尚泊柴埠未解维，刘沿流还觅，始与余遇，复订期而别。是日风雨复作，舟子迁延，晚移南门埠而泊。 </p>
+<p>　　初四日　平明行，风暂止，夙雨霏霏。下午过汊江，抵云集潭，去予昔日被难处不远，而云集则艾行可沉汨之所也。风雨凄其，光景顿别，欲为《楚辞》招之，黯不成声。是晚泊于云集潭之西岸，共行六十余里。 </p>
+<p>　　初五日　雷雨大至。平明发舟，而风颇利。十里，过前日畏途，沉舟犹在也。四里，过香炉山，其上有滩颇高。又二十五里，午过桂阳河口，桂阳河自南岸入湘。〔舂水出道州舂陵山，岿水出宁远九疑山，经桂阳西境，合流至此入湘，为常宁县界。由河口入，抵桂阳尚三百里。〕又七里，北岸有聚落村落名松北。又四里，泊于瓦洲夹。共行五十里。 </p>
+<p>　　初六日　昧爽行，雨止风息。二十里，过白坊驿，聚落在江之西岸，至此已入常宁县界矣。又西南三十里，为常宁水口，其水从东岸入湘，亦如桂阳之口，而其水较小，盖常宁县治犹在江之东南也。又西十五里，泊于粮船埠，有数家在东岸，不成村落。是日共行六十五里。 </p>
+<p>　　初七日　西南行十五里，河洲驿。日色影现，山冈开伏。盖自衡阳来，湘江两岸虽冈陀缭绕，而云母之外，尚无崇山杰嶂。至此地，湘之东岸为常宁界，湘江西岸为永之祁阳界，皆平陵扩然，冈阜远叠也。又三十里，过大铺，于是两岸俱祁阳属矣。上九州滩，又三十里，泊归阳驿。 </p>
+<p>　　初八日　饭后余骤疾急病，呻吟不已。六十里，至白水驿。初拟登访戴宇完，谢其遇劫时解衣救冻之惠，至是竟不能登。是晚，舟人乘风顺，又暮行十五里，泊于石坝里，盖白水之上流也。是日共行七十五里。按《志》：白水山在祁阳东南二百余里，山下有泉如白练。（缺）去祁阳九十余里，又在东北。是耶，非耶？ </p>
+<p>　　初九日　昧爽，舟人放舟，余病犹甚。五十余里，下午抵祁阳，遂泊焉，而余不能登。先隔晚将至白水驿，余力疾起望西天，横山如列屏，至是舟溯流而西，又转而北，已出是山之阳矣，盖即祁山也。山在湘江北，县在湘江西，祁水南，相距十五里。其上流则湘自南来，循城东，抵山南转，县治实在山阳、水西。而县东临江之市颇盛，南北连峙，而西向入城尚一里。其城北则祁水西自邵阳来，东入于湘，遂同曲而东南去。 </p>
+<p>　　初十日　余念浯溪之胜，不可不一登，病亦稍差chài病愈，而舟人以候客未发，乃力疾起。沿江市而南，五里，渡江而东，已在浯溪下矣。第所谓狮子袱者，在县南滨江二里，乃所经行地，而问之，已不可得。岂沙积流移，石亦不免沧桑耶？浯溪由东而西入于湘，其流甚细。溪北三崖骈峙，西临湘江，而中崖最高，颜鲁公所书《中兴颂》高镌崖壁，其侧则石镜嵌焉。石长二尺，阔尺五，一面光黑如漆，以水喷之，近而崖边亭石，远而隔江村树，历历俱照彻其间。不知从何处来，从何时置，此岂亦元次山所遗，遂与颜书媲胜耶！宋陈衍云：“元氏始命之意，因水以为浯溪，因山以为峿山，作室以为廡亭，三吾之称，我所自也。制字从水、从山、从广，我所命也。三者之目，皆自吾焉，我所擅而有也。”崖前有亭，下临湘水，崖巅石巉簇〔立〕，如芙蓉丛萼。其北亦有亭焉，今置伏魔大帝像。崖之东麓为元颜祠，祠空而隘。前有室三楹，为驻游之所，而无守者。越浯溪而东，有寺北向，是为中宫寺，即漫宅旧址也，倾颓已甚，不胜吊古之感。时余病怯行，卧崖边石上，待舟久之，恨磨崖碑拓架未彻通撤而无拓者，为之怅怅！既午舟至，又行二十里，过媳妇娘塘，江北岸有石娉婷立岩端，矫首作西望状。其下有鱼曰竹鱼，小而甚肥，八九月重一二斤，他处所无也。时余卧病舱中，与媳妇觌dī当面面而过。又十里，泊舟滴水崖而后知之，矫首东望，已隔江云几曲矣。滴水崖在江南岸，危岩亘空，江流寂然，荒村无几，不知舟人何以泊此？是日共行三十五里。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5358.aspx">上一章</a>
+<a href="/guwen/book_67.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5360.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4484" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

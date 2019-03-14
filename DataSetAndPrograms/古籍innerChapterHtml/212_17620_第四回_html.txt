@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+鬼神传·第四回_古诗文网
+</title>
+<meta content="路逢白骨脱衣遮盖　因功上奏以显后裔话说广东广州府属，姓蒋，德其名也，表字芝连，婚娶唐三姑。男长三七，女长二九。双亲丧，葬墓六年，未嗣。其妻淑德贞良，夜间描绣与夫伴读。风光似箭，日月" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17620.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第四回</b></span>
+<a href="javascript:PlayBookv(17620)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17620" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17620" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%8d%e9%a2%98%e6%92%b0%e4%ba%ba">不题撰人</a></p>
+<div class="contson">
+<p>　　<strong>路逢白骨脱衣遮盖　因功上奏以显后裔</strong></p>
+<p>　　话说广东广州府属，姓蒋，德其名也，表字芝连，婚娶唐三姑。男长三七，女长二九。双亲丧，葬墓六年，未嗣。其妻淑德贞良，夜间描绣与夫伴读。风光似箭，日月如梭，其时十载，亦无男女。三姑谓大曰：“妾和君家夫妇十载，并无所出。想别人夫妇，亦有三男二女。尤恐前生之过失，以致今生折乏，不自决也。细思世人，多有朝不能顾暮，亦是绵绵夫妇。妾见君家田产非少，金银岂缺，书云：‘积善之家，必有余庆；不善之家，必有余殃。’我想善由心作，恶由心造。不若积福修德，以遗子孙，乃为长久之计。自此我夫妻二人，亦要行些好事。不若逢寺观布施斋僧，逢庙宇恭祝长明。倘得上天见怜，赐夫广嗣，宗祖有赖矣。夫君意下如何？”德答妻曰：“妻虽女流之辈，尚有见识深广。夫读圣贤之书，尚未觉下此意。今得妻言，岂不如意哉。”</p>
+<p>　　自此之日，斋僧布施，庙宇明烟。不觉又是十年，亦是如常。德一日自思谓妻曰：“虽则斋僧布施，庙观烟油，亦无寸功，此事无适用财，功德非用力乎？俺想世事一福、二运、三风水、四积阴功、五读书。欲报宗功，除是勉力而为之。夫读圣贤之书，数十年来亦不能进步，枉受寒窗，不能报答宗功也。亦是徒想而已，不若丢书无读，尚作荣生云游四方。常行恻隐之心，仁义广施，岂不美战。”自此出门，亦非徒名徒其利乎，无非为走四方，常行恻隐之心，见孤寒而怜悯，见贫乏而斩周。</p>
+<p>　　忽一日身至荒丘，只见白骨交加，自谓云云：“何得常行恻隐，日（目）睹白骨纵横。”没奈何将自己身上脱下一领白衣，与骷骨遮盖，用石责住四围。其时忍着悲怜又走，不觉天色已晚，未近人问，尚隔七八里路，方能得到市肆，寻歇安身。不期路逢一鬼，身穿白衣开言谓曰：“这等夜深，君欲何往？”蒋德答曰：“欲住盛处投歇。”鬼曰：“幸逢与汝同路，如此与君作伴得其幸也。人言此处土名叫做大砂墩，乃乱葬之地。人言鬼魅甚多，幸逢作伴，事有缘由。请问君家高姓预闻。”德答：“弟姓蒋名德，表字芝连。广府人也。兄台姓字指示晚生。”其鬼答曰：“弟本姓杨字以明。亦是同属人也。”德曰：“兄到此处居于客旅多年？”鬼答曰：“弟离家三载，只是客帐未清，尚未回家。昨程途得遇一故人，与我一纸家书，带回本籍，交男杨三有。闻折兄亦乡旋，不若转付兄台带回。”德答：“谨领。”其鬼又嘱：“千里家信，幸勿遗失。”其鬼又言：“上古有道：‘水上有舟君莫度，身中无伴勿单行’”如是同行同论，不觉就是村庄。两家相别。其鬼又嘱：“水上有舟君莫渡，身中无伴勿单行。紧记紧记！”其鬼又云：“人道有鬼汝可信乎？”德答：“人有万丈豪光，鬼无一撮之地，焉敢近乎？”鬼曰：“你既不信，我明明是鬼，汝可信乎？”“我再不信，你既是鬼，何不作一显现，我尽信之。”其鬼作一阵风，就不见了。德到市肆投宿，心疑可信。</p>
+<p>　　不觉又是明朝，再作行程。身至河边，将欲下舟。偶思其事，鬼说云云，心中大疑。方欲回转，其渡已去。船到江心，忽起一阵魅风，众人惊骇，欲要下帆不能，以此是舟淹没。传说回来，蒋德以知其事，方知其鬼尽信。蒋芝连此亦回家与鬼带得音信一纸。访觅杨三有交回一纸之书。将途中遇鬼之事，说了一遍。那时杨三有将书拆看，方知其父被人谋死。一家大小父母妻儿嚎陶大哭。那时三有双膝跪在地下，恳求邻叔带往荒丘，拾父骸骨，归家安葬。丧至三旬，延请道师，功果启亡。其文书上奏道：蒋芝连一带功程，方超父魂回乡。玉皇查究，蒋德情由，实是无子。念其夫妇积善，妻能喜舍功德，夫行恻隐之心，婆婆宇有世间者稀。即注一子与之，以儆世人行善积德之报。其子日后丹桂标香，以接蒋门宗族，永为后裕。此所谓鬼得人恩，人得鬼护，两下不亏。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17619.aspx">上一章</a>
+<a href="/guwen/book_212.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17621.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

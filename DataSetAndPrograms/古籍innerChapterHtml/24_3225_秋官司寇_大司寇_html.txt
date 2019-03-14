@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+周礼·秋官司寇·大司寇_古诗文网
+</title>
+<meta content="大司寇之职，掌建邦之三典，以佐王刑邦国，诘四方。一曰，刑新国用轻典；二曰，刑平国用中典；三曰，刑乱国用重典。以五刑纠万民：一曰野刑，上功纠力；二曰军刑，上命纠守；三曰乡刑，上德纠孝" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3225.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1755" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>秋官司寇·大司寇</b></span>
+<a href="javascript:PlayBookv(3225)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3225" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1755)" id="leftbtn1755" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3225" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%91%a8%e5%85%ac%e6%97%a6">周公旦</a></p>
+<div class="contson">
+<p>　　大司寇之职，掌建邦之三典，以佐王刑邦国，诘四方。一曰，刑新国用轻典；二曰，刑平国用中典；三曰，刑乱国用重典。以五刑纠万民：一曰野刑，上功纠力；二曰军刑，上命纠守；三曰乡刑，上德纠孝；四曰官刑，上能纠职；五曰国刑；上愿纠暴。以圆土聚教罢民，凡害人者，寘之圆土而施职事焉，以明刑耻之，其能改者，反于中国，不齿三年。其不能改而出圆土者杀。以两造禁民讼，入束矢于朝，然后听之，以两剂禁民狱，入钧金。三日，乃致于朝，然后听之。以嘉石平罢民，凡万民之有罪过而未丽于法而害于州里者，桎梏而坐诸嘉石，役诸司空。重罪，旬有三日坐，期役；其次，九日坐，九月役；其次，七日坐，七月役；其次；五日坐，五月役；其下罪，三日坐，三月役，使州里任之，则宥而舍之。以肺石达穷民，凡远近茕独、老幼之欲有复于上，而其长弗达者，立于肺石三日，士听其辞，以告于上，而罪其长。正月之吉，始和，布刑于邦国、都鄙乃县刑象之法于象魏，使万民观刑象。挟日，而敛之。凡邦之大盟约，莅其盟书，而登之于天府，大史、内史、司会、及六官，皆受其贰而藏之。凡诸侯之狱讼，以邦典定之。凡卿大夫之狱讼，以邦法断之。凡庶民之狱讼，以邦成弊之。大祭祀，奉犬牲；若祀五帝，则戒之日，莅誓百官，戒于百族。及纳亨，前王祭之日，亦如之。奉其明水火。凡朝觐、会同，前王，大丧亦如之。大军旅，莅戮于社。凡邦之大事，使其属跸。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3224.aspx">上一章</a>
+<a href="/guwen/book_24.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3226.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1755" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

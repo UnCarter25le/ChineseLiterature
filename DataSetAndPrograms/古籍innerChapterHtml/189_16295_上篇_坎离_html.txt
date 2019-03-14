@@ -1,0 +1,111 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+滴天髓阐微·上篇·坎离_古诗文网
+</title>
+<meta content="坎离宰天地之中气，成不独成，而有相持者在。【原注】天干透壬癸，地支属离者，乃为既济，要天气下降；天干透丙丁，地支属坎者，乃为未济，要地气上升。天干皆水，地支皆火，为交媾，交媾身强则" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16295.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上篇·坎离</b></span>
+<a href="javascript:PlayBookv(16295)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16295" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16295" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%ba%ac%e5%9b%be">京图</a></p>
+<div class="contson">
+<p>　　坎离宰天地之中气，成不独成，而有相持者在。</p>
+<p>　　【原注】天干透壬癸，地支属离者，乃为既济，要天气下降；天干透丙丁，地支属坎者，乃为未济，要地气上升。天干皆水，地支皆火，为交媾，交媾身强则富贵；天干皆火，地支皆水，为交战，交战身弱，岂能富贵？坎外离内，谓之未济，主之所喜在离，要水竭，主之所喜在坎，则不详；离外坎内，谓之既济，主之所喜在坎，要离降，主之所喜在离，要木和。水火相见于天干，以火为主，而水盛者存；坎离相见于地支，喜坎而坎旺者昌。夫子、午、卯、酉专气也，其相制相持之势，宜悉辨之；若四生四库之神，皆所以党助子午卯酉者，其理亦可推详。</p>
+<p>　　【任氏曰】：</p>
+<p>　　坎陽也，先天位右七之数，故为陽也；离陰也，先天位左三之数，故为陰也。坎为中男，天道下济，故一陽生于北；离为中女，地道上行，故二陰生于南。离为日体，坎为月体，一润一暄，水火相济，男女媾精，万物化生矣。夫坎离为日月之正体，无消无灭，而宰天地之中气，是以不可独成，必要相持为妙也。相持之理有五，升、降、和、解、制也。升者，天干离衰，地支坎旺，必得地支有木，则地气上升；降者，天干坎衰，地支离旺，必得天干有金，则天气下降；和者，天干皆火，地支皆水，必须有木运以和之；解者 ，天干皆水，地支皆火，必须有金运以解之；制者，水火交战于干支，必须岁运视其强者而制之。此五者，坎离之作用如此，则无独成之势，而有相持礼智之性矣。</p>
+<p>　　丙子 己亥 丙寅 戊子</p>
+<p>　　庚子 辛丑 壬寅 癸卯 甲辰 乙巳</p>
+<p>　　丙火生于孟冬，又逢两子，天干离衰，地支坎旺，用寅木以升之也。至壬寅，东方木地，采芹折桂；卯运出仕，一路运走东南，仕至观察。</p>
+<p>　　壬午 壬寅 壬戌 庚戌</p>
+<p>　　癸卯 甲辰 乙巳 丙午 丁未 戊申</p>
+<p>　　壬水生于孟春，支全火局，虽年月两透比肩，皆属无根。天干坎衰，地支离旺，用庚金以降之也。惜乎运途东南，在外奔驰四十年，一无成就；至五旬外，交戊申，娶妻三，年已六旬矣。连生三子，至戌运而终。</p>
+<p>　　丙子 丙申 丙子 丙申</p>
+<p>　　丁酉 戊戌 己亥 庚子 辛丑 壬寅 癸卯 甲辰</p>
+<p>　　此造地支，两申两子，水逢生旺，金作水论；天干四丙，地支无根，离衰坎旺，须以木运和之也。惜乎五行不顺，五十年西北金水之地，故艰难险阻，刑伤颠沛；五旬外运走壬寅，东方木地，财进业兴，及癸卯甲辰，发财数万。</p>
+<p>　　癸巳 壬戌 壬午 壬寅</p>
+<p>　　辛酉 庚申 己未 戊午 丁巳 丙辰</p>
+<p>　　壬午日元，生于戌月，支会火局，年支坐巳，天干皆饮，地支皆离，必须金运以解之也。初交辛酉庚申，正得成其既济，解其财杀之势，叨化日之光，丰衣足食；一交己未，刑耗异常，戊午财杀并旺，出外遇盗丧身。</p>
+<p>　　壬子 丙午 壬子 丙午</p>
+<p>　　丁未 戊申 己酉 庚戌 辛亥 壬子</p>
+<p>　　此造水火交战于干支，火当令，水休囚，喜其无土，日和不克。初交丁未，年逢戊午，天克地冲，财杀两旺，父母双亡，流为乞丐；交申运逢际遇，己酉运发财数万，娶妻生子成家。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16294.aspx">上一章</a>
+<a href="/guwen/book_189.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16296.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

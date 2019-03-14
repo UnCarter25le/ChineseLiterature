@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·利_古诗文网
+</title>
+<meta content="历史来源　　1、春秋时期，楚国老子（即老聃，姓李名耳，字伯阳）的后代，以祖字为氏。上古商代时，有位王族叫理利贞，为了逃避商纣王的迫害，曾路经一棵李树下以李子充饥，后来就改姓为李利贞" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2670.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>利</b></span>
+<a href="javascript:PlayBookv(2670)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2670" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2670" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、春秋时期，楚国老子（即老聃，姓李名耳，字伯阳）的后代，以祖字为氏。上古商代时，有位王族叫理利贞，为了逃避商纣王的迫害，曾路经一棵李树下以李子充饥，后来就改姓为李利贞。李利贞的十一世孙李聃，被后人尊为道家创始人，就是老子。老子后代中，有的为纪念远祖中的王族李利贞，取利字为姓，切代相传。所以，李姓、理姓、利姓的远祖是同一人。利姓产生较晚，是老子李聃的后代中形成的。<br/>　　2、出自芈姓，来源于封地，以邑名为氏。春秋时楚国有公子受封于利邑（今四川省广元县境），其子孙就以封地名为姓，世代相传姓利。<br/>　　3、出自姬姓，来源于封地，以邑名为氏。春秋时晋国有大夫食采于利邑，其后人以利孙为氏，后改为单姓利氏。<br/>　　4、出自北方鲜卑族有叱利氏所改。南北朝时，北魏鲜卑族有叱利氏，入中原后遂渐与汉文化融合，后改为利氏。</p>
+<p><strong>家族名人</strong><br/>　　利仓：西汉时期名丞相，现今发现的马王堆湿尸就是他的夫人。<br/>　　利几：汉代武将，先是项羽部将，后来为刘邦带兵。<br/>　　利元吉：宋朝学者，字文伯，盯江人。是宋代著名儒者陆九渊的高才生，学问独到，陆九渊的儿子后来想拜他为师，利元吉谢曰不敢当。中国古文化的要领，常出于师徒口耳相传。举进士而当官，为官清正廉洁，爱民如子，为百姓做了许多好事，政绩显著。晚年以教书为乐。<br/>　　利本坚：明朝英德（今广东省）人。由监生任赣县主簿，调四川安岳县令。为官公正，爱民节用。为众论所推许。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）利姓在大陆和台湾都没有列入百家姓前一百位。利氏有三个来源。春秋时道家创始人老子祖名利贞，其后代中有利氏；周朝时楚国公子的封地在利，因此被称为利氏；北魏时，叱利氏也改称为利氏。有说认为利氏与李氏同宗，因为李氏来源之一是避难时，遇李树解渴的理利贞，他还是春秋时道家创始人老子的祖先，其后代中就有以他的名字利为姓氏的。周朝时，楚国公子的封地在利，因此他的后代就以邑名为姓氏，称为利氏。北魏时，叱利氏的后代也有改称为利氏的。据《路史》载：老子之后有利氏。老子祖名利贞，后为氏。又《姓纂》记载：“楚公子食采于利，因以为氏”。望出河南。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2669.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2671.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十二·太原狱_古诗文网
+</title>
+<meta content="太原有民家，姑妇皆寡。姑中年不能自洁，村无赖频频就之。妇不善其行，阴于门户墙垣阻拒之。姑惭，借端出妇；妇不去，颇有勃谿，姑益恚，反相诬告诸官。官问奸夫姓名，媪曰：“夜来宵去，实不知" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11881.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十二·太原狱</b></span>
+<a href="javascript:PlayBookv(11881)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11881" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11881" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　太原有民家，姑妇皆寡。姑中年不能自洁，村无赖频频就之。妇不善其行，阴于门户墙垣阻拒之。姑惭，借端出妇；妇不去，颇有勃谿，姑益恚，反相诬告诸官。官问奸夫姓名，媪曰：“夜来宵去，实不知其阿谁，鞫妇自知。”因唤妇。妇果知之，而以奸情归媪，苦相抵。拘无赖至，又哗辨：“两无所私，彼姑妇不相能，故妄言相诋毁耳。”官曰：“一村百人何独诬汝？”重笞之。无赖叩乞免责，自认与妇通。械妇，妇终不承。逐去之。妇忿告宪院，仍如前，久不决。</p>
+<p>　　时淄邑孙进士柳下令临晋，推折狱才，遂下其案于临晋。人犯到，公略讯一过，寄监讫，便命隶人备砖石刀锥，质理听用。共疑曰：“严刑自有桎梏，何将以非刑折狱耶？”不解其意，姑备之。明日升堂，问知诸具已备，命悉置堂上。乃唤犯者，又一一略鞫之。乃谓姑妇：“此事亦不必甚求清析。淫妇虽未定，而奸夫则确。汝家本清门，不过一时为匪人所诱，罪全在某。堂上刀石具在，可自取击杀之。”姑妇趑趄，恐邂逅抵偿，公曰：“无虑，有我在。”于是媪妇并起，掇石交投。妇衔恨已久，两手举巨石，恨不即立毙之，媪惟以小石击臀腿而已。又命用刀。妇把刀贯胸膺，媪犹逡巡未下。公止之曰：“淫妇我知之矣。”命执媪严梏之，遂得其情。笞无赖三十，其案始结。</p>
+<p>　　附记：公一日遣役催租，租户他出，妇应之。投不得贿，拘妇至。公怒曰：“男子自有归时，何得扰人家室！”遂笞役，遣妇去。乃命匠多备手械，以备敲比。明日合邑传颂公仁。欠赋者闻之，皆使妻出应，公尽拘而械之。余尝谓：孙公才非所短，然如得其情，则喜而不暇哀矜矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11880.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11882.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

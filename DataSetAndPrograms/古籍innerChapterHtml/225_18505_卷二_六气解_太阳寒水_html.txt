@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷二·六气解·太阳寒水_古诗文网
+</title>
+<meta content="寒者，太阳水气之所化也。在天为寒，在地为水，在人为膀胱。太阳以寒水主令，足太阳膀胱，水也，手太阳小肠，火也，火水异气，而以寒水统之，缘水位于下而生于上。离中之阴，水之根也。离阴降而" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18505.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·六气解·太阳寒水</b></span>
+<a href="javascript:PlayBookv(18505)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18505" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18505" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　寒者，太阳水气之所化也。在天为寒，在地为水，在人为膀胱。太阳以寒水主令，足太阳膀胱，水也，手太阳小肠，火也，火水异气，而以寒水统之，缘水位于下而生于上。离中之阴，水之根也。离阴降而下交坎位而化水，水降于火，是以丙火化气于壬水。火化而为水，则热从寒化，故太阳之气，水火并统，而独以寒水名也。</p>
+<p>　　水性本寒，少阳三焦之火，随太阳而下行，水得此火，应当不寒。不知水之不寒者，癸水而非壬水也。盖水以蛰藏为性，火秘于内，水敛于外，是谓平人。木火主里，自内而生长之，故里气常温；金水主表，自外而收藏之，故表气常清。血生于木火，故血温而内发；气化于金水，故气清而外敛。人之经脉，厥阴在里，春气之内生也；次则少阴，夏气之内长也；次则阳明，秋气之外收也；太阳在表，冬气之外藏也。阳藏则外清而内温，阳泄则内寒而外热。外易寒水而为热火，内易温泉而为寒冰，外愈热而内愈寒，生气绝根，是以死也。癸水温而壬水寒则治，癸水寒而壬水热则病。癸水病则必寒，壬水病则多热。以丁火化于癸水，故少阴之藏，最易病寒；壬水化于丙火，故太阳之府，最易病热。是以病寒者，独责癸水而不责壬水；病热者，独责壬水而不责癸水也。</p>
+<p>　　仲景《伤寒》，以六经立法，从六气也。六气之性情形状，明白昭揭，医必知此，而后知六经之证。六经之变化虽多，总不外乎六气，此义魏晋而后，绝无解者。先圣之法，一线莫传，凌夷至于今日，不堪问矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18504.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18506.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

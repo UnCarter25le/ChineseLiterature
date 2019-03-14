@@ -1,0 +1,115 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷六·杂病解中·奔豚根原_古诗文网
+</title>
+<meta content="奔豚者，肾家之积也。平人君火上升而相火下蛰，火分君相，其实同气。君相皆蛰，则肾水不寒。火之下蛰，实赖土气，胃气右降，金水收藏，则二火沉潜而不飞扬。土败胃逆，二火不降，寒水渐冱，阴气" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18546.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·杂病解中·奔豚根原</b></span>
+<a href="javascript:PlayBookv(18546)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18546" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18546" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　奔豚者，肾家之积也。平人君火上升而相火下蛰，火分君相，其实同气。君相皆蛰，则肾水不寒。火之下蛰，实赖土气，胃气右降，金水收藏，则二火沉潜而不飞扬。土败胃逆，二火不降，寒水渐冱，阴气凝聚，久而坚实牢硬，结于少腹，是谓奔豚。《难经》：肾之积，曰奔豚是也。</p>
+<p>　　水邪既聚，逢郁则发，奔腾逆上，势如惊豚，腹胁心胸，诸病皆作。气冲咽喉，七窍火发，危困欲死，不可支也。及其气衰而还，诸证乃止。病势之凶，无如此甚。</p>
+<p>　　然积则水邪，而发则木气。其未发也，心下先悸，至其将发，则脐下悸作。以水寒木郁，则生振摇，枝叶不宁，则悸在心下；根本不安，则悸在脐间。脐上悸生者，是风木根摇，故发奔豚。</p>
+<p>　　仲景霍乱：若脐上筑者，肾气动也。肾气者，风木摇撼之根，而论其发作，实是木邪。木邪一发，寒水上陵，木则克土，而水则刑火。火土双败，正气贼伤，此奔豚所以危剧也。</p>
+<p>　　悸者，风木之郁冲，惊者，相火之浮宕。火不胜水，五行之常，所恃者，子土温燥，制伏阴邪，培植阳根，蛰于坎府，根本不拔，则胆壮而神谧。土湿阳衰，不能降蛰相火，阳根泄露，飘越无依，寒水下凝，阴邪无制，巨寇在侧，而身临败地，故动惕荒悬，迄无宁宇。凡惊悸一生，即为奔豚欲发之兆，不可忽也。</p>
+<p>　　茯苓桂枝甘草大枣汤</p>
+<p>　　茯苓一两　桂枝四钱　甘草二钱　大枣十五枚</p>
+<p>　　甘澜水四杯，先煎茯苓，减二杯，入诸药，煎大半杯，温服，日三剂。</p>
+<p>　　作甘澜水法：大盆置水，以勺扬之千百遍，令水珠散乱，千颗相逐，乃取用之。</p>
+<p>　　治汗后亡阳，脐下悸动，奔豚欲作者。</p>
+<p>　　桂枝加桂汤</p>
+<p>　　桂枝五钱　芍药三钱　甘草二钱　生姜三钱　大枣四枚</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　治奔豚方作，气从少腹上冲心部者。</p>
+<p>　　奔豚汤</p>
+<p>　　甘草二钱　半夏四钱　芍药二钱　当归二钱　黄芩二钱　生姜四钱　芎?二钱　生葛五钱　甘李根白皮三钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　治奔豚盛作，气上冲胸，头疼腹痛，往来寒热者。</p>
+<p>　　奔豚之生，相火升泄，肾水下寒，不能生木。风木郁冲，相火愈逆，故七窍皆热。少阳经气，被阴邪郁迫，故有往来寒热之证。芎、归疏肝而滋风木，芩、芍泻胆而清相火，奔豚既发，风热上隆，法应先清其上。</p>
+<p>　　龙珠膏</p>
+<p>　　川椒五钱　附子五钱　乌头五钱　巴豆三钱，研，去油　桂枝五钱　茯苓八钱　牡蛎五钱　鳖甲五钱</p>
+<p>　　芝麻油、黄丹熬膏，加麝香、阿魏，研细，布摊，贴病块。</p>
+<p>　　奔豚已结，气块坚硬，本属寒积。但阴邪已盛，稍服附子温下，寒邪不伏，奔豚必发。以邪深药微，非附子之过也。不治，则半年一载之间，必至殒命。此宜温燥脾胃，去其中焦湿寒。土燥阳回，力能制水，然后以此膏贴之。寒消块化，悉从大便而出，滑白粘联，状如凝脂。浊瘀后泄，少腹松软，重用附子暖水，然后乃受。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18545.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18547.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

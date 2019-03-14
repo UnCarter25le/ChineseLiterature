@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+商君书·更法_古诗文网
+</title>
+<meta content="孝公平画，公孙鞅、甘龙、杜挚三大夫御于君。虑世事之变，讨正法之本，求使民之道。君曰：“代立不忘社稷，君之道也；错法务明主长，臣之行也。今吾欲变法以治，更礼以教百姓，恐天下之议我也。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3990.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2586" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>更法</b></span>
+<a href="javascript:PlayBookv(3990)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3990" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2586)" id="leftbtn2586" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3990" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%95%86%e9%9e%85">商鞅</a></p>
+<div class="contson">
+<p>　　孝公平画，公孙鞅、甘龙、杜挚三大夫御于君。虑世事之变，讨正法之本，求使民之道。</p>
+<p>　　君曰：“代立不忘社稷，君之道也；错法务明主长，臣之行也。今吾欲变法以治，更礼以教百姓，恐天下之议我也。”</p>
+<p>　　公孙鞅曰：“臣闻之：‘疑行无成，疑事无功。‘君亟定变法之虑，殆无顾天下之议之也。且夫有高人之行者，固见负于世；有独知之虑者，必见骜于民。语曰：’愚者暗于成事，知者见于未萌。民不可与虑始，而可与乐成。郭偃之法曰：‘论至德者不和于俗，成大功者不谋于众。’法者所以爱民也，礼者所以便事也。是以圣人苟可以强国，不法其故；苟可以利民，不循其礼。”</p>
+<p>　　孝公曰：“善！”</p>
+<p>　　甘龙曰：“不然。臣闻之：‘圣人不易民而教，知者不变法而治。’因民而教者，不劳而功成；据法而治者，吏习而民安。今若变法，不循秦国之故，更礼以教民，臣恐天下之议君，愿孰察之。”</p>
+<p>　　公孙鞅曰：“子之所言，世俗之言也。夫常人安于故习，学者溺于所闻。此两者，所以居官而守法，非所与论于法之外也。三代不同礼而王，五霸不同法而霸。故知者作法，而愚者制焉；贤者更礼，而不肖者拘焉。拘礼之人不足与言事，制法之人不足与论变。君无疑矣。”</p>
+<p>　　杜挚曰：“臣闻之：‘利不百，不变法；功不十，不易器’。臣闻：‘法古无过，循礼无邪。君其图之！’”</p>
+<p>　　公孙鞅曰：“前世不同教，何古之法？帝王不相复，何礼之循？伏羲、神农，教而不诛；黄帝、尧、舜，诛而不怒；及至文、武，各当时而立法，因事而制礼。礼、法以时而定；制、令各顺其宜；兵甲器备，各便其用。臣故曰：治世不一道，便国不必法古。汤、武之王也，不脩古而兴；殷、夏之灭也，不易礼而亡。然则反古者未必可非，循礼者未足多是也。君无疑矣。”</p>
+<p>　　孝公曰：“善！吾闻穷巷多怪，曲学多辩。愚者之笑，智者哀焉；狂夫之乐，贤者丧焉。拘世以议，寡人不之疑矣。”</p>
+<p>　　于是遂出垦草令。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_42.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3991.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2586" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

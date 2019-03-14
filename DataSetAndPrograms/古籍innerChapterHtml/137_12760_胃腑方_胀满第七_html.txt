@@ -1,0 +1,129 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·胃腑方·胀满第七_古诗文网
+</title>
+<meta content="（论一首 方八首 灸法十一首）论曰∶病者腹满，按而不痛者为虚，按之痛者为实也。夫腹中满不减，减不足言，此当下之。舌黄，未下者下之，黄自去。腹满时减复如故，此为寒，当得温药。腹满口中" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12760.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>胃腑方·胀满第七</b></span>
+<a href="javascript:PlayBookv(12760)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12760" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12760" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p><span style="font-family:FangSong_GB2312;">　　（论一首 方八首 灸法十一首）</span></p>
+<p>　　论曰∶病者腹满，按而不痛者为虚，按之痛者为实也。夫腹中满不减，减不足言，此当下之。舌黄，未下者下之，黄自去。腹满时减复如故，此为寒，当得温药。腹满口中苦干燥，腹？趺阳脉微弦，法当腹满不满者，必下部闭塞，大便难，两 下疼痛，此虚寒气从下上也。当以温药服之，取瘥。腹满转痛来趋小腹，为欲自下利也（一云∶腹中痛，若转气下趋小腹，为欲自利）。</p>
+<p>　　<strong>温胃汤<br/>　　治胃气不平，时胀咳，不能食方。</strong></p>
+<p>　　附子 当归 浓朴 人参 橘皮 芍药 甘草（各一两） 干姜（五分） 川椒（三合）</p>
+<p>　　上九味 咀，以水九升，煮取三升，分三服。</p>
+<p>　<strong>　大半夏汤<br/>　　治胃中虚冷，腹满塞下气方。</strong></p>
+<p>　　半夏（一升） 大枣（二十枚） 甘草 附子 当归 人参 浓朴 茯苓 枳实（各二两）桂心 ？</p>
+<p>　　上十二味 咀，以水一斗，煮取三升，分二服。</p>
+<p>　　<strong>附子粳米汤<br/>　　治腹中寒气胀满，肠鸣切痛，胸胁逆满呕吐方。</strong></p>
+<p>　　附子（一枚） 半夏 粳米（各半升） 甘草（一两） 大枣（十枚）</p>
+<p>　　上五味 咀，以水八升煮米，熟去滓，每服一升，日三服（《集验方》加干姜二两）。</p>
+<p>　<strong>　浓朴三物汤<br/>　　治腹满发热数十日，脉浮而数，饮食如故方。</strong></p>
+<p>　　浓朴（半斤） 大黄（四两） 陈枳实（大者五枚）</p>
+<p>　　上三味 咀，以水一斗二升，煮取五升纳大黄，煎取三升，去滓，服一升。腹中转动者勿服，不动者更服。一方加芒硝二两。</p>
+<p>　　<strong>浓朴七物汤<br/>　　治腹满气胀方。</strong></p>
+<p>　　浓朴（半斤） 甘草 大黄（各三两） 大枣（十枚） 枳实（五枚） 桂心（二两） 生姜（五两）</p>
+<p>　　上七味 咀，以水一斗，煮取五升，去滓，纳大黄，煮取四升，服八合，日三。呕逆者加半夏五合。利者去大黄。寒多者加生姜至半斤。</p>
+<p>　<strong>　吴茱萸汤<br/>　　治久寒胸胁逆满，不得食方。</strong></p>
+<p>　　吴茱萸 半夏 小麦（各一升） 甘草 人参 桂心（各二两） 生姜（八两） 大枣（二十枚）</p>
+<p>　　上八味 咀，以酒五升，水三升，煮取三升，分三服。</p>
+<p>　　<strong>大桂汤<br/>　　治虚羸胸膈满方。</strong></p>
+<p>　　桂心 生姜（各一斤） 半夏（一升） 黄 （四两）</p>
+<p>　　上四味 咀，以水一斗半，煮取五升，分五服，日三夜二。</p>
+<p>　　治男子卒劳内伤，汗出中风，腹胀大，饥食不下，心痛，小便赤黄时白，大便不利方∶</p>
+<p>　　大黄 葶苈 寒水石 苦参 黄连 栝蒌根（等分）</p>
+<p>　　上六味为末蜜丸，以豉汁和饮服，如梧子大二丸，日三，加至十丸。</p>
+<p>　<strong>　灸法<br/></strong>　　胪胀胁腹满，灸膈俞百壮，三报。</p>
+<p>　　胸满心腹积聚痞痛，灸肝俞百壮，三报。</p>
+<p>　　胀满水肿，灸脾俞随年壮，三报。</p>
+<p>　　腹中气胀引脊痛，多饮食，身羸瘦，名曰食晦，先取脾俞，后取季胁。</p>
+<p>　　脏腑积聚胀满，羸瘦不能饮食，灸三焦俞，随年壮。</p>
+<p>　　胀满雷鸣，灸大肠俞百壮，三报。</p>
+<p>　　胀满气聚寒冷，灸胃脘百壮，三报。穴在鸠尾下三寸。</p>
+<p>　　腹满胀绕脐结痛，坚不能食，灸中守百壮。穴在脐上一寸。一名水分。</p>
+<p>　　胀满瘕聚滞下痛冷，灸气海百壮。穴在脐下一寸。忌不可针。</p>
+<p>　　胀满气如水肿状，小腹坚如石，灸膀胱募百壮。穴在中极脐下四寸。</p>
+<p>　　胀满肾冷瘕积泄利，灸天枢百壮。穴在脐旁相对，横去脐两旁各二寸。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12759.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12761.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

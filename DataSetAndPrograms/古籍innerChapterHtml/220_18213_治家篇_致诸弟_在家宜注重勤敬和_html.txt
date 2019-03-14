@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·治家篇·致诸弟·在家宜注重勤敬和_古诗文网
+</title>
+<meta content="澄候温甫子植季洪四弟足下：久未遣人回家，家中自唐二维五等到后，亦无信来，想平安也，余于念九日自新提移营，八月初一至嘉鱼县，初五日自坐小舟，至牌洲看阅地势，初七日即将大营移驻牌洲，水" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18213.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>治家篇·致诸弟·在家宜注重勤敬和</b></span>
+<a href="javascript:PlayBookv(18213)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18213" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18213" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　澄候温甫子植季洪四弟足下：</p>
+<p>　　久未遣人回家，家中自唐二维五等到后，亦无信来，想平安也，余于念九日自新提移营，八月初一至嘉鱼县，初五日自坐小舟，至牌洲看阅地势，初七日即将大营移驻牌洲，水师前营左营中营，自闰七月念三日驻扎金口，念七日贼匪水陆上犯，我陆军未以，水军两路堵之，抢贼船二只，杀贼数十人，得一胜仗，罗山于十八念四念六日等日得四胜仗，初四发折，俱详叙之，兹付回。</p>
+<p>　　初三日接上谕廷寄，余得赏三品顶戴，现具折谢恩，寄谕并折寄口，余居母丧，并未在家守制，清夜自思，局促不安，若仗皇上天威，江面渐次肃清，即当奏明回籍，事父祭母，稍尽人子之心，诸弟及儿侄辈，务宜体我寸心，于父亲饮食起居，十分检点，无稍疏忽，于母亲祭品礼仪，必洁必诚，于叔父处敬爱兼至，无稍隔阂，兄弟姒娣，总不可有半点不和之气；凡一家之中，勤敬二字，能守得几分，未有不兴，若全无一分，无有不败，和字能守得几分，未有不兴。不和未有不败者，诸弟试在乡间，将此三字于族候戚人家，历历险之，必以吾言为不谬也。</p>
+<p>　　诸弟不好收拾洁净，比我尤甚，此是败家气明，嗣后务宜细心收拾，即一纸一缕，竹头木屑，皆宜检拾，以为儿侄之榜样，一代疏懒，二代淫佚，则必有昼睡夜坐，吸食鸦片之渐矣，四弟九弟较勤，六弟季弟较懒；以后勤者愈勤，懒者痛改，莫使子侄学得怠情样子，至要至要！子侄除读书外，教之扫屋抹桌凳，收粪锄草，是极好之事，切不可以为有损架子而不为也。（咸丰四年八月十一日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18212.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18214.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

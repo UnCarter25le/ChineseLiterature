@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷六·坎下離上_古诗文网
+</title>
+<meta content="未濟，亨。小狐汔濟，濡其尾，无攸利。彖曰：未濟亨，柔得中也。小狐汔濟，未出中也。濡其尾，无攸利，不續終也。雖不當位，剛柔應也。柔得中，不當位，未?濟也，而□其變矣。剛近濟在於險中，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9452.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·坎下離上</b></span>
+<a href="javascript:PlayBookv(9452)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9452" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9452" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　未濟，亨。小狐汔濟，濡其尾，无攸利。彖曰：未濟亨，柔得中也。小狐汔濟，未出中也。濡其尾，无攸利，不續終也。雖不當位，剛柔應也。</p>
+<p>　　柔得中，不當位，未?濟也，而□其變矣。剛近濟在於險中，力小形微，濡其尾，无攸利，不?續其終。下非所濟逺也。剛柔而同力，故有終通之道焉。</p>
+<p>　　象曰：火在水上，未濟。君子以慎辨物居方。</p>
+<p>　　火上水下，各守其所，雖未濟而各保其安也。君子明愼辨物，而使各安其所，則致之而得宜用之，而得當也。</p>
+<p>　　初六，濡其尾，吝。象曰：濡其尾，亦不知極也。</p>
+<p>　　以柔而濟於險，初始渉者也。近淺猶濡尾矣，況其深必不濟矣。不知力之極也，可惜也已。</p>
+<p>　　九二，曵其輪，貞吉。象曰：九二貞吉，中以行正也。</p>
+<p>　　居得險中，動而應主，剛德不邪而?濟也，故曵輪。載險而當之矣，故正吉也。</p>
+<p>　　六三，未濟征凶，利渉大川。象曰：未濟征凶，位不當也。</p>
+<p>　　力小失位，逺何為，附於二則險自濟也。</p>
+<p>　　九四，貞吉，悔亡。震用伐鬼方，三年有賞于大國。象曰：貞吉悔亡，志行也。</p>
+<p>　　未濟征凶，柔居中，力小不?濟也。有委任之道焉，未濟當位，志在乎濟，而奉其上得正之吉也。而遂其志焉。何逼近之悔乎，將盡力以功，震其未濟，故伐鬼方，三年乃克，而受國矣。初以勤奉主，終以功獲賞，有終濟之義也。</p>
+<p>　　六五，貞吉无悔。君子之光，有孚，吉。象曰：君子之光，其暉吉也。</p>
+<p>　　柔得中正之吉，無其悔也。志在乎濟，授之以?任之，無疑以至於終濟，可謂君子之光煥乎輝發矣。信有中正之吉哉。</p>
+<p>　　上九，有孚，于飲酒，无咎。濡其首，有孚，失是。象曰：飲酒濡首，亦不知節也。</p>
+<p>　　滿者自覆，謙者自益，非天之所為也。夫以未濟之初志存，而不懈以至於終濟，而信有其樂也，亦何咎哉。樂極志滿，道斯反矣，故濡其首，信失其樂哉。夫將濟者，力之及也。濟非大順而致也，力以取之，順以守之，乃得其久。旣濟而盈，將有覆矣。君子可無懼乎。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9451.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9453.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

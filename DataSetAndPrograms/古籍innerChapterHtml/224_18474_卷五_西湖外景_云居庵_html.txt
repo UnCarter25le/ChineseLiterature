@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷五·西湖外景·云居庵_古诗文网
+</title>
+<meta content="云居庵在吴山，居鄙。宋元?间，为佛印禅师所建。圣水寺，元元贞间，为中峰禅师所建。中峰又号幻住，祝发时，有故宋宫人杨妙锡者，以香盒贮发，而舍利丛生，遂建塔寺中，元末毁。明洪武二十四年" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18474.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·西湖外景·云居庵</b></span>
+<a href="javascript:PlayBookv(18474)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18474" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18474" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　云居庵在吴山，居鄙。宋元?间，为佛印禅师所建。圣水寺，元元贞间，为中峰禅师所建。中峰又号幻住，祝发时，有故宋宫人杨妙锡者，以香盒贮发，而舍利丛生，遂建塔寺中，元末毁。明洪武二十四年，并圣水于云居，赐额曰云居圣水禅寺。岁久殿圮，成化间僧文绅修复之。寺中有中峰自写小像，上有赞云：“幻人无此相，此相非幻人。若唤作中峰，镜面添埃尘。”向言六桥有千树桃柳，其红绿为春事浅深，云居有千树枫桕，其红黄为秋事浅深，今且以薪以??，不可复问矣。曾见李长蘅题画曰：“武林城中招提之胜，当以云居为最。山门前后皆长松，参天蔽日，相传以为中峰手植，岁久，浸淫为寺僧剪伐，什不存一，见之辄有老成凋谢之感。去年五月，自小筑至清波访友寺中，落日坐长廊，沽酒小饮已，裴回城上，望凤凰南屏诸山，沿月踏影而归。翌日，遂为孟?画此，殊可思也。”</p>
+<p>　　李流芳《云居山红叶记》：</p>
+<p>　　余中秋看月于湖上者三，皆不及待红叶而归。前日舟过塘栖，见数树丹黄可爱，跃然思灵隐、莲峰之约，今日始得一践。及至湖上，霜气未遍，云居山头，千树枫桕尚未有酣意，岂余与红叶缘尚悭与？因忆往岁忍公有代红叶招余诗，余亦率尔有答，聊记于此：“二十日西湖，领略犹未了。一朝别尔归，此游殊草草。当我欲别时，千山秋已老。更得少日留，霜酣变林杪。子常为我言，灵隐枫叶好。千红与万紫，乱插向晴昊。烂然列锦锈，森然建??。一生未得见，何异说食饱。”</p>
+<p>　　高启《宿幻住栖霞台》诗：</p>
+<p>　　窗白鸟声晓，残钟渡溪水。此生幽梦回，独在空山里。</p>
+<p>　　松岩留佛灯，叶地响僧履。予心方湛寂，闲卧白云起。</p>
+<p>　　夏原吉《云居庵》诗：</p>
+<p>　　谁辟云居境，峨峨瞰古城。两湖晴送碧，三竺晓分青。</p>
+<p>　　经锁千函妙，钟鸣万户惊。此中真可乐，何必访蓬瀛。</p>
+<p>　　徐渭《云居庵松下眺城南》诗：</p>
+<p>　　夕照不曾残，城头月正团。霞光翻鸟堕，江色上松寒。</p>
+<p>　　市客屠俱集，高空醉屡看。何妨高渐离，抱却筑来弹。</p>
+<p>　　（城下有瞽目者善弹词。）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18473.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18475.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

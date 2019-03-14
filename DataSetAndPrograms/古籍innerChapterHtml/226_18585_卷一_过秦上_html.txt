@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷一·过秦上_古诗文网
+</title>
+<meta content="秦孝公据崤函之固，拥雍州之地，君臣固守，以窥周室，有席卷天下，包举宇内，囊括四海之意，幷吞八荒之心。当是时也，商君佐之，内立法度，务耕织，修守战之具；外连衡而斗诸侯，于是秦人拱手而" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18585.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·过秦上</b></span>
+<a href="javascript:PlayBookv(18585)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18585" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18585" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　秦孝公据崤函之固，拥雍州之地，君臣固守，以窥周室，有席卷天下，包举宇内，囊括四海之意，幷吞八荒之心。当是时也，商君佐之，内立法度，务耕织，修守战之具；外连衡而斗诸侯，于是秦人拱手而取西河之外。</p>
+<p>　　孝公既没，惠文武昭襄王，蒙故业，因遗策，南取汉中 ，西举巴蜀，东割膏腴之地，北收要害之郡。诸侯恐惧，同盟而谋弱秦，不爱珍器重宝肥饶之地，以致天下之士，合从缔交，相与为一。当此之时，齐有孟尝，赵有平原，楚有春申，魏有信陵。此四君者，皆明智而忠信，宽厚而爱人，尊贤重士。约从离衡，兼韩、魏、燕、赵、宋、卫、中山之众。于是六国之士，有宁越、徐尚、苏秦、杜赫之属为之谋主，齐明、周最、陈轸、召滑、楼缓、翟景、苏厉、乐毅之徒通其意，吴起、孙膑、带佗、倪良、王廖、田忌、廉颇、赵奢之朋制其兵。尝以什倍之地、百万之众，仰关而攻秦。秦人开关延敌，九国之师逡遁而不敢进。秦无亡矢遗镞之费，而天下诸侯已困矣。于是从散约解，争割地而赂秦。秦有余力而制其弊，追亡逐北，伏尸百万，流血漂橹，因利乘便，宰割天下，分请山河，强国裂伏，弱国入朝。</p>
+<p>　　施及孝文王、庄襄王，享国日浅，国家无事。及至始皇，奋六世之余烈，振长策而御宇内，吞二周而亡诸侯，履至尊而制六合，执搞朴以鞭笞天下，威振四海，南取百粤之地，以为桂林象郡。百粤之君，俛首系颈，委命下吏，乃使蒙恬北筑长城而守藩篱，却匈奴七百余里。胡人不敢南下而牧马，士不敢弯弓而报怨。于是废先王之道，燔百家之言，以愚黔首。堕名城，杀豪俊，收天下之兵，聚之咸阳。销锋鍉，铸以为金人十二，以弱天下之民。然后践华为城，因河为池，据亿丈之高，临百尺之渊以为固。良将劲弩，守要害之处；信臣精卒，陈利兵而谁何。天下已定，始皇之心，自以为关中之固，金城千里，子孙帝王万世之业也。</p>
+<p>　　始皇既没，余威振于殊俗。然而陈涉，瓮牖绳枢之子，氓隶之人，而迁徙之徒也。材能不及中人，非有仲尼、墨翟之贤，陶朱、猗顿之富，蹑足行伍之闲，俛起阡陌之中，率疲弊之卒，将数百之众，转而攻秦。斩木为兵，揭竿为旗，天下云合响应，赢粮而景从。山东豪杰并起，而亡秦族矣。</p>
+<p>　　且夫天下非小弱也，雍州之地，崤函之固，自若也。陈涉之位，非尊于齐、楚、燕、赵、韩、魏、宋、卫、中山之君也；鉏耰棘矜 ，不敌于钩戟长铩也；谪戍之众，非抗九国之师也；深谋远虑，行军用兵之道，非及曩时之士也；然而成败异变，功业相反也。试使山东之国，与陈涉度长絜大，比权量力，则不可同年而语矣。然秦以区区之地，致万乘之势，序八州而朝同列，百有余年矣。然后以六合为家，崤函为宫，一夫作难而七庙堕，身死人手，为天下笑者，何也？仁心不施，而攻守之势异也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18586.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

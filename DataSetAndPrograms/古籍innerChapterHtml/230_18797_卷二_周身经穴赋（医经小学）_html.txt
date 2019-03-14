@@ -1,0 +1,113 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷二·周身经穴赋（医经小学）_古诗文网
+</title>
+<meta content="手太阴兮大指侧，少商、鱼际兮太渊穴。经渠兮列缺，孔最兮尺泽。侠白共天府为邻，云门与中府相接。手阳明兮，大肠之经。循商阳兮，二三而行。历合谷、阳溪之溪，过偏历、温溜之滨。下廉、上廉、" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18797.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·周身经穴赋（医经小学）</b></span>
+<a href="javascript:PlayBookv(18797)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18797" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18797" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　手太阴兮大指侧，少商、鱼际兮太渊穴。经渠兮列缺，孔最兮尺泽。侠白共天府为邻，云门与中府相接。</p>
+<p>　　手阳明兮，大肠之经。循商阳兮，二三而行。历合谷、阳溪之溪，过偏历、温溜之滨。下廉、上廉、三里而近，曲池、肘髎、五里之程。臑髃上于巨骨，天鼎纡乎扶突。禾唇连，迎香鼻迫。</p>
+<p>　　左右共二十二穴。二间、三间也。即臂臑、肩髃二穴。左右共四十穴。</p>
+<p>　　胃乃足之阳明，厉兑趋乎内庭。过陷谷、冲阳之分，见解溪、丰隆之神。下巨虚兮条口陈，上巨虚兮三里仍。犊鼻引入于梁丘、阴市之下，伏兔上贯于髀关、气冲之经。归来兮水道，大巨兮外陵。运天枢兮滑肉，礼太乙兮关门。梁门兮承满，不容兮乳根。乳中之膺窗、屋翳，库房之气户、缺盆。气舍、水突，人迎、大迎。地仓兮巨髎续，四白兮承泣分。御颊车于下关，张头维于额垠。</p>
+<p>　　足太阴兮脾中州，隐白出兮大指头。赴大都兮瞻太白，访公孙兮至商丘。越三阴之交而漏谷、地机可即，步阴陵之泉而血海、箕门是求。入冲门兮府舍轩豁，解腹结兮大横优游。腹哀、食窦兮，接天溪而同派；胸乡、周荣兮，缀大包而如钩。</p>
+<p>　　左右共九十穴。左右共四十二穴。</p>
+<p>　　迨夫真心为手少阴，少冲出乎小指，少府直乎神门。阴郄、通里兮，灵道非远；少海、青灵兮，极泉何深。</p>
+<p>　　手之太阳，小肠之荣。路从少泽步前谷、后溪之隆，道遵腕骨观阳谷、养老之崇。得支正于小海，逐肩贞以相从。值臑腧兮遇天宗，乘秉风兮曲垣中。肩外俞兮肩中俞，启天窗兮见天容。匪由颧髎，曷造听宫。</p>
+<p>　　左右共十八穴。左右共三十八穴。</p>
+<p>　　足膀胱兮太阳，交背部之二行。穷至阴于通谷之口，寻束骨于京骨之乡。申脉命仆参以前导，昆仑辟金门于踝旁。奋附阳、飞扬之志，转承山、承筋之行。至于合阳、委中、委阳、浮郄、殷门以歧往，承扶、秩边而胞肓。入志室兮肓门、胃仓，开意舍兮振彼阳纲。出魂门兮膈关，乃譩嘻乎神堂。膏肓兮在四椎之左右，魄户兮随附分而会阳。下、中、次、上之髎，白环、中膂之房。膀胱俞兮小肠，大肠俞兮在旁。三焦、肾俞兮胃俞接，脾、胆、肝、膈兮心俞当。厥阴、肺俞之募，风门、大杼之方。天柱坚兮玉枕、络却，通天溪兮见彼承光。自五处、曲差而下，造攒竹、睛明之场。</p>
+<p>　　足少阴兮肾属，涌泉流于然谷。太溪、大钟兮水泉缘，照海、复溜兮交信续。从筑宾兮上阴谷，掩横骨兮大赫麓。气穴、四满兮中注，肓俞上通兮商曲。守石关兮阴都宁，闭通谷兮幽门肃。步廊、神封而灵墟存，神藏、彧中而俞府足。</p>
+<p>　　左右共一百二十六穴。左右共五十四穴。</p>
+<p>　　手厥阴心包之络，中冲发中指之奇。自劳宫、大陵而往，逐内关、间使而驰。叩郄门于曲泽，酌天泉于天池。</p>
+<p>　　手少阳三焦之脉，在小指次指之端。关冲开乎液门、中渚、阳池、外关。支沟、会宗、三阳络，四渎、天井、清冷渊，消泺、臑会、肩髎相连。天窗处天牖之下，翳风让瘈脉居先。颅息定而角孙近耳，丝竹空而和髎倒悬。耳门既辟，夏蚋闻焉。</p>
+<p>　　左右共十八穴。左右共四十六穴。</p>
+<p>　　足少阳兮胆经，穴乃出乎窍阴，沂侠溪兮地五会，过临泣兮丘墟平。悬钟兮阳辅、光明，外丘兮阳交、阳陵。西出阳关兮，抵中渎、风市之境；环跳、居髎兮，循维道、五枢之宫。考夫带脉，询至京门。日月丽兮辄筋荣，渊液泄兮肩井盈。临风池兮脑空鸣，穷窍阴兮完骨明。举浮白于天冲，接承灵于正营。目窗兮临泣，阳白兮本神。率谷回兮曲鬓出，悬厘降兮悬颅承。颔厌兮嘉客主人，听会兮瞳子髎迎。</p>
+<p>　　厥阴在足，肝经所钟。起大敦于行间，循太冲于中封。蠡沟、中都之会，膝关、曲泉之宫。袭阴包于五里兮，阴廉乃发；寻羊矢于章门兮，期门可攻。</p>
+<p>　　左右共八十八穴。左右共二十八穴。</p>
+<p>　　至若任脉行乎腹与胸，承浆泄兮廉泉通。窥天突于璇玑，捣华盖于紫宫。登玉堂兮膻中集，履中庭兮鸠尾冲。瞻巨阙兮二脘上中，过建里兮下脘攸同。水分兮神阙缥缈，阴交兮气海鸿蒙。石门直兮关元、中极，曲骨横兮会阴乃终。</p>
+<p>　　督脉行乎背部中，兑端接兮龈交从。素髎在面兮，水沟疏通；神庭入发兮，上星瞳蒙。顖会现兮前顶，百会俨兮尊崇。后顶辅兮强间逢，脑户闭兮风府空。哑门通于大椎兮，陶道夷坦；身柱缥于神道兮，灵台穹窿。至阳立下，筋缩、脊中；接脊悬枢，命门重重。歌阳关兮舞腰俞，愿长强兮寿无穷。</p>
+<p>　　凡二十四穴。凡二十七穴。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18796.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18798.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

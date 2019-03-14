@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·脉法·分别病形状第五_古诗文网
+</title>
+<meta content="脉数在腑。脉迟在脏。脉长而弦，病在肝。（《脉经》作出于肝。）脉小血少，病浮，病在肺。脉大而坚（扁鹊云∶小而紧，）病在肾。脉滑者，多血少气。脉涩者，少血多气。脉大者，血气俱多。又云脉" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12837.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>脉法·分别病形状第五</b></span>
+<a href="javascript:PlayBookv(12837)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12837" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12837" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　脉数在腑。脉迟在脏。脉长而弦，病在肝。（《脉经》作出于肝。）脉小血少，病浮，病在肺。脉大而坚（扁鹊云∶小而紧，）病在肾。脉滑者，多血少气。脉涩者，少血多气。脉大者，血气俱多。又云脉来大而坚者，血气俱实。脉小者，血气俱少。又云∶脉来细而微者，血气俱虚。脉沉细滑疾者热。脉迟紧为寒。（《脉经》云∶洪数滑疾为热，涩迟沉细为寒。）脉盛滑紧者，病在外热。脉小实而紧者，病在内冷。脉小弱而涩，谓之久病。脉浮滑而疾，谓之新病。脉浮滑，其人外热风走刺有饮，难治。脉沉而紧，上焦有热，下寒，得冷即便下。脉沉而细，下焦有寒，小便数，时苦绞痛，下利重。脉浮紧且滑直者，外热内冷，不得大小便。脉洪大紧急，病速进在外，苦头发热痈肿。脉细小紧急，病速进在中，寒为疝瘕积聚，腹中刺痛。脉沉重而直前绝者，病血在肠间。脉沉重而中散者，因寒食成。脉直前而中散绝者，病消渴。（又云∶病浸淫疮。）脉沉重，前不至寸口徘徊绝者，病在肌肉遁尸。脉左转而沉重者，气微，阳在胸中。脉右转出不至寸口者，内有肉。脉累累如贯珠不前，有风寒在大肠，伏留不去。脉累累如止不至，寸口软者，结热在小肠膜中，伏留不去。脉直前左右弹者，病在血脉中血也。脉后而左右弹者，病在筋骨中也。脉前大后小，头痛目眩。脉前小后大，胸满短气。上部有脉，下部无脉，其人当吐，不吐者死。上部无脉，下部有脉，虽困无所苦。夫脉者，血之府也。长则气治。短则气病。数则烦心。大则病进。上盛则气高。下盛则气胀。代则气衰。细（《太素》作滑）则气少。涩则心痛，浑浑革革至如涌泉，病进而危。</p>
+<p>　　弊弊绰绰其去如弦绝者死。短而急者，病在上。长而缓者，病在下。沉而弦急者，病在内。浮而洪大者，病在外。脉实者，病在内。脉虚者，病在外。在上为表，在下为里。浮为在表，沉为在里。滑为实为下。（又为阳气衰。）数为虚为热。浮为风为虚。</p>
+<p>　　动为痛为惊。沉为水为实。（又为鬼疰。）弱为虚为悸。迟则为寒。涩则少血。缓则为虚。洪则为气。（一作热。）紧则为寒。弦数为疟。疟脉自弦，弦数多热，弦迟多寒。微则为虚。代散则死。弦为痛痹。（一作浮，为风疰。）偏弦为饮。双弦则胁下拘急而痛，其人涩涩恶寒。脉大寒热在中。脉伏者霍乱。安卧脉盛，谓之脱血。凡亡汗，肺中寒，饮冷水，咳嗽，下利，胃中虚冷，此等其脉并紧。浮而大者，为风，又为中风头重鼻寒。浮而缓者，皮肤不仁，风寒入肌肉。滑而浮散者，瘫痪风。滑为鬼疰。</p>
+<p>　　涩而紧痹病。浮洪大长者，风眩癫疾。大坚疾者，癫病。弦而钩，胁下如刀刺，状如蜚尸，至困不死。紧而急者遁尸。洪大者，伤寒热病。浮洪大者，伤寒，秋吉春成病。浮而滑者，宿食。浮滑而疾者，食不消脾不磨。短疾而滑，酒病。浮而细滑，伤饮。迟而涩，中寒有结。快而紧，积聚有击痛。弦急，疝瘕小腹痛，又为癖病（一作痹病。）迟而滑者，胀。盛而紧者，胀。弦小者，寒。沉而弦者，悬饮内痛。弦数，有寒饮，冬夏难治。紧而滑者，吐逆。小弱而涩，胃反。迟而缓者，有寒。微而紧者，有寒。沉而迟者，腹脏有冷病。微弱者，有寒少气。实紧，胃中有寒，若不能食，时时利者，难治。（一作时时呕稽难治。）滑数，心下结热盛。滑疾，胃中有热。缓而滑，曰热中。</p>
+<p>　　沉而急，病伤暑，暴发虚热。浮而绝者，气病。大而滑者，短气。浮短者，其人肺伤诸气微少，不过一年死，法当咳嗽。沉而数，中水，冬不治自愈。短而数，心痛心烦。弦而紧，胁痛，脏伤有瘀血。（一作有寒血。）沉而滑，为下重，亦为膂痛。脉细而滑，按之虚，因急持直者，僵仆从高堕下，病在内。微浮者，秋吉冬成病。微数，虽甚不成病，不可劳。浮滑疾紧者，以合百病久易愈。阳邪来见浮洪。阴邪来见沉细。水谷来见坚实。脉来乍大乍小，乍长乍短者，为祟。脉来洪大袅袅者，祟。脉来沉沉泽泽，四肢不仁而重者，土祟。脉与肌肉相得，久持之至者，可下之。弦小紧者，可下之。紧而数，发寒热，必下乃愈。弦迟者，宜温药。紧数者？</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12836.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12838.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

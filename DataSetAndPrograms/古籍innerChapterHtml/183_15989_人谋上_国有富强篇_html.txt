@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·人谋上·国有富强篇_古诗文网
+</title>
+<meta content="经曰：国之所以富强者，审权以操柄，审数以御人。课农者，术之事，而富在粟；谋战者，权之事，而强在兵。故曰：「兴兵而伐叛，则武爵任；武爵任，则兵强。按兵而劝农桑，农桑劝，则国富。」国不" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_15989.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>人谋上·国有富强篇</b></span>
+<a href="javascript:PlayBookv(15989)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv15989" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay15989" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　经曰：国之所以富强者，审权以操柄，审数以御人。课农者，术之事，而富在粟；谋战者，权之事，而强在兵。故曰：「兴兵而伐叛，则武爵任；武爵任，则兵强。按兵而劝农桑，农桑劝，则国富。」国不法地，不足以成其富；兵不法谋，不足以成其强。古者，圣人法天而皇，贤君法地而帝，智主法人而伯，乘天之时，因地之利，用人之力，乃可富强。</p>
+<p>　　乘天之时者，春植谷、秋植麦、夏长成、冬备藏。因地之利者，国有沃野之饶，而人不足於食者，器用不备也；国有山海之利，而人不足於财者，商旅不备也。通四方之珍异，以有易无，谓之商旅。饬力以长地之财，用资军实，谓之农。夫理丝麻，以成衣服，谓之女功。云梦之毛羽，黔溪之丹砂，荆扬之皮革角骨，江衡之柟梓，会稽之竹箭，燕齐之鱼盐旃裘，兖豫之漆枲絺苎，郑之刀，宋之斤，鲁之削，吴之剑，燕之角，荆之簳，汾胡之笴，吴越之金锡，此地之财也。燕之涿鹿，赵之邯郸，魏之温轵，韩之荥阳，齐之临淄，陈之宛邱，郑之阳翟，洛川之二周，越之具区，楚之云梦，齐之钜鹿，宋之孟瀦，此地之良也。非有灾害疾病而贫者，非惰则奢；世无奇业而独富贵者，非俭则力。同列而相臣篇者，贫富使然也；同贯而相兼并者，强弱使然也；同地而或强或弱者，理乱使然也。苟有道理，地足容身，事可致也；苟有市井，交易所通，货财可积也。</p>
+<p>　　夫有容身之地，智者不言弱；有市井之利；智者不言贫。地诚任，不患无财；人诚用；不畏强御﹖故神农教耕而王天下，汤武战伐而服诸侯。国愚，则智可以强国；国智，则力可以强人。用智者，可以强於内而富於外；用力者，可以富於内而强於外。是以，汉武帝南平百粤，以为园囿；却羌胡，以为苑圃。珍怪异物，充於後宫；騊駼駃騠；实於外厩。匹庶乘坚良人，间厌柚橘，此谓智强於内而富於外。秦孝公行垦草之令，使商不得籴、农不得粜；废逆旅、禁山泽、贵酒肉之价、重关市之赋，使农佚而商劳。行之数年而仓庾实，人知礼义。至於始皇，以为之资，东向而并诸侯，此为力富於内而强於外也。故知王之业，非智不战，非农不瞻，过此以往而致富强者，未之有也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_15988.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_15990.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

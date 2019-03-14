@@ -1,0 +1,116 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷一·十二经水第七_古诗文网
+</title>
+<meta content="黄帝问曰∶经脉十二者，外合于十二经水而内属于五脏六腑。夫十二经水者，受水而行之。五脏者，合神气魂魄而藏之。六腑者，受谷而行之，受气而扬之。经脉者，受血而营之。合而以治奈何？刺之深浅" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12506.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·十二经水第七</b></span>
+<a href="javascript:PlayBookv(12506)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12506" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12506" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　黄帝问曰∶经脉十二者，外合于十二经水而内属于五脏六腑。夫十二经水者，受水而行之。五脏者，合神气魂魄而藏之。六腑者，受谷而行之，受气而扬之。经脉者，受血而营之。合而以治奈何？刺之深浅，灸之壮数，可得闻乎？岐伯对曰∶脏之坚脆，腑之大小，谷之多少，脉之长短，血之清浊，气之多少，十二经中多血少气，与其少血多气，与其皆多气血，与其皆少血气，皆有定数。其治以针灸，各调其经气，固其常有合也。此人之参天地而应阴阳，不可不审察之也。</p>
+<p>　　足阳明外合于海水，内属于胃。</p>
+<p>　　足太阳外合于清水，内属于膀胱，而通水道焉。</p>
+<p>　　足少阳外合于渭水，内属于胆。</p>
+<p>　　足太阴外合于湖水，内属于脾。</p>
+<p>　　足厥阴外合于沔水，内属于肝。</p>
+<p>　　足少阴外合于汝水，内属于肾。</p>
+<p>　　手阳明外合于江水，内属于大肠。</p>
+<p>　　手太阳外合于淮水，内属于小肠，而水道出焉。</p>
+<p>　　手少阳外合于漯水，内属于三焦。</p>
+<p>　　手太阴外合于河水，内属于肺。</p>
+<p>　　手心主外合于漳水，内属于心包。</p>
+<p>　　手少阴外合于济水，内属于心。</p>
+<p>　　凡此五脏六腑十二经水者，皆外有源泉而内有所禀，此皆内外相贯，如环无端。人经亦然。故天为阳，地为阴，腰以上为天，下为地。故海以北者为阴，湖以北者为阴中之阴，漳以南者为阳，河以北至漳者为阳中之阴，漯以南至江者为阳中之阳，此一州之阴阳也。此人所以与天地相参也。</p>
+<p>　　曰∶夫经水之应经脉也，其远近之浅深，水血之多少，各不同。合而刺之奈何？曰∶足阳明五脏六腑之海也，其脉大而血多气盛热壮，刺此者不深弗散，不留不写。</p>
+<p>　　足阳明多血气，刺深六分，留十呼。</p>
+<p>　　足少阳少血气，刺深四分，留五呼。</p>
+<p>　　足太阳多血气，刺深五分，留七呼。</p>
+<p>　　足太阴多血少气，刺深三分，留四呼。</p>
+<p>　　足少阴少血多气，刺深二分，留三呼。</p>
+<p>　　足厥阴多血少气，刺深一分，留一呼。</p>
+<p>　　手之阴阳，其受气之道近，其气之来也疾，其刺深皆无过二分，留皆无过一呼。其少长小大肥瘦，以心料之，命曰法天之常，灸之亦然。灸而过此者，得恶火则骨枯脉涩，刺而过此者则脱气。</p>
+<p>　　曰∶夫经脉之大小，血之多少，肤之浓薄，肉之坚脆，及 之大小，可以为度量乎？</p>
+<p>　　曰∶其可为量者，取其中度者也，不甚脱肉而血气不衰者也。若失度人之 （音消，渴病）瘦而形肉脱者，乌可以度量刺乎。审切循扪按，视其寒温盛衰而调之，是谓因适而为之真也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12505.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12507.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

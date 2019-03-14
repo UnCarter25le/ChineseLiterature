@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+山海经·海经·大荒西经_古诗文网
+</title>
+<meta content="西北海之外，大荒之隅，有山而不合，名曰不周负子，有两黄兽守之。有水曰寒署之水。水西有湿山，水东有幕山。有禹攻共工国山。　　有国名曰淑士，颛顼之子。　　有神十人，名曰女娲之肠，化为神" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left16" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>海经·大荒西经</b></span>
+<a href="javascript:PlayBookv(16)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(16)" id="leftbtn16" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay16" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+　　西北海之外，大荒之隅，有山而不合，名曰不周负子，有两黄兽守之。有水曰寒署之水。水西有湿山，水东有幕山。有禹攻共工国山。<br/>　　有国名曰淑士，颛顼之子。<br/>　　有神十人，名曰女娲之肠，化为神，处栗广之野；横道而处。<br/>　　有人名曰石夷，来风曰韦，处西北隅以司日月之长短。<br/>　　有五采之鸟，有冠，名曰狂鸟。<br/>　　有大泽之长山。有白氏之国。<br/>　　西北海之外，赤水东，有长胫之国。<br/>　　有西周之国，姬姓，食谷。有人方耕，名曰叔均。帝俊生后稷，稷降以谷。稷之曰台玺，生叔均。叔均是代其父及稷播百谷，始作耕。有赤国妻氏。有双山。<br/>　　西海之外，大荒之中，有方山者，上有青树，名曰柜格之松，日月所出入也。<br/>　　西北海之外，赤水之西，有先民之国，食谷，使四鸟。<br/>　　有北狄之国。黄帝之孙曰始均，始均生北狄。<br/>　　有芒山。有桂山。有榣山，其上有人，号曰太子长琴。颛顼生老童，老童生祝融，祝融生太子长琴，是处榣山，始作乐风。<br/>　　有五采鸟三名：一曰皇鸟，一曰鸾鸟，一曰凤鸟。<br/>　　有虫状如菟，胸以后者裸不见，青如猨状。<br/>　　大荒之中，有山名曰丰沮玉门，日月所入。<br/>　　有灵山，巫咸、巫即、巫盼、巫彭、巫姑、巫真、巫礼、巫抵、巫谢、巫罗十巫，从此升降，百药爰在。<br/>　　西有王母之山，壑山、海山。有沃之国，沃民是处。沃之野，凤鸟之卵是食，甘露是饮。凡其所欲其味尽存。爰有甘华、璇瑰、甘柤、瑶碧、白木、白柳、视肉、琅玕、白丹、青丹、多银铁。鸾凤自歌，凤鸟自舞，爰有百兽，相群是处，是谓沃之野。<br/>　　有三青鸟，赤首黑目，一名曰大鵹，一曰少鵹，一名曰青鸟。<br/>　　有轩辕之台，射者不敢西向射，畏轩辕之台。<br/>　　大荒之中，有龙山，日月所入。有三泽水，名曰三淖，昆吾之所食也。<br/>　　有人衣青，以袂蔽面，名曰女丑之尸。<br/>　　有女子之国。<br/>　　有桃山。有虻山。有桂山。有于土山。<br/>　　有丈夫之国。<br/>　　有弇州之国，五采之鸟仰天，名曰鸣鸟。爰有百乐歌舞之凤。<br/>　　有轩辕之国。江山之南栖为吉。不寿者乃八百岁。<br/>　　西海郩中，有神，人面鸟身，珥两青蛇，践两赤蛇，名曰弇兹。<br/>　　大荒之中，有山名曰日月山，天枢也。吴姖天门，日月所入。有神，人面无臂，两足反属于头山，名曰嘘。颛顼生老童，老童生重及黎，帝令重献上天，令黎邛下地。下地是生噎，处于西极，以行日月星辰之行次。<br/>　　有人反臂，名曰天虞。<br/>　　有女子方浴月。帝俊妻常羲，生月十有二，此始浴之。<br/>　　行玄丹之山。有五色之鸟，人面有发。爰有青鴍、黄鷔、青鸟、黄鸟，其所集者其国亡。<br/>　　有池，名孟翼之攻颛顼之池。<br/>　　大荒之中，有山名曰鏖鏊钜，日月所入者。<br/>　　有兽，左右有首，名曰屏蓬。<br/>　　有巫山者。有壑山者。有金门之山，有人名曰黄姖之尸。有比翼之鸟。有白鸟，青翼，黄尾，玄喙。有赤犬，名曰天犬，其所下者有兵。<br/>　　西海之南，流沙之滨，赤水之后，黑水之前，有大山，名曰昆仑之丘。有神，人面虎身，有文有尾，皆白，处之。其下有弱水之渊环之，其外有炎火之山，投物辄然。有人戴胜，虎齿，有豹尾，穴处，名曰西王母。此山万物尽有。<br/>　　大荒之中，有山名曰常阳之山，日月所入。<br/>　　有寒荒之国。有二人女祭、女囗。<br/>　　有寿麻之国。南岳娶州山女，名曰女虔。女虔生季格，季格生寿麻。寿麻正立无景，疾呼无响。爰有大暑，不可以往。<br/>　　有人无首，操戈盾立，名曰夏耕之尸。故成汤伐夏桀于章山，克之，斩耕厥前。耕既立，无首，走厥咎，乃降于巫山。<br/>　　有人名曰吴回，奇左，是无右臂。<br/>　　有盖山之国。有树，赤皮枝干，青叶，名曰朱木。<br/>　　有一臂民。<br/>　　大荒之中，有山，名曰大荒之山，日月所入。有人焉三面，是颛顼之子，三面一臂，三面之人不死。是谓大荒之野。<br/>　　西南海之外，赤水之南，流沙之西，有人珥两青蛇，乘两龙，名曰夏后开。开上三嫔于天，得《九辩》与《九歌》以下。此天穆之野，高二千仞，开焉得始歌《九招》。<br/>　　有互人之国。炎帝之孙名曰灵恝生百互人，是能上下于天。<br/>　　有鱼偏枯，名曰鱼妇。颛顼死即复苏。风道北来，天及大水泉，蛇乃化为鱼，是为鱼妇。颛顼死即复苏。<br/>　　有青鸟，身黄，赤足，六首，名曰鸀鸟。<br/>　　有大巫山。有金之山。西南，大荒之中隅，有偏句、常羊之山。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_15.aspx">上一章</a>
+<a href="/guwen/book_1.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right16" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+滴天髓阐微·上篇·精神_古诗文网
+</title>
+<meta content="人有精神，不可以一偏求也，要在损之益之得其中。【原注】精气神气皆无气也，五行大率以金水为精气，木火为神气，而土所以实之者也。有神人不见其精，而精自足者，有精足不见其神，而神自足者；" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16275.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上篇·精神</b></span>
+<a href="javascript:PlayBookv(16275)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16275" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16275" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%ba%ac%e5%9b%be">京图</a></p>
+<div class="contson">
+<p>　　人有精神，不可以一偏求也，要在损之益之得其中。</p>
+<p>　　【原注】精气神气皆无气也，五行大率以金水为精气，木火为神气，而土所以实之者也。有神人不见其精，而精自足者，有精足不见其神，而神自足者；有精缺神索，而日主虚旺者；有精缺神索，而日主孤弱者，有神不足而精有余者，有精不足而神有余者，有精神俱缺而气旺；有精神俱旺而气衰，有精缺得神以助之者，有神缺得精以生之者，有精助精而精反泄无气者，有神助神而神反毙无气者，二者皆由气以主之也。凡此皆不可以一偏求也，俱要损益其进退，不可使有过不及也。</p>
+<p>　　【任氏曰】：</p>
+<p>　　精者，生我之神也；神者，克我之物也；气者，本气贯足也。二者以精为主，精足则气旺，气旺则神旺，非专以金水为精气，木火为神气也。本文末句云：“要在损之益之得其中”，显非金水为精，木火为神，必得流通生化，损益适中，则精气神三者备矣。细究之，不特日主用神体象有精神，即五行皆有也。有余者则损之，不足则益之，虽一定理，然亦有一定中之不定也，惟在审察“得其中”三字而已。损者，克制也；益者，生扶也。有余损之，也有余者宜泄之；不足益之，过不足者宜去之。此损益之妙用也。</p>
+<p>　　盖过于有余，损之反触其怒，则宜顺其有余而泄之；过于不足，益不受补，则宜从其不足而去之，是不可以一偏求也。总之精太足宜益其气，气太旺宜助其神，神太泄宜滋其精，则生化流通，神清气壮矣。如精太足，反损其气，气太旺，反伤其神，神太泄，反抑其精，则偏枯杂乱，精索神枯矣。所以水泛木浮，木无精神；木多火炽，火无精神；火炎金无精神；金多水弱，水无精神。原注以金水为精气，木火为神气者，此由脏而论也。以肺属金，以肾属水，金水相生，藏于里，故为精气，以肝属木，以心属火，木火相生，发于表，故为神气，以脾属土，贯于周身，上所以实之也。若论命中之表里精神，则不以金木水火为精神也，譬如旺者宜泄，泄神得为精足，此从里发于表，而神自足矣；旺者宜克，克神有力为神足，此由表达于里，而精自足矣，如土生于四季月，四柱土多无木，或干透庚辛，或支藏申酉，此谓里发于表，精足神定；如土多无金，或干透甲乙，或支藏寅卯，此谓表达于里，神足精安；土论如此，五行皆同，宜细究之。</p>
+<p>　　癸酉 甲子 丙寅 戊戌</p>
+<p>　　癸亥 壬戌 辛酉 庚申 己未 戊午</p>
+<p>　　此造以甲木为精，衰木得水滋，而逢寅禄为精足，以戊土为神，坐戌通根，寅戌拱之为神旺。官生印，印生身，坐下长生为气贯流通，生化五行俱足。左右上下情协不悖，官来能挡，劫来有官，食来有印，东西南北之运，皆可行也，所以一生富贵福寿 ，可谓美矣。</p>
+<p>　　癸未 乙卯 丙辰 庚寅</p>
+<p>　　甲寅 癸丑 壬子 辛亥 庚戌 己酉</p>
+<p>　　此造以大势观之，官印相生，偏财时遇，五行不缺，四柱纯粹，俨然贵格，不如财官两字休囚，又遥隔不能相顾，支全寅、卯、辰。春土克尽，不能生金，金临绝地，不能生水，水之气尽泄于木，木之势愈旺而火炽，火炽则气毙，气毙则神枯。行运北方，又伤丙火之气，反助取木之精；即逢金运，所谓过于有余，损之反角其触，以致终身碌碌 ，名利无成出。</p>
+<p>　　戊戌 乙丑 丙辰 己丑</p>
+<p>　　甲子 癸亥 壬戌 辛酉 庚申 己未</p>
+<p>　　此四柱皆土，命主元神，泄尽月干，乙木凋枯，所谓精气枯索。运逢壬戌，本主受伤；年逢辛未，紧克乙木，卒于九月患弱症而亡。</p>
+<p>　　此造运用逆行，大抵是枯命。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16274.aspx">上一章</a>
+<a href="/guwen/book_189.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16276.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

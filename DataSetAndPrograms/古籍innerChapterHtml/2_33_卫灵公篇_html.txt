@@ -1,0 +1,136 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+论语·卫灵公篇_古诗文网
+</title>
+<meta content="卫灵公问陈于孔子，孔子对曰：“俎豆之事，则尝闻之矣；军旅之事，未之学也。”明日遂行。在陈绝粮，从者病莫能兴。子路愠见曰：“君子亦有穷乎？”子曰：“君子固穷，小人穷斯滥矣。”子曰：“" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_33.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left774" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卫灵公篇</b></span>
+<a href="javascript:PlayBookv(33)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv33" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(774)" id="leftbtn774" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay33" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>卫灵公问陈于孔子，孔子对曰：“俎豆之事，则尝闻之矣；军旅之事，未之学也。”明日遂行。</p>
+<p>在陈绝粮，从者病莫能兴。子路愠见曰：“君子亦有穷乎？”子曰：“君子固穷，小人穷斯滥矣。”</p>
+<p>子曰：“赐也，女以予为多学而识之者与？”对曰：“然，非与？”曰：“非也，予一以贯之。”</p>
+<p>子曰：“由，知德者鲜矣。”</p>
+<p>子曰：“无为而治者其舜也与！夫何为哉？恭己正南面而已矣。”</p>
+<p>子张问行，子曰：“言忠信，行笃敬，虽蛮貊之邦行矣；言不忠信，行不笃敬，虽州里行乎哉？立则见其参于前也；在舆则见其倚于衡也，夫然后行。”子张书诸绅。</p>
+<p>子曰：“直哉史鱼！邦有道如矢，邦无道如矢。君子哉蘧伯玉！邦有道则仕，邦无道则可卷而怀之。”</p>
+<p>子曰：“可与言而不与之言，失人；不可与言而与之言，失言。知者不失人亦不失言。”</p>
+<p>子曰：“志士仁人无求生以害仁，有杀身以成仁。”</p>
+<p>子贡问为仁，子曰：“工欲善其事，必先利其器。居是邦也，事其大夫之贤者，友其士之仁者。”</p>
+<p>颜渊问为邦，子曰：“行夏之时，乘殷之辂，服周之冕，乐则《韶》、《舞》；放郑声，远佞人。郑声淫，佞人殆。”</p>
+<p>子曰：“人无远虑，必有近忧。”</p>
+<p>子曰：“已矣乎！吾未见好德如好色者也。”</p>
+<p>子曰：“臧文仲其窃位者与！知柳下惠之贤而不与立也。”</p>
+<p>子曰：“躬自厚而薄责于人，则远怨矣。”</p>
+<p>子曰：“不曰‘如之何、如之何’者，吾末如之何也已矣。”</p>
+<p>子曰：“群居终日，言不及义，好行小慧，难矣哉！”</p>
+<p>子曰：“君子义以为质，礼以行之，孙以出之，信以成之。君子哉！”</p>
+<p>子曰：“君子病无能焉，不病人之不己知也。”</p>
+<p>子曰：“君子疾没世而名不称焉。”</p>
+<p>子曰：“君子求诸己，小人求诸人。”</p>
+<p>子曰：“君子矜而不争，群而不党。”</p>
+<p>子曰：“君子不以言举人，不以人废言。”</p>
+<p>子贡问曰：“有一言而可以终身行之者乎？”子曰：“其恕乎！己所不欲，勿施于人。”</p>
+<p>子曰：“吾之于人也，谁毁谁誉？如有所誉者，其有所试矣。斯民也，三代之所以直道而行也。”</p>
+<p>子曰：“吾犹及史之阙文也，有马者借人乘之，今亡矣夫！”</p>
+<p>子曰：“巧言乱德，小不忍，则乱大谋。”</p>
+<p>子曰：“众恶之，必察焉；众好之，必察焉。”</p>
+<p>子曰：“人能弘道，非道弘人。”</p>
+<p>子曰：“过而不改，是谓过矣。”</p>
+<p>子曰：“吾尝终日不食、终夜不寝以思，无益，不如学也。”</p>
+<p>子曰：“君子谋道不谋食。耕也馁在其中矣，学也禄在其中矣。君子忧道不忧贫。”</p>
+<p>子曰：“知及之，仁不能守之，虽得之，必失之；知及之，仁能守之，不庄以莅之，则民不敬；知及之，仁能守之，庄以莅之，动之不以礼，未善也。”</p>
+<p>子曰：“君子不可小知而可大受也，小人不可大受而可小知也。”</p>
+<p>子曰：“民之于仁也，甚于水火。水火，吾见蹈而死者矣，未见蹈仁而死者也。”</p>
+<p>子曰：“当仁不让于师。”</p>
+<p>子曰：“君子贞而不谅。”</p>
+<p>子曰：“事君，敬其事而后其食。”</p>
+<p>子曰：“有教无类。”</p>
+<p>子曰：“道不同，不相为谋。”</p>
+<p>子曰：“辞达而已矣。”</p>
+<p>师冕见，及阶，子曰：“阶也。”及席，子曰：“席也。”皆坐，子告之曰：“某在斯，某在斯。”师冕出。子张问曰：“与师言之道与？”子曰：“然，固相师之道也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_32.aspx">上一章</a>
+<a href="/guwen/book_2.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_34.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right774" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+二刻拍案惊奇·叙_古诗文网
+</title>
+<meta content="尝记《博物志》云：“汉刘褒画《云汉图》，见者觉热；又画《北风图》，见者觉寒。”窃疑画本非真，何缘至是？然犹曰人之见为之也。甚而僧繇点晴，雷电破壁；吴道玄画殿内五龙，大雨辄生烟雾。是" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12058.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>叙</b></span>
+<a href="javascript:PlayBookv(12058)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12058" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12058" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%87%8c%e6%bf%9b%e5%88%9d">凌濛初</a></p>
+<div class="contson">
+<p>　　尝记《博物志》云：“汉刘褒画《云汉图》，见者觉热；又画《北风图》，见者觉寒。”窃疑画本非真，何缘至是？然犹曰人之见为之也。甚而僧繇点晴，雷电破壁；吴道玄画殿内五龙，大雨辄生烟雾。是将执画为真，则既不可，若云赝也，不已胜于真者乎？然则操觚之家，亦若是焉则已矣。</p>
+<p>　　今小说之行世者，无虑百种，然而失真之病，起于好奇。知奇之为奇，而不知无奇之所以为奇。舍目前可纪之事，而驰骛于不论不议之乡，如画家之不图犬马而图鬼魅者，曰：“吾以骇听而止耳。”夫刘越石清啸吹笳，尚能使群胡流涕，解围而去。今举物态人情，恣其点染，而不能使人欲歌欲泣于其间。此其奇与非奇、固不待智者而后知之也。则为之解曰：“文自《南华》、《冲虚》，已多寓言；下至非有先生、冯虚公子，安所得其真者而寻之？”不知此以文胜，非以事胜也。至演义一家，幻易而真难，固不可相衡而论矣。即如《西游》一记，怪诞不经，读者皆知其谬。然据其所载，师弟四人，各一性情，各一动止，试摘取其一言一事，遂使暗中摹索，亦知其出自何人，则正以幻中有真，乃为传神阿堵。而已有不如《水浒》之讥。岂非真不真之关，固奇不奇之大较也哉？</p>
+<p>　　即空观主人者，其人奇，其文奇，其遇亦奇。因取其抑塞磊落之才，出绪余以为传奇，又降而为演义，此《拍案惊奇》之所以两刻也。其所捃摭，大都真切可据。即间及神天鬼怪，故如史迁纪事，摹写逼真，而龙之踞腹，蛇之当道，鬼神之理，远而非无，不妨点缀域外之观，以破俗儒之隅见耳。若夫妖艳风流一种，集中亦所必存。唯污蔑世界之谈，则戛戛乎其务去。鹿门子常怪宋广平之为人，意其铁心石肠，而为《梅花赋》，则清便艳发，得南朝徐庾体。由此观之，凡托于椎陋以眩世，殆有不足信者夫。王人之言固曰：“使世有能得吾说者，以为忠臣孝子无难；而不能者，不至为宣淫而已矣。”此则作者之苦心，又出于平平奇奇之外者也。</p>
+<p>　　时剞劂告成，而主人薄游未返，肆中急欲行世，征言于余。余未知搦管，毋乃“刻画无盐，唐突西子”哉！亦曰“簸之扬之，糠秕在前”云尔。</p>
+<p>　　壬申冬日　睡乡居士题并书</p>
+<p>　　小　引</p>
+<p>　　丁卯之秋事，附肤落毛，失诸正鹄，迟因白门。偶戏取古今所闻一二奇局可纪者，演而成说，聊舒胸中磊块。非曰行之可远，姑以游戏为快意耳。同侪过从者索阅一篇竟，必拍案曰：“奇哉所闻乎！”为书贾所侦．因以梓传请。遂为钞撮成编，得四十种。支言俚说，不足供酱瓿；而冀飞胫走，较捻髭呕血、笔家研穿者，售不售反霄壤隔也。嗟乎，文讵有定价乎？贾人一试之而效，谋再试之。余笑谓：“一之已甚。”顾逸事新语可佐谈资者，乃先是所罗而未及付之于墨，其为柏梁余材、武昌剩竹，颇亦不少。意不能忽，聊复缀为四十则。其间说鬼说梦，亦真亦诞，然意存劝戒，不为风雅罪人，后先一指也。竺乾氏以此等亦为绮语障。作如是观，虽现稗官身为说法，恐维摩居士知贡举，又不免驳放耳。</p>
+<p>　　崇祯壬申冬日　即空观主人题于玉光斋中 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_126.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12059.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

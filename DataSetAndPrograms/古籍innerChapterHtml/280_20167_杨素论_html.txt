@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+何博士备论·杨素论_古诗文网
+</title>
+<meta content="战必胜、攻必取者，将之良能也。良将之所挟，亦曰智、勇而已。徒智而无勇，则遇勇而挫；徒勇而无智，则遇智而蹶。智足以役勇，勇足以济智，然后以战必胜，以攻必取，天下其孰能当之！昔者杨素之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20167.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>杨素论</b></span>
+<a href="javascript:PlayBookv(20167)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20167" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20167" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%95%e5%8e%bb%e9%9d%9e">何去非</a></p>
+<div class="contson">
+<p>　　战必胜、攻必取者，将之良能也。良将之所挟，亦曰智、勇而已。徒智而无勇，则遇勇而挫；徒勇而无智，则遇智而蹶。智足以役勇，勇足以济智，然后以战必胜，以攻必取，天下其孰能当之！</p>
+<p>　　昔者杨素之于隋，可谓一代之名将矣。而贺若弼评之，谓其特猛将耳，非所谓谋将也。甚哉！弼之过于自负而轻于议人也。隋自平陈之后，素已为统帅矣。其克敌斩将，攻策为多。既俘陈主，而江湖海岱群盗蜂起，大者数万，小者数千，而素专阃外之权，转战万里，穷越岭海，无向不灭。已而突厥犯塞，宗室称兵，而社稷危矣。素之授钺专征，其所摧陷者不可胜计，遂靖边氛，而清内难。然素之兵未尝小衄，隋功臣无与比肩者，其为烈亦至矣。而弼犹不以谋将处之，特曰猛而已。夫目之以猛，而不许之以谋，盖所谓徒勇而无智者矣。考素之功烈如此，苟其智之不逮，则凡所以决机取胜者，其谁之谋也？自隋文平一天下，所谓名将者，独韩擒虎、贺若弼、史万岁与素耳。擒、弼自平陈之后，不获立尺寸之效，独史万岁从素征讨，以骁勇称。而弼乃以大将自处，而目是三人者皆不能尽其材，亦见其不知量，而务以其私言动世主也。</p>
+<p>　　素之驭戎，严整而喜诛。每战必求士之过失者斩之以令，常至百辈。而先以数百人赴敌陷阵，不能而还却者悉斩之。复进以数百人，期必陷阵而止。是以士皆必死，前无坚敌。此弼之所以得目之为猛也。嗟乎！素非有忍于士也，以为士之必死者乃所以决生，必生者乃所以决死故也。唐之善于兵者，无若李靖，其为书曰：“畏我者不畏敌，畏敌者不畏我。是以古之名将，十卒而杀其三者，威震于敌国；杀其一者，令行于三军。”靖岂以卒为不足爱哉？以为杀一而百奋，则奋者可期于胜也；纵一而百惰，则惰者可期于败也。奋而克敌，与夫惰而为敌所克，则是杀者乃所以生之，爱者乃所以害之也。善为将者，能审乎此，则无恶乎其苟忍也。虽然，在素之术，有足以致胜，未足以为胜之工也。法曰：“兵无选锋曰北。”诗曰：“元戎十乘，以先启行。”其启行者，选锋之谓也。越王勾践之伐吴，其为士者数万，而又有君子六千人。所谓君子者，其选锋也。素之所使以陷阵者，其选锋之谓欤。然至有不克而还不免于诛者，疑其非选之特精，而养之素厚之士也。又尝观唐太宗之将，未尝先以其身亲搏战也。必以骁骑、劲旅而经营于其傍，或瞰临于其高，常若无意于战。其兵既交，其斗皆力而未决也，卒然率之而奋，士皆殊死，突贯其敌之阵而出其背，凡所撄者无不摧败。犹之二人之相搏也，材钧而力偶，方相持而未决也，卒然一夫起其旁而助之，则夫受助者蔑不胜矣。此法所谓以正合，以奇胜者也。使素之所用以为锋者，皆精其选，而又量敌之坚脆以遣之，其必足以陷敌，无至乎不克而还又加之诛，而常出于唐太宗之奇。则如弼者，亦何得而妄议矣？</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20166.aspx">上一章</a>
+<a href="/guwen/book_280.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20168.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

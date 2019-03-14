@@ -1,0 +1,134 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·天文部·夏_古诗文网
+</title>
+<meta content="天祺节宋真宗以四月一日为天祺节。麦秋《月令》：麦秋至。蔡邕章句曰：百谷各以生为春，熟为秋。故麦以夏为秋。浴佛王钦若于四月八日作放生会。《荆楚岁时记》：四月八日建斋，作龙华会，浴佛。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19173.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>天文部·夏</b></span>
+<a href="javascript:PlayBookv(19173)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19173" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19173" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>天祺节</strong></p>
+<p>　　宋真宗以四月一日为天祺节。</p>
+<p>　　<strong>麦秋</strong></p>
+<p>　　《月令》：麦秋至。蔡邕章句曰：百谷各以生为春，熟为秋。故麦以夏为秋。</p>
+<p>　　<strong>浴佛</strong></p>
+<p>　　王钦若于四月八日作放生会。《荆楚岁时记》：四月八日建斋，作龙华会，浴佛。</p>
+<p>　　<strong>小满</strong></p>
+<p>　　四月中小满后阴，一日生一分，积三十分，而成一昼，为夏至。四月干之终，谓之满者，言阴气自此而生发也。又孟夏万物生长稍得盈满，故云小满。</p>
+<p>　　<strong>霉</strong>（左黑右贞）</p>
+<p>　　一作霉（左黑右贞）。俗云：早间芒种晚间霉。又云：夏至落雨主重霉，小暑落雨主三霉。</p>
+<p>　　<strong>躤柳</strong></p>
+<p>　　五月五日，士人于郊野或演武场走马较射，谓之躤柳。</p>
+<p>　　<strong>制百药</strong></p>
+<p>　　午日午时，头柄正掩五鬼，于此时制百药，无不灵验。</p>
+<p>　　<strong>采艾</strong></p>
+<p>　　师旷制，五日采艾占病。齐景公制，五日百索悬臂及钗头符。</p>
+<p>　　<strong>续命缕</strong></p>
+<p>　　午日以五彩丝系臂上，谓之续命缕，辟兵及鬼，令人不病。</p>
+<p>　　<strong>角黍</strong></p>
+<p>　　屈原午日投汨罗，楚人以竹筒贮米，投水祭之。有欧回者见三闾大夫，曰：“君所祭物，多为蛟龙所夺，须裹以楝树叶，五彩丝缚之，可免龙患。”故后人制为角黍。一曰唐天宝中，宫中五日造粉团角食，以小角弓射之，中者方食，故曰角黍。</p>
+<p>　　<strong>竞渡</strong></p>
+<p>　　屈原以五日死，楚人以舟楫拯之，谓之竞渡。又曰：五日投角黍以祭屈原，恐为蛟龙所夺，故为龙舟以逐之。</p>
+<p>　　<strong>五瑞</strong></p>
+<p>　　端阳日以石榴、蔡花、菖蒲、艾叶、黄栀花插瓶中，谓之五瑞，辟除不祥。</p>
+<p>　　<strong>五毒</strong></p>
+<p>　　蛇、虎、蜈蚣、蝎、蟾蜍，谓之五毒。官家或绘之宫扇，或织之袍缎，午日服用之，以辟瘟气。</p>
+<p>　　<strong>赐枭羹</strong></p>
+<p>　　《郊祀志》：汉令郡国进枭鸟，五日为羹，赐百官，以恶鸟故食之，以辟诸恶也。</p>
+<p>　　<strong>浴兰汤</strong></p>
+<p>　　五月五日蓄兰为汤以沐浴。《楚辞·离骚》：“浴兰汤兮沐芳华。”</p>
+<p>　　<strong>天贶节</strong></p>
+<p>　　宋祥符四年，诏六月六日天书再降，为天贶节。</p>
+<p>　　<strong>夏至数九</strong></p>
+<p>　　一九和二九，扇子不离手；三九二十七，饮水甜如蜜；四九三十六，拭汗如出浴；五九四十五，头带黄叶舞；六九五十四，乘凉入佛寺；七九六十三，床头寻被单；八九七十二，思量盖夹被；九九八十一，家家打炭墼。</p>
+<p>　　<strong>赐肉</strong></p>
+<p>　　《汉书》：伏日诏赐诸郎肉，东方朔拔剑割肉，谓其同官曰：“伏日宜早归，请受赐。”即怀肉而去。</p>
+<p>　　<strong>三伏</strong></p>
+<p>　　立春、立夏、立冬皆以相生而代。至于立秋，以金代火。金畏火，故至庚日必伏。盖庚者金也。夏至后第三庚为初伏，四庚为中伏，立秋后初庚为末伏。秦穆公于是日进辟恶饼。</p>
+<p>　　<strong>天中节</strong></p>
+<p>　　《提要录》：“端午为天中节。”又曰蒲节，以是日用菖蒲泛酒故耳。</p>
+<p>　　<strong>竹醉日</strong></p>
+<p>　　五月十日为竹醉日。是日移竹易活。又三伏内斫竹则不蛀。<br/></p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19172.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19174.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

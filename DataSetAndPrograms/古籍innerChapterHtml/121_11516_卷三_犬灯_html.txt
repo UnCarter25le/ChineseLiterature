@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷三·犬灯_古诗文网
+</title>
+<meta content="韩光禄大千之仆夜宿厦间，见楼上有灯如明星，未几，荧荧飘落，及地化为犬。睨之，转舍后去，急起潜尾之，入院中化为女子。心知其狐，还卧故所。俄女子自后来，仆佯寐以观其变。女俯而撼之，仆伪" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11516.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·犬灯</b></span>
+<a href="javascript:PlayBookv(11516)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11516" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11516" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　韩光禄大千之仆夜宿厦间，见楼上有灯如明星，未几，荧荧飘落，及地化为犬。睨之，转舍后去，急起潜尾之，入院中化为女子。心知其狐，还卧故所。俄女子自后来，仆佯寐以观其变。女俯而撼之，仆伪作醒状，问其为谁，女不答。仆曰：“楼上灯光非子也耶？”女曰：“既知之，何问焉？”遂共宿之。昼别宵会以为常。</p>
+<p>　　主人知之，使二人夹仆卧，二人既醒，则身卧床下，亦不觉堕自何时。主人益怒，谓仆曰：“来时，当捉之来；不然则有鞭楚！”仆不敢言，诺而退，因念捉之难，不捉惧罪，展转无策。忽忆女子一小红衫密着其体，未肯暂脱，必其要害，执此可以胁之。夜来女至，问：“主人嘱汝捉我乎？”曰：“良有之。但我两人情好，何肯此为？”及寝，阴掬其衫，女急啼，力脱而去。从此遂绝。后仆自他方归，遥见女子坐道周，至前则举袖障面。仆下骑呼曰：“何作此态？”女乃起握手曰：“我谓子已忘旧好矣。既恋恋有故人意。情尚可原。前事出于主命，亦不汝怪也。但缘分已尽，今设小酌，请入为别。”时秋初，高梁正茂。女携与俱入，则中有巨第。系马而入，厅堂中酒肴已列。甫坐，群婢行炙。日将暮，仆有事欲覆主命，遂别，既出，则依然田陇耳。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11515.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11517.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

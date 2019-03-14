@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷三·马丹阳天星十二穴治杂病歌_古诗文网
+</title>
+<meta content="三里内庭穴，曲池合谷接。委中承山配，太冲昆仑穴。环跳与阳陵，通里并列缺。合担用法担，合截用法截。三百六十穴，不出十二诀。治病如神灵，浑如汤泼雪。北斗降真机，金锁教开彻。至人可传授，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18816.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·马丹阳天星十二穴治杂病歌</b></span>
+<a href="javascript:PlayBookv(18816)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18816" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18816" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　三里内庭穴，曲池合谷接。委中承山配，太冲昆仑穴。</p>
+<p>　　环跳与阳陵，通里并列缺。合担用法担，合截用法截。</p>
+<p>　　三百六十穴，不出十二诀。治病如神灵，浑如汤泼雪。</p>
+<p>　　北斗降真机，金锁教开彻。至人可传授，匪人莫浪说。</p>
+<p>　　其一：三里膝眼下，三寸两筋间。能通心腹胀，善治胃中寒，肠鸣并泄泻，腿肿膝胻酸，伤寒羸瘦损，气蛊及诸般。年过三旬后，针灸眼便宽。取穴当审的，八分三壮安。</p>
+<p>　　其二：内庭次指外，本属足阳明。能治四肢厥，喜静恶闻声，瘾疹咽喉痛，数欠及牙疼，疟疾不能食，针着便惺惺。针三分，灸三壮。</p>
+<p>　　其三：曲池拱手取，屈肘骨边求。善治肘中痛，偏风手不收，挽弓开不得，筋缓莫梳头，喉闭促欲死，发热更无休，遍身风癣癞，针着实时瘳（针五分，灸三壮）。</p>
+<p>　　其四：合谷在虎口，两指歧骨间。头疼并面肿，疟病热还寒，齿龋鼻衄血，口噤不开言。针入五分深，令人即便安（灸三壮）。</p>
+<p>　　其五：委中曲腘里，横纹脉中央。腰痛不能举，沉沉引脊梁，酸疼筋莫展，风痹复无常，膝头难伸屈，针入即安康（针五分，禁灸）。</p>
+<p>　　其六：承山名鱼腹，腨肠分肉间。善治腰疼痛，痔疾大便难，脚气并膝肿，辗转战疼酸，霍乱及转筋，穴中刺便安（针七分，灸五壮）。</p>
+<p>　　其七：太冲足大趾，节后二寸中。动脉知生死，能医惊痫风，咽喉并心胀，两足不能行，七疝偏坠肿，眼目似云朦，亦能疗腰痛，针下有神功（针三分，灸三壮）。</p>
+<p>　　其八：昆仑足外踝，跟骨上边寻。转筋腰尻痛，暴喘满冲心，举步行不得，一动即呻吟，若欲求安乐，须于此穴针（针五分，灸三壮）。</p>
+<p>　　其九：环跳在髀枢，侧卧屈足取。折腰莫能顾，冷风并湿痹，腿胯连腨痛，转侧重欷歔。若人针灸后，顷刻病消除（针二寸，灸五壮）。</p>
+<p>　　其十：阳陵居膝下，外腨一寸中。膝肿并麻木，冷痹及偏风，举足不能起，坐卧似衰翁，针入六分止，神功妙不同（灸三壮）。</p>
+<p>　　其十一：通里腕侧后，去腕一寸中。欲言声不出，懊恼及怔忡，实则四肢重，头腮面颊红，虚则不能食，暴喑面无容，毫针微微刺，方信有神功（针三分，灸三壮）。其十二：列缺腕侧上，次指手交叉。善疗偏头患，遍身风痹麻，痰涎频壅上，口噤不开牙，若能明补泻，应手即如拿（针三分，灸五壮）。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18815.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18817.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

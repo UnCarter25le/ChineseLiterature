@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷十·热在五脏发痿第四_古诗文网
+</title>
+<meta content="黄帝问曰∶五脏使人痿，何也？岐伯对曰∶肺主身之皮毛，心主身之血脉，肝主身之筋膜，脾主身之肌肉，肾主身之骨髓。故肺气热则叶焦，焦则皮毛虚弱急薄着，着则生痿矣。故心气热则下脉厥而上，上" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12615.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·热在五脏发痿第四</b></span>
+<a href="javascript:PlayBookv(12615)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12615" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12615" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　黄帝问曰∶五脏使人痿，何也？岐伯对曰∶肺主身之皮毛，心主身之血脉，肝主身之筋膜，脾主身之肌肉，肾主身之骨髓。故肺气热则叶焦，焦则皮毛虚弱急薄着，着则生痿矣。故心气热则下脉厥而上，上则下脉虚，虚则生脉痿，枢折 ，胫肿而不任地（《素问》作挈，肿作 ）。肝气热则胆热泄，口苦筋膜干，筋膜干则筋急而挛，发为筋痿。脾气热则胃干而渴，肌肉不仁，发为肉痿。肾气热则腰脊不举，骨枯而髓减，发为骨痿。</p>
+<p>　　曰∶何以得之？曰∶肺者脏之长也，为心之盖，有所亡失，所求不得，则发为肺鸣，鸣则肺热叶焦，发为痿 。悲哀太甚则胞络绝，胞络绝则阳气内动，发则心下崩，数溲血。故本病曰∶大经空虚，发为肌痹，传为脉痿。思想无穷，所愿不得，意淫于外，入房太甚，宗筋弛纵，发为筋痿，及为白淫。故《下经》曰∶筋痿生于肝，使内也。有渐于湿，以水为事，若有所留，居处伤湿，肌肉濡渍，痹而不仁，发为肉痿。故《下经》曰∶肉痿者得之湿地。有所远行劳倦，逢大热而渴，渴则阳气内伐，内伐则热合（《素问》作舍）于肾，肾者水脏，今水不胜火，则骨枯而髓空，故足不任身热，发为骨痿。故《下经》曰∶骨痿生于大热。曰∶何以别之？曰∶肺热者，色白而毛败；心热者，色赤而络脉溢；肝热者，色苍而爪枯；脾热者，色黄而肉蠕动；肾热者，色黑而齿槁。曰∶治痿者独取阳明。何谓也？曰∶阳明者，五脏六腑之海，主润宗筋。宗筋者，主束骨而利机关。冲脉者，经脉之海，主渗灌溪谷，与阳明合于宗筋。阴阳总宗筋之会，会于气冲，而阳明为之长，皆属于带脉，而络于督脉。故阳明虚则宗筋纵，带脉不引，故足痿不用。治之各补其营而通其俞，调其虚实，和其逆顺，则筋脉骨肉，各以其时受月，则病矣。痿厥为四末束闷，乃疾解之，日二，不仁者十日而知，无休病已止。</p>
+<p>　　足缓不收，痿不能行，不能言语，手足痿 不能行，地仓主之。痿不相知（一云身重骨痿不相知），太白主之。痿厥，身体不仁，手足偏小，先取京骨，后取中封、绝骨皆泻之。痿厥寒，足腕不收， ，坐不能起，髀枢脚痛，丘墟主之。虚则痿 ，坐不能起，实则厥，胫热肘痛，身体不仁，手足偏小，善啮颊，光明主之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12614.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12616.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

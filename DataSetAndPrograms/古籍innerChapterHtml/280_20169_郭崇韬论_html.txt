@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+何博士备论·郭崇韬论_古诗文网
+</title>
+<meta content="人谓汉高祖以布衣之微，召号豪杰，起定祸乱，乃瓜裂天下以王。勋将韩、彭、英布，皆连城数十，南面称孤，举天下之籍而据其半。及夫释甲就封，创血未干，皆相视诛灭。盖由高祖封赏过制，陷之骄逆" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20169.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>郭崇韬论</b></span>
+<a href="javascript:PlayBookv(20169)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20169" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20169" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%95%e5%8e%bb%e9%9d%9e">何去非</a></p>
+<div class="contson">
+<p>　　人谓汉高祖以布衣之微，召号豪杰，起定祸乱，乃瓜裂天下以王。勋将韩、彭、英布，皆连城数十，南面称孤，举天下之籍而据其半。及夫释甲就封，创血未干，皆相视诛灭。盖由高祖封赏过制，陷之骄逆，其于功臣不能无负。光武率义从之士，平夷盗逆，收还神器。天下既定，遂鉴高祖之失，第功行封，爵为通侯，大者不过数县，而不任以吏事。是以元勋故将，皆能自全。李请，谈兵之雄者也，亦以谓光武得将将之道，贤于高祖远甚。嗟乎！是皆不深求高祖、光祖之事者也。天下之事有所必然者，虽圣智不能迁而避之。高皇以宽仁大度，役天下之智力而集大业。岂所谓阴忮暴忍，而喜忌人之功者耶？秦为无道，天下高材疾足争起而竟搏之，皆有代秦之心也。彭越、黥布皆以人杰操兵特起，未以其身轻属于人者也。韩信挟百战百胜之略，择主而附，亦有大志，故身定全齐而自王之。方汉王大败于彭城，随何不能缓颊于淮南，则黥布不至。及困于固陵，诸侯弃约不会，微张良之画，则彭越、韩信不从。方是时，汉王不捐数千里之地，数以充三人者之欲而致其兵，则楚不亡。汉之待此三人者，譬若养虎，饱则不动，饥则噬人。由是观之，封赏过制，岂得已哉？欲就大业于须臾之顷故也。虽然，大业就矣，而三人者之逼，天下之所共寒心也。以天下之皆寒心，则彼持是而安归，且高祖亦得安枕而卧乎？故疑似之衅一发，而大祸集矣。此其势必至于夷灭而后定也。光武痛宗社之祸，收率怀汉之民投袂而起，凡所攀附者多南阳故人，其尤伟杰者，寇、邓数人而已。然较其材略，徒足以供光武指顾之役，非有骄桀难制，若韩、彭之与高祖也。天下既定，封以数千之户，莫不志欲盈足，唯恐持保之不获。为光武者，独何隙以诛除之哉？而曰光武独得保全勋旧之术，高祖于功臣有不容之忍，此不求二主所遇之不同，与夫势理有所必至者也。</p>
+<p>　　后唐庄宗，承武皇之遗业，假大义、挟世仇，以与梁人百战而夷之，乃有天下。可谓难且劳矣。然有二臣焉：其为韩、彭者，李嗣源；为寇、邓者，郭崇韬也。嗣源居不赏之功，挟震主之威，得国兵之权，执之而不释也。庄宗无以夺之，而稍忌其逼。崇韬常有大功于国，忠而可倚，而嗣源之所畏者也。庄宗苟能挟所可倚而制所可忌，则嗣源虽怀不自安，而有顾惮，非敢辄发也。庄宗知其所忌，而不知其倚，故崇韬以忠见疏谗疾日急。使其营自救之计，乃求将其征蜀之兵。庄宗归国中之师，属之而西。崇韬虽已举蜀，捷奏才上，而以谗死矣。庄宗知得蜀足以资其盛强，而不知崇韬之死已去嗣源之畏。故邺下之变，嗣源以一旅之众，西趋洛阳，如蹈无人之境，其迁大器易若反掌。且内有权臣窥伺间隙，乃空国之师勤于远役，固已大失计矣。而又去我之所与与彼之所畏者，则大祸之集，可胜救哉？虽得百蜀，无救其失国也。使崇韬之不死，举全蜀之众，因东归之士，拥继岌，檄方镇，以讨君父之仇，虽嗣源之强，亦何以御之？盖嗣源有韩、彭之逼而不践其祸者，庄宗无高祖之略故也。崇韬有寇、邓之烈，而不全其宗者，庄宗无光武之明故也。嗟乎！人臣之祸，起于操权，而速祸之权，莫重于制兵。崇韬谋逭祸自全，而方求执其兵，此于抱薪救火者何异也？</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20168.aspx">上一章</a>
+<a href="/guwen/book_280.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20170.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

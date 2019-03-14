@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+世说新语·自新_古诗文网
+</title>
+<meta content="周处年少时，凶强侠气，为乡里所患。又义兴水中有蛟，山中有邅迹虎，并皆暴犯百姓，义兴人谓为三横，而处尤剧。或说处杀虎斩蛟，实冀三横唯余其一。处即刺杀虎，又入水击蛟，蛟或浮或没，行数十" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2760.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1572" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>自新</b></span>
+<a href="javascript:PlayBookv(2760)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2760" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1572)" id="leftbtn1572" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2760" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e4%b9%89%e5%ba%86">刘义庆</a></p>
+<div class="contson">
+<p>　　周处年少时，凶强侠气，为乡里所患。又义兴水中有蛟，山中有邅迹虎，并皆暴犯百姓，义兴人谓为三横，而处尤剧。或说处杀虎斩蛟，实冀三横唯余其一。处即刺杀虎，又入水击蛟，蛟或浮或没，行数十里，处与之俱。经三日三夜，乡里皆谓已死，更相庆，竟杀蛟而出。闻里人相庆，始知为人情所患，有自改意。乃自吴寻二陆，平原不在，正见清河，具以情告，并云：“欲自修改，而年已蹉跎，终无所成。”清河曰：“古人贵朝闻夕死，况君前途尚可。且人患志之不立，亦何忧令名不彰邪？”处遂改励，终为忠臣孝子。</p>
+<p>　　戴渊少时，游侠不治行检，尝在江、淮间攻掠商旅。陆机赴假还洛，辎重甚盛。渊使少年掠劫，渊在岸上，据胡床，指麾左右，皆得其宜。渊既神姿峰颖，虽处鄙事，神气犹异。机于船屋上遥谓之曰：“卿才如此，亦复作劫邪？”渊便泣涕，投剑归机，辞厉非常。机弥重之，定交，作笔荐焉。过江，仕至征西将军。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2759.aspx">上一章</a>
+<a href="/guwen/book_18.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2761.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1572" style="width:580px; display:none;"></div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

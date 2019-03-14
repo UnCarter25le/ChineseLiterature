@@ -1,0 +1,120 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·热病_古诗文网
+</title>
+<meta content="偏枯，身偏不用；而痛，言不变，志不乱，病在分腠之间，巨针取之，益其不足，损其有余，乃可复也。痱之为病也，身无痛者，四肢不收；智乱不甚，其言微知，可治；甚则不能言，不可治也。病先起于" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1067.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left891" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·热病</b></span>
+<a href="javascript:PlayBookv(1067)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1067" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(891)" id="leftbtn891" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1067" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　偏枯，身偏不用；而痛，言不变，志不乱，病在分腠之间，巨针取之，益其不足，损其有余，乃可复也。</p>
+<p>　　痱之为病也，身无痛者，四肢不收；智乱不甚，其言微知，可治；甚则不能言，不可治也。病先起于阳，后入于阴者先取其阳，后取其阴，浮而取之。</p>
+<p>　　热病三日，而气口静、人迎躁者，取之诸阳，五十九刺，以泻其热，而出其汗，实其阴，以补其不足者。身热甚，阴阳皆静者，勿刺也；其可刺者，急取之，不汗出则泄。所谓勿刺者，有死征也。</p>
+<p>　　热病七日八日，脉口动，喘而短者，急刺之，汗且自出，浅刺手大指间。</p>
+<p>　　热病七日八日，脉微小，病者溲血，口中干，一日半而死。脉代者，一日死。</p>
+<p>　　热病已得汗出，而脉尚躁，喘且复热，勿刺肤，喘甚者死。</p>
+<p>　　热病七日八日，脉不躁，躁不散数，后看中有汗；三日不汗，四日死。未曾汗者，勿腠刺之。</p>
+<p>　　热病先肤痛，窒鼻充面，取之皮，以第一针，五十九，苛轸鼻，索皮于肺，不得索之火，火者心也。</p>
+<p>　　热病先身涩倚而热，烦俛，干唇口溢，取之皮，以第一针，五十九；肤胀口干，寒汗出，索脉于心，不得，索之水，水者，肾也。</p>
+<p>　　热病溢干多饮，善惊，卧不起，取之肤肉，以第六针，五十九，目眦青，索肉于脾，不得索之木，木者，肝也。</p>
+<p>　　热病面青，脑痛，手足躁，取之筋间，以第四针于四逆；筋躄目浸，索筋于肝，不得，索之金，金者，肺也。</p>
+<p>　　热病数惊，瘈瘲而狂，取之脉，以第四针，急泻有余者，癫疾毛发去，索血于心，不得，索之水，水者，肾也。</p>
+<p>　　热病身重骨痛，耳聋而好瞑，取之骨，以第四针，五十九，刺骨；病不食，啮齿耳青，索骨于肾，不得，索之土，土者，脾也。</p>
+<p>　　热病不知所痛，耳聋，不能自收，口干，阳热甚，阴颇有寒者，热在髓，死不可治。</p>
+<p>　　热病头痛，颞□，脉痛，善衄，厥热病也，取之以第三针，视有余不足，寒热痔。</p>
+<p>　　热病，体重，肠中热，取之以第四针，于其俞，及下诸趾间，索气于胃胳(络)得气也。</p>
+<p>　　热病挟脐怎痛，胸胁满，取之涌泉与阴陵泉，取以第四针，针嗌里。</p>
+<p>　　热病，而汗且出，及脉顺可汗者，取之鱼际、太渊、大都、太白。泻之则热去，补之则汗出太甚，取内踝上横脉以止之。</p>
+<p>　　热病，已得汗而脉尚盛躁盛，此阴脉之极也，死；其得汗而脉静者生。</p>
+<p>　　去病，脉尚盛躁而不得汗者，此阳脉之极也，脉盛躁，得汗静者，生。</p>
+<p>　　热病不可刺者有九：一曰：汗不出，大颧发赤哕者死；二曰：泄而腹满甚者死；三曰：目不明，热不已者死；四曰：老人婴儿热而腹满者死；五曰：汗不出呕下血者死；六曰：舌本烂，热不已者死；七曰：咳而衄，汗不出，出不至足者死；八曰：髓热者死；九曰：热而痉者死。腰折，瘛瘲，齿噤也。凡此九者，不可刺也。</p>
+<p>　　所谓五十九刺者，两手外内侧各三，凡十二痏。五指间各一，凡八痏，足亦如是。头入发一寸旁三分各三，凡六痏。更入发三寸边五，凡十痏。耳前后口下者各，项中一，凡六痏。巅上一，聪会一，发际一，廉泉一，风池二，天柱二。</p>
+<p>　　气满胸中喘息，取足太阴大趾之端，去爪甲如韭叶，寒则留之热则疾之，气下乃止。心疝暴痛，取足太阴厥阴，尽刺去其血络。</p>
+<p>　　喉痹舌卷，口中干，烦心，心痛，臂内廉痛，不可及头，取手小指次指爪甲下，去端如韭叶。目中赤痛，从内眦始，取之阴跷。</p>
+<p>　　风痉身反折，先取足太阳及腘中及血络出血，中有寒，取三里。癃取之阴跷及三毛上及血络，出血</p>
+<p>　　男子如蛊，女子如怚，身体腰脊如解，不欲饮食，先取涌泉见血，视跗上盛者，尽见血也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1066.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1068.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right891" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

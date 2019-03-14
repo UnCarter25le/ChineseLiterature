@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·僧契虚_古诗文网
+</title>
+<meta content="有僧契虚者，本姑臧李氏子，其父为御史于玄宗时。契虚自孩提好浮图氏法，年二十，髡发衣褐，居长安佛寺中。及禄山破潼关，玄宗西幸蜀门，契虚遁入太白山，采柏叶而食之，自是绝粒。尝一日，有道" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19302.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>僧契虚</b></span>
+<a href="javascript:PlayBookv(19302)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19302" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19302" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　有僧契虚者，本姑臧李氏子，其父为御史于玄宗时。契虚自孩提好浮图氏法，年二十，髡发衣褐，居长安佛寺中。及禄山破潼关，玄宗西幸蜀门，契虚遁入太白山，采柏叶而食之，自是绝粒。</p>
+<p>　　尝一日，有道士乔君，貌清瘦，须鬓尽白，来诣契虚。谓契虚曰：“师神骨甚孤秀，后当邀游仙都中矣。”契虚曰：“吾尘俗之人，安能诣仙都乎？”乔君曰：“仙都甚近，师可力去也。”契虚因请乔君导其径。乔君曰：“师可备食于商山逆旅中，遇捀即犒于商山而馈焉。或有问师所诣者，但言原游稚川，当有捀子导师而去矣。”契虚闻其言，喜且甚。</p>
+<p>　　及禄山败，上自蜀门还长安，天下无事。契虚即往商山，舍逆旅中，备甘洁以伺捀子馈焉。仅数月，遇捀子百余，俱食毕而去。契虚意稍怠，且谓乔君见欺，将归长安。既治装，是夕，一捀子年甚少，谓契虚曰：“吾师安所诣乎？”契虚曰：“吾愿游稚川有年矣。”捀子惊曰：“稚川，仙府也。吾师安得而至乎？”契虚对曰：“吾始自孩提好神仙，常遇至人，劝我游稚川。路几何耳？”捀子曰：“稚川甚近。师真能偕我而去乎？”契虚曰：“诚能游稚川，死不悔。”</p>
+<p>　　于是捀子与契虚俱至蓝田上，治具。其夕，即登玉山，涉危险，逾岩巘，且八十里。至一洞，水出洞中，捀子与契虚共挈石填洞口，以壅其流。三日，洞水方绝。二人俱入洞中，昏晦不可辨，见一门在数十里外，遂望门而去。既出洞外，风日恬煦，山水清丽，真神仙都也。又行百余里，登一高山，其山攒峰迥拔，石径危，契虚眩惑不敢登，捀子曰：“仙都且近，何为彷徨耶！”即挈手而去。既至山顶，其上坦平，下视川原，邈然不可见矣。又行百余里，入一洞中。及出，见积水无穷，水中有石径，横尺余，纵且百里余。捀子引契虚蹑石迳而去。至山下，前有巨木，烟影繁茂，高数千寻。捀子登木长啸久之，忽有秋风起于林杪，俄见巨绳系一行橐，自山顶而缒，捀子命契虚暝目坐橐中。仅半日，捀子曰：“师可寤而视矣。”契虚既望，已在山顶。</p>
+<p>　　见有城邑宫阙，玑玉交映在云物之外。捀子指语：“此稚川也！”于是相与诣其所，见仙童百辈，罗列前后。有一仙人谓捀子曰：“此僧何为者，岂非人间人乎？”捀子曰：“此僧常愿游稚川，故挈而至此。”已而至一殿，上有具簪冕者，貌甚伟，凭玉几而坐，侍卫环列，呵禁极严。捀子命契虚谒拜，且曰：“此稚川真君也。”契虚拜。真君召契虚上，讯曰：“尔绝三彭之仇乎？”不能对。真君曰：“真不可留于此！”因命捀子登翠霞亭。其亭亘空，居槛云矗，见一人袒而瞬目，发长数十尺，凝腻黯黑，洞莹心目。捀子谓契虚曰：“尔可谒而拜。”契虚既拜，且问：“此人为谁何瞬目乎？”捀子曰：“此人杨外郎也。外郎，隋氏宗室，为外郎于南宫。属隋末，天下分磔，兵甲大扰，因避地居山，今已得道。此非瞬目，乃彻视也。夫彻视者，寓目于人世耳。”契虚曰：“请寤其目，可乎？”捀子即面请，外郎忽寤而四视，其光益著若日月之照。契虚悸背汗，毛发尽劲。又见一人卧石壁之下，捀子曰：“此人姓乙，支润其名，亦人间之人，得道而至此。”已而捀子引契虚归。其道途皆前时之涉历。</p>
+<p>　　契虚因问捀子曰：“吾向者谒见真君，真君问我三彭之仇，我不能对。”曰：“彭者，三尸之姓，常居人中，伺察其罪，每至庚申日，籍于上帝。故学仙者，当先绝其三尸，如是则神仙可得，不然，虽苦其心，无补也。”契虚悟其事。</p>
+<p>　　自是而归。因庐于太白山，绝粒啄气，未尝以稚川之事语于人。贞元中，徙居华山下。有荥阳郑绅与吴兴沈聿俱自长安东出关，行至华山下，会天暮大雨，二人遂止。契虚以绝粒，故不致庖爨。郑君异其不食，而骨状丰秀，因徵其实。契虚乃以稚川之事告于郑。郑好奇者，既闻其事，且欢且惊。及自关东回，重至契虚舍，其契虚已遁去，竟不知所在。郑君常传其事，谓之《稚川记》。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19301.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19303.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

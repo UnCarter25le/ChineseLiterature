@@ -1,0 +1,122 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷二十二·赵玉森_古诗文网
+</title>
+<meta content="赵玉森赵玉森，字君立，号月潭，南直无锡人。崇祯癸酉举人，专心边策，及庚辰登进士，召对应答详明，问及边事，既对且泣。先帝以为能。亲拔翰林简讨。时谓钦赐翰林，始出封藩，众颇荣之。本乡公" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13720.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二十二·赵玉森</b></span>
+<a href="javascript:PlayBookv(13720)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13720" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13720" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　赵玉森</p>
+<p>　　赵玉森，字君立，号月潭，南直无锡人。崇祯癸酉举人，专心边策，及庚辰登进士，召对应答详明，问及边事，既对且泣。先帝以为能。亲拔翰林简讨。时谓钦赐翰林，始出封藩，众颇荣之。本乡公揭云：十九至马君常太史寓一看，回至同乡王孙蕙寓所，王云百行孝为先，君家有太公在，且全个孝罢。遂相携诣贼报名。途语张琦、秦汧，与语意合，乃握手同往。伪四川内江县令，玉森与宋企郊有旧，求改选山东近地，许之。</p>
+<p>　　周钟</p>
+<p>　　周钟，字介生，南直金坛人。崇祯癸未庶吉士，伪宏文馆简讨。贼中深慕其名，呼为周先生，劝进表实出其手。逢人便夸牛老师极为叹赏不止，李密谬斥伪朝而已。同馆多含涕忍耻，几幸生还；惟钟扬扬得意，乘马拜客。屡过梓宫，挥鞭不一顾，时辈中犹腹诽之。三十年雄踞文坛，联属声气，一旦名节扫地，书林选刻，刊落名字，文章一道，尚可信乎？甲乙史云：三月二十三，庶吉士周钟、魏学濂，有请葬先帝公疏，投文谕院顾君恩。君恩云：诸君亦是好名之事，俟牛相来自奏，即碎其牍。周钟者，故金坛名士，为复社之长，牛金星见之，呼曰：此周介生先生乎？命作士见危致命论，大称赏之。钟逢人自夸牛老师知遇。</p>
+<p>　　沈国元大事纪云：劝进文有云：比尧舜而多武功，迈汤武而无惭德。甚至斥先帝为独夫，有臣子万不忍言者。传为钟笔。又有存杞存宋句。龚鼎孳向人曰：此语出吾手，周介生想不到此。</p>
+<p>　　国元又云：人之志趣无不可以先见其微，复社初立时，常与连床夜话，呐呐不出口，有应无辨，相对殊不快绝。第其下笔，风驰雨骤，天才实骏，入古则未优耳。交不甚杂，深自敛抑，幽贞一如处子。后为吴昌时数辈，牵引日至险谲，渐于贿利，知不留意澹交，余遂各行其志焉。一人为社中健足，传檄遍人，亲书向余索五十金为贽。余谢之曰：余与介生旧好，恐不须此，奸人遂衔恨，百口进谗。及介生隽去，扬扬得意，无论识与不识，咸以得望见周先生颜行为幸。嗤余绝物，以视今日则何如。嗟乎！洒坛酣战，涉笔时题无君父之字，必填忠孝之辞。三月十九，古今未有惨变，奈何不以一死以殉皇上于地下，乃腼颜偷息，屈笔以结贼之欢，未几而南都正位，霜简飞章，读之无处措面，岂不痛哉？</p>
+<p>　　表云：比尧舜多武功，较汤武无惭德。又有独夫授首等语。一时传为士林之羞。</p>
+<p>　　钟年十三，赴院试，题夫明堂者，拔第一。与苏州扬廷枢、徐汧等立复社，名驰海内。崇祯己卯登乡荐，为陈函辉所取士。后杨、徐、陈先后殉难，而钟以逆见诛。将何以见良师友于九原也。子昔年曾见其临大节句文内，有云事后易为谋，事前易为功，所难者独在临事时耳。余悉忠贞句佳，且推到学识及无欲为本原。文则佳矣，而临事一何倒逆也。金坛贺生语予曰：钟似杨雄，意谓劝进与美新等耳。予意钟古博不及杨雄，而表文较美新更甚，殆不如也。贺云：钟祖祠颜曰：一门七进士。一日有题其侧曰：三代五奸臣。众共传之。余谓文皇怒方正学不肯草诏，而夷其十族。至是而钟与杨廷鉴争草诏，是成祖杀戮忠臣之报也。天心亦巧矣、微矣。于钟又何诛。</p>
+<p>　　朱积</p>
+<p>　　朱积，南直松江华亭人。崇祯癸未庶吉士，伪宏文馆简讨。□□□□□，此亦声气中大名士也。</p>
+<p>　　史可程</p>
+<p>　　史可程，河南开封祥符人。崇祯癸未庶吉士，原官。贼逼写家书于部院史公，遇兵急不果，即此书果达，阁部史公必怒裂之矣。</p>
+<p>　　梁清标</p>
+<p>　　梁清标，北直真定府真定县人。崇祯癸未庶吉士，原官。一云改外。</p>
+<p>　　成克巩</p>
+<p>　　成克巩，北直大名府大名县人。崇祯癸未庶吉士，原官，一云改外。</p>
+<p>　　鲁某</p>
+<p>　　鲁某，浙江绍兴山阴人。崇祯癸未庶吉士，原官。</p>
+<p>　　李化麟</p>
+<p>　　李化麟，陕西西安韩城城人。崇祯癸未庶吉士，原官。</p>
+<p>　　张元琳</p>
+<p>　　张元琳，福建晋江人。崇祯癸未庶吉士，原官。一云防御使。</p>
+<p>　　刘余谟</p>
+<p>　　刘余谟，南直安庆怀宁人。崇祯癸未庶吉士，原职。以貌不当贼意，改外。</p>
+<p>　　李长祥</p>
+<p>　　李长祥，四川夔州府达州人。崇祯癸未庶吉士，原官。一云改外。</p>
+<p>　　赵颎</p>
+<p>　　赵颎，河南开封项城人。崇祯癸未庶吉士，改伪直指使。以牛金星乡同年，故多所援引。</p>
+<p>　　杨栖鹗</p>
+<p>　　杨栖鹗，陕西汉中西乡人。崇祯癸未庶吉士，伪直指使。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13719.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13721.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

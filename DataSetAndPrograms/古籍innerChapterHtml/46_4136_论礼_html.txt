@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·论礼_古诗文网
+</title>
+<meta content="孔子閒居，子張子貢言游侍，論及於禮．孔子曰：「居，汝三人者，吾語汝以禮，周流無不遍也．」子貢越席而對曰：「敢問如何？」子曰：「敬而不中禮謂之野，恭而不中禮謂之給，勇而不中禮謂之逆．" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4136.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2736" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>论礼</b></span>
+<a href="javascript:PlayBookv(4136)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4136" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2736)" id="leftbtn2736" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4136" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　孔子閒居，子張子貢言游侍，論及於禮．孔子曰：「居，汝三人者，吾語汝以禮，周流無不遍也．」子貢越席而對曰：「敢問如何？」子曰：「敬而不中禮謂之野，恭而不中禮謂之給，勇而不中禮謂之逆．」子曰：「給奪慈仁．」子貢曰：「敢問將何以為此中禮者？」子曰：「禮乎，夫禮所以制中也．」子貢退，言游進曰：「敢問禮也，領惡而全好者與？」子曰：「然．」子貢問何也？子曰：「郊社之禮，所以仁鬼神也；禘嘗之禮，所以仁昭穆也饋奠之禮，所以仁死喪也；射饗之禮，所以仁鄉黨也；食饗之禮，所以仁賓客也．明乎郊社之義，禘嘗之禮，治國其如指諸掌而已．是故居家有禮，故長幼辨以之；閨門有禮，故三族和以之；朝廷有禮，故官爵序以之；田獵有禮，故戎事閑以之；軍旅有禮，故武功成．是以宮室得其度，鼎俎得其象，物得其時，樂得其節，車得其軾，鬼神得其享，喪紀得其哀，辯說得其黨，百官得其體，政事得其施，加於身而措於前，凡眾之動，得其宜也．」言游退，子張進曰：「敢問禮何謂也？」子曰：「禮者，即事之治也，君子有其事必有其治，治國而無禮，譬猶瞽之無相，倀倀乎何所之，譬猶終夜有求於幽室之中，非燭何以見．故無禮則手足無所措，耳目無所加，進退揖讓無所制．是故以其居處長幼失其別，閨門三族失其和，朝廷官爵失其序，田獵戎事失其策，軍旅武功失其勢，宮室失其度，鼎俎失其象，物失其時，樂失其節，車失其軾，鬼神失其享，喪紀失其哀，辯說失其黨，百官失其體，政事失其施，加於身而措於前，凡動之眾失其宜，如此則無以祖洽四海．」子曰：「慎聽之，汝三人者，吾語汝，禮猶有九焉，大饗有四焉，苟知此矣，雖在畎畝之中，事之聖人矣．兩軍相見，揖讓而入門，入門而懸興，揖讓而升堂，升堂而樂闋，下管象舞，夏籥序興，陳其薦俎，序其禮樂，備其百官，如此而後君子知仁焉．行中規，旋中矩，鑾和中采薺，客出以雍，徹以振羽．是故君子無物而不在於禮焉，入門而金作，示情也；升歌清廟，示德也；下管象舞，示事也．是故古之君子，不必親相與言也，以禮樂相示而已．夫禮者，理也，樂者，節也，無禮不動，無節不作，不能詩，於禮謬，不能樂，於禮素，於德薄，於禮虛．」子貢作而問曰：「然則夔其窮與？」子曰：「古之人與上古之人也，達於禮而不達於樂謂之素，達於樂而不達於禮謂之偏，夫夔達於樂而不達於禮，是以傳於此名也，古之人也．凡制度在禮，文為在禮，行之其在人乎．」三子者既得聞此論於夫子也，煥若發矇焉．</p>
+<p>　　子夏侍坐於孔子曰：「敢問詩云愷悌君子，民之父母，何如斯可謂民之父母？」孔子曰：「夫民之父母，必達於禮樂之源，以致五至而行三無，以橫於天下，四方有敗，必先知之，此之謂民之父母．」子夏曰：「敢問何謂五至？」孔子曰：「志之所至，詩亦至焉；詩之所至，禮亦至焉；禮之所至，樂亦至焉；樂之所至，哀亦至焉．詩禮相成，哀樂相生，是以正明目而視之，不可得而見，傾耳而聽之，不可得而聞，志氣塞于天地，行之克於四海，此之謂五至矣．」子貢曰：「敢問何謂三無？」孔子曰：「無聲之樂，無體之禮，無服之喪，此之謂三無．」子夏曰：「敢問三無何詩近之？」孔子曰：「夙夜基命宥密，無聲之樂也；威儀逮逮，不可選也，無體之禮也；凡民有喪，扶伏救之，無服之喪也．」子夏曰：「言則美矣，大矣，言盡於此而已？」孔子曰：「何謂其然？吾語汝，其義猶有五起焉．」子貢曰：「何如？」孔子曰：「無聲之樂，氣志不違；無體之禮，威儀遲遲；無服之喪，內恕孔悲．無聲之樂，所願必從；無體之禮，上下和同；無服之喪，施及萬邦．既然而又奉之以三無私，而勞天下，此之謂五起．」子夏曰：「何謂三無私？」孔子曰：「天無私覆，地無私載，日月無私照．其在詩曰：『帝命不違，至于湯齊，湯降不遲，聖敬日躋，昭假遲遲，上帝是祇．』帝命式于九圍，是湯之德也．」子夏蹶然而起，負牆而立曰：「弟子敢不志之．」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4135.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4137.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2736" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

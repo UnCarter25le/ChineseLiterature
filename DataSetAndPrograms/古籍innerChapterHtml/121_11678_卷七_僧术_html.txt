@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷七·僧术_古诗文网
+</title>
+<meta content="黄生，故家子，才情颇赡，夙志高骞。村外兰若有居僧某，素与分深，既而僧云游，去十余年复归。见黄，叹曰：“谓君腾达已久，今尚白纻耶？想福命固薄耳。请为君贿冥中主者。能置十千否？”答言：" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11678.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·僧术</b></span>
+<a href="javascript:PlayBookv(11678)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11678" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11678" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　黄生，故家子，才情颇赡，夙志高骞。村外兰若有居僧某，素与分深，既而僧云游，去十余年复归。见黄，叹曰：“谓君腾达已久，今尚白纻耶？想福命固薄耳。请为君贿冥中主者。能置十千否？”答言：“不能。”僧曰：“请勉办其半，余当代假之。三日为约。”黄诺之。竭力典质如数。</p>
+<p>　　三日，僧果以五千来付黄。黄家旧有汲水井，深不竭，云通河海。僧命束置井边，戒曰：“约我到寺，即推堕井中。候半炊时，有一钱泛起，当拜之。”乃去。黄不解何术，转念效否未定，而十千可惜。乃匿其九，而以一千投之。少间巨泡突起，铿然而破，即有一钱浮出，大如车轮。黄大骇，既拜，又取四千投焉。落下击触有声，为大钱所隔不得沉。日暮僧至，谯让之曰：“胡不尽投？”黄云：“已尽投矣。”僧曰：“冥中使者止将一千去，何乃妄言？”黄实告之，僧叹曰：“鄙吝者必非大器。此子之命合以明经终，不然甲科立致矣。”黄大悔，求再禳之，僧固辞而去。黄视井中钱犹浮，以绠钓上，大钱乃沉。是岁，黄以副榜准贡，卒如僧言。</p>
+<p>　　异史氏曰：“岂冥中亦开捐纳之科耶？十千而得一第，直亦廉矣。然一千准贡，犹昂贵耳。明经不第，何值一钱！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11677.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11679.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+北溪字义·卷上·敬_古诗文网
+</title>
+<meta content="诚与敬字不相关，恭与敬字却相关。程子谓“主一之谓敬，无适之谓一”，文公合而言之，曰“主一无适之谓敬”，尤分晓。敬一字，从前经书说处尽多，只把做闲慢说过，到二程方拈出来，就学者做工夫" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19807.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷上·敬</b></span>
+<a href="javascript:PlayBookv(19807)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19807" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19807" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%88%e6%b7%b3">陈淳</a></p>
+<div class="contson">
+<p>　　诚与敬字不相关，恭与敬字却相关。</p>
+<p>　　程子谓“主一之谓敬，无适之谓一”，文公合而言之，曰“主一无适之谓敬”，尤分晓。敬一字，从前经书说处尽多，只把做闲慢说过，到二程方拈出来，就学者做工夫处说，见得这道理尤紧切，所关最大。敬字本是个虚字，与畏惧等字相似，今把做实工夫，主意重了，似个实物事一般。</p>
+<p>　　人心妙不可测，出入无时，莫知其乡。敬所以主宰统摄。若无个敬，便都不见了。惟敬，便存在这里。所谓敬者无他，只是此心常存在这里，不走作，不散慢，常恁地惺惺，便是敬。</p>
+<p>　　主一者只是心主这个事，更不别把个事来参插。若做一件事，又插第二件事，又参第三件事，便不是主一，便是不敬。文公谓“勿贰以二，勿参以三”，正如此。</p>
+<p>　　无事时，心常在这里，不走作，固是主一。有事时，心应这事，更不将第二第三事来插，也是主一。</p>
+<p>　　无适者，心常在这里，不走东，不走西，不之南，不之北。</p>
+<p>　　程子就人心做工夫处，特注意此字。盖以此道理贯动静，彻表里，一始终，本无界限。闲静无事时也用敬，应事接物时也用敬。心在里面也如此，动出于外来做事也如此。初头做事也如此，做到末稍也如此。此心常无间断，才间断便不敬。</p>
+<p>　　格物致知也须敬，诚意正心修身也须敬，齐家治国平天下也须敬。敬者，一心之主宰，万事之根本。</p>
+<p>　　礼谓“执虚如执盈，入虚如有人”，只就此二句体认持敬底工夫，意象最亲切。且如人捧个至盈底物，心若不在这上，才移一步便倾了。惟执之拳拳，心常常在这上，虽行到那里也不倾倒。入虚如有人，虽无人境界，此心常严肃，如对大宾然，此便是主一无适意。又如人入神祠中，此心全归向那神明上，绝不敢生些他念，专专一一，便是不二不三，就此时体认，亦见得主一无适意分晓。</p>
+<p>　　整齐严肃，敬之容。如坐而倾跌，衣冠落魄，便是不敬。</p>
+<p>　　上蔡所谓常惺惺法，是就心地上做工夫处，说得亦亲切。盖心常醒在这里，便常惺惺，恁地活。若不在，便死了。心才在这里，则万理森然于其中。古人谓“敬，德之聚”，正如此。须实下持敬工夫，便自见。 中国古籍全录</p>
+<p>　　文公敬斋箴，正是铺叙日用持敬工夫节目，最亲切，宜列诸左右，常目在之，按为准则做工夫，久久自别。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19806.aspx">上一章</a>
+<a href="/guwen/book_265.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19808.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

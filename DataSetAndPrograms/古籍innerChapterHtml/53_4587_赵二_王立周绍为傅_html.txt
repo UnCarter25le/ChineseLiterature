@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·赵二·王立周绍为傅_古诗文网
+</title>
+<meta content="王立周绍为傅曰：“寡人始行县，过番吾，当子为子之时，践石以上者皆道子之孝。故寡人问子以璧，遗子以酒食，而求见子。子谒病而辞。人有言子者曰：‘父之孝子，君之忠臣也。’故寡人以子之知虑" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4587.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3864" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>赵二·王立周绍为傅</b></span>
+<a href="javascript:PlayBookv(4587)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4587" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3864)" id="leftbtn3864" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4587" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　王立周绍为傅曰：“寡人始行县，过番吾，当子为子之时，践石以上者皆道子之孝。故寡人问子以璧，遗子以酒食，而求见子。子谒病而辞。人有言子者曰：‘父之孝子，君之忠臣也。’故寡人以子之知虑，为辩足以道人，危足以持难，忠可以写意，信可以远期。诗云‘服难以勇，治乱以知，事之计也。立傅以行，教少以学，义之经也。循计之事，失而累；访议之行，穷而不忧。’故寡人欲子之胡服以傅王乎。”</p>
+<p>　　周绍曰：“王失论矣，非贱臣所敢任也。”王曰：“选子莫若父，论臣莫若君。君，寡人也。”周绍曰：“立傅之道六。”王曰：“六者何也?”周绍曰：“知虑不躁达于变，身行宽惠达于礼，威严不足以易于位，重利不足以变其心，恭于教而不快，和于下而不危。六者，傅之才，而臣无一焉。隐中不竭，臣之罪也。傅命仆官，以烦有司，吏之耻也。王请更论。”</p>
+<p>　　王曰：“知此六者，所以使子。”周绍曰：“乃国未通于王胡服。虽然，臣，王之臣也，而王重命之，臣敢不听令乎?”再拜，赐胡服。</p>
+<p>　　王曰：“寡人以王子为子任，欲子之厚爱之，无所见丑。御道之以行义，勿令溺苦于学。事君者，顺其意，不逆其志。事先者，明其高，不倍其孤。故有臣可命，其国之禄也。子能行是，以事寡人者毕矣。《书》云：‘去邪无疑，任贤勿贰。’寡人与子，不用人矣。”遂赐周绍胡服衣冠，贝带黄金师比，以傅王子也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4586.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4588.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3864" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

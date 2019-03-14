@@ -1,0 +1,122 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·风毒香港脚方·诸膏第五_古诗文网
+</title>
+<meta content="（例一首 方八首）例曰∶凡作膏常以破除日，无令丧孝、污秽产妇、下贱人、鸡犬、禽兽见之，病在外火炙摩之，在内温酒服如枣核许。神明白膏　　治百病。中风恶气及头面诸病，青盲风目烂 管翳、" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12692.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>风毒香港脚方·诸膏第五</b></span>
+<a href="javascript:PlayBookv(12692)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12692" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12692" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（例一首 方八首）</span></p>
+<p>　　例曰∶凡作膏常以破除日，无令丧孝、污秽产妇、下贱人、鸡犬、禽兽见之，病在外火炙摩之，在内温酒服如枣核许。</p>
+<p>　　<strong>神明白膏<br/></strong>　　<strong>治百病。中风恶气及头面诸病，青盲风目烂 管翳、耳聋鼻塞、龋齿齿根挺痛及痈痔疮癣疥等方。</strong></p>
+<p>　　吴茱萸 川椒 川芎 白术 前胡（崔氏作白前） 白芷（各一升） 附子（三十铢） 桂心 当归 细辛（各二两）</p>
+<p>　　上十味 咀，淳苦酒于铜器中，淹浸诸药，一宿以成。煎猪膏十斤，炭火上煎三沸，三上三下，白芷色黄为候。病在腹内，温酒服，如弹丸，一枚，日三。目痛取如黍米纳两 中，以目向风，无风可以扇扇之。诸疮痔龋齿耳鼻百病主之，皆以膏敷，病在皮肤炙手摩病上，日三。（《肘后》九味无桂心）</p>
+<p>　　<strong>卫侯青膏<br/></strong>　　治百病久风，头眩鼻塞，清涕泪出，霍乱吐逆，伤寒咽痛，脊背头项强，偏枯拘挛。</p>
+<p>　　或缓或急或心腹久寒，积聚疼痛，咳逆上气，往来寒热，鼠漏瘰 ，历节疼肿，关节尽痛，男子七伤，胪胀腹满，羸瘦不能饮食，妇人生产余疾诸病， 疥，恶疮痈肿阴蚀，黄胆，发背马鞍牛领疮肿方。</p>
+<p>　　当归 栝蒌根 干地黄 甘草 川椒（各六两） 半夏（七合） 桂心 川芎 细辛 附子（各四两） 黄芩 桔梗 天雄 藜芦 皂荚（各一两半） 浓朴 乌头 莽草 干姜 人参 黄连 寄生 川断 戎盐（各三两） 黄野葛（二分） 生竹茹（六升） 巴豆（二十枚） 石南 杏仁（各一两） 猪脂（三斗） 苦酒（一斗六升）</p>
+<p>　　上三十一味 咀，诸药以苦酒渍一宿，以猪脂微火上煎之，三下三上，膏成。病在内以酒服如半枣，以外摩之，日三。</p>
+<p>　<strong>　神明青膏<br/>　　治鼻中干灌之并摩服方。</strong></p>
+<p>　　川椒（五合） 皂荚 黄芩 石南 黄连 雄黄 桂心 藜芦（各三铢） 白术 川芎 大黄 泽泻（各七铢） 乌头 川断 莽草 人参（各五铢） 半夏 当归（各十二铢） 干地黄（十一铢） 葳蕤 细辛（各十铢） 附子 桔梗（各二铢） 干姜（六铢） 戎盐（杏子大一枚）</p>
+<p>　　上二十五味 咀，以苦酒一斗渍之，羊髓一斤，为东南三隅灶，纳诸药，炊以苇薪。作三聚新好土，药沸即下，置土聚上，三沸三下讫，药成，以新布绞去滓。病在外火炙摩之，在内温酒服如枣核，日三，后稍益，以知为度。</p>
+<p>　　<strong>太傅白膏<br/></strong>　<strong>　治百病。伤寒咽喉不利，头项强痛，腰脊两脚疼，有风痹湿肿难屈伸，不能行步，若风头眩鼻塞，有附息肉生疮，身体隐疹风瘙，鼠漏瘰 ，诸疽恶疮，马鞍牛领肿疮，及久寒结坚在心，腹痛胸痹，烦满不得眠饮食，咳逆上气，往来寒热，妇人产后余疾，耳目鼻口诸疾悉主之。亦曰太一神膏方。</strong></p>
+<p>　　川椒 升麻（切各一升） 附子（三两） 巴豆 川芎（各三十铢） 杏仁（五合） 狸骨 细辛（各一两半） 白芷（半两） 甘草（二两） 白术（六两）</p>
+<p>　　一方用当归三两。</p>
+<p>　　上十二味 咀，苦酒淹渍一宿，以猪脂四斤微火煎之，先削附子一枚，以绳系着膏中，候色黄膏成，去滓。伤寒心腹积聚，诸风肿疾，颈项腰脊强，偏枯不仁，皆摩之，日一。</p>
+<p>　　痈肿恶疮鼠漏瘰 ，炙手摩之。耳聋，取如大豆灌之。目痛，炙缈缥。白翳如珠当瞳，视无所见，取如糜米敷白上，令其人自以手掩之，须臾即愈，便以水洗，视如平复，且勿当风，三十日后乃可行。鼻中痛，取如大豆纳鼻中并以摩之。龋齿痛，以绵裹如大豆着痛齿上咋之。</p>
+<p>　　中风面目鼻口 ，僻以摩之。若晨夜行辟霜雾，眉睫落数数以铁浆洗，用膏摩之。</p>
+<p>　<strong>　曲鱼膏<br/>　　治风湿痛痹，四肢 弱，偏跛不仁，并痈肿恶疮方。</strong></p>
+<p>　　大黄 黄芩 莽草 巴豆 野葛 牡丹 踯躅 芫花 川椒 皂荚 藜芦 附子（各一两）</p>
+<p>　　上十二味 咀，以苦酒渍药一宿以成，煎猪膏三斤，微火煎三沸一下，另纳白芷一片，三上三下，白芷色黄，药成去滓，微火炙手摩病上，日三。</p>
+<p>　<strong>　野葛膏<br/>　　治恶风毒肿，疼痹不仁，瘰 恶疮，痈疽肿胫，脚弱偏枯百病方。</strong></p>
+<p>　　野葛 犀角 蛇衔 莽草（外台作茵芋） 乌头 桔梗 升麻 防风 川椒 干姜 鳖甲 雄黄 巴豆（各一两） 丹参（三两） 踯躅花（一升）</p>
+<p>　　上十五味 咀，以苦酒四升渍之一宿以成，煎猪膏五斤，微火煎三上三下，药色小黄去滓，以摩病上。此方不可施之猥人，慎之（胡洽无丹参踯躅，有细辛，又苏恭以白芷、防己、吴茱萸、附子、当归代巴豆、雄黄、蛇衔、防风、鳖甲）</p>
+<p>　<strong>　苍梧道士陈元膏<br/>　　主一切风湿骨肉疼痛痹方。</strong></p>
+<p>　　当归 细辛 川芎（各一两） 桂心（五寸） 天雄（三十枚） 生地（三斤） 白芷（一两半）</p>
+<p>　　上十二味 咀，以地黄汁渍药一宿，煎猪肪去滓，纳药煎十五沸去滓，纳丹砂末熟搅，用火炙手摩病上，日千遍瘥（胡洽有人参、防风各三两，附子三十枚，雄黄二两，为十五味。《肘后》、《千金翼》有附子二十二铢，雄黄二两半，大醋三升，为十五味。崔氏与《千金翼》同。）</p>
+<p>　<strong>　裴公八毒膏<br/>　　治猝中风毒，腹中绞刺痛，飞尸入脏，及魇寝寐不寤，尸厥奄忽不知人，宿食不消。温酒服如枣核大，得下止。若毒瓦斯甚，咽喉闭塞不能咽者，折齿纳葱叶口中，以膏灌葱叶中令下。病肿者向火摩肿上。若岁中多温，欲省病及行雾露中，酒服之，纳鼻中亦得方。</strong></p>
+<p>　　川椒 当归 雄黄 丹砂（各二两） 乌头 巴豆（各一升） 薤白（一斤） 莽草（四两）</p>
+<p>　　上八味 咀，以苦酒三升渍一宿，用猪脂五斤，东向灶苇薪火煎之，五上五下，候薤白黄色绞去滓。研雄黄丹砂如粉，纳之搅至凝乃止，膏成盛不津器中，诸蜈蚣蛇蜂等毒者，以膏置疮上，病在外悉敷之摩之。以破除日合〔一方用 石一两蜈蚣二枚，是名八毒膏（《肘后》不用巴豆、莽草，名五毒膏。）〕</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12691.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12693.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

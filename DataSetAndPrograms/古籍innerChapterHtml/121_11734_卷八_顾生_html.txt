@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷八·顾生_古诗文网
+</title>
+<meta content="江南顾生客稷下，眼暴肿，昼夜呻吟，罔所医药。十余日痛少减。乃合眼时辄睹巨宅，凡四五进，门皆洞辟；最深处有人往来，但遥睹不可细认。一日方凝神注之，忽觉身入宅中，三历门户，绝无人迹。有" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11734.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·顾生</b></span>
+<a href="javascript:PlayBookv(11734)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11734" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11734" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　江南顾生客稷下，眼暴肿，昼夜呻吟，罔所医药。十余日痛少减。乃合眼时辄睹巨宅，凡四五进，门皆洞辟；最深处有人往来，但遥睹不可细认。</p>
+<p>　　一日方凝神注之，忽觉身入宅中，三历门户，绝无人迹。有南北厅事，内以红毡贴地。略窥之，见满屋婴儿，坐者、卧者、膝行者，不可数计。愕疑间，一人自舍后出，见之曰：“小王子谓有远客在门，果然。”便邀之。顾不敢入，强之乃入。问：“此何所？”曰：“九王世子居。世子疟疾新瘥，今日亲宾作贺，先生有缘也。”言未已，有奔至者督促速行。俄至一处，雕榭朱栏，一殿北向，凡九楹。历阶而升，则客已满座，见一少年北面坐，知是王子，便伏堂下。满堂尽起。王子曳顾东向坐。酒既行，鼓乐暴作，诸妓升堂，演《华封祝》。才过三折，逆旅主人及仆唤进午餐，就床头频呼之。耳闻甚真，心恐王子知，遂托更衣而出。仰视日中夕，则见仆立床前，始悟未离旅邸。</p>
+<p>　　心欲急返，因遣仆阖扉去。甫交睫，见宫舍依然，急循故道而入。路经前婴儿处并无婴儿，有数十媪蓬首驼背，坐卧其中。望见顾，出恶声曰：“谁家无赖子，来此窥伺！”顾惊惧，不敢置辩，疾趋后庭，升殿即坐。见王子颔下添髭尺余矣。见顾，笑问：“何往？剧本过七折矣。”因以巨觥示罚。移时曲终，又呈齣目。顾点《鼓祖娶妇》。妓即以椰瓢行酒，可容五斗许。顾离席辞曰：“臣目疾，不敢过醉。”王子曰：“君患目，有太医在此，便合诊视。”东座一客，即离坐来，两指启双眦，以玉簪点白膏如脂，嘱合目少睡。王子命侍儿导入复室，令卧；卧片时，觉床帐香软，因而熟眠。</p>
+<p>　　居无何，忽闻鸣钲锽聒，即复惊醒。疑是优戏未毕，开目视之，则旅舍中狗舐油锁也。然目疾若失。再闭眼，一无所睹矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11733.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11735.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

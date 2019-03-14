@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·天文部·历律_古诗文网
+</title>
+<meta content="定气运黄帝受《河图》，始设灵台。羲和占日，常仪占月，车区占星气，伶伦造律吕，大挠作甲子，隶首造算数。容成总六术，以定气运。历纪少昊使玄鸟氏司分，伯赵氏司至，青鸟氏司起，丹鸟氏司闭，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19176.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>天文部·历律</b></span>
+<a href="javascript:PlayBookv(19176)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19176" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19176" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>定气运</strong></p>
+<p>　　黄帝受《河图》，始设灵台。羲和占日，常仪占月，车区占星气，伶伦造律吕，大挠作甲子，隶首造算数。容成总六术，以定气运。</p>
+<p>　　<strong>历纪</strong></p>
+<p>　　少昊使玄鸟氏司分，伯赵氏司至，青鸟氏司起，丹鸟氏司闭，颛顼受之，以孟春建寅为元，始为历宗。尧使羲仲叔主春夏，和仲叔主秋冬，以闰月正四时，始为历纪。</p>
+<p>　　<strong>历元</strong></p>
+<p>　　黄帝始为历元，起辛卯，高阳氏起乙卯。舜用戊午，夏用丙寅，殷用甲寅，周用丁巳，秦用乙卯。汉作太初历元以丁丑。夏、商、周以三统改正朔。三代而下，造历者各有增创，如太初起之以律，而候气于黄钟，太衍符之以《易》，而较数于分秒，授时准之以晷，而测验于仪象。</p>
+<p>　　<strong>造历</strong></p>
+<p>　　黄帝迎日推筴，尧闰月成岁。舜在璇玑玉衡。三代历无定法，周秦闰余乖次。刘歆造《三统历》，而是非始定。东汉李梵造《四分历》，而仪式方备。刘洪造《干象历》，始悟月行迟速。魏黄初间始以日食课其疏密。杨伟造《景初历》，始立交食起亏术。又何承天造《元嘉历》，始悟朔望及弦皆定大小余，及以晷影验气。又祖冲之造《大明历》，始悟太阳岁次之数极，不动之处一度余。又张子信始悟日月交道有表里，五星有迟速留逆。又张胄玄造《大业历》，始立五星入气加减法，及日应食不食术。刘焯造《七曜历》，始悟日行有盈缩，及立推黄道月道。又傅仁均造《戊寅元历》，颇采旧历，始用定制。又李淳风造《麟德历》，始为总法，用进朔以避晦晨月见。又一行造《大衍历》，始以朔有四大三小，定九服轨满交食之异，及创立岁星差合术。又徐昂造《宣明历》，始悟日食有气刻时三差。又边冈崇《玄历》，始立相减相乘法，以求黄道月道。又王朴《钦天历》，始变五星法，迟留逆行，舒亟有渐。又周琮造《明天历》，始悟日法积年自然之数。又姚舜辅造《纪元历》，始悟食甚泛余差数。以上计千一百八十二年。创法有三家，汉洛下闳（洛姓，下闳名）始取法黄钟律数创历（律容一龠，积八十一寸，则一日之分也）。唐僧一行（姓张名璲）始改从大易蓍策数修历（本易大衍以四十九分为算）。晋虞喜始立岁次，以五十年退一度。何承天为太过进之。刘焯取二家中数折之。至元郭守敬始测景验气，积六十年奇退一度，始定差法。</p>
+<p>　　<strong>改历</strong></p>
+<p>　　按自黄帝讫秦末凡六改，汉高讫汉末凡五改，隋文讫隋末凡十三改，唐高讫周末凡十六改，宋太祖讫宋末凡十八改，金熙宗讫元末凡三改。而法，西汉莫善于太初；东汉莫善于四分；由魏至隋莫善于皇极；在唐则称大衍，在五代则称钦天；至元授时，郭守敬立仪测验，较古精密。</p>
+<p>　　<strong>仪象</strong></p>
+<p>　　黄帝命成容作盖天，舜察玑衡（以璇为玑，用以转动为玑，以玉为管。横置其中为衡）。颛顼始为浑仪，尧复之，浑仪遭秦灭。洛下闳始复经营运仪，鲜于妄人又度之。耿寿昌始铸为象。张衡仪始为内规外规。李淳风仪表里三重。洛下闳为员仪，梁令瓒为游仪，郭守敬为简仪、仰仪。后汉有铜仪，后魏有铁仪，李淳风有木浑仪，唐明皇有水浑天。张衡始造候风地动仪（形似樽，外有八龙衔丸，震则机发，吐丸下，蟾蜍承之）。伏羲始作土圭测影，伊尹作水准，得日晷辨方向。黄帝始为刻漏，夏商宣其制为漏箭。宋燕肃作水秤，周公始分更点。宋太祖闻陈抟怕五更头之言，始去前后二点。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19175.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19177.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

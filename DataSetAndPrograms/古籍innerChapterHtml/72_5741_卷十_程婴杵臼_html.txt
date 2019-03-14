@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+容斋随笔·卷十·程婴杵臼_古诗文网
+</title>
+<meta content="《春秋》于鲁成公八年书晋杀赵同、赵括，于十年书晋景公卒，相去二年。而《史记》乃有屠岸贾欲灭赵氏、程婴、公孙杵臼共匿赵孤，十五年景公复立赵武之说。以年世考之，则自同，括死后，景公又卒" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5741.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4248" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·程婴杵臼</b></span>
+<a href="javascript:PlayBookv(5741)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5741" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4248)" id="leftbtn4248" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5741" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b4%aa%e8%bf%88">洪迈</a></p>
+<div class="contson">
+<p>　　《春秋》于鲁成公八年书晋杀赵同、赵括，于十年书晋景公卒，相去二年。而《史记》乃有屠岸贾欲灭赵氏、程婴、公孙杵臼共匿赵孤，十五年景公复立赵武之说。以年世考之，则自同，括死后，景公又卒，厉公立八年而弑，悼公立又五年矣，其乖妄如是。婴、杵臼之事，乃战国侠士刺客所为，春秋时风俗无此也。元丰中，吴处厚以皇嗣未立，上书乞立二人庙，访求其墓，优加封爵。敕令河东路访录遗迹，得其冢于绛州太平县。诏封婴为成信侯，杵臼为忠智侯，庙食于绛。后又以韩厥存赵，追封为公。三人皆以春秋祠于祚德庙。且自晋景公至元丰，千六百五十年矣，古先圣帝、明王之墓，尚不可考，区区二士，岂复有兆域所在乎？绛郡以朝命所访，姑指他丘垄为之词以塞责耳。此事之必然者也。处厚之书进御，即除将作丞，狃于出位陈言以得宠禄，遂有讦蔡新州十诗之事，所获几何，贻笑无极，哀哉！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5740.aspx">上一章</a>
+<a href="/guwen/book_72.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5742.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4248" style="width:580px; display:none;"></div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

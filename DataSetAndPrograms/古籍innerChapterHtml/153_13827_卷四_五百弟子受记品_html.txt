@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+法华经·卷四·五百弟子受记品_古诗文网
+</title>
+<meta content="尔时富楼那弥多罗尼子、从佛闻是智慧方便、随宜说法，又闻授诸大弟子阿耨多罗三藐三菩提记，复闻宿世因缘之事，复闻诸佛有大自在神通之力，得未曾有，心净踊跃。即从座起，到于佛前，头面礼足，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13827.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·五百弟子受记品</b></span>
+<a href="javascript:PlayBookv(13827)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13827" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13827" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%b8%a0%e6%91%a9%e7%bd%97%e4%bb%80%e8%af%91">鸠摩罗什译</a></p>
+<div class="contson">
+<p>　　尔时富楼那弥多罗尼子、从佛闻是智慧方便、随宜说法，又闻授诸大弟子阿耨多罗三藐三菩提记，复闻宿世因缘之事，复闻诸佛有大自在神通之力，得未曾有，心净踊跃。即从座起，到于佛前，头面礼足，却住一面，瞻仰尊颜、目不暂舍。而作是念：“世尊甚奇特，所为稀有。随顺世间若干种性，以方便知见、而为说法，拔出众生处处贪著。我等于佛功德，言不能宣，惟佛世尊能知我等深心本愿。”</p>
+<p>　　尔时佛告诸比丘：“汝等见是富楼那弥多罗尼子否。我常称其于说法人中、最为第一。亦常叹其种种功德，一精一勤护持，助宣我法，能于四众、示教利喜，具足解释佛之正法，而大饶益同梵行者。自舍如来，无能尽其言论之辩。”</p>
+<p>　　“汝等勿谓富楼那但能护持助宣我法，亦于过去九十亿诸佛所、护持助宣佛之正法，于彼说法人中、亦最第一。又于诸佛所说空法，明了通达，得四无碍智，常能审谛清净说法，无有疑惑，具足菩萨神通之力。随其寿命，常修梵行，彼佛世人、咸皆谓之实是声闻。而富楼那以斯方便，饶益无量百千众生，又化无量阿僧祇人、令立阿耨多罗三藐三菩提。为净佛土故，常作佛事，教化众生。”</p>
+<p>　　“诸比丘，富楼那亦于七佛说法人中、而得第一，今于我所说法人中、亦为第一，于贤劫中当来诸佛、说法人中，亦复第一，而皆护持、助宣佛法。亦于未来、护持助宣无量无边诸佛之法，教化饶益无量众生，令立阿耨多罗三藐三菩提。为净佛土故，常勤一精一进、教化众生，渐渐具足菩萨之道。过无量阿僧祇劫，当于此土、得阿耨多罗三藐三菩提，号曰法明如来、应供、正遍知、明行足、善逝世间解、无上士、调御丈夫、天人师、佛、世尊。”</p>
+<p>　　其佛、以恒河沙等三千大千世界、为一佛土，七宝为地，地平如掌，无有山陵溪涧沟壑，七宝台观、充满其中，诸天宫殿，近处虚空，人天交接，两得相见。无诸恶道，亦无女人，一切众生，皆以化生，无有一婬一欲。得大神通，身出光明，飞行自在，志念坚固，一精一进智慧，普皆金色，三十二相、而自庄严。其国众生，常以二食，一者、法喜食，二者、禅悦食。有无量阿僧祇千万亿那由他诸菩萨众，得大神通、四无碍智，善能教化众生之类。其声闻众、算数校计所不能知，皆得具足六通、三明、及八解脱。其佛国土、有如是等无量功德庄严成就。劫名宝明，国名善净。其佛、寿命无量阿僧祇劫。法住甚久，佛灭度后，起七宝塔、遍满其国。</p>
+<p>　　尔时世尊欲重宣此义，而说偈言：</p>
+<p>　　诸比丘谛听， 佛子所行道， 善学方便故， 不可得思议。<br/>　　知众乐小法、 而畏于大智， 是故诸菩萨， 作声闻缘觉，<br/>　　以无数方便、 化诸众生类。 自说是声闻， 去佛道甚远，<br/>　　度脱无量众， 皆悉得成就， 虽小欲懈怠， 渐当令作佛。<br/>　　内秘菩萨行， 外现是声闻， 少欲厌生死， 实自净佛土。<br/>　　示众有三毒， 又现邪见相， 我弟子如是， 方便度众生。<br/>　　若我具足说、 种种现化事， 众生闻是者， 心则怀疑惑。<br/>　　今此富楼那， 于昔千亿佛、 勤修所行道， 宣护诸佛法。<br/>　　为求无上慧， 而于诸佛所， 现居弟子上。 多闻有智慧，<br/>　　所说无所畏， 能令众欢喜， 未曾有疲倦， 而以助佛事。<br/>　　已度大神通， 具四无碍智， 知诸根利钝， 常说清净法，<br/>　　演畅如是义， 教诸千亿众， 令住大乘法， 而自净佛土。<br/>　　未来亦供养、 无量无数佛， 护助宣正法， 亦自净佛土。<br/>　　常以诸方便， 说法无所畏， 度不可计众、 成就一切智。<br/>　　供养诸如来， 护持法宝藏， 其后得成佛， 号名曰法明。<br/>　　其国名善净， 七宝所合成， 劫名为宝明。 菩萨众甚多，<br/>　　其数无量亿， 皆度大神通， 威德力具足， 充满其国土。<br/>　　声闻亦无数， 三明八解脱， 得四无碍智， 以是等为僧。<br/>　　其国诸众生， 一婬一欲皆已断， 纯一变化生， 具相庄严身。<br/>　　法喜禅悦食， 更无余食想。 无有诸女人， 亦无诸恶道。<br/>　　富楼那比丘， 功德悉成满， 当得斯净土， 贤圣众甚多。<br/>　　如是无量事， 我今但略说。</p>
+<p>　　尔时千二百阿罗汉心自在者、作是念：“我等欢喜，得未曾有，若世尊各见授记、如余大弟子者，不亦快乎。”佛知此等心之所念，告摩诃迦叶：“是千二百阿罗汉，我今当现前次第与授阿耨多罗三藐三菩萨记。于此众中，我大弟子憍陈如比丘，当供养六万二千亿佛，然后得成为佛，号曰普明如来、应供、正遍知、明行足、善逝世间解、无上士、调御丈夫、天人师、佛、世尊。其五百阿罗汉、优楼频螺迦叶、伽耶迦叶、那提迦叶、迦留陀夷、优陀夷、阿冕楼驮、离婆多、劫宾那、薄拘罗、周陀、莎伽陀、等，皆当得阿耨多罗三藐三菩提，尽同一号，名曰普明。”</p>
+<p>　　尔时世尊欲重宣此义，而说偈言：</p>
+<p>　　憍陈如比丘， 当见无量佛， 过阿僧祇劫， 乃成等正觉。<br/>　　常放大光明， 具足诸神通， 名闻遍十方， 一切之所敬，<br/>　　常说无上道， 故号为普明。 其国土清净， 菩萨皆勇猛，<br/>　　咸升妙楼阁， 游诸十方国， 以无上供具、 奉献于诸佛。<br/>　　作是供养已， 心怀大欢喜， 须臾还本国， 有如是神力。<br/>　　佛寿六万劫， 正法住倍寿， 像法复倍是， 法灭天人忧。<br/>　　其五百比丘， 次第当作佛， 同号曰普明， 转次而授记。<br/>　　我灭度之后， 某甲当作佛， 其所化世间， 亦如我今日。<br/>　　国土之严净， 及诸神通力， 菩萨声闻众， 正法及像法，<br/>　　寿命劫多少， 皆如上所说。 迦叶汝已知， 五百自在者，<br/>　　余诸声闻众， 亦当复如是。 其不在此会， 汝当为宣说。</p>
+<p>　　尔时五百阿罗汉、于佛前得受记已，欢喜踊跃，即从座起，到于佛前，头面礼足，悔过自责：“世尊，我等常作是念，自谓已得究竟灭度，今乃知之、如无智者。所以者何。我等应得如来智慧，而便自以小智为足。”</p>
+<p>　　“世尊，譬如有人至亲友家，醉酒而卧。是时亲友官事当行，以无价宝珠、系其衣里，与之而去。其人醉卧，都不觉知。起已、游行，到于他国。为衣食故，勤力求索，甚大艰难，若少有所得，便以为足。于后、亲友会遇见之，而作是言：‘咄哉、丈夫，何为衣食乃至如是。我昔欲令汝得安乐，五欲自恣，于某年月日，以无价宝珠、系汝衣里，今故现在。而汝不知，勤苦忧恼，以求自活，甚为痴也。汝今可以此宝、贸易所需，常可如意，无所乏短。’”</p>
+<p>　　“佛亦如是，为菩萨时，教化我等，令发一切智心。而寻废忘，不知不觉，既得阿罗汉道，自谓灭度，资生艰难，得少为足。一切智愿，犹在、不失。今者、世尊觉悟我等，作如是言：‘诸比丘，汝等所得，非究竟灭。我久令汝等种佛善根，以方便故，示涅槃相，而汝谓为实得灭度。’”</p>
+<p>　　“世尊，我今乃知实是菩萨，得受阿耨多罗三藐三菩提记，以是因缘，甚大欢喜，得未曾有。”</p>
+<p>　　尔时阿若憍陈如等，欲重宣此义，而说偈言：</p>
+<p>　　我等闻无上、 安隐授记声， 欢喜未曾有， 礼无量智佛。<br/>　　今于世尊前、 自悔诸过咎， 于无量佛宝， 得少涅槃分，<br/>　　如无智愚人， 便自以为足。 譬如贫穷人、 往至亲友家，<br/>　　其家甚大富， 具设诸肴膳。 以无价宝珠、 系著内衣里，<br/>　　默与而舍去， 时卧不觉知。 是人既已起， 游行诣他国，<br/>　　求衣食自济， 资生甚艰难， 得少便为足， 更不愿好者。<br/>　　不觉内衣里、 有无价宝珠。 与珠之亲友， 后见此贫人，<br/>　　苦切责之已， 示以所系珠。 贫人见此珠， 其心大欢喜，<br/>　　富有诸财物， 五欲而自恣。 我等亦如是， 世尊于长夜，<br/>　　常愍见教化， 令种无上愿。 我等无智故， 不觉亦不知，<br/>　　得少涅槃分， 自足不求余。 今佛觉悟我， 言非实灭度，<br/>　　得佛无上慧， 尔乃为真灭。 我今从佛闻 　授记庄严事，<br/>　　及转次受决， 身心遍欢喜。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13826.aspx">上一章</a>
+<a href="/guwen/book_153.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13828.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

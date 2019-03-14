@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+何博士备论·邓禹论_古诗文网
+</title>
+<meta content="善用兵者，能骄敌之强，而怠敌之锐。彼之势诚强，则吾形之以甚弱，使其恃之以为独强，而至于骄。彼之气诚锐，则吾敛之以不应，使其无得以逞其锐，而至于怠。然后出吾所匿之强以加其骄，出吾所伏" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20154.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>邓禹论</b></span>
+<a href="javascript:PlayBookv(20154)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20154" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20154" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%95%e5%8e%bb%e9%9d%9e">何去非</a></p>
+<div class="contson">
+<p>　　善用兵者，能骄敌之强，而怠敌之锐。彼之势诚强，则吾形之以甚弱，使其恃之以为独强，而至于骄。彼之气诚锐，则吾敛之以不应，使其无得以逞其锐，而至于怠。然后出吾所匿之强以加其骄，出吾所伏之锐以加其怠，使其虽有巧者不及窥，勇者不及惫，则制胜在我矣。</p>
+<p>　　昔者冒顿之灭东胡、李牧之大破匈奴者，中之以其骄也；赵奢之破秦军，周亚夫之败吴楚者，中之以其怠也。虽然，求骄以怠人之军者，必有夫坚制之气与夫善待之度。迫之而不为动，挠之而不为应者，其气也；辱之而不为忿，激之而不为变者，其度也。持是之气，守是之度，为其上者无得而令，为其下者无得而议，然后敌可胜而功可必也。</p>
+<p>　　东之恃其强，而易于冒顿也，冒顿因其易我而遂骄之。求马畀之矣，而复求妇；妇畀之矣，而复求土。冒顿大议于群臣，悉诛其欲与土者，驰马而赴东胡，令之曰：“后至者斩！”国人从之，遂灭东胡。</p>
+<p>　　秦人伐韩，军于阏与，赵使赵奢救之。奢因其锐而欲怠之也，去邯鄿三十里而止，令于官曰：“敢以军事谏者死！”秦军武安西，鼓噪勒兵，屋瓦尽振。军中一人言急救武安，奢立斩之。坚壁增垒，三旬不行。秦军稍懈，奢卷甲而趋之，二日一夜至于阏与五十里而军。秦人不意其至，悉甲逆之，一战而大破秦军。此冒顿、赵奢所以骄而怠人者，为其下者无得而议之也。</p>
+<p>　　李牧之为赵守北边也，与士约曰：“匈奴即入盗，急入收保，有敢捕虏者斩！”如是者数岁，匈奴以为怯。赵王以谴牧，牧如故态。王怒召牧，易以他将。匈奴每至，战辄失利。王复使牧往，复如故约。居数岁，匈奴诚以为怯。牧乃阴饬车骑，大纵畜牧以饵之。匈奴小人，佯北不胜，单于遂以其众大至。牧设奇大破之，斩骑十万，单于遁徙，遂亡边患。</p>
+<p>　　吴楚以山东反汉，而行攻梁，汉使周亚夫讨之。梁王，景帝之母弟。亚夫以其锋方锐，图挫而怠之，遂以梁委之而不救。梁急诉于帝，虽数诏亚夫救梁而不受也，卒以破吴。此李牧、亚夫所以骄而怠人者，为其上者无得而令之也。虽然，使夫四人者无气以持之，无度以守之，主得以令，而下得以议，则亦无以骄怠于人而胜之矣。</p>
+<p>　　昔日汉武帝被命更始，安集河北，始于邓禹于徒步之中。恃之以为萧何者，以其言足以就大计，其智足以定大业，且非群臣之等夷也。遂以西方之事委之，而禹亦能胜所属任，所向就功。赤眉之入长安，诸将豪杰皆欲击之。禹以其乘新胜之强，财富锋锐，然盗贼群臣，无他远计，必生变故。而吾众虽多，战胜者少，又乏资馈，难与力争而可以计破也。且将休兵北道，以观其弊。于是别军北趋栒邑，以就粮养士，盖将有以骄而怠之，然后取之也。此禹之计得矣，光武极欲天下之集，而缓其为计与功也，遂迫以进讨。禹无以专制，乃以其兵去栒邑，击赤眉果不能守，西守扶风。禹虽得入关中，然卒饥干敝，无足以制贼者，是以赤眉复还入之。禹无以抗，乃不胜其忿悁，而数以惫兵徼战，至于屡北，仅以身免，声威功烈一朝沮丧。此知所以骄而怠人之术矣，惜其为气与度者不足以持守之，是以一愤而不能复举也。</p>
+<p>　　故善于择将者，必先求其气，而后求其材；先察其度，而后察其智。气足以御材，度足以养智，然后可以授之兵而责之战矣。嗟乎！以光武之明天任人，以邓禹之笃于得君，然至此而背戾矣。况夫以昏庸而御夫疏贱者，功可得而必哉？</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20153.aspx">上一章</a>
+<a href="/guwen/book_280.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20155.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

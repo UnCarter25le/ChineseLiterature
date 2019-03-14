@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·隆_古诗文网
+</title>
+<meta content="历史来源　　1、出自以地名为姓。春秋时期鲁国有个地方叫隆邑，后来居住在这里或封地在这里的人便以地名为姓，称隆姓。`　　2、出自匈奴部族。西汉时期，北方少数民族匈奴部落有隆姓。家族名" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2674.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>隆</b></span>
+<a href="javascript:PlayBookv(2674)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2674" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2674" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自以地名为姓。春秋时期鲁国有个地方叫隆邑，后来居住在这里或封地在这里的人便以地名为姓，称隆姓。`<br/>　　2、出自匈奴部族。西汉时期，北方少数民族匈奴部落有隆姓。</p>
+<p><strong>家族名人</strong><br/>　　隆英：明代御史。宣德时中举人，任南宫县令。他勤俭节约，重视农耕，有古循吏风，为官廉介不可夺。他当县官时，京城来了两个武官，举着大令，要强占农田给军队用。隆英理直气壮地说，本县没有空余地，除了我县衙门大堂前这块草皮，其余都是关系国计民生的农田。结果隆英得胜。<br/>　　隆光祖：明朝人，举为进士而在朝中当官，但与掌握朝政大权的张居正合不来。张居正是位有功也有过的人物。后来隆光祖重被起用，当了吏部尚书，又重新任命一大批被张居中排挤的官吏。隆光祖还向朝廷推荐了许多人才，都是能为国为民能效劳立功的人物。<br/>　　隆科多：清康熙、雍正时大臣。满洲镶黄旗人。佟国维三子，圣祖孝懿仁皇后佟佳氏弟。隆科多于康熙朝累官理藩院尚书，兼步军统领，掌握京师警卫武力。清圣祖玄烨临终，王大臣受顾命者，惟他一人。他参预清世宗胤禛夺权。世宗之立，外得力于年羹尧，内得力于隆科多。世宗即位，以拥戴殊勋，被任命为总理事务四大臣之一，官至吏部尚书，加太保，备极宠任，呼为舅而不名。铨选官吏，不经奏请，任意为之，号为“佟驯。随后，迅速被解除步军统领一职，以削弱其过分庞大的权力。隆科多平素与川陕总督年羹尧交结甚厚。雍正三年（1725年），年败，隆科多以党附年羹尧、徇庇查嗣庭获罪，削太保。四年，罢尚书，令料理阿尔泰等路边疆事务。寻命勘议俄罗斯边界。五年六月，私钞玉牒事发，被罗织罪状，于畅春园外筑屋三楹，永远禁锢。六年六月，卒于禁所。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）隆姓在大陆和台湾都没有列入百家姓前一百位。春秋时，鲁国有一个地方名叫隆邑，居住在这里的人以地名为姓，称为隆氏。历史上，北方少数民族匈奴部落有隆姓。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2673.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2675.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

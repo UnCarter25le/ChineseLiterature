@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+徐霞客游记·江右游日记五_古诗文网
+</title>
+<meta content="（十一月初一日缺） 十一月初二日　出建昌南门，西行二里至麻姑山足。上山二里，半山亭，有卧瀑。又一里半，喷雪〔亭〕，双瀑。〔麻姑以水胜，而诎qǜ于峰峦。半山亭之上，有水横骞qiān，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5343.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4468" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>江右游日记五</b></span>
+<a href="javascript:PlayBookv(5343)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5343" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4468)" id="leftbtn4468" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5343" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%bc%98%e7%a5%96">徐弘祖</a></p>
+<div class="contson">
+<p>　　（十一月初一日缺） </p>
+<p>　　十一月初二日　出建昌南门，西行二里至麻姑山足。上山二里，半山亭，有卧瀑。又一里半，喷雪〔亭〕，双瀑。〔麻姑以水胜，而诎qǜ于峰峦。半山亭之上，有水横骞qiān，如卧龙蜿蜒。上至喷雪，则悬瀑落峰间，一若疋同“匹”练下垂，一若玉箸分泻。分泻者，交萦石隙，珠络纵横，亦不止于两，但远眺则成两瀑耳。既坠，仍合为一，复如卧龙斜骞出峡去。但上之悬坠止二百尺，不能与雁宕、匡庐争胜。〕又一里，连泄五级，上有二潭甚深，旧亭新盖，〔可名“五泄”。五泄各不相见，各自争奇。〕〔螺转环连，雪英指白的水花四出；此可一目而尽，为少逊耳。〕又半里，龙门峡，上有桥。〔两崖夹立，泉捣中壑，不敢下视；架桥俯瞰于上，又变容与为雄壮观。龙门而上，溪平山绕，自成洞天，不复知身在高山上也。〕又半里，麻姑坛、仙都观。左有大夫松，已死；右有通海井。西上岭十里，逾篾竹岭，为丹霞洞。又上一里，为王仙岭，最高。西下二里，张坊。西左坳中为华严庵，宿。 </p>
+<p>　　初三日　王仙岭东下一岭为丹霞洞。又逾篾竹岭西坳中，南上越两山，东南共五里为飞炉峰，有小石炉方尺，自军峰山南飞至。其地南为军峰，北接麻姑，东瞰盱江，西极芙蓉，盖在五老峰之西，阳华峰之西北矣。（以下有缺） </p>
+<p>　　初四日　出建昌东门，过太平桥南行，循溪五六界，折而西一里，出从姑之南，〔上天柱峰，〕见山顶两石并起如双髻者。〔北〕向登其岩，曰飞鳌峰。岩前曰长春阁。阁之东有堂曰“鳌峰”，深处为罗先生讲学之所。其后飞突而出，倒书曰“印空”。下有方池，名曰玉冷泉。从东上天际亭，亭后凿石悬梯而上，有洞。洞口隘如斗，蛇像蛇一样伏乃入，其中高穹而宽。此天柱之南隅也。出洞，仍下石级，沿崖从西登。天柱、鳌峰之间，有台一掌，上眺层崖，下临绝壁，竹拂石门，树悬崖隙，为云岩台。从其上西穿峰峡，架木崖间，曰双玉楼。再西，一石欲坠未坠，两峡并起，上下离立，若中剖而分者，曰一线天。此鳌峰之北隅也。一线既尽，峡转而北，有平石二片，一方一圆，横庋峡内，曰跏趺jiā　fǜ佛教徒之盘腿坐法石。此二峰者，从天柱之西，鳌峰之北，又起二峰，高杀于鳌峰、天柱，而附丽成奇者也。其东一峰，即南与鳌峰夹成一线，又与西峰夹庋跏趺者。西峰之西，又有片石横架成台，其东西俱可跏趺云。从跏趺石东践一动石，梯东峰而上，其顶南架梁于一线，遂出鳌峰之崩，东凿级以跻，遂凌天柱之表。于是北瞰郡城，琉璃映日；西瞻麻峤，翡翠插天。〔时天霁，明爽殊甚。〕从此北下天柱之北，穹崖下临，片石夹立，上有古梅一株，曰“屏风石”。天柱北裂一隙，上有悬台可跻而坐，曰“滴水崖”。内有石窦，直上三丈，正与南隅悬崖之洞相对。此天柱之北隅也。从此东下，又得穹崖一层，曰读书台，今为竹影庵。从其南攀石而登，曰梅花岩，石隙东向，可卧可憩。此天柱东隅之下层也。飞鳌之西有斗姆阁，其侧有蟾窟石，下嵌为窝，上突为台，亦可趺fǜ同跗可啸。此飞鳌西隅之下层也。（以下有缺） </p>
+<p>　　是日，建昌遇夏调御、丘士章。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5342.aspx">上一章</a>
+<a href="/guwen/book_67.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5344.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4468" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+阅微草堂笔记·附·纪汝佶六则二_古诗文网
+</title>
+<meta content="戊寅五月二十八日，吴林塘年五旬，时居太平馆中，余往为寿，座客有能为烟戏者，年约六十余，口操南音，谈吐风雅，不知其何以戏也。俄有仆携巨烟筒来，中可受烟四两，燃火吸之，且吸且咽，食顷方" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17178.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>附·纪汝佶六则二</b></span>
+<a href="javascript:PlayBookv(17178)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17178" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17178" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ba%aa%e6%98%80">纪昀</a></p>
+<div class="contson">
+<p>　　戊寅五月二十八日，吴林塘年五旬，时居太平馆中，余往为寿，座客有能为烟戏者，年约六十余，口操南音，谈吐风雅，不知其何以戏也。俄有仆携巨烟筒来，中可受烟四两，燃火吸之，且吸且咽，食顷方尽，索巨碗沦苦茗饮讫，谓主人曰：为君添鹤算，可乎？即张吻吐鹤二只，飞向屋角，徐吐一圈，大如盘，双鹤穿之而过，往来飞舞，如掷梭然。既而嘎喉有声，吐烟如一线，亭亭直上，散作水波云状，谛视皆寸许小鹤，翩翩左右，移时方灭。众皆以为目所未睹也。俄其弟子继至奉一觞与主人曰：吾技不如师，为君小作剧可乎？呼吸间，有朵云缥缈筵前，徐结成小楼阁，雕栏绮窗，历历如画。曰：此海屋添筹也。诸客复大惊，以为指上毫光，现玲珑塔，亦无以喻是矣。以余所见诸说部，如掷杯化鹤，顷刻开花之类，不可殚述，毋亦实有其事？后之人少所见，多所怪乎？如此事非余目睹，亦终不信也。</p>
+<p>　　豫南李某，酷好马，尝于遵化牛市中，见一马，通体如墨，映日有光，而腹毛则白于霜雪，所谓乌云托月者也。高六尺余，骏尾鬈然，足生爪，长寸许，双目莹澈如水精，其气昂昂如鸡群之鹤，李以百金得之，爱其神骏，喂秣必身亲。然性至狞劣，每覆障泥，须施绊锁，有力者数人，左右把持，然后可乘，按辔徐行，不觉其驶，而瞬息已百里。有一处去家五日程，日午就道，比至，则日未衔山也。以此愈爱之，而畏其难控，亦不敢数乘。一日，有伟丈夫碧眼虬髯，磞门求见，自云能教此马，引就枥下，马一见即长呜，此人以掌击左右肋，始弭耳不动。乃牵就空屋中，阖户与马盘旋，李自隙窥之，见其手提马耳，喃喃似有所云，马似首肯，徐又提耳喃喃如前，马亦似首肯。李大惊异，以为真能通马语也。少间，启户，引缰授李，马已汗如濡矣。临行谓李曰：此马能择主，亦甚可喜，然其性未定，恐或伤人，今则可以无虑矣。马自是驯良，经二十余载，骨干如初。后李至九十余而终，马忽逸去，莫知所往。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17177.aspx">上一章</a>
+<a href="/guwen/book_197.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

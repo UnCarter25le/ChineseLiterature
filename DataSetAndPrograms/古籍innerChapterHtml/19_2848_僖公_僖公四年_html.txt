@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·僖公·僖公四年_古诗文网
+</title>
+<meta content="【经】四年春王正月，公会齐侯、宋公、陈侯、卫侯、郑伯，许男、曹伯侵蔡。蔡溃，遂伐楚，次于陉。夏，许男新臣卒。楚屈完来盟于师，盟于召陵。齐人执陈辕涛涂。秋，及江人、黄人伐陈。八月，公" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2848.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1369" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>僖公·僖公四年</b></span>
+<a href="javascript:PlayBookv(2848)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2848" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1369)" id="leftbtn1369" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2848" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】四年春王正月，公会齐侯、宋公、陈侯、卫侯、郑伯，许男、曹伯侵蔡。蔡溃，遂伐楚，次于陉。夏，许男新臣卒。楚屈完来盟于师，盟于召陵。齐人执陈辕涛涂。秋，及江人、黄人伐陈。八月，公至自伐楚。葬许穆公。冬十有二月，公孙兹帅师会齐人、宋人、卫人、郑人、许人、曹人侵陈。 </p>
+<p>　　【传】四年春，齐侯以诸侯之师侵蔡。蔡溃。遂伐楚。楚子使与师言曰：「君处北海，寡人处南海，唯是风马牛不相及也。不虞君之涉吾地也，何故？」管仲对曰：「昔召康公命我先君大公曰：『五侯九伯，女实征之，以夹辅周室。』赐我先君履，东至于海，西至于河，南至于穆陵，北至于无棣。尔贡包茅不入，王祭不共，无以缩酒，寡人是征。昭王南征而不复，寡人是问。」对曰：「贡之不入，寡君之罪也，敢不共给。昭王之不复，君其问诸水滨。」师进，次于陉。 </p>
+<p>　　夏，楚子使屈完如师。师退，次于召陵。 </p>
+<p>　　齐侯陈诸侯之师，与屈完乘而观之。齐侯曰：「岂不谷是为？先君之好是继。与不谷同好，如何？」对曰：「君惠徼福于敝邑之社稷，辱收寡君，寡君之愿也。」齐侯曰：「以此众战，谁能御之？以此攻城，何城不克？」对曰：「君若以德绥诸侯，谁敢不服？君若以力，楚国方城以为城，汉水以为池，虽众，无所用之。」 </p>
+<p>　　屈完及诸侯盟。 </p>
+<p>　　陈辕涛涂谓郑申侯曰：「师出于陈、郑之间，国必甚病。若出于东方，观兵于东夷，循海而归，其可也。」申侯曰：「善。」涛涂以告，齐侯许之。申侯见，曰：「师老矣，若出于东方而遇敌，惧不可用也。若出于陈、郑之间，共其资粮悱屦，其可也。」齐侯说，与之虎牢。执辕涛涂。 </p>
+<p>　　秋，伐陈，讨不忠也。</p>
+<p>　　许穆公卒于师，葬之以侯，礼也。凡诸侯薨于朝会，加一等；死王事，加二等。于是有以衮敛。 </p>
+<p>　　冬，叔孙戴伯帅师，会诸侯之师侵陈。陈成，归辕涛涂。 </p>
+<p>　　初，晋献公欲以骊姬为夫人，卜之，不吉；筮之，吉。公曰：「从筮。」卜人曰：「筮短龟长，不如从长。且其繇曰：『专之渝，攘公之羭。一薰一莸，十年尚犹有臭。』必不可。」弗听，立之。生奚齐，其娣生卓子。及将立奚齐，既与中大夫成谋，姬谓大子曰：「君梦齐姜，必速祭之。」大子祭于曲沃，归胙于公。公田，姬置诸宫六日。公至，毒而献之。公祭之地，地坟。与犬，犬毙。与小臣，小臣亦毙。姬泣曰：「贼由大子。」大子奔新城。公杀其傅杜原款。或谓大子：「子辞，君必辩焉。」大子曰：「君非姬氏，居不安，食不饱。我辞，姬必有罪。君老矣，吾又不乐。」曰：「子其行乎！」大子曰：「君实不察其罪，被此名也以出，人谁纳我？」 </p>
+<p>　　十二月戊申，缢于新城。姬遂谮二公子曰：「皆知之。」重耳奔蒲。夷吾奔屈。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2847.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2849.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1369" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

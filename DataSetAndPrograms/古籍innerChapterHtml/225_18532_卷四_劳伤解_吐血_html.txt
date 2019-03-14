@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷四·劳伤解·吐血_古诗文网
+</title>
+<meta content="血敛于肺而降于胃，肺气能收，则鼻不衄，胃气善降，则口不吐。肺气莫收，经络之血，乃从鼻衄；胃气莫降，脏腑之血，因自口吐。而肺气之敛，亦因胃气之降，吐衄之证，总以降胃为主。胃气不降，原" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18532.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·劳伤解·吐血</b></span>
+<a href="javascript:PlayBookv(18532)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18532" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18532" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　血敛于肺而降于胃，肺气能收，则鼻不衄，胃气善降，则口不吐。肺气莫收，经络之血，乃从鼻衄；胃气莫降，脏腑之血，因自口吐。而肺气之敛，亦因胃气之降，吐衄之证，总以降胃为主。</p>
+<p>　　胃气不降，原于土湿，土湿之由，原于寒水之旺。水寒土湿，中气堙郁，血不流行，故凝瘀而紫黑。蓄积莫容，势必外脱。土郁而无下行之路，是以上自口出。凡呕吐瘀血，紫黑成块，皆土败阳虚，中下湿寒之证。瘀血去后，寒湿愈增，往往食减而不消，饮少而不化。一旦土崩而阳绝，则性命倾殒，故大吐瘀血之家，多至于死。</p>
+<p>　　其血色红鲜者，则缘肺热。然始因上热，而究变中寒。以血藏于肝，而肝木生火，心火之热，即血中之温气所化。血去而血中之温气亡泄，是以大失血后，寒慄而战摇也。而其上热之时，推其中下，亦是湿寒。盖君相之火，随戊土下降，而归坎水，则上清而下暖。胃土不降，则君相升泄。非戊土之逆，而火何以升！非己土之湿，而胃何以逆！非癸水之寒，而土何以湿！胃逆火泄，升炎于上，而坎阳绝根，其肾水必寒。寒水泛滥，其脾土必湿，理自然也。</p>
+<p>　　若夫零星咯吐，见于痰唾之中者，其证稍缓。以血去非多，则气泄有限，虽亦中下寒湿，而一时不至困败。但一遭庸手，久服清润，败其中气，则亦归死亡耳。</p>
+<p>　　血证是虚劳大病，半死半生，十仅救五。而唐后医书，皆滋阴泻火，今古雷同，百不救一，实可哀也。</p>
+<p>　　灵雨汤</p>
+<p>　　甘草二钱　人参二钱　茯苓三钱　半夏三钱　干姜三钱　柏叶三钱　丹皮三钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　治大吐瘀血者。</p>
+<p>　　吐血之证，中下湿寒，凝瘀上涌，用人参、甘草，补中培土，茯苓、干姜，去湿温寒，柏叶清金敛血，丹皮疏木行瘀，自是不易之法，尤当重用半夏，以降胃逆。</p>
+<p>　　血本下行，肺胃既逆，血无下行之路，陈菀腐败，势必上涌。旧血既去，新血又瘀，逆行上窍，遂成熟路。再投清润之药，助其寒湿，中气败亡，速之死矣。若温中燥土，令其阳回湿去，复以半夏降逆，使胃气下行，瘀血既吐，鲜血自不再来。若下寒甚者，蜀椒、附子，亦当大用。</p>
+<p>　　其零星咯吐，红鲜不凝，虽有上热，亦非实火，稍加麦冬、贝母，略清肺热。总以泻湿培土为主，不可过用苦寒也。</p>
+<p>　　白茅汤</p>
+<p>　　人参二钱　甘草二钱　茯苓三钱　半夏三钱　麦冬三钱，去心　茅根三钱　芍药三钱　五味子一钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　治零星吐鲜血者。</p>
+<p>　　血之零吐红鲜者，虽缘土湿胃逆，而肺家不无上热，泻湿降逆之中，自宜加清肺之药。若相火极旺，则加黄芩而倍芍药。仲景三黄泻心汤，是治相火之极旺者。但此等颇少，未易轻用。若上热不敌下寒之剧，当大温水土，清润诸法，切不可用也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18531.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18533.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

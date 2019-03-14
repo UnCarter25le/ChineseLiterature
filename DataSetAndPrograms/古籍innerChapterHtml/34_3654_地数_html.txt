@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+管子·地数_古诗文网
+</title>
+<meta content="桓公曰：“地数可得闻乎？”管子对曰：“地之东西二万八千里，南北二万六千里。其出水者八千里，受水者八千里，出铜之山四百六十七山，出铁之山三千六百九山。此之所以分壤树谷也，戈矛之所发，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3654.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2302" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>地数</b></span>
+<a href="javascript:PlayBookv(3654)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3654" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2302)" id="leftbtn2302" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3654" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ae%a1%e4%bb%b2%e5%8f%8a%e9%97%a8%e5%be%92">管仲及门徒</a></p>
+<div class="contson">
+<p>　　桓公曰：“地数可得闻乎？”管子对曰：“地之东西二万八千里，南北二万六千里。其出水者八千里，受水者八千里，出铜之山四百六十七山，出铁之山三千六百九山。此之所以分壤树谷也，戈矛之所发，刀币之所起也。能者有余，拙者不足。封于泰山，禅于梁父，封禅之王七十二家，得失之数，皆在此内。是谓国用。”桓公曰：“何谓得失之数皆在此？”管子对曰：“昔者桀霸有天下而用不足，汤有七十里之薄而用有余。天非独为汤雨菽粟，而地非独为汤出财物也。伊尹善通移、轻重、开阖、决塞，通于高下徐疾之策，坐起之费时也。黄帝问于伯高曰：‘吾欲陶天下而以为一家，为之有道乎？’伯高对曰：‘请刈其莞而树之，吾谨逃其蚤牙，则天下可陶而为一家。’黄帝曰：‘此若言可得闻乎？’伯高对曰：‘上有丹砂者下有黄金，上有慈石者下有铜金，上有陵石者下有铅、锡、赤铜，上有赭者下有铁，此山之见荣者也。苟山之见其荣者，君谨封而祭之。距封十里而为一坛，是则使乘者下行，行者趋。若犯令者，罪死不赦。然则与折取之远矣。’修教十年，而葛卢之山发而出水，金从之。蚩尤受而制之，以为剑、铠、矛、戟，是岁相兼者诸侯九。雍狐之山发而出水，金从之。蚩尤受而制之，以为雍狐之戟、芮戈，是岁相兼者诸侯十二。故天下之君顿戟一怒，伏尸满野。此见戈之本也。”</p>
+<p>　　桓公问于管子曰：“请问天财所出？地利所在？”管子对曰：“山上有赭者其下有铁，上有铅者其下有银。一曰：‘上有铅者其下有鉒银，上有丹砂者其下有鉒金，上有慈石者其下有铜金。’此山之见荣者也。苟山之见荣者，谨封而为禁。有动封山者，罪死而不赦。有犯令者，左足入、左足断；右足入，右足断。然则其与犯之远矣。此天财地利之所在也。”桓公问于管子曰：“以天财地利立功成名于天下者谁子也？”管子对曰：“文武是也。”桓公曰：“此若言何谓也？”管子对曰：“夫玉起于牛氏边山，金起于汝汉之右洿，珠起于赤野之末光。此皆距周七千八百里，其涂远而至难。故先王各用于其重，珠玉为上币，黄金为中币，刀布为下币。令疾则黄金重，令徐则黄金轻。先王权度其号令之徐疾，高下其中币而制下上之用，则文武是也。”</p>
+<p>　　桓公问于管子曰：“吾欲守国财而毋税于天下，而外因天下，可乎？”管子对曰：“可。夫水激而流渠，令疾而物重。先王理其号令之徐疾，内守国财而外因天下矣。”桓公问于管子曰：“其行事奈何？”管子对曰：“夫昔者武王有巨桥之粟贵籴之数。”桓公曰：“为之奈何？”管子对曰：“武王立重泉之戍，令曰：‘民自有百鼓之粟者不行。’民举所最粟以避重泉之戍，而国谷二什倍，巨桥之粟亦二什倍。武王以巨桥之粟二什倍而市缯帛，军五岁毋籍衣于民。以巨桥之粟二什倍而衡黄金百万，终身无籍于民。准衡之数也。”桓公问于管子曰：“今亦可以行此乎？”管子对曰：“可。夫楚有汝汉之金，齐有渠展之盐，燕有辽东之煮。此三者亦可以当武王之数。十口之家，十人咶盐，百口之家，百人咶盐。凡食盐之数，一月丈夫五升少半，妇人三升少半，婴儿二升少半。盐之重，升加分耗而釜五十，升加一耗而釜百，升加十耗而釜千。君伐菹薪煮泲水为盐，正而积之三万钟，至阳春请籍于时。”桓公曰：“何谓籍于时？”管子曰：“阳春农事方作，令民毋得筑垣墙，毋得缮冢墓；丈夫毋得治宫室，毋得立台榭；北海之众毋得聚庸而煮盐。然盐之贾必四什倍。君以四什之贾，修河、济之流，南输梁、赵、宋、卫、濮阳。恶食无盐则肿，守圉之本，其用盐独重。君伐菹薪煮泲水以籍于天下，然则天下不减矣。”</p>
+<p>　　桓公问于管子曰：“吾欲富本而丰五谷，可乎？”管子对曰：“不可。夫本富而财物众，不能守，则税干天下；五谷兴丰，巨钱而天下贵，则税于天下。然则吾民常为天下虏矣。夫善用本者，若以身济于大海，观风之所起。天下高则高，天下下则下。天下高我下，则财利税于天下矣。”</p>
+<p>　　桓公问于管子曰，“事尽于此乎？”管子对曰：“未也。夫齐衢处之本，通达所出也，游子胜商之所道。人求本者，食吾本粟，因吾本币，骐骥黄金然后出。令有徐疾，物有轻重，然后天下之宝壹为我用。善者用非有，使非人。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3653.aspx">上一章</a>
+<a href="/guwen/book_34.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3655.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2302" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+反经·将体_古诗文网
+</title>
+<meta content="《万机论》曰：“虽有百万之师，临时吞敌，在将也。”吴子曰：“凡人之论将，恒观之于勇。勇之于将，乃万分之一耳。”故《六韬》曰：“将不仁，则三军不亲；将不勇，则三军不为动。”孙子曰：“" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5068.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3288" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>将体</b></span>
+<a href="javascript:PlayBookv(5068)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5068" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3288)" id="leftbtn3288" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5068" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b5%b5%e8%95%a4">赵蕤</a></p>
+<div class="contson">
+<p>　　《万机论》曰：“虽有百万之师，临时吞敌，在将也。”吴子曰：“凡人之论将，恒观之于勇。勇之于将，乃万分之一耳。”故《六韬》曰：“将不仁，则三军不亲；将不勇，则三军不为动。”孙子曰：“将者，勇、智、仁、信、必也。”勇，则不可犯；智，则不可乱；仁，则爱人；信，则不欺人；必，则无二心。此所谓“五才”者也。 </p>
+<p>　　三军之众，百万之师，张设轻重，在于一人，谓之气机。道狭路险，名山大塞，十人所守，千人不过，是谓地机。善行间谍，分散其众，使君臣相怨，是谓事机。车坚舟利，士马闲习，是谓力机。此所谓“四机”者也。 </p>
+<p>　　夫将可乐而不可忧，谋可深而不可疑。将忧则内疑(将有忧色，则内外相疑。故曰不相信也。)，谋疑则敌国奋(多疑则计乱，乱则令敌国奋威。)。以此征伐，则可致乱。 </p>
+<p>　　故将，能清，能静(廉财曰清，不扰曰静。老子曰：“重为轻根，静为躁君也。”)，能平，能整，能受谏，能听讼，能纳人(受贤于群英之中，若越纳范蠡、齐纳宁戚之类也。)，能采善言，能知国俗，能图山川，能栽厄难(险、难、厄，皆悉明之。)，能制军权。 </p>
+<p>　　危者安之，惧者欢之，叛者还之(将有不合去者，慰诱还之，若萧何追韩信。)，冤者原之，诉者察之，卑者贵之(士卒若卑贱者，贵之。昔吴起下与士卒同衣食是也。)，强者抑之，敌者残之(卑中有贱，而敌贵者，乱上下之礼，残杀之。)，贪者丰之(悬赏以丰其心，所以使贪。)，欲者使之(临敌将战，有欲立功名，有欲利敌人者，皆许而使之，所谓使勇使贪。)，畏者隐之(士卒有所畏惧者，隐蔽于后，勿使为军锋，军败由锋怯。)，谋者近之，谗者覆之(有谗斗者，覆信之。)，毁者复之(官职有毁废者，则修而复之。)，反者废之，横者挫之，服者活之(首服罪者，活之。)，降者说之(说，舍。)。 </p>
+<p>　　获城者割之(赏功臣也)，获地者裂之(赐功荣者)，获国者守之(得其国，必封贤以守之。昔吴伐越，得而不守，所以终败也。)。获厄塞之，获难屯之，获财散之。 </p>
+<p>　　敌动伺之，敌强下之(敌阵强则下之，勿与战。若齐师伐鲁，鼓之，曹刿不动。三鼓，破齐，下之。)，敌凌假之(敌之威势凌吾而来，宜持重以待之，勿与战。楚凌汉，求战一决，汉祖知弱，不许之，是也。)，敌暴安之(敌人为暴虐之行，则安之劝之，所以怒我众也。昔燕伐齐田单，不下，燕师掘齐人冢墓，田单安劝之。)，敌悖义之(敌为悖乱之事，则随有义以待之，彼悖我义，故克之。)，敌睦携之，顺举挫之(举顺以挫逆也)，因势破之，放言过之(放过恶言，以诬诈敌人，以怒己众也。)，四网罗之。此为将之道也。 </p>
+<p>　　故将拒谏，则英雄散；策不纵，则谋士叛；善恶同，则功臣倦(赏罚不明，善恶无异，则有功之臣皆懈倦也。)。将专己，则下归咎(专己自任，不与下谋，众皆归罪于将而责之。)；将自臧，则下少功(臧，善也。将自伐勋，忘下自用者，故曰少功也。)；将受谗，则下有离心；将贪财，则奸不禁(上贪，则下盗也。)；将内顾，则士卒淫(内顾，思妻妾也。)。将有一，则众不服；有二，则军无试(试，法也。)；有三，则军乖背；有四，则祸及国。 </p>
+<p>　　《军志》曰：将谋欲密，士众欲一(将众如一体也)，攻敌欲疾。将谋密，则奸心闭；士众一，则群心结(结如一也)；攻敌疾，则诈不及设。军有此三者，则计不夺。将谋泄，则军无势；以外窥内，则祸不制(窥，见也。谋泄，则外见己情之虚实，其祸不可制也。)；财入营，则众奸会(凡为军，使外人以财货入营内，则奸谋奄集其中心。)。将有此三者，军必败。 </p>
+<p>　　将无虑，则谋士去(将无虑，不能从谋，故去之。)；将无勇，则吏士恐(将怯，则下无所恃，故恐也。)；将迁怒，则军士惧。虑也，谋也，将之所重；勇也，怒也，将之所用。故曰：必死，可杀也；必生，可虏也；忿速，可侮也；廉洁，可辱也；爱人，可烦也。此五者，将军之过，用兵之灾。 </p>
+<p>　　故凡战之要，先占其将而察其才。因刑用权，则不劳而功兴也。其将愚而信人，可谋而诈；贪而忽名，可货而赂；轻变，可劳而困；上富而骄，下贫而桀，可离而间；将怠士懈，可潜而袭。智而心缓者，可迫也；勇而轻死者，可暴也；急而心速者，可诱也；贪而喜利者，可袭也、可遗也。仁而不忍于人者，可劳也；信而喜信于人者，可诳也；廉洁而不爱人者，可侮也；刚毅而自用者，可事也；懦心喜用于人者，可使人欺也。此皆用兵之要，为将之略也。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5067.aspx">上一章</a>
+<a href="/guwen/book_57.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5069.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3288" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

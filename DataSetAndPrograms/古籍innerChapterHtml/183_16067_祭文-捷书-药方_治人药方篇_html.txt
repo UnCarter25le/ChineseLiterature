@@ -1,0 +1,147 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·祭文、捷书、药方·治人药方篇_古诗文网
+</title>
+<meta content="经曰：药者，和草木之性，治人寒、热、燥、湿之病；道达经脉，通理三关、九候、五藏、六府，扶衰补虚。夫稠人多，厉疫屯久，人气郁蒸，或病瘟[疾以皇易矢]疟痢，金疮堕马，随军备用。药与方所" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16067.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>祭文、捷书、药方·治人药方篇</b></span>
+<a href="javascript:PlayBookv(16067)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16067" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16067" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　经曰：药者，和草木之性，治人寒、热、燥、湿之病；道达经脉，通理三关、九候、五藏、六府，扶衰补虚。夫稠人多，厉疫屯久，人气郁蒸，或病瘟[疾以皇易矢]疟痢，金疮堕马，随军备用。药与方所必须也，兹录于左。</p>
+<p>　　疗时行热病方</p>
+<p>　　栀子（二十枚）、乾姜（五两）、茵蔯（三两）、升麻（五两）、大黄（五两）、芒硝（五两）。</p>
+<p>　　右六味为末，米汁调服，空心，三钱匕，须臾利，不利则暖粥投之，利多服浆水止之，阴阳毒不可服。</p>
+<p>　　疗赤班子疮</p>
+<p>　　栀子（二十枚）、茈胡（三两）、黄芩（三两）、芒硝（五两）。</p>
+<p>　　右为细末，饭饮调下，三钱七，以利为度。</p>
+<p>　　疗天行病方</p>
+<p>　　瓜蒌（四十九粒）、丁香（四十九粒）、赤小豆（四十九粒）。</p>
+<p>　　右为末，井花水调服，空心，方寸七次，两鼻中各搐此散，一大豆许，须臾鼻出黄水，吐利良久，乃愈。</p>
+<p>　　疗虐疾方</p>
+<p>　　鳖甲（三两）、常山（二两）、甘草（二两）、松罗（二两）。</p>
+<p>　　右为末，用乌梅煎汤调服，方寸七日二服，少加之，以吐为度，如不差，服後方。</p>
+<p>　　当归六味散</p>
+<p>　　当归、白术、细辛（以上各五两）、桂心（三两）、大黄（五两）、朴硝（八两。熬。）</p>
+<p>　　右为末，平旦，空心，服方寸匕，加之，以利为度。</p>
+<p>　　疗温虐者，可服『鬼箭十味九方』</p>
+<p>　　甘草、丁香、细辛、蜀椒、乌梅肉（各三两）、地骨皮、橘皮（各四两）、白术、当归（各五两）、鬼箭（二两）。</p>
+<p>　　右为细末，炼蜜为丸，如梧桐子大。每服十五丸，乌梅汤送下，再服加至三十九，三、五日後觉腹中热，以粥饮压之。</p>
+<p>　　疗痢病方</p>
+<p>　　黄连、黄芩（各五两）、黄耆、黄柏（各四两）、龙骨（八两）。</p>
+<p>　　右五味为散，空心，米饮下方寸匕，日再加至三寸匕止。</p>
+<p>　　疗谷痢方</p>
+<p>　　白米（六两）、附子（四枚，炮去皮。）、乾姜（四两，炮。）、细辛（五两）、油面末（一升。熬变色。）。</p>
+<p>　　右为末，以粥饮，如前法。</p>
+<p>　　疗血痢方</p>
+<p>　　阿胶（炒）、黄柏（灸各四两）、乾姜、艾叶（各三两）、犀角末（五两）。</p>
+<p>　　右为末，如前法服。</p>
+<p>　　疗浓血痢方</p>
+<p>　　黄耆（六两）、赤石脂（八两）、艾叶（三两）、厚朴（灸三两）、乾姜（煨三两）。</p>
+<p>　　右为末，服法如前。</p>
+<p>　　治霍乱方</p>
+<p>　　巴豆（一两，去壳。）、乾姜（三两，炮。）、大黄（五两）。</p>
+<p>　　右为末，炼蜜为丸，如梧桐子大。米饮服三丸，以利为度，不利，以粥汤投之。</p>
+<p>　　治脚转筋方</p>
+<p>　　生姜一两，拍碎，水煎，五合服之，即愈。本方云：生姜一斤，煎二升，半服之。</p>
+<p>　　入战辟五兵不伤人方</p>
+<p>　　雄黄（一两）、白矾（二两）、鬼箭（一柄）、羚羊角（烧二分半）、灶中土（三分）。</p>
+<p>　　右为末，以鸡子黄并鸡冠血为丸，如杏子大。置一丸於小囊中，系腰间及膊上，勿令离身，亦辟一切毒。</p>
+<p>　　疗马齿毒方</p>
+<p>　　灰汁数斗，暖者洗疮处，愈。又以马粪汁亦可。</p>
+<p>　　疗马脓垢着人作疮方</p>
+<p>　　马鞭稍二寸，烧灰；飞鼠七枚，各烧灰。敷之。</p>
+<p>　　疗金疮方因发者，及伤裂突出肠方</p>
+<p>　　黄耆、当归、芎藭、白芷、续断、黄芩、细辛、乾姜、附子、芍药（各三两）。</p>
+<p>　　右为末，先饮酒醉，次服五钱匕，日三服。又云：服半钱匕，日三，服加至方寸匕效。</p>
+<p>　　疗金刀中骨脉中不出方</p>
+<p>　　白歛、半夏（各等分）。</p>
+<p>　　右为末，酒服方寸匕，日三服，至二十日，自出立愈。</p>
+<p>　　疗金疮伤中破惊方</p>
+<p>　　火烧葱，取汁涂之，立愈。亦用人中衣旧者，以裆炙熨之，为愈。</p>
+<p>　　疗马坠损，有瘀血在腹内方</p>
+<p>　　生地黄五升，研烂，以酒捎汁一盏，日三服，愈。又方地黄二升，捣令烂，以无灰酒半升煮，二三沸重户，地暖饮之，常令醺醺。</p>
+<p>　　疗马坠折，伤手脚骨痛方</p>
+<p>　　捣大麻子根并叶，取汁服之，气下乃苏。若无大麻根、叶；研子，温酒服，亦可。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16066.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16068.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

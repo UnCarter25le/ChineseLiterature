@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+圆觉经·清净慧菩萨_古诗文网
+</title>
+<meta content="于是，清净慧菩萨在大众中，即从座起，顶礼佛足，右绕三匝，长跪叉手，而白佛言：“大悲世尊，为我等辈广说如是不思议事，本所不见，本所不闻。我等今者蒙佛善诱，身心泰然，得大饶益。愿为诸来" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13957.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>清净慧菩萨</b></span>
+<a href="javascript:PlayBookv(13957)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13957" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13957" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9b%e9%99%80%e5%a4%9a%e7%bd%97%e8%af%91">佛陀多罗译</a></p>
+<div class="contson">
+<p>　　于是，清净慧菩萨在大众中，即从座起，顶礼佛足，右绕三匝，长跪叉手，而白佛言：“大悲世尊，为我等辈广说如是不思议事，本所不见，本所不闻。我等今者蒙佛善诱，身心泰然，得大饶益。愿为诸来一切法众，重宣法王圆满觉性。一切众生及诸菩萨、如来世尊所证所得，云何差别？令末世众生闻此圣教，随顺开悟，渐次能入。”作是语已，五体投地，如是三请，终而复始。 </p>
+<p>　　尔时，世尊告清净慧菩萨言：“善哉！善哉！善男子，汝等乃能为末世众生，请问如来渐次差别。汝今谛听，当为汝说。”时清净慧菩萨奉教欢喜，及诸大众默然而听。 </p>
+<p>　　“善男子，圆觉自性，非性性有，循诸性起，无取无证，于实相中，实无菩萨及诸众生。何以故？菩萨、众生皆是幻化，幻化灭故，无取证者。譬如眼根，不自见眼；性自平等，无平等者。众生迷倒，未能除灭一切幻化，于灭未灭妄功用中便显差别。若得如来寂灭随顺，实无寂灭及寂灭者。 </p>
+<p>　　“善男子，一切众生从无始来，由妄想我及爱我者，曾不自知念念生灭，故起憎爱，耽著五欲。若遇善友，教令开悟净圆觉性，发明起灭，即知此生性自劳虑。若复有人，劳虑永断，得法界净，即彼净解为自障碍，故于圆觉而不自在，此名凡夫随顺觉性。 </p>
+<p>　　“善男子，一切菩萨见解为碍，虽断解碍，犹住见觉，觉碍为碍而不自在，此名菩萨未入地者随顺觉性。 </p>
+<p>　　“善男子，有照有觉，俱名障碍，是故菩萨常觉不住，照与照者同时寂灭。譬如有人自断其首，首已断故，无能断者；则以碍心自灭诸碍，碍已断灭，无灭碍者。修多罗教如标月指，若复见月，了知所标毕竟非月；一切如来种种言说，开示菩萨亦复如是。此名菩萨已入地者随顺觉性。 </p>
+<p>　　“善男子，一切障碍即究竟觉，得念、失念，无非解脱；成法、破法，皆名涅槃；智慧、愚痴，通为般若；菩萨、外道所成就法，同是菩提；无明、真如，无异境界；诸戒定慧及淫怒痴，俱是梵行；众生、国土，同一法性；地狱、天宫，皆为净土；有性、无性，齐成佛道；一切烦恼，毕竟解脱；法界海慧，照了诸相，犹如虚空。此名如来随顺觉性。 </p>
+<p>　　“善男子，但诸菩萨及末世众生，居一切时，不起妄念；于诸妄心，亦不息灭；住妄想境，不加了知；于无了知，不辨真实。彼诸众生闻是法门，信解受持，不生惊畏，是则名为随顺觉性。善男子，汝等当知，如是众生已曾供养百千万亿恒河沙诸佛及大菩萨，植众德本。佛说是人，名为成就一切种智。” </p>
+<p>　　尔时，世尊欲重宣此义，而说偈言： </p>
+<p>　　“清净慧当知： 圆满菩提性，<br/>　　无取亦无证， 无菩萨众生。<br/>　　觉与未觉时， 渐次有差别，<br/>　　众生为解碍， 菩萨未离觉，<br/>　　入地永寂灭， 不住一切相，<br/>　　大觉悉圆满， 名为遍随顺。<br/>　　末世诸众生， 心不生虚妄，<br/>　　佛说如是人， 现世即菩萨，<br/>　　供养恒沙佛， 功德已圆满，<br/>　　虽有多方便， 皆名随顺智。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13956.aspx">上一章</a>
+<a href="/guwen/book_156.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13958.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

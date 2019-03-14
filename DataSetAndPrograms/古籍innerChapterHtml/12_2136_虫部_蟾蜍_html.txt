@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·虫部·蟾蜍_古诗文网
+</title>
+<meta content="释名促秋、秋施、菊促、苦龙、何皮、癞蛤蟆。气味蟾酥：甘辛、温、有毒。辛、凉、微毒。主治腹中冷嘲热讽癖（逆害饮食，民证停痰，两胁痞满，按之鸣转）。用大蟾蜍一个，去皮肠，切成小块，加硭" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2136.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>虫部·蟾蜍</b></span>
+<a href="javascript:PlayBookv(2136)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2136" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2136" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>促秋、秋施、菊促、苦龙、何皮、癞蛤蟆。</p>
+<p><strong>气味</strong><br/>蟾酥：甘辛、温、有毒。<br/>辛、凉、微毒。</p>
+<p><strong>主治</strong><br/>腹中冷嘲热讽癖（逆害饮食，民证停痰，两胁痞满，按之鸣转）。用大蟾蜍一个，去皮肠，切成小块，加硭硝（体强者一升，中等者七合体弱者五合），以水七升，煮成四升，一次服下，以得泻为度。<br/>小儿疳积（疳积腹大。黄瘦骨立，头生疮疖）。用立秋后大蟾蜍，去首、足肠，涂上清油，在瓦上炙熟吃下，有积秽排出。连吃五、六个，一月这后，形容改变，疗效显著。<br/>五疳八痢（面黄肌瘦，好食泥土，不思乳食）。用大干蟾蜍一个（烧存性）、皂角（去皮弦）一钱（烧存性）、蛤粉（水飞）三钱、麝香一钱，共研为末，糊成丸子，如粟米大。每服三、四十丸，空心服，米汤送下。一天服二次，此方名“五疳保童丸”。<br/>走马牙疳，浸蚀口鼻。用干蟾蜍裹黄泥中煅过，取二钱产，加黄连二钱半、青黛残、麝香少许，共研为末，敷患处。<br/>小儿口疮。蓐疮。用夏季蟾蜍炙过，研为末，敷患处。<br/>一切湿疮。用蟾蜍烧灰，调猪油涂搽。<br/>小儿癣疮。治方同上。<br/>附骨坏疮（脓汁不断，或骨从疮孔中露出，久治不愈）。和大蟾蜍一个、乱头发如鸡蛋大一团、猪油四两，煎枯，去渣，凝成膏药，先以桑根皮、乌头煎汤冼疮，，再用干煅过的龙骨末，撒在疮的四周，最后以膏药敷上贴好。<br/>肿毒初起。用大蟾蜍一个剁碎，和炒石灰一起，研如泥敷涂。频频换药。<br/>破伤风病。用蟾蜍二两半（切剁如泥）、加花椒一两，同酒炒熟，再加酒二两半，温服。不久，通身出汗，极效。<br/>折伤接骨。用大蟾蜍生研如泥，敷涂伤处，外用竹片包好捆稳。<br/>大肠痔疾。用蟾蜍一个，泥封固，火上煅存性，研为末；另取猪大一截，扎定两头，煮熟切碎，蘸蟾末吃下。如此几次，痔疮自落。<br/>蟾酥（蟾蜍的眉间白汁，按：即蟾蜍耳上腺及皮肤腺的分泌物）：<br/>拔取疔毒。用蟾酥调白面、黄丹用成丸子，如麦粒大，插入疮中，同时以水和丸成膏贴疮上。<br/>疔疮恶肿。用蟾酥一钱、巴豆四枚，捣烂，加饭做成丸子，如绿豆大。每服一丸，姜汤送下。地定会，以 以蓄根、黄荆子研，酒半碗饮服促进药力。四、五次后，可食粥补身体。<br/>一切疮毒。用蟾酥一钱、白面二钱、朱砂少许，加水调成丸子，如麦粒大。每用一丸，水送服。如疮势紧急，用葱汤送服五、七锭亦可。汗出即愈。<br/>喉痹乳蛾。用蟾枚、草乌尖末，皂角末等分，做成丸子，如小豆大。每研一丸点患处，极有效。<br/>一切齿痛。用蟾枚少许点前处即止。<br/>破伤风。用蟾酥二钱，水调成糊，加干蝎（酒炒）、天麻各半两，共研为末，做成丸子，如绿豆在。每服一至二丸，豆淋酒送下。</p>
+<p><strong>附方</strong><br/>蟾酥有毒，不宜久服或多服。酥汁入目，能引起红肿，重者甚至目盲，但以紫草汁点眼或冲洗可治愈。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2135.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2137.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

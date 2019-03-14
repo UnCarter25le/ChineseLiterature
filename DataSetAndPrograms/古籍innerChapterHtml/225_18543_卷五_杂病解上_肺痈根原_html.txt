@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷五·杂病解上·肺痈根原_古诗文网
+</title>
+<meta content="肺痈者，湿热之郁蒸也。阳衰土湿，肺胃不降，气滞痰生，胸膈瘀塞，湿郁为热，淫泆熏蒸，浊瘀臭败，腐而为脓。始萌尚可救药，脓成肺败则死。此缘湿旺肺郁，风闭皮毛，卫气收敛，营郁为热，热邪内" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18543.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·杂病解上·肺痈根原</b></span>
+<a href="javascript:PlayBookv(18543)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18543" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18543" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　肺痈者，湿热之郁蒸也。阳衰土湿，肺胃不降，气滞痰生，胸膈瘀塞，湿郁为热，淫泆熏蒸，浊瘀臭败，腐而为脓。始萌尚可救药，脓成肺败则死。此缘湿旺肺郁，风闭皮毛，卫气收敛，营郁为热，热邪内闭，蒸其痰涎而化痈脓故也。</p>
+<p>　　盖风中于表，则腠理疏泄而汗出；热蒸于里，则经阳遏闭而恶寒。卫阳外敛，呼气有出而不入；营阴内遏，吸气有入而不出。营卫不交，风热兼作，风邪外伤其皮毛。皮毛者，肺之合也。湿土郁满，肺气不降，而风袭皮毛，泄其卫气，卫气愈泄而愈敛，皮毛始开而终闭。肺气壅塞，内外不得泄路，痞闷喘促，痰嗽弥增。口干咽燥，而不作渴，少饮汤水，则津液沸腾，多吐浊沫。热邪内伤其津血，津血与痰涎郁蒸，腐化脓秽，吐如米粥。久而肺藏溃烂，是以死也。</p>
+<p>　　病生肺部，而根原于胃逆，其胸膈之痛，则是胆木之邪。以胃土不降，肺胆俱无下行之路，胆以甲木而化相火，甲木克戊土，则膈上作疼，相火刑辛金，则胸中生热。是宜并治其标本也。</p>
+<p>　　苏叶橘甘桔汤</p>
+<p>　　苏叶三钱　甘草二钱　桔梗三钱　杏仁三钱　茯苓三钱　贝母三钱　橘皮三钱　生姜三钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　胃逆胸满重，加半夏。</p>
+<p>　　肺痈胸膈湿热，郁蒸痰涎，而化痈脓。痰盛宜逐，脓成当泻。胶痰堵塞，以甘遂、葶苈之属驱之，脓血腐瘀，以丹皮、桃仁之类排之。剧者用仲景二白散，吐下脓秽，以救藏真，胜于养痈遗害者也。</p>
+<p>　　二白散</p>
+<p>　　桔梗三分　贝母三分　巴豆一分，去皮，炒，研如脂</p>
+<p>　　为末，饮服半钱匕。虚者减之。</p>
+<p>　　脓在膈上则吐，在膈下则泄。下多，饮冷水一杯，则止。</p>
+<p>　　葶苈大枣泻肺汤</p>
+<p>　　葶苈炒黄，研，弹子大　大枣十二枚</p>
+<p>　　水三杯，煮枣，取二杯，去枣，入葶苈，煮取一杯，顿服。</p>
+<p>　　脓未成则痰下，脓已成则脓下。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18542.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18544.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

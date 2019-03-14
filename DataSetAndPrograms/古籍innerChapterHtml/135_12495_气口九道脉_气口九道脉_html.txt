@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+奇经八脉考·气口九道脉·气口九道脉_古诗文网
+</title>
+<meta content="手检图曰∶肺为五脏华盖∶上以应天，解理万物，主行精气；法五行，应四时，知五味；气口之中，阴阳交会，中有五部；前后左右，各有所主，上下中央，分为九道。诊之则知病邪所在也。李濒湖曰∶气" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12495.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>气口九道脉·气口九道脉</b></span>
+<a href="javascript:PlayBookv(12495)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12495" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12495" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p>　　手检图曰∶肺为五脏华盖∶上以应天，解理万物，主行精气；法五行，应四时，知五味；气口之中，阴阳交会，中有五部；前后左右，各有所主，上下中央，分为九道。诊之则知病邪所在也。</p>
+<p>　　李濒湖曰∶气口一脉，分为九道，总统十二经并奇经八脉。各出诊法，乃岐伯秘授黄帝之诀也，扁鹊推之，独取寸口以决死生。盖气口为百脉流注朝会之始故也。三部虽传，而九道沦隐，故奇经之脉，世无人知。今撰为图，并附其说于后，以泄千古之秘脏云。</p>
+<p>　　（图缺）</p>
+<p>　　诊右手内外反此岐伯曰∶前部如外者，足太阳膀胱也，动苦目眩，头、项、腰、背强痛，男子阴下湿痒，女子少腹痛引命门，阴中痛，子脏闭，月水不利。浮为风，涩为寒，滑为劳热，紧为宿食。</p>
+<p>　　中部如外者，足阳明胃也，动苦头痛，面赤。滑为饮，浮为大便不利，涩为嗜卧，肠鸣，不能食，足胫痹。</p>
+<p>　　后部如外者，足少阳胆也，动苦腰、背、 、股、肢节痛。浮为气，涩为风，急为转筋、为劳。</p>
+<p>　　前部如内者，足厥阴肝也，动苦少腹痛引腰，大便不利，男子茎中痛，小便难，疝气两丸上入。女子月水不利，阴中寒，子户闭，少腹急。</p>
+<p>　　中部如内者，足太阴脾也，动苦腹满，胃中痛，上管有寒，食不下，腰上状如居水中。沉涩，为身重，足胫寒痛，烦满不能卧，时咳唾有血，泄利食不化。</p>
+<p>　　后部如内者，足少阴肾也。动苦少腹痛，与心相引，背痛，小便淋，女人月水来，上抢心胸，胁满，股里拘急。</p>
+<p>　　前部中央直者，手少阴心、手太阳小肠也，动苦心下坚痛，腹胁急。实急者为感忤，虚者为下利肠鸣，女子阴中痒痛，滑为有娠。</p>
+<p>　　中部中央直中者，手厥阴心主也，动苦心痛，面赤多喜怒，食苦咽。微浮苦悲伤恍惚，涩为心下寒，沉为恐怖，如人将捕之状，时寒热，有血气。</p>
+<p>　　后部中央直者，手太阴肺、手阳明大肠也，动苦咳，逆气不得息，浮为风，沉为热，紧为胸中积热，涩为时咳血。</p>
+<p>　　前部横于寸口丸丸者，任脉也，动苦少腹痛，逆气抢心，胸拘急不得俯仰。脉经云∶寸口脉紧细实长，下至关者，任脉也，动苦少腹绕脐痛，男子七疝，女子瘕聚。</p>
+<p>　　三部俱浮直上直下者，督脉也，动苦腰脊强痛，不得俯仰，大人癫，小儿痫。</p>
+<p>　　三部俱牢，直上直下者，冲脉也，苦胸中有寒疝。脉经曰∶脉来中央坚实，径至关者，冲脉也，动苦少腹痛，上抢心，有瘕疝遗溺，女子绝孕。</p>
+<p>　　前部左右弹者，阳跷也，动苦腰背痛，癫痫僵仆羊鸣，偏枯、 痹，身体强。</p>
+<p>　　中部左右弹者，带脉也，动苦少腹痛引命门，女子月事不来，绝继复下，令人无子，男子少腹拘急，或失精也。</p>
+<p>　　后部左右弹者，阴跷也，动苦癫痫寒热，皮肤强痹，少腹痛，里急，腰胯相连痛，男子阴疝，女子漏下不止。</p>
+<p>　　从少阴斜至太阳者，阳维也，动苦颠仆羊鸣，手足相引，甚者失音不能言，肌肉痹痒。</p>
+<p>　　从少阳斜至厥阴者，阴维也，动苦癫痫僵仆羊鸣，失音，肌肉痹痒，汗出恶风。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12494.aspx">上一章</a>
+<a href="/guwen/book_135.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12496.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

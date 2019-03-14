@@ -1,0 +1,177 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·伦类部·师徒_古诗文网
+</title>
+<meta content="先辈北面唐崔日用请武甄言《春秋》疑义，甄条举无留语。日用曰：“吾请北面。”函丈《礼》：“若非饮食之客，则布席，席间函丈。”夏楚夏与榎同，山楸木也。榎形圆，楚形方，以二物为朴，以警其" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19200.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>伦类部·师徒</b></span>
+<a href="javascript:PlayBookv(19200)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19200" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19200" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>先辈</strong></p>
+<p>　　北面</p>
+<p>　　唐崔日用请武甄言《春秋》疑义，甄条举无留语。日用曰：“吾请北面。”</p>
+<p>　　<strong>函丈</strong></p>
+<p>　　《礼》：“若非饮食之客，则布席，席间函丈。”</p>
+<p>　　<strong>夏楚</strong></p>
+<p>　　夏与榎同，山楸木也。榎形圆，楚形方，以二物为朴，以警其惰慢，使之收敛威仪也。</p>
+<p>　　<strong>解颐</strong></p>
+<p>　　汉匡衡深明经术，诸儒为之语曰：“无说诗，匡鼎来；匡说诗，解人颐。”</p>
+<p>　　<strong>绛帐</strong></p>
+<p>　　汉马融教授诸生，常有千数，坐高堂，施绛纱帐，前授生徒，后列女乐。</p>
+<p>　　<strong>负笈</strong></p>
+<p>　　汉苏章负笈寻师，不远千里。</p>
+<p>　　<strong>立雪</strong></p>
+<p>　　游酢、杨时为伊川先生弟子。一日，侍先生侧，先生隐几而卧。二生不敢去，候其寤，则门外雪深尺余矣。</p>
+<p>　　<strong>坐春风中</strong></p>
+<p>　　朱公琰，名光庭，见明道先生于汝州。归语人曰：“光庭在春风中坐了一月。”</p>
+<p>　　<strong>舌耕</strong></p>
+<p>　　汉贾逵通经，来学者不远千里，广有赠献，积粟盈仓。或云：“逵非力耕，乃舌耕也。”</p>
+<p>　　<strong>牧豕</strong></p>
+<p>　　后汉孙期少为诸生，通《京氏易》、《古文尚书》。家甚贫，收豕于泽中。学者皆执经垅畔，以追随之。</p>
+<p>　　<strong>白首北面</strong></p>
+<p>　　贾琼曰：“文中子十五为人师。陈留王孝逸，先达之傲者矣。然而白首北面，岂以年乎？”</p>
+<p>　　<strong>人师难遭</strong></p>
+<p>　　童子魏照求入事郭林宗，供洒扫。林宗曰：“当精义讲书，何来相近？”照曰：“经师易获，人师难遭。欲以素丝之后南，附近朱蓝。”</p>
+<p>　　<strong>青出于蓝</strong></p>
+<p>　　《荀子》：学不可已。青出于蓝，而青于蓝；冰出于水，而寒于水。</p>
+<p>　　<strong>师何常</strong></p>
+<p>　　《北史》：李谧初师事孔璠，后璠还就谧请业。同门生语曰：“青城蓝，蓝谢青。师何常？在明经。”</p>
+<p>　　<strong>一字师</strong></p>
+<p>　　张咏诗云：“独恨太平无一事，江南闲杀老尚书。”萧楚才曰：“恨字未妥，应改幸字。”永曰：“子，吾一字师也。”</p>
+<p>　　<strong>东家丘</strong></p>
+<p>　　汉邴原就学于孙崧，屩崧曰：“子近舍郑君（郑玄），而蹑屩至此，岂以郑为东家丘耶？”原曰：“人各有志，所向不同。君谓仆以郑为东家丘，则君以仆为西家之愚夫矣。”崧谢。（《家语》：孔子西家有愚夫，不识孔子为圣人，乃曰：“彼东家丘，吾知之矣。”）</p>
+<p>　　<strong>吾道东</strong></p>
+<p>　　汉郑玄事马融，学有得。及辞归，融喟然谓门人曰：“吾道东矣！”</p>
+<p>　　<strong>吾道南</strong></p>
+<p>　　宋杨龟山师明道先生。及归，送之出门，谓坐客曰：“吾道南矣。”</p>
+<p>　　<strong>《易》已东</strong></p>
+<p>　　汉卜宽学《易》于田何，学既有成，宽东归。何喜谓弟子曰：“吾《易》已东矣！”</p>
+<p>　　<strong>关西夫子</strong></p>
+<p>　　后汉杨震明经博览，为诸儒所宗，号曰：“关西夫子”。</p>
+<p>　　<strong>南州阙里</strong></p>
+<p>　　兖州曲阜县阙里，孔子所居之地。朱熹居建阳，有考亭，明经论道，诸士子号“南州阙里”。</p>
+<p>　　<strong>教授河汾</strong></p>
+<p>　　晋王通教授于河汾之间，弟子自远至者甚众。累征不起。赵郡李靖、清河房玄龄、巨鹿魏征，一时王佐之才，皆出其门。</p>
+<p>　　<strong>师友渊源</strong></p>
+<p>　　古人学问必有渊源，杨恽一囗迥出当时流辈，则司马迁外甥也。</p>
+<p>　　<strong>吾道之托</strong></p>
+<p>　　黄干字直卿。朱熹曰：“直卿志坚思苦，与之处，甚有益。”遂以女妻之。熹病革，出所著书授干，曰：“吾道之托在此。”</p>
+<p>　　<strong>此吾老友</strong></p>
+<p>　　蔡元定，八岁能诗。及长，登泰山绝顶，日惟啖荠，于书无所不读。朱熹扣其学，大惊曰：“此吾老友也，不当在弟子列。”</p>
+<p>　　<strong>通家</strong></p>
+<p>　　孔融年十岁，闻李膺有重名，造之。膺问：“高明父祖常与仆周旋乎？”融曰：“然。先君孔子与君家老子，同德比义而相师友，则融与君累世通家也。”</p>
+<p>　　<strong>父执</strong></p>
+<p>　　《曲礼》曰：“见父之执（执，父同志之友也），不谓之进不敢进，不谓之退不敢退，不问不敢对。”</p>
+<p>　　<strong>识荆</strong></p>
+<p>　　李白与韩荆州书曰：“白闻天下谈士言曰：生不用封万户侯，但愿一识韩荆州。何令人之景慕至此哉！</p>
+<p>　　<strong>山斗</strong></p>
+<p>　　韩昌黎以六经之文为诸儒倡。自愈殁后，其学盛行，学者仰之如泰山北斗。</p>
+<p>　　<strong>函关紫气</strong></p>
+<p>　　老子将度函谷关，关吏尹喜望见紫气，知有神人来。果见老子骑青牛薄板车过关，喜拜之。老子教喜炼气，授以《道德》五千言。</p>
+<p>　　<strong>倒屣</strong></p>
+<p>　　蔡邕闻王粲在门，倒屣迎之。粲至，年既幼弱，容貌短小，一座尽惊。邕曰：“此王公孙也，有异才，吾不如也，吾家书籍文章，尽当与之。”</p>
+<p>　　<strong>下榻</strong></p>
+<p>　　徐穉字孺子，豫章人。陈蕃为豫章太守，罕所接见，惟设一榻以待孺子，去则悬之。穉屡荐不仕。郭林宗称为南州高士。</p>
+<p>　　<strong>御李</strong></p>
+<p>　　李膺性简亢，无所交接。荀爽常谒膺，因为其御，既还，喜曰：“今日乃得御李君。”</p>
+<p>　　<strong>李郭仙舟</strong></p>
+<p>　　郭泰游洛阳，与河南尹李膺相友善。后归乡里，衣冠送至河上，车骑数千。泰与膺同舟而济，众宾望之，以为神仙。世称“李郭仙舟”。</p>
+<p>　　<strong>北海樽</strong></p>
+<p>　　孔北海性宽容好客，及退闲职，宾客日盈其门，常叹曰：“座上客常满，樽中酒不空，吾无忧矣。”</p>
+<p>　　<strong>千里命驾</strong></p>
+<p>　　晋吕安服嵇康高致，每一相思，辄千里命驾赴之。</p>
+<p>　　<strong>高轩过</strong></p>
+<p>　　李贺，七岁能文，韩愈、皇甫湜过之，贺作《高轩过》诗以谢之。</p>
+<p>　　<strong>投辖</strong></p>
+<p>　　汉陈遵，每大饮，宾客满堂，辄闭门取客车辖投井中，虽有急，不得去。</p>
+<p>　　<strong>附骥</strong></p>
+<p>　　《公孙述传》：苍蝇之飞不过数步，附托骥尾得以绝群。</p>
+<p>　　<strong>披云</strong></p>
+<p>　　晋卫见乐广，奇之，命子弟造焉，曰：“此人，冰壶濯魄，见之莹然，若披云雾而睹青天。”</p>
+<p>　　<strong>景星凤凰</strong></p>
+<p>　　韩愈遗李勃书曰：“朝廷士引领东望，若景星凤凰始见，争先睹之为快。”</p>
+<p>　　<strong>鄙吝复萌</strong></p>
+<p>　　汉黄宪，陈蕃尝谓周举曰：“旬日间不见黄叔度，鄙吝之私复萌于心矣。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19199.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19201.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

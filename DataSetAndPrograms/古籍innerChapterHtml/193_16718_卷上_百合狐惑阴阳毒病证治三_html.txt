@@ -1,0 +1,142 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+金匮要略·卷上·百合狐惑阴阳毒病证治三_古诗文网
+</title>
+<meta content="（论一首 证三条 方十二首）论曰：百合病者，百脉一宗，悉致其病也。意欲食复不能食，常默默，欲卧不能卧，欲行不能行，饮食或有美时，或有不用闻食臭时，如寒无寒，加热无热，口苦，小便赤，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16718.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷上·百合狐惑阴阳毒病证治三</b></span>
+<a href="javascript:PlayBookv(16718)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16718" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16718" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e4%bb%b2%e6%99%af">张仲景</a></p>
+<div class="contson">
+<p>　　（论一首 证三条 方十二首）</p>
+<p>　　论曰：百合病者，百脉一宗，悉致其病也。意欲食复不能食，常默默，欲卧不能卧，欲行不能行，饮食或有美时，或有不用闻食臭时，如寒无寒，加热无热，口苦，小便赤，诸药不能治，得药则剧吐利，如有神灵者，身形如和，其脉微数。</p>
+<p>　　每溺时头痛者，六十日乃愈；若溺时头不痛，淅然者，四十日愈；若溺快然，但头眩者，二十日愈。其证或未病而预见，或病四五日而出，或病二十日，或一月微见者，各随证治之。</p>
+<p>　　百合病，发汗后者，百合知母汤主之。</p>
+<p>　　百合知母汤方</p>
+<p>　　百合七枚（劈） 知母三两（切）</p>
+<p>　　右先以水洗百合，渍一宿，当白沫出，去其水，更以泉水二升，煎取一升，去滓；别以泉水二升，煎知母，取一升，去滓；后会和，煎取一升五合，分温再服。</p>
+<p>　　百合病，下之后者，滑石代赭汤主之。</p>
+<p>　　滑石代赭汤方</p>
+<p>　　百合七枚（劈） 滑石三两（碎，绵裹） 代赭石（如弹丸大枚一）（碎，绵裹）</p>
+<p>　　右先以水洗百合，渍一宿，当白沫出，去其水，更以泉水二升，煎取一升，去滓；别以泉水二升煎滑石、代赭，取一升，去滓；后合和重煎，取一升五合，分温眼。</p>
+<p>　　百合病，吐之后者，用后方主之。</p>
+<p>　　百合鸡子汤方</p>
+<p>　　百合七枚（劈） 鸡子黄一枚</p>
+<p>　　右先以水洗百合，渍一宿，当白沫出，去其水，更以泉水二升，煎取一升，去滓，内鸡子黄，搅匀，煎五分，温服。</p>
+<p>　　百合病，不经吐、下、发汗，病形如初者，百合地黄汤主之。</p>
+<p>　　百合地黄汤方</p>
+<p>　　百合七枚（劈） 生地黄汁一升</p>
+<p>　　右以水洗百合，渍一宿，当白沫出，出其水，更以泉水二升，煎取一升，去滓，内地黄汁，煎取一升五合，分温再服。中病，勿更取。大便当如漆。</p>
+<p>　　百合病一月不解，变成渴者，百合洗方主之。</p>
+<p>　　百合洗方</p>
+<p>　　右以百合一升，以水一斗，渍之一宿，以洗身，洗已，食煮饼，勿以盐豉也。</p>
+<p>　　百合病，渴不差者，用后方主之</p>
+<p>　　栝蒌牡蛎散方</p>
+<p>　　栝蒌根 牡蛎（熬）等分</p>
+<p>　　右为细木，饮服方寸匕，日三服。</p>
+<p>　　百合病，变发热者（一作发寒热），百合滑石散主之。</p>
+<p>　　百合滑石散方</p>
+<p>　　百合一两（炙） 滑石三两</p>
+<p>　　右为散，饮服方寸匕，日三服。当微利者，止服，热则除。</p>
+<p>　　百合病见于阴者，以阳法救之；现于阳者，以阴法救之。见阳攻阴，复发其汗，此为逆；见阴攻阳，乃复下之，此亦为逆。</p>
+<p>　　狐惑之为病，状如伤寒，默默欲眠，目不得闭，卧起不安，蚀于喉为惑，蚀于明为狐，不欲饮食，恶闻食臭，其面目乍赤、乍黑、乍白。蚀于上部则声喝（一作嘎），甘草泻心汤主之。</p>
+<p>　　甘草泻心汤方</p>
+<p>　　甘草四两 黄芩三两 人参三两 干姜三两 黄连一两 大枣十二枚半夏半斤</p>
+<p>　　右七味，水一斗，煮取六升，去滓再煎，温服一升，日三服。</p>
+<p>　　蚀于部则咽干，苦参汤洗之。</p>
+<p>　　苦参汤方</p>
+<p>　　苦参一升，以水一斗，煎取七升，去滓，熏洗，目三服。</p>
+<p>　　蚀于肛者，雄黄熏之。</p>
+<p>　　雄黄熏方</p>
+<p>　　雄黄</p>
+<p>　　右一味为末，筒瓦二枚合之，烧，向肛熏之。《脉经》云：病人或从呼吸上蚀其咽，或从下焦蚀其肛，阴蚀上为惑，蚀下为狐，狐惑病者，猪苓字散主之）</p>
+<p>　　病者脉数，无热微烦，默默但欲卧，汗出，初得之三四日，目赤如鸠眼；七八日，目四眦（一本此有黄字）黑。若能食者，脓已成也，赤小豆当归散主之。</p>
+<p>　　赤小豆当归散方</p>
+<p>　　赤小豆三升（浸，令芽出，曝干） 当归三两</p>
+<p>　　右二味，杵为散，浆水服方寸匕，日三服。</p>
+<p>　　阳毒之为病，面赤斑斑如锦文，咽喉痛，唾脓血。五日可治，七日不可治，升麻鳖甲汤主之。阴毒之为病，面目青，身痛如被杖，咽喉痛。五日可治，七日不可治，升麻鳖甲汤去雄黄、蜀椒主之。</p>
+<p>　　升麻鳖甲汤方</p>
+<p>　　升麻二两 当归一两 蜀椒（炒去汗）一两 甘草二两 雄黄半两（研）鳖甲手指大一片（炙）</p>
+<p>　　右六味，以水四升，煮取一升，顿服之，老小再服，取汗。（《肘后》、《千金方》阳毒用升麻汤，无鳖甲有桂；阴毒用甘草汤，无雄黄）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16717.aspx">上一章</a>
+<a href="/guwen/book_193.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16719.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

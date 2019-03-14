@@ -1,0 +1,129 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·看命口诀十二_古诗文网
+</title>
+<meta content="凡五行怕太过相忤，如禄多则贫，马多则病，印多则孤，库多则虚。生旺多无归宿，死绝多无激扬。五行　不可太相伤，不可太纯粹。贵人马多升擢，常人马多奔驰。破要伤祸，空要空尽。所爱者不可毁，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16648.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·看命口诀十二</b></span>
+<a href="javascript:PlayBookv(16648)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16648" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16648" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　凡五行怕太过相忤，如禄多则贫，马多则病，印多则孤，库多则虚。</p>
+<p>　　生旺多无归宿，死绝多无激扬。</p>
+<p>　　五行　不可太相伤，不可太纯粹。贵人马多升擢，常人马多奔驰。</p>
+<p>　　破要伤祸，空要空尽。</p>
+<p>　　所爱者不可毁，所畏者不可旺。先畏后爱为福，先爱后畏为祸。</p>
+<p>　　合多不发而媚，学堂多则无成。</p>
+<p>　　贵人多则巽懦而无立志，禄马太显不可以贵人论。</p>
+<p>　　贵人表里足不可以常人论。</p>
+<p>　　四柱俱阳，口恶心善，四柱俱阴，狠戾沉毒。</p>
+<p>　　拱要拱马，拱禄，拱贵，拱福神。不要拱刑，拱祸，拱岁，拱时。</p>
+<p>　　阴阳贵在均协，病伤要有克制。</p>
+<p>　　凡命丙辛壬癸见戊戌，则当途刃伤折挫。</p>
+<p>　　壬子、丙午、丙午、壬子水木精神，阴阳纯粹。</p>
+<p>　　余位无助亦非常器，加以季秀之气，旷世无忌大德有容，乃丈夫也。</p>
+<p>　　卯酉日出入之地，子午阴阳始分之宫。遇之者，令人往来不定，岁运亦然。</p>
+<p>　　巳亥为两极之地，地天斡旋。寅申为三停之方，邮递往来，如人遇之多执不一。</p>
+<p>　　丑未迟迟，辰戌速速。遇之令人执方，性不通变。辰戌有气，却能建立大事。</p>
+<p>　　丙子人四柱有壬寅，是壬入丙家，克破不美。</p>
+<p>　　庚子见庚午，是五鬼临门。</p>
+<p>　　戊寅见甲寅，甲克其戊。戊寅随势克甲寅，是干支纳音，上下不和。</p>
+<p>　　除别有福神，方为福力。</p>
+<p>　　癸酉见戊寅，戊土克癸水，又金气向绝乡劫煞，元辰居中。</p>
+<p>　　除得月令中秀气，方可为用，亦久而不佳。</p>
+<p>　　庚午、丁酉互旺互破，乃旺中破也，不可全为福力。</p>
+<p>　　己未、辛酉虽得食，却归死地，终久不佳。</p>
+<p>　　乙丑、乙未、庚辰、庚戌见戊寅大好运亦然。</p>
+<p>　　经曰：如得刚金济，戊寅欲绝不绝成福力。</p>
+<p>　　乙卯见戊寅，戊寅见乙卯，是大好命。</p>
+<p>　　丹阳书云：三奇之际尚有虚声，死绝之中尤存生旺。</p>
+<p>　　盖三合三奇，不合月分则不贵。</p>
+<p>　　如甲戊庚有子午时方贵，乙丙丁有寅卯时方贵。</p>
+<p>　　天元变化书云：乙丙丁正爱酉亥，更看纳音有无交涉。</p>
+<p>　　又云：凡三奇三合带月令中秀气入贵格，亦不免庶出过房作赘。</p>
+<p>　　又云：凡命见三合三奇，而本年不带在四孟。生而得四仲、四季。月日时四仲、四季同论。及胎月日互换干合或六合，而本命不带，皆各日掉太岁，多主离祖孤立，为人不得力少救助。却宜义居假合而立也，</p>
+<p>　　贵命则多倚仗而升进。</p>
+<p>　　凡四柱带三奇三合者，本身不是过房庶出，将来子孙必有过房庶出，随母之子。</p>
+<p>　　古诗云：三合与三奇，清秀更饶肥，不为过房子，便是随母儿。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16647.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16649.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

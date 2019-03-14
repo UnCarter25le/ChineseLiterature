@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·申屠_古诗文网
+</title>
+<meta content="历史来源　　1、为上古舜帝的后代。初为胜屠氏，后因古代“胜”与“申”两字同音，故俗称申屠氏。　　2、出自姜姓，为炎帝裔孙四岳的后代。夏朝时，四岳之后被封于申，为侯爵位，世称申侯。西" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2734.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>申屠</b></span>
+<a href="javascript:PlayBookv(2734)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2734" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2734" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、为上古舜帝的后代。初为胜屠氏，后因古代“胜”与“申”两字同音，故俗称申屠氏。<br/>　　2、出自姜姓，为炎帝裔孙四岳的后代。夏朝时，四岳之后被封于申，为侯爵位，世称申侯。西周末年的周幽王是个荒淫无道的昏君，他先娶申侯的女儿为王后，后来又宠幸美女褒姒，废掉申后和太子宜臼，改立褒姒所生的伯服为太子。申侯对此大为不满，便联合鄫国和游牧民族犬戎一起攻打周幽王。敌兵压境，周幽王赶紧点燃烽火，召唤各国诸侯前来援救，可是等来等去，一路援军也没有来。原来，褒姒虽美，却难得开口一笑。为此周幽王立下重赏：凡能够使褒姒开口一笑者赏赐千金。有小人就出了个馊主意，叫周幽王点起烽火戏弄诸侯。周幽王依计而行，果然引得各国诸侯来时急如星火，去时败兴而归，乱哄哄，闹嚷嚷，倒也使褒姒笑过几次。可是一来二去，诸侯们也学乖了，所以到后来来的诸侯越来越少了，这次真的情况紧急，各国诸侯却以为周幽王又在做游戏，所以都不肯来了。结果周幽王和伯服被犬戎杀死，褒姒也被掳走。于是申侯同鲁侯、许侯等拥立宜臼为王，就是周平王。为了酬谢申侯的援立之功，周平王把申侯的小儿子封在屠原（今陕西省合阳县东）。居于屠原的申姓人，就以申屠命姓，称申屠氏。<br/>　　3、古代有申徒氏误传为申屠氏。</p>
+<p><strong>家族名人</strong><br/>　　申屠嘉：汉代都尉。文帝时拜丞相，封固安侯。为人廉直，不受私人拜托。幸臣邓通戏殿上，嘉欲杀之，为文帝赦免。景帝时，晁错用事，嘉欲借晁错穿凿宗庙垣事杀错未成，愤恨吐血而死。<br/>　　申屠刚：后汉人。性情方直，常慕史鱿、汲黯之为人。平帝时，举贤良方正，因对策时忤上意罢归。光武帝时征拜侍御史，后任尚书令。帝欲出游，刚以陇蜀未平，不宜宴安逸豫，劝谏不听，以头抵舆轮，使车不得行。后数次以谏忤旨，贬为平阴令，终官太中大夫。申屠致远：元朝人。世祖南征时，被经略使乞实力台荐为经略司知事。军中机务，多所谋划。累官淮西江北道肃政廉访司事。所至有风裁。他清修苦节，耻事权贵，聚书万卷，名“墨庄”。著有《忍斋行稿》、《杜诗纂例》、《集古印章》等。<br/>　　申屠蟠：东汉学者。郡召为主簿不行，遂隐居精学，博贯五经，兼明图纬。申包胥：姓公孙，封于申，所以号为申包胥。春秋时做楚国大夫。与武员即武子胥有很好的交情。武子胥因为父兄被害逃往吴国的时候曾对包胥说：“我必复楚国。”包胥回答他道：“子能复之，我必能兴之。”后武子胥以吴军攻楚，入其都，包胥跑到秦国求救，不吃不饮在秦廷上哭了七天七夜，秦国终于被感动了，派了五百辆战车去营救楚国，打败了吴军，楚昭王于是得以保国，要奖赏包胥，包胥逃而不受。</p>
+<p><strong>迁徙分布</strong><br/>　　京兆郡：即首都长安直辖区。在今陕西省西安市至华县一带。<br/>　　西河郡：战国时魏国置郡。相当于现在山西、陕西两省之间黄河沿岸一带地区。<br/></p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2733.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2735.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

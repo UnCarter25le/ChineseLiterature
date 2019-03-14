@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+抱朴子·外篇·时难_古诗文网
+</title>
+<meta content="抱朴子曰:尽节无隐者， 可为也。 若夫使言必纳而身必安者， 须时。 时之否也。 夫奸凶之徒妒所不逮， 拥上抑下， 恶直丑正， 忧畏公方之弹击邪枉， 是以务除胜己以纾其诛。 明主不世" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9515.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>外篇·时难</b></span>
+<a href="javascript:PlayBookv(9515)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9515" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9515" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e6%b4%aa">葛洪</a></p>
+<div class="contson">
+<p>　　抱朴子曰:尽节无隐者， 可为也。 若夫使言必纳而身必安者， 须时。 时之否也。 夫奸凶之徒妒所不逮， 拥上抑下， 恶直丑正， 忧畏公方之弹击邪枉， 是以务除胜己以纾其诛。 明主不世而出， 庸君迷於皂白， 既不能受用忠益， 或乃宣泄至言。 於是弘恭石显之徒， 饰巧辞以构象似， 假至公以售私奸。 令献长生之术者， 反获立死之罪;进安上之计者， 旋受危身之祸。 故曰:非言之难也， 谈之时难也。</p>
+<p>　　夫以贤说圣， 犹未必即受， 故伊尹干汤， 至於七十也。 以智告愚， 则必不入， 故文谏纣， 终不纳也。 言不见信， 犹之可也。 若乃李斯之诛韩非， 庞涓之刖孙膑， 上官之毁屈平， 袁盎之中晁错， 不可胜载也。 为臣不易， 岂一途也哉! 盖往而不反者， 所以功在身後;而藏器俟时者， 所以百无一遇。 高勋之臣旷代而一有;陷冰之徒， 委积乎史策。 悲夫， 时之难遇也， 如此其甚哉! 由兹以言， 吾知渭滨吕尚之俦， 岩间傅说之属， 怀其王佐之器， 抱其邈世之材， 秉竿拥筑， 老死於庸儿之伍， 而遂不遭文王高宗者， 必不訾矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9514.aspx">上一章</a>
+<a href="/guwen/book_103.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9516.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

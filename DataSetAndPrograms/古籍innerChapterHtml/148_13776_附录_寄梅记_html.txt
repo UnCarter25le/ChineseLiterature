@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+剪灯新话·附录·寄梅记_古诗文网
+</title>
+<meta content="朱端朝，字廷之，宋南渡后，肄业上庠，与妓女马琼琼者善，久之，情爱稠密。端朝文华富赡，琼琼识其非白屋久居之人，遂倾心焉，凡百资用，皆悉力给之。屡以终身为托。端朝虽口从，而心不之许，盖" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13776.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>附录·寄梅记</b></span>
+<a href="javascript:PlayBookv(13776)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13776" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13776" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9e%bf%e4%bd%91">瞿佑</a></p>
+<div class="contson">
+<p>　　朱端朝，字廷之，宋南渡后，肄业上庠，与妓女马琼琼者善，久之，情爱稠密。端朝文华富赡，琼琼识其非白屋久居之人，遂倾心焉，凡百资用，皆悉力给之。屡以终身为托。端朝虽口从，而心不之许，盖以其妻性严，非薄幸也。值秋试，端朝获捷，琼琼喜而劳之。端朝乃益淬励，省业春闱，揭报果复中优等。及对策，失之太激，遂置下甲。初注授南昌尉。琼琼力致恳曰：“妾风尘卑贱，荷君不弃。今幸荣登仕版，行将云泥隔绝，无复奉承枕席。妾之一身，终沦溺矣！诚可怜悯！欲望君与谋脱籍，永执箕帚。虽君内政谨严，妾当委曲遵奉，无敢唐突。万一脱此业缘，受赐于君，实非浅浅。且妾之箱箧稍充，若与力图，去籍犹不甚难。”端朝曰：“去籍之谋固易，但恐不能使家人无妒。吾计之亦久矣。盛意既浓，沮之则近无情，从之则虞有辱，奈何！然既出汝心，当徐为调护，使其柔顺，庶得相安，否则计无所措也。”一夕，端朝因间，谓其妻曰：“我久居学舍，虽近得一官，家贫，急于干禄，岂得待数年之阙？且所得官，实出妓子马琼琼之赐。今彼欲倾箱箧，求托于我。彼亦小心，能迎合人意，诚能脱彼于风尘，亦仁人之恩也。”其妻曰：“君意既决，亦复何辞。”端朝喜谓琼琼曰：“初畏不从，吾试叩之，乃忻然相许。”端朝于是宛转求脱，而琼琼花籍亦得除去，遂运橐与端朝俱归。既至，妻妾怡然。端朝得琼琼之所携，家遂稍丰。因辟一区，为二阁，以东、西名，东阁以居其妻，令琼琼处于西阁。阙期既满，迓吏前至。端朝以路远俸薄，不欲携累，乃单骑赴任。将行，置酒相别，因瞩曰：“凡有家信，二阁合书一缄，吾覆亦如之。”</p>
+<p>　　端朝既至南昌，半载方得家人消息，而止东阁一书。端朝亦不介意。既栽覆，西阁亦不及见，索之，颇遭忌嫉，乃密遣一仆，厚给裹足，授以书，嘱之曰：“勿令孺人知之。”书至，端朝发阅，无一宇。乃所画梅雪扇面而已。反复观玩，后写一《减字木兰花》词云：</p>
+<p>　　雪梅妒色，雪把梅花相抑勒。梅性温柔，雪压梅花怎起头？芳心欲破，全仗东君来作主。传语东君，早与梅花作主人。</p>
+<p>　　端朝自是坐卧不安，日夜思欲休官。盖以侥幸一官，皆琼琼之力，不忘本也。寻竟托疾弃归。既至家，妻妾出迎，怪其未及尽考，忽作归计，叩之不答。既而设酒，会二阁而言曰：”我羁縻千里，所望家人和顺，使我少安。昨见西阁所寄梅扇词，读之使人不遑寝食，吾安得不归哉！”东阁乃曰：“君今已仕，试与判此孰是。”端朝曰：“此非口舌可尽，可取纸笔书之。”遂作《浣溪沙》一阕云：</p>
+<p>　　梅正开时雪正狂，两般幽韵孰优长？且宜持酒细端详。</p>
+<p>　　梅比雪花输一白，雪如梅蕊少些香，无公非是不思量。</p>
+<p>　　自后二阁欢会如初，而端朝亦不复仕矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13775.aspx">上一章</a>
+<a href="/guwen/book_148.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十二·二班_古诗文网
+</title>
+<meta content="殷元礼，云南人，善针灸之术。遇寇乱，窜入深山。日既暮，村舍尚远，惧遭虎狼。遥见前途有两人，疾趁之。既至，两人问客何来，殷乃自陈族贯。两人拱敬曰：“是良医殷先生也，仰山斗久矣！”殷转" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11849.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十二·二班</b></span>
+<a href="javascript:PlayBookv(11849)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11849" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11849" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　殷元礼，云南人，善针灸之术。遇寇乱，窜入深山。日既暮，村舍尚远，惧遭虎狼。遥见前途有两人，疾趁之。既至，两人问客何来，殷乃自陈族贯。两人拱敬曰：“是良医殷先生也，仰山斗久矣！”殷转诘之。二人自言班姓，一为班爪，一为班牙。便谓：“先生，予亦避难石室，幸可栖宿，敢屈玉趾，且有所求。殷喜从之。俄至一处，室傍岩谷。爇柴代烛：始见二班容躯威猛，似非良善。计无所之，亦即听之。又闻榻上呻吟，细审，则一老妪僵卧，似有所苦。问：“何恙？”牙曰：“以此故，敬求先生。”乃束火照榻，请客逼视。见鼻下口角有两赘瘤，皆大如碗，且云：“痛不可触，妨碍饮食。”殷曰：“易耳。”出艾团之，为灸数十壮，曰：“隔夜愈矣。”二班喜，烧鹿饷客；并无酒饭，惟肉一品。爪曰：“仓猝不知客至，望勿以輶亵为怪。”殷饱餐而眠，枕以石块。二班虽诚朴，而粗莽可惧，殷转侧不敢熟眠。天未明便呼妪，问所患。妪初醒，自扪，则瘤破为创。殷促二班起，以火就照，敷以药屑，曰：“愈矣。”拱手遂别。班又以烧鹿一肘赠之。</p>
+<p>　　后三年无耗。殷适以故入山，遇二狼当道，阻不得行。日既西。狼又群至，前后受敌。狼扑之，仆；数狼争啮，衣尽碎。自分必死。忽两虎骤至，诸狼四散。虎怒大吼，狼惧尽伏。虎悉扑杀之，竟去。殷狼狈而行，惧无投止。遇一媪来，睹其状，曰：“殷先生吃苦矣！”殷戚然诉状，问何见识。媪曰：“余即石室中灸瘤之病妪也。”殷始恍然，便求寄宿。媪引去，入一院落，灯火已张，曰：“老身伺先生久矣。”遂出袍裤，易其敝败。罗浆具酒，酬劝谆切。媪亦以陶碗自酌，谈饮俱豪，不类巾帼。殷问：“前日两男子，系老姥何人？胡以不见？”媪曰：“两儿遣逆先生，尚未归复，必迷途矣。”殷感其义，纵饮不觉沉醉，酣眠座间。既醒，已曙，四顾竟无庐，孤坐岩上。闻岩下喘息如牛，近视，则老虎方睡未醒。喙间有二瘢痕，皆大如拳。骇极，惟恐其觉，潜踪而遁。始悟两虎即二班也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11848.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11850.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

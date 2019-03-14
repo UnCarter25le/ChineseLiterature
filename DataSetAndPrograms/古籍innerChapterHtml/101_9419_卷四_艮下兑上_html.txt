@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷四·艮下兑上_古诗文网
+</title>
+<meta content="咸亨利貞，取女吉。彖曰：咸，感也。柔上而剛下，二氣感應以相與，止而説，男下女，是以亨利貞，取女吉也。天地感而萬物化生，聖人感人心而天下和平，觀其所感而天地萬物之情可見矣。二氣之相感" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9419.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·艮下兑上</b></span>
+<a href="javascript:PlayBookv(9419)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9419" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9419" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　咸亨利貞，取女吉。彖曰：咸，感也。柔上而剛下，二氣感應以相與，止而説，男下女，是以亨利貞，取女吉也。天地感而萬物化生，聖人感人心而天下和平，觀其所感而天地萬物之情可見矣。</p>
+<p>　　二氣之相感應也，中無間也，故得萬物變化乎其内，天氣下降而地氣上，濟陽下陰而陰從陽也。止於所説，其利之正也，故取女以之吉也。而感應之道取焉，聖人無為與天地準，寂然虚中通天下之情，因其情而通天下之故，而咸得其治則天下和平矣。夫相下而不私則感之而通也。觀天地萬物之情，而感一也。彖語其感大者，如此也。至於爻則形相趨也，利相逐也，豈及於感之至哉。天下忘於情而有累於質者，則於物不盡矣，故見利則躁，後時則絶，皆凶悔之道也。</p>
+<p>　　象曰：山上有澤，咸。君子以虚受人。</p>
+<p>　　澤，説來也。山，止受也。君子感人之來，虚中以止之，受其情也。情之得，治之生也。失其情，得治者未之有也。</p>
+<p>　　初六，咸其拇。象曰：咸其拇，志在外也。</p>
+<p>　　拇，體於下者。將行之物也。有應於外始有志於感而未行也。未涉於吉凶之鄉也。</p>
+<p>　　六二，咸其腓。凶，居吉。象曰：雖凶居吉，順不害也。</p>
+<p>　　下體之中，當於腓之為物，足往。斯往矣，獨而往之，即妄動也，何益於行乎。妄動則不見其情也，不得於事冝，其凶哉。居以守位，順以待令，吉矣。得其中者也。</p>
+<p>　　九三，咸其股，執其隨，往吝。象曰：咸其股，亦不處也。</p>
+<p>　　志在隨人，所執下也。居下體之上，隨上體而往止，亦非自處之物也。感止於下，以下事而求感也，豈由已乎。執賤隨感可惜者也。</p>
+<p>　　九四，貞吉，悔亡。憧憧往來，朋從爾思。象曰：貞吉悔亡，未感害也。憧憧往來，未光大也。</p>
+<p>　　升於上體而兼於下，始以兩體相逐追也。凡物以形利相感者，未極於志也。神遇者，豈假役哉。無慮澹然而居於形之上，不言而信，不行而至天下，感之況於明乎。而以形質相感，未感則害至，故貞吉。而獲悔亡，憧憧相追，朋乃從思。</p>
+<p>　　九五，咸其脢，无悔。象曰：咸其脢，志末也。</p>
+<p>　　至脢，心脊之肉，近於心也。感近於情而非志也，故無悔而己。可以言者，物之質也，況其脢乎。</p>
+<p>　　上六，咸其輔頰舌。象曰：咸其輔頰舌，滕口説也。</p>
+<p>　　感至極，未有至於言説而已，於情逺矣，何足咸哉。浮之甚也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9418.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9420.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

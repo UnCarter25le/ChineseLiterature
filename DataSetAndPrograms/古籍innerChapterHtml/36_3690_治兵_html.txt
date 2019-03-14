@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+吴子·治兵_古诗文网
+</title>
+<meta content="武侯问曰：“进兵之道何先？”起对曰：“先明四轻、二重、一信。”曰：“何谓也？”对曰：“使地轻马，马轻车，车轻人，人轻战。明知（阴阳）[险易]，则地轻马；刍秣以时，则马轻车；膏锏有余" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3690.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2231" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>治兵</b></span>
+<a href="javascript:PlayBookv(3690)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3690" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2231)" id="leftbtn2231" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3690" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e8%b5%b7">吴起</a></p>
+<div class="contson">
+<p>　　武侯问曰：“进兵之道何先？”</p>
+<p>　　起对曰：“先明四轻、二重、一信。”</p>
+<p>　　曰：“何谓也？”</p>
+<p>　　对曰：“使地轻马，马轻车，车轻人，人轻战。明知（阴阳）[险易]，则地轻马；刍秣以时，则马轻车；膏锏有余，则车轻人；锋锐甲坚，则人轻战。进有重赏，退有重刑，行之以信。（令制远）[审能达]此，胜之主也。”</p>
+<p>　　武侯问曰：“兵何以为胜？”</p>
+<p>　　起对曰：“以治为胜。”</p>
+<p>　　又问曰：“不在众寡？”</p>
+<p>　　对曰：“若法令不明，赏罚不信，金之不止，鼓之不进，虽有百万，何益于用？所谓治者，居则有礼，动则有威，进不可挡，退不可追，前却有节，左右应麾，虽绝成陈，虽散成行。与之安，与之危，其众可合而不可离，可用而不可疲，投之所往，天下莫当，名曰父子之兵。”</p>
+<p>　　吴子曰：“凡行军之道，无犯进止之节，无失饮食之适，无绝人马之力。此三者，所以任其上令，任其上令，则治之所由生也。若进止不度，饮食不适，马疲人倦而不解舍，所以不任其上令，上令既废，以居则乱，以战则败。”</p>
+<p>　　吴子曰：“凡兵战之场，立尸之地，必死则生，幸生则死。其善将者，如坐漏船之中，伏烧屋之下，使智者不及谋，勇者不及怒，受敌可也。故曰：用兵之害，犹豫最大，三军之灾，生于狐疑。”</p>
+<p>　　吴子曰：“夫人（当）[常]死其所不能，败其所不便。故用兵之法：教戎为先。一人学战，教成十人；十人学战，教成百人；百人学战，教成千人；千人学战，教成万人；万人学战，教成三军。以近待远，以佚待劳，以饱待饥。圆而方之，坐而起之，行而止之，左而右之，前而后之，分而合之，结而解之。每变皆习，乃授其兵。是为将事。”</p>
+<p>　　吴子曰：“教战之令，短者持矛戟，长者持弓弩，强者持旌旗，勇者持金鼓，弱者给厮样，智者为谋主。乡里相比，什伍相保。一鼓整兵，二鼓习陈，三鼓趋食，四鼓严辩，五鼓就行。闻鼓声合，然后举旗。”</p>
+<p>　　武侯问曰：“三军进止，岂有道乎？”</p>
+<p>　　起对曰：“无当天灶，无当龙头。天灶者，大谷之口；龙头者，大山之端。必左青龙，右白虎，前朱雀，后玄武。招摇在上，从事于下。将战之时，审候风所从来，风顺致呼而从之，风逆坚陈以待之。”</p>
+<p>　　武侯问曰：“凡畜（卒）[车]骑，岂有方乎？”</p>
+<p>　　起对曰：“夫马，必安其处所，适其水草，节其饥饱。冬则温（烧）[厩]，夏则凉庑。刻剔毛鬣，谨落四下，戢其耳目，无令惊骇，习其驰逐，闲其进止，人马相亲，然后可使。车骑之具，鞍，勒，衔、辔，必令完坚。凡马不伤于末，必伤于始；不伤于饥，必伤于饱。日暮道远，必数上下，宁劳于人，慎无劳马，常令有余，备敌覆我。能明此者，横行天下。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3689.aspx">上一章</a>
+<a href="/guwen/book_36.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3691.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2231" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

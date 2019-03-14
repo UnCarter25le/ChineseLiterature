@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·闺智部·木兰 韩保宁 黄善聪_古诗文网
+</title>
+<meta content="【原文】秦发卒戍边，女子木兰悯父年老，代之行。在边十二年始归，人无知者。韩氏保宁，民家女也。明玉珍乱蜀，女恐为所掠，乃易男子饰，托名从军，调征云南。往返七年，人无知者。虽同伍亦莫觉" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6475.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5458" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>闺智部·木兰 韩保宁 黄善聪</b></span>
+<a href="javascript:PlayBookv(6475)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6475" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5458)" id="leftbtn5458" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6475" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　秦发卒戍边，女子木兰悯父年老，代之行。在边十二年始归，人无知者。</p>
+<p>　　韩氏保宁，民家女也。明玉珍乱蜀，女恐为所掠，乃易男子饰，托名从军，调征云南。往返七年，人无知者。虽同伍亦莫觉也，后遇其叔，一见惊异，乃明是女，携归四川，当时皆呼为“贞女”。</p>
+<p>　　黄善聪，应天淮清桥民家女，年十二，失母。其姊已适人，独父业贩线香。怜善聪孤幼，无所寄养，乃令为男子装饰，携之旅游庐、凤间者数年，父亦死。善聪即诡姓名曰张胜，（边批：大智术。）仍习其业自活。同辈有李英者，亦贩香，自金陵来，不知其女也，约为火伴。同寝食者逾年，恒称有疾，不解衣袜，夜乃溲溺。弘治辛亥正月，与英皆返南京，已年二十矣，巾帽往见其姊，乃以姊称之。姊言：“我初无弟，安得来此？”善聪乃笑曰：“弟即善聪也。”泣语其故，姊大怒，（边批：亦奇人。）且詈之曰：“男女乱群，玷辱我家甚矣!汝虽自明，谁则信之？”因逐不纳，善聪不胜愤懑，泣且誓曰：“妹此身苟污。有死而已。须令明白，以表寸心。”其邻即稳婆居，姊聊呼验之，乃果处子，始相持恸哭，手为易去男装。越日，英来候，再约同往，则善聪出见，忽为女子矣，英大惊，骇问，知其故，怏怏而归，如有所失，盖恨其往事之愚也，乃告其母，母亦嗟叹不已。时英犹未室，母贤之，即为求婚，善聪不从，曰：“妾竟归英，保人无疑乎？”边批，大是。交亲邻里来劝，则涕泗横流，所执益坚。众口喧传，以为奇事，厂卫闻之，（边批：好媒人。）乃助其聘礼，判为夫妇。</p>
+<p>　　〔评〕木兰十二年，最久；韩贞女七年，善聪逾年耳。至于善藏其用，以权济变，其智一也。</p>
+<p>　　若南齐之东阳娄逞、五代之临邛黄崇嘏，无故而诈为丈夫，窜入仕宦，是岂女子之分乎？至如唐贞元之孟妪，年二十六而从夫，夫死而伪为夫之弟，以事郭汾阳；郭死，寡居一十五年，军中累奏兼御史大夫。忽思茕独，复嫁人，时年已七十二。又生二子，寿百余岁而卒。斯殆人妖与？又不可以常理论矣!</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6474.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6476.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5458" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

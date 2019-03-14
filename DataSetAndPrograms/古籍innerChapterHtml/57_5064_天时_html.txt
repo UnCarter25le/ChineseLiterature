@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+反经·天时_古诗文网
+</title>
+<meta content="孙子曰：“二曰天时。天时者，阴阳、寒暑，时节制也。”《司马法》曰：“冬夏不兴师，所以兼爱吾人也。”太公曰：“天文三人，主占风气，知天心去就。”故《经》曰：“能知三生，临刃勿惊，从孤" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5064.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3240" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>天时</b></span>
+<a href="javascript:PlayBookv(5064)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5064" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3240)" id="leftbtn3240" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5064" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b5%b5%e8%95%a4">赵蕤</a></p>
+<div class="contson">
+<p>　　孙子曰：“二曰天时。天时者，阴阳、寒暑，时节制也。”《司马法》曰：“冬夏不兴师，所以兼爱吾人也。”太公曰：“天文三人，主占风气，知天心去就。”故《经》曰：“能知三生，临刃勿惊，从孤击虚，一女当五丈夫。”故行军必背太阴、向太阳，察五纬之光芒，观二曜之薄蚀，必当以太白为主，辰星为候。合宿，有必斗之期；格出，明不战之势。避以日耗，背以月刑。以王击囚，以生击死，是知用天之道，顺天行诛，非一日也。 </p>
+<p>　　若细雨沐军，临机必有捷；回风相触，道还而无功。云类群羊，必走之道；气如惊鹿，必败之势。黑云出垒，赤气临军，六穷起风，三刑起雾，此皆见师之出而不见其入也。若烟非烟，此庆云也；若星非星，此归邪也；若雾非雾，此泣军也；若雷非雷，此天鼓也。庆云开，有德；归邪，有降人；泣军，多杀将；天鼓，多败军。是知风云之占，岁月之候，其来久矣。 </p>
+<p>　　故古者初立将，始出门首建牙之时，必观风云之气。 </p>
+<p>　　(诸谋立武事，征伐四方，兴兵动众，忌大风雷雨，阴不见日。辰午酉亥，自刑之日。夫牙旗者，将军之精。凡竖牙旗，必以制日。制日者，谓上克下也。初立牙门，禡之曰：“两仪有正，四海有王，宝命在天，世德弥光。蕞尔凶狡，敢谋乱常，天子命我，秉钺专征。爰整其旅，讨兹不庭。夫天道助顺，神祗害口，使凶丑时歼，方隅聿清。兵不血刃，凯归上京。神气增辉，永观厥成。实正直之赖，凡乃神之灵，急急如律令。”凡气初出如甑上气，勃勃上升，气积为雾，雾为阴，阴气结为虹霓，晕珥之属。凡气不积不结，散漫一方，不能为灾。必和杂杀气，森森然疾起，乃可。论占，常以平旦、下晡、日出没时候之，期内有风雨，灾不成也。)。若风不旁勃，旌旗晕晕，顺风而扬举，或向敌终日，军行有功，胜候也。 </p>
+<p>　　(凡军上气如山堤上林木，不可与战；在吾军大胜。或如火光，亦大胜。或敌上白气粉拂如楼，缘以赤气者，兵劲不可击；在吾军必大胜。或敌上气黄白厚润而重者，勿与战。或有云广如三匹帛，前后大军行好。遥望军上云如斗鸡，赤白相随，在气中得天助，不可击。两军相当，上有气如蛇，举头向敌者，战必胜。凡军营上有五色气，上与天连，此应天之军，不可击。有赤黄气干天，亦不可攻。或有云如日月，而赤气绕之，如日晕状，有光者，所见之地大胜，不可攻。敌上气如口状，其军不可攻。此皆胜气也)。 </p>
+<p>　　若逆风来应，气旁勃，牙扛折，阴不见日，旌幡激扬，败候也。 </p>
+<p>　　(若云气从敌所来，终日不止，军不可出，出则不利。若风气俱来，此为败候，在急击也。凡敌上气色如马肝，如死灰，或类偃盖，皆败征也。或黑气如坏山，随军上者，军必败。或军上气昏发，连夜照人，则军事散乱。或军上气半，而一绝一败，再绝再败。在东发白者，灾深。或军上气五色杂乱，东西南北不定者，其军欲败。或军上有赤气炎炎降天，将死众乱。或军上有黑气如牛马形，从气雾中下渐入军，名曰天狗下食血，败军也。或有云气盖道、蒙蔽画冥者，释炊不暇熟，急去，此皆败候也。) </p>
+<p>　　若下轻其将，妖怪并作，众口相惑，当修德审令，缮砺锋甲，勤诚誓士，以避天怒。然后复择吉日，祭牙旗，具太牢之馔，震鼓铎之音，诚心启请，以备天问，观其祥应，以占吉凶。若人马喜跃，旌旗皆前指高陵，金铎之声扬以清，鼙鼓之音宛以鸣，此得神明之助，持以安于众心，乃可用矣。 </p>
+<p>　　虽云任贤使能，则不占而事利；令明法审，则不筮而计成；封功赏劳，则不祷而福从；共苦同甘，则犯逆而功就。然而临机制用，有五助焉：一曰助谋，二曰助势，三曰助怯，四曰助疑，五曰助地。此五者，助胜之术。故曰：“知地知天，胜乃可全。”不可不审察也。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5063.aspx">上一章</a>
+<a href="/guwen/book_57.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5065.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3240" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

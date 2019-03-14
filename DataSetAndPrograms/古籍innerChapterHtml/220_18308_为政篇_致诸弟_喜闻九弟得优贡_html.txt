@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·为政篇·致诸弟·喜闻九弟得优贡_古诗文网
+</title>
+<meta content="澄候温甫子植季洪四位老弟足下：廿六日王如一朱梁七至营，接九月初二日家书，廿九日刘一彭四至营，又接十六日家书，具悉一切。沅弟优贡喜信，此间廿三日彭山屺接家信，即已闻之。廿七日得左季高" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18308.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>为政篇·致诸弟·喜闻九弟得优贡</b></span>
+<a href="javascript:PlayBookv(18308)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18308" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18308" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　澄候温甫子植季洪四位老弟足下：</p>
+<p>　　廿六日王如一朱梁七至营，接九月初二日家书，廿九日刘一彭四至营，又接十六日家书，具悉一切。沅弟优贡喜信，此间廿三日彭山屺接家信，即已闻之。廿七日得左季高书，始知其实，廿九日得家书乃详也。沅弟寄信在省，业江西大营甚便，何以无一字报平安耶？十月初当可回家，为父亲叩祝大喜。各省优贡朝考，向例在明年五月：沅弟可于明年春间进京，若由浙江一途，可便道由江西至大营兄处聚会。吾有书数十箱在京，无人照管，沅弟此去，可经理一番。</p>
+<p>　　自七月以来，否得闻家中事，有数件可为欣慰者：温弟妻妾，皆有梦熊之兆，足慰祖父母于九泉，一也。家中妇女，大小皆纺纱科布，闻已成六七机，诸子侄读书尚不懒惰，内外各有职业，二也。阖境丰收，远近无警，此间兵事平顺，足安堂上老人之心，三也，今又闻沅弟喜音，意吾家高曾以来，积泽甚长，后人食报，更当绵绵不荆吾兄弟年富力强，尤宜时时内省，处处反躬自责，勤俭忠厚。以承先而启后，互相勉励可也。</p>
+<p>　　内湖水师，久未开仗，日日操练，夜在防守，颇为认真。周凤山统领九江陆军，亦尚平安。李次青带平江勇三千在苏垣渡，去湖口县十里，颇得该处士民欢心。茶陵州土匪，闻审扰江西之莲花厅，永新县境内，吉安人心震动。顷已调平江勇六百五十人前往剿办，又派水师千人往吉防堵，河道或可保全。</p>
+<p>　　余癣疾迄未愈，幸精神尚可支持。王如一等来，二十四日始到，余怒其太迟，令其即归，发途费九百六十文，家中不必加补，以为懒惰者戒，宽十在营住一个月，打发银六两，途资四千。罗山于十四日克复崇阳后，尚无信来，罗研山兄于今日到营。纪泽纪梁登九峰山诗，文气俱顺，且无猥琐之气，将来或皆可冀有成立也，余不一一。（咸丰五年九月三日书于屏风水营）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18307.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18309.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

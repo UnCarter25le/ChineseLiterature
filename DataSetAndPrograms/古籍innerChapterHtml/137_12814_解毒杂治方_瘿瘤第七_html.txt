@@ -1,0 +1,128 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·解毒杂治方·瘿瘤第七_古诗文网
+</title>
+<meta content="（方十三首 证一条 灸法十首）治石瘿、气瘿、劳瘿、土瘿、忧瘿等方∶海藻 海蛤 龙胆 通草 昆布 石（一作矾石） 松萝（各三分） 麦曲（四分） 半夏（二 ？上九味，治下筛，酒服方寸匕" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12814.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>解毒杂治方·瘿瘤第七</b></span>
+<a href="javascript:PlayBookv(12814)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12814" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12814" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　<span style="font-family:FangSong_GB2312;">　（方十三首 证一条 灸法十首）</span></p>
+<p>　　<strong>治石瘿、气瘿、劳瘿、土瘿、忧瘿等方∶</strong></p>
+<p>　　海藻 海蛤 龙胆 通草 昆布 石（一作矾石） 松萝（各三分） 麦曲（四分） 半夏（二 ？</p>
+<p>　　上九味，治下筛，酒服方寸匕，日三。禁食猪、鱼、五辛、生菜，诸难消之物。十日知，二十日愈。</p>
+<p>　　<strong>又方</strong> 小麦面（一升） 海藻（一两） 特生 石（十两）</p>
+<p>　　上三味，以三年米醋渍小麦面，曝干，各捣为散合和，服一方寸匕，日四五服，药含极乃咽之。禁姜、五辛、猪、鱼、生菜、大吹、大读诵、大叫语等。</p>
+<p>　　<strong>又方</strong> 昆布 松萝 海藻（各三两） 海蛤 桂心 通草 白蔹（各二两）</p>
+<p>　　上七味，治下筛，酒服方寸匕，日三。</p>
+<p>　　<strong>又方</strong> 海藻 海蛤（各三两） 昆布 半夏 细辛 土瓜根 松萝（各一两） 通草 白蔹 龙胆（各二两）</p>
+<p>　　上十味，治下筛，酒服方寸匕，日二，不得作重用方。</p>
+<p>　<strong>　又方</strong> 昆布二两，洗切如指大，醋渍含咽，汁尽愈。</p>
+<p>　　<strong>又方</strong> 海藻（一斤，《短剧》作三两） 小麦曲（一斤）</p>
+<p>　　上二味，以三年醋一升，溲面未，曝干，往反醋尽，合捣为散，酒服方寸匕，日三服。</p>
+<p>　　忌努力。（崔氏云∶疗三十年瘿瘤。）</p>
+<p>　　<strong>又方</strong>菖蒲 海蛤 白蔹 续断 海藻 松萝 桂心 蜀椒 倒挂草 半夏（各一两） 神曲 （三 ？</p>
+<p>　　上十二味，治下筛，以牛羊髓脂为丸如梧子，日服三丸。</p>
+<p>　　<strong>五瘿丸方<br/></strong>　　取鹿靥以佳酒浸令没，炙干纳酒中，更炙令香，含咽汁，味尽更易，尽十具愈</p>
+<p>　<strong>　陷肿散<br/></strong>　　治二三十年瘿瘤，及骨瘤、石瘤、肉瘤、脂瘤、脓瘤、血瘤，或息肉大如杯杆升斗，十年不瘥，致有漏溃，令人骨消肉尽，或坚或软或溃，令人惊悸，寤寐不安，身体螈缩，愈而复发方。</p>
+<p>　　乌贼骨 石硫黄（各一分） 钟乳 紫石英 白石英（各二分） 丹参（三分） 琥珀 附子 胡燕屎 大黄 干姜（各四分）</p>
+<p>　　上十一味，治下筛，以韦囊盛，勿泄气。若疮湿即敷，若疮干猪脂和敷，日三四，以干为度。若汁不尽，至五剂十剂止，药令人不痛。若不消，加芒硝二两佳。</p>
+<p>　<strong>　治瘿瘤方∶ </strong></p>
+<p>　　昆布 桂心（各一两） 逆流水柳须（一两） 海藻 干姜（各二两） 羊靥（七枚，阴干）</p>
+<p>　　上六味，为末，蜜丸如小弹子大，含一丸咽津。</p>
+<p>　　<strong>又方</strong> 矾石 芎 当归 大黄 黄连 黄芩 白蔹 芍药（各二分） 吴茱萸（一分）</p>
+<p>　　上九味，治下筛，鸡子黄和涂故细布上，随瘤大小浓薄贴之，干则易，着药熟当作脓脂细细从孔中出，须探脓血尽，着生肉膏。若脓不尽，复起如故。</p>
+<p>　　<strong>生肉膏<br/>　　治痈瘤溃漏及金疮、百疮方。</strong></p>
+<p>　　当归 附子 甘草 白芷 芎 （各一两） 薤白（二两） 生地黄（三两）</p>
+<p>　　上七味， 咀，以猪脂三升半，煎白芷黄去滓，稍以敷之，日三。</p>
+<p>　　<strong>又方</strong> 狗屎、 鸡子敷之，去脓水如前方说，敷生肉膏取瘥。（方见前二十二卷痈疽</p>
+<p>　<strong>　灸法<br/></strong>　　瘿恶气，灸天府五十壮。（《千金翼》云∶又灸胸堂百壮。）</p>
+<p>　　瘿上气短气，灸肺俞百壮。</p>
+<p>　　瘿劳气，灸冲阳，随年壮。</p>
+<p>　　瘿气面肿，灸通天五十壮。</p>
+<p>　　瘿，灸天瞿三百壮，横三间寸灸之。又灸中封，随年壮。（在两足趺上曲尺宛宛中。）</p>
+<p>　　诸瘿，灸肩 左右相对宛宛处，男左十八壮，右十七壮，女右十八壮，左十七壮，或再三取瘥止。又，风池百壮，挟项两边。又，两耳后发际一百壮。又，头冲（一作颈冲。）头冲在伸两 ？</p>
+<p>　　凡肉瘤勿治，治则杀人，慎之。（《肘后方》云∶不得针灸。）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12813.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12815.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

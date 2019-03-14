@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+老老恒言·卷二·导引_古诗文网
+</title>
+<meta content="导引之法甚多，如八段锦、华陀五禽戏、娑罗门十二法、天竺按摩诀之类，不过宣畅气血，展舒筋骸，有益无损。兹择老年易行者附于左，分卧功、立功、坐功三项；至于叩齿咽津，任意为之可也。修炼家" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18113.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·导引</b></span>
+<a href="javascript:PlayBookv(18113)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18113" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18113" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%b9%e5%bb%b7%e6%a0%8b">曹廷栋</a></p>
+<div class="contson">
+<p>　　导引之法甚多，如八段锦、华陀五禽戏、娑罗门十二法、天竺按摩诀之类，不过宣畅气血，展舒筋骸，有益无损。兹择老年易行者附于左，分卧功、立功、坐功三项；至于叩齿咽津，任意为之可也。修炼家有纳气通三关结胎成丹之说，乃属左道，毋惑。</p>
+<p>　　仰卧，伸两足，竖足趾，伸两臂，伸十指，俱着力向下，左右连身牵动数遍。仰卧，伸左足，以右足屈向前，两手用力攀至左，及胁，攀左足同，轮流行。仰卧，竖两膝，膝头相并，两足身外，以左右手各攀左右足，着力向外数遍。仰卧，伸左足，竖右膝，两手兜住右足，底用力向上，膝头至胸，兜左足同，轮流行。</p>
+<p>　　仰卧，伸两足，两手握大拇指，首着枕，两肘着席，微举腰摇动数遍。</p>
+<p>　　正立，两手叉向后，举左足空掉数遍，掉右足同，轮流行。</p>
+<p>　　正立，仰面昂胸，伸直两臂向前，开掌相并，抬起，如抬重物，高及首，数遍。</p>
+<p>　　正立，横伸两臂，左右托开，手握大拇指，宛转顺逆摇动，不计遍。</p>
+<p>　　正立，两臂垂向前，近腹，手握大拇指，如提百钧重物，左右肩俱耸动，数遍。</p>
+<p>　　正立，开掌，一臂挺直向上，如托重物，一臂挺直向下，如压重物，左右手轮流行。</p>
+<p>　　趺坐[盘膝交叠双腿]，擦热两掌，作洗面状，眼眶鼻梁耳根，各处周到，面觉微热为度。趺坐，伸腰，两手置膝，以目随头左右瞻顾，如摇头状，数十遍。</p>
+<p>　　趺坐，伸腰，两臂用力，作挽硬弓势，左右臂轮流互行之。</p>
+<p>　　趺坐，伸腰，两手仰掌，挺肘用力，齐向上，如托百钧重物，数遍。</p>
+<p>　　趺坐，伸腰，两手握大拇指作拳，向前用力，作捶物状，数遍。</p>
+<p>　　趺坐，两手握大拇指向后托实坐处，微举臀，以腰摆摇数遍。</p>
+<p>　　趺坐，伸腰，两手置膝，以腰前纽后纽，复左侧右侧，全身着力，互行之，不计遍。</p>
+<p>　　趺坐，伸腰，两手开掌，十指相叉，两肘拱起，掌按胸前，反掌推出，正掌挽来，数遍。</p>
+<p>　　趺坐，两手握大拇指作拳，反后捶背及腰，又向前左右交捶臂及腿，取快而止。</p>
+<p>　　趺坐，两手按膝，左右肩，前后交纽，如转辘轳，令骨节俱响，背觉微热为度。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18112.aspx">上一章</a>
+<a href="/guwen/book_219.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18114.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

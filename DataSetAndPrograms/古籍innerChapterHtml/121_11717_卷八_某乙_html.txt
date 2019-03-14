@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷八·某乙_古诗文网
+</title>
+<meta content="邑西某乙，故梁上君子也。其妻深以为惧，屡劝止之；乙遂翻然自改。居二三年，贫窭不能自堪，思欲一作冯妇而后已之。乃托贸易，就善卜者以决趋向。术者曰：“东南吉，利小人，不利君子。”兆隐与" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11717.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·某乙</b></span>
+<a href="javascript:PlayBookv(11717)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11717" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11717" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　邑西某乙，故梁上君子也。其妻深以为惧，屡劝止之；乙遂翻然自改。居二三年，贫窭不能自堪，思欲一作冯妇而后已之。乃托贸易，就善卜者以决趋向。术者曰：“东南吉，利小人，不利君子。”兆隐与心合，窃喜。遂南行抵苏、松间，日游村郭几数月。偶入一寺，见墙隅堆石子二三枚，心知其异，亦以一石投之，径趋龛后卧。日既暮，寺中聚语，似有十余人。忽一人数石，讶其多，因共搜之，龛后得乙，问：“投石者汝耶？”乙诺。诘里居、姓名，乙诡对之。乃授以兵，率与共去。至一巨第，出软梯，争逾垣入。以乙远至，径不熟，俾伏墙外，司传递、守囊橐焉。少顷掷一裹下，又少顷缒一箧下。乙举箧知有物，乃破箧，以手揣取，凡沉重物，悉纳一囊，负之疾走，竟取道归。由此建楼阁、买良田，为子纳粟。邑令匾其门曰“善士”。后大案发，群寇悉获；惟乙无名籍，莫可查诘，得免。事寝既久，乙醉后时自述之。</p>
+<p>　　曹有大寇某，得重资归，肆然安寝。有二三小盗逾垣入，捉之，索金。某不与；棰灼并施，罄所有乃去。某向人曰：“吾不知炮烙之苦如此！”遂深恨盗，投充马捕，捕邑寇殆尽。获曩寇，亦以所施者施之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11716.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11718.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

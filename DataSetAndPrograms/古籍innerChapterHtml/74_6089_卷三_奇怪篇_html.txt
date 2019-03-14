@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+论衡·卷三·奇怪篇_古诗文网
+</title>
+<meta content="儒者称圣人之生，不因人气，更禀精於天。禹母吞薏苡而生禹，故夏姓曰姒；卨母吞燕卵而生卨，故殷姓曰子。后稷母履大人迹而生后稷，故周姓曰姬。《诗》曰：“不坼不副”。是生后稷。说者又曰：“" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6089.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4755" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·奇怪篇</b></span>
+<a href="javascript:PlayBookv(6089)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6089" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4755)" id="leftbtn4755" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6089" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e5%85%85">王充</a></p>
+<div class="contson">
+<p>　　儒者称圣人之生，不因人气，更禀精於天。禹母吞薏苡而生禹，故夏姓曰姒；卨母吞燕卵而生卨，故殷姓曰子。后稷母履大人迹而生后稷，故周姓曰姬。《诗》曰：“不坼不副”。是生后稷。说者又曰：“禹、卨逆生，闿母背而出；后稷顺生，不坼不副。不感动母体，故曰“不坼不副”。逆生者子孙逆死，顺生者子孙顺亡。故桀、纣诛死，赧王夺邑”。言之有头足，故人信其说；明事以验证，故人然其文。谶书又言：“尧母庆都野出，赤龙感己，遂生尧”。《高祖本纪》言：刘媪尝息大泽之陂，梦与神遇。是时，雷电晦冥，太公往视，见蛟龙於上。已而有身，遂生高祖。其言神验，文又明著，世儒学者，莫谓不然。如实论之，虚妄言也。 </p>
+<p>　　彼《诗》言“不坼不副”，言其不感动母体，可也；言其母背而出，妄也。夫蝉之生复育也，闿背而出。天之生圣子，与复育同道乎？兔吮毫而怀子，及其子生，从口而出。案禹母吞薏苡，卨母咽燕卵，与兔吮毫同实也。禹、卨之母生，宜皆从口，不当闿背。夫如是，闿背之说，竟虚妄也。世间血刃死者多，未必其先祖初为人者生时逆也。秦失天下，阎乐斩胡亥，项羽诛子婴。秦之先祖伯翳，岂逆生乎？如是为顺逆之说，以验三家之祖，误矣。 </p>
+<p>　　且夫薏苡，草也；燕卵，鸟也；大人迹，土也，三者皆形，非气也，安能生人？说圣者，以为禀天精微之气，故其为有殊绝之知。今三家之生，以草、以鸟、以土，可谓精微乎？天地之性，唯人为贵，则物贱矣。今贵人之气，更禀贱物之精，安能精微乎？夫令鸠雀施气於雁鹄，终不成子者，何也？鸠雀之身小，雁鹄之形大也。今燕之身不过五寸，薏苡之茎不过数尺，二女吞其卵实，安能成七尺之形乎？烁一鼎之铜，以灌一钱之形，不能成一鼎，明矣。今谓大人天神，故其迹巨。巨迹之人，一鼎之烁铜也；姜原之身，一钱之形也。使大人施气於姜原，姜原之身小，安能尽得其精？不能尽得其精，则後稷不能成人。尧、高祖审龙之子，子性类父，龙能乘云，尧与高祖亦宜能焉。万物生於土，各似本种；不类土者，生不出於土，土徒养育之也。母之怀子，犹土之育物也。尧、高祖之母，受龙之施，犹土受物之播也。物生自类本种，夫二帝宜似龙也。且夫含血之类，相与为牝牡；牝牡之会，皆见同类之物。精感欲动，乃能授施。若夫牡马见雌牛，雄雀见牝鸡，不相与合者，异类故也。今龙与人异类，何能感於人而施气？或曰：夏之衰，二龙斗於庭，吐漦於地。龙亡漦在，椟而藏之。至周幽王发出龙漦，化为玄鼋，入於後宫，与处女交，遂生褒姒。玄鼋与人异类，何以感於处女而施气乎？夫玄鼋所交非正，故褒姒为祸，周国以亡。以非类妄交，则有非道妄乱之子。今尧、高祖之母，不以道接会，何故二帝贤圣，与褒姒异乎？或曰：“赵简子病，五日不知人。觉言，我之帝所，有熊来，帝命我射之，中熊，死；有罴来，我又射之，中罴，罴死。後问当道之鬼，鬼曰：“熊罴，晋二卿之先祖也。”熊罴物也，与人异类，何以施类於人，而为二卿祖？夫简子所射熊罴，二卿祖当亡，简子当昌之祆也。简子见之，若寝梦矣。空虚之象，不必有实。假令有之，或时熊罴先化为人。乃生二卿。鲁公牛哀病化为虎。人化为兽，亦如兽为人。玄鼋入後宫，殆先化为人。天地之间，异类之物，相与交接，未之有也。 </p>
+<p>　　天人同道，好恶均心。人不好异类，则天亦不与通。人虽生於天，犹虮虱生於人也。人不好虮虱，天无故欲生於人。何则？异类殊性，情欲不相得也。天地，夫妇也，天施气於地以生物。人转相生，精微为圣，皆因父气，不更禀取。如更禀者为圣，、後稷不圣。如圣人皆当更禀，十二圣不皆然也。黄帝、帝喾、帝颛顼、帝舜之母，何所受气？文王、武王、周公、孔子之母，何所感吞？ </p>
+<p>　　此或时见三家之姓，曰姒氏、子氏、姬氏，则因依放，空生怪说，犹见鼎湖之地，而著黄帝升天之说矣。失道之意，还反其字。苍颉作书，与事相连。姜原履大人迹。迹者基也，姓当为其下土，乃为女旁臣，非基迹之字，不合本事，疑非实也。以周姬况夏殷，亦知子之与姒，非燕子、薏苡也。或时禹、契、後稽之母适欲怀妊，遭吞薏苡、燕卵，履大人迹也。世好奇怪，古今同情。不见奇怪，谓德不异，故因以为姓。世间诚信，因以为然。圣人重疑，因不复定。世士浅论，因不复辨。儒生是古，因生其说。《被诗》言“不坼不副”者，言後稽之生，不感动母身也。儒生穿凿，因造禹、契逆生之说。感於龙，梦与神遇，犹此率也。尧、高祖之母，适欲怀妊，遭逢雷龙载云雨而行，人见其形，遂谓之然。梦与神遇，得圣子之象也。梦见鬼合之，非梦与神遇乎，安得其实！“野出感龙”，及“蛟龙居上”，或尧、高祖受富贵之命。龙为吉物，遭加其上，吉祥之瑞，受命之证也。光武皇帝产於济阳宫，凤皇集於地，嘉禾生於屋。圣人之生，齐鸟吉物之为瑞应。必以奇吉之物见而子生，谓之物之子，是则光武皇帝嘉禾之精，凤皇之气欤？案《帝系》之篇及《三代世表》，禹，鲧之子也；卨、稷皆帝喾之子，其母皆帝喾之妃也，及尧，亦喾之子。帝王之妃，何为适草野？古时虽质，礼已设制，帝王之妃，何为浴於水？夫如是，言圣人更禀气於天，母有感吞者，虚妄之言也。实者，圣人自有种族，如文、武各有类。孔子吹律，自知殷後；项羽重瞳，自知虞舜苗裔也。五帝、三王皆祖黄帝。黄帝圣人，本禀贵命，故其子孙皆为帝王。帝王之生，必有怪奇，不见於物，则效於梦矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6088.aspx">上一章</a>
+<a href="/guwen/book_74.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6090.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4755" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

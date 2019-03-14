@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+洗冤集录·卷四·验他物及手足伤死_古诗文网
+</title>
+<meta content="律云∶见血为伤。非手足者其余皆为他物，即兵不用刃亦是。伤损条限∶手足十日，他物二十日。斗讼 ∶诸啮人者，根据他物法。元符敕申明《刑统》∶以靴鞋踢人伤，从官司验定∶坚硬，即从他物；若" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17035.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·验他物及手足伤死</b></span>
+<a href="javascript:PlayBookv(17035)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17035" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17035" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ae%8b%e6%85%88">宋慈</a></p>
+<div class="contson">
+<p>　　律云∶见血为伤。非手足者其余皆为他物，即兵不用刃亦是。</p>
+<p>　　伤损条限∶手足十日，他物二十日。</p>
+<p>　　斗讼 ∶诸啮人者，根据他物法。</p>
+<p>　　元符敕申明《刑统》∶以靴鞋踢人伤，从官司验定∶坚硬，即从他物；若不坚硬，即难作他物例。</p>
+<p>　　或额、肘、膝拶，头撞致死，并作他物伤痕。</p>
+<p>　　诸他物是∶铁鞭、尺、斧头、刀背、木杆、棒、马鞭、木柴、砖、石、瓦、粗布鞋、衲底鞋、皮鞋、草鞋之类。</p>
+<p>　　若被打死者，其尸口眼开，发髻乱，衣服不齐整，两手不拳，或有溺污内衣。</p>
+<p>　　若在辜限外死，须验伤处是与不是在头，及因破伤风灌注致命身死。</p>
+<p>　　应验他物及手足殴伤痕损，须在头面上、胸前、两乳、胁肋傍、脐腹间、大小便二处，方可作要害致命去处。手足折损亦可死，其痕周匝有血 ，方是生前打损。</p>
+<p>　　诸用他物及头额、拳手、脚足、坚硬之物撞打痕损颜色，其至重者紫黯微肿，次重者紫赤微肿，又其次紫赤色，又其次青色。其出限外痕损者，其色微青。</p>
+<p>　　凡他物打着，其痕即斜长或横长；如拳手打着，即方圆；如脚足踢，比如拳手（寸）〔手〕分寸较大。（凡伤痕大小定作（掌）〔拳〕足他物，当以上件物比定，方可言分寸)凡打着两日身死，分寸稍大，毒瓦斯蓄积向里，可约得一两日后身死；若是打着当下体死，则分寸深重，毒瓦斯紫黑，实时向里，可以当下体死。</p>
+<p>　　诸以身去就物谓之磕。虽着，无破处，其痕方圆；虽破，亦不至深。其被他物及手足伤，皮虽伤而血不出者，其伤痕处有紫赤晕。</p>
+<p>　　凡行凶人若用棒杖等行打，则多先在实处。其被伤人或经一、两时辰，或一、两日，或三、五日，以至七、八日，十余日身死。又有用坚硬他物行打，便致身死者，更看痕迹轻重。若是先驱 被伤人头髻，然后散拳踢打，则多在虚怯要害处，或一拳一脚便致命。若因脚踢着要害处致命，切要仔细验认行凶人脚上有无鞋履，防日后问难。</p>
+<p>　　凡他物伤，若在头脑者，其皮不破，即须骨肉损也。若在其它虚处，即临时看验。若是尸首左边损，即是凶身行右物致打顺故也；若是右边损，即损处在近后，若在右前，即非也；若在后，即又虑凶身自后行他物致打。贵在审之无失。</p>
+<p>　　看其痕大小，量见分寸。又看几处皆可致命，只指一重害处，定作虚怯要害致命身死。</p>
+<p>　　打伤处皮膜相离，以手按之即响，以热醋罨（罨）〔之〕则有痕。</p>
+<p>　　凡被打伤杀死人，须定最是要害处致命身死。若打折脚手，限内或限外死时，要详打伤分寸阔狭，后定是将养不较致命身死。面颜岁数，临时声说。</p>
+<p>　　凡验他物及拳、踢痕，细认斜长、方圆，皮有微损。未洗尸前，用水洒湿，先将葱白捣烂涂，后以醋糟，候一时，除，以水洗，痕即出。</p>
+<p>　　若将榉木皮罨成痕，假作他物痕，其痕内烂损黑色，四围青色，聚成一片而无虚肿，捺不坚硬。</p>
+<p>　　又有假作打死，将青竹篦火烧烙之，却只有焦黑痕，又浅而光平。更不坚硬</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17034.aspx">上一章</a>
+<a href="/guwen/book_195.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17036.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

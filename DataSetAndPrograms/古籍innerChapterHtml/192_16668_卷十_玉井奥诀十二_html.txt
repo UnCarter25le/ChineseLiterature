@@ -1,0 +1,137 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·玉井奥诀十二_古诗文网
+</title>
+<meta content="五行务要均停，偏倚难能济物，四柱全宜匹配，兴衰恐不成功。停均，其说有五：一、日主用神，冲和相济，彼此各有倚赖不至偏枯。二、损用神之气者，有物以制之，不致作梗。三、干支上下字样，相承" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16668.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·玉井奥诀十二</b></span>
+<a href="javascript:PlayBookv(16668)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16668" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16668" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　五行务要均停，偏倚难能济物，四柱全宜匹配，兴衰恐不成功。</p>
+<p>　　停均，其说有五：</p>
+<p>　　一、日主用神，冲和相济，彼此各有倚赖不至偏枯。</p>
+<p>　　二、损用神之气者，有物以制之，不致作梗。</p>
+<p>　　三、干支上下字样，相承得所，无过不及。</p>
+<p>　　四、死气或对活物，党寡不能胜党众。</p>
+<p>　　五、欲变欲化，有妒有破，欲静欲安，有犯有激者。</p>
+<p>　　匹配，其说有六：</p>
+<p>　　一、衰神有用，须运扶衰者方可。</p>
+<p>　　二、善恶离能均配，看运扶何者，以别吉凶。</p>
+<p>　　三、虽有用神，一兴一衰，偏枯不济。</p>
+<p>　　四、相安相济，所应所求，各有倚赖。</p>
+<p>　　五、旺欲成其物，一衰不可成全。</p>
+<p>　　六、干支各有所配贵气者，或有所乖劣者。</p>
+<p>　　平生福德，不知化物连绵，次位来神，要识暗伤拦截。</p>
+<p>　　支内有己乙辛丁之类，皆言七煞恶之，殊不知己土生乙金、乙金生辛水，辛水生了木，续续不绝，况明露乎，虚拱处或有甲丙壬庚，暗合完气者，大富贵格。</p>
+<p>　　天干未来前一位，地支未来前一位，皆为凶恶，不可不知，如乙见丙，合辛暗损，及有刃类，子见丑，丑见寅，寅见卯之类，有刃有煞，咸池比肩，恶气多端。</p>
+<p>　　十干顾真气相凌，七煞犯克神极切。</p>
+<p>　　如乙酉见戊戌，即成火伤乙金，又六害之墓火，发其旺金之气，余仿此。</p>
+<p>　　七煞犯克，如原用乙木行酉运，丑岁冲损，乙未金局，本坏其乙木用神，兼丑冲其虚未，将所藏之神，碎坏倒地也。举此一例，余局细详。</p>
+<p>　　此段止可言，七煞逢冲者不吉，不可论金局坏乙木用神。</p>
+<p>　　八字带煞刑胎，意外须识，四印何干乘气，类取其详。</p>
+<p>　　胎神所传消息，各有异类，今人但总约十个月之位，故无浅深，以致差池。一法十个月左右间，其所生日辰对者是，如丙午日在何月节内，或十一月，或九月，通而用之。若带刑，主早妨父母，空陷冲刑，四煞最恶。</p>
+<p>　　四印：古歌云：辰戌丑未为四印，戊己得之偏主信，甲乙若逢鄙且贪，丙丁或遇多贫病，庚辛格号母生儿，聚煞丑宫多短命，壬癸未详。</p>
+<p>　　五行分布方隅，死水生金而异用。</p>
+<p>　　谓火生寅败卯旺午，金生巳败午墓丑之类，如甲子人遇巳，即为生金，生金克甲，绝水生甲，临官火窃甲之类，遇卯即为死水生甲，旺木同党，败火耗甲，位位各有所司，看其余局，次第扶抑而论之，余干仿此推。</p>
+<p>　　一神闲停左右，伤官窃本以待时。</p>
+<p>　　闲停之神在左右者，即月时岁干，多是不取用，故一向差慢，而至停囚长智，养病丧身，或系伤官之神无气，不系为事，忽岁运助起此等之神，耗我之气，伤我之用，半真半假，其实则圉圉得势，小人逢宠有权，留此祸根，岂可忽哉。</p>
+<p>　　干神彼此相安，方为禄备，地支来往冲激，不奈马驰。</p>
+<p>　　如甲人禄在寅，见壬寅，则自家带截路空亡，为僧道有福。庚寅为破禄，半吉半凶。</p>
+<p>　　又如丁见戊为刃，难只言禄为贵，辛禄在酉，见癸酉为火水相犯，丁为酉空亡贵。丁木受气，辛水沐浴，主奸淫。</p>
+<p>　　禄上遁干，号为真禄，着落何方有用。其干见天乙贵人，其贵上之明干，复坐贵禄。如丁人禄在午，遁至年，得丙字，丙贵酉亥，而逢辛酉辛亥，则辛贵复见于午，入格极品，此李虚中为天禄互贵。</p>
+<p>　　一马不喜冲，冲则动，马上干神乘贵者吉，马上遁干有情者吉，如丁丑人逢辛亥，是要贵处有用，马上干神，自带凶煞空亡者恶，来克主体及用神者恶，或支神激烈刑冲转转，其马岂得安休耶。</p>
+<p>　　伤尽官星，方知用禄，冲破禄位，始得用官。</p>
+<p>　　柱内有伤官之神，官星明被克害，却有日禄者，用禄却稳当，不致两用，不归一也。</p>
+<p>　　禄位如被破坏，却只用官星为定体，盖贵用一端最妙，多则散了精神。</p>
+<p>　　禄位虽明，化气恐忌，驿马既见，日辰又重。</p>
+<p>　　官星建禄等件，既明无破，为吉为福必矣，若体用成化，却于其位有妒有夺，化来不得者，为物不成，则亦苗而不秀，空贵无官，或有福，而非财积福厚者，驿马本埋于太岁宫，要来乘用，若日宫又有马出重迭者，反为贱局。一说，日辰马并岁马虽重，马若有用，贵气相安者愈好，再见则不中矣。</p>
+<p>　　记取禄宾为用，细观马将为元。</p>
+<p>　　遁禄上之干，名为禄宾，如无年禄，须看遁至禄官，干神为用，主禄最切，却看日辰，用为何神也。</p>
+<p>　　马将亦如禄法，譬如丁巳岁丙日，马在亥，遁见辛，为丙日之妻，主道途方外所娶，却分贵禄财官，煞凶煞轻重言之。</p>
+<p>　　用象契合，要防妒争，贵气交通，切观分夺。</p>
+<p>　　用神本与日干作合，有情有气得侣，或其明暗中有比肩，一争一妒，遇而不遇，用神自家之神争妒者，一体断法，岁连同。凡贵气专用则可，两处三处分用，便是众人之物，不惟平生多起分争之讼，自家财产，亦为比肩所擘，被重我轻更甚。</p>
+<p>　　财官只倚日辰，亡劫须参太岁。</p>
+<p>　　日辰只取财官为用，最为亲切，兴衰旺绝，相生相克，却与岁家如何统摄，其行藏祸福极验，亡劫二神，一年至重之恶煞也。须准岁君推参，各有进退吉凶一十六般，所致行藏取舍之道，已录于前。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16667.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16669.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

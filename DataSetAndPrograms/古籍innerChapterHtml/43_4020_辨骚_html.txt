@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·辨骚_古诗文网
+</title>
+<meta content="自《风》、《雅》寝声，莫或抽绪，奇文郁起，其《离骚》哉！固已轩翥诗人之后，奋飞辞家之前，岂去圣之未远，而楚人之多才乎！昔汉武爱《骚》，而淮南作《传》，以为：“《国风》好色而不淫，《" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4020.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2614" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>辨骚</b></span>
+<a href="javascript:PlayBookv(4020)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4020" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2614)" id="leftbtn2614" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4020" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　自《风》、《雅》寝声，莫或抽绪，奇文郁起，其《离骚》哉！固已轩翥诗人之后，奋飞辞家之前，岂去圣之未远，而楚人之多才乎！昔汉武爱《骚》，而淮南作《传》，以为：“《国风》好色而不淫，《小雅》怨诽而不乱，若《离骚》者，可谓兼之。蝉蜕秽浊之中，浮游尘埃之外，皭然涅而不缁，虽与日月争光可也。”班固以为∶“露才扬己，忿怼沉江。羿浇二姚，与左氏不合；昆仑悬圃，非《经》义所载。然其文辞丽雅，为词赋之宗，虽非明哲，可谓妙才。”王逸以为∶“诗人提耳，屈原婉顺。《离骚》之文，依《经》立义。驷虬乘鹥，则时乘六龙；昆仑流沙，则《禹贡》敷土。名儒辞赋，莫不拟其仪表，所谓‘金相玉质，百世无匹’者也。”及汉宣嗟叹，以为“皆合经术”。扬雄讽味，亦言“体同诗雅”。四家举以方经，而孟坚谓不合传，褒贬任声，抑扬过实，可谓鉴而弗精，玩而未核者也。</p>
+<p>　　将核其论，必征言焉。故其陈尧舜之耿介，称禹汤之祗敬，典诰之体也；讥桀纣之猖披，伤羿浇之颠陨，规讽之旨也；虬龙以喻君子，云蜺以譬谗邪，比兴之义也；每一顾而掩涕，叹君门之九重，忠恕之辞也：观兹四事，同于《风》、《雅》者也。至于托云龙，说迂怪，丰隆求宓妃，鸩鸟媒娀女，诡异之辞也；康回倾地，夷羿彃日，木夫九首，土伯三目，谲怪之谈也；依彭咸之遗则，从子胥以自适，狷狭之志也；士女杂坐，乱而不分，指以为乐，娱酒不废，沉湎日夜，举以为欢，荒淫之意也：摘此四事，异乎经典者也。</p>
+<p>　　故论其典诰则如彼，语其夸诞则如此。固知《楚辞》者，体宪于三代，而风杂于战国，乃《雅》、《颂》之博徒，而词赋之英杰也。观其骨鲠所树，肌肤所附，虽取熔《经》旨，亦自铸伟辞。故《骚经》、《九章》，朗丽以哀志；《九歌》、《九辩》，绮靡以伤情；《远游》、《天问》，瑰诡而慧巧，《招魂》、《大招》，耀艳而采深华；《卜居》标放言之致，《渔父》寄独往之才。故能气往轹古，辞来切今，惊采绝艳，难与并能矣。</p>
+<p>　　自《九怀》以下，遽蹑其迹，而屈宋逸步，莫之能追。故其叙情怨，则郁伊而易感；述离居，则怆怏而难怀；论山水，则循声而得貌；言节侯，则披文而见时。是以枚贾追风以入丽，马扬沿波而得奇，其衣被词人，非一代也。故才高者菀其鸿裁，中巧者猎其艳辞，吟讽者衔其山川，童蒙者拾其香草。若能凭轼以倚《雅》、《颂》，悬辔以驭楚篇，酌奇而不失其贞，玩华而不坠其实，则顾盼可以驱辞力，欬唾可以穷文致，亦不复乞灵于长卿，假宠于子渊矣。</p>
+<p>　　赞曰∶</p>
+<p>　　不有屈原，岂见离骚。惊才风逸，壮志烟高。</p>
+<p>　　山川无极，情理实劳，金相玉式，艳溢锱毫。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4019.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4021.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2614" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷五·逮袁崇焕_古诗文网
+</title>
+<meta content="十二月辛亥，上召崇焕议饷，密敕满桂、黑云龙、祖大寿同入。崇焕进阙不数武，一内监趋出曰，万岁爷在平台速入。崇焕趋进，见桂等在上所。惊沮，上问杀毛文龙，致敌兵犯阙，及射满桂三事。崇焕不" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13535.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·逮袁崇焕</b></span>
+<a href="javascript:PlayBookv(13535)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13535" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13535" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　十二月辛亥，上召崇焕议饷，密敕满桂、黑云龙、祖大寿同入。崇焕进阙不数武，一内监趋出曰，万岁爷在平台速入。崇焕趋进，见桂等在上所。惊沮，上问杀毛文龙，致敌兵犯阙，及射满桂三事。崇焕不能对。上命桂解衣验示，着锦衣拿掷殿下，校尉十人，褫其朝服，枉押西长安门外锦衣大堂，发南镇抚司监候。</p>
+<p>　　上遣太监车天祥谕慰辽东将士，命满桂总理援兵，节制诸将，马世龙、祖大寿分理辽东兵。都人大喜。袁兵闻之，半走固安、良乡杀掠。桂招余众隶麾下。大清师闻报撤兵，李总戎部将擒一头目讯之，具述崇焕通敌根底。入奏，上命法司追崇焕书，明年四月诏磔西市。时百姓怨恨，争啖其肉，皮骨已尽，心肺之间，叫声不绝半日而止。所谓活剐者也。崇焕，广西梧州府藤县人，万历己未进士。</p>
+<p>　　江阴中书夏复苏，尝与予云：昔在都中，见磔崇焕时，百姓将银一钱，买肉一块，如手指大，啖之。食时必骂一声。须臾，崇焕肉悉卖尽。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13534.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13536.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

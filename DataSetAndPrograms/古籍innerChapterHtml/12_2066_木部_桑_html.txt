@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·木部·桑_古诗文网
+</title>
+<meta content="释名子名椹气味桑根白皮：甘寒、无毒。桑叶：苦、甘、寒、有小毒。桑枝：苦、平桑柴灰：辛、寒、有小毒。主治桑柴灰：目赤肿痛。用桑灰一两、黄连半两，共研为末。每用一钱，铴汤澄清后洗眼。青" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2066.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>木部·桑</b></span>
+<a href="javascript:PlayBookv(2066)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2066" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2066" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>子名椹</p>
+<p><strong>气味</strong><br/>桑根白皮：甘寒、无毒。<br/>桑叶：苦、甘、寒、有小毒。<br/>桑枝：苦、平<br/>桑柴灰：辛、寒、有小毒。</p>
+<p><strong>主治</strong><br/>桑柴灰：<br/>目赤肿痛。用桑灰一两、黄连半两，共研为末。每用一钱，铴汤澄清后洗眼。<br/>青盲。用桑灰煎汤洗眼，坚持有效。<br/>身、面水肿，坐卧不得。有桑枝烧灰淋汁煮赤小豆，每饥时即吃豆，不喝豆汤。<br/>白癜风。用桑柴灰二斗，蒸于甑内，取锅中热汤洗患处。几次即愈。<br/>头风白屑。用桑灰淋汁洗头。<br/>大麻风。用桑柴灰。热汤淋取汁，洗头同，再用大豆磨浆洗，用绿豆粉泡熟水洗。三日一洗头，一日一洗脸。不过十次见效。<br/>桑枝：<br/>水气脚气。用桑条二两炒香，加水一升煎至二合，每日空心饮服。<br/>风热臂痛。用桑枝一小升，切细，炒过，加水三程式，煎成二升，一日服尽（有人臂痛，诸药不效，服此数剂即愈）。<br/>紫白癜风。有用桑枝十斤、益母草三斤、加水五斗，煮成五斤，去渣，再熬成膏。每于卧时服半俣，温酒调下。以愈为度。<br/>桑叶：<br/>青盲。取青桑叶焙干研细，煎汁乘热洗目，坚持必效。有患此病二十年者，照此洗浴，双目复明。<br/>风眼多泪。取冬季不落的桑叶，每日煎汤温洗。或加硭硝亦可。<br/>眼红涩痛。用桑叶研末，卷入纸中烧烟熏鼻，有效。<br/>头发不长。用桑叶、麻叶煮淘米水洗头。七次后，发即速长。<br/>吐血不止。用晚桑叶焙干，研为末，凉茶送服三钱，血止后，宜服补肝、肺的药物。<br/>肺毒风疮。用好桑叶洗净。蒸熟一宿，晒干，研为末，水调服二钱。<br/>痈口不收。用经霜黄桑叶，研末敷涂。<br/>汤火伤疮。用经霜桑叶烧存性，研为末，油调敷涂。数日可愈。<br/>手足麻木。不积压痛痒。用霜降后桑叶煎汤频洗。<br/>桑椹：<br/>水肿胀满。用桑心皮切细，加水二斗，煮汁一斗，放入桑甚，再煮取五程式，和糯米饭五程式酿酒饮服。此方名“桑椹酒”。<br/>瘰疬结核。用桑椹（黑熟者）二斗，取汁，熬成膏。每服一匙。白汤调下。一日服三次，此方名“文武膏”。<br/>桑根白皮：<br/>咳嗽吐血。用新鲜桑根白皮一斤，浸淘米水中三宿，刮去黄皮，锉细，加糯米四两，焙干为末。每服一钱，米汤送下。<br/>消渴尿多。用入地三尺的桑根，剥取白皮，炙至黄黑，锉碎，以水煮浓汁，随意饮服，亦可加一点米同煮，但忌用盐。<br/>产后下血。用桑白皮，炙过，煮水饮服。<br/>月经后带红不断。锯桑根取屑一撮，酒冲服。一天服三次。<br/>跌伤。用桑根白皮五斤，研为末，取一升，，煎成膏，敷伤处，痛即止。亦无宿血。<br/>刀伤成疮，用新桑白皮烧灰，与马粪调匀涂疮上，换药数次即愈。<br/>发枯不润。用桑根白皮、柏叶各一斤，煎汁洗头，有效。<br/>小儿流涎（脾热，胸膈有痰）。用新桑根白皮捣取自然汁服下。<br/>小儿丹毒。用桑根白皮煮汁洗浴，或研为末，调羊膏涂搽。<br/>石痈（坚硬，不作脓）。用桑白皮阴干为末，溶胶和酒调涂，以痈软为度。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2065.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2067.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

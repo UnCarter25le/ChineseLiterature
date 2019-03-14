@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷四·酒狂_古诗文网
+</title>
+<meta content="缪永定，江西拔贡生，素酗于酒，戚党多畏避之。偶适族叔家，与客滑稽谐谑，遂共酣饮。缪醉，使酒骂座，忤客；客怒，一座大哗。叔为排解，缪为左袒客，益迁怒叔。叔无计，奔告其家。家人来，扶挟" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11566.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·酒狂</b></span>
+<a href="javascript:PlayBookv(11566)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11566" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11566" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　缪永定，江西拔贡生，素酗于酒，戚党多畏避之。偶适族叔家，与客滑稽谐谑，遂共酣饮。缪醉，使酒骂座，忤客；客怒，一座大哗。叔为排解，缪为左袒客，益迁怒叔。叔无计，奔告其家。家人来，扶挟以归。才置床上，四肢尽厥，抚之，奄然气绝。</p>
+<p>　　缪见有皂帽人絷已去。移时至一府署，缥碧为瓦，世间无其壮丽。至墀下，似欲伺见官宰，自思无罪，当是客讼斗殴。回顾皂帽人，怒目如牛，又不敢问。忽堂上一吏宣言，使讼狱者翼日早候，于是堂下人纷纷散去。缪亦随皂帽人出，更无归着，缩首立肆檐下。皂帽人怒曰：“颠酒无赖子！日将暮，各去寻眠食，尔欲何往？”缪战栗曰：“我且不知何事，并未告家人，故毫无资斧，庸将焉归？”皂帽人曰：“颠酒贼！若酤自啖，便有用度！再支吾，老拳碎颠骨子！”缪垂首不敢声。忽一人自户内出，见缪，诧异曰：“尔何来？”缪视之，则其母舅。舅贾氏，死已数载。缪见之，始悟已死，心益悲惧，向舅涕零曰：“阿舅救我！”贾顾皂帽人曰：“东灵非他，屈临寒舍。”二人乃入。贾重揖皂帽人，且嘱青眼。俄顷出酒食，团坐相饮。贾问：“舍甥何事，遂烦勾致？”皂帽人曰：“大王驾诣浮罗君，遇令甥醉詈，使我捉得来。”贾问：“见王未？”曰：“浮罗君会花子案，驾未归。”又问：“阿甥将得何罪？”答曰：“未可知也。然大王颇怒此等人。”缪在侧，闻二人言，觳觫汗下，杯箸不能举。无何，皂帽人起，谢曰：“叨盛酌，已经醉矣。即以令甥相付托，驾归，再容登访。”乃去。贾谓缪曰：“甥别无兄弟，父母爱如掌上珠，常不忍一诃。十六七岁，每三杯后，喃喃寻人疵，小不合，辄挝门裸骂，犹谓齿稚。不意别十余年，甥了不长进。今且奈何！”缪伏地哭，懊悔无及。贾曳之曰：“舅在此业酤，颇有小声望，必合极力。适饮者乃东灵使者，舅常饮之酒，与舅颇相善。大王日万几，亦未必便能记忆。我委曲与言，浼以私意释甥去，或可允从。”又转念曰：“此事担负颇重，非十万不能了也。”缪谢诺，即就舅氏宿。次日，皂帽人早来觇望。贾请间。语移时，来谓缪曰：“谐矣。少顷，即复来。我先罄所有用压契，余待甥归从容凑致之。”缪喜曰：“共得几何？”曰：“十万。”曰：“甥何处得如许？”贾曰：“只金币钱纸百提，足矣。”缪喜曰：“此易办耳。”待将停午，皂帽人不至。</p>
+<p>　　缪欲出市上少游瞩，贾嘱勿远荡，诺而出。见街里贸贩，一如人间。至一所，棘垣峻绝，似是囹圄。对门一酒肆，往来颇夥。肆外一带长溪，黑潦涌动，深不见底。方伫足窥探，闻肆内一人呼曰：“缪君何来？”缪急视之，则邻村翁生，乃十年前文字交。趋出握手，欢若平生。即就肆内小酌，各道契阔。缪庆幸中，又逢故知，倾怀尽釂。大醉，顿忘其死，旧态复作，渐絮絮瑕疵翁。翁曰：“数年不见，君犹尔耶？”缪素厌人道其酒德，闻言益愤。击桌大骂。翁睨之，拂袖竟出。缪又追至溪头，捋翁帽，翁怒曰：“此真妄人！”乃推缪颠堕溪中。溪水殊不甚深，而水中利刃如麻，刺胁穿胫，坚难摇动，痛彻骨脑。黑水杂溲秽，随吸入喉，更不可耐。岸上人观笑如堵，绝不一为援手。</p>
+<p>　　时方危急，贾忽至，望见大惊，提携以归，曰：“尔不可为也！死犹弗悟，不足复为人！请仍从东灵受斧鑕。”缪大惧，泣拜知罪。贾乃曰：“适东灵至，候汝立券，汝乃饮荡不归，渠迫不能待。我已立券，付千缗令去，余以旬尽为期。子归，宜急措置，夜于村外旷莽中，呼舅名焚之，此案可结也。”缪悉如命，乃促之行，送之郊外，又嘱曰：“必勿食言，累我无益。”乃示途令归。</p>
+<p>　　时缪已僵卧三日，家人谓其醉死，而鼻息隐隐如悬丝。是日苏，大呕，呕出黑沈数斗，臭不可闻。吐已，汗湿裀褥，气味熏腾，与吐物无异，身始凉爽。告家人以异。旋觉刺处痛肿，隔夜成疮，犹幸不大溃腐。十日渐能杖行。家人共乞偿冥负，缪计所费，非数金不能办，颇生吝惜，曰：“曩或醉乡之幻境耳。纵其不然，伊以私释我，何敢复使冥王知？”家人劝之，不听。然心惕惕然，不敢复纵饮。里党咸喜其进德，稍稍与共酌。年余，冥报渐忘，志渐肆，故状渐萌。一日饮于子姓之家，又骂座，主人摈斥出，阖户径去。缪噪逾时，其子方知，扶持归家。入室，面壁长跪，自投无数，曰：“便偿尔负！便偿尔负！”言已仆地，视之气已绝矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11565.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11567.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

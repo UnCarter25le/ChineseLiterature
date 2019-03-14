@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·方盛衰论_古诗文网
+</title>
+<meta content="雷公请问：气之多少，何者为逆，何者为从。黄帝答曰：阳从左，阴从右，老从上，少从下。是以春夏归阳为生，归秋冬为死，反之则归秋冬为生，是以气多少，逆皆为厥。问曰：有余者厥耶？答曰：一上" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1043.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left864" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·方盛衰论</b></span>
+<a href="javascript:PlayBookv(1043)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1043" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(864)" id="leftbtn864" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1043" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　雷公请问：气之多少，何者为逆，何者为从。</p>
+<p>　　黄帝答曰：阳从左，阴从右，老从上，少从下。是以春夏归阳为生，归秋冬为死，反之则归秋冬为生，是以气多少，逆皆为厥。</p>
+<p>　　问曰：有余者厥耶？</p>
+<p>　　答曰：一上不下，寒厥到膝，少者秋冬死，老者秋冬生。气上不下，头痛巅疾，求阳不得，求阴不审，五部隔无徵，若居旷野，若伏空室，绵绵乎属不满日。 是以少气之厥，令人妄梦，其极至迷。三阳绝，三阴微，是为少气。</p>
+<p>　　是以肺气虚，则使人梦见白物，见人斩血藉藉，得其时，则梦见兵战。肾气虚，则使人梦见舟舩溺人，得其时，则梦伏水中，若有畏恐。肝气虚，则梦见菌香生草，得其时，则梦伏树下不敢起。心气虚，则梦救火阳物，得其时，则梦燔灼。脾气虚，则梦饮食不足，得其时，则梦筑垣盖屋。此皆五藏气虚，阳气有余，阴气不足。合之五诊，调之阴阳，以在经脉。</p>
+<p>　　诊有十度度人：脉度，藏度，肉度，筋度，俞度。阴阳气尽，人病自具。脉动无常，散阴颇阳，脉脱不具，诊无常行，诊必上下，度民君卿。受师不卒，使术不明，不察逆从，是为妄行，持雌失雄，弃阴附阳，不知并合，诊故不明，传之后世，反论自章。</p>
+<p>　　至阴虚，天气绝；至阳盛，地气不足。阴阳并交，至人之所行。阴阳交并者，阳气先至，阴气后至。是以圣人持诊之道，先后阴阳而持之，《奇恒之势》乃六十首，诊合微之事，追阴阳之变，章五中之情，其中之论，取虚实之要，定五度之事，知此乃足以诊。是以切阴不得阳，诊消亡，得阳不得阴，守学不湛，知左不知右，知右不知左，知上不知下，知先不知后，故治不久。知醜知善，知病知不病，知高知下，知坐知起，知行知止，用之有纪，诊道乃具，万世不殆。起所有余，知所不足。度事上下，脉事因格。是以形弱气虚，死；形气有余，脉气不足，死。脉气有余，形气不足，生。 是以诊有大方，坐起有常，出入有行，以转神明，必清必净，上观下观，司八正邪，别五中部，按脉动静，循尺滑濇，寒温之意，视其大小，合之病能，逆从以得，复知病名，诊可十全，不失人情。故诊之，或视息视意，故不失条理，道甚明察，故能长久。不知此道，失经绝理，亡言妄期，此谓失道。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1042.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1044.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right864" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

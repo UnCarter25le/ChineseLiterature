@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·韩一·韩公仲谓向寿_古诗文网
+</title>
+<meta content="韩公仲谓向寿曰：“禽困覆车。公破韩，辱公仲，公仲收国复事秦，自以为必可以封。今公与楚解，中封小令尹以桂阳。秦、楚合，复攻韩，韩必亡。公仲躬率其私徒以斗于秦，愿公之熟计之也。”向寿曰" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4734.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4111" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>韩一·韩公仲谓向寿</b></span>
+<a href="javascript:PlayBookv(4734)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4734" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4111)" id="leftbtn4111" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4734" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　韩公仲谓向寿曰：“禽困覆车。公破韩，辱公仲，公仲收国复事秦，自以为必可以封。今公与楚解，中封小令尹以桂阳。秦、楚合，复攻韩，韩必亡。公仲躬率其私徒以斗于秦，愿公之熟计之也。”向寿曰：“吾合秦、楚，非以当韩也，子为我谒之。”</p>
+<p>　　公仲曰：“秦、韩之交可合也。”对曰：“愿有复于公。谚曰：‘贵其所以贵者贵。’今王之爱习公也，不如公孙郝；其知能公也，不如甘茂。今二人者，皆不得亲于事矣，而公独与王主断于国者，彼有以失之也。公孙郝党于韩，而甘茂党于魏，故王不信也。今秦、楚争强，而公党于楚，是与公孙郝、甘茂同道也。公何以异之?人皆言楚之多变也，而公必之，是自为贵也。公不如与王谋其变也，善韩以备之，若此，则无祸也。韩氏先以国从公孙郝，而后委国于甘茂，是韩，公之仇也。今公言善韩以备楚，是外举不辟仇也。”</p>
+<p>　　向寿曰：“吾甚欲韩合。”对曰：“甘茂许公仲以武遂，反宜阳之民，今公徒令收之，甚难。”向子曰：“然则奈何?武遂终不可得已。”对曰：“公何不以秦为韩求颖川于楚，此乃韩之寄地也。公求而得之，是令行于楚而以其地德韩也。公求而弗得，是韩、楚之怨不解，而交走秦也。秦、楚争强，而公过楚以攻韩，此利于秦。”向子曰：“奈何?”对曰：“此善事也。甘茂欲以魏取齐，公孙郝欲以韩取齐，今公取宜阳以为功，收楚、韩以安之，而诛齐、魏之罪，是以公孙郝、甘茂之无事也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4733.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4735.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4111" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·术智部·司马懿 杨行密 孙坚 仇钺_古诗文网
+</title>
+<meta content="【原文】曹爽擅政，懿谋诛之，惧事泄，乃诈称疾笃。会河南尹李胜将莅荆州，来候懿，懿使两婢侍持衣，指口言渴，婢进粥，粥皆流出沾胸，胜曰：“外间谓公旧风发动耳，何意乃尔？”懿微举声言：“" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6380.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5343" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>术智部·司马懿 杨行密 孙坚 仇钺</b></span>
+<a href="javascript:PlayBookv(6380)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6380" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5343)" id="leftbtn5343" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6380" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　曹爽擅政，懿谋诛之，惧事泄，乃诈称疾笃。会河南尹李胜将莅荆州，来候懿，懿使两婢侍持衣，指口言渴，婢进粥，粥皆流出沾胸，胜曰：“外间谓公旧风发动耳，何意乃尔？”懿微举声言：“君今屈并州，并州近胡，好为之备，吾死在旦夕，恐不复相见，以子师、昭为托。”胜曰：“当忝本州，非并州。”懿故乱其词曰：“君方到并州。”胜复曰：“忝荆州。”懿曰：“年老意荒，不解君语。”胜退告爽曰：“司马公尸居余气，形神已离，不足复虑。”于是爽遂不设备。寻诛爽。</p>
+<p>　　安仁义、朱延寿，皆吴王杨行密将也，延寿又行密朱夫人之弟。淮徐已定，二人颇骄恣，且谋叛，行密思除之。乃阳为目疾，每接延寿使者，必错乱其所见以示之，行则故触柱而仆，朱夫人挟之，良久乃苏，泣曰：“吾业成而丧明，此天废我也，诸儿皆不足任事，得延寿付之，吾无恨矣。”朱夫人喜，急召延寿。延寿至，行密迎之寝门，刺杀之，即出朱夫人，而执斩仁义。</p>
+<p>　　孙坚举兵诛董卓，至南阳，众数万人，檄南阳太守张咨，请军粮，咨曰：“坚邻二千石耳，与我等，不应调发。”竟不与。坚欲见之，又不肯见。坚曰：“吾方举兵而遂见阻，何以威后？”遂诈称急疾，举兵震惶，迎呼巫医，祷祠山川，而遣所亲人说咨，言欲以兵付咨。咨心利其兵，即将步骑五百人，持牛酒诣坚营。坚卧见，亡何起，设酒饮咨，酒酣，长沙主簿入白：“前移南阳，道路不治，军资不具，太守咨稽停义兵，使贼不时讨，请收按军法。”咨大惧，欲去。兵阵四围，不得出，遂缚于军门斩之。一郡震栗，无求不获，所过郡县皆陈糗粮以待坚军。君子谓坚能用法矣。法者，国之植也，是以能开东国。</p>
+<p>　　正德五年，安化王寘鐇反，游击仇钺陷贼中，京师讹言钺从贼，兴武营守备保勋为之外应。李文正曰：“钺必不从贼，勋以贼姻家，遂疑不用，则诸与贼通者皆惧，不复归正矣。”乃举勋为参将，钺为副戎，责以讨贼。勋感激自奋，钺称病卧，阴约游兵壮士，候勋兵至河上，乃从中发为内应。俄得勋信，即嗾人谓贼党何锦：“宜急出守渡口，防决河灌城。遏东岸兵，勿使渡河。”锦果出，而留贼周昂守城。钺又称病亟，昂来问病，钺犹坚卧呻吟，言旦夕且死。苍头卒起，捶杀昂，斩首。钺起披甲仗剑，跨马出门一呼，诸游兵将士皆集，遂夺城门，擒寘鐇。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6379.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6381.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5343" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

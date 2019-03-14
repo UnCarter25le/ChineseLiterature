@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷五·傅职_古诗文网
+</title>
+<meta content="或称春秋，而为之耸善而抑恶，以革劝其心。教之礼，使知上下之则；或为之称诗而广道显德，以驯明其志；教之乐，以疏其秽而填其浮气；教之语，使明于上世，而知先王之务明德于民也；教之故志，使" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18617.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·傅职</b></span>
+<a href="javascript:PlayBookv(18617)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18617" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18617" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　或称春秋，而为之耸善而抑恶，以革劝其心。教之礼，使知上下之则；或为之称诗而广道显德，以驯明其志；教之乐，以疏其秽而填其浮气；教之语，使明于上世，而知先王之务明德于民也；教之故志，使知废兴者而戒惧焉；教之任术，使能纪万官之职任，而知治化之仪；教之训典，使知族类疏戚，而隐比驯焉。此所谓学太子以圣人之德者也。</p>
+<p>　　或明惠施以道之忠，明长复以道之信，明度量以道之义，明等级以道之礼，明恭俭以道之孝 ，明敬戒以道之事，明慈爱以道之仁，明僩雅以道之文，明除害以道之武，明精直以道之罚，明正德以道之赏，明斋肃以道之教，此所谓教太子也。</p>
+<p>　　左右前后，莫非贤人以辅相之，摠威仪以先后之，摄体貌以左右之，制义行以宣翼之，章恭敬以监行之，勤劳以劝之，孝顺以内之，敦笃以固之，忠信以发之，德言以扬之，此所谓顺者也，此傅人之道也，非贤者不能行。</p>
+<p>　　天子不谕于先圣人之德，不知君国畜民之道，不见礼义之正，不察应事之理，不博古之典传，不僩于威仪之数，诗书礼乐无经，天子学业之不法，凡此其属太师之任也，古者齐太公职之。</p>
+<p>　　天子不恩于亲戚，不惠于庶民，无礼于大臣，不忠于刑狱，无经于百官 ，不哀于丧，不敬于祭，不诫于戎事，不信于诸侯，不诚于赏罚，不厚于德，不强于行，赐予侈于左右近臣，?授于疏远卑贱，不能惩忿忘欲，大行大礼大义大道，不从太师之教，凡此其属太傅之任也，古者鲁周公职之。</p>
+<p>　　天子处位不端，受业不敬，教诲讽诵诗书礼乐之不经不法不古，言语不序，音声不中律，将学趋让进退即席不以礼，登降揖让无容，视瞻俯仰周旋无节，妄咳唾数顾趋行，色不比顺，隐琴肆瑟，凡此其属太保之任也，古者燕召公职之。</p>
+<p>　　天子燕辟废其学，左右之习诡其师。荅远方诸侯，遇贵大人，不知大雅之辞；荅左右近臣，不知已诺之适，简问小诵之不博不习，凡此其属少师之任也，古者史佚职之。</p>
+<p>　　天子居处出入不以礼，衣服冠带不以制，御器在侧不以度，杂彩从美不以章，忿怒说喜不以义 ，赋与?让不以节，小行小礼小义小道，不从少师之教：凡此其属少傅之任也。</p>
+<p>　　天子居处燕私安所易，乐而湛，夜漏屏人而数，饮酒而醉，食肉而饱，饱而强食，饥而惏，而暍，寒而懦，寝而莫宥，坐而莫侍，行而莫先莫后。帝自为开户，自取玩好，自执器皿，亟顾还面，而器御之不举不臧，折毁丧伤，凡此其属少保之任也。</p>
+<p>　　干戚戈羽之舞，管钥琴瑟之会，号呼歌谣，声音不中律，燕乐雅讼逆乐序，凡此其属，诏工之任也。</p>
+<p>　　不知日月之不时节，不知先王之讳与国之大忌，不知风雨雷电之眚，凡此其属太史之任也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18616.aspx">上一章</a>
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18618.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

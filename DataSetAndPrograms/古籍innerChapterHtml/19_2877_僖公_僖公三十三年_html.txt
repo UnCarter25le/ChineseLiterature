@@ -1,0 +1,111 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·僖公·僖公三十三年_古诗文网
+</title>
+<meta content="【经】三十有三年春王二月，秦人入滑。齐侯使国归父来聘。夏四月辛巳，晋人及姜戎败秦师于殽。癸巳，葬晋文公。狄侵齐。公伐邾，取訾娄。秋，公子遂帅师伐邾。晋人败狄于箕。冬十月，公如齐。十" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2877.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1398" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>僖公·僖公三十三年</b></span>
+<a href="javascript:PlayBookv(2877)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2877" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1398)" id="leftbtn1398" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2877" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】三十有三年春王二月，秦人入滑。齐侯使国归父来聘。夏四月辛巳，晋人及姜戎败秦师于殽。癸巳，葬晋文公。狄侵齐。公伐邾，取訾娄。秋，公子遂帅师伐邾。晋人败狄于箕。冬十月，公如齐。十有二月，公至自齐。乙巳，公薨于小寝。陨霜不杀草。李梅实。晋人、陈人、郑人伐许。 </p>
+<p>　　【传】三十三年春，秦师过周北门，左右免胄而下。超乘者三百乘。王孙满尚幼，观之，言于王曰：「秦师轻而无礼，必败。轻则寡谋，无礼则脱。入险而脱。又不能谋，能无败乎？」及滑，郑商人弦高将市于周，遇之。以乘韦先，牛十二犒师，曰：「寡君闻吾子将步师出于敝邑，敢犒从者，不腆敝邑，为从者之淹，居则具一日之积，行则备一夕之卫。」且使遽告于郑。 </p>
+<p>　　郑穆公使视客馆，则束载、厉兵、秣马矣。使皇武子辞焉，曰：「吾子淹久于敝邑，唯是脯资饩牵竭矣。为吾子之将行也，郑之有原圃，犹秦之有具囿也。吾子取其麋鹿以闲敝邑，若何？」杞子奔齐，逢孙、扬孙奔宋。孟明曰：「郑有备矣，不可冀也。攻之不克，围之不继，吾其还也。」灭滑而还。 </p>
+<p>　　齐国庄子来聘，自郊劳至于赠贿，礼成而加之以敏。臧文仲言于公曰：「国子为政，齐犹有礼，君其朝焉。臣闻之，服于有礼，社稷之卫也。」 </p>
+<p>　　晋原轸曰：「秦违蹇叔，而以贪勤民，天奉我也。奉不可失，敌不可纵。纵敌患生，违天不祥。必伐秦师。」栾枝曰：「未报秦施而伐其师，其为死君乎？」先轸曰：「秦不哀吾丧而伐吾同姓，秦则无礼，何施之为？吾闻之，一日纵敌，数世之患也。谋及子孙，可谓死君乎？」遂发命，遽兴姜戎。子墨衰絰，梁弘御戎，莱驹为右。 </p>
+<p>　　夏四月辛巳，败秦师于殽，获百里孟明视、西乞术、白乙丙以归，遂墨以葬文公。晋于是始墨。 </p>
+<p>　　文嬴请三帅，曰：「彼实构吾二君，寡君若得而食之，不厌，君何辱讨焉！使归就戮于秦，以逞寡君之志，若何？」公许之，先轸朝。问秦囚。公曰：「夫人请之，吾舍之矣。」先轸怒曰：「武夫力而拘诸原，妇人暂而免诸国。堕军实而长寇仇，亡无日矣。」不顾而唾。公使阳处父追之，及诸河，则在舟中矣。释左骖，以公命赠孟明。孟明稽首曰：「君之惠，不以累臣衅鼓，使归就戮于秦，寡君之以为戮，死且不朽。若从君惠而免之，三年将拜君赐。」 </p>
+<p>　　秦伯素服郊次，乡师而哭曰：「孤违蹇叔以辱二三子，孤之罪也。不替孟明，孤之过也。大夫何罪？且吾不以一眚掩大德。」 </p>
+<p>　　狄侵齐，因晋丧也。 </p>
+<p>　　公伐邾，取訾娄，以报升陉之役。邾人不设备。秋，襄仲复伐邾。</p>
+<p>　　狄伐晋，及箕。八月戊子，晋侯败狄于箕。郤缺获白狄子。先轸曰：「匹夫逞志于君而无讨，敢不自讨乎？」免胄入狄师，死焉。狄人归其元，面如生。 </p>
+<p>　　初，臼季使过冀，见冀缺耨，其妻盍之。敬，相待如宾。与之归，言诸文公曰：「敬，德之聚也。能敬必有德，德以治民，君请用之。臣闻之，出门如宾，承事如祭，仁之则也。」公曰：「其父有罪，可乎？」对曰：「舜之罪也殛鲧，其举也兴禹。管敬仲，桓之贼也，实相以济。《康诰》曰：『父不慈，子不祗，兄不友，弟不共，不相及也。』《诗》曰：『采葑采菲，无以下体。』君取节焉可也。」文公以为下军大夫。反自箕，襄公以三命命先且居将中军，以再命命先茅之县赏胥臣曰：「举郤缺，子之功也。」以一命命郤缺为卿，复与之冀，亦未有军行。 </p>
+<p>　　冬，公如齐，朝，且吊有狄师也。反，薨于小寝，即安也。 </p>
+<p>　　晋、陈、郑伐许，讨其贰于楚也。</p>
+<p>　　楚令尹子上侵陈、蔡。陈、蔡成，遂伐郑，将纳公子瑕，门于桔柣之门。瑕覆于周氏之汪，外仆髡屯禽之以献。文夫人敛而葬之郐城之下。 </p>
+<p>　　晋阳处父侵蔡，楚子上救之，与晋师夹泜而军。阳子患之，使谓子上曰：「吾闻之，文不犯顺，武不违敌。子若欲战，则吾退舍，子济而陈，迟速唯命，不然纾我。老师费财，亦无益也。」乃驾以待。子上欲涉，大孙伯曰：「不可。晋人无信，半涉而薄我，悔败何及，不如纾之。」乃退舍。阳子宣言曰：「楚师遁矣。」遂归。楚师亦归。大子商臣谮子上曰：「受晋赂而辟之，楚之耻也，罪莫大焉。」王杀子上。</p>
+<p>　　葬僖公，缓作主，非礼也。凡君薨，卒哭而祔，祔而作主，特祀于主，烝尝禘于庙。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2876.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2878.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1398" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

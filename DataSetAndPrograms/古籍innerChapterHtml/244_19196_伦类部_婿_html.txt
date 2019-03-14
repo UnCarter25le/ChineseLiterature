@@ -1,0 +1,124 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·伦类部·婿_古诗文网
+</title>
+<meta content="红丝唐郭元振，美丰姿。宰相张嘉贞欲纳为婿，曰：“吾五女，各持一丝于幔后。子牵之，得者为妇。”元振牵一红丝，得第三女。厩中骐骥《南史》：杜广初为刘景厩卒，及与景语，景大惊曰：“久负贤" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19196.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>伦类部·婿</b></span>
+<a href="javascript:PlayBookv(19196)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19196" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19196" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>红丝</strong></p>
+<p>　　唐郭元振，美丰姿。宰相张嘉贞欲纳为婿，曰：“吾五女，各持一丝于幔后。子牵之，得者为妇。”元振牵一红丝，得第三女。</p>
+<p>　　<strong>厩中骐骥</strong></p>
+<p>　　《南史》：杜广初为刘景厩卒，及与景语，景大惊曰：“久负贤者！”告其妻曰：“吾为女求婿二十年，不意厩中有骐骥。”遂以女妻之。</p>
+<p>　　<strong>屏间孔雀</strong></p>
+<p>　　唐高祖皇后窦氏父毅曰：“此女有奇相，不可轻许人。”因画二孔雀于屏，求婿者令射二矢，阴约中目。高祖最后至，各中一目，遂归于帝。</p>
+<p>　　<strong>玉镜台</strong></p>
+<p>　　晋温峤姑有女，属峤觅婿。峤自有婚意，曰：“但得如峤何如？”姑曰：“何敢希汝比也？”复一日，峤云：“已得婿矣。门第不减峤。”因下玉镜台一枚，姑喜。婚毕，姑女披纱扇，抚撑笑曰：“我固疑是老奴，果如所卜！”</p>
+<p>　　<strong>再娶小姨</strong></p>
+<p>　　欧阳公与王拱辰同为萧简肃公婿，欧公先娶其长，拱辰娶其次。后欧公再娶其幼女，故欧公有“旧女婿为新女婿，大姨夫作小姨夫”之戏。</p>
+<p>　　<strong>东床坦腹</strong></p>
+<p>　　郗鉴使门生求婿婚于王导，导东厢下遍观子弟门生，归谓郗曰：“王氏诸子弟，咸自矜持。唯一人，在东床坦腹卧，食胡饼，独若不闻。”鉴曰：“此正佳！”访问，乃羲之，遂妻以女。</p>
+<p>　　<strong>快婿</strong></p>
+<p>　　后魏刘延明，十四就博士郭瑀学。弟子五百余人，瑀有女选婿，意在延明。设一座，曰：“吾有女，欲觅一快婿，谁坐此者？”延明奋衣坐，曰：“延明其人也。” 瑀遂妻之。</p>
+<p>　　<strong>乘龙</strong></p>
+<p>　　魏黄尚与李元礼俱为司徒，俱娶太尉桓叔元女。时人谓桓叔元女俱乘龙，言得婿如龙也。</p>
+<p>　　<strong>岳丈</strong></p>
+<p>　　青城山为五岳之长，名丈人山，故称妇翁曰岳丈。又云泰山有丈人峰，故称泰山。</p>
+<p>　　<strong>岳公泰水</strong></p>
+<p>　　欧阳永叔常云：今人呼妻父为岳公，以泰山有丈人峰。呼妻母为泰水，不知出何书也。</p>
+<p>　　<strong>冰清玉润</strong></p>
+<p>　　晋卫玠，妻父乐广，皆有重名。议者以为妇翁冰清，女婿玉润。</p>
+<p>　　<strong>天缘</strong></p>
+<p>　　蒙氏有女，欲为择配。女曰：“王择配，非天婚也。我欲倒骑牛背，任牛所之，即嫁之。”王从其请。至一委巷，牛侧其角而入，见一樵者，女曰：“此吾婿也。”王怒绝女。一日，婿问：“首饰是何物？”曰：“金也。”婿曰：“吾樵处甚多。”载归，皆金砖。王难之曰：“汝能作金桥银路，吾当来访。”果作以迎王。王叹曰：“信天缘也。”后名其地曰辘角庄。</p>
+<p>　　<strong>门多长者辙</strong></p>
+<p>　　张负女孙五嫁而夫辄死，平欲娶之。负曰：“平虽贫，门多长者辙。”卒与之。诫曰：“无以贫故，事人不谨。”</p>
+<p>　　<strong>佳婿</strong></p>
+<p>　　唐杨于陵补句容主簿，时韩滉节制金陵，杨以属吏谒，滉异之。谓其妻柳氏曰：“夫人欲择佳婿，无有如杨主簿者！”遂以女妻之。</p>
+<p>　<strong>　翁婿登相府</strong></p>
+<p>　　范文正一见富弼器之，曰：“王佐才也。”适晏元献谓文正曰：“吾一女，烦君为择婿。”文正曰：“必求国士，无如富弼者！”元献妻之。后弼与元献共登相府，盖异观也。</p>
+<p>　　<strong>此必国夫人</strong></p>
+<p>　　宋马亮知夔州。时吕蒙亨为属吏，子夷简在焉，亮一见，许妻以女。妻怒，亮曰：“此必国夫人也。”人服其鉴。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19195.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19197.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

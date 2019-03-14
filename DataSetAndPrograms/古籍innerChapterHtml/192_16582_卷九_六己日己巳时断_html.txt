@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷九·六己日己巳时断_古诗文网
+</title>
+<meta content="六己日生时己巳，金神与火两相和；不通月气平常看，月气如通荣甲科。己日己巳时，金火相合，己以丙为印，巳中有丙，健旺；己巳又为金神，坐于火位，相合。若通火月气，四柱不见财星破印，不行财" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16582.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·六己日己巳时断</b></span>
+<a href="javascript:PlayBookv(16582)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16582" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16582" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　六己日生时己巳，金神与火两相和；</p>
+<p>　　不通月气平常看，月气如通荣甲科。</p>
+<p>　　己日己巳时，金火相合，己以丙为印，巳中有丙，健旺；己巳又为金神，坐于火位，相合。若通火月气，四柱不见财星破印，不行财遇，发福非常。若不通月气，或在冬生，虚秀不实。不通，得南运，亦吉。</p>
+<p>　　己丑日己巳时，辰月，西北运，贵。午未火旺，大贵。申子戌巳，亦吉。</p>
+<p>　　己卯日己巳时，夹辰财库，主大富。又，卯以巳为驿马，二己通看，谓之坐马。再生午月，禄马俱有，尤为贵命。亥月，财临旺地，官遇长生。巳月，金神遇火，皆主大贵。</p>
+<p>　　己巳日己巳时，午年月，权威赫赫，名誉昭昭。春月，子孝妻贤。秋冬平常，贵而不显。辰戌，财印官食；申，伤官生财，俱作吉推。</p>
+<p>　　己未日己巳时，拱禄格。若无羊刃七煞，午字填实，不犯空亡，主显贵。亥丑辰申年月，行东运，文武极品。此格不如丁巳、丁未，以丁正禄，巳寄禄故也。</p>
+<p>　　己酉日己巳时，夏生，金神入火乡，贵显，岁运同前。</p>
+<p>　　己亥日乙丑时，夏生，资财满目，行乐轩昂。冬，平常，戌月、东南运，国师、金紫。寅月，亦贵。</p>
+<p>　　己日重逢己巳时，金神化旺要相宜。</p>
+<p>　　南离运步财官显，寅卯东方遇亦苛。</p>
+<p>　　己日时逢己巳，夏生丙火金神。不遇戌亥与庚申，无破声各响应。</p>
+<p>　　父母一衰一旺，刑空事业逡巡。要知显达改名庭，火旺南方之运。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16581.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16583.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

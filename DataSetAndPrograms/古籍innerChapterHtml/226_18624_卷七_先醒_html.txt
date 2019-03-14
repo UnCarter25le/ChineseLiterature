@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷七·先醒_古诗文网
+</title>
+<meta content="怀王问于贾君曰：“人之谓知道者先生，何也？”贾君对曰：“此博号也。大者在人主，中者在卿大夫，下者在布衣之士。乃其正名，非为先生也，为先醒也。”彼世主不学道理，则嘿然惛于得失，不知治" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18624.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·先醒</b></span>
+<a href="javascript:PlayBookv(18624)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18624" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18624" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　怀王问于贾君曰：“人之谓知道者先生，何也？”贾君对曰：“此博号也。大者在人主，中者在卿大夫，下者在布衣之士。乃其正名，非为先生也，为先醒也。”彼世主不学道理，则嘿然惛于得失，不知治乱存亡之所由，忳忳然犹醉也。而贤主者，学问不倦，好道不厌，锐然独先达乎道理矣。故未治也，知所以治；未乱也，知所以乱；未安也，知所以安；未危也，知所以危。故昭然先寤乎所以存亡矣，故曰先醒。辟犹俱醉，而独先醒也。故世主有先醒者，有后醒者，有不醒者。</p>
+<p>　　昔楚庄王即位，自静三年，以讲得失。乃退僻邪而进忠正，能者任事，而后在高位。内领国政治 ，而外施教百姓，富民恒一，路不拾遗，国无狱讼。当是时也，周室坏微，天子失制。宋郑无道，欺昧诸侯，庄王围宋伐郑。郑伯肉袒牵羊，奉簪而献国。庄王曰：“古之伐者，乱则整之，服则舍之，非利之也。”遂弗受。乃南与晋人战于两棠，大克晋人，会诸侯于汉阳，申天子之辟禁，而诸侯说服。庄王归，过申侯之邑。申侯进饭，日中而王不食，申侯请罪曰：“臣斋而具食甚洁，日中而不饭，臣敢请罪。”庄王喟然叹曰：“非子之罪也。吾闻之曰：‘其君贤君也，而又有师者，王；其君中君也，而有师者，伯；其君下君也，而群臣又莫若者，亡。’今我下君也，而群臣又莫若不谷，不谷恐亡无日也。吾闻之：‘世不绝贤。’天下有贤，而我独不得。若吾生者，何以食为？”故庄王战服大国，义从诸侯，戚然忧恐，圣智在身，而自错不肖，思得贤佐，日中忘饭，可谓明君矣。谓先寤所以存亡，此先醒也。</p>
+<p>　　昔宋昭公出亡，至于境，喟然叹曰：“呜呼！吾知所以亡矣。吾被服而立，侍御者数百人，无不曰吾君丽者。吾发政举事，朝臣千人，无不曰吾君圣者。吾外内不闻吾过，吾是以至此。吾困宜矣。”于是革心易行，衣苴布，食疄(田改丰)馂，昼学道而夕讲之，二年美闻于宋，宋人车徒迎而复位，卒为贤君，谥为昭公。既亡矣，而乃寤所以存，此后醒者也。</p>
+<p>　　昔者虢君骄恣自伐，谄谀亲贵，谏臣诘逐，政治踳乱，国人不服。晋师伐之，虢人不守。虢君出走，至于泽中，曰：“吾渴而欲饮。”其御乃进清酒。曰：“吾饥而欲食。”御进腶脯粱糗。虢君喜曰：“何给也？”御曰：“储之久矣。”曰：“何故储之？”对曰：“为君出亡而道饥渴也。”君曰：“知寡人亡邪？”对曰：“知之。”曰：“知之，何以不谏？”对曰：“君好谄谀，而恶至言，臣愿谏，恐先虢亡。”虢君作色而怒，御谢曰：“臣之言过也。”为闲，君曰：“吾之亡者诚何也？”其御曰：“君弗知耶？君之所以亡者，以大贤也。”虢君曰：“贤人之所以存也，乃亡，何也？”对曰：“天下之君皆不肖，夫疾吾君之独贤也，故亡。”虢君喜，据式而笑曰：“嗟！贤固若是苦耶？”遂徒行而于山中居，饥倦，枕御膝而卧，御以块自易，逃行而去，君遂饿死，为禽兽食。此已亡矣，犹不寤所以亡，此不醒者也。</p>
+<p>　　故先醒者，当时而伯；后醒者，三年而复；不醒者，枕土而死，为虎狼食。呜呼 ，戒之哉！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18623.aspx">上一章</a>
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18625.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

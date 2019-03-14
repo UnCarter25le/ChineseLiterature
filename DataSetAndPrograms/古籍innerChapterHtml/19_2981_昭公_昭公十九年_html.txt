@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·昭公·昭公十九年_古诗文网
+</title>
+<meta content="【经】十有九年春，宋公伐邾。夏五月戊辰，许世子止弑其君买。己卯，地震。秋，齐高发帅师伐莒。冬，葬许悼公。【传】十九年春，楚工尹赤迁阴于下阴，令尹子瑕城郏。叔孙昭子曰：「楚不在诸侯矣" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2981.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1512" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>昭公·昭公十九年</b></span>
+<a href="javascript:PlayBookv(2981)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2981" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1512)" id="leftbtn1512" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2981" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】十有九年春，宋公伐邾。夏五月戊辰，许世子止弑其君买。己卯，地震。秋，齐高发帅师伐莒。冬，葬许悼公。</p>
+<p>　　【传】十九年春，楚工尹赤迁阴于下阴，令尹子瑕城郏。叔孙昭子曰：「楚不在诸侯矣！其仅自完也，以持其世而已。」 </p>
+<p>　　楚子之在蔡也，狊阜阳封人之女奔之，生大子建。及即位，使伍奢为之师。费无极为少师，无宠焉，欲谮诸王，曰：「建可室矣。」王为之聘于秦，无极与逆，劝王取之，正月，楚夫人嬴氏至自秦。 </p>
+<p>　　鄅夫人，宋向戌之女也，故向宁请师。二月，宋公伐邾，围虫。三月，取之。乃尽归鄅俘。 </p>
+<p>　　夏，许悼公疟。五月戊辰，饮大子止之药卒。大子奔晋。书曰：「弑其君。」君子曰：「尽心力以事君，舍药物可也。」 </p>
+<p>　　邾人、郳人、徐人会宋公。乙亥，同盟于虫。 </p>
+<p>　　楚子为舟师以伐濮。费无极言于楚子曰：「晋之伯也，迩于诸夏，而楚辟陋，故弗能与争。若大城城父而置大子焉，以通北方，王收南方，是得天下也。」王说，从之。故太子建居于城父。 </p>
+<p>　　令尹子瑕聘于秦，拜夫人也。 </p>
+<p>　　秋，齐高发帅师伐莒。莒子奔纪鄣。使孙书伐之。初，莒有妇人，莒子杀其夫，已为嫠妇。及老，托于纪鄣，纺焉以度而去之。及师至，则投诸外。或献诸子占，子占使师夜缒而登。登者六十人。缒绝。师鼓噪，城上之人亦噪。莒共公惧，启西门而出。七月丙子，齐师入纪。 </p>
+<p>　　是岁也，郑驷偃卒。子游娶于晋大夫，生丝，弱。其父兄立子瑕。子产憎其为人也，且以为不顺，弗许，亦弗止。驷氏耸。他日，丝以告其舅。冬，晋人使以币如郑，问驷乞之立故。驷氏惧，驷乞欲逃。子产弗遣。请龟以卜，亦弗予。大夫谋对，子产不待而对客曰：「郑国不天，寡君之二三臣，札瘥夭昏，今又丧我先大夫偃。其子幼弱，其一二父兄惧队宗主，私族于谋而立长亲。寡君与其二三老曰：『抑天实剥乱是，吾何知焉？』谚曰：『无过乱门。』民有兵乱，犹惮过之，而况敢知天之所乱？今大夫将问其故，抑寡君实不敢知，其谁实知之？平丘之会，君寻旧盟曰：『无或失职。』若寡君之二三臣，其即世者，晋大夫而专制其位，是晋之县鄙也，何国之为？」辞客币而报其使。晋人舍之。 </p>
+<p>　　楚人城州来。沈尹戌曰：「楚人必败。昔吴灭州来，子旗请伐之。王曰：『吾未抚吾民。』今亦如之，而城州来以挑吴，能无败乎？」侍者曰：「王施舍不倦，息民五年，可谓抚之矣。」戌曰：「吾闻抚民者，节用于内，而树德于外，民乐其性，而无寇仇。今宫室无量，民人日骇，劳罢死转，忘寝与食，非抚之也。」 </p>
+<p>　　郑大水，龙斗于时门之外洧渊。国人请为<br/>焉，子产弗许，曰：「我斗，龙不我觌也。龙斗，我独何觌焉？禳之，则彼其室也。吾无求于龙，龙亦无求于我。」乃止也。 </p>
+<p>　　令尹子瑕言蹶由于楚子曰：「彼何罪？谚所谓『室于怒，市于色』者，楚之谓矣。舍前之忿可也。」乃归蹶由。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2980.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2982.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1512" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

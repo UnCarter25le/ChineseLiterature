@@ -1,0 +1,119 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第十九回_古诗文网
+</title>
+<meta content="采和持板踏歌蓝采和者，乃赤脚大仙之降生也。身虽为人，不昧本性。放荡不羁，玩游一世。常衣破蓝衫大带，墨水腰带，阔三寸余，一脚着靴，一脚赤足。夏则衫内加絮，暴烈日中而不汗；冬则单衣而卧" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17374.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第十九回</b></span>
+<a href="javascript:PlayBookv(17374)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17374" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17374" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>采和持板踏歌</strong></p>
+<p>　　蓝采和者，乃赤脚大仙之降生也。身虽为人，不昧本性。放荡不羁，玩游一世。常衣破蓝衫大带，墨水腰带，阔三寸余，一脚着靴，一脚赤足。夏则衫内加絮，暴烈日中而不汗；冬则单衣而卧雪，耳口鼻气出如蒸。每于城市乞钱，手持大拍板长二尺余，醉则踏歌，老幼皆随观之。似狂非狂，歌则随口而作，皆有神仙意，人莫之测。得钱则用绳缚之而行，或散去亦不之顾，见其钱或赠贫者，或与酒家，周游天下。</p>
+<p>　　人有自儿童时见之者，及白发之时，复见之，其颜貌如故，衣履如旧。后遇铁拐，相与讲道。一日，于濠梁酒楼上饮酒。闻空中有笙箫之声。忽然乘白鹤而上，落下衣衫靴带，相移冉冉而去。人视其服，乃玉也。旋亦皆失去。后复每每见之。采和歌词十二首。</p>
+<p>　　一歌云：</p>
+<p>　　时人想云路，云路杳无踪；高山多险峻，涧涧有真龙。<br/>　　碧草前兼后，白云西复东；欲知云路近，云路在虚空。</p>
+<p>　　二歌云：</p>
+<p>　　我见世间人，生而还复死；昨朝犹二八，壮气胸襟土。<br/>　　如今七十过，困苦形憔悴；恰似春回花，朝开暮落矣。</p>
+<p>　　三歌云：</p>
+<p>　　白鹤那肯化，千里作一息；欲往蓬莱山，将此无粮食。<br/>　　未达毛羽落，离群心惨恻；却归旧来巢，妻子不相识。</p>
+<p>　　四歌云：</p>
+<p>　　垂柳暗如烟，飞花飘似雪；夫居离妇州，妇在思夫县，<br/>　　各在天一涯，何时复相见？寄语明月楼，莫栖观飞燕。</p>
+<p>　　五歌云：</p>
+<p>　　骝马珊瑚鞭，驱驰荡荡道；自怜美少年，不信有衰老。<br/>　　白发应会生，红颜岂长保；但看见邱山，介是蓬莱岛。</p>
+<p>　　六歌云：</p>
+<p>　　本志慕道伦，道伦常护亲，时逢桃源客，每接话神宾。<br/>　　谈玄明月夜，穷理日临晨；万机但泯迹，方识本来人。</p>
+<p>　　七歌云：</p>
+<p>　　铁笔大纵横，身材极魁梧；生为有胆身，死作无名鬼。<br/>　　自古如此多，君今争奈何？可来白云里，教你紫芝歌。</p>
+<p>　　八歌云：</p>
+<p>　　浩浩黄河水，东流长不息；悠悠不见清，人人寿有极。<br/>　　我俗乘白云，曷由我生翼；唯当少壮时，行住须努力。</p>
+<p>　　九歌云：</p>
+<p>　　我今有一襦，非罗复非绮；借问作何色？不红亦不紫。<br/>　　夏天将作衫，冬天将作被，冬夏递互用，长年只如是。</p>
+<p>　　十歌云：</p>
+<p>　　世事何悠悠，贪心未肯休；听尽天地名，何时得歇头？<br/>　　四时凋变易，八节急如流；为报大宅主，云地骑白牛。</p>
+<p>　　十一歌云：</p>
+<p>　　高高山顶上，四顿极无极；独坐无人知，孤月寒照泉。<br/>　　泉中且无月，月自在青天；吟此一曲歌，歌中本是仙。</p>
+<p>　　十二歌云：</p>
+<p>　　东家一老婆，富来三五年；昔日贫于我，今笑我无钱。<br/>　　渠笑我在后，戏笑渠在前；相笑倘不止，东边复西边。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17373.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17375.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

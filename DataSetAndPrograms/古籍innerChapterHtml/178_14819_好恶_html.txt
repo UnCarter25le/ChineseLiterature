@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+知言·好恶_古诗文网
+</title>
+<meta content="胡子曰：寡欲之君，然后可与言王道。无欲之臣，然后可以言王佐。志仁则可大，依仁则可久。仲尼从心所欲不逾矩，可谓尽心矣。天即孔于也，孔手即天也。释氏无障碍，而所欲不能不逾矩，吾知其未见" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14819.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>好恶</b></span>
+<a href="javascript:PlayBookv(14819)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14819" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14819" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%83%a1%e5%ae%8f">胡宏</a></p>
+<div class="contson">
+<p>　　胡子曰：寡欲之君，然后可与言王道。无欲之臣，然后可以言王佐。</p>
+<p>　　志仁则可大，依仁则可久。</p>
+<p>　　仲尼从心所欲不逾矩，可谓尽心矣。天即孔于也，孔手即天也。释氏无障碍，而所欲不能不逾矩，吾知其未见心之全也，猖狂妄行而已。</p>
+<p>　　有其德，无其位，君子安之。有其位，无其功，君子耻之。君子之游世也以德，故不患乎无位；小人之游世也以利势，故患得患失，无所不为。</p>
+<p>　　一嘘吸，足以察寒暑之变，一语默，足以着行藏之妙，一往来，足以究天地之理。自陋者，不足与有言也，自小者，不足与有为也。</p>
+<p>　　人虽备天道，必学然后识，习然后能，能然后用，用无不利，唯乐天者能之。</p>
+<p>　　有之在己，知之在人。有之而人不知、从而与人较者，非能有者也。</p>
+<p>　　水有源，故其流不穷；水有根，故其生不穷；氟有性，故其运不息。德有本，故其行不穷。孝悌也者，德之本欤！</p>
+<p>　　有是心则有知，无是心则无知。巧言令色之人，一失其心于浮伪，未有能仁者也。</p>
+<p>　　等级至严也，失礼乐则不威，山河至险也，失礼乐则不固。礼乎乐乎，天下所日用，不可以造次颠沛废焉者乎！富可以厚恩，贵可以广德，是君子之所欲。有求之而得者，有不求而得者，有求而不得者，命有定矣。信而不渝，然后能为君子。</p>
+<p>　　有为之为，出于智巧。血气方刚，则智巧出焉。血气既衰，则智巧穷矣。或知功之可利而锐于立功，或知名之可利而进以求名，或知正直之可利而勉于正直，或知文词之可利而习于文词，皆智巧之智也。上好恬退，则为恬退以中其欲；上好刚劲，则为刚劲以中其欲；上好温厚，则为温厚以中其欲；上好勤恪，则为勤恪以中其欲；上好文雅，则为文雅以中其欲，皆智巧之巧也。年方壮则血气盛，得所欲则血气盛，壮迈往失则血气挫折，消懦而所为屈矣，无不可变之操也。无为之为，本于仁义。善不以名而为，功不以利而劝，通于造化，与天地相终始，苟不至德，则至道不凝焉。</p>
+<p>　　圣人不可得而见矣，其遗言犹龙之蜕，犹虎之皮。用其文章，犹足动观听，况能充其蜕，复其皮。得其精神以设施于天下，其拨乱兴治如反覆手足。不得其道，与天下之人角智力者，嵲嵲乎殆哉！</p>
+<p>　　有聚而可见谓之有者，知其有于目，故散而不可见者谓之无。有实而可蹈谓之有者，知其有于心，故妄而不可蹈者谓之无。</p>
+<p>　　马牛，人畜也。御之失道，则奋其角踶，虽有猛士，莫之敢撄，得其道，则三尺童子用之，周旋无不如志焉。天下分裂，兆民离散，欲以一之，固有其方，患在人不仁，虽与言而不入也。</p>
+<p>　　知几，则物不能累而祸不能侵。不累于物，其知几乎！</p>
+<p>　　郡县天下，可以持承平而不可支变故，封建诸侯，可以持承平，可以支变故。</p>
+<p>　　自观我者而言，事至而知起，则我之仁可见矣。事不至而知不起，则我之仁不可见也。自我而言，心与天地同流，夫何间之？</p>
+<p>　　处已有道，则行艰难险厄之中无所不利；失其道，则有不能堪而忿欲兴矣。是以君子贵有德也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14818.aspx">上一章</a>
+<a href="/guwen/book_178.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14820.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

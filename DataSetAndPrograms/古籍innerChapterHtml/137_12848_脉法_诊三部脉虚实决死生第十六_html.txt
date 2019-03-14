@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·脉法·诊三部脉虚实决死生第十六_古诗文网
+</title>
+<meta content="凡三部脉大都欲等，只如小人、细人、妇人脉小软，小儿四五岁者，脉呼吸八至细数吉。（《千金翼》云∶人大而脉细，人细而脉大。人乐而脉实，人苦而脉虚，性急而脉缓，性缓而脉躁，人壮而脉细，人" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12848.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>脉法·诊三部脉虚实决死生第十六</b></span>
+<a href="javascript:PlayBookv(12848)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12848" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12848" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　凡三部脉大都欲等，只如小人、细人、妇人脉小软，小儿四五岁者，脉呼吸八至细数吉。（《千金翼》云∶人大而脉细，人细而脉大。人乐而脉实，人苦而脉虚，性急而脉缓，性缓而脉躁，人壮而脉细，人羸而脉大，此皆为逆，逆则难治，反此为顺，顺则易治。凡妇人脉欲常濡弱于丈夫，小儿四五岁者，脉自快疾，呼吸八至也。）三部脉或至或不至，冷气在胃中，故令脉不通。 三部脉虚，其人长病得之死。虚而涩，长病亦死。虚而滑亦死，虚而缓亦死，虚而弦急，癫病亦死。 三部脉实而长，长病得之死，实而滑，长病得之生，卒病得之部脉羸非其人，病得之死。 三部脉粗，长病得之死，卒病得之生。 三部脉细而软，长病得之生。细而数亦生，微而紧亦生。 三部脉微而伏，长病得之死。 三部脉软，长病得之不治自愈，治之反死，卒病得之生。 三部脉浮而结，长病得之死。 三部脉芤，长病得之生。 三部脉弦而数，长病得之生，卒病得之死。 三部脉革，长病得之死，卒病得之生。</p>
+<p>　　三部脉坚而数如银钗股，蛊毒必死。数而软，蛊毒病得之生。 三部脉 如羹上肥，长病得之死，卒病得之生。 三部脉连连如蜘蛛丝，长病得之死，卒病得之生。 三部脉如霹雳，长病得之死。 三部脉如角弓，长病得之死。 三部脉累累如贯珠，长病得之死。 三部脉如水淹然流，长病不治自愈，治之反死。 三部脉如屋漏，长病十四日死。（《脉经》云∶</p>
+<p>　　十日死。） 三部脉如雀啄，长病七日死。 三部脉如釜中汤沸，朝得暮死，夜半得日中死，日中得夜半死。 三部脉急切，腹间病，又 ？</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12847.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12849.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

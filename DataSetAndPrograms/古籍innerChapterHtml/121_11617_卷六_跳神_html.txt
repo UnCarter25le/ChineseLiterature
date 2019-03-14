@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷六·跳神_古诗文网
+</title>
+<meta content="济俗：民间有病者，闺中以神卜。倩老巫击铁环单面鼓，娑婆作态，名曰“跳神”。而此俗都中尤盛。良家少妇，时自为之。堂中肉于案，酒于盆，甚设几上。烧巨烛，明于昼。妇束短幅裙，屈一足，作“" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11617.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·跳神</b></span>
+<a href="javascript:PlayBookv(11617)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11617" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11617" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　济俗：民间有病者，闺中以神卜。倩老巫击铁环单面鼓，娑婆作态，名曰“跳神”。而此俗都中尤盛。良家少妇，时自为之。堂中肉于案，酒于盆，甚设几上。烧巨烛，明于昼。妇束短幅裙，屈一足，作“商羊舞”。两人捉臂，左右扶掖之。妇刺刺琐絮，似歌又似祝，字多寡参差，无律带腔。室数鼓乱挝如雷，蓬蓬聒人耳。妇吻辟翕，杂鼓声，不甚辨了。既而首垂目斜睨，立全须人，失扶则仆。旋忽伸颈巨跃，离地尺有咫。室中诸女子，凛禀愕顾曰：“祖宗来吃食矣。”便一嘘，吹灯灭，内外冥黑。人惵息立暗中，无敢交一语，语亦不得闻，鼓声乱也。食顷，闻妇厉声呼翁姑及夫嫂小字，始共爇烛，伛偻问休咎。视樽中、盎中、案中，都空。望颜色，察嗔喜。肃肃罗问之，答若响。中有腹诽者，神已知，便指某姗笑我，大不敬，将褫汝裤。诽者自顾，莹然已裸，辄于门外树头觅得之。</p>
+<p>　　满洲妇女，奉事尤虔。小有疑，必以决。时严妆，骑假虎、假马，执长兵，舞榻上，名“跳虎神”。马、虎势作威怒，尸者声伧佇。或言关、张、玄坛，不一号。赫气惨凛，尤能畏怖人。有丈夫穴窗来窥，辄被长兵破窗刺帽，挑入去。一家妪媳姊若妹，森森蹜蹜，雁行立，无歧念，无懈骨。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11616.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11618.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

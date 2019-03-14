@@ -1,0 +1,114 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷一·针道源流_古诗文网
+</title>
+<meta content="《素问》十二卷，世称黄帝歧伯问答之书，及观其旨意，殆非一时之言，而所撰述，亦非一人之手。刘向指为诸韩公子所著，程子谓出战国之末，而其大略正如《礼记》之萃于汉儒，而与孔子、子思之言并" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18768.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·针道源流</b></span>
+<a href="javascript:PlayBookv(18768)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18768" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18768" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　《素问》十二卷，世称黄帝歧伯问答之书，及观其旨意，殆非一时之言，而所撰述，亦非一人之手。刘向指为诸韩公子所著，程子谓出战国之末，而其大略正如《礼记》之萃于汉儒，而与孔子、子思之言并传也。盖灵兰秘典、五常正大、六元正纪等篇，无非阐明阴阳五行生制之理，配象合德，实切于人身。其诸色脉病名、针刺治要，皆推是理以广之，而皇甫谧之《甲乙》、杨上善之《太素》，亦皆本之于此，而微有异同。医家之纲法，无越于是书矣。然按《西汉艺文志》，有《内经》十八卷及扁鹊名。白氏云：『《内经》凡三家，而《素问》之目乃不列。』至《隋经籍志》始有《素问》之名，而指为《内经》。唐王冰乃以《九灵》九卷，牵合《汉志》之数，而为之注释，复以阴阳大论，托为师张公所藏，以补其亡逸，而其用心亦勤矣。惜乎朱墨混淆，玉石相乱，训诂失之于迂疏，引援或至于未切。至宋林亿、高若讷等，正其误文，而增其缺义，颇于冰为有功。</p>
+<p>　　《难经》十三卷，秦越人祖述《黄帝内经》，设为问答之辞，以示学者。所引经言，多非灵、素本文，盖古有其书，而今亡之耳。隋时有吕博望注本不传，宋王惟一集五家之说，而醇疵或相乱，惟虞氏粗为可观。纪齐卿注稍密，乃附辨杨玄操、吕广、王宗正三子之非，周仲立颇加订易，而考证未明，李子野亦为句解，而无所启发，近代张洁古注后附药，殊非经义，王少卿演绎其说，目曰重玄，亦未足以发前人之蕴，滑伯仁取长弃短，折衷以己意，作《难经本义》。</p>
+<p>　　《子午经》一卷，论针灸之要，撰成歌诀，后人依托扁鹊者。</p>
+<p>　　《铜人针灸图》三卷，宋仁宗诏王维德考次针灸之法，铸铜人为式，分腑脏十二经，旁注俞穴所会，刻题其名，并为图法，并主疗之术，刻板传于世，夏竦为序，然其窌穴，比之《灵枢》本输、骨空等篇，颇亦繁杂也。《明堂针灸图》三卷，题曰：『黄帝论人身俞穴及灼灸禁忌。』曰：『明堂者。』谓雷公问道，黄帝授之，亦后人所依托者。</p>
+<p>　　《存真图》一卷，晁公谓杨介编，崇宁间泗州刑贼于市，郡守李夷行遣医并画工往，亲决膜摘膏肓，曲折图之，尽得纤悉，介校以古书，无少异者。比《欧希范五脏图》过之远矣，实有益医家也。王莽时，捕得翟义党王孙庆，使太医尚方与巧屠共刳剥之，量度五脏，以竹筳道其脉，知所终始，云可以治病，亦是此意。</p>
+<p>　　《膏肓灸法》二卷，清源庄绰季裕所集。</p>
+<p>　　《千金方》三十卷，唐孙思邈所撰。用药之方，诊脉之诀，针灸之穴，禁忌之法，以至导引养生之要，无不周悉。曰千金者，以人命至重，有贵千金。议者谓其未知伤寒之数。</p>
+<p>　　《千金翼方》三十卷，孙思邈掇拾遗帙，以羽翼其书。首之以药录，次之以妇人、伤寒、小儿、养性、辟谷、退居、补益、杂病、疮痈、色脉、针灸，而禁术终焉。</p>
+<p>　　《外台秘要》，唐王焘在台阁二十年，久知弘文馆，得古方书千百卷，因述诸症候，附以方药、符禁、灼灸之法，凡一千一百四门。天宝中出守房陵、及大宁郡，故名焉。</p>
+<p>　　《金兰循经》，元翰林学士忽泰必列所著，其子光济铨次。大德癸卯，平江郡文学岩陵邵文龙为之序。首绘脏腑前后二图，中述手足三阴、三阳走属，继取十四经络流注，各为注释，列图于后，传之北方，自恒山董氏锓梓吴门，传者始广。</p>
+<p>　　《济生拔萃》十九卷，一卷取《针经节要》，二卷集《洁古云歧针法》、《窦氏流注》，三卷《针经摘英》。首针法，以仿古制也。延佑间杜思敬所撰者。</p>
+<p>　　《针经指南》，古肥窦汉卿所撰，首标幽赋，次定八穴指法及叶蛰宫图，颇与《素问》有不合者。</p>
+<p>　　《针灸杂说》，建安窦桂芳类次，取《千金》禁忌人神及离合真邪论，未能曲尽针灸之妙。</p>
+<p>　　《资生经》，东嘉王执中叔雅，取三百六十穴，背面巅末，行分类别，以穴属病，盖合《铜人》、《千金》、《明堂》、《外台》而一之者也。</p>
+<p>　　《十四经发挥》三卷，许昌滑寿伯仁，传针法于东平高洞阳，得其开阖流注交别之要。至若阴、阳、维、蹻、带、冲六脉，皆有系属，而惟督、任二经，则包乎背腹，而有专穴，诸经满而溢者，此则受之，宜与十二经并论。通考邃穴六百五十有七，而施治功，以尽医之神秘。</p>
+<p>　　《神应经》二卷，乃宏纲陈会所撰。先着《广爱书》十二卷，虑其浩瀚，独取一百一十九穴，为歌为图，仍集治病要穴，总成一帙，以为学者守约之规。</p>
+<p>　　南昌刘瑾校。</p>
+<p>　　《针灸节要》三卷、《聚英》四卷，乃四明梅孤高武纂集。</p>
+<p>　　《针灸捷要》，燕山廷瑞徐凤着集。</p>
+<p>　　《玄机秘要》，三衢继洲杨济时家传着集。</p>
+<p>　　《小儿按摩经》，四明陈氏着集。</p>
+<p>　　《古今医统》、《乾坤生意》、《医学入门》、《医经小学》中取关于针灸者，其姓氏各见原书。</p>
+<p>　　《针灸大成》总辑以上诸书，类成一部，分为十卷，委晋阳靳贤选集校正。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18769.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

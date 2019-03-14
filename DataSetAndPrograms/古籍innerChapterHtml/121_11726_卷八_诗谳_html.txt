@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷八·诗谳_古诗文网
+</title>
+<meta content="青州居民范小山，贩笔为业，行贾未归。四月间，妻贺氏独居，夜为盗所杀。是夜微雨，泥中遗诗扇一柄，乃王晟之赠吴蜚卿者。晟，不知何人；吴，益都之素封，与范同里，平日颇有佻达之行，故里党共" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11726.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·诗谳</b></span>
+<a href="javascript:PlayBookv(11726)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11726" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11726" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　青州居民范小山，贩笔为业，行贾未归。四月间，妻贺氏独居，夜为盗所杀。是夜微雨，泥中遗诗扇一柄，乃王晟之赠吴蜚卿者。晟，不知何人；吴，益都之素封，与范同里，平日颇有佻达之行，故里党共信之。郡县拘质，坚不伏，惨被械梏，诬以成案；驳解往复，历十余官，更无异议。</p>
+<p>　　吴亦自分必死，嘱其妻罄竭所有，以济茕独。有向其门诵佛千者，给以絮裤；至万者絮袄。于是乞丐如市，佛号声闻十余里。因而家骤贫，惟日货田产以给资斧。阴赂监者使市鸩，夜梦神人告之曰：“子勿死，曩日‘外边凶’，目下‘里边吉’矣。”再睡又言，以是不果死。</p>
+<p>　　未几，周元亮先生分守是道，录囚至吴，若有所思。因问：“吴某杀人，有何确据？”范以扇对。先生熟视扇，便问：“王晟何人？”并云不知。又将爰书细阅一过，立命脱其死械，自监移之仓。范力争之，怒曰：“尔欲妄杀一人便了却耶？抑将得仇人而甘心耶？”众疑先生私吴，俱莫敢言。</p>
+<p>　　先生标朱签，立拘南郭某肆主人。主人惧，莫知所以。至则问曰：“肆壁有东莞李秀诗，何时题耶？”答云：“旧岁提学案临，有日照二三秀才，饮醉留题，不知所居何里。”遂遣役至日照，坐拘李秀。数日秀至，怒曰：“既作秀才，奈何谋杀人？”秀顿首错愕，曰：“无之！”先生掷扇下，令其自视，曰：“明系尔作，何诡托王晟？”秀审视，曰：“诗真某作，字实非某书。”曰：“既知汝诗，当即汝友。谁书者？”秀曰：“迹似沂州王佐。”乃遣役关拘王佐。佐至，呵问如秀状。佐供：“此益都铁商张成索某书者，云晟其表兄也。”先生曰：“盗在此矣。”执成至，一讯遂伏。</p>
+<p>　　先是成窥贺美，欲挑之恐不谐。念托于吴，必人所共信，故伪为吴扇，执而往。谐则自认，不谐则嫁名于吴，而实不期至于杀也。逾垣入逼妇；妇因独居，常以刃自卫。既觉，捉成衣，操刀而起。成惧夺其刀。妇力挽。令不得脱，且号。成益窘，遂杀之，委扇而去。</p>
+<p>　　三年冤狱，一朝而雪，无不诵神明者。吴始语“里边吉”乃“周”字也。然终莫解其故。后邑绅乘间请之，笑曰：“此最易知。细阅爱书，贺被杀在四月上旬，是夜阴雨，天气犹寒，扇乃不急之物，岂有忙迫之时，反携此以增累者，其嫁祸可知。向避雨南郭，见题壁诗与箑头之作，口角相类，故妄度李生，果因是而得真盗。”闻者叹服。</p>
+<p>　　异史氏曰：“入之深者，当其无有有之用。词赋文章，华国之具也，而先生以相天下士，称孙阳焉。岂非入其中深乎？而不谓相士之道，移于折狱。《易》曰：‘知几其神。’先生有之矣。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11725.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11727.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

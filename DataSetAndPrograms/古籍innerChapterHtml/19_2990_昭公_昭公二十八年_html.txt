@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·昭公·昭公二十八年_古诗文网
+</title>
+<meta content="【经】二十有八年春王三月，葬曹悼公。公如晋，次于乾侯。夏四月丙戌，郑伯宁卒。六月，葬郑定公。秋七月癸巳，滕子宁卒。冬，葬滕悼公。 【传】二十八年春，公如晋，将如乾侯。子家子曰：「有" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2990.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1521" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>昭公·昭公二十八年</b></span>
+<a href="javascript:PlayBookv(2990)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2990" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1521)" id="leftbtn1521" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2990" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】二十有八年春王三月，葬曹悼公。公如晋，次于乾侯。夏四月丙戌，郑伯宁卒。六月，葬郑定公。秋七月癸巳，滕子宁卒。冬，葬滕悼公。 </p>
+<p>　　【传】二十八年春，公如晋，将如乾侯。子家子曰：「有求于人，而即其安，人孰矜之？其造于竟。」弗听。使请逆于晋。晋人曰：「天祸鲁国，君淹恤在外。君亦不使一个辱在寡人，而即安于甥舅，其亦使逆君？」使公复于竟而后逆之。</p>
+<p>　　晋祁胜与邬臧通室，祁盈将执之，访于司马叔游。叔游曰：「《郑书》有之：『恶直丑正，实蕃有徒。』无道立矣，子惧不免。《诗》曰：『民之多辟，无自立辟。』姑已，若何？」盈曰：「祁氏私有讨，国何有焉？」遂执之。祁胜赂荀跞，荀跞为之言于晋侯，晋侯执祁盈。祁盈之臣曰：「钧将皆死，憖使吾君闻胜与臧之死以为快。」乃杀之。夏六月，晋杀祁盈及杨食我。食我，祁盈之党也，而助乱，故杀之。遂灭祁氏、羊舌氏。 </p>
+<p>　　初，叔向欲娶于申公巫臣氏，其母欲娶其党。叔向曰：「吾母多而庶鲜，吾惩舅氏矣。」其母曰：「子灵之妻杀三夫，一君，一子，而亡一国、两卿矣。可无惩乎？吾闻之：『甚美必有甚恶，』是郑穆少妃姚子之子，子貉之妹也。子貉早死，无后，而天钟美于是，将必以是大有败也。昔有仍氏生女，鬒黑而甚美，光可以鉴，名曰玄妻。乐正后夔取之，生伯封，实有豕心，贪婪无餍，忿类无期，谓之封豕。有穷后羿灭之，夔是以不祀。且三代之亡，共子之废，皆是物也。女何以为哉？夫有尤物，足以移人，苟非德义，则必有祸。」叔向惧，不敢取。平公强使取之，生伯石。伯石始生，子容之母走谒诸姑，曰：「长叔姒生男。」姑视之，及堂，闻其声而还，曰：「是豺狼之声也。狼子野心，非是，莫丧羊舌氏矣。」遂弗视。 </p>
+<p>　　秋，晋韩宣子卒，魏献子为政。分祁氏之田以为七县，分羊舌氏之田以为三县。司马弥牟为邬大夫，贾辛为祁大夫，司马乌为平陵大夫，魏戊为梗阳大夫，知徐吾为涂水大夫，韩固为马首大夫，孟丙为盂大夫，乐霄为铜鞮大夫，赵朝为平阳大夫，僚安为杨氏大夫。谓贾辛、司马乌为有力于王室，故举之。谓知徐吾、赵朝、韩固、魏戊，余子之不失职，能守业者也。其四人者，皆受县而后见于魏子，以贤举也。</p>
+<p>　　魏子谓成鱄：「吾与戊也县，人其以我为党乎？」对曰：「何也？戊之为人也，远不忘君，近不逼同，居利思义，在约思纯，有守心而无淫行。虽与之县，不亦可乎？昔武王克商，光有天下。」其兄弟之国者十有五人，姬姓之国者四十人，皆举亲也。夫举无他，唯善所在，亲疏一也。《诗》曰：『唯此文王，帝度其心。莫其德音，其德克明。克明克类，克长克君。王此大国，克顺克比。比于文王，其德靡悔。既受帝祉，施于孙子。』心能制义曰度，德正应和曰莫，照临四方曰明，勤施无私曰类，教诲不倦曰长，赏庆刑威曰君，慈和遍服曰顺，择善而从之曰比，经纬天地曰文。九德不愆，作事无悔，故袭天禄，子孙赖之。主之举也，近文德矣，所及其远哉！」</p>
+<p>　　贾辛将适其县，见于魏子。魏子曰：「辛来！昔叔向适郑，鬲□蔑恶，欲观叔向，从使之收器者而往，立于堂下。一言而善。叔向将饮酒，闻之，曰：『必鬷明也。』下，执其手以上，曰『昔贾大夫恶，娶妻而美，三年不言不笑，御以如皋，射雉，获之。其妻始笑而言。贾大夫曰：「才之不可以已，我不能射，女遂不言不笑夫！」今子少不扬，子若无言，吾几失子矣。言不可以已也如是。』遂知故在。今女有力于王室，吾是以举女。行乎！敬之哉！毋堕乃力！」</p>
+<p>　　仲尼闻魏子之举也，以为义，曰：「近不失亲，远不失举，可谓义矣。」又闻其命贾辛也，以为忠：「《诗》曰：『永言配命，自求多福』，忠也。魏子之举也义，其命也忠，其长有后于晋国乎！」 </p>
+<p>　　冬，梗阳人有狱，魏戊不能断，以狱上。其大宗赂以女乐，魏子将受之。魏戊谓阎没、女宽曰：「主以不贿闻于诸侯，若受梗阳人，贿莫甚焉。吾子必谏。」皆许诺。退朝，待于庭。馈入，召之。比置，三叹。既食，使坐。魏子曰：」吾闻诸伯叔，谚曰：『唯食忘忧。』吾子置食之间三叹，何也？」同辞而对曰：「或赐二小人酒，不夕食。馈之始至，恐其不足，是以叹。中置，自咎曰：『岂将军食之，而有不足？』是以再叹。及馈之毕，愿以小人之腹为君子之心，属厌而已。」献子辞梗阳人。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2989.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2991.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1521" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

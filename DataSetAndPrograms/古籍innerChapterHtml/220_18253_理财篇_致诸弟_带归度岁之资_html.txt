@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·理财篇·致诸弟·带归度岁之资_古诗文网
+</title>
+<meta content="澄候子植季洪四位老弟足下：廿五日遣春二维五归家，曾寄一函，并谕旨奏折二册，廿六日水师在九江开仗获胜，陆路塔罗之军，在江北蕲州之莲花桥，大获胜仗，杀贼千余人，廿八日克复广济县城，初一" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18253.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>理财篇·致诸弟·带归度岁之资</b></span>
+<a href="javascript:PlayBookv(18253)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18253" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18253" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　澄候子植季洪四位老弟足下：</p>
+<p>　　廿五日遣春二维五归家，曾寄一函，并谕旨奏折二册，廿六日水师在九江开仗获胜，陆路塔罗之军，在江北蕲州之莲花桥，大获胜仗，杀贼千余人，廿八日克复广济县城，初一日在大河埔大获胜仗，初四日在黄梅城上，大获胜仗，初五日克复黄梅县城，该匪数万，现屯踞江岸之小池口，与九江府城相对，塔罗之军，即日追至江岸，始可水陆夹击，能将北岸扫除，然后可渡江以剿九江府之贼，自至九江后，即可专夫由武宁以达平江长沙。</p>
+<p>　　兹由魏荫亭亲家还乡之便，付去银一百两，为家中卒岁之资，以三分计之，新屋人多，取其二以供用，老屋人少，取其一以供用，外五十两一封，以送亲族各家，即往年在京寄回之旧例也，以后我家光景略好，此项断不可缺，家中却不可过于宽裕；因处乱世，愈穷愈好。</p>
+<p>　　我现在军中声名极好，所过灾害处，百姓爆竹焚香跪迎，送酒米猪羊来犒军者，络绎不绝，以祖宗累世之厚德，使我一人食此隆报，享此荣名，寸心兢兢，且愧且慎。现在但愿官阶不再进，虚名不再张，常葆此以无咎，即是持家守身之道，至军事之成败利钝，此关乎国家之福，吾惟力尽人事，不敢存丝毫侥幸之心，诸弟禀告堂上大人，不必悬念。</p>
+<p>　　冯树堂前有信来，要功牌百张，兹亦交荫享带归，望澄弟专差送至宝庆妥交树堂为要，衡州所捐之部照，已交朱峻明带去，外带照千张，交郭云仙，从原奏之所指也，朱于初二日起行，江隆三亦同归，给渠钱已四十千，今年送亲族者，不必送隆三可也，余不一一。（咸丰四年十一月初七日书于武穴舟中）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18252.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18254.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

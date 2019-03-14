@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·石部·炉甘石_古诗文网
+</title>
+<meta content="释名亦名炉先生。气味甘、温、无毒。主治眼睛突然红肿。用炉甘石(火煅、尿淬)、风火消，等分为末。每次取少许，加清水化匀点眼。各种翳膜。用炉甘石、青矾、朴硝，等分为末。每次取一小茶匙，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1503.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>石部·炉甘石</b></span>
+<a href="javascript:PlayBookv(1503)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1503" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1503" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名<br/></strong>亦名炉先生。</p>
+<p><strong>气味</strong><br/>甘、温、无毒。</p>
+<p><strong>主治</strong><br/>眼睛突然红肿。用炉甘石(火煅、尿淬)、风火消，等分为末。每次取少许，加清水化匀点眼。<br/>各种翳膜。用炉甘石、青矾、朴硝，等分为末。每次取一小茶匙，化在开水中，等稍冷，即用以洗眼。一天洗三次。<br/>一切目疾。用炉甘石半斤，加锉成小粒的黄连四两，放在瓦罐里，煮两沸。去掉黄连，单取炉甘石研末，加片脑二钱半。共研匀，贮存在小瓦罐中。每次用少许点眼。多次必有效。又方：煅炉甘石一钱，盆硝一钱，共研细。热水泡来洗眼。<br/>目中诸症(视物如五轮八廓)。用炉甘石半斤，煅赤，研细；另取黄连四两，切片煎水浸泡炉甘石粉，澄清后，取粉晒干。用时，每次取这种炉甘石粉三分，加铅粉(二连水浸过后再炒)三分、雄黄粉一分、片脑半分，共研匀，点眼。很有效。<br/>目暗昏花。用炉甘石(火煅，童便淬七次)、代赭石(火煅，醋淬七次)、铅丹(水飞过)各四两，共研细；另取蜂蜜半斤，在铜锅里炼去白沫，加入清水五、六碗，熬沸后，投入上述三种药粉，继续用文武火熬成一碗，滴水不散。倾入夹层纸中滤过，收存瓷缸中。随时取出点眼。<br/>两眼烂边，迎风流泪。用炉甘石(火煅，童便淬七次)四两，放在地上出毒三日，研细后点眼。点前用椒汤洗目。临卧点三、四次，次晨，温茶洗去。又方：炉苦石(火煅)一斤，用黄连四两煎的水淬七次。研累炉甘石，加片脑少许，点眼。又方：炉甘石、石膏各一钱，海螵蛸三分，共研细，加少量片脑加麝香，点眼。又方：先用黄连一两煎水，加入童便半碗，再煎，又加入朴硝一两，再煎。另取炉甘石二两，火煅后放入先制的煎水中淬过。淬后又煅，煅后又淬，反复七次，研成细末。加蜜陀僧一两，共研后贮存，用时点眼。<br/>耳流脓汁。用炉甘石、矾石各二钱，胭脂半钱，麝香少许，共研细，吹耳内。<br/>牙齿稀疏。用炉甘石(煅过)、石膏，等分为末，每次用少许擦牙，忌用牙刷。日久，牙渐密。<br/>下疳阴疮。用炉甘石(火煅、醋淬五次)一两、孩儿茶三钱，共研为末，调麻油，敷患处。<br/>阴汗湿痒。用炉甘石一分、蚌粉半分，共研为末，敷患处。</p>
+<p><strong>附方</strong><br/>炉甘石为天然产的菱锌矿，其主要万分为碳酸锌ZnCO3。李明珍指出这是治目病的要药。他曾有一个眼药的配方：用炉甘石(须煅、淬)海螵蛸、硼砂各一两，共研为末，以点各种眼病，效果很好。再加丹砂五钱，则性不粘。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1502.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1504.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

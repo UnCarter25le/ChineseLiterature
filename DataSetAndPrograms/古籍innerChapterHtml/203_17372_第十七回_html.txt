@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第十七回_古诗文网
+</title>
+<meta content="飞剑山嵎斩虎却说钟离得老人指示回至家中。先是其家人闻其与北蕃战败，踪迹杳然，皆以其殁于军中，举家号哭挂孝。至此突归，一家欣喜无限。问其败阵根由，离备言其故。及至单骑自逃，迷失山谷，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17372.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第十七回</b></span>
+<a href="javascript:PlayBookv(17372)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17372" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17372" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>飞剑山嵎斩虎</strong></p>
+<p>　　却说钟离得老人指示回至家中。先是其家人闻其与北蕃战败，踪迹杳然，皆以其殁于军中，举家号哭挂孝。至此突归，一家欣喜无限。问其败阵根由，离备言其故。及至单骑自逃，迷失山谷，胡僧引路，仙翁传道数端。其家人曰：“当日诞生，曾有异光数丈之端。能言，又有身游紫府，名书玉册之句，固知当有异常之遇，不应死于剑戟之中也。”乃设大筵庆贺，尽欢而罢。</p>
+<p>　　居数日，钟离思败阵私归，朝廷若闻，必深加罪。今得仙剑之道，时刻不离，乃欲问迹修真，适其兄钟离简者，亦仕汉为郎中，性素慕道，弃职归家。闻权之言，喜而不寐，即欲与之同行。权乃辞家别眷，披道服，执拂尘，两角带髻，二人飘然竟投华山三峰而去。道经小溪，见白鹭立山涧边浴水，权谓简曰：“凫之头何短？鹭之颈何长？欲断彼续此，其可能乎？吾以天下之事，其不可长短者固多也。吾人诚然识破机关，至道即在眼前，天地皆吾掌握。但世人情欲难割，所以大道不达也。”议论未终，忽闻喊声大震。视之乃众人逐虎也。</p>
+<p>　　那虎生得肉额金睛，威猛无比，屡屡出山伤人。有一寡妇之子，年十余岁，一日同仆入园取果，为虎噬之，其母痛恨至极，竟讼于县。县令哀其情切，令猎户率居民捕之。众人长枪短械，鸣锣围至山下。其虎在山大吼一声，奔腾下岭，连伤数人。咬牙咆哮，依负南山之阳而立。但见逐虎之人，大半惊倒在地。</p>
+<p>　　其中有勇敢之士，亦徒攮臂观望，不敢向前。适二人至其处，众人看见钟离身体魁梧，状貌清奇，乃相谓曰：“若得此人共搏此虎，不难得也。”中有一人曰：“彼道者，以救人为本，何不迎之。”众人皆至权前求助曰：“此虎伤害多人，本县出令剿捕，其虎勇猛难当，见今又在数人，负嵎而立。伏望道长仁慈助力，与民除害。”权闻言未及答，其兄简谓之曰：“孽畜如此作害，汝云已得青龙剑法，何不试之？”权曰：“诺。”即取剑在手，大喝一声，望嵎掷去。那虎大叫一声，鲜血淋漓，坠于山下。众人称异，齐至拜谢。请问其姓名，钟离笑而不答，但收剑归鞘。兄弟自相谈论而去。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17371.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17373.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

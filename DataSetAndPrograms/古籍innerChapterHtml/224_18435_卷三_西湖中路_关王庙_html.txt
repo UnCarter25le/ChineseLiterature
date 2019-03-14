@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷三·西湖中路·关王庙_古诗文网
+</title>
+<meta content="北山两关王庙。其近岳坟者，万历十五年为杭民施如忠所建。如忠客燕，涉潞河，飓风作，舟将覆，恍惚见王率诸河神拯救获免，归即造庙祝之，并祀诸河神。冢宰张瀚记之。其近孤山者，旧祠卑隘。万历" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18435.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·西湖中路·关王庙</b></span>
+<a href="javascript:PlayBookv(18435)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18435" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18435" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　北山两关王庙。其近岳坟者，万历十五年为杭民施如忠所建。如忠客燕，涉潞河，飓风作，舟将覆，恍惚见王率诸河神拯救获免，归即造庙祝之，并祀诸河神。冢宰张瀚记之。</p>
+<p>　　其近孤山者，旧祠卑隘。万历四十二年，金中丞为导首鼎新之。太史董其昌手书碑石记之，其词曰：“西湖列刹相望，梵宫之外，其合于祭法者，岳鄂王、于少保与关神而三尔。甲寅秋，神宗皇帝梦感圣母中夜传诏，封神为伏魔帝君，易兜鍪而衮冕，易大纛而九ヵ。五帝同尊，万灵受职。视操、懿、莽、温偶奸大物，生称贼臣，死堕下鬼，何啻天渊。顾旧祠湫隘，不称诏书播告之意。金中丞父子爰议鼎新，时维导首，得孤山寺旧址，度材垒土，勒墙墉，庄像设，先后三载而落成。中丞以余实倡议，属余记之。余考孤山寺，且名永福寺。</p>
+<p>　　唐长庆四年，有僧刻《法华》于石壁。会元微之以守越州，道出杭，而杭守白乐天为作记。有九诸侯率钱助工，其盛如此。</p>
+<p>　　成毁有数，金石可磨，越数百年而祠帝君。以释典言之，则旧寺非所谓现天大将军身，而今祠非所谓现帝释身者耶。至人舍其生而生在，杀其身而身存。孔曰成仁，孟曰取义，与《法华》一大事之旨何异也。彼谓忠臣义士犹待坐蒲团、修观行而后了生死者，妄矣。然则石壁岿然，而石经初未泐也。顷者四川歼叛，神为助力，事达宸聪，非同语怪。惟辽西黠卤尚缓天诛，帝君能报曹而有不报神宗者乎？左挟鄂王，右挟少保，驱雷部，掷火铃，昭陵之铁马嘶风，蒋庙之塑兵濡露，谅荡魔皆如蜀道矣。先是金中丞抚闽，藉神之告，屡歼倭夷，上功盟府，故建祠之费，视众差巨，盖有夙意云。”寺中规制精雅，庙貌庄严，兼之碑碣清华，柱联工确，一以文理为之，较之施庙，其雅俗真隔霄壤。</p>
+<p>　　董其昌《孤山关王庙柱铭》：</p>
+<p>　　忠能择主，鼎足分汉室君臣。</p>
+<p>　　德必有邻，把臂呼岳家父子。</p>
+<p>　　宋兆礻龠《关帝庙柱联》：</p>
+<p>　　从真英雄起家，直参圣贤之位。</p>
+<p>　　以大将军得度，再现帝王之身。</p>
+<p>　　张岱《关帝庙柱对》：</p>
+<p>　　统系让偏安，当代天王归汉室。</p>
+<p>　　春秋明大义，后来夫子属关公。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18434.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18436.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

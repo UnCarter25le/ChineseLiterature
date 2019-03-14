@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·肺脏方·肺痿第六_古诗文网
+</title>
+<meta content="（论一首 方四首）论曰∶寸口脉数，其人病咳，口中反有浊唾涎沫出，何也？师曰∶此为肺痿之病。何从得之？师曰∶病热在上焦，因咳为肺痿，或从汗出，或从呕吐，或从消渴小便利数，或从便难，数" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12767.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>肺脏方·肺痿第六</b></span>
+<a href="javascript:PlayBookv(12767)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12767" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12767" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（论一首 方四首）</span></p>
+<p>　　论曰∶寸口脉数，其人病咳，口中反有浊唾涎沫出，何也？师曰∶此为肺痿之病。何从得之？师曰∶病热在上焦，因咳为肺痿，或从汗出，或从呕吐，或从消渴小便利数，或从便难，数被驶药下，重亡津液，故得肺痿。又寸口脉不出而反发汗，阳脉早索阴脉不涩，三焦踟蹰，入而不出，阴脉不涩，身体反冷，其内反烦，多唾唇燥，小便反难，此为肺痿。伤于津液，便如烂瓜下如豚脑，但坐发汗故也。其病欲咳不得咳，咳出干沫，久久小便不利，其脉平弱。肺痿吐涎沫而不咳者，其人不渴必遗溺，小便数。所以然者，上虚不能制下故也。</p>
+<p>　　此为肺中冷，必眩。师曰∶肺痿咳唾，咽燥欲饮者自愈。自张口者短气也。</p>
+<p>　　<strong>甘草干姜汤<br/></strong>　　<strong>温脏治肺痿，多涎唾，小便数，肺中冷，必眩不渴（若渴者属消渴症，）不咳，上虚下不能制溲方。</strong></p>
+<p>　　甘草（四两） 干姜（二两）</p>
+<p>　　上二味 咀，以水三升，煮取一升半，去滓，分二服。服此汤已小温覆之。（《集验》、《肘后》有大枣十二枚。</p>
+<p>　　<strong>甘草汤<br/></strong>　　治肺痿涎唾多，出血，心中温温液液方（《翼方》名温液汤）。</p>
+<p>　　甘草二两 咀，以水三升，煮取一升半，去滓，分三服。</p>
+<p>　　<strong>生姜甘草汤<br/>　　治肺痿咳唾涎沫不止，咽燥而渴方。</strong></p>
+<p>　　生姜（五两） 甘草（四两） 人参（三两） 大枣（十二枚）</p>
+<p>　　上四味 咀，以水七升，煮取三升，去滓，分三服。</p>
+<p>　　<strong>麻黄汤<br/>　　治肺胀咳而上气，咽燥而喘，脉浮者，心下有水方。</strong></p>
+<p>　　麻黄 芍药 生姜（仲景用干姜） 细辛 桂心（各三两） 半夏 五味子（各半斤） 石膏（四两）</p>
+<p>　　上八味 咀，以水一斗，煮取三升，分三服（仲景名小青龙加石膏汤，用甘草二两，为九味。）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12766.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12768.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

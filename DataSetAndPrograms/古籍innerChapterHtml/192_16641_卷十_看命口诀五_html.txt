@@ -1,0 +1,118 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·看命口诀五_古诗文网
+</title>
+<meta content="凡命取五行真气交互，如：辛亥金人得丁已土，有丁壬合真木往来，有丙辛合真水往来。丁已土人得癸亥水，有戊癸合真火往来，有丁壬合真木往来。如戊戌、癸亥、丁已、辛亥交互真气全，乃宰相命也。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16641.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·看命口诀五</b></span>
+<a href="javascript:PlayBookv(16641)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16641" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16641" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　凡命取五行真气交互，如：</p>
+<p>　　辛亥金人得丁已土，有丁壬合真木往来，有丙辛合真水往来。</p>
+<p>　　丁已土人得癸亥水，有戊癸合真火往来，有丁壬合真木往来。</p>
+<p>　　如戊戌、癸亥、丁已、辛亥交互真气全，乃宰相命也。</p>
+<p>　　戊午火得壬子木，中有丁壬真木，戊癸真火。</p>
+<p>　　丙申火得乙酉水，中有丙辛真水，乙庚真金。</p>
+<p>　　庚寅得己卯土，中有甲己真土，乙庚真金。</p>
+<p>　　如庚寅己卯交互全，乃两府命也。</p>
+<p>　　凡命先论化气，考五运篇以甲丙戊庚壬，合五阴干为太过，乙丁已辛癸合五阳干为不及，太过不及之间有权存焉。</p>
+<p>　　考天元变化书又分昼夜，如</p>
+<p>　　六甲人日生用水，夜生化土，故六戊人得甲取日生为鬼，夜生为官用。</p>
+<p>　　六乙人日生用金，夜生用木，故六己人见之取日生为官，夜生为鬼。</p>
+<p>　　独六己六庚不变，是以</p>
+<p>　　五阳干昼生为本体，夜生作化看。五阴干夜生为本体，昼生作化看。</p>
+<p>　　六般阳命男犯禄鬼倒食，须取夜生，反凶作吉。呼鬼为官，倒食为喜神，却以日生为顺。</p>
+<p>　　六般阴命男犯禄鬼倒食，须取日生，反凶作吉。余并同前却以夜生为顺，女人皆反此求之。此昼夜气象，是阴阳配合刚柔体用也。</p>
+<p>　　凡命五行下生上曰助气，主一生自享其福。上生下曰盗气，主一生供人之福。</p>
+<p>　　上克下曰顺，主有威势而制人。下克上曰逆，主多沉滞而难发。死绝尤紧，生旺差慢。</p>
+<p>　　四柱纳音鬼多，主本当时，名日官星乘旺。纳音财多，主本无气，名曰财多害身。</p>
+<p>　　凡命五行贵阴阳相等，如：</p>
+<p>　　两金见两木或两火两土两水之类，各自成象方吉。</p>
+<p>　　若太过不及如三水一木一水三木等类，俱不为福。</p>
+<p>　　假令金人三金一木，金克木为财，三金争一木，是分夺其福，多主财物不遂。</p>
+<p>　　若一金三火，火多金少，煎熬太过，主一生不闲。</p>
+<p>　　又如甲人逢三壬三己，谓之三吞三偶，主不吉。</p>
+<p>　　若逢两己两庚，谓之重偶重伤，视三尤凶，不贫即夭，余以例推。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16640.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16642.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

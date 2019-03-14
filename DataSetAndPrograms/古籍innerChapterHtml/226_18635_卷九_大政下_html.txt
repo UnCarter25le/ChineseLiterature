@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷九·大政下_古诗文网
+</title>
+<meta content="易使喜，难使怒者，宜为君。识人之功，而忘人之罪者，宜为贵。故曰：“刑罚不可以慈民，简泄不可以得士。”故欲以刑罚慈民，辟其犹以鞭狎狗也，虽久弗亲矣。故欲以简泄得士，辟其犹以弧怵鸟也，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18635.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·大政下</b></span>
+<a href="javascript:PlayBookv(18635)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18635" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18635" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　易使喜，难使怒者，宜为君。识人之功，而忘人之罪者，宜为贵。故曰：“刑罚不可以慈民，简泄不可以得士。”故欲以刑罚慈民，辟其犹以鞭狎狗也，虽久弗亲矣。故欲以简泄得士，辟其犹以弧怵鸟也，虽久弗得矣。故夫士者，弗敬则弗至。故夫民者，弗爱则弗附。故欲求士必至，民必附，惟恭与敬，忠与信，古今毋易矣。渚泽有枯水，而国无枯士矣。故有不能求士之君，而无不可得之士。故有不能治民之吏，而无不可治之民。故君明而吏贤矣，吏贤而民治矣。故见其民而知其吏，见其吏而知其君矣。故君功见于选吏，吏功见于治民。故劝之其上者，由其下而上睹矣，此道之谓也。故治国家者，行道之谓，国家必宁，信道而不为，国家必空。故政不可不慎也，而吏不可不选也，而道不可离也。呜呼，戒之哉！离道而灾至矣。</p>
+<p>　　无世而无圣，或不得知也，无国而无士，或弗能得也。故世未尝无圣也，而圣不得圣王，则弗起也。国未尝无士也，不得君子，则弗助也。圣明则士闇饰矣。故圣王在上位，则士百里而有一人，则犹无有也。故王者衰，则士没矣。故暴乱在位，则士千里而有一人，则犹比肩也。故国者有不幸，而无明君。君明也，则国无不幸而无贤士矣。故自古而至于今，泽有无水，国无无士，故士易得而难求也，易致而难留也。故求士而不以道，周遍境内不能得一人焉；故求士而以道，则国中多有之，此之谓士易得而难求也。故待士而以敬，则士必居矣；待士而不以道，则士必去矣，此之谓士易致而难留也。</p>
+<p>　　王者有易政而无易国，有易吏而无易民。故因是国也而为安，因是民也而为治。故汤以桀之乱氓为治，武王以纣之北卒为强。故民之治乱在于吏，国之安危在于政，故是以明君之于政也，慎之，于吏也，选之，然后国兴也。故君能为善，则吏必能为善矣。吏能为善，则民必能为善矣。故民之不善也，失之者吏也；故民之善者，吏之功也。故吏之不善也，失之者君也；故吏之善者，君之功也。是故君明而吏贤，吏贤而民治矣。故苟上好之，其下必化之，此道之谓也。</p>
+<p>　　夫民之为言也，暝也；萌之为言也，盲也。故惟上之所扶而以之，民无不化也，故曰民萌民萌哉，直言其意而为之名也。夫民者贤不肖之材也，贤不肖皆具焉，故贤人得焉，不肖者伏焉，技能输焉，忠信饰焉。故民者，积愚也。故夫民者，虽愚也，明上选吏焉，必使民与焉。故士民誉之，则明上察之，见归而举之。故士民苦之，则明上察之，见非而去之。故王者取吏不妄，必使民唱，然后和之。故夫民者，吏之程也。察吏于民，然后随之。夫民至卑也，使之取吏焉，必取其爱焉。故十人爱之有归，则十人之吏也；百人爱之有归，则百人之吏也；千人爱之有归，则千人之吏也；万人爱之有归，则万人之吏也。故万人之吏，选卿相焉。</p>
+<p>　　夫民者，诸侯之本也；教者，政之本也；道者，教之本也。有道然后教也，有教然后政治也，政治然后民劝之，民劝之然后国丰富也。故国丰且富，然后君乐也，忠臣之功也。臣之忠者，君之明也。臣忠君明，此之谓政之纲也。故国也者行之纲，然后国臧也。故君之信，在于所信，所信不信，虽欲论信也，终身不信矣，故所信不可不慎也。事君之道，不过于事父，故不肖者之事父也，不可以事君。事长之道，不过于事兄，故不肖者之事兄也，不可以事长。使下之道，不过于使弟，故不肖者之使弟也，不可以使下。交接之道，不过于为身，故不肖者之为身也，不可以接友。慈民之道，不过于爱其子，故不肖者之爱其子，不可以慈民。居官之道，不过于居家，故不肖者之于家也，不可以居官。夫道者，行之于父，则行之于君矣；行之于兄，则行之于长矣；行之于弟，则行之于下矣；行之于身，则行之于友矣；行之于子，则行之于民矣；行之于家，则行之于官矣。故士则未仕而能以试矣。圣王选举也，以为表也，问之然后知其言，谋焉然后知其极，任之以事，然后知其信。故古圣王君子不素距人，以此为明察也。</p>
+<p>　　国之治政在诸侯、大夫、士，察之理，在其与徒。君必择其臣，而臣必择其所与。故察明者，贤乎人之辞，不出于室而无不见也。察明者乘人，不出其官，而无所不入也。故王者居于中国，不出其国，而明于天下之政，何也？则贤人之辞也，不离其位，而境内亲之者，谓之人为之行之也。故爱人之道，言之者谓之其府；故爱人之道，行之者谓之其礼。故忠诸侯者，无以易敬士也；忠君子者，无以易爱民也。诸侯不得士，则不能兴矣；故君子不得民；则不能称矣。故士能言道而弗能行者谓之器，能行道而弗能言者谓之用，能言之能行之者谓之实。故君子讯其器，任其用，乘其实，而治安兴矣。呜呼，人耳人耳！</p>
+<p>　　诸侯即位享国，社稷血食，而政有命国无君也；官有政长，而民有所属，而政有命国无吏也；官驾百乘，而食食千人，政有命国无人也。何也？君之为言也，考也。故君也者，道之所出也。贤人不举，而不肖人不去，此君无道也，故政谓此国无君也。吏之为言，理也。故吏也者，理之所出也，上为非而不敢谏，下为善而不知劝，此吏无理也，故政谓此国无吏也。官驾百乘，而食食千人，近侧者不足以问谏，而由朝假不足以考度，故政谓此国无人也。呜呼，悲哉！君者，群也，无人谁据？无据必蹶，政谓此国素亡也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18634.aspx">上一章</a>
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18636.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

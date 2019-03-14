@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·石部·硇砂_古诗文网
+</title>
+<meta content="释名亦名 砂、狄盐、北庭砂、气砂、透骨将军。气味咸、苦、辛、温、有毒。主治肾脏积冷，心腹疼，面青脚冷。用硇砂二两、桃仁一两(去皮)。先以酒一小碗煮硇砂，沸十多次，去掉砂石，加入桃仁" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1490.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>石部·硇砂</b></span>
+<a href="javascript:PlayBookv(1490)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1490" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1490" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>亦名 砂、狄盐、北庭砂、气砂、透骨将军。</p>
+<p><strong>气味</strong><br/>咸、苦、辛、温、有毒。</p>
+<p><strong>主治</strong><br/>肾脏积冷，心腹疼，面青脚冷。用硇砂二两、桃仁一两(去皮)。先以酒一小碗煮硇砂，沸十多次，去掉砂石，加入桃仁涨，慢慢熬成膏，和蒸饼做成丸子，如梧子大。每服二十丸，热酒送下。<br/>积年气块，脐腹疼痛。取木瓜三个，切开去瓤，将醋煮过的硇砂二两装入瓜内，晒在太阳下。到瓜烂时，研匀，加米醋五升煎浓，再加蜜收存。用时以附子末和成丸子，如梧子大。每服一丸，热酒化下。<br/>痃癖症块(按：症状为心胸绞痛，有积块)。取桑条烧灰，淋去苦汁，晒干。另按硇砂一两和水三两的比便，把硇砂、水、灰拌合起来，使干湿适当，然后放入瓶中。放前，瓶底热灰约半寸，放后，还要将灰填盖好。如此处理完毕，再以文武火煅红。冷定取出，倒药在小竹箕上(箕上先铺好三层纸)，用热水淋药，收取滤汁，淋至硇味去尽为止。保持滤汁于热灰中，常令鼓出小鱼眼小泡。待汁干后，再煅一次，取药重研，加粟饭揉成丸子，如绿豆大。每服五丸，空心服，酒送下。<br/>反胃。用硇砂二钱，加水调和，包入荞麦面中，煅焦。冷后，剥取中间湿药。焙干一钱，配槟榔二钱、丁香二个，共研细。每服七厘，烧酒送下。一天服三次，服至病愈为止。愈后吃白粥半月，还要服其他健胃药。<br/>各种痢疾。用硇砂、丹砂各二钱半，研细。另以黄蜡半两，巴豆仁二十一粒(去膜)同在瓦罐内煮透。到豆色变紫时，取其中七粒与硇砂、丹砂共研匀，和熔蜡做成丸子，如绿豆大。每服三丸至九丸，淡姜汤送下。此方名“灵砂丹”。<br/>月经不通，脐腹积聚疼痛。用硇砂一两、皂角五个(去皮和子，锉成末)，共研为末。加头醋一大碗熬膏，又放入陈皮末三两。捣细做成丸子，如梧子大。每服五丸，温酒送下。<br/>死胎不下。用硇砂、当归各半两，共研为末。分两次服，温酒调下。<br/>喉痹口噤。用硇砂、硭硝等分，研匀，点喉部。<br/>牙齿肿痛。用老鼠一个，剥去皮后，擦上硇砂。三日后，肉化尽。取骨，瓦上焙干，研细，加入樟脑一钱、蟾蜍二分，每用少许点牙根上，能消肿痛。<br/>眼生弩肉。用杏仁百枚，蒸熟后去皮尖，研捣后取净汁。汁中加硇砂末一钱，水煮化。每日以汁点眼。<br/>鱼骨鲠喉。用硇砂少许，嚼咽可下。<br/>喝虿叮螫。用水调硇砂涂搽。<br/>疔疮肿毒。用好硇砂、雄黄，等分为末。针刺疮口，挤去恶血后，以豆大的一撮药搽入疮中，外贴纸包好。如有毒气入腹引起呕吐时，可服“护心散”即愈。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1489.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1491.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

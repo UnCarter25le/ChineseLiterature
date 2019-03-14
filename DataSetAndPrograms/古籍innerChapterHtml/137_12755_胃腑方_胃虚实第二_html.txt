@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·胃腑方·胃虚实第二_古诗文网
+</title>
+<meta content="（脉二首 方三首 灸法一首）胃实热　　右手关上脉阳实者，足阳明经也。病苦头痛（《脉经》作腹中坚痛而热），汗不出如温疟，唇口干，善哕，乳痈，缺盆腋下肿痛，名曰胃实热也。泻胃热汤方　　" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12755.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>胃腑方·胃虚实第二</b></span>
+<a href="javascript:PlayBookv(12755)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12755" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12755" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（脉二首 方三首 灸法一首）</span></p>
+<p>　　<strong>胃实热<br/></strong>　　右手关上脉阳实者，足阳明经也。病苦头痛（《脉经》作腹中坚痛而热），汗不出如温疟，唇口干，善哕，乳痈，缺盆腋下肿痛，名曰胃实热也。</p>
+<p>　　<strong>泻胃热汤方<br/></strong>　　栀子仁 射干 升麻 茯苓（各二两） 芍药（四两） 白术（五两） 赤蜜 生地汁（各一升）</p>
+<p>　　上八味 咀，以水七升，煮取一升半，去滓，下地黄汁，煮两沸，次下蜜，煮取三升，分三服，老少以意加减。</p>
+<p>　　胃中热病，灸三里三十壮，穴在膝下三寸。</p>
+<p>　　<strong>胃虚冷<br/></strong>　　右手关上脉阳虚者，足阳明经也。病苦胫寒不得卧，恶风寒洒洒，目急，腹痛虚鸣（《外台》作耳虚鸣），时寒时热，唇口干，面目浮肿，名曰胃虚冷也。</p>
+<p>　　<strong>补胃汤<br/>　　治少气口苦，身体无泽方。</strong></p>
+<p>　　柏子仁 防风 细辛 桂心 橘皮（各二两） 川芎 吴茱萸 人参（各三两） 甘草（一两）</p>
+<p>　　上九味 咀，以水一斗，煮取三升，分为三服。</p>
+<p>　　<strong>人参散<br/>　　补胃虚寒，身枯绝，诸骨节皆痛方。</strong></p>
+<p>　　人参 甘草 细辛（各六分） 麦冬 桂心 当归（各七分） 干姜（二两） 远志（一两）吴茱萸（二分） 川椒（三分）</p>
+<p>　　上十味治，下筛，食后，温酒服方寸匕。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12754.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12756.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+公羊传·昭公·十三年_古诗文网
+</title>
+<meta content="一、十有三年。春，叔弓帅师围费。二、夏四月，楚公子比自晋归于楚，弒其君虔于干溪。此弒其君，其言归何？归无恶于弒立也。归无恶于弒立者何？灵王为无道，作干溪之台，三年不成，楚公子弃疾胁" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13329.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>昭公·十三年</b></span>
+<a href="javascript:PlayBookv(13329)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13329" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13329" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%85%ac%e7%be%8a%e9%ab%98">公羊高</a></p>
+<div class="contson">
+<p>　　一、十有三年。春，叔弓帅师围费。</p>
+<p>　　二、夏四月，楚公子比自晋归于楚，弒其君虔于干溪。</p>
+<p>　　此弒其君，其言归何？归无恶于弒立也。归无恶于弒立者何？灵王为无道，作干溪之台，三年不成，楚公子弃疾胁比而立之。然后令于干溪之役曰：“比已立矣，后归者不得复其田里。”众罢而去之，灵王经而死。楚公子弃疾弒公子比，比已立矣，其称公子何？其意不当也。其意不当，则曷为加弒焉尔？比之义宜乎效死不立。大夫相杀称人，此其称名氏以弒何？言将自是为君也。</p>
+<p>　　三、秋，公会刘子、晋侯、齐侯、宋公、卫侯、郑伯、曹伯、莒子、邾娄子、滕子、薛伯、杞伯、小邾娄子于平丘。八月甲戌，同盟于平丘。公不与盟，晋人执季孙隐如以归。公至自会。</p>
+<p>　　公不与盟者何？公不见与盟也。公不见与盟，大夫执，何以致会？不耻也。曷为不耻？诸侯遂乱，反陈、蔡，君子耻不与焉！</p>
+<p>　　四、蔡侯庐归于蔡。陈侯吴归于陈。</p>
+<p>　　此皆灭国也，其言归何？不与诸侯专封也。</p>
+<p>　　五、冬十月，葬蔡灵公。</p>
+<p>　　六、公如晋，至河乃复。</p>
+<p>　　七、吴灭州来。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13328.aspx">上一章</a>
+<a href="/guwen/book_143.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13330.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

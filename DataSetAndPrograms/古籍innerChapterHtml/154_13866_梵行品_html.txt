@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+华严经·梵行品_古诗文网
+</title>
+<meta content="尔时，正念天子白法慧菩萨言：“佛子！一切世界诸菩萨众，依如来教，染衣出家。云何而得梵行清净，从菩萨位逮于无上菩提之道？”法慧菩萨言：“佛子！菩萨摩诃萨修梵行时，应以十法而为所缘，作" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13866.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>梵行品</b></span>
+<a href="javascript:PlayBookv(13866)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13866" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13866" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ae%9e%e5%8f%89%e9%9a%be%e9%99%80%e8%af%91">实叉难陀译</a></p>
+<div class="contson">
+<p>　　尔时，正念天子白法慧菩萨言：“佛子！一切世界诸菩萨众，依如来教，染衣出家。云何而得梵行清净，从菩萨位逮于无上菩提之道？”</p>
+<p>　　法慧菩萨言：</p>
+<p>　　“佛子！菩萨摩诃萨修梵行时，应以十法而为所缘，作意观察。所谓：身、身业、语、语业、意、意业、佛、法、僧、戒。应如是观：为身是梵行耶？乃至戒是梵行耶？若身是梵行者，当知梵行则为非善、则为非法、则为浑浊、则为臭恶、则为不净、则为可厌、则为违逆、则为杂染、则为死尸、则为虫聚。若身业是梵行者，梵行则是行住坐卧、左右顾视、屈伸俯仰。若语是梵行者，梵行则是音声风息、唇舌喉吻、吐纳抑纵、高低清浊。若语业是梵行者，梵行则是起居问讯、略说、广说、喻说、直说、赞说、毁说、安立说、随俗说、显了说。若意是梵行者，梵行则应是觉、是观、是分别、是种种分别、是忆念、是种种忆念、是思惟、是种种思惟、是幻术、是眠梦。若意业是梵行者，当知梵行则是思想、寒热、饥渴、苦乐、忧喜。若佛是梵行者，为色是佛耶？受是佛耶？想是佛耶？行是佛耶？识是佛耶？为相是佛耶？好是佛耶？神通是佛耶？业行是佛耶？果报是佛耶？若法是梵行者，为寂灭是法耶？涅槃是法耶？不生是法耶？不起是法耶？不可说是法耶？无分别是法耶？无所行是法耶？不合集是法耶？不随顺是法耶？无所得是法耶？若僧是梵行者，为预流向是僧耶？预流果是僧耶？一来向是僧耶？一来果是僧耶？不还向是僧耶？不还果是僧耶？阿罗汉向是僧耶？阿罗汉果是僧耶？三明是僧耶？六通是僧耶？若戒是梵行者，为坛场是戒耶？问清净是戒耶？教威仪是戒耶？三说羯磨是戒耶？和尚是戒耶？阿阇梨是戒耶？剃发是戒耶？著袈裟衣是戒耶？乞食是戒耶？正命是戒耶？如是观已，于身无所取，于修无所著，于法无所住；过去已灭，未来未至，现在空寂；无作业者，无受报者；此世不移动，彼世不改变。此中何法名为梵行？梵行从何处来？谁之所有？体为是谁？由谁而作？为是有，为是无？为是色，为非色？为是受，为非受？为是想，为非想？为是行，为非行？为是识，为非识？如是观察，梵行法不可得故，三世法皆空寂故，意无取著故，心无障碍故，所行无二故，方便自在故，受无相法故，观无相法故，知佛法平等故，具一切佛法故，如是名为清净梵行。</p>
+<p>　　“复应修习十种法。何者为十？所谓：处非处智、过现未来业报智、诸禅解脱三昧智、诸根胜劣智、种种解智、种种界智、一切至处道智、天眼无碍智、宿命无碍智、永断习气智。于如来十力，一一观察；一一力中，有无量义，悉应咨问。闻已，应起大慈悲心，观察众生而不舍离；思惟诸法，无有休息；行无上业，不求果报；了知境界如幻如梦，如影如响，亦如变化。若诸菩萨能与如是观行相应，于诸法中不生二解，一切佛法疾得现前，初发心时即得阿耨多罗三藐三菩提，知一切法即心自性，成就慧身，不由他悟。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13865.aspx">上一章</a>
+<a href="/guwen/book_154.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13867.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

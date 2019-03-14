@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+滴天髓阐微·下篇·母象_古诗文网
+</title>
+<meta content="知慈母恤孤之道，始有瓜瓞无疆之庆。【原注】日主为母，日之所生者为子。如甲乙日主，满柱皆木，中有一二火气，是母旺子孤，其势要多方以生子孙，成瓜瓞之绵绵，而后流发于千世之下。【任氏曰】" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16317.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>下篇·母象</b></span>
+<a href="javascript:PlayBookv(16317)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16317" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16317" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%ba%ac%e5%9b%be">京图</a></p>
+<div class="contson">
+<p>　　知慈母恤孤之道，始有瓜瓞无疆之庆。</p>
+<p>　　【原注】日主为母，日之所生者为子。如甲乙日主，满柱皆木，中有一二火气，是母旺子孤，其势要多方以生子孙，成瓜瓞之绵绵，而后流发于千世之下。</p>
+<p>　　【任氏曰】：</p>
+<p>　　母众子孤，不特子伏母势，而母之情亦依乎子，故子母二人，皆不宜损抑。只得助其子势，则母慈而子益昌矣。如日主甲乙木为母，内只有一二火气，其余皆木，是母多了病。一不可见水，见水子必伤；二不可见金，见金则触母性。母子不和，子势愈孤惟行带火土之运，则母性降慈，其必向子。子方能顺母之意而生孙，双成瓜瓞，衍庆于千世之下，若行带水之土运，则母情有变，而反不容子矣。</p>
+<p>　　戊午 甲寅 乙卯 己卯</p>
+<p>　　乙卯 丙辰 丁巳 戊午 己未 庚申</p>
+<p>　　乙卯日元，生于寅月卯时，满盘皆木，只有年支午火，母旺子孤。喜其会子，寅午半会，母之性慈而向子，子亦能顺母之意，而生戊土之孙。更喜运中火土，所以少年早登虎榜，身入凤池，仁至侍郎。一交庚申，触母之性，不禄。</p>
+<p>　　癸卯 丙辰 甲寅 乙亥</p>
+<p>　　乙卯 甲寅 癸丑 壬子 辛亥 庚戌</p>
+<p>　　甲寅日元，生于季春，支类东方，一点丙火虚露，母众子孤。辰乃湿土，晦火养木，兼之癸水透干，时逢亥旺，母无慈爱恤孤之心，反有灭了之意。初运乙卯甲寅，尚有生扶爱子之情，其乐自如；一交癸丑带水之土，母心必变，子不能安，破败异常；至壬子，克绝其子，家破人离，自缢而亡。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16316.aspx">上一章</a>
+<a href="/guwen/book_189.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16318.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

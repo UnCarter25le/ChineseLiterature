@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+小八义·第八回_古诗文网
+</title>
+<meta content="贾秀英嫌贫遭打　周景隆入居徐家词曰：文标一声吩咐罢　慌了贾氏秀英楼上梳洗把衣更　生的到也干净如同莺莺出门庭　好似仙女降生下了绣楼十三层　上宅去问安宁一首词罢，书接上回。且说贾秀英听" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17766.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第八回</b></span>
+<a href="javascript:PlayBookv(17766)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17766" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17766" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%8a%e9%97%b2%e5%b1%85%e5%a3%ab">半闲居士</a></p>
+<div class="contson">
+<p>　　<strong>贾秀英嫌贫遭打　周景隆入居徐家</strong></p>
+<p>　　词曰：</p>
+<p>　　文标一声吩咐罢　慌了贾氏秀英</p>
+<p>　　楼上梳洗把衣更　生的到也干净</p>
+<p>　　如同莺莺出门庭　好似仙女降生</p>
+<p>　　下了绣楼十三层　上宅去问安宁</p>
+<p>　　一首词罢，书接上回。且说贾秀英听见丈夫叫前去见礼，亦不知什么亲戚来了，在绣楼穿带起来了。</p>
+<p>　　秀英一番把衣更　好似多年狐狸精　上穿可体莺哥绿边镶大沿绦子钉　细袖中衣大四副　汗巾飘头五谷丰二鬼把门盘脚带　几根绿来几根红　穿的绣鞋沙木底不肥不大不宽松　鞋帮绣的水番浪　周围俱着兰花崩像那纣王妲己女　上天仙女下天宫　凡人见了心就动神仙见了把道抛　贾氏打扮多完毕　又把来姐叫一声快快与我前引路　下了扶梯十三层　丫环便在前头走后跟贾氏名秀英　主仆正走来得快　上宅不远面前迎丫环推开门两扇　贾氏迈步往前行</p>
+<p>　　文标说：“贤妻，这是大姑母来了。上前见礼。”贾氏一听，上前飘飘下拜：“姑母你可安好？侄媳这边有礼了。”周老夫人说：“不用施礼，姑母朝朝在此，落坐讲话。”贾氏抬头一看，哪来这门子穷亲戚？回转身形就走。文标说：“贤妻慢走，为丈夫的与你引见引见。”文标说：“兄弟，这是筱嫂嫂。”又与贾氏说道：“这是你姑表小叔子，若是我在家不在家，免得你叔嫂藏藏躲躲的。”贾氏一见，把嘴一咧，说：“来姐，我叫你走你不走，还在这站着。”周顺上前，口称嫂嫂，兄弟这边有礼了。贾氏一见，说：“来姐快走罢，你看看一般穷气喷人。”主仆出了上宅，只奔绣房来了。</p>
+<p>　　周顺进前把礼行　贾氏那边问了声　叫声来姐快走罢穷气喷人可不轻　贾氏错说一句话　却把文标恼心中文标这里把眼瞪　大骂贱人贾秀英　这样言语说出口丈夫岂肯把你容　迈开大步往上闯　抓住贾氏名秀英怀中衣带拍拍晌　贾氏栽在地川平　防身宝剑亮出鞘对准贾氏下绝情　举起宝剑要他命　落将下去就吹灯周顺吓的兢兢战　连把徐哥喊一声　你今杀了贾氏嫂人命官司了不成　千错万错嫂嫂错　话说错了悔不成文标越说越生气　叫他早死早超生　公子急忙来相劝不看鱼情看水情　水情鱼情全不看　你看兄弟周景隆公子哀告多一会　却把文标软心中　防身宝剑藏在鞘一把松了贾秀英　贾氏害怕往外走　文标又把贱人称多亏表弟把情讲　快与兄弟赔赔情</p>
+<p>　　文标说：“贱人，你且慢走，你与兄弟赔个不是，就赦你无罪。”贾氏一听，飘飘下拜，口尊兄弟，嫂嫂话说错了，幸赖兄弟讲情。周顺说：“嫂嫂，兄弟不怪与你，请回绣房去罢。”贾氏一听，带领来姐回绣楼不提。文标吩咐家将，拿几两银子到街上买几件衣服，来与我姑母兄弟换上。家将一听，不敢怠慢，即到街上买来了衣服拿进上宅，与周老夫人换上衣服。周顺也脱去破衣服，沐浴更衣起来。</p>
+<p>　　公子净面衣更换　夫人一见喜心中　头戴俊巾多雅致身穿可体宝丝峰　腰系丝绦双垂穗　薄底官靴足下蹬方才是个花子样　这会好是宦门生　你在这里把书念等到后来把冤伸　母子更衣用了饭　西方坠落太阳星上宅以内把灯点　文标又把兄弟称　跟我走来跟我走书房以里把身容　文标便在前后走　公子跟着后边行往前正走来好快　书房不远面前迎　文标推开门两扇走进公子东斗星　二人书房落了坐　吩咐家将点上灯文标说：“兄弟，你在此安歇罢，明日你好念书。”文标说罢出了书房，公子送出，把门关上，坐在床榻，低头暗想，自己叫着自己名字。</p>
+<p>　　公子闷坐书房中　书房以里好威风　纸糊天棚如雪白墙上俱是细纸蒙　有些古画不爱看　只听谯楼起了更眼望济宁把头点　连把干爷叫一声　活命之恩儿未报两个儿子一对空　亲儿死在浇花井　替我周顺把命坑东京汴梁出赦旨　我与干爹再相逢　干的亲的一个样谁的儿子谁不疼　公子书房来道念　只听谯楼打三更谯楼打罢三更鼓　眼望东京骂几声　蔡京害我周家苦斩了周家满门庭　我若后来得了地　找那老狗把帐清公子书房睡朦胧　忽听谯楼打五更　长杆挑去明天月铁扫帚去满天星　一夜晚景天又亮　只听谯楼打五更欲知景隆身后事　下回书里再说清</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17765.aspx">上一章</a>
+<a href="/guwen/book_214.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17767.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

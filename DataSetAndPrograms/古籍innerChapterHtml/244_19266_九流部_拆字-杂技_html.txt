@@ -1,0 +1,113 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·九流部·拆字、杂技_古诗文网
+</title>
+<meta content="朝字开元时，有术士以拆字驰名。唐玄宗书一“朝”字，令中贵持往试之。术士见字，即端视中贵人曰：“此非观察所书也。”中贵人愕然曰：“但据字言之。”术士以手加额曰：“朝字，离之为十月十日" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19266.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>九流部·拆字、杂技</b></span>
+<a href="javascript:PlayBookv(19266)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19266" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19266" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>朝字</strong></p>
+<p>　　开元时，有术士以拆字驰名。唐玄宗书一“朝”字，令中贵持往试之。术士见字，即端视中贵人曰：“此非观察所书也。”中贵人愕然曰：“但据字言之。”术士以手加额曰：“朝字，离之为十月十日，非此月此日所生之人，天人，当谁书也！”一座尽惊，中贵驰奏。翌日召见，补承信郎，赐赍甚厚。</p>
+<p>　　<strong>杭字</strong></p>
+<p>　　建炎间，术者周生，视人书字分配笔画，以判休咎。车驾往杭州时，金骑惊扰之余，人心危疑。执政呼周生，偶书“杭”字示之。周曰：“惧有惊报，虏骑相逼。”乃拆其字，以右边一点配“木”上，即为“兀术”。不旬日，果得兀术南侵之报。</p>
+<p>　　<strong>串字</strong></p>
+<p>　　一士人卜功名，书一“串”字问周生，生曰：“不特登科，抑且连捷。”以串字有两中字也。果应其言。下科一人侦知之，往问功名，亦书一“串”字，周生曰：“亲翁不特不中，还防有病”。士人曰：“如何一字两断？”周生曰：“前某公书串字，出于无心，故断其连捷；今书串字，出于有心，是‘患’字也，焉得无病！”</p>
+<p>　　<strong>春字</strong></p>
+<p>　　高宗命周生拆一“春”字，周生言：“秦头太重，压日无光。”忤相桧，死于戍。</p>
+<p>　　<strong>奇字</strong></p>
+<p>　　贾似道有异志。一术士能拆字，贾以策画地作“奇”字与之。拆术者曰：“相公之事不谐矣！道立又不可立，道可又立不成。”公默不语，遣之去。</p>
+<p>　　<strong>也字</strong></p>
+<p>　　有朝士，其室怀娠过月，手书一“也”字，令其夫特问谢石。石详视谓朝士曰：“此尊阃所书否？”曰：“何以言之？”曰：“为语助者‘焉哉乎也’，固知是内助所书。”问：“盛年卅一否？以也字上为卅，下为一也。”朝士曰：“吾官欲迁动，得如愿否？”石曰：“也字着水为池，倚马为驰。今池则无水，驰则无马，安能迁动？”又问：“尊阃父母兄弟当无一存者，即家产亦当荡尽。以也字着人则是‘他’字，今独见也并不见人；着土为‘地’，今不见土，故知其无人，并无产也。”朝士曰：“诚如所言。然此皆非所问者，所问乃怀娠过月耳。”石曰：“得非十三月乎？以也字中有“十”字，并旁二竖为‘十三’也。”石熟视朝士曰：“有一事似涉奇怪，欲不言，则所问又正为此事，可尽言否？”朝士请竟其说。石曰：“也字着虫为虵（蛇）字，今尊阃所娠，殆蛇妖也。然不见虫，则不能为害，石亦有药，可以下之，无苦也。”朝士大异其说，固请至家，以药投之，果下数百小蛇。都人益共奇之，而不知其竟挟何术。</p>
+<p>　　<strong>囚字</strong></p>
+<p>　　郑仰田少椎鲁，不解治生，父母恶之，呼泣于野。老僧遇之，曰：“吾迟子久矣。”偕入山，授之青囊、壬遁诸之术，于是言祸福无不中。魏阉召之问数，指“囚”字以问。仰田曰：“此中国一人也。”阉大悦，出谓人曰：“囚则诚囚也！吾诡辞以逃死耳。”</p>
+<p>　　<strong>洴澼纩</strong></p>
+<p>　　《庄子》：宋人有善为不龟手之药者，世以洴澼纩（洴澼，洗也。纩，绵也。有不龟手之药，而以洗绵为业）。客闻之，请买其方百金。于是聚族而谋曰：“我世为洴澼纩，不过数金；今一朝为鬻技，得百金，请与之。”客得之，以说吴王。吴王使之将，冬与越人水战，大败越人，裂地而封。夫不龟手，一也；或以封，或不免洴澼纩，则所用之异也。<br/>　　轮扁斫轮</p>
+<p>　　《庄子》：齐桓公读书于堂上，轮扁斫轮于堂下，释凿问曰：“君之所读者，古人糟粕已夫。臣斫轮，不徐不疾，得之于心，应之于手，口不能言，有数存焉。臣不能以喻臣之子，臣之子不能受之于臣，行年七十而老于斫轮。”</p>
+<p>　　<strong>屠龙技</strong></p>
+<p>　　《庄子》：“朱洴漫学屠龙技于支离，殚千金之产，以学屠龙，三年技成，而无所用其巧。”</p>
+<p>　　<strong>象纬示警</strong></p>
+<p>　　王振劝上亲征瓦剌也先，百官伏阙上章恳留，不听。少顷居庸至宣府败报踵至，扈从连章留驾。王振大怒，皆令掠阵。至大同，振进兵益急，钦天监彭德清斥振曰：“象纬示警，不可复前。若有疏虞，陷乘舆于草莽，谁执其咎？”振怒詈之，遂致土木之变。<br/></p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19265.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19267.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

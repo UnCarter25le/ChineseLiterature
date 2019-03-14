@@ -1,0 +1,188 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·考古部·析类(2)_古诗文网
+</title>
+<meta content="古今事有绝相类者圣主时投水，人知有卞随务光，而不知有北宫无择。骑青牛，人知有老子，而不知有封达。生空桑，人知有伊尹，而不知有孔子。白鱼入舟，人知有周武王，而不知有宋明帝。河澌永合，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19191.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>考古部·析类(2)</b></span>
+<a href="javascript:PlayBookv(19191)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19191" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19191" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>古今事有绝相类者</strong></p>
+<p>　　圣主时投水，人知有卞随务光，而不知有北宫无择。</p>
+<p>　　骑青牛，人知有老子，而不知有封达。</p>
+<p>　　生空桑，人知有伊尹，而不知有孔子。</p>
+<p>　　白鱼入舟，人知有周武王，而不知有宋明帝。</p>
+<p>　　河澌永合，人知有汉光武之滹沱，而不知有慕容德之黎阳。</p>
+<p>　　凤雏，人知有庞统，而不知有顾邵。</p>
+<p>　　献胙加毒，以谗赐死，人知有晋献公子申生，而不知有秦孝文王子西蜀侯恽。</p>
+<p>　　思妾令方士致魂，人知汉武之于李夫人，而不知宋武之于殷淑仪。</p>
+<p>　　治阿誉闻而阿不治，人知齐宣王之大夫，而不知景公之晏子。</p>
+<p>　　梦寐求相，人知高宗之傅说，而不知文王之臧丈人。</p>
+<p>　　题壁作龙蛇歌，人知有晋文之介子推，而不知晋文之舟子侨。</p>
+<p>　　秦许楚地而背之，人知张仪之于楚怀王，而不知冯章之于楚王。</p>
+<p>　　先食不死之药，而以巧言免死，人知方朔之于汉武帝，而不知中射之士之于楚王。</p>
+<p>　　倚柱读书，雷震不辍，人知有夏侯玄，而不知有诸葛诞。</p>
+<p>　　一字值百金，人知《淮南子》，而不知《公孙子》。</p>
+<p>　　妻弃夫，人知朱买臣，而不知太公望。</p>
+<p>　　沉江负父，人知孝女曹娥，而不知赵祉女光络。</p>
+<p>　　掘地得石椁，人知有滕公，而不知有卫灵飞廉。</p>
+<p>　　看竹不问主人，人知有王徽之，而不知有袁粲。</p>
+<p>　　获偷侍儿人试文不杀，因以赐之，人知有杨素之于李靖，而不知有蔡兴宗之于孙敬玉。</p>
+<p>　　侍儿环执饮馔，人知有王武子，而不知有杨国忠、孙晟。国忠、晟，又俱号肉台盘。</p>
+<p>　　羊羹不遍致败，人知华元之于御斟，而不知中山王之于司马子期。</p>
+<p>　　乳生潼，人知有元德秀，而不知有李善。</p>
+<p>　　彩衣娱亲，人知有老莱，而不知有伯俞。</p>
+<p>　　智囊，人知有晁错，而不知有樗里子鲁匡。</p>
+<p>　　读《易》至损益而叹，人知有向平，而不知有孔子。</p>
+<p>　　佩六国印，人知有苏秦，而不知有栾大。</p>
+<p>　　以石为虎，射之没羽，人知有李广、李远，而不知有熊渠子。</p>
+<p>　　逐兔堕马，折胁而殂，人知有齐主高演，而不知燕主慕容皝。</p>
+<p>　　倒用印，人知有段秀实之阻朱泚，而不知有李崧之安蜀。</p>
+<p>　　一日杀二烈，人知有袁绍之于臧洪、陈容，而不知有张敬儿之于边荣、程邕之。</p>
+<p>　　能使人主前席，人知有贾谊，而不知有商鞅、苏绰。</p>
+<p>　　饮千日酒，至期发冢而醒，人知有刘玄石，而不知有赵英。</p>
+<p>　　御屏隔座，人知有汉郑弘第、王伦，而不知有吴纪亮、纪骘。</p>
+<p>　　杯中蛇影，人知有乐广，而不知有南皮令应柳乐弓应弩。</p>
+<p>　　杀孝妇，大旱三年，人知有前汉之东海，而不知有后汉之上虞。</p>
+<p>　　万石君，人知有石奋，而不知有秦袭、张文。</p>
+<p>　　留犊事，人知有时苗，而不知有羊偏。</p>
+<p>　　食脱粟，人知有公孙弘，而不知有晏婴。</p>
+<p>　　钱神论，人知有鲁褒，而不知有胡毋民、成公绥。</p>
+<p>　　记半面人，人知有杨愔，而不知有应凤。</p>
+<p>　　陈蕃下榻，人知有徐穉，而不知有周球。</p>
+<p>　　雪中高卧，人知有袁安，而不知有胡定。</p>
+<p>　　梦赠笔，人知有江淹，而不知有王彪之、王昫、纪少瑜、陆倕、李白、和凝、李峤、马裔孙。噀酒救火，人知有栾巴，而不知有樊英、邵信臣、郭宪、佛图澄、武丁。</p>
+<p>　　入水戮蛟，人知有周处，而不知有澹台子羽、荆佽飞、丘欣。</p>
+<p>　　羊车游后宫，以盐水洒地，人知有隋晋武，而不知有宋文。</p>
+<p>　　御膳中有发，自数三罪以免死，人知晋平公之疱人，而不知光武之陈正。</p>
+<p>　　因病尝粪，人知勾践之于吴夫差，而不知郭弘霸之于魏元忠。</p>
+<p>　　以酒赐妒妇，饮之无恙，人知太宗之于房玄龄，而不知庄宗之于任圜。</p>
+<p>　　即席尽器饮酒，归而尚醒，称所得器，人知裴弘泰之于裴钧，而不知潘（山亢）之于朱梁太祖。</p>
+<p>　　下第献燕诗，座主以明年登第，人知有章孝标，而不知有于化成。</p>
+<p>　　刻石高山深谷，人知有杜预，而不知有颜真卿。</p>
+<p>　　赐行酒人炙，人知有顾荣，而不知有何逊、阴锷。</p>
+<p>　　一箭落双雕，人知有斛律光，而不知有拓跋干、高骈。</p>
+<p>　　锦缆事，人知有隋炀，而不知有甘宁。</p>
+<p>　　燃脐膏为烛，人知有董卓，而不知有满奋。</p>
+<p>　　还带，阴德至相位，人知有裴中令，而不知白中令。</p>
+<p>　　少孤门生废《蓼莪》，人知有王裒，而不知有顾欢。</p>
+<p>　　发冢，类远祖貌，人知有萧颖士之于鄱阳王，而不知有吴纲之于长沙王。</p>
+<p>　　入山，妻二仙女而归，人知有天台之刘晨、阮肇，而不知有剡县之袁相、根硕。</p>
+<p>　　因食辨劳薪，人知有荀勖，而不知有师旷。</p>
+<p>　　强索妾，人知有孙秀、武承嗣，而不知有阮佃夫。</p>
+<p>　　闻鼓角声加敬，人知有范云之于梁武，而不知有到仲举之于陈武。</p>
+<p>　　誓墓不仕，人知有王羲之，而不知有何偃。</p>
+<p>　　通它心观，人知有国忠师之于大耳三藏，而不知有普寂之于柳中庸。</p>
+<p>　　祭赛忘书刀在庙，鲤鱼为送，人知有马当山之王昌龄，而不知有宫亭湖之佑客。</p>
+<p>　　弈棋覆局，人知有王粲，而不知有到溉。</p>
+<p>　　制千字文，人知有周兴嗣，而不知有萧子范。</p>
+<p>　　赠柳妾，人知有韩翃，而不知有李还古。</p>
+<p>　　即位御床陷地，人知有桓玄，而不知有侯景。</p>
+<p>　　误食澡豆，人知有王敦，而不知有陆畅。</p>
+<p>　　殡逆旅书生，人知有王忳，而不知有鲍子都、廖有方。</p>
+<p>　　桥神貌丑，以足潜画之，人知有定州之张平子，而不知有忖留神之鲁般。</p>
+<p>　　骆驼负水，养鱼军中，人知有宋孙仁佑，而不知有隋虞孝仁。</p>
+<p>　　杀负心仆，人知有张咏，而不知有柳开。</p>
+<p>　　赐金莲烛归院，人知有苏轼，而不知有王珪。</p>
+<p>　　晋平公出言不当，师旷举琴撞之，跌宫壁。魏文侯出言不当，师经举琴撞之，中旒溃。（一见《淮南子》，一见刘向《说苑》）</p>
+<p>　　燕太后不肯以少子质齐，因陈翠爱子之说而许。赵太后不肯以少子质秦，因左师触龙爱少子之说而许。（一见《赵世家》，一见《战国策》）</p>
+<p>　　高齐神武不贵慕容绍宗，以留文襄。唐文皇暂出李绩，以留高宗。（俱见《本纪》）</p>
+<p>　　申鸣援桴而进战，为贼杀其父，功成而自杀。赵苞援桴而进战，为贼杀其母，功成而呕血死。（一见《说苑》，一见《后汉书》）</p>
+<p>　　医诊脉晋平公，而曰：“君之病在膏之下，肓之上。”秦武王示扁鹊病，而曰：“君之病在耳之前，目之上。”谓皆以色致也。（一见《左传》，一见《战国策》）东方朔知赤物为怪哉，饮酒十石。李章武知铁斧为厌物，饮血三斗。（一见《搜神记》，一见《酉阳杂俎》）</p>
+<p>　　怀素习书数亩芭蕉。郑虔习书数屋柿叶。（俱见《法书录》）</p>
+<p>　　孙膑刖足于魏，而为齐师。司马喜刖足于宋，而为中山相。（一见本传，一见《吕氏春秋》）</p>
+<p>　　王济以钱千万与王恺赌射八百里牛，一胜而探牛心。尔朱文略以好婢与高归彦赌射千里马，一胜而截马头。（一见《晋书》，一见《北齐书》）</p>
+<p>　　鄂千秋明萧何功高，立封侯。公孙戎明樊哙不反，立封二千户。（一见《萧何传》，一见《王莽传》）</p>
+<p>　　兖州刺史李恂，郡园小麦、胡麻，悉付从事。扬州刺史费遂，郡园小麦、胡麻，悉付从事。（一见《东观记》，一见谢承《后汉书》）</p>
+<p>　　孙权得诸葛恪，而以老桑熟龟精。张华得雷焕，而以老桑辨狐精。（一见《搜神记》，一见《集异志》）</p>
+<p>　　汉郭林宗遇雨，巾折角，人遂为折角巾。周独孤信驰马，帽微侧，人遂为侧帽。（一见《后汉书》，一见《北史》）</p>
+<p>　　严畯为吴大帝诵《孝经·仲尼居》，张辅、吴昭以为鄙生，请诵《君子之事上章》。陆澄为齐武帝诵《孝经·仲尼居》。王卫军俭以为博而寡要，请诵《君子之事上章》。（一见《吴志》，一见《南齐书》）</p>
+<p>　　吴大帝梦人以笔点额，熊循贺以当作主；齐文宣梦人以笔点额，王昙哲贺以为当作主，俱遂即位。（一见吴祚《国统志》，一见《齐书》）</p>
+<p>　　魏文帝为王时，梦日堕地，分为三分，己得一分，纳诸怀中。陈文帝微时，梦亦然。后俱为三分之主。（一见《谈薮》，一见《陈本纪》）</p>
+<p>　　张茂先白鹦鹉梦为鸷鸟搏。杨太真白鹦鹉亦梦为鸷鸟搏。（一见《异苑》，一见《明皇杂录》）</p>
+<p>　　欧阳率更见索靖碑，初看曰：“浪得虚名。”次日看，曰：“名下定无虚士。”坐卧其下，十日不能去。阎立本见张僧繇画，亦然。（俱见《宣和书画谱》）</p>
+<p>　　见客挟姬，杨司空素出见客，挟侍姬红拂，因奔李靖。郭汾阳子仪出见客，亦挟侍姬红绡，因奔崔千牛。（一见《虬髯客传》。一见《昆仑奴传》）</p>
+<p>　　饱蚊温席，人知有吴猛，而不知汉时番禺之有罗威。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19190.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19192.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

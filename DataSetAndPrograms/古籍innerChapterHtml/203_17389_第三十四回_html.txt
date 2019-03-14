@@ -1,0 +1,113 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第三十四回_古诗文网
+</title>
+<meta content="萧后吕客谈兵却说萧太后者，北蕃君后也。每进强兵侵宋疆界。先是太宗驾游五台等寺，被其知觉，暗地陈兵，将太宗围困，赖令公杨业与子六郎杨延昭定计，力救得脱，自是累累结仇，至真宗即位，彼乘" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17389.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第三十四回</b></span>
+<a href="javascript:PlayBookv(17389)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17389" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17389" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　<strong>　萧后吕客谈兵</strong></p>
+<p>　　却说萧太后者，北蕃君后也。每进强兵侵宋疆界。先是太宗驾游五台等寺，被其知觉，暗地陈兵，将太宗围困，赖令公杨业与子六郎杨延昭定计，力救得脱，自是累累结仇，至真宗即位，彼乘新君初立，国计未定，便长驱深入。宋帝使王全节拒之。</p>
+<p>　　萧后闻南兵勇盛，即出榜招贤，忽一人走至榜前，大喝一声曰：“众人不必徒观榜义，还是我揭。”众视之，见具面如镔铁，跟着金殊，身长一丈有余，两臂筋肉突起，凶勇奇异，遂同挂榜守臣叩见萧后。</p>
+<p>　　萧后视之大喜曰：“有此怪异之人，何愁军容不振！”因问壮士姓名。</p>
+<p>　　椿精答曰：“小人祖居南罗，姓椿名岩。”</p>
+<p>　　后问曰：“汝来投军，有何武艺？”</p>
+<p>　　岩曰：“兵书战阵机谋，无所不通，一十八般武艺，无所不晓。”</p>
+<p>　　萧后大悦，即与文武议封其官。萧天佐奏曰：“壮士初进，未见其能，但当以中职封之，待其建立奇功，再加升擢，亦未为晚。”后允奏，封岩为幽州团都统使。岩谢恩而退。</p>
+<p>　　忽报宋兵将近幽州。萧后曰：“将有椿岩，威武绝伦，不惧南兵矣，欲更得一奇士以为军师，则智勇俱备，可以战必胜，攻必取。惜军中乏此一人，令吾睡不安枕。”</p>
+<p>　　椿岩向前奏曰：“娘娘勿忧，臣举一人，足以运筹帷幄之中，决胜千里之外。”</p>
+<p>　　后问为谁。</p>
+<p>　　岩曰：“臣之业师姓吕名客。”</p>
+<p>　　后曰：“彼有何能？”</p>
+<p>　　岩曰：“天文地理，典籍诗书，六韬三略，神术妖术，无不备晓，即周之吕望，汉之子房，三国之孔明，未能出其有也。”</p>
+<p>　　后曰：“其人安在？”岩曰：“现在宫门外。”</p>
+<p>　　后命宣入。</p>
+<p>　　吕客立于阶下，长揖不拜。后见其人，仪容端雅，举动端详，知其人必非凡品，乃从容问曰：“卿至此者，但求富贵而来乎？非有利吾国而来乎？”</p>
+<p>　　客曰：“富贵非吾愿，闻姐娘与南朝争衡，特来助一臂之力，以取中原之天下耳。”</p>
+<p>　　后曰：“中国兵马颇多，战将颇勇，将以何计破之？”</p>
+<p>　　答曰：“南兵虽精勇祷战，臣惟以阵法胜之。然幽州军马，不足调遣，以臣愚见，须借鲜卑、森罗、黑水、西夏、长沙五国之兵，各五万到此，然后仗臣平生所学，排下南天七十二阵。宋之君臣，必暗然莫知，将碎心裂胆，计无所出矣。”</p>
+<p>　　萧厉闻言大悦曰：“以卿之才，真子牙重见，孔明复生，何忧宋之君臣哉！”即拜吕客为辅国军师，总理内外军马，又遣使臣赍书帛金宝，往鲜卑五国借兵而去。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17388.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17390.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

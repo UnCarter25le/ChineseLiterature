@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+洗冤集录·卷二·洗罨_古诗文网
+</title>
+<meta content="宜多备糟醋。衬尸纸惟有藤连纸、白抄纸可用；若竹纸，见盐、醋多烂，恐侵损尸体HT 尸于平稳、光明地上，先检验一遍，用水冲洗。次 皂角洗涤尸垢腻，又以水冲荡洁净。(洗时下用门扇、簟席衬" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17024.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·洗罨</b></span>
+<a href="javascript:PlayBookv(17024)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17024" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17024" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ae%8b%e6%85%88">宋慈</a></p>
+<div class="contson">
+<p>　　宜多备糟醋。衬尸纸惟有藤连纸、白抄纸可用；若竹纸，见盐、醋多烂，恐侵损尸体HT 尸于平稳、光明地上，先检验一遍，用水冲洗。次 皂角洗涤尸垢腻，又以水冲荡洁净。(洗时下用门扇、簟席衬，不惹尘土)洗了，如法用糟醋拥罨尸首，仍以死人衣物尽盖，用煮醋淋，又以荐席罨一时久。候尸体透软，即去盖物，以水冲去糟醋，方验。不得信行人说，只将酒醋泼过，痕损不出。</p>
+<p>　　初春与冬月，宜热煮醋及炒糟令热。仲春与残秋宜微热。夏秋之内，糟醋微热，以天气炎热，恐伤皮肉。秋将深，则用热，尸左右手、肋相去三、四尺，加火 ，以气候差凉。冬雪寒凛，尸首僵冻，糟醋虽极热，被衣重叠，拥罨亦不得尸体透软。当掘坑，长阔于尸，深三尺，取炭及木柴遍铺坑内，以火烧令通红。多以醋沃之，气勃勃然，方连拥罨法物衬簟，HT 尸置于坑内。仍用衣被覆盖，再用热醋淋遍。坑两边相去二、三尺，复以火烘。</p>
+<p>　　约透，去火，移尸出验。冬残春初，不必掘坑，只用火烘两边，看节候详度。</p>
+<p>　　湖南风俗，检死人皆于尸傍开一深坑，用火烧红，去火，入尸在坑内。泼上糟醋，又四面用火逼良久，扛出尸。或行凶人争痕损，或死人骨属相争不肯认，至于有三四次扛入火坑重检者。人尸至三四次经火，肉色皆焦赤，痕损愈不分明，行吏因此为奸。未至一两月间，肉皆溃烂。及其家有论诉，差到聚检官时已是数月，止有骨殖，肉上痕损并不得而知。火坑法独湖南如此，守官者宜知之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17023.aspx">上一章</a>
+<a href="/guwen/book_195.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17025.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

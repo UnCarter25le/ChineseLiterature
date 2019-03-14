@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+金刚经·究竟无我_古诗文网
+</title>
+<meta content="尔时，须菩提白佛言。世尊。善男子善女人。发阿耨多罗三藐三菩提心。云何应住云何降伏其心。佛告须菩提。善男子善女人发阿耨多罗三藐三菩提者。当生如是心。我应灭度一切众生。灭度一切众生已而" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5246.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3517" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>究竟无我</b></span>
+<a href="javascript:PlayBookv(5246)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5246" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3517)" id="leftbtn3517" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5246" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+　　尔时，须菩提白佛言。世尊。善男子善女人。发阿耨多罗三藐三菩提心。云何应住云何降伏其心。佛告须菩提。善男子善女人发阿耨多罗三藐三菩提者。当生如是心。我应灭度一切众生。灭度一切众生已而无有一众生实灭度者。何以故。须菩提。若菩萨有我相人相众生相寿者相则非菩萨。所以者何。须菩提。实无有法发阿耨多罗三藐三菩提心者。须菩提。于意云何。如来于然灯佛所有法得阿耨多罗三藐三菩提不。不也。世尊。如我解佛所说义。佛于然灯佛所无有法得阿耨多罗三藐三菩提。佛言。如是如是。须菩提。实无有法如来得阿耨多罗三藐三菩提。须菩提。若有法如来得阿耨多罗三藐三菩提者。然灯佛则不与我受记。汝于来世当得作佛。号释迦牟尼。以实无有法得阿耨多罗三藐三菩提。是故然灯佛与我受记作是言。汝于来世当得作佛号释迦牟尼。何以故。如来者即诸法如义。若有人言如来得阿耨多罗三藐三菩提。须菩提。实无有法佛得阿耨多罗三藐三菩提。须菩提。如来所得阿耨多罗三藐三菩提。于是中无实无虚。是故如来说一切法皆是佛法。须菩提。所言一切法者。即非一切法。是故名一切法。须菩提。譬如人身长大。须菩提言。世尊。如来说人身长大则为非大身。是名大身。须菩提。菩萨亦如是。若作是言。我当灭度无量众生则不名菩萨。何以故。须菩提。实无有法名为菩萨。是故佛说一切法无我无人无众生无寿者。须菩提。若菩萨作是言。我当庄严佛土。是不名菩萨。何以故。如来说庄严佛土者。即非庄严是名庄严。须菩提。若菩萨通达无我法者。如来说名真是菩萨。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5245.aspx">上一章</a>
+<a href="/guwen/book_63.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5247.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3517" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

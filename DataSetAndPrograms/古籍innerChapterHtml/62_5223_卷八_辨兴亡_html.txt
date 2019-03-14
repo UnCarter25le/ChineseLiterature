@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贞观政要·卷八·辨兴亡_古诗文网
+</title>
+<meta content="贞观初，太宗从容谓侍臣曰：“周武平纣之乱，以有天下；秦皇因周之衰，遂吞六国。其得天下不殊，祚运长短若此之相悬也？”尚书右仆射萧瑀进曰：“纣为无道，天下苦之，故八百诸侯不期而会。周室" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5223.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3492" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·辨兴亡</b></span>
+<a href="javascript:PlayBookv(5223)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5223" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3492)" id="leftbtn3492" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5223" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%a2">吴兢</a></p>
+<div class="contson">
+<p>　　贞观初，太宗从容谓侍臣曰：“周武平纣之乱，以有天下；秦皇因周之衰，遂吞六国。其得天下不殊，祚运长短若此之相悬也？”尚书右仆射萧瑀进曰：“纣为无道，天下苦之，故八百诸侯不期而会。周室微，六国无罪，秦氏专任智力，蚕食诸侯。平定虽同，人情则异。”太宗曰：“不然，周既克殷，务弘仁义；秦既得志，专行诈力。非但取之有异，抑亦守之不同。祚之修短，意在兹乎！”</p>
+<p>　　贞观二年，太宗谓黄门侍郎王珪曰：“隋开皇十四年大旱，人多饥乏。是时仓库盈溢，竟不许赈给，乃令百姓逐粮。隋文不怜百姓而惜仓库，比至末年，计天下储积，得供五六十年。炀帝恃此富饶，所以奢华无道，遂致灭亡。炀帝失国，亦此之由。凡理国者，务积于人，不在盈其仓库。古人云：‘百姓不足，君孰与足？’但使仓库可备凶年，此外何烦储蓄！后嗣若贤，自能保其天下；如其不肖，多积仓库，徒益其奢侈，危亡之本也。”</p>
+<p>　　贞观五年，太宗谓侍臣曰：“天道福善祸淫，事犹影响。昔启民亡国来奔，隋文帝不吝粟帛，大兴士众营卫安置，乃得存立。既而强富，子孙不思念报德，才至始毕，即起兵围炀帝于雁门。及隋国乱，又恃强深入，遂使昔安立其国家者，身及子孙，并为颉利兄弟之所屠戮。今颉利破亡，岂非背恩忘义所至也？”群臣咸曰：“诚如圣旨。”</p>
+<p>　　贞观九年，北蕃归朝人奏：“突厥内大雪，人饥，羊马并死。中国人在彼者，皆入山作贼，人情大恶。”太宗谓侍臣曰：“观古人君，行仁义、任贤良则理；行暴乱、任小人则败。突厥所信任者，并共公等见之，略无忠正可取者。颉利复不忧百姓，恣情所为，朕以人事观之，亦何可久矣？”魏征进曰：“昔魏文侯问李克：‘诸侯谁先亡？’克曰：‘吴先亡。’文侯曰：‘何故？’克曰：‘数战数胜，数胜则主骄，数战则民疲，不亡何待？’颉利逢隋末中国丧乱，遂恃众内侵，今尚不息，此其必亡之道。”太宗深然之。</p>
+<p>　　贞观九年，太宗谓魏征曰：“顷读周、齐史，末代亡国之主为恶多相类也。齐主深好奢侈，所有府库用之略尽，乃至关市无不税敛。朕常谓此犹如馋人自食其肉，肉尽必死。人君赋敛不已，百姓既弊，其君亦亡，齐主即是也。然天元、齐主若为优劣？”征对曰：“二主亡国虽同，其行则别。齐主愞弱，政出多门，国无纲纪，遂至亡灭。天元性凶而强，威福在己，亡国之事，皆在其身。以此论之，齐主为劣。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5222.aspx">上一章</a>
+<a href="/guwen/book_62.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5224.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3492" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

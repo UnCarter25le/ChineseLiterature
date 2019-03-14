@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+容斋随笔·卷八·韩文公佚事_古诗文网
+</title>
+<meta content="韩文公自御史贬阳山，新旧二《唐史》，皆以为坐论宫市事。按公《赴江陵途中诗》，自叙此事甚详，云：“是年京师旱，田亩少所收。有司恤经费，未免烦诛求。传闻闾里间，赤子弃渠沟。我时出衢路，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5695.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4202" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·韩文公佚事</b></span>
+<a href="javascript:PlayBookv(5695)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5695" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4202)" id="leftbtn4202" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5695" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b4%aa%e8%bf%88">洪迈</a></p>
+<div class="contson">
+<p>　　韩文公自御史贬阳山，新旧二《唐史》，皆以为坐论宫市事。按公《赴江陵途中诗》，自叙此事甚详，云：“是年京师旱，田亩少所收。有司恤经费，未免烦诛求。传闻闾里间，赤子弃渠沟。我时出衢路，饿者何其稠！适会除御史，诚当得言秋。拜疏移閤门，为忠宁自谋。上陈人疾苦，无令绝其喉。下言畿甸内，根本理宜优。积雪验丰熟，幸宽待蚕麰。天子恻然感，司空叹绸缪。谓言即施设，乃反迁炎洲。”皇甫湜作公神道碑云：“关中旱饥，人死相枕藉。吏刻取恩，先生列言天下根本，民急如是，请宽民徭而免田租，专政者恶之，遂贬。”然则不因论宫市明甚。碑又书三事云：“公为河南令，魏、郓、幽、镇各为留邸，贮潜卒以槖罪亡，公将擿其禁，断民署吏，俟旦发，留守尹大恐，遽止之，是后郓邸果谋反，将屠东都，以应淮、蔡。及从讨元济，请于裴度，须精兵千人，间道以入，必擒贼。未及行，李愬自文城夜入，得元济。三军之士，为公恨。复谓度曰：“今借声势，王承宗可以辞取，不烦兵矣。得柏耆，口授其词，使耆执笔书之，持以入镇州，承宗遂割德、棣二州以献。”李翱作公行状，所载略同。而《唐书》并逸其事，且以镇州之功，专归柏耆，岂非未尝见湜文集乎？《资治通鉴》亦仅言耆以策干愈，愈为白度，为书遣之耳。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5694.aspx">上一章</a>
+<a href="/guwen/book_72.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5696.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4202" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

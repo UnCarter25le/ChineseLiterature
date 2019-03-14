@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·人谋上·主有道德篇_古诗文网
+</title>
+<meta content="经曰：古者，三皇得道之统，立於中央，神与化游，以抚四方，天下无所归其功；五帝则天法地，有言有令，而天下太平，君臣相让其功。道德废，王者出，而尚仁义；仁义废，伯者出，而尚智力；智力废" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_15988.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>人谋上·主有道德篇</b></span>
+<a href="javascript:PlayBookv(15988)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv15988" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay15988" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　经曰：古者，三皇得道之统，立於中央，神与化游，以抚四方，天下无所归其功；五帝则天法地，有言有令，而天下太平，君臣相让其功。道德废，王者出，而尚仁义；仁义废，伯者出，而尚智力；智力废，战国出，而尚谲诈；圣人知道不足以理，则用法；法不足以理，则用术；术不足以理，则用权；权不足以理，则用势；势用，则大兼小、强吞弱.?</p>
+<p>　　周建一千八百诸侯，其并为六国，六国连兵结难，战争方起。六国之君，非疏道德而亲权势。权势用，不得不亲；道德废，不得不疏其理然也。唯圣人能反始复本，以正理国，以奇用兵，以无事理天下正者，名法也。奇者，权术也。以名法理国，则万物不能乱；以权术用兵，则天下不能敌；以无事理天下，则万物不能挠。不挠，则神清。神清者，智之原。智者，心之府。神清、智平，乃能形物之情。人主知万物之情，裁而用之，则君子小人，不失其位。夫德厚而位卑者，谓之过；德薄而位尊者，谓之失。宁过於君子，无失於小人。过於君子，则人阙其理；失於小人，则物罹其殃。故曰：「人不监於流水，而监於止水。」以其清且平也。人主之道清平，则任人不失其才，六官各守其职。四封之内，百姓之事，任之於相；四封之外，敌国之事，任之於将。语曰：「将、相明，国无兵。」舜以干戚而服有苗，鲁以頖宫而来淮夷。以道胜者，帝；以德胜者，王；以谋胜者，伯；以力胜者，强。强兵灭，伯兵绝，帝王之兵前无敌人；主之道，信其然矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_15987.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_15989.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

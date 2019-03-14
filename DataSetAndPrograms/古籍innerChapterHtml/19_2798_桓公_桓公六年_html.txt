@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·桓公·桓公六年_古诗文网
+</title>
+<meta content="【经】六年春正月，实来。夏四月，公会纪侯于成。秋八月壬午，大阅。蔡人杀陈佗。九月丁卯，子同生。冬，纪侯来朝。 【传】六年春，自曹来朝。书曰「实来」，不复其国也。 楚武王侵随，使薳章" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2798.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1316" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>桓公·桓公六年</b></span>
+<a href="javascript:PlayBookv(2798)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2798" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1316)" id="leftbtn1316" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2798" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】六年春正月，实来。夏四月，公会纪侯于成。秋八月壬午，大阅。蔡人杀陈佗。九月丁卯，子同生。冬，纪侯来朝。 </p>
+<p>　　【传】六年春，自曹来朝。书曰「实来」，不复其国也。 </p>
+<p>　　楚武王侵随，使薳章求成焉。军于瑕以待之。随人使少师董成。斗伯比言于楚子曰：「吾不得志于汉东也，我则使然。我张吾三军而被吾甲兵，以武临之，彼则惧而协以谋我，故难间也。汉东之国随为大，随张必弃小国，小国离，楚之利也。少师侈，请羸师以张之。」熊率且比曰：「季梁在，何益？」斗伯比曰：「以为后图，少师得其君。」王毁军而纳少师。 </p>
+<p>　　少师归，请追楚师，随侯将许之。季梁止之曰：「天方授楚，楚之蠃，其诱我也，君何急焉？臣闻小之能敌大也，小道大淫。所谓道，忠于民而信于神也。上思利民，忠也；祝史正辞，信也。今民馁而君逞欲，祝史矫举以祭，臣不知其可也。」公曰：「吾牲牷肥腯，粢盛丰备，何则不信？」对曰：「夫民，神之主也。是以圣王先成民而后致力于神。故奉牲以告曰『博硕肥腯』，谓民力之普存也，谓其畜之硕大蕃滋也，谓其不疾瘯蠡也，谓其备腯咸有也。奉盛以告曰『洁粢丰盛』，谓其三时不害而民和年丰也。奉酒醴以告曰『嘉栗旨酒』，谓其上下皆有嘉德而无违心也。所谓馨香，无谗慝也。故务其三时，修其五教，亲其九族，以致其禋祀。于是乎民和而神降之福，故动则有成。今民各有心，而鬼神乏主，君虽独丰，其何福之有！君姑修政而亲兄弟之国，庶免于难。」随侯惧而修政，楚不敢伐。 </p>
+<p>　　夏，会于成，纪来咨谋齐难也。 </p>
+<p>　　北戎伐齐，齐侯使乞师于郑。郑大子忽帅师救齐。六月，大败戎师，获其二帅大良、少良，甲首三百，以献于齐。于是，诸侯之大夫戍齐，齐人馈之饩，使鲁为其班，后郑。郑忽以其有功也，怒，故有郎之师。</p>
+<p>　　公之未昏于齐也，齐侯欲以文姜妻郑大子忽。大子忽辞，人问其故，大子曰：「人各有耦，齐大，非吾耦也。《诗》云：『自求多福。』在我而已，大国何为？」君子曰：「善自为谋。」及其败戎师也，齐侯又请妻之，固辞。人问其故，大子曰：「无事于齐，吾犹不敢。今以君命奔齐之急，而受室以归，是以师昏也。民其谓我何？」遂辞诸郑伯。</p>
+<p>　　秋，大阅，简车马也。 </p>
+<p>　　九月丁卯，子同生，以大子生之礼举之，接以大牢，卜士负之，士妻食之。公与文姜、宗妇命之。</p>
+<p>　　公问名于申繻。对曰：「名有五，有信，有义，有象，有假，有类。以名生为信，以德命为义，以类命为象，取于物为假，取于父为类。不以国，不以官，不以山川，不以隐疾，不以畜牲，不以器币。周人以讳事神，名，终将讳之。故以国则废名，以官则废职，以山川则废主，以畜牲则废祀，以器币则废礼。晋以僖侯废司徒，宋以武公废司空，先君献，武废二山，是以大物不可以命。」公曰：「是其生也，与吾同物，命之曰同。」 </p>
+<p>　　冬，纪侯来朝，请王命以求成于齐，公告不能。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2797.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2799.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1316" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

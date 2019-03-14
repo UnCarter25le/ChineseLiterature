@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·昭公·昭公十六年_古诗文网
+</title>
+<meta content="【经】十有六年春，齐侯伐徐。楚子诱戎蛮子杀之。夏，公至自晋。秋八月己亥，晋侯夷卒。九月，大雩。季孙意如如晋。冬十月，葬晋昭公。 【传】十六年春，王正月，公在晋，晋人止公。不书，讳之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2978.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1509" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>昭公·昭公十六年</b></span>
+<a href="javascript:PlayBookv(2978)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2978" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1509)" id="leftbtn1509" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2978" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】十有六年春，齐侯伐徐。楚子诱戎蛮子杀之。夏，公至自晋。秋八月己亥，晋侯夷卒。九月，大雩。季孙意如如晋。冬十月，葬晋昭公。 </p>
+<p>　　【传】十六年春，王正月，公在晋，晋人止公。不书，讳之也。 </p>
+<p>　　齐侯伐徐。</p>
+<p>　　楚子闻蛮氏之乱也，与蛮子之无质也，使然丹诱戎蛮子嘉杀之，遂取蛮氏。既而复立其子焉，礼也。 </p>
+<p>　　二月丙申，齐师至于蒲隧。徐人行成。徐子及郯人、莒人会齐侯，盟于蒲隧，赂以甲父之鼎。叔孙昭子曰：「诸侯之无伯，害哉！齐君之无道也，兴师而伐远方，会之，有成而还，莫之亢也，无伯也夫！《诗》曰：『宗周既灭，靡所止戾。正大夫离居，莫知我肄。』其是之谓乎！」 </p>
+<p>　　二月，晋韩起聘于郑，郑伯享之。子产戒曰：「苟有位于朝，无有不共恪。」孔张后至，立于客间。执政御之，适客后。又御之，适县间。客从而笑之。事毕，富子谏曰：「夫大国之人，不可不慎也，几为之笑而不陵我？我皆有礼，夫犹鄙我。国而无礼，何以求荣？孔张失位，吾子之耻也。」子产怒曰：「发命之不衷，出令之不信，刑之颇类，狱之放纷，会朝之不敬，使命之不听，取陵于大国，罢民而无功，罪及而弗知，侨之耻也。孔张，君之昆孙子孔之后也，执政之嗣也，为嗣大夫，承命以使，周于诸侯，国人所尊，诸侯所知。立于朝而祀于家，有禄于国，有赋于军，丧祭有职，受脤、归脤，其祭在庙，已有着位，在位数世，世守其业，而忘其所，侨焉得耻之？辟邪之人而皆及执政，是先王无刑罚也。子宁以他规我。」 </p>
+<p>　　宣子有环，有一在郑商。宣子谒诸郑伯，子产弗与，曰：「非官府之守器也，寡君不知。」子大叔、子羽谓子产曰：「韩子亦无几求，晋国亦未可以贰。晋国、韩子，不可偷也。若属有谗人交斗其间，鬼神而助之，以兴其凶怒，悔之何及？吾子何爱于一环，其以取憎于大国也，盍求而与之？」子产曰：「吾非偷晋而有二心，将终事之，是以弗与，忠信故也。侨闻君子非无贿之难，立而无令名之患。侨闻为国非不能事大字小之难，无礼以定其位之患。夫大国之人，令于小国，而皆获其求，将何以给之？一共一否，为罪滋大。大国之求，无礼以斥之，何餍之有？吾且为鄙邑，则失位矣。若韩子奉命以使，而求玉焉，贪淫甚矣，独非罪乎？出一玉以起二罪，吾又失位，韩子成贪，将焉用之？且吾以玉贾罪，不亦锐乎？」</p>
+<p>　　韩子买诸贾人，既成贾矣，商人曰：「必告君大夫。」韩子请诸子产曰：「日起请夫环，执政弗义，弗敢复也。今买诸商人，商人曰，必以闻，敢以为请。」子产对曰：「昔我先君桓公，与商人皆出自周，庸次比耦，以艾杀此地，斩之蓬蒿藜藿，而共处之。世有盟誓，以相信也，曰：『尔无我叛，我无强贾，毋或丐夺。尔有利市宝贿，我勿与知。』恃此质誓，故能相保，以至于今。今吾子以好来辱，而谓敝邑强夺商人，是教弊邑背盟誓也，毋乃不可乎！吾子得玉而失诸侯，必不为也。若大国令，而共无艺，郑，鄙邑也，亦弗为也。侨若献玉，不知所成，敢私布之。」韩子辞玉，曰：「起不敏，敢求玉以徼二罪？敢辞之。」</p>
+<p>　　夏四月，郑六卿饯宣子于郊。宣子曰：「二三君子请皆赋，起亦以知郑志。」子<br/>赋《野有蔓草》。宣子曰：「孺子善哉！吾有望矣。」子产赋《郑之羔裘》。宣子曰：「起不堪也。」子大叔赋《褰裳》。宣子曰：「起在此，敢勤子至于他人乎？」子大叔拜。宣子曰：「善哉，子之言是！不有是事，其能终乎？」子游赋《风雨》，子旗赋《有女同车》，子柳赋《蘀兮》。宣子喜曰：「郑其庶乎！二三君子以君命贶起，赋不出郑志，皆昵燕好也。二三君子数世之主也，可以无惧矣。」宣子皆献马焉，而赋《我将》。子产拜，使五卿皆拜，曰：「吾子靖乱，敢不拜德？」宣子私觐于子产以玉与马，曰：「子命起舍夫玉，是赐我玉而免吾死也，敢不藉手以拜？」 </p>
+<p>　　公至自晋。子服昭伯语季平子曰：「晋之公室，其将遂卑矣。君幼弱，六卿强而奢傲，将因是以习，习实为常，能无卑乎？」 </p>
+<p>　　平子曰：「尔幼，恶识国？」 </p>
+<p>　　秋八月，晋昭公卒。 </p>
+<p>　　九月，大雩，旱也。郑大旱，使屠击、祝款、竖柎有事于桑山。斩其木，不雨。子产曰：「有事于山，蓺山林也，而斩其木，其罪大矣。」夺之官邑。</p>
+<p>　　冬十月，季平子如晋葬昭公。平子曰：「子服回之言犹信，子服氏有子哉！」 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2977.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2979.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1509" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

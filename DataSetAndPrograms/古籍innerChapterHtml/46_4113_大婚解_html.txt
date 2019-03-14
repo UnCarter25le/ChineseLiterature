@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·大婚解_古诗文网
+</title>
+<meta content="孔子侍坐於哀公．公問曰：「敢問人道孰為大？」孔子愀然作色而對曰：「君及此言也，百姓之惠也，固臣敢無辭而對．人道，政為大．夫政者，正也．君為正，則百姓從而正矣．君之所為，百姓之所從．" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4113.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2713" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>大婚解</b></span>
+<a href="javascript:PlayBookv(4113)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4113" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2713)" id="leftbtn2713" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4113" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　孔子侍坐於哀公．公問曰：「敢問人道孰為大？」孔子愀然作色而對曰：「君及此言也，百姓之惠也，固臣敢無辭而對．人道，政為大．夫政者，正也．君為正，則百姓從而正矣．君之所為，百姓之所從．君不為正，百姓何所從乎！」公曰：「敢問為政如之何？」孔子對曰：「夫婦別、男女親、君臣信，三者正，則庶物從之．」公曰：「寡人雖無能也，願知所以行三者之道，可得聞乎？」孔子對曰：「古之政愛人為大，所以治．愛人禮為大，所以治．禮，敬為大．敬之至矣，大婚為大．大婚至矣，冕而親迎，親迎者，敬之也．是故君子興敬為親，捨敬則是遺親也．弗親弗敬，弗尊也．愛與敬，其政之本與．」公曰：「寡人願有言也．然冕而親迎，不已重乎？」孔子愀然作色而對曰：「合二姓之好，以繼先聖之後，以為天下宗廟社稷之主，君何謂已重焉」？公曰：「寡人實固，不固安得聞此言乎！寡人欲問，不能為辭，請少進．」孔子曰：「天地不合，萬物不生，大婚，萬世之嗣也，君何謂已重焉？」孔子遂言曰：「內以治宗廟之禮，足以配天地之神，出以治直言之禮，以立上下之敬，物恥、則足以振之，國恥、足以興之，故為政先乎禮，禮其政之本與．」孔子遂言曰：「昔三代明王，必敬妻子也，蓋有道焉．妻也者，親之主也，子也者，親之後也，敢不敬與．是故君子無不敬，敬也者，敬身為大．身也者，親之支也，敢不敬與．不敬其身，是傷其親．傷其親，是傷本也．傷其本，則支從之而亡．三者，百姓之象也．身以及身，子以及子，妃以及妃，君以修此三者，則大化愾乎天下矣．昔太王之道也，如此國家順矣．」公曰：「敢問何謂敬身？」孔子對曰：「君子過言則民作辭，過行則民作則，言不過辭，動不過則，百姓恭敬以從命，若是，則可謂能敬其身，則能成其親矣．」公曰：「何謂成其親？」孔子對曰：「君子者也，人之成名也，百姓與名，謂之君子，則是成其親，為君而為其子也．」孔子遂言曰：「愛政而不能愛人，則不能成其身．不能成其身，則不能安其土．不能安其土，則不能樂天．」公曰：「敢問何能成身？」孔子對曰：「夫其行已不過乎物，謂之成身，不過乎，合天道也．」公曰：「君子何貴乎天道也？」孔子曰：「貴其不已也．如日月東西相從而不已也，是天道也．不閉而能久，是天道也．無為而物成，是天道也．已成而明之，是天道也．」公曰：「寡人且愚冥，幸煩子之於心．」孔子蹴然避席而對曰：「仁人不過乎物，孝子不過乎親．是故仁人之事親也如事天，事天如事親，此謂孝子成身．」公曰：「寡人既聞如此言，無如後罪何？」孔子對曰：「君子及此言，是臣之福也．」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4112.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4114.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2713" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

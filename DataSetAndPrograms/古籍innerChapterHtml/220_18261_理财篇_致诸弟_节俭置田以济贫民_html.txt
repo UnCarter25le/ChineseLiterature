@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·理财篇·致诸弟·节俭置田以济贫民_古诗文网
+</title>
+<meta content="澄候温甫子植季洪四位老弟足下：七月十三日，接到澄弟六月初七所发家信，具悉一切，吾于六月，共发四次信，不知俱收到否？今年陆费中丞丁忧，闰四月无折差到，故自四月十六日发信后，直至五月中" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18261.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>理财篇·致诸弟·节俭置田以济贫民</b></span>
+<a href="javascript:PlayBookv(18261)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18261" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18261" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　澄候温甫子植季洪四位老弟足下：</p>
+<p>　　七月十三日，接到澄弟六月初七所发家信，具悉一切，吾于六月，共发四次信，不知俱收到否？今年陆费中丞丁忧，闰四月无折差到，故自四月十六日发信后，直至五月中旬始再发信，宜家中悬望也，祖父大人之病，日见增加，远人闻之，实深忧惧！前六月念日所付之鹿茸片，不知何日可到，亦未知可有微功否？</p>
+<p>　　予之癣病，多年沉痛，赖邹墨林举黄芪附片方，竟得痊愈，内人六月之病，亦极沉重，幸墨林诊治，遂得化险为夷，变危为安。同乡找墨林看病者甚多，皆随手立效，墨林之弟岳屏兄，今年曾到京寓圆通观，其医道甚好，现已归家，予此次以书附墨林家书内，求岳屏至我家诊治祖父大人，或者挽回万一，亦未可知，岳屏人最诚实，而又精明，即周旋不到，必不见怪，家中只须打发轿夫大钱二千，不必别有赠送，渠若不来，家中亦不必去请他。</p>
+<p>　　乡间之谷，贵至三千五百，此亘古未有者，小民何以聊生？吾自入官以来，即思为曾氏置一义田，以赡救孟学公以下贫民，为本境置义田，以赡救念四都贫民，不料世道日苦，予之处境未裕，无论为京为官者，自治不暇，即使外放，或为学政，或为督抚；而如今年三江两湖之大水灾，几于鸿嗷半天下，为大官者，更何忍于廉俸之外，多取半文乎？是义田之耗，恐终不能偿，然予之定计，苟仕宦所人，每年除供奉堂上甘旨外，或稍有赢余，吾断不肯买一亩田，积一文钱，必皆留为义田之用，此我之定计，望诸弟体谅之。</p>
+<p>　　今年我在京用度较大，借帐不少，八月当希六及陈体元捐从九品，九月榜后可付照回，十月可到家，十一月可向渠两家索银，在约共须三百金，我付此项回家，此外不另附银也，率五在永丰，有人争请，予闻之甚喜！特书手信与渠，亦望其忠信成立。</p>
+<p>　　纪鸿已能行走，体甚壮实，同乡各家如常，同年毛寄云于六月念作日丁内艰，陈伟堂相国于七月初二仙逝，病系中痰，不过片刻即殁，河南浙江湖北皆展于九月举行乡试，闻江南水灾尤甚，恐须再展至十月，各省大灾，皇上焦劳，臣子更宜忧惕；故一切外差，皆绝不萌妄想，家中亦不必悬盼，书不详尽，国藩手草。（道光二十九年七月十五日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18260.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18262.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

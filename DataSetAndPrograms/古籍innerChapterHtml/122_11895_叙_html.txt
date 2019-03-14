@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+醒世恒言·叙_古诗文网
+</title>
+<meta content="六经国史而外，凡著述皆小说也。而尚理或病于艰深，修词或伤于藻绘，则不足以触里耳而振恒心。此《醒世恒言》四十种，所以继《明言》、《通言》而刻也。明者．取其可以导愚也；通者，取其可以适" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11895.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>叙</b></span>
+<a href="javascript:PlayBookv(11895)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11895" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11895" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　六经国史而外，凡著述皆小说也。而尚理或病于艰深，修词或伤于藻绘，则不足以触里耳而振恒心。此《醒世恒言》四十种，所以继《明言》、《通言》而刻也。明者．取其可以导愚也；通者，取其可以适俗也；恒则习之而不厌，传之而可久。三刻殊名．其义一耳。夫人居恒动作言语不甚相悬，一旦弄酒，则叫号踯躅，视堑如沟，度城如槛。何则？酒浊其神也。然而斟酌有时，虽毕吏部、刘大常未有时时如滥泥者。岂非醒者恒而醉者暂乎？繇此推之，惕孺为醒，下石为醉；却嘑为醒，食嗟为醉；剖玉为醒，题石为醉。又推之，忠孝为醒，而悖逆为醉；节俭为醒，而淫荡为醉；耳和目章、口顺心贞为醒，而即聋从昧、与顽用嚣为醉。人之恒心，亦可思己。从恒者吉，背恒者凶。心恒心，言恒言，行恒行。入夫妇而不惊，质天地而无怍。下之巫医可怍，而上之善人、君子、圣人亦可见。恒之时义大矣哉！自昔浊乱之世，谓之天醉。天不自醉人醉之，则天不自醒人醒之。以醒天之权与人，而以醒人之权与言。言恒而人恒，人恒而天亦得其垣。万世太平之福，其可量乎！则兹刻者．虽与《康衢》、《击壤》之歌并传不朽可矣。崇儒之代，不废二教，亦谓导愚适俗，或有藉焉。以二教为儒之辅可也，以《明言》、《通言》、《恒言》为六经国史之辅，不亦可乎？若夫淫谈亵语，取快一时，贻秽百世，夫先自醉也，而又以狂药饮之，吾不知视此“三言”者得失何如也？</p>
+<p>　　天启丁卯中秋陇西可一居土题于白下之栖霞山房 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_122.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11896.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,126 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·文学部·不学_古诗文网
+</title>
+<meta content="没字碑五代任圜曰：“崔协不识文字，虚有其表，号没字碑。”腹负将军晋党进官太尉，目不知书。一日，扪腹语曰：“吾不负汝！”一家妓应曰：“将军不负此腹，但此腹负将军耳。”视肉撮囊庄子曰：" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19239.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>文学部·不学</b></span>
+<a href="javascript:PlayBookv(19239)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19239" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19239" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>没字碑</strong></p>
+<p>　　五代任圜曰：“崔协不识文字，虚有其表，号没字碑。”</p>
+<p>　　<strong>腹负将军</strong></p>
+<p>　　晋党进官太尉，目不知书。一日，扪腹语曰：“吾不负汝！”一家妓应曰：“将军不负此腹，但此腹负将军耳。”</p>
+<p>　　<strong>视肉撮囊</strong></p>
+<p>　　庄子曰：“人而不学，谓之视肉；学而不行，谓之撮囊。”</p>
+<p>　　<strong>马牛襟裾</strong></p>
+<p>　　人不通古今，牛马两襟裾。</p>
+<p>　　<strong>书簏</strong></p>
+<p>　　晋傅迪广读书而不解其义，唐李德淹贯古今，而不能属辞，皆谓之书簏。</p>
+<p>　　<strong>杕杜</strong></p>
+<p>　　李林甫不识杕杜字，谓韦陟曰：“此云杕杜，何也？”陟俯首，不敢应。</p>
+<p>　　<strong>金根车</strong></p>
+<p>　　韩退之子昶，性暗劣，为集贤校理。史传有“金根车”，昶以为误，改“根”为“银”，愈责之。</p>
+<p>　　<strong>弄獐</strong></p>
+<p>　　唐姜度生子，李林甫手书贺之曰：“闻有弄獐之喜。”客视之，掩口笑。东坡诗：“甚欲去为汤饼客，却愁错写弄獐书。”</p>
+<p>　　<strong>蹲鸱</strong></p>
+<p>　　张九龄一日送芋于萧炅，书称“蹲鸱”。萧答云：“惠芋拜嘉，惟蹲鸱未至。然寒家多怪，亦不愿见此恶鸟也。”九龄以视座客，无不大笑。</p>
+<p>　　<strong>纥字</strong></p>
+<p>　　鲁臧武仲名纥，孔子父叔梁纥（纥音恨发切，恨兴轩辖），而世多呼为“核”。萧颖士闻人误呼武仲名，因曰：“汝纥字也不识！”</p>
+<p>　　<strong>伏猎</strong></p>
+<p>　　萧炅为侍郎，不知书，常与严挺之书，称伏腊为伏猎。挺之笑曰：“省中岂容伏猎侍郎乎？”乃出之。</p>
+<p>　　<strong>春菟</strong></p>
+<p>　　桓温篡位，尚书误写“春搜”为“春菟”，自丞相以下皆被黜。</p>
+<p>　　<strong>目不识丁</strong></p>
+<p>　　唐张弘靖曰：“天下无事，尔辈挽两石弓，不如识一个字！”（“个”字误书“丁”字，以其笔画相近也。）</p>
+<p>　　<strong>行尸走肉</strong></p>
+<p>　　《拾遗记》：“任末曰：人而不学，乃行尸走肉耳！”</p>
+<p>　　<strong>心聋</strong></p>
+<p>　　《列子》：人不涉学，犹心之聋。</p>
+<p>　　<strong>白面书生</strong></p>
+<p>　　宋太祖欲北征，沉庆之谏不可。江湛之曰：“耕当问奴，织当问婢。今欲伐国，而与白成书生谋之，曷克有济？”</p>
+<p>　　<strong>口耳之学</strong></p>
+<p>　　《杨子》：“小人之学也，入乎耳，出乎口；口耳之间，则四寸耳，曷足以美七尺之躯哉！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19238.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19240.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

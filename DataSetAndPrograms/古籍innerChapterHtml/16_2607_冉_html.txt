@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·冉_古诗文网
+</title>
+<meta content="历史来源　　1、出自姬姓。据《姓氏考略》、《姓氏寻源》等所载，周文王第十子季载，封于冉（一作聃，故城在今湖北荆口县那口城），春秋时灭于郑，子孙以国为氏，或说聃去耳为冉。　　2、据《" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2607.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>冉</b></span>
+<a href="javascript:PlayBookv(2607)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2607" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2607" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自姬姓。据《姓氏考略》、《姓氏寻源》等所载，周文王第十子季载，封于冉（一作聃，故城在今湖北荆口县那口城），春秋时灭于郑，子孙以国为氏，或说聃去耳为冉。<br/>　　2、据《元和姓纂》所载，相传高辛氏（即帝喾）之后有冉姓。<br/>　　3、据《元和姓纂》所载，春秋时楚大夫叔山冉之后，以名为氏。<br/>　　4、据《汉书·颜师古注》所载，唐时四川夔州（今重庆奉节）、开州（今重庆开县）土著多此姓，皆冉种（冉为汉时西夷所建古国，其后或以冉为姓）。<br/>　　5、出自他族。汉时西夷冉族，居于今四川茂汶羌族自治县一带，其族人以族名为姓；今鄂川湘交界地域之土家有此姓。</p>
+<p><strong>家族名人</strong><br/>　　冉求：字子有，春秋时鲁国人，孔子弟子。有治政之术，列政事科，曾为季氏宰。<br/>　　冉季：字子产，春秋时鲁国人，孔子弟子。冉耕：字伯牛，春秋时鲁国人，孔子弟子。以德行称，后得恶疾而亡。冉雍：字仲弓，春秋时鲁国人，孔子弟子。出身贫寒，有德行。孔子以为可任诸侯治民之官，后曾为季氏宰。<br/>　　冉孺：一作冉儒，字子鲁，春秋时鲁国人，孔子弟子。敏于学。勤于问。<br/>　　冉瞻：魏郡内黄（今属河南）人，十六国时后赵大臣，石虎养子。有勇力，骁猛善战，以功累迁为左积射将军，封西华侯。<br/>　　冉闵：冉瞻子，十六国时冉魏建立者。幼果锐，善谋策，勇力绝人。穆帝永和五年，季龙死，他利用石氏内乱，夺取后赵政权，建立魏国，史称冉魏。三年后，为前燕所败，被俘而死。<br/>　　冉安昌：巴东（今重庆奉节）人，唐代大臣。隋末据巴东，高祖初归唐，为招尉使，官至潭州都督。冉实：夔州云安（今重庆云阳）人，唐代官吏。弱冠登进士第，累迁并府参军。中八科举，授绵州司户，转扬府仓曹。又举四科，除益州导江令。所任有能名，官至河州刺史。其子冉祖雍亦出身进士，官至刑部侍郎，后因倡饮省中，被赐死。冉、冉：播州（今贵州遵义）人，宋代名士。兄弟二人同俱文武才，辟召不起。余安抚四川，筑招贤馆以礼士，兄弟俩遂去进见，为画筑城钓鱼山之策，后果赖之。冉通：四川万县（今重庆万州区）人，明代官吏。洪武三十年二甲第三名进士，官兵科都给事中。面折廷诤，颇有直声。好学问，读书不辏冉觐祖：河南中牟人，清代学者。康熙二年乡试第一，康熙三十年三甲第十三名进士，授检讨。有《四书五经详说》、《阳明疑案》、《正蒙补训》等。冉文俦：四川通江人，清代白莲教徒。嘉庆元年起事，聚众数万，为通江蓝号元帅，转战川东、北。三年后，在一次突围中阵亡。其侄冉天元继为元帅，继续反清，部众盛时达十万以上，攻杀清军猛将朱射斗，与诸部首领大会南充，威震一时，后在江油被德楞泰所擒，遇害于成都。</p>
+<p><strong>迁徙分布</strong><br/>　　1、东鲁郡，泛指今山东济南、泰安、衮州等地；<br/>　　2、武陵郡，汉代置郡，治所在义陵（故城在今湖南溆浦南），辖境相当今湖北长阳、五峰、鹤峰、来凤等县，湖南沅江流域以西，贵州东部及广西三江，龙胜等地；<br/>　　3、魏郡，汉代置郡，治所在邺县（故城在今河北临漳西南），辖境相当今河北武安以南，涉县以东，山东冠县以西，河南滑县以北地区。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2606.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2608.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

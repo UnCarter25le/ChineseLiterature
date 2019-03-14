@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+中论·下卷·愼所從_古诗文网
+</title>
+<meta content="夫人之所常稱曰：明君舍己而從人，故其國治以安；闇君違人而專己，故其國亂以危。乃一隅之偏說也，非大道之至論也。凡安危之勢，治亂之分，在乎知所從，不在乎必從人也。人君莫不有從人，然或危" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14793.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>下卷·愼所從</b></span>
+<a href="javascript:PlayBookv(14793)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14793" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14793" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%b9%b2">徐干</a></p>
+<div class="contson">
+<p>　　夫人之所常稱曰：明君舍己而從人，故其國治以安；闇君違人而專己，故其國亂以危。乃一隅之偏說也，非大道之至論也。凡安危之勢，治亂之分，在乎知所從，不在乎必從人也。人君莫不有從人，然或危而不安者，失所從也；莫不有違人，然或治而不亂者，得所違也。若夫明君之所親任也皆貞良聦智，其言也皆德義忠信，故從之則安，不從則危；闇君之所親任也皆佞邪愚惑，其言也皆姦回謟諛，從之安得治，不從之安得亂乎？昔齊桓公從管仲而安，二世從趙高而危；帝舜違四凶而治，殷紂違三仁而亂。故不知所從而好從人，不知所違而好違人，其敗一也。孔子曰："知不可由，斯知所由矣。"</p>
+<p>　　夫言或似是而非實，或似美而敗事，或似順而違道，此三者非至明之君不能察也，燕昭王使樂毅伐齊，取七十餘城，莒與即墨未拔。昭王卒，惠王爲太子時與毅不平，即墨守者田單縱反間於燕，使宣言曰"王已死。城之不拔者二（原作"三"，據四庫本改。徐湘琳曰："据上文'莒與即墨未拔'，故'三'當作'二'。"按徐本正文未改，蓋未參四庫本耳。）耳。樂毅與新王有隙，懼誅而不敢歸。外以伐齊爲名，實欲因齊人未附故且緩即墨以待其事。齊人所懼，惟恐他將之來，即墨殘矣。"惠王以爲然，使騎劫代之，大爲田單所破。此則似是而非實者也。燕相子之有寵於王，欲專國政，人爲之言於燕王噲曰："人謂堯賢者，以其讓天下於許由也。許由不受，有讓天下之名而實不失天下。今王以國讓於相子之，子之必不敢受，是堯與王同行也（徐湘琳曰："當作'王與堯同行'。"燕噲從之，其國大亂。此則似美而敗事者也。齊景公欲廢太子陽生而立庶子荼，謂大夫陳乞曰："吾欲立荼，如何？"乞曰："所樂乎爲君者，欲立則立之，不欲立則不立。君欲立之，則臣請立之。"於是立荼。此則似順而違道者也。</p>
+<p>　　且夫言畫施於當時事，效在於後日。後日遲至，而當時速决也。故今巧者常勝，拙者常負，其勢然也，此謂中主之聽也；至於闇君，則不察辭之巧拙也，二策並陳而從其順己之欲者（"順"字原缺，據程本，四庫本補。）；明君不察辭之巧拙也，二策並陳而從其致己之福者。故高祖、光武，能收群策之所長，棄群策之所短，以得四海之内，而立皇帝之號也。吳王夫差、楚懷王、襄王（"王"字原脱，據四庫本補。徐本作"楚懷襄王"，並曰："'懷'下當有一'王'字。一本作'楚懷王襄'，'襄'下亦脫一'王'字。"）棄伍員、屈平之良謀，收宰嚭、上官之諛言以失江漢之地，而喪宗廟之主。此二帝三王者，亦有從人，亦有違人，然而成敗殊馳、興廢異門者，見策與不見策耳。不知從人甚易，而見策甚難，夷考其驗，斯爲甚矣。</p>
+<p>　　問曰：夫人莫不好生而惡死，好樂而惡憂，然觀其舉措也，或去生而就死，或去樂而就憂，將好惡與人異乎？曰：非好惡與人異也，乃所以求生與求樂者失其道也，譬如迷者欲南而反北也。今略舉一驗以言之：昔項羽旣敗，爲漢兵所追，乃謂其餘騎曰："吾起兵至今八年，身經七十餘戰，所擊者服，遂覇天下。今而困於此，此天亡我，非戰之罪也。"斯皆存亡所由，欲南反北者也。夫攻戰，王者之末事也，非所以取天下也。王者之取天下也，有大本，有仁智之謂也。仁則萬國懷之，智則英雄歸之，御萬國，總英雄以臨四海，其誰與争？若夫攻城必拔，野戰必克，將帥之事也。羽以小人之器，闇於帝王之敎，謂取天下一由攻戰，矜勇有力，詐虐無親，貪嗇專利，功勤不賞。有一范増，旣不能用，又從而疑之，至令憤氣傷心，疽發而死。豪傑背叛，謀士違離，以至困窮，身爲之虜，然猶不知所以失之，反瞋目潰圍，斬將取旗，以明非戰之罪，何其謬之甚歟！高祖數其十罪，蓋其大略耳；若夫纎介之失，世所不聞，其可數哉！且亂君之未亡也，人不敢諫；及其亡也，人莫能窮。是以至死而不寤，亦何足怪哉！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14792.aspx">上一章</a>
+<a href="/guwen/book_176.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14794.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

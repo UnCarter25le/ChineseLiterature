@@ -1,0 +1,156 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·玉井奥诀三_古诗文网
+</title>
+<meta content="体制须广大。凡八字要看气象规模：体势豁达，天地相停，雄健壮实。五气顺克而有力，倒生逆化而有功，贵气往来不杂，必非寻常格调。又看八字大意体段：过于清，则或寒或薄。过于厚，则或浊或滞。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16659.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·玉井奥诀三</b></span>
+<a href="javascript:PlayBookv(16659)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16659" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16659" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　体制须广大。</p>
+<p>　　凡八字要看气象规模：体势豁达，天地相停，雄健壮实。五气顺克而有力，倒生逆化而有功，贵气往来不杂，必非寻常格调。</p>
+<p>　　又看八字大意体段：</p>
+<p>　　过于清，则或寒或薄。</p>
+<p>　　过于厚，则或浊或滞。</p>
+<p>　　过于华丽，则或轻或浮。</p>
+<p>　　过于肆逸，则或流或荡。</p>
+<p>　　过于有情，则或滥或淫。</p>
+<p>　　过于孤介，则独立不能容物。</p>
+<p>　　过于刚勇，则或暴或燥而无涵养。</p>
+<p>　　过于柔懦，则或愚或钝而无作为。</p>
+<p>　　过于执实，则拘局而只知有己。</p>
+<p>　　过于轩豁，则图谋广而秀不能实。</p>
+<p>　　字面分先后。</p>
+<p>　　紧用字样，却远在后，或被别字闲神，占先隔了。若无伤犯，须得岁运生扶，方为全美。</p>
+<p>　　紧用字样，虽近且先，却有闲神字样，远处在后。动摇得切，妨碍用神字样。却看柱内，何者可以剿除去得。</p>
+<p>　　天干专论生克制化。</p>
+<p>　　生则相生，有生不欲生之理。</p>
+<p>　　克则相克，有克不欲克之情。</p>
+<p>　　制则如水克火，而有土制其煞，火能复生之情。</p>
+<p>　　化则水本克火，见木能窃其气，火转得生之理。</p>
+<p>　　余皆仿此。</p>
+<p>　　地支专取刑冲破害。</p>
+<p>　　刑者：如丑日戌时之类，则刑其出。如巳日寅时之类，则刑其归。恶物宜刑去，好物喜刑归。</p>
+<p>　　冲者：吉象宜冲凶象，贵气宜冲我家。</p>
+<p>　　破者：大概破坏其物，中间有吉有凶。</p>
+<p>　　如卯破午，乃乙克午家己土受破。若己土为煞，地面有力，岁运一露，其害无疑。若或不露，亦犹抱虎而眠。又看酉字有气无气，可能驭服否。</p>
+<p>　　又如己为贵气，露而有力有势，则亦因破而来为福。</p>
+<p>　　害者：六害之处，若带忌神凶煞。来克来窃，真为仇害。</p>
+<p>　　象成一家。不执贵气。</p>
+<p>　　人八字中，全无财官等件贵气，有安然奋发富贵者何？盖以相生之气，自立成象也。生意滔滔，有不尽之情，高远坚实如此。</p>
+<p>　　本象配本，如甲乙丙丁之类。</p>
+<p>　　化象配化，如戊癸丁壬之类。</p>
+<p>　　木火成象、土金成象、金水成象、水木成象、及有三象顺序者，同此法。如火土金象之类。</p>
+<p>　　又有四象和协生育者，亦然。如水木火土之类。</p>
+<p>　　根源一气。生物满盈。</p>
+<p>　　如金气正临天时建旺之序，既无克窃。其气一往据生其子者，水神也。水神既显露于干，或泛滥于支，物盛不祥。还得几多火土，能堤防倚赖哉。余仿此推。</p>
+<p>　　则造化盈亏之道，灼然有凭，万无一失也。</p>
+<p>　　八法关键。五气开端。</p>
+<p>　　八法已论于前，五气有聚散、完缺、实虚、深浅、敌交、狭广、轻重、厚薄、寒和之不同。干支俱有力，克物归窠。</p>
+<p>　　精神强健为聚，喜吉神，忌凶煞。亦要辅佐，吉神冲而无义。</p>
+<p>　　刑而不归为散，宜凶煞，忌吉神。</p>
+<p>　　金木水火土俱全顺序为气完。</p>
+<p>　　五行欠一以待岁运补足为气缺。</p>
+<p>　　实则如甲戌见丙寅之类，有合有生，局于一象，滞于一方。柱中若无激扬昂藏之类，如此则不过一富翁而已。即有体无用，纵贵亦尸位素餐。如柱中土气太重，略见官来即贵。余仿此。</p>
+<p>　　虚则如土入酉寅、木临乙巳、金到辰亥、水向卯戌、火居丑申。气虚而不能确固。余仿此。</p>
+<p>　　气深如木之本象化象近清明节。</p>
+<p>　　气浅如木之本象化象方得雨水节之例。</p>
+<p>　　气敌如辛酉见乙卯，大概凶甚。若见己未己丑，转有凭籍，反吉。如无凭依，又看宾主强弱，主弱则为鬼象，宾弱则为财象。</p>
+<p>　　交如丁巳见辛亥，丙戌见己丑，庚辰见癸未之类。仍分何者气旺而言。</p>
+<p>　　狭如用神局于一二支神之情，狭亦有生旺，引用处其气却来不得。</p>
+<p>　　广则引用处其气来得，生源处仍有精神，通三合之气，或通六合气。</p>
+<p>　　轻如木之本象化象，却入金乡，又非天时之类。</p>
+<p>　　重如木象逢寅卯，乃本象地支之类。</p>
+<p>　　薄如木象逢自家死绝之地面，仍非天时之类。</p>
+<p>　　厚如木象逢库墓长生之地，或得天时，或他干来助之类。</p>
+<p>　　寒如木枯火散，金寒水冷土冻。天干休囚，地支死绝之类。</p>
+<p>　　和则有合有生，有情有助，有临官帝旺，无休废死绝。</p>
+<p>　　或有旺相之神来扶助，或当天时前后，有气满而盛。乃物无依藉堤防者，不久而倾。</p>
+<p>　　有气亏而衰，乃根本不实。仍未得时，气亦不足。又无生扶，此等废物，何可胜言。</p>
+<p>　　有气衰而久不得天时，又临死败。却有暗干相生，引归生旺之乡。</p>
+<p>　　有气旺非长，始则气焰奋发，通舒自若。终则收敛归藏，去处竟无依靠。易于散漫，盛意无源。殊乏转生，乘势无续。</p>
+<p>　　有气嫩易催。方来之气，人皆以为旺相之象。中间若逢，顽厚之气克窃者，凶不可言。</p>
+<p>　　有气过耐远。过去气候俱曰休废，又云成功者退。殊不知余气，忽被旺处资来，绾动生意，气返实处，愈耐岁寒。余气即休废。别化他象故也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16658.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16660.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

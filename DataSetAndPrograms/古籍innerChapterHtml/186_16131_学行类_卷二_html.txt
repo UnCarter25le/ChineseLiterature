@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·学行类·卷二_古诗文网
+</title>
+<meta content="◎傅青主卫生堂药铺太原古晋阳城中，有傅先生卖药时立牌“卫生堂药铺”五字。乃先生书也。青主善医而不耐俗，病家多不能致。然素喜看花，置病者于有花木寺观中，令善先生者诱致之，闻病人呻吟，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16131.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>学行类·卷二</b></span>
+<a href="javascript:PlayBookv(16131)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16131" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16131" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎傅青主卫生堂药铺</p>
+<p>　　太原古晋阳城中，有傅先生卖药时立牌“卫生堂药铺”五字。乃先生书也。青主善医而不耐俗，病家多不能致。然素喜看花，置病者于有花木寺观中，令善先生者诱致之，闻病人呻吟，僧即言羁旅无力延医耳，先生即为治剂，无不应手而愈。</p>
+<p>　　◎识中气</p>
+<p>　　诗文字画，皆有中气行乎其间，故有识者即能觇人穷通寿夭。王椒畦文学浩，尝述傅青主征君一事。征君偶于醉后作草书而卧，其子眉亦能书，见而效之，潜以己书易置几上。征君醒而起，见几上书，愀然不乐。眉请其故，征君叹曰：“我昨醉后偶书，今起视之，中气已绝，殆将死矣！”眉惊愕，跽白易书事。征君曰：“然则汝不食麦矣！”后果如言。盖征君精于理气数之学，故能识微知著如此。</p>
+<p>　　◎徵君有子</p>
+<p>　　傅山，字青主，一字公之他，太原人。母梦老比丘而生，生不复啼。一瞽僧至门云：“既来，何必不啼？”乃啼。六岁食黄精，不乐谷食，强之乃复食。读十三经、诸子史，如宿通者。崇祯中袁临侯（继咸）督学山西，为巡按御史张孙振诬劾，被逮，山橐饘左右，伏阙上书，白其冤。马君常（世奇）作《义士传》，比之斐瑜、魏劭。乱后，梦天帝赐以黄冠衲衣，遂为道士装。医术入神，有司以医见则见，不然不见也。康熙己未，征聘至京师，以老病辞，与范阳杜越君异，俱授中书舍人归。山工分隶及金石篆刻，画入逸品。子眉，字寿毛，亦工画，作古赋数十篇。常粥药四方，父子共挽一车，暮抵逆旅，辄篝灯课读经、史、骚、选诸书，诘旦成诵乃行，否即予杖。</p>
+<p>　　◎不应博学鸿词</p>
+<p>　　傅征君山，字青主，山西人，擅皇甫元晏之重名，秉司马子徽之高节，兼以笔精墨妙，为世所珍。康熙己未，诏求博学鸿儒，当事竞为推荐，青主以老病辞，强之再三，乃令其子执鞭，乘一驴车至崇文门外，称疾荒寺。八旗自王侯以下，及汉大臣之在朝者，履满其门。坚卧不起，朝廷遂听其还乡。是年应试中选者，俱授翰林院检讨，然其人各以文学自负，又复拓落不羁，与科第进者，前后相轧，疑谤旋生，多不能久于其位。数年以后，鸿儒扫迹于木天矣。天下莫不叹征君贞志迈俗，而有先见之明也。</p>
+<p>　　◎二曲讲学</p>
+<p>　　二曲主讲关中，康熙中，初以隐逸荐，后以鸿博征，皆称病力辞。自谓不幸有此名，乃学道不醇，洗心不密，不能自晦所致。遂杜门断交接，朋友诣之者绝不得见。一日，白昆山顾炎武、元和惠周惕至，倒屣迎之，谈宴极欢。一时门外瞻望颜色、伺候车骑者骈肩累迹，几如荀、陈会坐，李、郭同舟，东汉风流，再见今日也。</p>
+<p>　　◎阎百师幼钝</p>
+<p>　　百诗先生为清代经学大师，记诵精博，而其天质实奇钝。幼受书，读百遍始略上口，性又善病，母禁之读。遂暗记，不复出声。如是者十年。一日，自觉豁然，再观旧所研究本，了无疑滞。盖积苦精力之应也。世之以下愚自诿或托词因病废学者，观于先生，愧可知已。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16130.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16132.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

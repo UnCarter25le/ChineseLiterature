@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+周礼·天官冢宰·小宰_古诗文网
+</title>
+<meta content="小宰之职，掌建邦之宫刑，以治王宫之政令。凡宫之纠禁，掌邦之六典、八法、八则之贰，以逆邦国、都鄙、官府之治。执邦之九贡、九赋、九式之贰，以均财节邦用。以官府之六叙正群吏：一曰以叙正其" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3188.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1718" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>天官冢宰·小宰</b></span>
+<a href="javascript:PlayBookv(3188)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3188" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1718)" id="leftbtn1718" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3188" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%91%a8%e5%85%ac%e6%97%a6">周公旦</a></p>
+<div class="contson">
+<p>　　小宰之职，掌建邦之宫刑，以治王宫之政令。凡宫之纠禁，掌邦之六典、八法、八则之贰，以逆邦国、都鄙、官府之治。执邦之九贡、九赋、九式之贰，以均财节邦用。以官府之六叙正群吏：一曰以叙正其位，二曰以叙进其治，三曰以叙作其事，四曰以叙制其食，五曰以叙受其会，六曰以叙听其情。以官府之六属举邦治：一曰天官，其属六十，掌邦治，大事则从其长，小事则专达。二曰地官，其属六十，掌邦教，大事则从其长，小事则专达。三曰春官，其属六十，掌邦礼，大事则从其长，小事则专达。四曰夏官，其属六十，掌邦政，大事则从其长，小事则专达。五曰秋官，其属六十，掌邦刑，大事则从其长，小事则专达。六曰冬官，其属六十，掌邦事，大事则从其长，小事则专达。以官府之六职辨邦治：一曰治职，以平邦国，以均万民，以节财用。二曰教职，以安邦国，以宁万民，以怀宾客。三曰礼职，以和邦国，以谐万民，以事鬼神。四曰政职，以服邦国，以正万民，以聚百物。五曰刑职，以诘邦国，以纠万民，以除盗贼。六曰事职，以富邦国，以养万民，以生百物。以官府之六联合邦治：一曰祭祀之联事，二曰宾客之联事，三曰丧荒之联事，四曰军旅之联事，五曰田役之联事，六曰敛弛之联事，凡小事皆有联。以官府之八成经邦治：一曰听政役以比居，二曰听师田以简稽，三曰听闾里以版图，四曰听称责以傅别，五曰听禄位以礼命，六曰听取予以书契，七曰听卖买以质剂，八曰听出入以要会。以听官府之六计弊群吏之治：一曰廉善，二曰廉能，三曰廉敬，四曰廉正，五曰廉法，六曰廉辨。以法掌祭祀、朝觐、会同、宾客之戒具。军旅、田役、丧荒，亦如之。七事者，令百官府共其财用，治其施舍，听其治讼。凡祭祀，赞玉币爵之事，祼将之事。凡宾客，赞祼。凡受爵之事、凡受币之事、丧荒，受其含襚、币玉之事。月终，则以官府之叙，受群吏之要。赞冢宰受岁会。岁终，则令群吏致事。正岁，帅治官之属而观治象之法，徇以木铎，曰：不用法者，国有常刑。乃退，以宫刑宪禁于王宫，令于百官府曰：各修乃职，考乃法，待乃事，以听王命。其有不共，则国有大刑。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3187.aspx">上一章</a>
+<a href="/guwen/book_24.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3189.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1718" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

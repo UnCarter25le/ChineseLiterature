@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+颜氏家训·治家篇_古诗文网
+</title>
+<meta content="夫风化者，自上而行于下者也，自先而施于后者也。是以父不慈则子不孝，兄不友则弟不恭，夫不义则妇不顺矣。父慈而子逆，兄友而弟傲，夫义而妇陵，则天之凶民，乃刑戮之所摄，非训导之所移也。答" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4158.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2758" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>治家篇</b></span>
+<a href="javascript:PlayBookv(4158)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4158" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2758)" id="leftbtn2758" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4158" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%a2%9c%e4%b9%8b%e6%8e%a8">颜之推</a></p>
+<div class="contson">
+<p>　　夫风化者，自上而行于下者也，自先而施于后者也。是以父不慈则子不孝，兄不友则弟不恭，夫不义则妇不顺矣。父慈而子逆，兄友而弟傲，夫义而妇陵，则天之凶民，乃刑戮之所摄，非训导之所移也。</p>
+<p>　　答怒废于家，则竖子之过立见；刑罚不中，则民无所措手足。治家之宽猛，亦犹国焉。</p>
+<p>　　孔子曰：“奢则不孙，俭则固。与其不孙也，宁固。”又云：“如有周公之才之美，使骄且吝，其余不足观也已。”然则可俭而不可吝已。俭者，省奢，俭而不吝，可矣。</p>
+<p>　　生民之本，要当稼稽而食，桑麻以衣。蔬果之畜，园场之所产；鸡豚之善，树圈之所生。复及栋宇器械，樵苏脂烛，莫非种殖之物也。至能守其业者，闭门而为生之具以足，但家无盐井耳。令北土风俗，率能躬俭节用，以赡衣食。江南奢侈，多不逮焉。</p>
+<p>　　世间名士，但务宽仁，至于饮食饷馈，僮仆减损，施惠然诺，妻子节量，狎侮宾客，侵耗乡党，此亦为家之巨蠹矣。</p>
+<p>　　裴子野有疏亲故属饥寒不能自济者。皆收养之。家素清贫，时逢水旱，二石米为薄粥，仅得遍焉，躬自同之，常无厌色。邺下有一领军，贪积已甚，家童八百，誓满一千，朝夕每人肴膳，以十五钱为率，遇有客旅，更无以兼。后坐事伏法，籍其家产，麻鞋一屋，弊衣数库，其余财宝，不可胜言。南阳有人，为生奥博，性殊俭吝。冬至后女婿谒之，乃设一铜瓯酒，数脔獐肉，婿恨其单率，一举尽之，主人愕然，俯仰命益，如此者再，退而责其女曰：“某郎好酒，故汝常贫。”及其死后，诸子争财，兄遂杀弟。</p>
+<p>　　妇主中馈，惟事酒食衣服之礼耳，国不可使预政，家不可使干蛊。如有聪明才智，识达古今，正当辅佐君子，助其不足。必无此鸡晨鸣，以致祸也。</p>
+<p>　　江东妇女，略无交游，其婚姻之家，或十数年间来相识者，惟以信命赠遗，致殷勤焉。邺下风俗，专以妇持门户，争讼曲直，造请逢迎，车乘填街街，绮罗盈府寺，代子求官，为夫诉屈，此乃恒代之遗风平？南间贫素，皆事外饰，车乘衣服，必贵整齐，家人妻子，不免饥寒。河北人事，多由内政，绮罗金翠，不可废阙，羸马悴奴，仅充而已，倡和之礼，或尔汝之。</p>
+<p>　　河北妇人，织任组训之事，黼黻 锦绣罗绮之工，大优于江东也。</p>
+<p>　　太公曰：“养女太多，一费也。” 陈蕃曰：“盗不过五女之门。”女之为累，亦以深矣。然天生蕃民，先人传体，其如之何？世人多不举女，贼行骨肉，岂当如此而望福于天乎？吾有疏亲，家饶妓媵，诞育将及，便遣阍竖守之，体有不安，窥窗倚户，若生女者，辄持将去，母随号泣，使人不忍闻也。</p>
+<p>　　妇人之性，率宠子婿而虐儿妇，笼婿则兄弟之怨生焉，虐妇则姊妹之谗行焉。然则女之行留，皆得罪于其家者，母实为之。至有谚曰：“落索阿姑餐。”此其相报也。家之常弊，可不诫哉！</p>
+<p>　　婚姻素对，靖候成规。近世嫁娶，遂有卖女纳财，买妇输绢，比量父祖，计较锱铢，责多还少，市井无异。或猥婿在门，或傲妇擅室，贪荣求利，反招羞耻，可不慎欤？</p>
+<p>　　借人典籍，皆须爱护，先有缺坏，就为科治，此亦士大夫百行之一也。济阳江禄，读书未竟，虽有急速，必待卷束整齐，然后得起，故无损败，人不厌其求假焉。或有狼藉几案，分散部帙，多为童幼婢妾之所点污。风雨虫鼠之所毁伤，实为累德。吾每读圣人之书，未尝不肃敬对之。其故纸有《五经》词义及贤达姓名，不敢秽用也。</p>
+<p>　　吾家巫觋祷请，绝于言议；符书章酸，亦无祈焉。并汝曹所见也，勿为妖妄之费。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4157.aspx">上一章</a>
+<a href="/guwen/book_47.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4159.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2758" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

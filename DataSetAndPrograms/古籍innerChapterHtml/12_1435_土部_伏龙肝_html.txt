@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·土部·伏龙肝_古诗文网
+</title>
+<meta content="释名指灶里正对锅底的黄土，亦名灶心土。气味辛、微湿、无毒。主治突然昏倒。用伏龙肝研末，一鸡蛋大的分量冲水服，引起呕吐。中风口噤(口不能言，心神恍惚，手足不能随意运动；或腹中痛满，时" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1435.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>土部·伏龙肝</b></span>
+<a href="javascript:PlayBookv(1435)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1435" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1435" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>指灶里正对锅底的黄土，亦名灶心土。</p>
+<p><strong>气味</strong><br/>辛、微湿、无毒。</p>
+<p><strong>主治</strong><br/>突然昏倒。用伏龙肝研末，一鸡蛋大的分量冲水服，引起呕吐。<br/>中风口噤(口不能言，心神恍惚，手足不能随意运动；或腹中痛满，时而晕绝)。用伏龙肝五升，加水八升，搅清后取上层饮之。<br/>神智狂乱，不能识人。用伏龙肝研末，水冲服一茶匙。一日服三次。<br/>小儿夜啼水止。用伏龙肝二钱、朱砂一钱、麝香少量，共研为末，加蜜，做成绿豆大的丸子。每次服五丸，桃符汤送下。<br/>舌头变硬，不能转动。用伏龙肝调牛蒡汁涂搽。<br/>冷热心痛。用伏龙肝末一茶匙，是热痛则以热水湿烫后服，是冷痛则用酒冲服。<br/>反胃。用陈年的伏龙肝，研末，米汤送下。每次服三钱。<br/>突然咳嗽不止。用伏龙肝一分，加豆豉七分，捣成丸子，如梧子大。每次服四十丸。<br/>吐血 血，心腹疼痛。用伏龙肝与多年烟壁土等分。每次取五钱，加两碗开水煮，煮成一碗时，等澄清，饮上层清水，空心服。另吃些白粥补身体。<br/>妇女血漏，淋漓不止。用伏龙肝半两，阿胶、炒蚕沙各一两，共研为末。每次服两三钱，酒送下，直到病痊愈为止。<br/>妇女赤白带，日久黄瘁。用伏龙肝、棕榈灰、屋梁上尘，等分，各炒到烟尽，共研为末，加龙脑、麝香各少许。每服三钱，湿酒或淡醋汤送下。患赤白带有一年之久者，照此法治疗，半月可愈。<br/>产后血气攻心，恶物不下。用伏龙肝研末和酒服，每服二钱，泻出恶物即愈。13、子死腹中，母气欲绝。用伏龙肝末三钱，水调服。<br/>横生逆产。用伏龙肝末，酒调服，每服一钱。同时，用灶土搽母脐。<br/>胞衣不下。用伏龙肝，加醋调成小团，塞入产妇脐中。内服甘草汤三四合。<br/>食物中毒。用伏龙肝末，如鸡蛋大小，水冲服，吐出便愈。<br/>冷气入腹，肿满难当，以及男子阴部突然肿痛等。用伏龙肝调鸡蛋白涂搽。<br/>耳内流脓。用棉花裹伏龙肝末塞耳内，一天换三次。<br/>小儿脐疮。用伏龙肝末敷上。<br/>小儿丹毒。用陈年伏龙肝末和屋漏水(亦可用新汲水、鸡蛋白或油)调敷。药干即换。<br/>小儿热疖。用伏龙肝末、生椒末等分，和醋调敷。<br/>臁疮久烂。用陈年伏龙肝末、黄 、黄丹、赤石脂、轻粉等分，调清油，敷布上，贴患处。如发痒，须忍住，数日可愈。<br/>一切痈肿。用伏龙肝加蒜捣粒成泥(加鸡蛋黄亦可)贴患处。干了就换。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1434.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1436.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+食疗本草·卷中·鹿_古诗文网
+</title>
+<meta content="（一）鹿茸∶主益气。不可以鼻嗅其茸，中有小白虫，视之不见，入人鼻必为虫颡，药不及也。〔嘉〕（二）鹿头肉∶主消渴，多梦梦见物。〔心·嘉〕（三）又，蹄肉∶主脚膝骨髓中疼痛。〔" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16848.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷中·鹿</b></span>
+<a href="javascript:PlayBookv(16848)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16848" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16848" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%9f%e8%af%9c">孟诜</a></p>
+<div class="contson">
+<p>　　（一）鹿茸∶主益气。不可以鼻嗅其茸，中有小白虫，视之不见，入人鼻必为虫颡，药不及也。〔嘉〕</p>
+<p>　　（二）鹿头肉∶主消渴，多梦梦见物。〔心·嘉〕</p>
+<p>　　（三）又，蹄肉∶主脚膝骨髓中疼痛。〔心·嘉〕</p>
+<p>　　（四）肉∶主补中益气力。〔嘉〕</p>
+<p>　　（五）又，生肉∶主中风口偏不正。以生椒同捣敷之。专看正，即速除之。〔心·嘉〕</p>
+<p>　　（六）谨按∶肉∶九月后、正月前食之，则补虚羸瘦弱、利五脏，调血脉。自外皆不食，发冷病。〔嘉·证〕</p>
+<p>　　（七）角∶主痈疽疮肿，除恶血。若腰脊痛、折伤，多取鹿角并截取尖，错为屑，以白蜜（五升）淹浸之，微火熬令小变色，曝干，（更）捣筛令细，以酒服之。（令人）轻身益力，强骨髓，补阳道、（绝伤）。〔嘉·证〕</p>
+<p>　　（八）角∶烧飞为丹，服之至妙。但于瓷器中或瓦器中，寸截，用泥裹，大火烧之一日，如玉粉。亦可炙令黄，末，细罗，酒服之益人。若欲作胶者，细破寸截，以 水浸七日，令软方煮也。〔证〕</p>
+<p>　　（九）又，妇人梦与鬼交者，鹿角末三指一撮，和清酒服，即出鬼精。〔嘉〕</p>
+<p>　　（十）又，女子胞中余血不尽、欲死者，以清酒和鹿角灰服方寸匕，日三夜一，甚效。〔嘉〕</p>
+<p>　　（十一）又，小儿以煮小豆汁和鹿角灰，安重舌下，日三度。〔嘉〕</p>
+<p>　　（十二）骨∶温。主安胎，下气，杀鬼精，可用浸酒。凡是鹿白臆者，不可食。〔证〕</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16847.aspx">上一章</a>
+<a href="/guwen/book_194.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16849.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

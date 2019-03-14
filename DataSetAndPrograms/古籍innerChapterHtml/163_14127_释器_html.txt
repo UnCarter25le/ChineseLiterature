@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+尔雅·释器_古诗文网
+</title>
+<meta content="木豆谓之豆，竹豆谓之笾，瓦豆谓之登。盎谓之缶，瓯瓿谓之瓵，康瓠谓之甈。斪属谓之定，斫谓之□，&lt;庣斗&gt;谓之？。□罟谓之九罭，九罭，鱼网也。嫠妇之笱谓之罶。罺谓之汕。篧谓之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14127.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>释器</b></span>
+<a href="javascript:PlayBookv(14127)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14127" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14127" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+木豆谓之豆，竹豆谓之笾，瓦豆谓之登。<br/>盎谓之缶，瓯瓿谓之瓵，康瓠谓之甈。<br/>斪属谓之定，斫谓之□，&lt;庣斗&gt;谓之？。<br/>□罟谓之九罭，九罭，鱼网也。<br/>嫠妇之笱谓之罶。<br/>罺谓之汕。<br/>篧谓之罩，槮谓之涔。<br/>鸟罟谓之罗，兔罟谓之罝，麋罟谓之罞，彘罟谓之{□□}，鱼罟谓之罛。<br/>繴谓之罿，罿，罬也。罬谓之罦，罦，覆车也。<br/>絇谓之救。<br/>律谓之分。<br/>大版谓之业。<br/>绳之谓之缩之。<br/>彝、卣、罍，器也。<br/>小罍谓之坎。<br/>衣?谓之衣儿，黼领谓之襮，缘谓之纯，袕谓之?。<br/>衣{此目}谓之襟，衱谓之裾，衿谓之袸。<br/>佩衿谓之褑。<br/>执衽谓之袺，扱衽谓之襭，衣蔽前谓之襜。<br/>妇人之禕谓之缡。缡，緌也。<br/>裳削幅谓之?。<br/>舆革，前谓之鞎，后谓之笰；竹，前谓之御，后谓之蔽。<br/>环谓之捐，镳谓之钀，载辔谓之轙，辔首谓之革。<br/>餀谓之食彖，食噎谓之餲。<br/>抟者谓之□兰，米者谓之糪，肉谓之败，鱼谓之馁。<br/>肉曰脱之，鱼曰斫之。<br/>冰，脂也。<br/>肉谓之羹，鱼谓之鮨，肉谓之醢，有骨者谓之臡。<br/>康谓之蛊，淀谓之垽。<br/>鼎绝大谓之鼐，圆圜上谓之鼒，附耳外谓之釴，款足者谓之鬲，&lt;鬲曾&gt;谓之[1234]，[1234]，鉹也。<br/>璲，瑞也。<br/>玉十谓之区。<br/>羽本谓之翮，一羽谓之箴，十羽谓之縳，百羽谓之緷。<br/>木谓之虡。<br/>旄谓之{艸罢}。<br/>菜谓之簌。<br/>白盖谓之苫。<br/>黄金谓之璗，其美者谓之鏐。<br/>白金谓之银，其美者谓之镣。<br/>鉼金谓之钣，锡谓之鈏。<br/>象谓之鹄，角谓之{□角}，犀谓之剒，木谓之剫，玉谓之雕，金谓之镂，木谓之刻，骨谓之切，像谓之磋，玉谓之琢，石谓之磨。<br/>璆、琳，玉也。<br/>简谓之毕，不律谓之笔，灭谓之点。<br/>绝泽谓之铣。<br/>金镞剪羽谓之鍭，骨镞不剪羽谓之志。<br/>弓有缘者谓之弓，无缘者谓之弭。<br/>以金者谓之铣，以蜃者谓之珧，以玉者谓之珪。<br/>珪大尺二寸谓之玠，璋大八寸谓之琡，璧大六寸谓之宣。<br/>肉倍好谓之璧，好倍肉之瑗，肉好若一谓之环。<br/>繸，绶也。<br/>一染谓之縓，再染谓之赬，三染谓之纁。<br/>青谓之葱，黑谓之黝。<br/>斧谓之黼，邸谓之柢，雕谓之琢，蓐谓之兹，竿谓之箷。<br/>箦谓之笫。<br/>革中绝谓之辨，革中辨谓之?。<br/>镂，锼也。<br/>卣，中尊也。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14126.aspx">上一章</a>
+<a href="/guwen/book_163.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14128.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

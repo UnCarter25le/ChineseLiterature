@@ -1,0 +1,162 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·调经论_古诗文网
+</title>
+<meta content="黄帝问曰：余闻刺法言，有余泻之，不足补之，何谓有余？何谓不足？岐伯对曰：有余有五，不足亦有五，帝欲何问？帝曰：愿尽闻之。岐伯曰：神有余有不足，气有余有不足，血有余有不足，形有余有不" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1025.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left846" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·调经论</b></span>
+<a href="javascript:PlayBookv(1025)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1025" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(846)" id="leftbtn846" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1025" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问曰：余闻刺法言，有余泻之，不足补之，何谓有余？何谓不足？</p>
+<p>　　岐伯对曰：有余有五，不足亦有五，帝欲何问？</p>
+<p>　　帝曰：愿尽闻之。</p>
+<p>　　岐伯曰：神有余有不足，气有余有不足，血有余有不足，形有余有不足，志有余有不足，凡此十者，其气不等也。</p>
+<p>　　帝曰：人有精气津液，四支、九窍、五藏十六部、三百六十五节，乃生百病，百病之生，皆有虚实。今夫子乃言有余有五，不足亦有五，何以生之乎？</p>
+<p>　　岐伯曰：皆生于五藏也。夫心藏神，肺藏气，肝藏血，脾藏肉，肾藏志，而此成形。志意通，内连骨髓，而成身形五藏。五藏之道，皆出于经隧，以行血气，血气不和，百病乃变化而生，是故守经隧焉。</p>
+<p>　　帝曰：神有余不足何如？</p>
+<p>　　岐伯曰：神有余则笑不休，神不足则悲。血气未并，五藏安定，邪客于形，洒淅起于毫毛，未入于经络也，故命曰神之微。</p>
+<p>　　帝曰：补泻奈何？</p>
+<p>　　岐伯曰：神有余，则泻其小络之血，出血勿之深斥，无中其大经，神气乃平。神不足者，视其虚络，按而致之，刺而利之，无出其血，无泄其气，以通其经，神气乃平。</p>
+<p>　　帝曰：刺微奈何？</p>
+<p>　　岐伯曰：按摩勿释，著针勿斥，移气于不足，神气乃得复。</p>
+<p>　　帝曰：善。有余不足奈何？</p>
+<p>　　岐伯曰：气有余则喘咳上气，不足则息利少气。血气未并，五藏安定，皮肤微病，命曰白气微泄。</p>
+<p>　　帝曰：补泻奈何？</p>
+<p>　　岐伯曰：气有余，则泻其经隧，无伤其经，无出其血，无泄其气。不足，则补其经隧，无出其气。</p>
+<p>　　帝曰：刺微奈何？</p>
+<p>　　岐伯曰：按摩勿释，出针视之，曰我将深之，适人必革，精气自伏，邪气散乱，无所休息，气泄腠理，真气乃相得。</p>
+<p>　　帝曰：善。血有余不足奈何？</p>
+<p>　　岐伯曰：血有余则怒，不足则恐。血气未并，五藏安定，孙络水溢，则经有留血。</p>
+<p>　　帝曰：补泻奈何？</p>
+<p>　　岐伯曰：血有余，则泻其盛经出其血。不足，则视其虚经内针其脉中，久留而视；脉大，疾出其针，无令血泄。</p>
+<p>　　帝曰：刺留血，奈何？</p>
+<p>　　岐伯曰：视其血络，刺出其血，无令恶血得入于经，以成其疾。</p>
+<p>　　帝曰：善。形有余不足奈何？</p>
+<p>　　岐伯曰：形有余则腹胀、泾溲不利，不足则四支不用。血气未并，五藏安定，肌肉蠕动，命曰微风。</p>
+<p>　　帝曰：补泻奈何？</p>
+<p>　　岐伯曰：形有余则泻其阳经，不足则补其阳络。</p>
+<p>　　帝曰：刺微奈何？</p>
+<p>　　岐伯曰：取分肉间，无中其经，无伤其络，卫气得复，邪气乃索。</p>
+<p>　　帝曰：善。志有余不足奈何？</p>
+<p>　　岐伯曰：志有余则腹胀飧泄，不足则厥。血气未并，五藏安定，骨节有动。</p>
+<p>　　帝曰：补泻奈何？</p>
+<p>　　岐伯曰：志有余则泻然筋血者，不足则补其复溜。</p>
+<p>　　帝曰：刺未并奈何？</p>
+<p>　　岐伯曰：即取之，无中其经，邪所乃能立虚。</p>
+<p>　　帝曰：善。余已闻虚之形，不知其何以生！</p>
+<p>　　岐伯曰：气血以并，阴阳相顷，气乱于卫，血逆于经，血气离居，一实一虚。血并于阴，气并于阳，故为惊狂；血并于阳，气并于阴，乃为炅中；血并于上，气并于下，心烦惋善怒；血并于下，气并于上，乱而喜忘。</p>
+<p>　　帝曰：血并于阴，气并于阳，如是血气离居，何者为实？何者为虚？</p>
+<p>　　岐伯曰：血气者，喜温而恶寒，寒则泣不能流，温则消而去之，是故气之所并为血虚，血之所并为气虚。</p>
+<p>　　帝曰：人之所有者，血与气耳。今夫子乃言血并为虚，气并为虚，是无实乎？</p>
+<p>　　岐伯曰：有者为实，无者为虚，故气并则无血，血并则无气，今血与气相失，故为虚焉。络之与孙脉俱输于经，血与气并，则为实焉。血之与气并走于上，则为大厥，厥则暴死，气复反则生，不反则死。</p>
+<p>　　帝曰：实者何道从来？虚者何道从去？虚实之要，愿闻其故。</p>
+<p>　　岐伯曰：夫阴与阳，皆有俞会，阳注于阴，阴满之外，阴阳匀平，以充其形，九候若一，命曰平人。夫邪之生也，或生于阴，或生于阳。其生于阳者，得之风雨寒暑；其生于阴者，得之饮食居处，阴阳喜怒。</p>
+<p>　　帝曰：风雨之伤人奈何？</p>
+<p>　　岐伯曰：风雨之伤人也，先客于皮肤，传入于孙脉，孙脉满则传入于络脉，络脉满则输于大经脉，血气与邪并客于分腠之间，其脉坚大，故曰实。实者外坚充满，不可按之，按之则痛。</p>
+<p>　　帝曰：寒湿之伤人奈何？</p>
+<p>　　岐伯曰：寒湿之中人也，皮肤不收，肌肉坚紧，荣血泣，卫气去，故曰虚。虚者聂辟，气不足，按之则气足以温之，故快然而不痛。</p>
+<p>　　帝曰：善。阴之生实奈何？</p>
+<p>　　岐伯曰：喜怒不节，则阴气上逆，上逆则下虚，下虚则阳气走之，故曰实矣。</p>
+<p>　　帝曰：阴之生虚奈何？</p>
+<p>　　岐伯曰：喜则气下，悲则气消，消则脉虚空，因寒饮食，寒气熏满，则血泣气去，故曰虚矣。</p>
+<p>　　帝曰：经言阳虚则外寒，阴虚则内热，阳盛则外热，阴盛则内寒，余已闻之矣，不知其所由然也。</p>
+<p>　　岐伯曰：阳受气于上焦，以温皮肤分肉之间。令寒气在外，则上焦不通，上焦不通，则寒气独留于外，故寒慄。</p>
+<p>　　帝曰：阴虚生内热奈何？</p>
+<p>　　岐伯曰：有所劳倦，形气衰少，谷气不盛，上焦不行，下脘不通，胃气热，热气熏胸中，故内热。</p>
+<p>　　帝曰：阳盛生外热奈何？</p>
+<p>　　岐伯曰：上焦不通利，则皮肤致密，腠理闭塞，玄府不通，卫气不得泄越，故外热。</p>
+<p>　　帝曰：阴盛生内寒奈何？</p>
+<p>　　岐伯曰：厥气上逆，寒气积于胸中而不泻，不泻则温气去，寒独留，则血凝泣，凝则脉不通，其脉盛大以濇，故中寒。</p>
+<p>　　帝曰：阴与阳并，血气以并，病形以成，刺之奈何？</p>
+<p>　　岐伯曰：刺此者，取之经隧，取血于营，取气于卫，用形哉，因四时多少高下。</p>
+<p>　　帝曰：血气以并，病形以成，阴阳相顷，补泻奈何？</p>
+<p>　　岐伯曰：泻实者气盛乃内针，针与气俱内，以开其门，如利其户；针与气俱出，精气不伤，邪气乃下，外门不闭，以出其疾；摇大其道，如利其路，是谓大泻，必切而出，大气乃屈。</p>
+<p>　　帝曰：补虚奈何？</p>
+<p>　　岐伯曰：持针勿置，以定其意，候呼内针，气出针入，针空四塞，精无从去，方实而疾出针，气入针出，热不得还，闭塞其门，邪气布散，精气乃得存，动气候时，近气不失，远气乃来，是谓追之。</p>
+<p>　　帝曰：夫子言虚实者有十，生于五藏，五藏五脉耳。夫十二经脉皆生其病，今夫子独言五藏，夫十二经脉者，皆络三百六十五节，节有病必被经脉，经脉之病，皆有虚实，何以合之？</p>
+<p>　　岐伯曰：五藏者，故得六府与为表里，经络支节，各生虚实，其病所居，随而调之。病在脉，调之血；病在血，调之络；病在气，调之卫；病在肉，调之分肉；病在筋，调之筋；病在骨，调之骨；燔针劫刺其下及与急者；病在骨，（火卒）针药熨；病不知所痛，两蹻为上；身形有痛，九候莫病，则缪刺之；痛在于左而右脉病者，巨刺之。必谨察其九候，针道备矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1024.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1026.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right846" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

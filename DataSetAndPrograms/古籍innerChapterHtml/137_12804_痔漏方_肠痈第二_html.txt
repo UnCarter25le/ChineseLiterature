@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·痔漏方·肠痈第二_古诗文网
+</title>
+<meta content="（论三首 方二十九首灸法二首）论曰∶卒得肠痈而不晓其病候，愚医治之错则杀人。肠痈之为病，小腹重而强，抑之则痛，小便数似淋，时时汗出，复恶寒，其身皮皆甲错，腹皮急，如肿状，其脉数者，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12804.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>痔漏方·肠痈第二</b></span>
+<a href="javascript:PlayBookv(12804)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12804" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12804" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（论三首 方二十九首灸法二首）</span></p>
+<p>　　论曰∶卒得肠痈而不晓其病候，愚医治之错则杀人。肠痈之为病，小腹重而强，抑之则痛，小便数似淋，时时汗出，复恶寒，其身皮皆甲错，腹皮急，如肿状，其脉数者，小有脓也。（《巢氏病源》云∶洪数者，已有脓也。）其脉迟紧者，未有脓也。甚则腹胀大，转侧闻水声，或绕脐生疮，或脓从脐中出，或小便出脓血。</p>
+<p>　　问曰∶宫羽林妇病，医脉之，何以知妇人肠中有脓，为下之即愈。师曰∶寸口脉滑而数，滑则为实，数则为热。滑则为荣。数则为卫。卫数下降，荣滑上升，荣卫相干，血为浊败，小 ?</p>
+<p>　　<strong>大黄牡丹汤<br/></strong>　　大黄（四两） 牡丹（三两） 芒硝（二两） 瓜子（一升） 桃仁（五十粒）</p>
+<p>　　上五味， 咀，以水五升煮取一升，顿服，当下脓血。（《金匮》方用牡丹一两，瓜子半升，芒硝二合。《删繁》方用瓜子半升，芒硝半合。刘涓子用硝石三合，云∶肠痈之病，小腹痞坚，或在膀胱左右，其色或白，坚大如掌热，小便欲调时自汗出，其脉迟坚者，未成脓，可下之，当有血。脉数脓成不复，可下。《肘后》名瓜子汤。）</p>
+<p>　　<strong>肠痈汤方<br/></strong>　　牡丹 甘草 败酱 生姜 茯苓（各二两） 桔梗 薏苡仁 麦门冬（各三两） 丹参 芍药（各四两） 生地黄（五两）</p>
+<p>　　上十一味， 咀，以水一斗，煮取三升，分三服，日三。</p>
+<p>　　又方 薏苡仁一升 牡丹 桃仁（各三两） 瓜瓣（二升）</p>
+<p>　　上四味， 咀，以水六升，煮取二升，分二服。（姚氏不用桃仁，用李仁。崔氏有芒硝二两，云∶腹中 痛，烦满不安，或胀满不下饮食，小便涩。此病多是肠痈，人多不识。妇人产凡肠痈，其状两耳叶纹理甲错，初患腹中苦痛，或绕脐有疮如粟皮热，便脓血出似赤白下，不治必死方∶ </p>
+<p>　　以马蹄灰，鸡子白和涂，即拔毒瓦斯，不过，再涂瘥。</p>
+<p>　<strong>　又方</strong> 以瓜子三升捣末，水三升，煮取一升半，分三服。</p>
+<p>　　<strong>又方</strong> 以马牙烧灰，鸡子和涂，干即易。</p>
+<p>　<strong>　灸肠痈方∶ </strong></p>
+<p>　　屈两肘，正灸肘头锐骨各百壮，则下脓血，即瘥。</p>
+<p>　　论曰∶产后宜勤挤乳，不宜令汁蓄积，蓄积不去，便结不复出，恶汁于内，引热温壮结坚牵掣痛，大渴引饮，乳急痛，手不得近，成妒乳，非痈也。急灸两手鱼际各二十七壮，断痈脉也。不复恶手近乳，汁亦自出，便可手助迮捋之，则乳汁大出，皆如脓状。内服连翘汤，外动经年月名为妒乳。妇人饮儿者，乳皆欲断，世谓苟抄乳是也，宜以赤龙皮汤及天麻汤洗之，敷二物飞乌膏，及飞乌散佳。若始作者，可敷黄芩漏芦散，及黄连胡粉散并佳。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12803.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12805.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

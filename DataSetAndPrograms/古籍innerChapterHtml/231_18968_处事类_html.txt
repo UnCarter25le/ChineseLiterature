@@ -1,0 +1,125 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+格言联璧·处事类_古诗文网
+</title>
+<meta content="处难处之事愈宜宽，处难处之人愈宜厚，处至急之事愈宜缓，处至大之事愈宜平，处疑难之际愈宜无意。无事时常照管此心，竞竞然若有事；有事时却放下此心，坦坦然若无事。无事如有事，提防才可弭意" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18968.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>处事类</b></span>
+<a href="javascript:PlayBookv(18968)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18968" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18968" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%87%91%e7%bc%a8">金缨</a></p>
+<div class="contson">
+<p>　　处难处之事愈宜宽，处难处之人愈宜厚，处至急之事愈宜缓，处至大之事愈宜平，处疑难之际愈宜无意。</p>
+<p>　　无事时常照管此心，竞竞然若有事；有事时却放下此心，坦坦然若无事。无事如有事，提防才可弭意外之变；有事如无事，镇定方可消局中之危。</p>
+<p>　　当平常之日，应小事，宜以应大事之心应之；盖天理无小，即人事观之，便有一个邪正，不可忽慢苟简，须审事之邪正以应之方可，及变故之来。处大事，宜以处小事之心处之；盖人事虽大，自天理观之，只有一个是非，不可惊惶失措，但凭理之是非以处之便得。</p>
+<p>　　缓事宜急干，敏则有功；急事宜缓办，忙则多错。</p>
+<p>　　不自反者，看不出一身病痛；不耐烦者，做不成一件事业。</p>
+<p>　　日日行不怕千万里，常常做不怕千万事。</p>
+<p>　　必有容，德乃大；必有忍，事乃济。</p>
+<p>　　过去事，丢得一节是一节；现在事，了得一节是一节；未来事，省得一节是一节。</p>
+<p>　　强不知以为知，此乃大愚；本无事而生事，是谓薄福。</p>
+<p>　　居处必先精勤，乃能闲暇。凡事务求停妥，然后逍遥。</p>
+<p>　　天下最有受用，是一闲字，闲字要从勤中得来；天下最讨便宜，是一勤字，勤字要从闲中做出。</p>
+<p>　　自己做事，切须不可迂滞，不可反复，不可琐碎；代人做事，极要耐得迂滞，耐得反复，耐得琐碎。</p>
+<p>　　谋人事如己事，而后虑之也审；谋己事如人事，而后见之也明。</p>
+<p>　　无心者公，无我者明。</p>
+<p>　　置其身于是非之外，而后可以折是非之中；置其身于利害之外，而后可以观利害之变。</p>
+<p>　　在事者，当置身利害之外；建言者，当设身利害之中。</p>
+<p>　　无事时戒一“偷”字，有事时戒一“乱”字。</p>
+<p>　　将事而能弭，遇事而能救，既事而能挽，此之谓达权，此之谓才。未事而知来，始事而要终，定事而知变，此之谓长虑，此之谓识。</p>
+<p>　　提得起，放得下，算得到，做得完，看得破，撇得开。</p>
+<p>　　救已败之事者，如驭临崖之马，休轻策一鞭；图垂成之功者，如挽上滩之舟，莫少停一棹。</p>
+<p>　　以真实肝胆待人，事虽未必成功，日后人必见我之肝胆；以诈伪心肠处事，人即一时受惑，日后人必见我之心肠。</p>
+<p>　　天下无不可化之人，但恐诚心未至；天下无不可为之事，只怕立志不坚。</p>
+<p>　　处人不可任己意，要悉人之情；处事不可任己见，要悉事之理。</p>
+<p>　　见事贵乎理明，处事贵乎心公。</p>
+<p>　　于天理汲汲者，于人欲必淡；于私事耽耽者，于公务必疏；于虚文熠熠者，于本实必薄。</p>
+<p>　　君子当事，则小人皆为君子，至此不为君子，真小人也。小人当事，则中人皆为小人，至此不为小人，真君子也。</p>
+<p>　　居官先厚民风，处事先求大体。</p>
+<p>　　论人当节取其长，曲谅其短；做事必先审其害，后计其利。</p>
+<p>　　小人处事，于利合者为利，于利背者为害；君子处事，于义合者为利，于义背者为害。</p>
+<p>　　只人情世故熟了，甚么大事做不到；只天理人心合了，甚么好事做不成。</p>
+<p>　　只一事不留心，便有一事不得其理；只一物不留心，便有一物不得其所。</p>
+<p>　　事到手，且莫急，便要缓缓想；想到时，切莫缓，便要急急行。</p>
+<p>　　事有机缘，不先不后，刚刚凑巧。命若蹭蹬，走来走去，步步踏空。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18967.aspx">上一章</a>
+<a href="/guwen/book_231.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18969.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

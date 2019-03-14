@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+尔雅·释畜_古诗文网
+</title>
+<meta content="騊駼，马。野马。駮，如马，倨牙，食虎豹。騉蹄，趼，善升甗。騉駼，枝蹄，趼，善升甗。小领，盗骊。绝有力□戎。膝上皆白，惟□。四骹皆白，驓。四蹢皆白，首。前足皆白，騱。后足皆白，翑。前" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14140.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>释畜</b></span>
+<a href="javascript:PlayBookv(14140)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14140" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14140" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+騊駼，马。<br/>野马。<br/>駮，如马，倨牙，食虎豹。<br/>騉蹄，趼，善升甗。<br/>騉駼，枝蹄，趼，善升甗。<br/>小领，盗骊。绝有力□戎。<br/>膝上皆白，惟□。<br/>四骹皆白，驓。<br/>四蹢皆白，首。前足皆白，騱。后足皆白，翑。前右足白，启。左白，踦。后右足白，骧。左白，□。<br/>骝马白腹，騵。骊马白跨，驈。<br/>白州，驠。<br/>尾本白，騴。尾白，駺。<br/>馰颡，白颠。<br/>白达素，县。<br/>面颡皆白，惟駹。<br/>回毛在膺，宜乘。在肘后，减阳。在干，茀方。在背，阕广。逆毛，居馻。<br/>騋牝，骊牡，玄驹，褭骖。<br/>牡曰骘，牝曰騇。<br/>骝白，驳。黄白，騜。<br/>骝马黄脊，騝。骊马黄脊，□习。<br/>青骊，駽。青骊驎，驒。<br/>青骊繁鬣，騥。<br/>骊白杂毛，。<br/>黄白杂毛，駓，阴白杂毛，駰。<br/>苍白杂毛，骓。彤白杂毛，騢。白马黄鬣，骆。白马黑脣，駩。<br/>黑喙，騧。<br/>一目白，瞷。二目白，鱼。<br/>既差我马，差，择也。<br/>宗庙齐毫，戎事齐力，田猎齐足。──马属。<br/>犘牛。<br/>牛。<br/>犤牛。<br/>犩牛。<br/>牛。<br/>犝牛。<br/>犑牛。<br/>角一俯一仰，觭；皆踊，。<br/>黑脣，犉。黑眦，牰。黑耳，犚。黑腹，牧。黑脚，犈，其子犊。体长，。绝有力，欣犌。──牛属。<br/>羊，牡羒，牝牂。<br/>夏羊，牡羭，牝羖。<br/>角不齐，觤。角三，羷。<br/>羳羊，黄腹。未成羊，羜。绝有力，奋。──羊属。<br/>犬生三猣，二师，一犬蕲。<br/>未成毫，狗。长喙，猃。短喙，猲獢。绝有力，狣。<br/>尨，狗也。──狗属。<br/>鸡，大者蜀，蜀子雓。<br/>未成鸡，僆。绝有力，奋。──鸡属。<br/>马八尺为□戎。<br/>牛七尺为犉。<br/>羊六尺为羬。<br/>彘五尺为&lt;豕厄&gt;。<br/>狗四尺为獒。<br/>鸡三尺为鶤。──六畜。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14139.aspx">上一章</a>
+<a href="/guwen/book_163.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

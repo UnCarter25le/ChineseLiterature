@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+管子·弟子职_古诗文网
+</title>
+<meta content="先生施教，弟子是则。温恭自虚，所受是极。见善从之，闻义则服。温柔孝悌，毋骄恃力。志毋虚邪，行必正直。游居有常，必就有德。颜色整齐，中心必式。夙兴夜寐，衣带必饰；朝益暮习，小心翼翼。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3636.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2289" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>弟子职</b></span>
+<a href="javascript:PlayBookv(3636)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3636" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2289)" id="leftbtn2289" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3636" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ae%a1%e4%bb%b2%e5%8f%8a%e9%97%a8%e5%be%92">管仲及门徒</a></p>
+<div class="contson">
+<p>　　先生施教，弟子是则。温恭自虚，所受是极。见善从之，闻义则服。温柔孝悌，毋骄恃力。志毋虚邪，行必正直。游居有常，必就有德。颜色整齐，中心必式。夙兴夜寐，衣带必饰；朝益暮习，小心翼翼。一此不解，是谓学则。</p><p>　　少者之事，夜寐早作，既拚盥漱，执事有恪。摄衣共盥，先生乃作。沃盥彻盥，汎拚正席，先生乃坐。出入恭敬，如见宾客。危坐乡师，颜色毋怍。</p><p>　　受业之纪，必由长始；一周则然，其余则否。始诵必作，其次则已。凡言与行，思中以为纪。古之将兴者，必由此始。后至就席，狭坐则起。若有宾客，弟子骏作。对客无让，应且遂行，趋进受命。所求虽不在，必以反命。反坐复业。若有所疑，奉手问之。师出皆起。</p><p>　　至于食时，先生将食，弟子馔馈。摄衽盥漱，跪坐而馈。置酱错食，陈膳毋悖。凡置彼食：鸟兽鱼鳖，必先菜羹。羹胾中别，胾在酱前，其设要方。饭是为卒，左酒右酱。告具而退，奉手而立。三饭二斗，左执虚豆，右执挟匕，周还而贰，唯嗛之视。同嗛以齿，周则有始，柄尺不跪，是谓贰纪。先生已食，弟子乃彻。趋走进漱，拚前敛祭。</p><p>　　先生有命，弟子乃食，以齿相要，坐必尽席。饭必奉擥，羹不以手。亦有据膝，毋有隐肘。既食乃饱，循咡覆手，振衽扫席。已食者作，抠衣而降。旋而乡席，各彻其馈，如于宾客。既彻并器，乃还而立。</p><p>　　凡拚之道：实水于盘，攘臂袂及肘，堂上则播洒，室中握手。执箕膺揲，厥中有帚。入户而立，其仪不忒。执帚下箕，倚于户侧。凡拚之纪，必由奥始。俯仰磐折，拚毋有彻。拚前而退，聚于户内。坐板排之，以叶适己，实帚于箕。先生若作，乃兴而辞。坐执而立，遂出弃之。既拚反立，是协是稽。暮食复礼。</p><p>　　昏将举火，执烛隅坐。错总之法，横于坐所。栉之远近，乃承厥火。居句如矩，蒸间容蒸。然者处下，奉椀以为绪。右手执烛，左手正栉。有堕代烛，交坐毋倍尊者。乃取厥栉，遂出是去。</p><p>　　先生将息，弟子皆起。敬奉枕席，问所何趾；俶衽则请，有常则否。</p><p>　　先生既息，各就其友。相切相磋，各长其仪。</p><p>　　周则复始，是谓弟子之纪。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3635.aspx">上一章</a>
+<a href="/guwen/book_34.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3637.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2289" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

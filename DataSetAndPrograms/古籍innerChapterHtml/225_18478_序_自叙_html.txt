@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·序·自叙_古诗文网
+</title>
+<meta content="医有黄帝、岐伯、越人、仲景，四圣之书，争光日月。人亡代革，薪火无传，玉楸子悯后世作者不达其意，既解《伤寒》、《金匮》，乃于己巳二月，作《四圣心源》，解内外百病，原始要终，以继先圣之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18478.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>序·自叙</b></span>
+<a href="javascript:PlayBookv(18478)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18478" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18478" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　医有黄帝、岐伯、越人、仲景，四圣之书，争光日月。人亡代革，薪火无传，玉楸子悯后世作者不达其意，既解《伤寒》、《金匮》，乃于己巳二月，作《四圣心源》，解内外百病，原始要终，以继先圣之业。创辟大略，遇事辍笔。庚午四月，北游帝城。十一月终，南赴清江。辛未二月，随驾武林。四月还署，研思旧草，十得其九，厥功未竟。八月十五，开舟北上，再客京华。壬申十月，作天人之解，续成全书。癸酉二月，解长沙药性，五月删定《伤寒》，七月笔削《金匮》，八月修瘟疫痘疹，成于九月十七。</p>
+<p>　　维时霖雨初晴，商飙徐发，落木飘零，黄叶满阶。玉楸子处萧凉之虚馆，坐寂寞之闲床，起他乡之遥恨，生故国之绵思。悲哉！清秋之气也，黯然远客之心矣！爰取《心源》故本，加之润色。</p>
+<p>　　嗟乎！往者虞卿违赵而著《春秋》，屈原去楚而作《离骚》。古人论述，往往失地远客，成于羁愁郁闷之中。及乎书竣业就，乃心独喜，然后知当时之失意，皆为后此之得意无穷也。向使虞卿终相赵国，屈原永宦楚邦，则《离骚》不作，《春秋》莫著，迄于今，其人已朽，其书不传，两人之得意，不如其失意也。</p>
+<p>　　当世安乐之人，其得天者诚厚。然隙驷不留，尺波电谢，生存而处华屋，零落而归山丘，身与夕露同晞，名与朝华并灭。荆棘狐兔之中，樵牧歌吟之下，其为安乐者焉在！窃以为天之厚安乐之人，不如其厚羁愁之士。丈夫得失之际，非俗人之所知也。</p>
+<p>　　顾自己巳，以至壬申，历年多矣，元草未就，是天既长与以穷愁之境，而不频假以萧闲之日。帝眷之隆，何可恃也，良时非多，勗之而已。</p>
+<p>　　癸酉九月甲戌昌邑黄元御</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18479.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

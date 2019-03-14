@@ -1,0 +1,150 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·物理部·饮食_古诗文网
+</title>
+<meta content="炙肉，以芝麻花为末，置肉上，则油不流。糟蟹久则沙，见灯亦沙，用皂角一寸置瓶下，则不沙。煮老鸡，以山楂煮即烂，或用白梅煮，亦妙。枳实煮鱼则骨软，或用凤仙花子。酱内生蛆，以马草乌碎切入" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19282.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>物理部·饮食</b></span>
+<a href="javascript:PlayBookv(19282)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19282" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19282" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　炙肉，以芝麻花为末，置肉上，则油不流。</p>
+<p>　　糟蟹久则沙，见灯亦沙，用皂角一寸置瓶下，则不沙。</p>
+<p>　　煮老鸡，以山楂煮即烂，或用白梅煮，亦妙。</p>
+<p>　　枳实煮鱼则骨软，或用凤仙花子。</p>
+<p>　　酱内生蛆，以马草乌碎切入之，蛆即死。</p>
+<p>　　糟茄入石绿，切开不黑。</p>
+<p>　　糟姜，瓶内安蝉，虽老姜亦无筋。</p>
+<p>　　食蒜后，生姜、枣子同食少许，则不臭。</p>
+<p>　　煮饭以盐硝入之，则各自粒而不粘。</p>
+<p>　　米醋内入炒盐，则不生白衣。</p>
+<p>　　用盐洗猪脏肚子则不臭。</p>
+<p>　　腌鱼，用矾盐同腌，则去涎。</p>
+<p>　　凡杂色羊肉入松子，则无毒。</p>
+<p>　　藕皮和菱米同食，则甜而软。</p>
+<p>　　芥辣，用细辛少许与蜜同研，则极辣。</p>
+<p>　　晒胡芦干，以藁本汤洗过，不引蝇子。</p>
+<p>　　杨梅核与西瓜子，用柿漆拌，晒干，则自开，只拣取仁。</p>
+<p>　　鸭蛋以碙砂画花写字，候干，以头发灰汁洗之，则花直透内。</p>
+<p>　　炒白果、栗子，放油纸在内，则皮自脱。</p>
+<p>　　夏月鱼肉放香油，耐久不臭。</p>
+<p>　　萝卜梗同煮银杏，则不苦。</p>
+<p>　　煮芋，以灰煮之则酥。</p>
+<p>　　煮藕，以柴灰煮之，则糜烂，另换水放糖。</p>
+<p>　　榧子与蔗同食，其渣自软，与纸一般。</p>
+<p>　　晒肉脯，以香油抹之，不引绳子。</p>
+<p>　　食荔枝，多则醉；以壳浸水饮之则解。</p>
+<p>　　腌鸭蛋，月半日做，则黄居中。</p>
+<p>　　一云日中做。</p>
+<p>　　韶粉去酒中酸味，赤豆炒热入之，亦好。</p>
+<p>　　荷花蒂煮肉，精者浮，肥者沉。</p>
+<p>　　鸭蛋以金刚根同煮，白皆红。</p>
+<p>　　天落水做饭，白米变红，红米变白。</p>
+<p>　　饮酒欲不醉，服硼砂末。</p>
+<p>　　吃栗子，于生芽处咬破气，一口剥之，皮自脱。</p>
+<p>　　竹叶与栗同食，无渣。</p>
+<p>　　茄干灰可腌海蜇。</p>
+<p>　　寸切稻草可煮臭肉，其臭皆入草内。</p>
+<p>　　煮老鹅，就灶边取瓦一片同煮，即烂。</p>
+<p>　　吃蟹后，以蟹脐洗手，则不腥。</p>
+<p>　　豆油煮豆腐有味。</p>
+<p>　　篱上旧竹篾缚肉煮，则速糜。</p>
+<p>　　馄饨入香蕈在内不嗳。</p>
+<p>　　食河豚罢，以萝卜煎汤涤器皿，即去其腥。</p>
+<p>　　灯草寸断，收糖霜重间之为佳。</p>
+<p>　　糖霜用新瓶盛贮，以竹箬纸包好，悬于灶上，两三年不溶。</p>
+<p>　　糟姜入瓶中，糁少许熟栗子末于瓶口，则无滓。</p>
+<p>　　糟姜时，底下用核桃肉数个，则姜不辣。</p>
+<p>　　糟茄，须旋摘便糟，仍不去蒂萼为佳。</p>
+<p>　　干蓼草上下覆铺，以贮糯米，则不蛀。</p>
+<p>　　豆黄和松叶食之，甚美，可作避地计。</p>
+<p>　　沙糖调水洗石耳，极光润。</p>
+<p>　　食梅齿软，以梅叶嚼之，即止。</p>
+<p>　　生甜瓜以鲞鱼骨刺之，经宿则熟。</p>
+<p>　　伏中合酱与面，不生蛆。</p>
+<p>　　收椒，带眼收，不带叶收，不变色。</p>
+<p>　　日未出及已没下酱，不引蝇子。</p>
+<p>　　醉中饮冷水，则手颤。</p>
+<p>　　造酱之时，缸面用草乌头四个置其上，则免蝇蚋。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19281.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19283.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

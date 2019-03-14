@@ -1,0 +1,129 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+撼龙经·上卷·廉贞星第五_古诗文网
+</title>
+<meta content="廉贞如何号独火，此星得形最高大。高山顶上石磋峨，伞折犁头裂丝破。只缘尖炎耸天庭，其性炎炎号火星。起作龙楼并宝殿，贪巨武辅因此生。古人深识廉贞体，唤作红旗并曜气。此星威烈属阳精，高炎" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20210.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上卷·廉贞星第五</b></span>
+<a href="javascript:PlayBookv(20210)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20210" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20210" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%ad%a0%e6%9d%be">杨筠松</a></p>
+<div class="contson">
+<p>　　廉贞如何号独火，此星得形最高大。高山顶上石磋峨，伞折犁头裂丝破。</p>
+<p>　　只缘尖炎耸天庭，其性炎炎号火星。起作龙楼并宝殿，贪巨武辅因此生。</p>
+<p>　　古人深识廉贞体，唤作红旗并曜气。此星威烈属阳精，高炎赤黑峰头起。</p>
+<p>　　高尖是楼平是殿，请君来此细推辩。乱峰顶上乱石间，此处名为聚讲山。</p>
+<p>　　聚讲即成即分支，分宗拜祖迢迢路。寻宗寻嫡更寻儿，龙来此处最堪疑。</p>
+<p>　　却来此处横生幛，形如帐幙开张样。一重入帐一重出，四重五重如巨浪。</p>
+<p>　　帐中有脉穿心行，脉不穿心不入相。帐幙多时贵亦多，一重只是富豪样，</p>
+<p>　　两帐两幙是贵龙，帐里贵人最威上。帐中隐隐仙带飞，带舞低垂主兴旺。</p>
+<p>　　天官地轴两边迎，异石龟蛇过处往。高山顶上有池水，两边夹得真龙行。</p>
+<p>　　问君高顶何生水，此是真龙楼上气。楼殿之上水泉生，水还落处两边迎。</p>
+<p>　　真龙却在池中过，也有单池在旁报。单池终不及双池，池若倾崩反生祸。</p>
+<p>　　池平两水夹又清，此处名为天汉星。天汉天潢入阁道，此星入相居天庭。</p>
+<p>　　更有卫龙在高顶，水贴龙身入深井。并无水出可追寻，或有蒙泉入小镜。</p>
+<p>　　看他辞楼并下殿，出帐耸起何星应。应星生处形别立，此是分枝劈脉证。</p>
+<p>　　祖宗分了分兄弟，来此分贪识真性。分贪之处莫令差，差谬一毫千里逈。</p>
+<p>　　笋峰贪狼从此出，钟釜枕梭巨辅弼。方峰是为武曲程，最要来辨嫡庶行。</p>
+<p>　　嫡庶不失出帐样，便是龙家五吉星。廉贞恶石众所憎，不晓真阳火里精。</p>
+<p>　　此龙多向南方落，北上众山惊错愕。低头敛衽出朝来，莫向他方妄参错。</p>
+<p>　　凡起星峰皆要石，若是土山全无力。廉贞独火气冲天，石骨嶙嶒平处觅。</p>
+<p>　　廉贞不生吉星峰，顶隔江河作应龙。朝迎必应数百里，远望鼓角声冬冬。</p>
+<p>　　凡见廉贞高耸石，便上顶头看远迹。细认真龙此处生，华盖穿心正龙出。</p>
+<p>　　此龙尊贵最难寻，五吉要随华盖觅。此等真龙不易逢，华盖三峰品字立。</p>
+<p>　　两肩分作两护龙，此是兄弟同祖宗。兄弟便为护龙去，前迎后送分雌雄。</p>
+<p>　　雌若为龙雄作应，雄若为龙雌听命。问君如何辨雌雄，高低肥瘠形不同。</p>
+<p>　　低肥为雌雄高瘠，只来此处认真踪。真龙身上有正峰，时作星峰拜祖宗。</p>
+<p>　　但看护送似龙盘，又有迎送如虎踞。随龙山水皆朝揖，狐疑来此失踪迹。</p>
+<p>　　水口重重异石生，定有罗星当水立。罗星外而有山关，上生下生细寻觅。</p>
+<p>　　盖缘罗星有真假，真假天然非人力。罗星旁水石骨生，星体端园最高职。</p>
+<p>　　廉贞多生顾祖龙，祖龙远远是朝峰。更看鬼脚回转处，护托须生十数重。</p>
+<p>　　送龙之山短在后，托山不抱左右手。缠龙缠过龙虎前，三重五重福绵延。</p>
+<p>　　缠多不许外山走，那堪长远作水口。护送托龙若十全，富贵双全真罕有。</p>
+<p>　　寻龙十万看缠山，一重缠是一重关。廉贞已具贪狼内，更述此篇为详载。</p>
+<p>　　有人晓得红旗星，远有权威进凶怪。权星斩伐得自由，不统兵权不肯休。</p>
+<p>　　若遇廉贞不起石，脚下也须生石壁。石壁是背面土平，平处寻龙出踪迹。</p>
+<p>　　贪巨武辅弼星行，出身生处是何星。剥龙换骨若九段，此是公侯将相庭。</p>
+<p>　　红旗气焰威权在，愚妄时师骇凶怪。权星威福得自专，纵入文阶亦武权。</p>
+<p>　　廉贞一变贪巨武，文武全才登宰辅。廉贞不作变换星，孑身乱伦损君父。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20209.aspx">上一章</a>
+<a href="/guwen/book_285.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20211.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

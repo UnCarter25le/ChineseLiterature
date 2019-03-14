@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+吴子·料敌_古诗文网
+</title>
+<meta content="武侯谓吴起曰：“今秦胁吾西，楚带吾南，赵冲吾北，齐临吾东，燕绝吾后，韩居吾前，六国兵四守，势甚不便，忧此奈何？”起对曰：“夫安国家之道，先戒为宝。今君已戒，祸其远矣。臣请论六国之俗" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3689.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2230" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>料敌</b></span>
+<a href="javascript:PlayBookv(3689)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3689" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2230)" id="leftbtn2230" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3689" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e8%b5%b7">吴起</a></p>
+<div class="contson">
+<p>　　武侯谓吴起曰：“今秦胁吾西，楚带吾南，赵冲吾北，齐临吾东，燕绝吾后，韩居吾前，六国兵四守，势甚不便，忧此奈何？”</p>
+<p>　　起对曰：“夫安国家之道，先戒为宝。今君已戒，祸其远矣。臣请论六国之俗：夫齐陈重而不坚，秦陈散而自斗，楚陈整而不久，燕陈守而不走，三晋陈治而不用。”</p>
+<p>　　“夫齐性刚，其国富，君臣骄奢而简于细民，其政宽而禄不均，一陈两心，前重后轻，故重而不坚。击此之道，必三分之，猎其左右，胁而从之，其陈可坏。秦性强，其地险，其政严，其赏罚信，其人不让，皆有斗心，故散而自战。击此之道，必先示之以利而引去之，士贪于得而离其将，乘乖猎散，设伏投机，其将可取。楚性弱，其地广，其政骚，其民疲，故整而不久。击此之道，袭乱其屯，先夺其气，轻进速退，弊而劳之，勿与战争，其军可败。燕性悫，其民慎，好勇义，寡诈谋，故守而不走。击此之道，触而迫之，陵而远之，驰而后之，则上疑而下惧，谨我车骑必避之路，其将可虏。三晋者，中国也，其性和，其政平，其民疲于战，习于兵，轻其将，薄其禄，士无死志，故治而不用。击此之道，阻陈而压之，众来则拒之，去则追之，以倦其师。此其势也。”</p>
+<p>　　“然则一军之中，必有虎贲之士，力轻扛鼎，足轻戎马，搴旗斩将，必有能者。若此之等，选而别之，爱而贵之，是谓军命。其有工用五兵、材力健疾、志在吞敌者，必加其爵列，可以决胜。厚其父母妻子，劝赏畏罚，此坚陈之士，可与持久，能审料此，可以击倍。”</p>
+<p>　　武侯曰：“善！”</p>
+<p>　　吴子曰：“凡料敌有不卜而与之战者八。一曰：”疾风大寒，早兴寐迁，刊木济水，不惮艰难。二曰：盛夏炎热，晏兴无间，行驱饥渴，务于取远。三曰：师既淹久，粮食无有，百姓怨怒，妖祥数起，上不能止。四曰：军资既竭，薪刍既寡，天多阴雨，欲掠无所。五曰：徒众不多，水地不利，人马疾疫，四邻不至。六曰：道远日暮，士众劳惧，倦而未食，解甲而息。七曰：将薄吏轻，士卒不固，三军数惊，师徒无助。八曰：陈而未定，舍而未毕，行坂涉险，半隐半出。诸如此者，击之无疑。”</p>
+<p>　　“有不占而避之者六。一曰：土地广大，人民富众。二曰：上爱其下。惠施流布。三曰：赏信刑察，发必得时。四曰：陈功居列，任贤使能。五曰：师徒之众，兵甲之精。六曰：四邻之助，大国之援。凡此不如敌人，避之勿疑。所谓见可而进，知难而退也。”</p>
+<p>　　武侯问曰：“吾欲观敌之外以知其内，察其进以知其止，以定胜负，可得闻乎？”</p>
+<p>　　起对曰：“敌人之来，荡荡无虑，旌旗烦乱，人马数顾，一可击十，必使无措。诸侯（大）[未]会，君臣未和，沟垒未成，禁令未施，三军匈匈，欲前不能，欲去不敢，以半击倍，百战不殆。”</p>
+<p>　　武侯问敌必可击之道。</p>
+<p>　　起对曰：“用兵必须审敌虚实而趋其危。敌人远来新至，行列未定，可击；既食未设备，可击；奔走，可击；勤劳，可击；未得地利，可击；失时不从，可击；旌旗乱动，可击；涉长道后行未息，可击；涉水半渡，可击；险道狭路，可击；陈数移动，可击；将离士卒，可击；心怖，可击。凡若此者，选锐冲之，分兵继之，急击勿疑。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3688.aspx">上一章</a>
+<a href="/guwen/book_36.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3690.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2230" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

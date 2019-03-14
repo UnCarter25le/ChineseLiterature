@@ -1,0 +1,116 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平御览·饮食部·卷二十二_古诗文网
+</title>
+<meta content="○脂膏《周礼·庖人》曰：凡用禽献，春行羔豚膳膏香，夏行踞鱐(音搜。)膳膏臊，秋行犊麂膳膏腥，冬行鲜羽膳膏膻。(用禽献，谓煎和之以献王也。郑司农云：膏香，牛脂也。膏臊，豕膏" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_15715.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>饮食部·卷二十二</b></span>
+<a href="javascript:PlayBookv(15715)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv15715" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay15715" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89">李昉</a></p>
+<div class="contson">
+<p>　　○脂膏</p>
+<p>　　《周礼·庖人》曰：凡用禽献，春行羔豚膳膏香，夏行踞鱐(音搜。)膳膏臊，秋行犊麂膳膏腥，冬行鲜羽膳膏膻。(用禽献，谓煎和之以献王也。郑司农云：膏香，牛脂也。膏臊，豕膏也。杜子春云：膏臊，犬膏。膏腥，豕膏也。鲜，鱼也。羽，雁也。膏膻，羊脂也。玄谓：膏腥，鸡膏也。八物者，得四时之气尤盛，为人食之弗胜，是以用休废之脂膏煎和膳之。)</p>
+<p>　　又《冬官·梓人》曰：天下之兽五：脂者、膏者、裸者、羽者、鳞者。(脂，牛羊之属。膏，豕之属也。)宗庙之事，脂者、膏者以为牲。(致美味也。)</p>
+<p>　　《礼》曰：脂用葱，膏用薤。(脂，肥凝者。泽者曰膏。)煎诸膏，膏必灭之。肝膋，取狗肝一，幪之以其膋。(膋，肠问脂。幪音蒙。)小切狼臅膏，以与稻米为酏。(狼臅膏，臆中膏也。酏，之然反。)</p>
+<p>　　《尔雅》曰：冰，脂也。(《庄子》云：肌肤若冰雪。冰雪，脂膏也。)</p>
+<p>　　《说文》曰：〈月尞〉，牛肠脂。(〈月尞〉，音力彫反。)</p>
+<p>　　《通俗文》曰：脂在脊曰肪，在骨曰〈月册〉，(音珊。)兽脂聚曰〈月囷〉。(音窘。)</p>
+<p>　　《史记》曰：败脂辱处也，而公伯千金。</p>
+<p>　　《后汉书》曰：孔奋为姑臧长，力行清洁，为众人所笑，以为身处脂膏，不能自润，徒益苦辛耳。</p>
+<p>　　《淮南子》曰：无角者膏而无前，有角者脂而无后。</p>
+<p>　　○油</p>
+<p>　　《魏志》曰：孙权至合肥新城，满宠驰往赴，募壮士数十人，折松为炬，灌以麻油，从上风放火，烧贼攻具。</p>
+<p>　　又曰：黄初三年，车驾幸宛，使夏侯尚率诸军与曹真共围江陵。权将诸葛瑾与尚军对江。瑾度入江中渚，而分水军於江中。尚夜多持油船，将步骑万馀人，於下流潜渡攻瑾，诸军夹江烧其舟船，水陆并攻，破之。</p>
+<p>　　王隐《晋书》曰：元康三年，武库火。检校，是工匠盗库中，恐罪，乃投烛着麻膏中火燃。</p>
+<p>　　又曰：齐王冏起义，孙秀多敛苇炬，益储麻油於殿省，为纵火具。</p>
+<p>　　《东宫旧事》曰：月给油六升。</p>
+<p>　　《宋书》曰：朱脩之为荆州刺史，去镇之日，秋毫无犯。计在州已来，然油及私牛马食官谷草，以私钱六十万偿之。</p>
+<p>　　《梁书》曰：沈约年十三而遭家难，潜窜，会赦乃免，既而流寓。孤贫，笃志好学，昼夜不释卷。母恐其以劳生疾，常遣减油灭火。</p>
+<p>　　又曰：张缵为湘州刺史，州境大宁。晚好积聚，多写书数万卷。有油二百斛、米四千石，他物称是。</p>
+<p>　　又曰：侯景攻台城，为曲项木驴攻城，矢石不能制。羊侃作雉尾炬，施铁镞，以油灌之，掷驴上，焚之俄尽。</p>
+<p>　　又曰：初，侯景既南奔，魏相高澄命先剥景妻子面皮，悉以油煎杀之。</p>
+<p>　　《后周书》曰：卫剌王真作乱，率其党袭肃章门，不得入，乃纵火烧之。尉迟运惧火尽真党得进，乃取油灌木以益火，火势转盛，真不得进，乃退。</p>
+<p>　　《博物志》曰：煎油，水气尽，无烟，不复沸则还冷，可内手搅之。得水而焰起飞散。</p>
+<p>　　《释名》曰：柰油，捣柰实和之，以涂缯上，燥而发之，形似油也。杏油亦如之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_15714.aspx">上一章</a>
+<a href="/guwen/book_180.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_15716.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

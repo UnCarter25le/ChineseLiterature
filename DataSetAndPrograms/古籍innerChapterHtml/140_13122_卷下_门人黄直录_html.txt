@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+传习录·卷下·门人黄直录_古诗文网
+</title>
+<meta content="〔1〕黄以方问：“先生格致之说，随时格物以致其知，则知是一节之知，非全体之知也，何以到得‘溥博如天，渊泉如渊’地位？”先生曰：“人心是天渊。心之本体，无所不该，原是一个天，只为私欲" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13122.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷下·门人黄直录</b></span>
+<a href="javascript:PlayBookv(13122)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13122" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13122" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e9%98%b3%e6%98%8e">王阳明</a></p>
+<div class="contson">
+<p>　　〔1〕黄以方问：“先生格致之说，随时格物以致其知，则知是一节之知，非全体之知也，何以到得‘溥博如天，渊泉如渊’地位？”先生曰：“人心是天渊。心之本体，无所不该，原是一个天，只为私欲障碍，则天之本体失了：心之理无穷尽，原是一个渊，只为私欲窒塞，则渊之本体失了。如今念念致真知，将此障碍窒塞一齐去尽，则本体已复，便是天、渊了。”乃指天以示之曰：“比如面前见天，是昭昭之天，四外见天，也只是眧眧之天。只为许多房子墙壁遮蔽，便不见天之全体，若撤去房子墙壁，总是一个天矣。不可道跟前天是昭昭之天，外面又不是昭昭之天也。于此便见一节之知即全体之知，全体之知即一节之知，总是一个本体。”</p>
+<p>　　〔2〕先生曰：“圣贤非无功业气节：但其循着这天理则便是道，不可以事功气节名矣。”</p>
+<p>　　〔3〕“‘发愤忘食’是圣人之志如此，真无有已时。‘乐以忘忧’是圣人之道如此，真无有戚时。恐不必云得不得也。”</p>
+<p>　　〔4〕先生曰：“我辈致知，只是名随分限所及；今日良知见在如此，只随今日所知扩充到底，明日良知又有开悟，便从明日所知扩充到底，如此方是精一功夫。与人论学，亦须随人分限所及；如树有这些萌芽，只把这些水去灌溉，萌芽再长，便又加水，自拱把以至合抱，灌溉之功皆是随其分限所及，若些小萌芽，有一桶水在，尽要倾上，便浸坏他了。”</p>
+<p>　　〔5〕问知行合一。先生曰：“此须识我立言宗旨，今人学问，只因知、行分作两件，故有一念发动，虽是不善，然却未曾行，便不去禁止。我今说个‘知、行合一’，正要人晓得一念发动处，便即是行了；发动处有不善，就将这不善的念克倒了，须要彻根彻底不使那一念不善潜伏在胸中：此是我立言宗旨。”</p>
+<p>　　〔6〕“圣人无所不知，只是知个天理：无所不能，只是能个天理。圣人本体明白，故事事知个天理所在，便去尽个天理：不是本体明后，却于天下事物都便知得，便做得来也。天下事物，如名物度数、草木鸟兽之类，不胜其烦，圣人须是本体明了，亦何缘能尽知得。但不必知的，圣人自不消求知，其所当知的，圣人自能问人：如‘子入太庙，每事问’之类。先儒谓‘虽知亦问，敬谨之至’；此说不可通。圣人于礼乐名物，不必尽知，然他知得一个天理，便自有许多节文度数出来，不知能问，亦即是天理节文所在。”</p>
+<p>　　〔7〕问：“先生尝谓善、恶只是一物。善、恶两端，如冰、炭相反，如何谓只一物？”先生曰：“至善者，心之本体。本体上才过当些子，便是恶了；不是有一个善，却又有一个恶来相对也。故善、恶只是一物。”直因闻先生之说，则知程子所谓“善固性也，恶亦不可不谓之性。”又曰：“善、恶皆天理。谓之恶者，本非恶，但于本性上过与不及之间耳。”其说皆无可疑。</p>
+<p>　　〔8〕先生尝谓“人但得好善如好好色，恶恶如恶恶臭，便是圣人。”直初闻之，觉甚易，后礼验得来，此个功夫着实是难。如一念虽知好善、恶恶，然不知不觉，又夹杂去了。才有夹杂，便不是好善如好好色、恶恶如恶恶臭的心。善能实实的好，是无一念不善矣：恶能实实的恶，是无念及恶矣。如何不是圣人？故圣人之学，只是一诚而已。</p>
+<p>　　〔9〕问“修道说”言“率性之谓道”属圣人分上事，“修道之谓教”属贤人分上事。先生日 ：﹁众人亦率性也，但率性在圣人分上较多，故﹃率性之谓道﹄属圣人事；圣人亦修道也，但修道在贤人分上多，故“修道之谓教”属贤人事。”又日 ：“《中庸》一书，大抵皆是说修道的事：故后面凡说君子，说颜渊，说子路，皆是能修道的；说小人，说贤、知、愚不肖，说庶民，皆是不能修道的；其它言舜、文、周公、仲尼，至诚至圣之类，则又圣人之自能修道者也。”</p>
+<p>　　〔10〕问：“儒者到三更时分，扫荡胸中思虑，空空静静，与释氏之静只一般，两下皆不用，此时何所分别？﹂先生日 ：“动、静只是一个。那三更时分，空空静静的，只是存天理，即是如今应事接物的心，如今应事接物的心，亦是循此理，便是那三更时分空空静静的心。故动、静只是一个，分别不得。知得动、静合一，释氏毫厘差处亦自莫掩矣。”</p>
+<p>　　〔11〕门人在座，有动止甚矜持者。先生曰：“人若矜持太过，终是有弊。”曰：“衿得太过，如何有弊？”日 ：“人只有许多精神，若专在容貌上用功，则于中心照管不及者多矣。”有太直率者，先生曰：“如今讲此学，却外面全不检束，又分心与事为二矣。”</p>
+<p>　　〔12〕门人作文送友行，问先生曰：“作文字不免费思，作了后又一二日常记在怀。”曰：“文字思索亦无害；但作了常记在怀，则为文所累，心中有一物矣，此则未可也。”又作诗送人。先生看诗毕，谓曰 ：“凡作文字要随我分限所及；若说得太过了，亦非修辞立诚矣。”</p>
+<p>　　〔13〕“文公‘格物’之说，只是少头脑。如所谓‘察之于念虑之微’，此一句不该与‘求之文字之中，验之于事为之着，索之讲论之际’混作一例看，是无轻重也。”</p>
+<p>　　〔14〕问有所忿懥一条。先生曰：“忿懥几件，人心怎能无得，只是不可有耳。凡人忿懥，着了一分意思，便怒得过当，非廓然大公之体了。故有所忿懥，便不得其正也。如今于凡忿懥等件，只是个物来顺应，不要着一分意思，便心体廓然大公，得其本体之正了。且如出外见人相斗，其不是的，我心亦怒：然虽怒，却此心廓然，不曾动些子气。如今怒人，亦得如此，方纔是正。”</p>
+<p>　　〔15〕先生尝言：“佛氏不着相，其实着了相，吾儒着相，其实不着相。”请问。曰：“佛怕父子累，却逃了父子，怕君臣累，却逃了君臣，怕夫妇累，却逃了夫妇，都是为个君臣、父子、夫妇着了相，便须逃避。如吾儒有个父子，还他以仁，有个君臣，还他以义，有个夫妇，还他以别，何曾着父子、君臣、夫妇的相？</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13121.aspx">上一章</a>
+<a href="/guwen/book_140.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13123.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

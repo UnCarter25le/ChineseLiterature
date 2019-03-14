@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+诗人玉屑·序_古诗文网
+</title>
+<meta content="诗之有评，犹医之有方也。评不精，何益于诗；方不灵，何益于医！然惟善医者能审其方之灵，善诗者能识其评之精，夫岂易言也哉！诗话之编多矣，《总龟》最为踈驳，其可取者惟《苕溪丛话》；然贪多" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17519.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>序</b></span>
+<a href="javascript:PlayBookv(17519)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17519" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17519" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%ad%8f%e5%ba%86%e4%b9%8b">魏庆之</a></p>
+<div class="contson">
+　　诗之有评，犹医之有方也。评不精，何益于诗；方不灵，何益于医！然惟善医者能审其方之灵，善诗者能识其评之精，夫岂易言也哉！诗话之编多矣，《总龟》最为踈驳，其可取者惟《苕溪丛话》；然贪多务得，不泛则冗，求其有益于诗者，如披砂简金，闷闷而后得之，故观者或不能终卷。友人魏菊庄，诗家之良医师也，乃出新意，别为是编。自有诗话以来，至于近世之评论，博观约取，科别其条，凡升高自下之方，繇粗入精之要，靡不登载。其格律之明，可准而式；其鉴裁之公，可研而覈；其斧藻之有味，可咀而食也。既又取三百篇、骚、选而下，及宋朝诸公之诗，名胜之所品题，有补于诗道者，尽择其精而录之。盖始焉束以法度之严，所以正其趋向，终焉极夫古今之变，所以富其见闻。是犹仓公、华佗，按病处方，虽庸医得之，犹可藉以已疾，而况医之善者哉！方今海内诗人林立，是书既行，皆得灵方，取宝囊玉屑之饭，瀹之以冰瓯雪盌，荐之以菊英兰露，吾知其换骨而仙也必矣。姜白石云：不知诗病，何由能诗，不观诗法，何由知病？人非李杜，安能径诣圣处！吾党盍相与懋之！君名庆之，字醇甫，有才而不屑科第，惟种菊千丛，日与骚人佚士，觞咏于其间。阁学游公受斋先生，尝赋诗嘉之，有“种菊幽探计何早，想应苦吟被花恼”之句，视其所好事，以知其人焉。淳佑甲辰长至日，玉林黄昇叔旸序。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_207.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17520.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

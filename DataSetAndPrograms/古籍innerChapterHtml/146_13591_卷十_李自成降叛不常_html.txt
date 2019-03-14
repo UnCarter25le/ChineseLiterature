@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷十·李自成降叛不常_古诗文网
+</title>
+<meta content="洪承畴精韬钤，率曹文绍、曹变较、贺人龙等，凡破贼于宁塞、于西安、于延北、于西濠、于庄浪，斩贼渠神一魁等，招降中斗星等，先后剿获甚众，由是张献忠与延安贼李自成，奔盩鄠间。六月，陈奇瑜" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13591.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·李自成降叛不常</b></span>
+<a href="javascript:PlayBookv(13591)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13591" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13591" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　洪承畴精韬钤，率曹文绍、曹变较、贺人龙等，凡破贼于宁塞、于西安、于延北、于西濠、于庄浪，斩贼渠神一魁等，招降中斗星等，先后剿获甚众，由是张献忠与延安贼李自成，奔盩鄠间。</p>
+<p>　　六月，陈奇瑜围自成于汉中车厢峡。会连雨四十日，弓矢俱脱，贼马乏刍，死者过半。自成大窘，乃自缚乞降。奇瑜许之，各给免死牌籍。七月七日辛卯，贼至凤翔，藉口奉督抚檄，安插城内，守臣知其诈，给以门不敢启，须缒城上。先登三十六人，尽杀之。奇瑜因借为辞，劾地方官绅挠偾抚局，命缇骑逮宝鸡知县李嘉彦、凤翔乡绅孙鹏等五十余人，下狱。</p>
+<p>　　李自成陷登城，围郃阳门，洪承畴兵至，解围去。转寇平凉、邠州。八月，自成陷咸阳，杀知县赵济昌，官兵至，贼弃金帛饵官兵，竟西遁。屯干州，招之，不听。复陷陇州，贼到处乌合，简精壮为前驱，收妇女老弱，急则用之，饵官军，故诸臣动称斩馘报捷，贼势实不减。</p>
+<p>　　陈奇瑜报降贼一万三千有奇。先是，众贼为洪承畴所逐，窜汉中。二月，陷兴山；壬申，入瞿塘，陷夔州。三月川兵败贼于巴州。据巴西诸险贼，不能度，且饥无所得食，故乞降于奇瑜。奇瑜降檄诸部按甲无动，遣官监护降者，且檄所过郡邑为具饥粮传送之。诸贼举无降意，又未大创，徒以饥疲困于地险不得逞，既度栈道，已出险，渐不受绳束，仍事杀掠，所至罢市，贼遂尽杀监视官五十员，攻陷麟游、永寿，势不可遏矣。此八月事。</p>
+<p>　　闰八月，陈奇瑜至凤县，时贼益炽，北接庆阳，西至巩昌，西北至邠州、长安，西南至盩鄠、宝鸡，众殆二十万。奇瑜始悔其见愚，急分兵出御，而兵已寡矣。九月，贼陷灵台、崇信、白水、泾州，复陷扶风。</p>
+<p>　　洪承畴遣总兵左光先等，援陇州贺人龙，围始解。十月，左光先击自成于高陵富平间，斩首四百余级，自成佯求抚，真宁知县王家求遽信之，出城招谕，失其印。甲寅，陕西巡按傅永淳，上言汉南降贼陷城，破邑，所在骚然，皆由奇瑜专主招降，谓盗心已革，不许道途讯诘。</p>
+<p>　　故郡邑不敢问，开门揖盗，剿抚两妨，皆奇瑜之流毒也。山西巡抚吴牲，亦言招安流盗，最宜慎重，彼狼子野心，势难驯伏，况边地穷荒，芜居无食，仅曰免死，遂甘心易虑乎哉？上以秦盗猖獗，逮巡抚练国事命李乔巡抚陕西。十一月，削总督陈奇瑜职，听勘。十二月，进洪承畴兵部尚书，总督河南、山西、陕西、湖广、保定、真定等处军务，其总督三边如故。</p>
+<p>　　自缚乞降，贼窘甚矣。虽不即杀，亦宜分遣，乃给牌以遗后患，岂计之善者，宜物议之沸腾也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13590.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13592.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

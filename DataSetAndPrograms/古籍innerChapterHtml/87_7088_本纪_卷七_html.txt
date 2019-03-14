@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+北齐书·本纪·卷七_古诗文网
+</title>
+<meta content="武成世祖武成皇帝，讳湛，神武皇帝第九子，孝昭皇帝之母弟也。仪表瑰杰，神武 尤所钟爱。神武方招怀荒远，乃为帝聘蠕蠕太子庵罗辰女，号“邻和公主”。帝时 年八岁，冠服端严，神情闲远，华戎" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_7088.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left6444" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>本纪·卷七</b></span>
+<a href="javascript:PlayBookv(7088)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv7088" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(6444)" id="leftbtn6444" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay7088" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%99%be%e8%8d%af">李百药</a></p>
+<div class="contson">
+<p>　　武成</p>
+<p>　　世祖武成皇帝，讳湛，神武皇帝第九子，孝昭皇帝之母弟也。仪表瑰杰，神武 尤所钟爱。神武方招怀荒远，乃为帝聘蠕蠕太子庵罗辰女，号“邻和公主”。帝时 年八岁，冠服端严，神情闲远，华戎叹异。元象中，封长广郡公。天保初，进爵为 王，拜尚书令，寻兼司徒，迁太尉。乾明初，杨愔等密相疏忌，以帝为大司马，领 并州刺史。帝既与孝昭谋诛诸执政，迁太傅、录尚书事、领京畿大都督。皇建初， 进位右丞相。孝昭幸晋阳，帝以懿亲居守邺，政事咸见委托。二年，孝昭崩，遗诏 征帝入统大位。及晋阳宫，发丧于崇德殿。皇太后令所司宣遗诏，左丞相斛律金率 百僚敦劝，三奏，乃许之。 </p>
+<p>　　大宁元年冬十一月癸丑，皇帝即位于南宫，大赦，改皇建二年为大宁。乙卯， 以司徒、平秦王归彦为太傅，以尚书右仆射、赵郡王睿为尚书令，以太尉尉粲为太 保，以尚书令段韶为大司马，以丰州刺史娄睿为司空，以太傅、平阳王淹为太宰， 以太保、彭城王浟为太师、录尚书事，以冀州刺史、博陵王济为太尉，以中书监、 任城王潜为尚书左仆射，以并州刺史斛律光为右仆射，封孝昭皇帝太子百年为乐陵 郡王。庚申，诏大使巡行天下，求政善恶，问人疾苦，擢进贤良。是岁，周武帝保 定元年。 </p>
+<p>　　河清元年春正月乙亥，车驾至自晋阳。辛巳，祀南郊。壬午，享太庙。丙戌， 立妃胡氏为皇后，子纬为皇太子。大赦，内外百官普加泛级，诸为父后者赐爵一级。 己亥，以前定州刺史、冯翊王润为尚书左仆射。诏断屠杀以顺春令。二月丁未，以 太宰、平阳王淹为青州刺史、太傅、领司徒，以领军大将军、宗师、平秦王归彦为 太宰、冀州刺史。乙卯，以兼尚书令、任城王湝为司徒。诏散骑常侍崔瞻聘于陈。 夏四月辛丑，皇太后娄氏崩。乙巳，青州刺史上言，今月庚寅河、济清。以河、济 清，改大宁二年为河清，降罪人各有差。五月甲申，祔葬武明皇后于义平陵。己丑， 以尚书右仆射斛律光为尚书令。秋七月，太宰、冀州刺史、平秦王归彦据州反，诏 大司马段韶、司空娄睿讨擒之。乙未，斩归彦并其三子及党与二十人于都市。丁酉， 以大司马段韶为太傅，以司空娄睿为司徒，以太傅、平阳王淹为太宰，以尚书令斛 律光为司空，以太子太傅、赵郡王睿为尚书令，中书监、河间王孝琬为尚书左仆射。 癸亥，行幸晋阳。陈人来聘。冬十一月丁丑，诏兼散骑常侍封孝琰使于陈。十二月 丙辰，车驾至自晋阳。是岁，杀太原王绍德。 </p>
+<p>　　二年春正月乙亥，帝诏临朝堂策试秀才。以太子少傅魏收为兼尚书右仆射。己 卯，兼右仆射魏收以阿纵除名。丁丑，以武明皇后配祭北郊。辛卯，帝临都亭录见 囚，降在京罪人各有差。三月乙丑，诏司空斛律光督五营军士筑戍于轵关。壬申， 室韦国遣使朝贡。丙戌，以兼尚书右仆射赵彦深为左仆射。夏四月，并、汾、晋、 东雍、南汾五州虫旱伤稼，遣使赈恤。戊午，陈人来聘。五月壬午，诏以城南双堂 闰位之苑，乃造大总持寺。六月乙巳，齐州言济、河水口见八龙升天。乙卯，诏兼 散骑常侍崔子武使于陈。庚申，司州牧、河南王孝瑜薨。秋八月辛丑，诏以三台宫 为大兴圣寺。冬十二月癸巳，陈人来聘。己酉，周将杨忠帅突厥阿史那木汗等二十 余万人自恒州分为三道，杀掠吏人。是时，大雨雪连月，南北千余里平地数尺，霜 昼下，雨血于太原。戊午，帝至晋阳。己未，周军逼并州，又遣大将军达奚武帅众 数万至东雍及晋州，与突厥相应。是岁，室韦、库莫奚、靺羯、契丹并遣使朝贡。 </p>
+<p>　　三年春正月庚申朔，周军至城下而陈，战于城西。周军及突厥大败，人畜死者 相枕，数百里不绝。诏平原王段韶追出塞而还。三月辛酉，以律令班下，大赦。己 巳，盗杀太师、彭城王浟。庚辰，以司空斛律光为司徒，以侍中、武兴王普为尚书 左仆射。甲申，以尚书令、冯翊王润为司空。夏四月辛卯，诏兼散骑常侍皇甫亮使 于陈。五月甲子，帝至自晋阳。壬午，以尚书令、赵郡王睿为录尚书事，以前司徒 娄睿为太尉。甲申，以太傅段韶为太师。丁亥，以太尉、任城王湝为大将军。壬辰， 行幸晋阳。六月庚子，大雨昼夜不息，至甲辰乃止。是月，晋阳讹言有鬼兵，百姓 竞击铜铁以捍之。杀乐陵王百年。归宇文媪于周。秋九月乙丑，封皇子绰为南阳王， 俨为东平王。是月，归阎媪于周。陈人来聘。突厥寇幽州，入长城，虏掠而还。闰 月乙未，诏遣十二使巡行水潦州，免其租调。乙巳，突厥寇幽州。周军三道并出， 使其将尉迟迥寇洛阳，杨檦入轵关，权景宣趣悬瓠。冬十一月甲午，迥等围洛阳。 戊戌，诏兼散骑常侍刘逖使于陈。甲辰，太尉娄睿大破周军于轵关，擒杨檦。 </p>
+<p>　　十二月乙卯，豫州刺史王士良以城降周将权景宣。丁巳，帝自晋阳南讨。己未， 太宰、平阳王淹薨。壬戌，太师段韶大破尉迟迥等，解洛阳围。丁卯，帝至洛阳， 免洛州经周军处一年租赋，赦州城内死罪已下囚。己巳，以太师段韶为太宰，以司 徒斛律光为太尉，并州刺史兰陵王长恭为尚书令。壬申，帝至武牢，经滑台，次于 黎阳，所经减降罪人。丙子，车驾至自洛阳。是岁，高丽、靺羯、新罗并遣使朝贡。 山东大水，饥死者不可胜计，诏发赈给，事竟不行。 </p>
+<p>　　四年春正月癸卯，以大将军、任城王湝为大司马。辛未，幸晋阳。二月甲寅， 诏以新罗国王金真兴为使持节、东夷校尉、乐浪郡公、新罗王。壬申，以年谷不登， 禁酤酒。己卯，诏减百官食禀各有差。三月戊子，诏给西兖、梁、沧、赵州，司州 之东郡、阳平、清河、武都，冀州之长乐、渤海遭水潦之处贫下户粟，各有差。家 别斗升而已，又多不付。是月，彗星见；有物陨于殿庭，如赤漆鼓带小铃；殿上石 自起，两两相对。又有神见于后园万寿堂前山穴中，其体壮大，不辩其面，两齿绝 白，长出于唇，帝直宿嫔御已下七百人咸见焉。帝又梦之。夏四月戊午，大将军、 东安王娄睿坐事免。乙亥，陈人来聘。太史奏天文有变，其占当有易王。丙子，乃 使太宰段韶兼太尉，持节奉皇帝玺绶传位于皇太子，大赦，改元为天统元年，百官 进级降罪各有差。又诏皇太子妃斛律氏为皇后。于是群公上尊号为太上皇帝，军国 大事咸以奏闻。始将传政，使内参乘子尚乘驿送诏书于邺。子尚出晋阳城，见人骑 随后，忽失之，尚未至邺而其言已布矣。 </p>
+<p>　　天统四年十二月辛未，太上皇帝崩于邺宫乾寿堂，时年三十二，谥曰武成皇帝， 庙号世祖。五年二月甲申，葬于永平陵。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_7087.aspx">上一章</a>
+<a href="/guwen/book_87.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_7089.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right6444" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

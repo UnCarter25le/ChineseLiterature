@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·五刑解_古诗文网
+</title>
+<meta content="冉有問於孔子曰：「古者三皇五帝不用五刑，信乎？」孔子曰：「聖人之設防，貴其不犯也，制五刑而不用，所以為至治也．凡夫之為姦邪竊盜，靡法妄行者，生於不足，不足生於無度，無度則小者偷盜，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4139.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2739" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>五刑解</b></span>
+<a href="javascript:PlayBookv(4139)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4139" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2739)" id="leftbtn2739" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4139" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　冉有問於孔子曰：「古者三皇五帝不用五刑，信乎？」孔子曰：「聖人之設防，貴其不犯也，制五刑而不用，所以為至治也．凡夫之為姦邪竊盜，靡法妄行者，生於不足，不足生於無度，無度則小者偷盜，大者侈靡，各不知節．是以上有制度，則民知所止，民知所止，則不犯．故雖有姦邪賊盜，靡法妄行之獄，而無陷刑之民．不孝者生於不仁，不仁者生於喪祭之禮明，喪祭之禮所以教仁愛也，能教仁愛，則喪思慕祭祀，不解人子饋養之道，喪祭之禮明，則民孝矣．故雖有不孝之獄，而無陷刑之民．殺上者生於不義，義所以別貴賤，明尊卑也，貴賤有別，尊卑有序，則民莫不尊上而敬長．朝聘之禮者，所以明義也，義必明則民不犯，故雖有殺上之獄，而無陷刑之民．鬥變者生於相陵，相陵者生於長幼無序，而遺敬讓，鄉飲酒之禮者，所以明長幼之序，而崇敬讓也，長幼必序，民懷敬讓，故雖有鬥變之獄，而無陷刑之民．淫亂者生於男女無別，男女無別，則夫婦失義，禮聘享者所以別男女，明夫婦之義也，男女既別，夫婦既明，故雖有淫亂之獄，而無陷刑之民．此五者，刑罰之所以生，各有源焉．不豫塞其源，而輒繩之以刑，是謂為民設阱而陷之．刑罰之源，生於嗜慾不節，失禮度者，所以禦民之嗜慾，而明好惡順天之道，禮度既陳，五教畢修，而民猶或未化，尚必明其法典以申固之．其犯姦邪靡法妄行之獄者，則飭制量之度；有犯不孝之獄者，則飭喪祭之禮；有犯殺上之獄者，則飭朝覲之禮；有犯鬥變之獄者，則飭鄉飲酒之禮；有犯淫亂之獄者，則飭婚聘之禮．三皇五帝之所化民者如此，雖有五刑之用，不亦可乎！」孔子曰：「大罪有五，而殺人為下，逆天地者罪及五世，誣文武者罪及四世，逆人倫者罪及三世，謀鬼神者罪及二世，手殺人者罪及其身，故曰大罪有五，而殺人為下矣．」</p>
+<p>　　冉有問於孔子曰：「先王制法，使刑不上於大夫，禮不下於庶人，然則大夫犯罪，不可以加刑，庶人之行事，不可以治於禮乎？」孔子曰：「不然，凡治君子以禮御其心，所以屬之以廉恥之節也，故古之大夫，其有坐不廉汙穢而退放之者，不謂之不廉汙穢而退放，則曰簠簋不飭；有坐淫亂男女無別者，不謂之淫亂男女無別，則曰帷幕不修也；有坐罔上不忠者，不謂之罔上不忠，則曰臣節未著；有坐罷軟不勝任者，不謂之罷軟不勝任，則曰下官不職；有坐干國之紀者，不謂之干國之紀，則曰行事不請．此五者，大夫既自定有罪名矣，而猶不忍斥，然正以呼之也，既而為之諱，所以愧恥之，是故大夫之罪，其在五刑之域者，聞而譴發，則白冠釐纓，盤水加劍，造乎闕而自請罪，君不使有司執縳牽掣而加之也．其有大罪者，聞命則北面再拜，跪而自裁，君不使人捽引而刑殺．曰：『子大夫自取之耳，吾遇子有禮矣，以刑不上大夫而大夫亦不失其罪者，教使然也．』所謂禮不下庶人者，以庶人遽其事而不能充禮，故不責之以備禮也．」冉有跪然免席曰：「言則美矣，求未之聞，退而記之．」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4138.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4140.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2739" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

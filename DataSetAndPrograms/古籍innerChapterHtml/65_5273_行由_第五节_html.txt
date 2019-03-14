@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+六祖坛经·行由·第五节_古诗文网
+</title>
+<meta content="众得处分，退而递相谓曰：“我等众人，不须澄心用意作偈，将呈和尚。有何所益？神秀上座，现为教授师，必是他得。我辈谩作偈颂，枉用心力。”诸人闻语，总皆息心，成言我等已后，依止秀师，何烦" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5273.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3612" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>行由·第五节</b></span>
+<a href="javascript:PlayBookv(5273)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5273" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3612)" id="leftbtn3612" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5273" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　众得处分，退而递相谓曰：“我等众人，不须澄心用意作偈，将呈和尚。有何所益？神秀上座，现为教授师，必是他得。我辈谩作偈颂，枉用心力。”诸人闻语，总皆息心，成言我等已后，依止秀师，何烦作偈。神秀思惟，诸人不呈偈者，为我与他为教授师，我须作偈将呈和尚。若不呈偈，和尚如何知我心中见解深浅？我呈偈意，求法即善，觅祖即恶，却同凡心，夺其圣位奚别？若不呈偈，终不得法，大难大难。五祖堂前，有步廊三间，拟请供奉卢珍画《楞伽经》变相，及五祖血脉图，流传供养。神秀作偈成已，数度欲呈，行至堂前，心中恍惚，遍身汗流，拟呈不得，前后经四日，一十三度呈偈不得。秀乃思惟，不如向廊下书著，从他和尚看见，忽若道好，即出礼拜，云是秀作；若道不堪，枉向山中数年，受人礼拜，更修何道。是夜三更，不使人知，自执灯，书偈于南廊壁间，呈心所见。偈曰：身是菩提树，心如明镜台，时时勤拂拭，勿使惹尘埃。秀书偈了，便却归房，人总不知。秀复思惟，五祖明日，见偈欢喜，即我与法有缘，若言不堪，自是我迷，宿业障重，不合得法，圣意难测。房中思想，坐卧不安，直至五更。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5272.aspx">上一章</a>
+<a href="/guwen/book_65.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5274.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3612" style="width:580px; display:none;"></div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

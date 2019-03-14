@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷六·豢蛇_古诗文网
+</title>
+<meta content="泗水山中旧有禅院，四无村落，人迹罕到，有道士栖止其中。或言内多大蛇，故游人绝迹。一少年入山罗鹰，入既深，夜无归宿，遥见兰若，趋投之。道士惊曰：“居士何来，幸不为儿辈所见！”即命坐，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11636.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·豢蛇</b></span>
+<a href="javascript:PlayBookv(11636)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11636" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11636" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　泗水山中旧有禅院，四无村落，人迹罕到，有道士栖止其中。或言内多大蛇，故游人绝迹。一少年入山罗鹰，入既深，夜无归宿，遥见兰若，趋投之。道士惊曰：“居士何来，幸不为儿辈所见！”即命坐，具饘粥。食未已，一巨蛇入。粗十余围，昂首向客，怒目电衏。客大惧。道士以掌击其额，呵曰：去！”蛇乃俯首入东室。蜿蜒移时，其躯始尽，盘旋其中，一室尽满。客大惧。道士曰：“此平时所豢养。有我在，不妨，所患客自遇之耳。”客甫坐，又一蛇入，较前略小，约可五六围。见客遽止，睒眨吐舌如前状。道士又叱之。亦入室去。室无卧处，半绕梁间，壁上土摇落有声。客益惧，终夜不眠。早起欲归，道士送之。出屋门见墙上阶下，大如盎盏者，行卧不一。见生人，皆有吞噬状。客依道士肘腋而行，使送出谷口，乃归。</p>
+<p>　　余乡有客中州者，寄居蛇佛寺。寺中僧人具晚餐，肉汤甚美，而段段皆圆，类鸡项。疑问寺僧：“杀鸡何乃得多项？”僧曰：“此蛇段耳。”客大惊，有出门而哇者。既寝，觉胸上蠕蠕，摸之，蛇也，顿起骇呼，僧起曰：“此常事，奚足怪！”因以火照壁间，大小满墙，榻上下皆是也。次日，僧引入佛殿。佛座下有巨井，井中有蛇，粗如巨瓮，探首井边而不出。爇火下视，则蛇子蛇孙以数百万计，族居其中。僧云：“昔蛇出为害，佛坐其上以镇之，其患始平”云。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11635.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11637.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

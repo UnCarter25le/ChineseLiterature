@@ -1,0 +1,123 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平广记·卷一百四十五·征应十一（人臣咎征）_古诗文网
+</title>
+<meta content="李钧　高骈　钜鹿守　陕师　严遵美　成汭　刘知俊　田頵　桑维翰　钟傅　顿金　湖南马氏　王慎辞　安守范李钧　　唐李钧之莅临汝也，郡当王仙芝大兵之后。民间多警。李钧以兵力单寡，抗疏闻奏。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_10944.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8886" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一百四十五·征应十一（人臣咎征）</b></span>
+<a href="javascript:PlayBookv(10944)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv10944" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8886)" id="leftbtn8886" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay10944" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89%e3%80%81%e6%89%88%e8%92%99%e3%80%81%e5%be%90%e9%93%89%e7%ad%89">李昉、扈蒙、徐铉等</a></p>
+<div class="contson">
+<p>　　李钧　高骈　钜鹿守　陕师　严遵美　成汭　刘知俊　田頵　桑维翰　钟傅　顿金　湖南马氏　王慎辞　安守范</p>
+<p>　　李钧　　</p>
+<p>　　唐李钧之莅临汝也，郡当王仙芝大兵之后。民间多警。李钧以兵力单寡，抗疏闻奏。诏以昭义军三千五百人镇焉。乾符戊戌岁也，兵至，营于郡西郭。明年春，钧节制上党杂报到，于是镇兵部将，排队于州前通衢，率其属入衙，展君臣之礼。忽有暴风扬尘，起自军门而南，蟠折行伍，拔大旆十余以登。州人愕眙而顾，没于天际。明日，州北二十里大牛谷野人，得旆以献，帛无完幅，枝干皆摺拉矣。钧至上党，统众出雁门，兵既不戢，暴残居民，遂为猛虎军所杀矣。（出《三水小牍》）</p>
+<p>　　高骈　　</p>
+<p>　　唐光启三年，中书令高骈，镇淮海。有蝗行而不飞，自郭西浮濠，缘城入子城，聚于道院，驱除不止。松竹之属，一宿如剪。幡帧画像，皆啗去其头。数日之后，又相啖食。九月中，暴雨方霁，沟渎间忽有小鱼，其大如指，盖雨鱼也。占有兵丧。至十月，有大星夜堕于延和阁前，声若奔雷，迸光碎响，洞照一庭。自十一月至明年二月，昏雾不解。或曰：“下谋上之兆。”是时粒食腾贵，殆逾十倍。寒僵雨仆，日辇数十口，弃之郭外。及霁而达坊静巷，为之一空。是时浙西军变，周宝奔毗陵。骈闻之大喜，遽遣使致书于周曰：“伏承走马，已及奔牛。（“奔牛”堰名，在常州西。）今附齑一瓶，葛粉十斤，以充道途所要。”盖讽其齑粉也。三月，使院致看花宴，骈有与诸从事诗。其末句云：“人间无限伤心事，不得樽前折一枝。”盖亡灭之谶也。及为秦彦幽辱，计口给食。自五月至八月，外围益急，遂及于难。（出《妖乱志》）</p>
+<p>　　钜鹿守　　</p>
+<p>　　唐文德戊申岁，钜鹿郡南和县街北有纸坊，长垣悉曝纸。忽有旋风自西来，卷壁纸略尽，直上穿云，望之如飞雪焉。此兵家大忌也。夏五月，郡守死。（出《三水小牍》）</p>
+<p>　　陕师　　</p>
+<p>　　唐乾宁末，分陕有蛇鼠斗于南门之内，观者如堵。蛇死而鼠亡去。未旬而陕师遇祸。则知内蛇死而郑厉入，群鼠奔向蒲山亡。妖由人兴，可为戒惧。（出《三水小牍》）</p>
+<p>　　严遵美　　</p>
+<p>　　唐左军容使严遵美，阉官中仁人也。尝言北司为供奉官，胯衫给事，无秉简之仪。又云：“枢密使廨署，三间屋书柜而已，亦无视事之厅。堂状后帖黄，指挥公事，乃杨复泰。（“泰”明抄本作“恭”。）夺宰相权也。遵美尝发狂，手足舞蹈之。旁有一猫一犬，猫谓犬曰：“军容改常也。”犬曰：“何用管。”俄而舞定，且异猫犬之言。遇昭宗播迁凤翔，乃求致仕汉中，寻徙于剑南青城山下，卜别墅以居之。年过八十而终。其忠正谦约，与西门李玄为季孟。于时诛宦官，唯西川不奉诏，由是脱祸。家有北司治乱记八卷，备载阉官忠侫好恶，盖巷伯之流也，未必俱为邪僻。良由南班轻忌大过，以致怨怒，盖邦国不幸也。先是路岩自成都移镇渚宫，所乘马忽作人语，且曰：“芦荻花，此花开后路无家。”不久及祸。然畜类之语，岂有物凭之乎？石言于晋，殆斯比也。（出《北梦琐言》）</p>
+<p>　　成汭　　</p>
+<p>　　荆州成汭，唐天复中准诏统军救援江夏，帅次公安县。寺有二金刚神，土人号曰二圣，颇有灵验。舣舟而谒之，且以胜负为褥。汭兆皆不吉。汭惑之，孔目官杨师厚曰：“公业已行，安可疑阻？”于是不得已而进。竟有覆军之败，身死家亡，非偶然也。（出《北梦琐言》）</p>
+<p>　　刘知俊　　</p>
+<p>　　梁彭城王刘知俊镇同州日，因筑营墙，掘得一物，重八十余斤，状若油囊。召宾幕将校问之。或曰地囊，或曰飞廉，或曰金神七杀。独留源曰：“此是冤气所结也。古来囹圄之地或有焉，昔王充据洛阳。修河南府狱，亦获此物，而远祖记之。乃冤死囚人，精爽入地，聚为此物。经百千年，凝结不散。源闻酒能忘忧，请奠以醇醪，或可消释耳。然此物之出，亦非吉征也。”知俊命具酒馔视酹，复瘗之。寻有扳城背主奔秦之事，乃验之矣。（出《鉴戒录》）</p>
+<p>　　田頵　　</p>
+<p>　　宣州节度田頵，将作乱。一日向暮，有鸟赤色，如雉而大，尾有火光，如散星之状，自外飞入，止戟门而不见。翌日，府中大火，曹局皆尽，唯甲兵存焉。頵资以起事，明年遂败。（出《稽神录》）</p>
+<p>　　桑维翰　　</p>
+<p>　　魏公桑维翰，尹开封。一日，尝中夜于正寝独坐，忽大惊悸，如有所见，向空厉声云：“汝焉敢此来！”如是者数四。旬日愤懑不已，虽齐（明抄本“齐”作“贴”）体亦不敢有所发问。未几，梦己整衣冠。严车骑，将有所诣。就乘之次，忽所乘马亡去，追寻莫之所在。既寤，甚恶之，不数日及难。（出《玉堂闲话》）</p>
+<p>　　钟傅　　</p>
+<p>　　南平王钟傅，在江西，有衙门吏孔知让，新治第。昼有一星陨于庭中。知让甚恶之，求典外戎，以空其地。岁余，御史中丞薛绍纬，贬官至豫章，傅取此地第以居之，遂卒于此。（出《稽神录》）</p>
+<p>　　顿金　　</p>
+<p>　　袁州刺史顿金，罢郡还都。有人以紫袱包一物，诣门遗之。开视，则白烂衫也。遽追其人，则亡矣。其年金卒。（出《稽神录》）</p>
+<p>　　湖南马氏　　</p>
+<p>　　湖南武穆王巡边，回舟至洞庭宜春江口，暴风忽至，波如连山，乃见波中，恢诡谲怪，蛟螭出没，云雾昏蒙，有如武夫执戈戟者，有文吏具襕简者，有如捧盘盂者，或绯或绿，倏闪睢盱，莫知何物。左右大骇，衣服器皿悉投之。舟人欲以姬妾为请，王不听。移时风定，仅获存焉。后数年，武穆王薨于位。（出《北梦琐言》）</p>
+<p>　　王慎辞　　</p>
+<p>　　江南通事舍人王慎辞，有别墅在广陵城西，慎辞常与亲友游其上。一日，忽自爱其冈阜之势，叹曰：“我死必葬于此。”是夜，村中间太吠。或起视之，见慎辞独骑徘徊于此。逼之，遂不见。自是夜夜恒至。月余，慎辞卒，竟葬其地。（出《稽神录》）</p>
+<p>　　安守范　　</p>
+<p>　　伪蜀彭州刺史安思谦，男守范，尝与宾客游天台禅院，作联句诗。守范云：“偶到天台院，因逢物外僧。”定戎军推官杨鼎夫云：“忘机同一祖，出语离三乘。”前怀远军巡官周述云：“树老中庭寂，窗虚外境澄。”前眉州判官李仁肇云：“片时松柏下，联续百千灯。”因记于僧壁而去。翌日，有贫子乞食见之，朗言曰：“人道有初无尾，此则有尾无初。却后五年，首颔俱碎，洎不如尾句者。”抚掌大笑。院僧驱迩之。贫子走且告曰：“此后主人，不远千里，即欲到来。”众以为狂，莫测其由。后数年，守范伏法，鼎夫暴亡，此首领俱碎之义。周与李，累授官资，此不如尾句之义也。院主僧寻亦卒。相承住持者，来自兴元，则主不远千里也。贫子之说，一无谬焉。（出《野人闲话》）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_10943.aspx">上一章</a>
+<a href="/guwen/book_119.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_10945.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8886" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

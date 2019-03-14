@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+老残游记·自序_古诗文网
+</title>
+<meta content="婴儿堕地，其泣也呱呱；及其老死，家人环绕，其哭也号陶。然则哭泣也者，固人之所以成始成终也。其间人品之高下，以其哭泣之多寡为衡。盖哭泣者，灵性之现象也，有一分灵性即有一分哭泣，而际遇" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12257.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>自序</b></span>
+<a href="javascript:PlayBookv(12257)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12257" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12257" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e9%b9%97">刘鹗</a></p>
+<div class="contson">
+<p>　　婴儿堕地，其泣也呱呱；及其老死，家人环绕，其哭也号陶。然则哭泣也者，固人之所以成始成终也。其间人品之高下，以其哭泣之多寡为衡。盖哭泣者，灵性之现象也，有一分灵性即有一分哭泣，而际遇之顺逆不与焉。</p>
+<p>　　马与牛，终岁勤苦，食不过刍秣，与鞭策相终始，可谓辛苦矣，然不知哭泣，灵性缺也。猿猴之为物，跳掷于深林，厌饱乎梨栗，至逸乐也，而善啼；啼者，猿猴之哭泣也。故博物家云：猿猴，动物中性最近人者，以其有灵性也。古诗云：“巴东三峡巫峡长，猿啼三声断人肠。”其感情为何如矣！</p>
+<p>　　灵性生感情，感情生哭泣。哭泣计有两类：一为有力类，一为无力类。痴儿騃女，失果则啼，遗簪亦泣，此为无力类之哭泣；城崩杞妇之哭，竹染湘妃之泪，此有力类之哭泣也。有力类之哭泣又分两种：以哭泣为哭泣者，其力尚弱；不以哭泣为哭泣者，其力甚劲，其行乃弥远也。</p>
+<p>　　《离骚》为屈大夫之哭泣，《庄子》为蒙叟之哭泣，《史记》为太史公之哭泣，《草堂诗集》为杜工部之哭泣；李后主以词哭，八大山人以画哭；王实甫寄哭泣于《西厢》，曹雪芹寄哭泣于《红楼梦》。王之言曰：“别恨离愁，满肺腑难陶泄。除纸笔代喉舌，我千种想思向谁说？”曹之言曰：“满纸荒唐言，一把辛酸泪；都云作者痴，谁解其中意？”名其茶曰“千芳一窟”，名其酒曰“万艳同杯”者：千芳一哭，万艳同悲也。</p>
+<p>　　吾人生今之时，有身世之感情，有家国之感情，有社会之感情，有种教之感情。其感情愈深者，其哭泣愈痛：此鸿都百炼生所以有《老残游记》之作也。</p>
+<p>　　棋局已残，吾人将老，欲不哭泣也得乎？吾知海内千芳，人间万艳，必有与吾同哭同悲者焉！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_130.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12258.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

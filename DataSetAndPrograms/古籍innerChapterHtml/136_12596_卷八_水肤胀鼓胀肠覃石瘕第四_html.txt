@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷八·水肤胀鼓胀肠覃石瘕第四_古诗文网
+</title>
+<meta content="黄帝问曰∶水与肤胀、鼓胀、肠覃、石瘕，何以别之？岐伯对曰∶水之始起也，目窠上微肿，如新卧起之状，颈脉动，时咳，阴股间寒，足胫肿，腹乃大。其水已成也，以手按其腹，随手而起，如裹水之状" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12596.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·水肤胀鼓胀肠覃石瘕第四</b></span>
+<a href="javascript:PlayBookv(12596)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12596" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12596" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　黄帝问曰∶水与肤胀、鼓胀、肠覃、石瘕，何以别之？岐伯对曰∶水之始起也，目窠上微肿，如新卧起之状，颈脉动，时咳，阴股间寒，足胫肿，腹乃大。其水已成也，以手按其腹，随手而起，如裹水之状，此其候也。肤胀者，寒气客于皮肤之间，壳壳然不坚，腹大，身尽肿，皮肤浓，按其腹，腹陷而不起，腹色不变，此其候也。鼓胀者，腹身皆肿大如肤胀等，其色苍黄，腹筋（一本作脉）起，此其候也。肠覃者，寒气客于肠外，与卫气相搏，正气不得营，因有所系，瘕而内着，恶气乃起，息肉乃生。其始生也，大如鸡卵，稍以益大。至其成也，如杯子状，久者离岁月，按之则坚，推之则移，月事时下，此其候也。石瘕者，生于胞中，寒气客于子门，子门闭塞，气不通，恶血当泻不泻，血 乃留止，日以益大，状如杯子，月事不以时下，皆生于女子，可导而下之。曰∶肤胀鼓胀可刺耶？曰∶先刺其腹之血络，后调其经，亦刺去其血脉。曰∶有病心腹满，旦食则不能暮食，此为何病？</p>
+<p>　　曰∶此名为鼓胀，治之以鸡矢醴，一剂知，二剂已。曰∶其时有复发者何也？曰∶此食饮不节。故时有病也。虽然其病且已，因当风气聚于腹也。风水肤胀为五十九刺（《灵枢》作五十七刺），取皮肤之血者，尽取之。徒水，先取环谷下三寸，以 针刺之而藏之，引而内之，入而复出，以尽其水，必坚束之，束缓则烦闷，束急则安静。间日一刺之，水尽乃止。饮则闭药，方刺之时徒饮之，方饮无食，方食无饮，无食他食，百三十五日。</p>
+<p>　　水肿，人中尽满，唇反者死，水沟主之。水肿大脐平，灸脐中，无理不治。水肿，水气行皮中，阴交主之。水肿腹大，水胀，水气行皮中，石门主之。石水痛引胁下胀，头眩痛，身尽热，关元主之。振寒大腹石水，四满主之。石水，刺气冲，石水，章门及然谷主之。石水，天泉主之。腹中气盛，腹胀逆（《千金》作水胀逆），不得卧，阴陵泉主之。水中留饮，胸胁支满，刺陷谷，出血，立已。水肿胀皮肿，三里主之。胞中有大疝瘕积聚，与阴相引而痛，苦涌泄上下出，补尺泽、太溪，手阳明寸口皆补之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12595.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12597.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

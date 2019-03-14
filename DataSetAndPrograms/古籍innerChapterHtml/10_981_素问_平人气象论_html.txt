@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·平人气象论_古诗文网
+</title>
+<meta content="黄帝问曰：平人何如？岐伯对曰：人一呼脉再动，一吸脉亦再动，呼吸定息脉五动，闰以太息，命曰平人。平人者不病也。常以不病调病人，医不病，故为病人平息以调之为法。人一呼脉一动，一吸脉一动" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_981.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left801" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·平人气象论</b></span>
+<a href="javascript:PlayBookv(981)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv981" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(801)" id="leftbtn801" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay981" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问曰：平人何如？</p>
+<p>　　岐伯对曰：人一呼脉再动，一吸脉亦再动，呼吸定息脉五动，闰以太息，命曰平人。平人者不病也。常以不病调病人，医不病，故为病人平息以调之为法。</p>
+<p>　　人一呼脉一动，一吸脉一动，曰少气。人一呼脉三动，一吸脉三动而躁，尺热曰病温；尺不热脉滑曰病风；脉涩曰痹。人一呼脉四动以上曰死；脉绝不至曰死；乍疏乍数曰死。</p>
+<p>　　平人之常气禀于胃，胃者平人之常气也；人无胃气曰逆，逆者死。春胃微弦曰平，弦多胃少曰肝病，但弦无胃曰死；胃而有毛曰秋病，毛甚曰今病。藏真散于肝，肝藏筋膜之气也。夏胃微钩曰平，钩多胃少曰心病，但钩无胃曰死；胃而有石曰冬病，石甚曰今病。藏真通于心，心藏血脉之气也。长夏胃微弱曰平，弱多胃少曰脾病，但代无胃曰死；软弱有石曰冬病，弱甚曰今病。藏真濡于脾，脾藏肌肉之气也。秋胃微毛曰平，毛多胃少曰肺病，但毛无胃曰死；毛而有弦曰春病，弦甚曰今病。藏真高于肺，以行荣卫阴阳也。冬胃微石曰平，石多胃少曰肾病，但石无胃曰死；石而有钩曰夏病，钩甚曰今病。藏真下于肾，肾藏骨髓之气也。</p>
+<p>　　胃之大络，名曰虚里。贯鬲络肺，出于左乳下，其动应衣，脉宗气也。盛喘数绝者，则病在中；结则横，有积矣；绝不至，曰死。乳之下，其动应衣，宗气泄也。</p>
+<p>　　欲知寸口太过与不及。寸口之脉中手短者，曰头痛。寸口脉中手长者，曰足胫痛。寸口脉中手促上击者，曰肩背病。寸口脉沉而坚者，曰病在中。寸口脉浮而盛者，曰病在外。寸口脉沉而弱，曰寒热及疝瘕、少腹痛。寸口脉沉而横，曰胁下有积，腹中有横积痛。寸口脉沉而喘，曰寒热。脉盛滑坚者，曰病在外。脉小实而坚者，病在内。脉小弱以涩，谓之久病。脉滑浮而疾者，谓之新病。脉急者，曰疝瘕少腹痛。脉滑曰风。脉涩曰痹。缓而滑曰热中。盛而紧曰胀。脉从阴阳，病易已；脉逆阴阳，病难已。脉得四时之顺，曰病无他；脉反四时及不间脏，曰难已。</p>
+<p>　　臂多青脉，曰脱血。尺脉缓涩，谓之解惰，安卧。脉盛，谓之脱血。尺涩脉滑，谓之多汗。尺寒脉细，谓之后泄。脉尺粗常热者，谓之热中。肝见庚辛死，心见壬癸死，脾见甲乙死，肺见丙丁死，肾见戊已死，是谓真藏见皆死。颈脉动喘疾咳，曰水。目裹微肿，如卧蚕起之状，曰水。溺黄赤，安卧者，黄疸。已食如饥者，胃疸。面肿曰风。足胫肿曰水。目黄者曰黄疸。</p>
+<p>　　妇人手少阴脉动甚者，妊子也。</p>
+<p>　　脉有逆从四时，未有脏形，春夏而脉瘦，秋冬而脉浮大，命曰逆四时也。风热而脉静，泄而脱血脉实，病在中脉虚，病在外脉涩坚者，皆难治，命曰反四时也。</p>
+<p>　　人以水谷为本，故人绝水谷则死，脉无胃气亦死。所谓无胃气者，但得真脏脉，不得胃气也。所谓脉不得胃气者，肝不弦，肾不石也。太阳脉至，洪大以长；少阳脉至，乍数乍疏，乍短乍长；阳明脉至，浮大而短。 夫平心脉来，累累如连珠，如循琅玕，曰心平，夏以胃气为本；病心脉来，喘喘连属，其中微曲，曰心病；死心脉来，前曲后居，如操带钩，曰心死。</p>
+<p>　　平肺脉来，厌厌聂聂，如落榆荚，曰肺平，秋以胃气为本；病肺脉来，不上不下，如循鸡羽，曰肺病；死肺脉来，如物之浮，如风吹毛，曰肺死。</p>
+<p>　　平肝脉来，弱弱招招，如揭长竿末梢，曰肝平，春以胃气为本；病肝脉来，盈实而滑，如循长竿，曰肝病；死肝脉来，急益劲，如新张弓弦，曰肝死。</p>
+<p>　　平脾脉来，和柔相离，如鸡践地，曰脾平，长夏以胃气为本；病脾脉来，实而盈数，如鸡举足，曰脾病；死脾脉来，锐坚如鸟之喙，如鸟之距，如屋之漏，如水之流，曰脾死。</p>
+<p>　　平肾脉来，喘喘累累如钩，按之而坚，曰肾平，冬以胃气为本；病肾脉来，如引葛，按之益坚，曰肾病；死肾脉来，发如夺索，辟辟如弹石，曰肾死。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_980.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_982.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right801" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

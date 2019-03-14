@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷一·五脏六腑阴阳表里第三_古诗文网
+</title>
+<meta content="肺合大肠，大肠者传道之腑。心合小肠，小肠者受盛之腑。肝合胆，胆者清净之腑。脾合胃，胃者五谷之腑。肾合膀胱，膀胱者津液之腑。少阴属肾，上连肺，故将两脏。三焦者，中渎之腑，水道出焉，属" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12502.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·五脏六腑阴阳表里第三</b></span>
+<a href="javascript:PlayBookv(12502)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12502" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12502" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　肺合大肠，大肠者传道之腑。心合小肠，小肠者受盛之腑。肝合胆，胆者清净之腑。脾合胃，胃者五谷之腑。肾合膀胱，膀胱者津液之腑。少阴属肾，上连肺，故将两脏。三焦者，中渎之腑，水道出焉，属膀胱，是孤之腑。此六腑之所合者也。</p>
+<p>　　《素问》曰∶夫脑、髓、骨、脉、胆、女子胞，此六者，地气之所生也。皆藏于阴，象于地，故藏而不泻，名曰奇恒之府。胃、大肠、小肠、三焦、膀胱，此五者，天气之所生也。其气象天，故泻而不藏，此受五脏浊气，名曰传化之府。此不能久留，输泻者也。魄门亦为五脏使，水谷不得久藏。五脏者，藏精气而不泻，故满而不能实。六腑者，传化物而不藏，故实而不能满。水谷入口，则胃实而肠虚，食下则肠实而胃虚，故实而不满，满而不实也。气口何以独为五脏主？胃者，水谷之海，六腑之大源也。（称六腑虽少错，于理相发为佳。）肝胆为合，故足厥阴与少阳为表里。脾胃为合，故足太阴与阳明为表里。肾膀胱为合，故足少阴与太阳为表里。心与小肠为合，故手少阴与太阳为表里。肺与大肠为合，故手太阴与阳明为表里。</p>
+<p>　　五脏者，肺为之盖，巨肩陷，咽喉见于外。心为之主，缺盆之道， （音滑）骨有余，以候内 （音曷干）。肝为之主将，使之候外，欲知坚固，视目大小。脾主为胃（《九墟》《太素》作卫），使之迎粮，视唇舌好恶，以知吉凶。肾者主为外，使之远听，视耳好恶，以知其性。六腑者，胃为之海，广骸（《太素》作HT ）大颈张胸，五谷乃容。鼻隧以长，以候大肠。唇浓人中长，以候小肠。目下裹大，其胆乃横。鼻孔在外，膀胱漏泄。鼻柱中央起，三焦乃约。此所以候六腑也。上下三等，脏安且良矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12501.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12503.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

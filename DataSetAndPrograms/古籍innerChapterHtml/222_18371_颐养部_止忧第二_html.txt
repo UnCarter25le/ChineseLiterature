@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+闲情偶寄·颐养部·止忧第二_古诗文网
+</title>
+<meta content="忧可忘乎？不可忘乎？曰：可忘者非忧，忧实不可忘也。然则忧之未忘，其何能乐？曰：忧不可忘而可止，止即所以忘之也。如人忧贫而劝之使忘，彼非不欲忘也，啼饥号寒者迫于内，课赋索逋者攻于外，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18371.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>颐养部·止忧第二</b></span>
+<a href="javascript:PlayBookv(18371)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18371" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18371" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%b8%94">李渔</a></p>
+<div class="contson">
+<p>　　忧可忘乎？不可忘乎？曰：可忘者非忧，忧实不可忘也。然则忧之未忘，其何能乐？曰：忧不可忘而可止，止即所以忘之也。如人忧贫而劝之使忘，彼非不欲忘也，啼饥号寒者迫于内，课赋索逋者攻于外，忧能忘乎？欲使贫者忘忧，必先使饥者忘啼，寒者忘号，征且索者忘其逋赋而后可，此必不得之数也。若是，则“忘忧”二字徒虚语耳。犹慰下第者以来科必发，慰老而无嗣者以日后必生，迨其不发不生，亦止听之而已，能归咎慰我者而责之使偿乎？语云：“临渊羡鱼，不如退而结网。”慰人忧贫者，必当授以生财之法；慰人下第者，必先予以必售之方；慰人老而无嗣者，当令蓄姬买妾，止妒息争，以为多男从出之地。若是，则为有裨之言，不负一番劝谕。止忧之法，亦若是也。忧之途径虽繁，总不出可备、难防之二种，姑为汗竹，以代树萱。</p>
+<p>　　○止眼前可备之忧</p>
+<p>　　拂意之境，无人不有，但问其易处不易处，可防不可防。如易处而可防，则于未至之先，筹一计以待之。此计一得，即委其事于度外，不必再筹，再筹则惑我者至矣。贼攻于外而民扰于中，其可防乎？俟其既至，则以前画之策，取而予之，切勿自动声色。声色动于外，则气馁于中。此以静待动之法，易知亦易行也。</p>
+<p>　　○止身外不测之忧</p>
+<p>　　不测之忧，其未发也，必先有兆。现乎蓍龟，动乎四体者，犹未必果验。其必验之兆，不在凶信之频来，而反在吉祥之事之太过。乐极悲生，否伏于泰，此一定不移之数也。命薄之人，有奇福，便有奇祸；即厚德载福之人，极祥之内，亦必酿出小灾。盖天道好还，不敢尽私其人，微示公道于一线耳。达者如此，无不思患预防，谓此非善境，乃造化必忌之数，而鬼神必间之秋也。萧墙之变，其在是乎？止忧之法有五：一曰谦以省过，二曰勤以砺身，三曰俭以储费，四曰恕以息争，五曰宽以弥谤。率此而行，则忧之大者可小，小者可无；非循环之数，可以窃逃而幸免也。只因造物予夺之权，不肯为人所测识，料其如此，彼反未必如此，亦造物者颠倒英雄之惯技耳。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18370.aspx">上一章</a>
+<a href="/guwen/book_222.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18372.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

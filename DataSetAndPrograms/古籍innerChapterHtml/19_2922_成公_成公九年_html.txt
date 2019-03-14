@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·成公·成公九年_古诗文网
+</title>
+<meta content="【经】九年春王正月，杞伯来逆叔姬之丧以归。公会晋侯、齐侯、宋公、卫侯、郑伯、曹伯、莒子、杞伯，同盟于蒲。公至自会。二月伯姬归于宋。夏，季孙行父如宋致女。晋人来媵。秋七月丙子，齐侯无" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2922.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1450" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>成公·成公九年</b></span>
+<a href="javascript:PlayBookv(2922)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2922" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1450)" id="leftbtn1450" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2922" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】九年春王正月，杞伯来逆叔姬之丧以归。公会晋侯、齐侯、宋公、卫侯、郑伯、曹伯、莒子、杞伯，同盟于蒲。公至自会。二月伯姬归于宋。夏，季孙行父如宋致女。晋人来媵。秋七月丙子，齐侯无野卒。晋人执郑伯。晋栾书帅师伐郑。冬十有一月，葬齐顷公。楚公子婴齐帅师伐莒。庚申，莒溃。楚人入郓。秦人、白狄伐晋。郑人围许。城中城。 </p>
+<p>　　【传】九年春，杞桓公来逆叔姬之丧，请之也。杞叔姬卒，为杞故也。逆叔姬，为我也。 </p>
+<p>　　为归汶阳之田故，诸侯贰于晋。晋人惧，会于蒲，以寻马陵之盟。季文子谓范文子曰：「德则不竞，寻盟何为？」范文子曰：「勤以抚之，宽以待之，坚强以御之，明神以要之，柔服而伐贰，德之次也。」是行也，将始会吴，吴人不至。 </p>
+<p>　　二月，伯姬归于宋。 </p>
+<p>　　楚人以重赂求郑，郑伯会楚公子成于邓。</p>
+<p>　　夏，季文子如宋致女，覆命，公享之。赋《韩奕》之五章，穆姜出于房，再拜，曰：「大夫勤辱，不忘先君以及嗣君，施及未亡人。先君犹有望也！敢拜大夫之重勤。」又赋《绿衣》之卒章而入。 </p>
+<p>　　晋人来媵，礼也。 </p>
+<p>　　秋，郑伯如晋。晋人讨其贰于楚也，执诸铜鞮。 </p>
+<p>　　栾书伐郑，郑人使伯蠲行成，晋人杀之，非礼也。兵交，使在其间可也。楚子重侵陈以救郑。 </p>
+<p>　　晋侯观于军府，见钟仪，问之曰：「南冠而絷者，谁也？」有司对曰：「郑人所献楚囚也。」使税之，召而吊之。再拜稽首。问其族，对曰：「泠人也。」公曰：「能乐乎？」对曰：「先父之职官也，敢有二事？」使与之琴，操南音。公曰：「君王何如？」对曰：「非小人之所得知也。」固问之，对曰：「其为大子也，师保奉之，以朝于婴齐而夕于侧也。不知其他。」公语范文子，文子曰：「楚囚，君子也。言称先职，不背本也。乐操土风，不忘旧也。称大子，抑无私也。名其二卿，尊君也。不背本，仁也。不忘旧，信也。无私，忠也。尊君。敏也。仁以接事，信以守之，忠以成之，敏以行之。事虽大，必济。君盍归之，使合晋、楚之成。」公从之，重为之礼，使归求成。 </p>
+<p>　　冬十一月，楚子重自陈伐莒，围渠丘。渠丘城恶，众溃，奔莒。戊申，楚入渠丘。莒人囚楚公子平，楚人曰：「勿杀！吾归而俘。」莒人杀之。楚师围莒。莒城亦恶，庚申，莒溃。楚遂入郓，莒无备故也。 </p>
+<p>　　君子曰：「恃陋而不备，罪之大者也；备豫不虞，善之大者也。莒恃其陋，而不修城郭，浃辰之间，而楚克其三都，无备也夫！《诗》曰：『虽有丝、麻，无弃菅、蒯；虽有姬、姜，无弃蕉萃。凡百君子，莫不代匮。』言备之不可以已也。」</p>
+<p>　　秦人、白狄伐晋，诸侯贰故也。 </p>
+<p>　　郑人围许，示晋不急君也。是则公孙申谋之，曰：「我出师以围许，为将改立君者，而纾晋使，晋必归君。」 </p>
+<p>　　城中城，书，时也。</p>
+<p>　　十二月，楚子使公子辰如晋，报钟仪之使，请修好结成。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2921.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2923.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1450" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

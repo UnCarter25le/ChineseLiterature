@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·侯生_古诗文网
+</title>
+<meta content="上谷侯生者，家于荆门，以明经入仕，调补宋州虞城县。初娶南阳韩氏女，五年矣。韩氏尝夕梦黄衣者数辈，召出其门，偕东行十余里，至一官署。其宇下列吏卒数十辈，轩宇华壮，人物极众。又引至一院" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19462.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>侯生</b></span>
+<a href="javascript:PlayBookv(19462)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19462" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19462" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　上谷侯生者，家于荆门，以明经入仕，调补宋州虞城县。初娶南阳韩氏女，五年矣。韩氏尝夕梦黄衣者数辈，召出其门，偕东行十余里，至一官署。其宇下列吏卒数十辈，轩宇华壮，人物极众。又引至一院，有一青衣，危冠方履，状甚峻峙，左右者数百，几案茵席，罗列前后。韩氏再拜。俄有一妇人，年二十许，身长丰丽，衣碧襦绛袖，以金玉钗为首饰，自门而来，称卢氏。谓韩氏日：“妾与子仇敌且久，子知之乎？”韩氏曰：“妾一女子，未尝出深闺，安得有仇敌耶！”卢氏色甚怒，曰：“我前身尝为职官，子诬告我罪而代之，使吾摈斥草野而死，岂非仇敌乎今我诉于上帝，且欲雪前身冤。帝従吾请，汝之死不朝夕矣。”韩氏益惧，欲以词拒，而卢氏喋喋不已。青衣者谓卢氏曰：“汝之冤，诚如是矣。然韩氏固未当死，不可为也。”遂令吏出案牍。吏曰：“韩氏余寿一年。”青衣曰：“可疾遣归，无久留也。”命送至门。行未数里，忽悸而悟。恶之不敢言。自是神色摧沮，若有疾者。侯生讯之，具以梦告。后数月，韩氏又梦卢氏者至其家，谓韩氏曰：“子将死矣。”韩氏惊寤。由是疾益加，岁余遂卒。窃叹异，未尝告于人。后数年，旅游襄汉，途次富水，郡僚兰陵萧某，慕生之善，以女妻之。及萧氏归，常衣绛袖碧襦，以金玉钗为首饰，而又身长丰丽，与韩氏先梦同。生因以韩氏之梦告焉，萧氏闻之，甚不乐，曰：“妾外族卢氏，妾自孩提时，为伯舅见念，命为己女，侯生窃叹异，未尝告于人。后数年，旅游襄汉，途次富水，郡僚兰陵萧某，慕生之善，以女妻之。及萧氏归，常衣绛袖碧襦，以金玉钗为首饰，而又身长丰丽，与韩氏先梦同。生因以韩氏之梦告焉，萧氏闻之，甚不乐，曰：“妾外族卢氏，妾自孩提时，为伯舅见念，命为己女，故以卢为小字，则君亡室之梦信矣。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19461.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19463.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

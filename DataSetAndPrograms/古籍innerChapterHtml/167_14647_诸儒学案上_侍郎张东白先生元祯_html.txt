@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·诸儒学案上·侍郎张东白先生元祯_古诗文网
+</title>
+<meta content="张元祯字廷祥，别号东白，南昌人。少为神童，以闽多书，父携之入闽，使纵观焉。登天顺庚辰进士第，入翰林为庶吉士。故事教习唐诗、晋字、韩欧文，而先生不好也，日取濂、洛、关、闽之书读之。授" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14647.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>诸儒学案上·侍郎张东白先生元祯</b></span>
+<a href="javascript:PlayBookv(14647)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14647" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14647" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　张元祯字廷祥，别号东白，南昌人。少为神童，以闽多书，父携之入闽，使纵观焉。登天顺庚辰进士第，入翰林为庶吉士。故事教习唐诗、晋字、韩欧文，而先生不好也，日取濂、洛、关、闽之书读之。授编修。成化初，疏请行三年丧。又言治道本原在讲学、听治、用人、厚俗，与当国不合，移病归，家居二十年，益潜心理学。弘治初，召修《宪宗实录》，进左赞善，上疏劝行王道。陞南京侍讲学士，终养。九年，召修《大明会典》。进翰林学士，侍经筵，上注甚，特迁卑座，以听其讲。丁忧丧毕，改太常卿，掌詹事府。以为治化根源，莫切於《太极图说》、《西铭》、《定性书》、《敬斋箴》，宜将此书进讲。上因索观之，曰：“天生斯人以开朕也。”武宗即位，进吏部右侍郎，未及上而卒，正德元年十二月晦也。先生既得君，尝以前言往行非时封进，不知者以为私言也。孝宗晏驾，为人指谪，先生亦不辩。先生卓然以斯道自任，一禀前人成法。其言“是心也，即天理也”，已先发阳明“心即理也”之蕴。又言“寂必有感而遂通者在，不随寂而泯；感必有寂然不动者存，不随感而纷。”已先发阳明“未发时惊天动地，已发时寂天寞地”之蕴。则於此时言学，心理为二，动静交致者，别出一头地矣。</p>
+<p>　　语要</p>
+<p>　　斯道在天地，不患践之不力，所患知之弗真。</p>
+<p>　　萧宜翀蚤游聘君之门，友克贞、公甫、居仁诸子，不饰廉隅於泥坐蛇行，不诡冠服於吕縚象佩，不纵浮谈於太极。</p>
+<p>　　此道自程、朱后，所寄不过语言文字，循习既久，只形诸文字，而言语殊不之及。形诸文字，才能执笔，即於性命之奥，帝王之略，极力描写，不以为异。若言语间有及之听者，虽面相隆重，退即号笑之曰：“此道学。”又或公排摈之曰：“此伪学。”士风一至於是。然实由言语者所谈非所见，所见非所履故也。</p>
+<p>　　吾人致力於大本，须灼见外教同中有大不同处。此理在天地间，如今造版籍粮册相似，有总有撒。止知囫囵一大块，而不知辨析於毫釐，略窥影嚮，便尔叫噪，不复致详致谨，反谓得人所未得真乐。鄙礼法为土苴，嗤简策为糟粕，卒至颠瞀老死。大抵实有此者，气象自别，语言动静，何莫非此。若不养得深厚，皆是徒然。此本不跷蹊，不差异，不高远，不粗率，不放肆，彼言动之跷蹊、差异，或务为高远、粗率、放肆者，则其人之能有此与否，可知已。</p>
+<p>　　天地所以相播相荡、相轧相磨，昼夜不息者，其心无他，惟在生物而已。虽其雷霆之震击，霜雪之凋残，亦所以破其顽而禁其盛，非心乎杀之也。人即天理所生之物也，如花木之接，水泉之续，然实皆得是生物之心以为心者也。苟非得是心，则是身无以生矣。是心也，即天理也。天理之在此心，日用之间，本无不流通。但以既有此身，则不能无耳目口鼻。耳目口鼻既不能无，由是诱之以声色之纷华，臭味之甘美，得之不得，而喜怒哀乐之发，遂不能无私焉。身既有私，则此心或为之蔽，而天理渐以泯矣。</p>
+<p>　　寂必有感而遂通者在，不随寂而泯；感必有寂然不动者存，不随感而纷。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14646.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14648.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

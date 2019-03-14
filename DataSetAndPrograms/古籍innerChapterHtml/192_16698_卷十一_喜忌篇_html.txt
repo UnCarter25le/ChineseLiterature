@@ -1,0 +1,152 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十一·喜忌篇_古诗文网
+</title>
+<meta content="四柱排定，三才次分。专以日上天元，配合八字干支。支中有见不见之形，无时不有。神煞相绊，轻重较量。若乃时逢七煞，见之未必为凶。月制干强，其煞反为权印。财官印绶全备，藏蓄於四季之中。官" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16698.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十一·喜忌篇</b></span>
+<a href="javascript:PlayBookv(16698)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16698" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16698" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　四柱排定，三才次分。</p>
+<p>　　专以日上天元，配合八字干支。</p>
+<p>　　支中有见不见之形，无时不有。</p>
+<p>　　神煞相绊，轻重较量。</p>
+<p>　　若乃时逢七煞，见之未必为凶。</p>
+<p>　　月制干强，其煞反为权印。</p>
+<p>　　财官印绶全备，藏蓄於四季之中。</p>
+<p>　　官星财气长生，镇居於寅申巳亥。</p>
+<p>　　庚申时逢戊日，名食神干旺之方。</p>
+<p>　　岁月犯甲丙卯寅，此乃遇而不遇。</p>
+<p>　　月生日干无天财，乃印绶之名。</p>
+<p>　　日禄归时没官星，号青云得路。</p>
+<p>　　阳水叠逢辰位，是壬骑龙背之乡。</p>
+<p>　　阴木独遇子时，为六乙鼠贵之地。</p>
+<p>　　庚日全逢润下，忌壬癸巳午之方。</p>
+<p>　　时遇子申，其福减半。</p>
+<p>　　若逢伤官月建，知凶处未必为凶。</p>
+<p>　　内有正倒禄飞，忌官星亦嫌羁绊。</p>
+<p>　　六癸日时逢寅位，岁月怕戊己二方。</p>
+<p>　　甲子日再逢子时，畏庚辛申酉丑午。</p>
+<p>　　辛癸日多逢丑地，不喜官星。</p>
+<p>　　岁时逢子巳二宫，虚利虚名。</p>
+<p>　　拱禄拱贵，填实则凶。</p>
+<p>　　时上偏财，别宫忌见。</p>
+<p>　　六辛日时逢戊子，嫌午位运喜西方。</p>
+<p>　　五行遇月支偏官，岁时中亦宜制伏。</p>
+<p>　　类有去官留煞，亦有去煞留官。</p>
+<p>　　四柱纯煞有制，定居一品之尊。</p>
+<p>　　略有一位正官，官然混杂反贱。</p>
+<p>　　月令虽逢建禄，切忌会煞为凶。</p>
+<p>　　戊日午月，勿作刃看。</p>
+<p>　　时岁火多，却为印绶。</p>
+<p>　　官星七煞交差，却以合煞为贵。</p>
+<p>　　柱中官星大旺，天元赢弱之名。</p>
+<p>　　日於旺甚无依，若不为僧即道。</p>
+<p>　　印绶生月，岁时忌见财星。</p>
+<p>　　运入财乡，却宜退身避位。</p>
+<p>　　劫财阳刃，切忌时逢。</p>
+<p>　　岁运并临，灾殃立至。</p>
+<p>　　十干背禄，岁时喜见财星。</p>
+<p>　　运至比肩，号曰背禄逐马。</p>
+<p>　　五行正贵，忌冲刑克破之宫。</p>
+<p>　　四柱干支，喜三合六合之地。</p>
+<p>　　日干无气，时逢阳刃不为凶。</p>
+<p>　　官煞两停，喜者存之憎者弃之。</p>
+<p>　　地支天干合多，亦云贪合忘官。</p>
+<p>　　四柱煞旺运纯，身旺为官清贵。</p>
+<p>　　凡见天元太弱，内有弱处复生。</p>
+<p>　　柱中七煞全彰，身旺极贫无寿</p>
+<p>　　（一云，无救）。</p>
+<p>　　无煞女人之命，一贵可作良人。</p>
+<p>　　贵众合多，定是师尼娼婢。</p>
+<p>　　偏官时遇制伏，太过乃是贫儒。</p>
+<p>　　四柱伤官，运入官乡必破。</p>
+<p>　　五行绝处，即是胎元。</p>
+<p>　　生日逢之，名曰受气。</p>
+<p>　　是以阴阳罕测，不可一例而推。</p>
+<p>　　务禀中和之气，神分贵贱。</p>
+<p>　　略出古圣之遗书，约以今贤之博览。</p>
+<p>　　若遵此法，参详鉴命，无差无误。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16697.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16699.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

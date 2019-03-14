@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+抱朴子·外篇·清鉴_古诗文网
+</title>
+<meta content="抱朴子曰;咸谓勇力绝伦者， 则上将之器;洽闻治乱者， 则三九之才也。 然张飞关羽万人之敌， 而皆丧元辱主， 授首非所;孔融边让文学邈俗， 而并不达治务， 所在败绩。 邓禹马援田间诸" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9528.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>外篇·清鉴</b></span>
+<a href="javascript:PlayBookv(9528)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9528" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9528" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e6%b4%aa">葛洪</a></p>
+<div class="contson">
+<p>　　抱朴子曰;咸谓勇力绝伦者， 则上将之器;洽闻治乱者， 则三九之才也。 然张飞关羽万人之敌， 而皆丧元辱主， 授首非所;孔融边让文学邈俗， 而并不达治务， 所在败绩。 邓禹马援田间诸生， 而善於用兵;萧何曹叁不涉经诰， 而优於宰辅。 尔则知人果未易也。 欲试可乃已， 则恐成折足覆食束;欲听言察貌， 则或似是而非， 真伪混错。 然而世人甚以为易， 经耳过目， 谓可精尽。 余甚猜焉， 未敢许也。</p>
+<p>　　区别臧否， 瞻形得神， 存乎其人， 不可力为。 自非明并日月， 听闻无音者， 愿加清澄， 以渐进用， 不可顿任。 轻假利器， 收还之既甚难， 所损者亦已多矣。 无以一事暗保其余， 同乎己者， 未必可用;异於我者， 未必可忽也。</p>
+<p>　　或难曰:“夫在天者垂象， 在地者有形， 故望山度水， 则高深可推;风起云飞， 则吉凶可步。 智者睹木不瘁， 则悟美玉之在山;觌岸不枯， 则觉明珠之沈渊。 彗星出， 则知鳣鱼之方死;日月蚀， 则识骐驎之共斗。 华霍不须称， 而无限之重可知矣;江河不待量， 而不测之数已定矣。 鸿鹄之翼， 騄骐之足， 虽未飞走， 轻迅可必也。 豪曹之剑， 徐氏匕首， 虽未奋击， 其立断无疑也。</p>
+<p>　　駮子有吞牛之容， 鹗鷧有凌鸷之貌。 卉茂者土必沃， 鱼大者水必广。 虎尾不附狸身， 象牙不出鼠口。 叔鱼无餍之心， 见於初生之状;食我灭宗之徵， 著乎开胞之始。 申童觉窃妻之巫臣， 张负知将贵之陈平。 范子所以绝迹於五湖者， 以句践蜂目而鸟喙也。 赵人所以息意於争锋者， 以白起首锐而视直也。 文王之接吕尚， 桑阴未移， 而知其足师矣。 玄德之见孔明， 晷景未改， 而腹心已委矣。</p>
+<p>　　郭泰中才， 犹能知人， 故入颍川则友李元礼， 到陈留则结符伟明， 入外黄则亲韩子助， 至蒲亨则师仇季知， 止学舍则收魏德公， 观耕者则拔茅季伟， 奇孟敏於担负， 戒元艾之必败。 终如其言， 一无差错。 必能简精钝於符表， 详舒急乎声气， 料明暗於举厝， 察清浊於财色， 观取与於宜适， 谓虚实於言行， 考操业於闺阃， 校始终於信效， 善否之验， 不其易乎? ”</p>
+<p>　　抱朴子答曰:“余非谓人物了不可知， 知人挺无形理也。 徒以斯术存乎大明， 非夫当人自许。 然而世士各谓能之， 是以有云， 以警付任耳。 夫貌望丰伟者不必贤， 而形器尪瘁者不必愚， 咆哮者不必勇， 淳淡者不必怯。 或外候同而用意异， 或气性殊而所务合。 非若天地有常候， 山川有定止也。</p>
+<p>　　物亦故有远而易知， 近而难料， 譬犹眼能察天衢， 而不能周项领之间;耳能闻雷霆， 而不能识虫岂虱之音也。 唐吕樊许善於相人状， 唯知寿夭贫富官秩尊卑， 而不能审情性之宽克， 志行之洿隆。 惟帝难之， 况庸人乎! 而吾子举论形之例， 诘精神之谈， 未修其本， 殆失指矣。</p>
+<p>　　“夫亡射之箭， 皆破秋毫。 然准的恒不得为工。 叔向之母， 申氏之子， 非不一得， 然不能常也。 陶唐稽古而失任， 姬公钦明而谬授。 尼父远得崇替於未兆， 近失澹台於形骸。 延州审清浊於千载之外， 而蔽奇士於咫尺之内。 知人之难， 如此其甚。 郭泰所论， 皆为此人过上圣乎? 但其所得者， 显而易识;其所失者， 人不能纪。</p>
+<p>　　“且夫所贵， 贵乎见俊才於无名之中， 料逸足乎吴坂之间， 掇怀珠之蚌於九渊之底， 指含光之珍於积石之中。 若伯喈识绝音之器於烟烬之余， 平子剔逸响之竹於未用之前。 六军之聚， 市人之会， 暂观一睹， 无所眩惑， 探其潜生之心计， 定其始终之事行， 乃为独见不传之妙耳。 若如未论(原文有脱文)， 必俟考其操蹈之全毁， 观其云为之好丑， 此为丝线既铨衡， 布帛已历於丈尺， 徐乃说其斤两之轻重， 端匹之修短， 人皆能之， 何烦於明哲哉! ”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9527.aspx">上一章</a>
+<a href="/guwen/book_103.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9529.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

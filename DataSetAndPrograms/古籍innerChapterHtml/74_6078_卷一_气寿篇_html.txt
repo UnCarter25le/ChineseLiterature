@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+论衡·卷一·气寿篇_古诗文网
+</title>
+<meta content="凡人禀命有二品，一曰所当触值之命，二曰强弱寿夭之命。所当触值，谓兵烧压溺也。强寿弱夭，谓禀气渥薄也。兵烧压溺，遭以所禀为命，未必有审期也。若夫强弱夭寿以百为数，不至百者，气自不足也" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6078.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4728" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·气寿篇</b></span>
+<a href="javascript:PlayBookv(6078)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6078" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4728)" id="leftbtn4728" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6078" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e5%85%85">王充</a></p>
+<div class="contson">
+<p>　　凡人禀命有二品，一曰所当触值之命，二曰强弱寿夭之命。所当触值，谓兵烧压溺也。强寿弱夭，谓禀气渥薄也。兵烧压溺，遭以所禀为命，未必有审期也。若夫强弱夭寿以百为数，不至百者，气自不足也。夫禀气渥则其体强，体强则其命长；气薄则其体弱，体弱则命短。命短则多病，寿短。始生而死，未产而伤，禀之薄弱也。渥强之人，不卒其寿，若夫无所遭遇，虚居困劣，短气而死，此禀之薄，用之竭也。此与始生而死，未产而伤，一命也，皆由禀气不足，不自致於百也。 </p>
+<p>　　人之禀气，或充实而坚强，或虚劣而软弱。充实坚强，其年寿；虚劣软弱，失弃其身。天地生物，物有不遂；父母生子，子有不就。物有为实，枯死而堕；人有为兒，夭命而伤。使实不枯，亦至满岁；使兒不伤，亦至百年。然为实、兒而死枯者，禀气薄，则虽形体完，其虚劣气少，不能充也。兒生，号啼之声鸿朗高暢者寿，嘶喝湿下者夭。何则？禀寿夭之命，以气多少为主性也。妇人疏字者子活，数乳者子死。何则？疏而气渥，子坚强；数而气薄，子软弱也。怀子而前已产子死，则谓所怀不活。名之曰怀，其意以为已产之子死，故感伤之子失其性矣。所产子死、所怀子凶者，字乳亟数，气薄不能成也；虽成人形体，则易感伤，独先疾病，病独不治。 </p>
+<p>　　百岁之命，是其正也。不能满百者，虽非正，犹为命也。譬犹人形一丈，正形也，名男子为丈夫，尊公妪为丈人。不满丈者，失其正也，虽失其正，犹乃为形也。夫形不可以不满丈之故谓之非形，犹命不可以不满百之故谓之非命也。非天有长短之命，而人各有禀受也。由此言之，人受气命於天，卒与不卒，同也。语曰：“图王不成，其弊可以霸。”霸者，王之弊也。霸本当至於王，犹寿当至於百也。不能成王，退而为霸；不能至百，消而为夭。王霸同一业，优劣异名；寿夭或一气，长短殊数。何以知不满百为夭者百岁之命也？以其形体小大长短同一等也。百岁之身，五十之体，无以异也；身体不异，血气不殊；鸟兽与人异形，故其年寿与人殊数。 </p>
+<p>　　何以明人年以百为寿也？世间有矣。儒者说曰：太平之时，人民侗长，百岁左右，气和之所生也。《尧典》曰：“朕在位七十载。”求禅得舜，舜征三十岁在位。尧退而老，八岁而终，至殂落，九十八岁。未在位之时，必已成人，今计数百有余矣。又曰：“舜生三十，征用三十，在位五十载，陟方乃死。”适百岁矣。文王谓武王曰：“我百，尔九十。吾与尔三焉。”文王九十七而薨，武王九十三而崩。周公，武王之弟也，兄弟相差，不过十年。武王崩，周公居摄七年，复政退老，出入百岁矣。邵公，周公之兄也，至康王之时，尚为太保，出入百有余岁矣。圣人禀和气，故年命得正数。气和为治平，故太平之世多长寿人。百岁之寿，盖人年之正数也，犹物至秋而死，物命之正期也。物先秋後秋，则亦如人死或增百岁，或减百也；先秋後秋为期，增百减百为数。物或出地而死，犹人始生而夭也；物或逾秋不死，亦如人年多度百至於三百也。传称：老子二百余岁，邵公百八十。高宗享国百年，周穆王享国百年，并未享国之时，皆出百三十四十岁矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6077.aspx">上一章</a>
+<a href="/guwen/book_74.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6079.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4728" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷五·针道终始第五_古诗文网
+</title>
+<meta content="凡刺之道，毕于终始。明知终始，五脏为纪，阴阳定矣。阴者主脏，阳者主腑。阳受气于四肢，阴受气于五脏。故泻者迎之，补者随之。知迎知随，气可令和。和气之方，必通阴阳。五脏为阴，六腑为阳。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12570.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·针道终始第五</b></span>
+<a href="javascript:PlayBookv(12570)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12570" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12570" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　凡刺之道，毕于终始。明知终始，五脏为纪，阴阳定矣。阴者主脏，阳者主腑。阳受气于四肢，阴受气于五脏。故泻者迎之，补者随之。知迎知随，气可令和。和气之方，必通阴阳。五脏为阴，六腑为阳。谨奉天道，请言终始。终始者，经脉为纪，持其脉口人迎，以知阴阳有余不足，平与不平，天道毕矣。所谓平人者，不病也。不病者，脉口人迎应四时也，上下相应而俱往来也，六经之脉不结动也，本末相遇，寒温相守司，形肉血气必相称也，是谓平人。若少气者，脉口人迎俱少而不称尺寸。如是者，则阴阳俱不足，补阳则阴竭，泻阴则阳脱。如是者，可将以甘药，不可饮以至剂。如此者弗灸。不已者，因而泻之，则五脏气坏矣。人迎一盛，病在足少阳，一盛而躁在手少阳。人迎二盛，病在足太阳，二盛而躁在手太阳。人迎三盛，病在足阳明，三盛而躁在手阳明。人迎四盛且大且数，名曰溢阳，溢阳为外格。脉口一盛，病在足厥阴，一盛而躁在手心主。脉口二盛，病在足少阴，二盛而躁在手少阴。脉口三盛，在足太阴，三盛而躁在手太阴。脉口四盛且大且数，名曰溢阴。溢阴为内关，不通者死不治。人迎与太阴脉口俱盛四倍以上，名曰关格。关格者与之短期。人迎一盛，泻足少阳而补足厥阴，二泻一补，日一取之，必切而验之，疏取之，上气和乃止。人迎二盛，泻足太阳而补足少阴，二泻一补，二日一取之，必切而验之，疏取之，上气和乃止。人迎三盛，泻足阳明而补足太阴，二泻一补，日一取之，必切而验之，疏取之，上气和乃止。脉口一盛，泻足厥阴而补足少阳，二补一泻，日一取之，必切而验之，气和乃止，疏取之。脉口二盛，泻足少阴而补足太阳，二泻一补，二日一取之，必切而验之，气和乃止，疏取之。脉口三盛，泻足太阴而补足阳明，二补一泻，日二取之，必切而验之，气和乃止，疏取之。所以日二取之者，太阴主胃，大富于谷，故可日二取之也。人迎脉口俱盛四倍（《灵枢》作三倍）以上，名曰阴阳俱溢。如是者，不开则血脉闭塞，气无所行，流淫音声益彰，耳目聪明，反此者，血气不行。所谓气至而有效者，泻则益虚，虚者脉大如其故而不坚也。大如故而益坚者，适虽言快，病未去也。补则益实，实者脉大如其故而益坚也。大如故而不坚者，适虽言快，病未去也。故补则实，泻则虚，病虽不随针减，病必衰去矣。必先通十二经之所生病，而后可传于终始。故阴阳不相移，虚实不相顷，取之其经。</p>
+<p>　　凡刺之属三刺至谷气，邪僻妄合，阴阳移居，逆顺相反，浮沉异处，四时不相得，稽留淫，须针而去。故一刺阳邪出，再刺阴邪出，三刺则谷气至而止。所谓谷气至者，已补而实，已泻而虚，故知谷气至也。邪气独去者，阴与阳未能调而病知愈也。故曰补则实，泻则虚，病虽不随针减，病必衰去矣。（此文似解前第三篇中。）</p>
+<p>　　阳盛而阴虚，先补其阴，后泻其阳而和之。阴盛而阳虚，先补其阳，后泻其阴而和之。</p>
+<p>　　三脉动于足大指之间，必审其虚实。虚而泻之，是谓重虚，重虚病益甚。凡刺此者，以指按之，脉动而实且疾者则泻之，虚而徐者则补之，反此者病益甚。三脉动（一作重）于大指者，谓阳明在上，厥阴在中，少阴在下。膺 中膺，背 中背，肩 虚者取之上。重舌，刺舌柱以铍针也。手屈而不伸者，其病在筋；伸而不可屈者，其病在骨。在骨守骨，在筋守筋。补须一方实，深取之，稀按其 ，以极出其邪气。一方虚，浅刺之，以养其脉，疾按其，无使邪气得入。邪气之来也紧而疾，谷气之来也徐而和。脉实者，深刺之以泄其气；脉虚者，浅刺之使精气无得出，以养其脉，独出其邪气。刺诸痛者深刺之，诸痛者其脉皆实。从腰以上者，手太阴、阳明主之；从腰以下者，足太阴、阳明主之。病在下者高取之，病在上者下取之，病在头者取之足，病在腰者取之 ，病生于头者头重，生于手者臂重，生于足者足重。治病者，先刺其病所从生者也。</p>
+<p>　　春气在毫毛，夏气在皮肤，秋气在分肉，冬气在筋骨。刺此病者，各以其时为齐。刺肥人者，以秋冬为之齐；刺瘦人者，以春夏为之齐。刺之痛者阴也，痛而以手按之不得者亦阴也，深刺之。痒者阳也，浅刺之。病在上者阳也，在下者阴也。病先起于阴者，先治其阴而后治其阳；病先起于阳者，先治其阳而后治其阴。久病者邪气入深，刺此病者，深入而久留之，间日复刺之，必先调其左右，去其血脉，刺道毕矣。</p>
+<p>　　凡刺之法，必察其形气。形气未脱，少气而脉又躁，躁厥（一作疾字）者，必为缪刺之。散气可收，聚气可布。深居静处，占神往来，闭户塞牖，魂魄不散，专意一神，精气之分，无闻人声，以收其精，必一其神，令志在针。浅而留之，微而浮之，以移其神，气至乃休。男女内外，坚拒勿出，谨守勿内，是谓得气。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12569.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12571.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,119 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+管子·乘马_古诗文网
+</title>
+<meta content="立国凡立国都，非于大山之下，必于广川之上；高毋近旱，而水用足；下毋近水，而沟防省；因天材，就地利，故城郭不必中规矩，道路不必中准绳。大数无为者帝，为而无以为者王，为而不贵者霸，不自" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3582.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2239" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>乘马</b></span>
+<a href="javascript:PlayBookv(3582)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3582" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2239)" id="leftbtn2239" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3582" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ae%a1%e4%bb%b2%e5%8f%8a%e9%97%a8%e5%be%92">管仲及门徒</a></p>
+<div class="contson">
+<p>　　立国</p>
+<p>　　凡立国都，非于大山之下，必于广川之上；高毋近旱，而水用足；下毋近水，而沟防省；因天材，就地利，故城郭不必中规矩，道路不必中准绳。</p>
+<p>　　大数</p>
+<p>　　无为者帝，为而无以为者王，为而不贵者霸，不自以为所贵，则君道也。贵而不过度，则臣道也。</p>
+<p>　　地政</p>
+<p>　　地者，政之本也。朝者，义之理也。市者，货之准也。黄金者，用之量也。诸侯之地，千乘之国者，器之制也。五者其理可知也，为之有道。地者政之本也，是故地可以正政也，地不平均和调，则政不可正也；政不正，则事不可理也。</p>
+<p>　　阴阳</p>
+<p>　　春秋冬夏，阴阳之推移也。时之短长，阴阳之利用也；日夜之易，阴阳之化也；然则阴阳正矣，虽不正，有余不可损，不足不可益也。天地莫之能损益也。然则可以正政者地也。故不可不正也，正地者，其实必正，长亦正，短亦正；小亦正，大亦正；长短大小尽正。正不正，则官不理；官不理，则事不治；事不治，则货不多；是故何以知货之多也？曰：事治。何以知事之治也？曰：货多。货多事治，则所求于天下者寡矣，为之有道。</p>
+<p>　　爵位</p>
+<p>　　朝者，义之理也。是故爵位正而民不怨；民不怨，则不乱，然后义可理。理不正，则不可以治；而不可不理也，故一国之人，不可以皆贵；皆贵，则事不成而国不利也。为事之不成，国之不利也。使无贵者，则民不能自理也，是故辨于爵列之尊卑，则知先后之序，贵贱之义矣，为之有道。</p>
+<p>　　务市事</p>
+<p>　　市者，货之准也。是故百货贱，则百利不得。百利不得，则百事治。百事治，则百用节矣；是故事者生于虑，成于务，失于傲。不虑则不生，不务则不成，不傲则不失，故曰：市者可以知治乱，可以知多寡，而不能为多寡，为之有道。</p>
+<p>　　黄金</p>
+<p>　　黄金者，用之量也。辨于黄金之理，则知侈俭。知侈俭，则百用节矣，故俭则伤事，侈则伤货；俭则金贱，金贱则事不成，故伤事。</p>
+<p>　　侈则金贵，金贵则货贱，故伤货。货尽而后知不足，是不知量也，事已，而后知货之有余，是不知节也，不知量，不知节不可，为之有道。</p>
+<p>　　诸侯之地千乘之国</p>
+<p>　　诸侯之地，千乘之国者，器之制也。天下乘马服牛，而任之轻重有制，有壹宿之行，道之远近有数矣。是知诸侯之地千乘之国者，所以知地之小大也，所以知任之轻重也；重而后损之，是不知任也；轻而后益之，是不知器也。不知任不知器不可，为之有道。</p>
+<p>　　士农工商</p>
+<p>　　地之不可食者，山之无木者，百而当一。涸泽，百而当一。地之无草木者，百而当一。樊棘杂处，民不得入焉，百而当一。薮，镰缠得入焉，九而当一。蔓山，其木可以为材，可以为轴，斤斧得入焉，九而当一。汎山，其木可以为棺，可以为车，斤斧得入焉，十而当一。流水，网罟得入焉，五而当一。林，其木可以为棺，可以为车，斤斧得入焉，五而当一。泽，网罟得入焉，五而当一。命之曰地均，以实数。方六里，命之曰暴。五暴命之曰部。五部命之曰聚。聚者有市，无市则民乏。五聚命之曰某乡，四乡命之曰方，官制也。官成而立邑。五家而伍，十家而连，五连而暴。五暴而长，命之曰某乡。四乡命之曰都，邑制也，邑成而制事。四聚为一离，五离为一制，五制为一田，二田为一夫，三夫为一家，事制也。事成而制器，方六里，为一乘之地也。一乘者，四马也。一马其甲七，其蔽五。四乘，其甲二十有八，其蔽二十。白徒三十人奉车两，器制也。方六里，一乘之地也。方一里，九夫之田也。黄金一镒，百乘一宿之尽也，无金则用其绢。季绢三十三制当一镒，无绢则用其布。经暴布百两当一镒，一镒之金，食百乘之一宿，则所市之地，六灸一斗，命之曰中，岁有市无市，则民不乏矣。方六里，名之曰社，有邑焉，名之曰央，亦关市之赋。黄金百镒为一箧，其货一谷笼为十箧。其商茍在市者三十人。其正月十二月，黄金一镒，命之曰正。分春曰书比，立夏曰月程，秋曰大稽。与民数得亡。三岁修封，五岁修界。十岁更制，经正也。十仞见水不大潦，五尺见水不大旱，十一仞见水轻征，十分去二三，二则去三四，四则去四，五则去半，比之于山。五尺见水，十分去一，四则去三，三则去二，二则去一，三尺而见水，比之于泽。距国门以外，穷四竟之内，丈夫二犁，童五尺一犁，以为三日之功。正月，令农始作，服于公田农耕，及雪释，耕始焉，芸卒焉。士闻见博，学意察，而不为君臣者，与功而不与分焉。贾知贾之贵贱，日至于市，而不为官贾者，与功而不与分焉。工治容貌功能，日至于市，而不为官工者，与功而不与分焉。不可使而为工，则视货离之实而出夫粟。是故智者知之，愚者不知，不可以教民。巧者能之，拙者不能，不可以教民。非一令而民服之也，不可以为大善。非夫人能之也，不可以为大功；是故非诚贾不得食于贾，非诚工不得食于工，非诚农不得食于农，非信士不得立于朝。是故官虚而莫敢为之请，君有珍车珍甲而莫之敢有。君举事，臣不敢诬其所不能。君知臣，臣亦知君知己也；故臣莫敢不竭力俱操其诚以来。道曰，均地分力，使民知时也，民乃知时日之蚤晏，日月之不足，饥寒之至于身也；是故夜寝蚤起，父子兄弟，不忘其功。为而不倦，民不惮劳苦。故不均之为恶也：地利不可竭，民力不可殚。不告之以时，而民不知；不道之以事，而民不为。与之分货，则民知得正矣，审其分，则民尽力矣，是故不使而父子兄弟不忘其功。</p>
+<p>　　圣人</p>
+<p>　　圣人之所以为圣人者，善分民也。圣人不能分民，则犹百姓也，于己不足，安得名圣。是故有事则用，无事则归之于民，唯圣人为善讬业于民。民之生也，辟则愚，闭则类，上为一。下为二。</p>
+<p>　　失时</p>
+<p>　　时之处事精矣，不可藏而舍也。故曰，今日不为，明日忘货。昔之日已往而不来矣。</p>
+<p>　　地里</p>
+<p>　　上地方八十里，万室之国一，千室之都四；中地方百里，万室之国一，千室之都四。下地方百二十里，万室之国一，千室之都四。以上地方八十里，与下地方百二十里，通于中地方百里。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3581.aspx">上一章</a>
+<a href="/guwen/book_34.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3583.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2239" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

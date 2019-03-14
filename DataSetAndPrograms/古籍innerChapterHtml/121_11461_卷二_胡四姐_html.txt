@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷二·胡四姐_古诗文网
+</title>
+<meta content="尚生泰山人，独居清斋。会值秋夜，银河高耿。明月在天，徘徊花阴，颇存遐想。忽一女子逾垣来，笑曰：“秀才何思之深？”生就视，容华若仙。惊喜拥入，穷极狎昵。自言胡氏，名三姐。问其居第，但" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11461.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·胡四姐</b></span>
+<a href="javascript:PlayBookv(11461)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11461" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11461" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　尚生泰山人，独居清斋。会值秋夜，银河高耿。明月在天，徘徊花阴，颇存遐想。忽一女子逾垣来，笑曰：“秀才何思之深？”生就视，容华若仙。惊喜拥入，穷极狎昵。自言胡氏，名三姐。问其居第，但笑不言。生亦不复置问，惟相期永好而已。自此临无虚夕。一夜与生促膝灯幕，生爱之，瞩盼不转。女笑曰：“眈眈视妾何为？”曰：“我视卿如红叶碧桃，虽竟夜视勿厌也。”三姐曰：“妾陋质，遂蒙青盼如此，若见吾家四妹，不知如何颠倒。”生益倾动，恨不一见颜色，长跽哀请。</p>
+<p>　　逾夕果偕四姐来。年方及笄，荷粉露垂，杏花烟润，嫣然含笑，媚丽欲绝。生狂喜，引坐。三姐与生同笑语，四姐惟手引绣带，俯首而已。未几三姐起别，妹欲从行，生曳之不释，顾三姐曰：“卿卿烦一致声。”三姐乃笑曰：“狂郎情急矣！妹子一为少留。”四姐无语，姊遂去。二人备尽欢好，既而引臂替枕，倾吐生平，无复隐讳。四姐自言为狐，生依恋其美，亦不之怪。四姐因言：“阿姊狠毒，业杀三人矣，惑之无不毙者。妾幸承溺爱，不忍见灭亡，当早绝之。”生惧，求所以处。四姐曰：“妾虽狐，得仙人正法，当书一符粘寝门，可以却之。”遂书之。既晓三姐来，见符却退，曰：“婢子负心，倾意新郎，不忆引线人矣。汝两人合有夙分，余亦不相仇，但何必尔？”乃径去。数日四姐他适，约以隔夜。</p>
+<p>　　是日生偶出门眺望，山下故有槲林，苍莽中出一少妇，亦颇风韵。近谓生曰：”秀才何必日沾沾恋胡家姊妹？渠又不能以一钱相赠。”即以一贯授生，曰：“先持归贳良酝，我即携小肴馔来，与君为欢。”生怀钱归，果如所教。少间妇果至，置几上燔鸡、咸彘肩各一，即抽刀子缕切为脔。酾酒调谑，欢洽异常。继而灭烛登床，狎情荡甚。既明始起，方坐床头，捉足易舄，忽闻人声。倾听，已入帏幕，则胡姊妹也。妇乍睹，仓惶而遁，遗舄于床。二女遂叱曰：“骚狐！何敢与人同寝处！”追去，移时始返。四姐怨生曰：“君不长进，与骚狐相匹偶，不可复近！”遂悻悻欲去。生惶恐自投，情词哀恳；三姊从旁解免，四姐怒稍释，由此相好如初。</p>
+<p>　　一日有陕人骑驴造门，曰：“吾寻妖物，匪伊朝夕，乃今始得之。”生父以其言异，讯所由来。曰：“小人日泛烟波，游四方，终岁十余月，常八九离桑梓，被妖物盅杀吾弟。归甚悼恨，誓必寻而殄灭之。奔波数千里，殊无迹兆，今在君家。不剪，当有继吾弟而亡者。”时生与女密迩，父母微察之，闻客言大惧，延入令作法。出二瓶。列地上，符咒良久，有黑雾四团，分投瓶中。客喜曰：“全家都到矣。”遂以猪脬裹瓶口，缄封甚固。生父亦喜，坚留客饭。</p>
+<p>　　生心恻然，近瓶窃听，闻四姐在瓶中言：“坐视不救，君何负心？”生意感动。急启所封，而结不可解。四姐又曰：“勿须尔！但放倒坛上旗，以针刺脬作空，予即出矣。”生如其言。果见白气一丝自孔中出，凌霄而去。客出，见旗垂地，大惊曰：“遁矣！此必公子所为。”摇瓶俯听，曰：“幸止亡其一。此物合不死，犹可赦。”乃携瓶别去。</p>
+<p>　　后生在野督佣刈麦，遥见四姐坐树下。生就近之，执手慰问。且曰：“别后十易春秋，今大丹已成。但思君之念未忘，故复一拜问。”生欲与借归。女曰：妾今非昔比，不可以尘情染，后当复见耳。”言已，不知所在。又二十年余，生适独居，见四姐自外至，生喜与语。女曰：“我今名列仙籍，不应再履尘世。但感君情，特报撤瑟之期。可早处分后事，亦勿悲忧。妾当度君为鬼仙，亦无苦也。”乃别而去。至日生果卒。尚生乃友人李文玉之戚好，尝亲见之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11460.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11462.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

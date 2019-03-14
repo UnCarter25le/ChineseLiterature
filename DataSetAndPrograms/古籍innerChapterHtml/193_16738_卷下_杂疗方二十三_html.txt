@@ -1,0 +1,138 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+金匮要略·卷下·杂疗方二十三_古诗文网
+</title>
+<meta content="退五脏虚热，四时加减柴胡饮子方：冬三月加柴胡八分　白朮八分　陈皮五分　大腹槟榔四枚并皮子用　生姜五分　桔梗七分　春三月加枳实　减白朮共六味　夏三月加生姜三分　枳实五分　甘草三分共八" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16738.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷下·杂疗方二十三</b></span>
+<a href="javascript:PlayBookv(16738)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16738" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16738" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e4%bb%b2%e6%99%af">张仲景</a></p>
+<div class="contson">
+<p>　　退五脏虚热，四时加减柴胡饮子方：</p>
+<p>　　冬三月加柴胡八分　白朮八分　陈皮五分　大腹槟榔四枚并皮子用　生姜五分　桔梗七分　春三月加枳实　减白朮共六味　夏三月加生姜三分　枳实五分　甘草三分共八味　秋三月加陈皮三分共六味</p>
+<p>　　上各咀，分为三贴，一贴以水三升，煮取二升，分温三服；如人行四五里进一服，如四体壅，添甘草少许，每贴分作三小贴，每小贴以水一升，煮取七合，温服，再合滓为一服。重煮，都成四服。疑非仲景方。</p>
+<p>　　长服诃黎勒丸方：疑非仲景方。</p>
+<p>　　诃黎勒煨　陈皮　厚朴各三两</p>
+<p>　　上三味，末之，炼蜜丸如梧子大，酒饮服二十丸，加至三十丸。</p>
+<p>　　三物备急丸方：见《千金》司空裴秀为散用亦可。先和成汁，乃倾口中，令从齿间得入，至良验。</p>
+<p>　　大黄一两　干姜一两　巴豆一两　去皮心熬，外研如脂</p>
+<p>　　上药各须精新，先捣大黄、干姜为末，研巴豆内中，合治一千杵，用为散，蜜和丸亦佳，密器中贮之，莫令歇。主心腹诸卒暴百病，若中恶客忤，心腹胀满，卒痛如锥刺，气急口噤，停尸卒死者，以暖水苦酒服大豆许三四丸，或不下，捧头起，灌令下咽，须臾当差，如未差，更与三丸，当腹中鸣，即吐下便差。若口噤，亦须折齿灌之。</p>
+<p>　　治伤寒令愈不复，紫石寒食散方：见《千金翼》。</p>
+<p>　　紫石英　白石英　赤石脂　钟乳研炼　栝蒌根　防风　桔梗　文蛤　鬼臼各十分　太乙余粮十分烧　干姜　附子炮去皮　桂枝去皮各四分</p>
+<p>　　上十三味，杵为散，酒服方寸匕。</p>
+<p>　　救卒死方：</p>
+<p>　　薤捣汁，灌鼻中。</p>
+<p>　　又方：</p>
+<p>　　雄鸡冠，割取血，管吹内鼻中。</p>
+<p>　　猪脂如鸡子大，苦酒一升，煮沸灌喉中。</p>
+<p>　　鸡肝及血，涂面上，以灰围四旁，立起。</p>
+<p>　　大豆二七粒，以鸡子白并酒和，尽以吞之。</p>
+<p>　　救卒死而壮热者方：</p>
+<p>　　矾石半斤，以水一斗半煮消，以渍脚，令没踝。</p>
+<p>　　救卒死而目闭者方：</p>
+<p>　　骑牛临面，捣薤汁灌耳中，吹皂荚末鼻中，立效。</p>
+<p>　　救卒死而张口反折者方：</p>
+<p>　　灸手足两爪后十四壮了，饮以五毒诸膏散。有巴豆者。</p>
+<p>　　救卒死而四肢不收，失便者方：</p>
+<p>　　马屎一升，水三斗，煮取二斗以洗之，又取牛洞稀粪也一升，温酒灌口中。灸心下一寸，脐上三寸，脐下四寸，各一百壮，差。</p>
+<p>　　救小儿卒死而吐利，不知是何病方：</p>
+<p>　　狗屎一丸，绞取汁以灌之；无湿者，水煮干者，取汁。</p>
+<p>　　尸蹶，脉动而无气，气闭不通，故静而死也，治方：脉证见上卷。菖蒲屑，内鼻两孔中吹之，令人以桂屑着舌下。</p>
+<p>　　又方：剔取左角发方寸，烧末，酒和，灌令入喉立起。</p>
+<p>　　救卒死，客忤死，还魂汤主之方。《千金方》云：主卒忤鬼击飞尸，诸奄忽气绝，无复觉，或已无脉，口噤拗不开，去齿下汤。汤下口不下者，分病人发左右，捉肩引之。药下复增取一升，须臾立苏。麻黄三两　去节。一方四两　杏仁去皮尖，七十个　甘草一两炙《千金》用桂心二两。</p>
+<p>　　上三味，以水八升，煮取三升，去滓，分令咽之，通治诸感忤。</p>
+<p>　　又方：</p>
+<p>　　韭根一把　乌梅二七个　吴茱萸半升，炒</p>
+<p>　　上三味，以水一斗煮之，以病人栉内中，三沸，栉浮者生，沉者死，煮取三升，去滓分饮之。</p>
+<p>　　救自缢死，旦至暮，虽已冷，必可治；暮至旦，小难也，恐此当言阴气盛故也。然夏时夜短于昼，又热，犹应可治。又云：心下若微温者，一日以上，犹可治之方。</p>
+<p>　　徐徐抱解，不得截绳，上下安被卧之，一人以脚踏其两肩，手少挽其发，常弦弦勿纵之；一人以手按据胸上，数动之；一人摩捋臂胫，屈伸之。若已僵，但渐渐强屈之，并按其腹，如此一炊顷气从口出，呼吸眼开，而犹引按莫置，亦勿苦劳之，须臾，可少与桂枝汤及粥清，含与之，令濡喉，渐渐能咽，及稍止，若向令两人以管吹其两耳，好，此法最善，无不活也。</p>
+<p>　　凡中暍死，不可使得冷，得冷便死，疗之方：</p>
+<p>　　屈草带，绕暍人脐，使三两人溺其中，令温。亦可用热泥和屈草，亦可扣瓦碗底，按及车缸，以着暍人，取令溺须得流去，此谓道路穷，卒无汤当令溺其中，欲使多人溺，取令温，若汤，便可与之，不可泥及车缸，恐此物冷，暍既在夏月，得热泥土，暖车缸，亦可用也。</p>
+<p>　　救溺死方：</p>
+<p>　　取灶中灰两石余，以埋人，从头至足，水出七孔，即活。</p>
+<p>　　上疗自缢溺暍之法并出自张仲景为之，其意殊绝，殆非常情所及，本草所能关，实救人之大术矣，伤寒家数有暍病，非此遇热之暍。见《外台》《肘后》目。</p>
+<p>　　治马坠及一切筋骨损方：见《肘后方》。</p>
+<p>　　大黄一两，切浸汤成下　绯帛如手大烧灰　乱发如鸡子大烧灰用　久用炊单布一尺，烧灰　败蒲一握三寸　桃仁四十九枚，去皮尖熬　甘草如中指节，炙銼。</p>
+<p>　　上七味，以童子小便，量多少，煎成汤，内酒一大盏，次下大黄，去滓，分温三服，先銼败蒲席半领，煎汤浴，衣被盖覆，斯须，通利数行，痛楚立差，利及浴水赤，勿怪，即瘀血也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16737.aspx">上一章</a>
+<a href="/guwen/book_193.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16739.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

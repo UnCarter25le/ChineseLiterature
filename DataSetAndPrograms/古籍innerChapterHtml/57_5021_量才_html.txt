@@ -1,0 +1,123 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+反经·量才_古诗文网
+</title>
+<meta content="夫人才能参差，大小不同，犹升不可以盛斛，满则弃矣。非其人而使之，安得不殆乎？(傅子曰：“凡品才有九：一曰德行，以立道本；二曰理才，以研事机；三曰政才，以经治体；四曰学才，以综典文；" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5021.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3194" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>量才</b></span>
+<a href="javascript:PlayBookv(5021)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5021" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3194)" id="leftbtn3194" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5021" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b5%b5%e8%95%a4">赵蕤</a></p>
+<div class="contson">
+<p>　　夫人才能参差，大小不同，犹升不可以盛斛，满则弃矣。非其人而使之，安得不殆乎？(傅子曰：“凡品才有九：一曰德行，以立道本；二曰理才，以研事机；三曰政才，以经治体；四曰学才，以综典文；五曰武才，以御军旅；六曰农才，以教耕稼；七曰工才，以作器用；八曰商才，以兴国利；九曰辩才，以长讽议。”此量才者也。) </p>
+<p>　　故伊尹曰：“智通于大道，应变而不穷，辩于万物之情，其言足以调阴阳、正四时、节风雨。如是者，举以为三公。”故三公之事常在于道。 </p>
+<p>　　(汉文帝问陈平曰：“君所主何事？”对曰：“陛下不知臣驽下，使臣待罪宰相。宰相者，上佐天子，燮理阴阳，下遂万物之宜，外镇抚四夷，内亲附百姓，使公卿大夫各得其职。”上曰：“善！” </p>
+<p>　　汉魏相书曰：“臣闻《易》曰：‘天地以顺动，故日月不过、四时不忒；圣人以顺动，则刑罚清而人服。’天地变化，必由阴阳。阴阳之分，以日月为纪。各有常职，不得相干。明主谨于尊天，慎于养人。故立羲和之官，以乘四时，敬授人事。君动静以道，奉顺阴阳，则日月光明，风雨时节，寒暑调和。三者得叙，则灾害不生，人不夭疾，衣食有余矣。此燮理阴阳之大体也。”事具〈洪范〉篇。) </p>
+<p>　　不失四时，通于地利，能通不通，能利不利，如是者，举以为九卿。故九卿之事常在于德。 </p>
+<p>　　通于人事，行犹举绳，通于关梁，实于府库，如是者，举以为大夫。故大夫之事常在于仁。(蜀丞相诸葛亮主簿杨颙曰：“坐而论道，谓之三公；作而行之，谓之卿大夫。”) </p>
+<p>　　忠正强谏而无有奸诈，去私立公而言有法度，如是者，举以为列士。故列士之事常在于义也。故道德仁义定而天下正。(《人物志》曰：“清节之德，师氏之任也；法家之材，司寇之任也；术家之材，三孤之任也；臧否之材，师氏之佐也；伎俩之材，司空之任也；儒学之材，保氏之任也；文章之材，国史之任也；骁雄之材，将帅之任也。”) </p>
+<p>　　太公曰：“多言多语，恶口恶舌，终日言恶，寝卧不绝，为众所憎，为人所疾。此可使要遮闾巷，察奸伺祸。权数好事，夜卧早起，虽剧不悔，此妻子之将也。先语察事，劝而与食，实长希言，财物平均，此十人之将也。忉忉截截，垂意肃肃，不用谏言，数行刑戮，刑必见血，不避亲戚，此百人之将也。讼辩好胜，嫉贼侵凌，斥人以刑，欲整一众，此千人之将也。外貌怍怍，言语时出，知人饥饱，习人剧易，此万人之将也。战战栗栗，日慎一日，近贤进谋，使人知节，言语不慢，忠心诚毕，此十万人之将也(《经》曰：“夫将虽以详重为贵，而不可有不决之疑；虽以博访为能，而不欲有多端之惑。”此论将之妙也。)。温良实长，用心无两；见贤进之，行法不枉，此百万人之将也。勋勋纷纷，邻国皆闻，出入豪居，百姓所亲，诚信缓大，明于领世，能效成事，又能救败，上知天文，下知地理，四海之内，皆如妻子，此英雄之率，乃天下之主也。” </p>
+<p>　　(《人物志》曰：“聪明秀出，谓之英；胆力过人，谓之雄。此其大体之别名也。夫聪明者，英之分也，不得雄之胆则说不行；胆力者，雄之分也，不得英之智则事不立。若聪能谋始，而明不见机，可以坐论而不可以处事；若聪能谋始，明能见机，而勇不能行，可以循常而不可以虑变；若力能过人，而勇不能行，可以为力人，未可以为先登；力能过人，勇能行之，而智不能料事，可以为先登，未足以为将帅。必聪能谋始，明能见机，胆能决之，然后乃可以为英，张良是也。气力过人，勇能行之，智足料事，然后乃可以为雄，韩信是也。若一人之身兼有英雄，则能长世，高祖、项羽是也。”) </p>
+<p>　　《经》曰：“智如源泉，行可以为表仪者，人师也；智可以砥砺，行可以为辅警者，人友也；据法守职而不敢为非者，人吏也；当前快意，一呼再诺者，人隶也。故上主以师为佐，中主以友为佐，下主以吏为佐，危亡之主以隶为佐。”欲观其亡，必由其下。 </p>
+<p>　　故同明者相见，同听者相闻，同志者相从，非贤者莫能用贤。故辅佐左右所欲任使者，存亡之机，得失之要。 </p>
+<p>　　孙武曰：“主孰有道？ </p>
+<p>　　(昔汉王见围荥阳，谓陈平曰：“天下纷纷，何时定乎？”平曰：“项王为人，恭敬爱人；士之廉节好礼者，多归之。至于行功赏爵，邑重之士，亦以此不附。今大王慢人少礼；士之顽钝嗜利无耻者，亦多归汉。诚宜各去两短，集其两长，天下指麾不足定也。” </p>
+<p>　　魏太祖谓郭嘉曰：“袁本初地广兵强，吾欲讨之，力不能敌，何如？”嘉对曰：“刘、项之不敌，公所知也。汉祖惟智胜，项羽虽强，终为所擒。嘉窃料之，绍有十败，公有十胜，虽兵强，无能为也。 </p>
+<p>　　绍繁礼多仪，公体任自然，此道胜，一也。 </p>
+<p>　　绍以逆动，公以奉顺，以率天下，此义胜，二也。 </p>
+<p>　　汉末政失于宽，绍以宽济，故不慑；公纠之以猛，而上下知制，此治胜，三也。 </p>
+<p>　　绍外宽内忌，用人而旋疑之，所任唯亲戚子弟耳；公外简易而内机明，用人无疑，唯才能所宜，不问远近，此度胜，四也。 </p>
+<p>　　绍多计少决，失在事后；公策得辄行，应变无穷，此谋胜，五也。 </p>
+<p>　　绍因累世之资，高议揖让，以收名誉，士之好言饰外者多归之；公至心待人，推诚而行之，不为虚美，以俭率下，与有功者无所吝，士之忠正远见而有实者皆愿为用，此德胜，六也。 </p>
+<p>　　绍见人饥寒，恤念之情，形于颜色，其所不见，虑或不及，所谓妇人之仁耳；公于目前小事，时有所忽，至于大事，与四海相接，恩之所加，皆过其望，虽所不见，虑之所周，无不济也，此仁胜，七也。 </p>
+<p>　　绍以大臣争权，谗言惑乱；公御下以道，浸润不行，此明胜，八也。 </p>
+<p>　　绍是非不可知；公所是：进之以礼；所不是，正之以法，此文胜，九也。 </p>
+<p>　　绍好为虚势，不知兵要；公以少克众，用兵如神，军人恃之，敌人畏之，此武胜，十也。” </p>
+<p>　　曹公曰：“吾知之，绍为人志大而智小，色厉而胆薄，忌克而少威，兵多而分画不明，将骄而政令不一，土地虽广，粮食虽丰，适所以为吾奉也。” </p>
+<p>　　杨阜曰：“袁公宽而不断，好谋而少决。不断则无威，少决则后事。今虽强，终为所擒。曹公有雄才远略，决机无疑，法一而兵精，必能济大事也。”) </p>
+<p>　　将孰有能？ </p>
+<p>　　(袁绍率大众攻许，孔融谓荀彧曰：“袁绍地广兵强，田丰、许攸，智计之士，为其谋；审配、逢纪，尽忠之臣，任其事；颜良、文丑，勇冠三军，统其兵。殆难克乎？”彧曰：“绍兵虽多，而法令不整。田丰刚而犯上，许攸贪而不治，审配专而无谋，逢纪果而自用。此二人留，知后事。许攸贪而犯法，必不能纵，不纵必为变。颜良、文丑，一夫之勇耳，可一战而擒也。”后许攸贪不奉法，审配收其妻子，攸怒，奔曹公。又颜良临阵授首，田丰以谏死。皆如彧所料也。) </p>
+<p>　　吾以此知胜之谓矣。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5020.aspx">上一章</a>
+<a href="/guwen/book_57.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5022.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3194" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

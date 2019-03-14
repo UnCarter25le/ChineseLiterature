@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷五·西湖外景·西溪_古诗文网
+</title>
+<meta content="粟山高六十二丈，周回十八里二百步。山下有石人岭，峭拔凝立，形如人状，双髻耸然。过岭为西溪，居民数百家，聚为村市。相传宋南渡时，高宗初至武林，以其地丰厚，欲都之。后得凤凰山，乃云：“" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18460.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·西湖外景·西溪</b></span>
+<a href="javascript:PlayBookv(18460)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18460" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18460" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　粟山高六十二丈，周回十八里二百步。山下有石人岭，峭拔凝立，形如人状，双髻耸然。过岭为西溪，居民数百家，聚为村市。相传宋南渡时，高宗初至武林，以其地丰厚，欲都之。后得凤凰山，乃云：“西溪且留下。”后人遂以名。地甚幽僻，多古梅，梅格短小，屈曲槎桠，大似黄山松。好事者至其地，买得极小者，列之盆池，以作小景。其地有秋雪庵，一片芦花，明月映之，白如积雪，大是奇景。余谓西湖真江南锦绣之地，入其中者，目厌绮丽，耳厌笙歌，欲寻深溪盘谷，可以避世如桃源、菊水者，当以西溪为最。余友江道ウ有精舍在西溪，招余同隐。余以鹿鹿风尘，未能赴之，至今犹有遗恨。</p>
+<p>　　王稚登《西溪寄彭钦之书》：</p>
+<p>　　留武林十日许，未尝一至湖上，然遂穷西溪之胜。舟车程并十八里，皆行山云竹霭中，衣袂尽绿。桂树大者，两人围之不尽。树下花覆地如黄金，山中人缚帚扫花售市上，每担仅当脱粟之半耳。往岁行山阴道上，大叹其佳，此行似胜。</p>
+<p>　　李流芳《题西溪画》：</p>
+<p>　　壬子正月晦日，同仲锡、子与自云栖翻白沙岭至西溪。夹路修篁，行两山间，凡十里，至永兴寺。永兴山下夷旷，平畴远村，幽泉老树，点缀各各成致。自永兴至岳庙又十里，梅花绵亘村落，弥望如雪，一似余家西碛山中。是日，饭永兴，登楼啸咏。夜还湖上小筑，同孟?、印持、子将痛饮。翼日出册子画此。癸丑十月乌镇舟中题。</p>
+<p>　　杨蟠《西溪》诗：</p>
+<p>　　为爱西溪好，长忧溪水穷。山源春更落，散入野田中。</p>
+<p>　　王思任《西溪》诗：</p>
+<p>　　一岭透天目，千溪叫雨头。石云开绣壁，山骨洗寒流。</p>
+<p>　　鸟道苔衣滑，人家竹语幽。此行不作路，半武百年游。</p>
+<p>　　张岱《秋雪庵诗》：</p>
+<p>　　古宕西溪天下闻，辋川诗是记游文。</p>
+<p>　　庵前老荻飞秋雪，林外奇峰耸夏云。</p>
+<p>　　怪石棱层皆露骨，古梅结屈止留筋。</p>
+<p>　　溪山步步堪盘礴，植杖听泉到夕曛。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18459.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18461.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

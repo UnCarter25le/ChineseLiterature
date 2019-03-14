@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文昌孝经·守身章_古诗文网
+</title>
+<meta content="真君曰：所谓孝子，欲体亲心，当先立身。立身之基，贵审其守。无身之始，身于何始？有身之后，身于何育？有挟俱来，不可或昧。当思在我，设处亲身，爱子之身，胜于己身，苦苦乳哺，望其萌芽，冀" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5266.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3537" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>守身章</b></span>
+<a href="javascript:PlayBookv(5266)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5266" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3537)" id="leftbtn3537" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5266" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　真君曰：所谓孝子，欲体亲心，当先立身。立身之基，贵审其守。无身之始，身于何始？有身之后，身于何育？有挟俱来，不可或昧。当思在我，设处亲身，爱子之身，胜于己身，苦苦乳哺，望其萌芽，冀其成材，寸节肢体，日渐栽培，何一非亲。身自劳苦，得有此身，亲爱我身，如是之切，保此亲身，岂不重大，守此亲身，尤当倍笃。尊规合矩，如前所为，矜骄不形，淫佚不生，嗜欲必节。父母之前，声不高厉，气不麤暴，神色温静，举止持祥，习久自然，身有光明，九灵三精，保其吉庆，三尸诸厌，亦化为善，凡有希求，悉称其愿，兢兢终身，保此亲体，无亏而归，是谓守身。苟失其守，块然躯壳，有负父母，生而犹死，抑知人生。体相完备，即有其神，每日在身，各有处所，一身运动，皆神所周。神在脏腑，欲不可纵；神在四肢，刑不可受，纵欲犯刑，非伤即死。凡有身者，所当守护，守真为上，守心次之，守形为下。愚夫匹妇，无所作为，亦足保身，何尔聪明，奸为妄作，昧性忘身，沉溺欲海，全不省悟。大罗天神，观见斯若，发大慈悲，降生圣人，以时救度。惟兹圣人，躬先率孝，加检必谨，加恤必至，不忍斯人，堕厥亲身，一切栽持，遂其所守，种种孝顺，当身体物，体在一身，化在众生，畀兹凡有，同归于道，身居不动，肆应常普，如是守身，是为大孝。</p>
+<p>　　即说偈曰：亲视子身重，常轻己身轻，人何仅负己，损身背吾亲，莫将至性躯，看作血肉形，今生受用者，夙世具灵根。</p>
+<p>　　又说偈曰：一切本来相，受之自父母，谓身即亲身，人犹不之悟，谓亲即身是，重大不可误，完厥惺惺体，尽我所当务，无量大道身，圆满随处是。</p>
+<p>　　又说偈曰：同此亲禀受，一般形体具，善哉孝子身，超出浮尘世，以兹不磨守，保炼中和气，真培金液形，元养玉符体，广大不可限，生初岂有异。</p>
+<p>　　孝子金身咒：惟恐此光明孝子身，果是金刚不坏身，化成即在当身内，现出千千万亿身。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5265.aspx">上一章</a>
+<a href="/guwen/book_64.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5267.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3537" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

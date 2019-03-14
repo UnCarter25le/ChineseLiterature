@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷三·鲁公女_古诗文网
+</title>
+<meta content="招远张于旦，性疏狂不羁，读书萧寺。时邑令鲁公，三韩人，有女好猎。生活遇诸野，见其风姿娟秀，着锦貂裘，跨小骊驹，翩然若画。归忆容华，极意钦想；后闻女暴卒，悼叹欲绝。鲁以家远，寄灵寺中" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11483.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·鲁公女</b></span>
+<a href="javascript:PlayBookv(11483)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11483" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11483" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　招远张于旦，性疏狂不羁，读书萧寺。时邑令鲁公，三韩人，有女好猎。生活遇诸野，见其风姿娟秀，着锦貂裘，跨小骊驹，翩然若画。归忆容华，极意钦想；后闻女暴卒，悼叹欲绝。</p>
+<p>　　鲁以家远，寄灵寺中，即生读所。生敬礼如神明，朝必香，食必祭，每酹而祝曰：“睹卿半面，长系梦魂，不图玉人，奄然物化。今近在咫尺，而邈若河山，恨如何也！然生有拘束，死无禁忌，九泉有灵，当姗姗而来，慰我倾慕。”日夜祝之几半月。一夕挑灯夜读，忽举首，则女子含笑立灯下，生惊起致问。女曰：“感君之情，不能自己，遂不避私奔之嫌。”生大喜，遂共欢好。自此无虚夜。谓生曰：“妾生好弓马，以射獐杀鹿为快，罪孽深重，死无归所。如诚心爱妾，烦代诵《金刚经》一藏数，生生世世不忘也。”生敬受教，每夜起，即柩前捻珠讽诵。偶值节序，欲与偕归，女忧足弱，不能跋履。生请抱负以行，女笑从之。如抱婴儿，殊不重累，遂以为常，考试亦载与俱，然行必以夜。生将赴秋闱，女曰：“君福薄，徒劳驰驱。”遂听其言而止。</p>
+<p>　　积四五年，鲁罢官，贫不能榇，将就窆之，苦无葬地。生及自陈：“某有薄壤近寺，愿葬女公子。”鲁公喜。生又力为营葬。鲁德之而莫解其故。鲁去，二人绸缪如平日。一夜侧倚生怀，泪落如豆，曰：“五年之好，于今别矣！受君恩义，数世不足以酬！”生惊问之。曰：“蒙惠及泉下人，经咒藏满，今得生河北卢户部家。如不忘今日，过此十五年，八月十六日，烦一往会。”生泣下曰：“生三十余年矣，又十五年，将就木焉，会将何为？”女亦泣曰：“愿为奴婢以报。”少间曰：“君送妾六七里，此去多荆棘，妾衣长难度。”乃抱生项，生送至通衢，见路旁车马一簇，马上或一人，或二人；车上或三人、四人、十数人不等；独一钿车，绣缨朱幰，仅一老媪在焉。见女至，呼曰：“来乎？”女应曰：“来矣。”乃回顾生云：“尽此，且去！勿忘所言。”生诺。女行近车，媪引手上之，展軨即发，车马阗咽而去。</p>
+<p>　　生怅怅而归，志时日于壁。因思经咒之效，持诵益虔。梦神人告曰：“汝志良嘉，但须要到南海去。”问：南海多远？”曰：“近在方寸地。”醒而会其旨，念切菩提，修行倍洁。三年后，次子明、长子政，相继擢高科。生虽暴贵，而善行不替。夜梦青衣人邀去，见宫殿中坐一人如菩萨状，逆之曰：“子为善可喜，惜无修龄，幸得请于上帝矣。”生伏地稽首。唤起，赐坐；饮以茶，味芳如兰。又令童子引去，使浴于池。池水清洁，游鱼可数，入之而温，掬之有荷叶香。移时渐入深处，失足而陷，过涉灭顶。惊寤，异之。由此身益健，目益明。自捋其须，白者尽簌簌落；又久之，黑者亦落。面纹亦渐舒。至数月后，颔秃童面，宛如十五六时。辄兼好游戏事，亦犹童。过饰边幅，二子辄匡救之。</p>
+<p>　　未几夫人以老病卒，子欲为求继室于朱门。生曰：“待吾至河北来而后娶。”屈指已及约期，遂命仆马至河北。访之，果有卢户部。先是，卢公生一女，生而能言，长益慧美，父母最钟爱之。贵家委禽，女辄不欲，怪问之，具述生前约。共计其年，大笑曰：“痴婢！张郎计今年已半百，人事变迁，其骨已朽。纵其尚在，发童而齿壑矣。”女不听。母见其志不摇，与卢公谋，戒阍人勿通客，过期以绝其望。未几生至，阍人拒之，退返旅舍，怅恨无所为计。闲游郊郭，因循而暗访之。女谓生负约，涕不食。母言：“渠不来，必已殂谢。即不然，背盟之罪，亦不在汝。”女不语，但终日卧。卢患之，亦思一见生之为人，乃托游遨，遇生于野。视之，少年也，讶之。班荆略谈，甚倜傥。公喜，邀至其家。方将探问，卢即遽起，嘱客暂独坐，匆匆入内告女。女喜，自力起，窥审其状不符，零涕而返，怨父欺罔，公力白其是，女无言，但泣不止。公出，意绪懊丧，对客殊不款曲。生问：“贵族有为户部者乎？”公漫应之。首他顾，似不属客。生觉其慢，辞出。女啼数日而卒。</p>
+<p>　　生夜梦女来，曰：“下顾者果君耶？年貌舛异，觌面遂致违隔。妾已忧愤死。烦向土地祠速招我魂，可得活，迟则无及矣。”既醒，急探卢氏之门，果有女亡二日矣。生大恸，进而吊诸其室，已而以梦告卢。卢从其言，招魂而归，启其衾，抚其尸，呼而祝之，俄闻喉中咯咯有声。忽见朱樱乍启，坠痰块如冰，扶移塌上，渐复吟呻。卢公悦，肃客出，置酒宴会。细展官阀，知其巨家，益喜，择吉成礼。居半月携女而归，卢送至家，半年乃去。夫妇居室俨如小耦，不知者多误以子妇为姑嫜者焉。卢公逾年卒。子最幼，为豪强所中伤，家产儿尽。生迎养之，遂家焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11482.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11484.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

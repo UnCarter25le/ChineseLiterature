@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+中论·上卷·貴言_古诗文网
+</title>
+<meta content="君子必貴其言，貴其言則尊其身，尊其身則重其道，重其道所以立其敎；言費則身賤，身賤則道輕，道輕則敎廢；故君子非其人則弗與之言。若與之言，必以其方：農夫則以稼穡，百工則以技巧，商賈則以" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14783.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上卷·貴言</b></span>
+<a href="javascript:PlayBookv(14783)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14783" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14783" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%b9%b2">徐干</a></p>
+<div class="contson">
+<p>　　君子必貴其言，貴其言則尊其身，尊其身則重其道，重其道所以立其敎；言費則身賤，身賤則道輕，道輕則敎廢；故君子非其人則弗與之言。若與之言，必以其方：農夫則以稼穡，百工則以技巧，商賈則以貴賤，府史則以官守，大夫及士則以法制，儒生則以學業。故《易》曰："艮其輔，言有序。"不失事中之謂也。若夫父慈子孝，姑愛婦順，兄友弟恭，夫敬妻聽，朋友必信，師長必敎，有司日月慮知乎州閭矣。雖庸人則亦循循然與之言，此可也；過此而往，則不可也。</p>
+<p>　　故君子之與人言也，使辭足以逹其知慮之所至，事足以合其性情之所安，弗過其任而強牽制也。苟過其任而強牽制，則將昏瞀委滯，而遂疑君子以爲欺我也。不則曰無聞知矣，非故也，明偏而示之以幽，弗能照也；聽寡而告之以微，弗能察也，斯所資於造化者也。雖曰無訟，其如之何？故孔子曰："可與言而不與之言，失人；不可與言而與之言，失言。"知者不失人，亦不失言。</p>
+<p>　　夫君子之於言也，所致貴也。雖有夏后之璜，商湯之駟，弗與易也。今以施諸俗士，以爲志誣而弗貴聽也，不亦辱己而傷道乎！是以君子將與人語大本之源，而談性義之極者，必先度其心志，本其器量，視其銳氣，察其堕衰。然後唱焉以觀其和，導焉以觀其隨。隨和之徴發乎音聲，形乎視聽，著乎顔色，動乎身體，然後可以邇（原缺一字，《漢魏叢書》本、四庫本作"邇"，據補。按徐本作"幽"。）而歩遠，功察而治微。於是乎闓張以致之，因來以進之，審諭以明之，雜稱以廣之，立凖以正之，疏煩以理之。疾而勿迫，徐而勿失，雜而勿結，放而勿逸，欲其自得之也。故大禹善治水，而君子善導人。導人必因其性，治水必因其勢，是以功無敗而言無弃也。荀卿曰："禮恭然後可與言道之方，辭順然後可與言道之理，色從然後可與言道之致。"有争氣者勿與辨也。孔子曰："惟君子然後能貴其言，貴其色，小人能乎哉？"仲尼、荀卿先後知之。</p>
+<p>　　問者曰："或有周乎上哲之至論，通乎大聖之洪業，而好與俗士辨者何也？"曰：以俗士爲必能識之故也。何以驗之？使彼有金石絲竹之樂，則不奏乎聾者之側；有山龍華蟲之文，則不陳乎瞽者之前；知聾者之不聞也，知瞽者之不見也。於己之心，分數明白，至與俗士而獨不然者，知分數者不明也。不明之故何也？夫俗士之牽逹人也，猶鶉鳥之欺孺子也。鶉鳥之性善近人，飛不峻（《御覽》卷九百二十四作"迅"）也，行（"行"字原脱，据《御覽》補）不速也，蹲蹲然似，卒至乎不可獲，是孺子之所以[足困]膝踠足而不以爲弊也。俗士之與逹人言也，受之雖不肯，拒之則無說。然而有贊焉，有和焉，若將可寤，卒至乎不可寤，是逹人之所以乾唇竭聲而不舍也。（此節《御覽》作"俗士之牽逹人，猶鶉鳥之欺孺子。鶉之性善近人，飛不迅，行不速，似將可獲，故孺子逐之不已。俗士以將可悟，終難可移，逹人所以緩脣鳴聲而不捨也"。所據版本或不同，故錄於此，以備參考）斯人也，固逹之蔽者也，非逹之逹者也，雖能言之，猶夫俗士而已矣。</p>
+<p>　　非惟言也，行亦如之。得其所則尊榮，失其所則賤辱。昔倉梧丙娶妻美，而以與其兄，欲以爲讓也，則不如無讓焉（徐本引錢校云："按《淮南子·氾論訓》作'蒼梧繞'。《家語·六本篇》作'嬈'。《說苑·建本篇》作'蒼梧之弟'。此云'倉梧丙'，未知何據？"《劄迻》："案：丙與繞、嬈形聲並遠，疑當作丙（出頭）字，《一切經音義》三云：'丙（出頭），猥也。從市從人。作鬧，俗。'蓋嬈、丙（出頭）古今字。（《集韻》三十六《效》鬧、嬈同紐，《說文》無丙（出頭）、鬧二字。鬧見《新附》。疑古止作嬈。）徐書本作'嬈'，傳寫或作'丙'（出頭），又譌為'丙'耳。" 徐湘琳曰："案，孫說稍鑿。'嬈'字熟，'丙'字生，傳寫何故避熟而就生？竊以為'丙'者，甲乙之次，古人用為寓名，說詳俞樾《古書疑義舉例》。此處以讓兄，故假丙以名之，猶《說苑》之稱弟。"按《淮南子·氾論訓》："昔蒼吾繞娶妻而美，以讓兄，此所謂忠愛而不可行者也。"高誘注："蒼吾繞，孔子時人。以妻美好推與其兄，兄則愛矣。而違親迎曲顧之誼，故曰不可也。"其上有"昔楚恭王战于阴陵，潘尪、养由基、黄衰微、公孙丙相与篡之。"仅隔一行，意者徵引或有误也。）；尾生與婦人期於水邉，水暴至不去而死，欲以爲信也，則不如無信焉；葉公之黨，其父攘羊而子證之，欲以爲直也，則不如無直焉；陳仲子不食母兄之食，出居於陵，欲以爲潔也，則不如無潔焉；宗魯受齊豹之謀，死孟縶之難，欲以爲義也，則不如無義焉。故凡道，蹈之旣難，錯之益不易，是以君子愼諸己，以爲往鑒焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14782.aspx">上一章</a>
+<a href="/guwen/book_176.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14784.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

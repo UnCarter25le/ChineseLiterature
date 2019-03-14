@@ -1,0 +1,89 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东观奏记·序_古诗文网
+</title>
+<meta content="圣文睿德光武弘孝皇帝自寿邸即位，二年，监修国史、丞相、晋国公杜让能以宣宗、懿宗、僖宗三朝实录未修，岁月渐远，虑圣绩湮坠，乃奏上，选中朝鸿儒硕学之士十五人，分修三圣实录。以吏部侍郎柳" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19109.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>序</b></span>
+<a href="javascript:PlayBookv(19109)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19109" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19109" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%a3%b4%e5%ba%ad%e8%a3%95">裴庭裕</a></p>
+<div class="contson">
+ 　　圣文睿德光武弘孝皇帝自寿邸即位，二年，监修国史、丞相、晋国公杜让能以宣宗、懿宗、僖宗三朝实录未修，岁月渐远，虑圣绩湮坠，乃奏上，选中朝鸿儒硕学之士十五人，分修三圣实录。以吏部侍郎柳玭、右补阙裴庭裕、左拾遗孙泰、驾部员外郎李胤、太常博士郑光庭专修《宣宗实录》。<br/> <br/>　　庭裕奉诏之日，惕不敢易，思摭实无隐，以成一朝之书。踰岁，条例竟未立。国朝故事，以左、右史修起居注，逐季送史舘，史舘别设修撰官。起居注外，又置日历。至修实录之日，取信于日历、起居注，参而成之。伏自宣宗皇帝宫车晏驾，垂四十载，中原大乱，日历与起居注不存一字，致儒学之士搁笔未就。非官旷职，无凭起凡例也。<br/> <br/>　　庭裕自为儿时，已多记忆，谨采宣宗朝耳目闻睹，撰成三卷。非编年之史，未敢闻于县官，且奏记于监国史晋国公，藏之于阁，以备讨论。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_241.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19110.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷一·熊廷弼回籍_古诗文网
+</title>
+<meta content="九月十五日己丑，御史冯三元论经略熊廷弼无谋者八、欺君者三。廷弼乞罢。杨涟奏曰：议经略者终难抹杀其功，怜经略者亦难掩饰其咎。功在支撑辛苦得一载之幸安，咎在积衰难振，怅万全之无策。二十" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13466.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·熊廷弼回籍</b></span>
+<a href="javascript:PlayBookv(13466)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13466" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13466" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　九月十五日己丑，御史冯三元论经略熊廷弼无谋者八、欺君者三。廷弼乞罢。杨涟奏曰：议经略者终难抹杀其功，怜经略者亦难掩饰其咎。功在支撑辛苦得一载之幸安，咎在积衰难振，怅万全之无策。二十二日，御史张修德请贬窜廷弼。廷弼上疏求勘。因陈守辽之功。户科王继昌奉旨会议。奏曰：廷弼挂众议者三。以镘骂为气魄，将帅不为用，不能成功一。始初不能用辽人，客兵蹂躏辽地，辽人离心，不能成功二。动天下兵，靡财浩费，所过驿骚，叛者淫劫，不能成功三。</p>
+<p>　　廷弼乞罢疏曰：辽师三路覆没，再陷开原，职始驱嬴卒数百人，跄跟出关，至杏山而铁岭报失。当是时河东士民谓辽必亡，纷纷夺门而逃也；文武官谓辽必亡，各私备马匹为走计也；各道谓辽必亡，遣开原道韩善、分守道阎鸣泰往沈，皆不行，而鸣泰且途哭而返，河西谓辽必亡，议增海州三坌河戍，为广宁固门户也；关内谓辽必亡，且留自备而不肯转饷也；通国谓辽必亡，不欲发军器火药而恐再为寇资也；大小各衙门谓辽必亡，恐敌遂至京师而昼夜搬家眷以移也；中外诸臣谓辽必亡，不议守山海都门，则议戍海州为辽阳退步，戍金伏为山东塘埤也。即敌亦谓辽必亡，而欲坐殿以建都也。其间惶惶之状，不能以旦夕待，而今何以转亡为存，地方安堵，举朝帖席而卧也。此必非不操练、不部署、不抚辑，专事工作而尚威刑者所能致也。至谓职拥兵十余万不能大入大创，小入小创，斩贼擒王，而殃民蹙地，为敌人所笑，诚有如所叹者，第言斩贼擒王之事，于此日之兵之将，且勿易言也。令箭催而张帅殒命，马上催而三路丧师，职于今日何敢轻率云云。遂缴还上方，席稿待罪。上命廷弼解任回籍听勘。十月初十日，以巡抚袁应泰经略辽东。</p>
+<p>　　廷弼交代疏曰：去秋辽阳以北，弃城而逃，今自沈奉以南不但本城逃者复归，而开铁蒲河以南，不知日集几许，各处商客增来几许，此交代之人民也。清抚、开铁、蒲伊汛等城，咸为敌陷，虽未遽复，而沈阳、奉集、宽叆、醮阳、长永、宽奠，皆弃城也，今皆复守，而辽阳无论已，此交代之城堡也。去秋辽城止弱马兵四五千人，川兵万人，沈阳戍兵万余人，今援兵募兵计十三万，各堡渐有屯集，各城渐有设防，此交代之兵马也。自去年八月起，今年九月终，止通共用银二百三十一万余两，米豆用一百余万石，不知一年虚糜八百万之语，是从何来？此交代之钱粮也。各色军器，除疏请内库咨取各边不计外，打造过大炮重二百斤已上者以数百计，百斤六八十斤者以数百计，百子炮以千计，三眼统鸟统以七千余计，其余盔甲、胸包、臂手、甲梁、战车、枪刀、弓箭，以及钢轮、火人、火马、火罐、钉獗、牌楯等项。皆以数千万计，此交代之器械也。何一件非职大声疾呼，争口斗气所得，何一事非职废寝忘餮，吐血呕肝所干办？何一处非职身亲脚到口筹手画所亲授？一切地方极繁、极难事体，有边才数年经营不定者，一年而当之，而为臣者亦难矣。年来庙堂议论，全不言军中情实，而第凭塘报敌缓急以为说。前冬去春敌以冰雪稍缓，辄哄然言师老财匮，马上催战。及败又愀然噤口不敢道一战字。比见职收拾才定，而愀然者又复哄然，急急责战矣。毕竟矮人观场，有何真见。至如用李如柏、李如桢，裁巡抚，添巡抚，起赞画，用阅科，议督护，何非台省所建，何尝有一效，地方事当听地方官为之。彼既处凶地，着重担，自能区处停妥干办紧急，何用拾帖括语，徒乱人意，而一不从，辄艴然怒，若此后议论不省，则经略必无所措手足矣。此臣为经略与封疆并国家虑者也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13465.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13467.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

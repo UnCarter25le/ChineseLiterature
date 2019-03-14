@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+公羊传·僖公·二年_古诗文网
+</title>
+<meta content="一、二年，春王正月，城楚丘。孰城？城卫也。曷为不言城卫？灭也。孰灭之？盖狄灭之。曷为不言狄灭之？为桓公讳也。曷为为桓公讳？上无天子，下无方伯，天下诸侯有相灭亡者，桓公不能救，则桓公" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13200.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>僖公·二年</b></span>
+<a href="javascript:PlayBookv(13200)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13200" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13200" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%85%ac%e7%be%8a%e9%ab%98">公羊高</a></p>
+<div class="contson">
+<p>　　一、二年，春王正月，城楚丘。</p>
+<p>　　孰城？城卫也。曷为不言城卫？灭也。孰灭之？盖狄灭之。曷为不言狄灭之？为桓公讳也。曷为为桓公讳？上无天子，下无方伯，天下诸侯有相灭亡者，桓公不能救，则桓公耻之也。然则孰城之？桓公城之。曷为不言桓公城之？不与诸侯专封也。曷为不与？实与而文不与。文曷为不与？诸侯之义，不得专封。诸侯之义不得专封，则其曰实与之何？上无天子，下无方伯，天下诸侯有相灭亡者，力能救之，则救之可也。</p>
+<p>　　二、夏五月辛巳，葬我小君哀姜。</p>
+<p>　　哀姜者何？庄公之夫人也。</p>
+<p>　　三、虞师、晋师灭夏阳。</p>
+<p>　　虞，微国也，曷为序乎大国之上？使虞首恶也。曷为使虞首恶？虞受赂，假灭国者道以取亡焉。其受赂奈何？献公朝诸大夫而问焉，曰：“寡人夜者寝而不寐，其意也何？”诸大夫有进对者曰：“寝不安与其诸侍御有不在侧者与？”献公不应。荀息进曰：“虞郭见与？”献公揖而进之，遂与之入而谋曰：“吾欲攻郭，则虞救之，攻虞则郭救之，如之何？愿与子虑之。”荀息对曰：“君若用臣之谋，则今日取郭，而明日取虞尔，君何忧焉？”献公曰：“然则奈何？”荀息曰：“请以屈产之乘，与垂棘之白璧往，必可得也。则宝出之内藏，藏之外府；马出之内厩，系之外厩尔，君何丧焉？”献公曰：“诺。虽然，宫之奇存焉，如之何？”荀息曰：“宫之奇知则知矣！虽然，虞公贪而好宝，见宝必不从其言，请终以往。”于是终以往，虞公见宝许诺。宫之奇果谏：“记曰：‘唇亡则齿寒。’虞、郭之相救，非相为赐，则晋今日取郭，而明日虞从而亡尔。君请勿许也。”虞公不从其言，终假之道以取郭。还，四年，反取虞。虞公抱宝牵马而至。荀息见曰：“臣之谋何如？”献公曰：“子之谋则已行矣，宝则吾宝也，虽然，吾马之齿亦已长矣！”盖戏之也。夏阳者何？郭之邑也。曷为不系于郭？国之也。曷为国之？君存焉尔。</p>
+<p>　　四、秋九月，齐侯、宋公、江人、黄人盟于贯泽。</p>
+<p>　　江人、黄人者何？远国之辞也。远国至矣，则中国曷为独言齐、宋至尔？大国言齐、宋，远国言江、黄，则以其余为莫敢不至也。</p>
+<p>　　五、冬十月，不雨。</p>
+<p>　　何以书？记异也。</p>
+<p>　　六、楚人侵郑。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13199.aspx">上一章</a>
+<a href="/guwen/book_143.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13201.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

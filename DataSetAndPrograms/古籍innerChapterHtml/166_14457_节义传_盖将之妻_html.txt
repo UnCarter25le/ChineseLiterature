@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+列女传·节义传·盖将之妻_古诗文网
+</title>
+<meta content="盖之偏将邱子之妻也。戎伐盖，杀其君，令于盖群臣曰：“敢有自杀者，妻子尽诛。”邱子自杀，人救之，不得死。既归，其妻谓之曰：“吾闻将节勇而不果生，故士民尽力而不畏死，是以战胜攻取，故能" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14457.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>节义传·盖将之妻</b></span>
+<a href="javascript:PlayBookv(14457)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14457" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14457" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　盖之偏将邱子之妻也。戎伐盖，杀其君，令于盖群臣曰：“敢有自杀者，妻子尽诛。”邱子自杀，人救之，不得死。既归，其妻谓之曰：“吾闻将节勇而不果生，故士民尽力而不畏死，是以战胜攻取，故能存国安君。夫战而忘勇，非孝也。君亡不死，非忠也。今军败君死，子独何生？忠孝忘于身，何忍以归？”邱子曰：“盖小戎大，吾力毕能尽，君不幸而死，吾固自杀也，以救故，不得死。其妻曰：“曩日有救，今又何也？”邱子曰：“吾非爱身也。戎令曰‘自杀者诛及妻子’是以不死，死又何益于君？”其妻曰：“吾闻之：‘主忧臣辱，主辱臣死。’今君死而子不死，可谓义乎！多杀士民，不能存国而自活，可谓仁乎！忧妻子而忘仁义，背故君而事强暴，可谓忠乎！人无忠臣之道仁义之行，可谓贤乎！周书曰：‘先君而后臣，先父母而后兄弟，先兄弟而后交友，先交友而后妻子。’妻子，私爱也。事君，公义也。今子以妻子之故，失人臣之节，无事君之礼，弃忠臣之公道，营妻子之私爱，偷生苟活，妾等耻之，况于子乎！吾不能与子蒙耻而生焉。”遂自杀。戎君贤之，祠以太牢，而以将礼葬之，赐其弟金百镒，以为卿，而使别治盖。君子谓盖将之妻洁而好义。诗曰：“淑人君子，其德不回。”此之谓也。</p>
+<p>　　颂曰：盖将之妻，据节锐精，戎既灭盖，邱子独生，妻耻不死，陈设五荣，为夫先死，卒遗显名。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14456.aspx">上一章</a>
+<a href="/guwen/book_166.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14458.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

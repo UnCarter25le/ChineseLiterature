@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·浙中王门学案·教谕胡今山先生瀚_古诗文网
+</title>
+<meta content="胡瀚字川甫，号今山，余姚人。支湖铎从子也。自幼承家学，动必以礼。年十八，从阳明先生游，论及致良知之学，反覆终日，则跃然起曰：“先生之教，劈破愚蒙矣。”阳明授以《传习录》、《博约说》" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14559.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>浙中王门学案·教谕胡今山先生瀚</b></span>
+<a href="javascript:PlayBookv(14559)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14559" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14559" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　胡瀚字川甫，号今山，余姚人。支湖铎从子也。自幼承家学，动必以礼。年十八，从阳明先生游，论及致良知之学，反覆终日，则跃然起曰：“先生之教，劈破愚蒙矣。”阳明授以《传习录》、《博约说》，日归而思之，盖有省。支湖召而语之曰：“孺子知学乎？学在心，心以不欺为主。”瀚唯唯。於是日从事於求心，悟“心无内外，无动静，无寂感，皆心也，即性也。其有内外动静，寂感之不一也，皆心之不存焉故也”。作《心箴图》以自课。就质於阳明，阳明面进之。先生益自信，危言笃行，绳简甚密。阳明殁，诸弟子纷纷互讲良知之学，其最盛者山阴王汝中、泰州王汝止、安福刘君亮、永丰聂文蔚，四家各有疏说，駸駸立为门户，於是海内议者群起。先生曰：“先师标致良知三字，於支离汨没之后，指点圣真，真所谓滴骨血也。吾党慧者论证悟，深者研归寂，达者乐高旷，精者穷主宰流行，俱得其说之一偏。且夫主宰既流行之主宰，流行即主宰之流行，君亮之分别太支。汝中无善无恶之悟，心若无善，知安得良？故言无善不如至善。《天泉证道》其说不无附会，汝止以自然为宗，季明德又矫之以龙惕。龙惕所以为自然也，龙惕而不恰於自然，则为拘束；自然而不本於龙惕，则为放旷。良知本无寂感，即感即寂，即寂即感，不可分别。文蔚曰：‘良知本寂，感於物而后有知，必自其寂者求之，使寂而常定，则感无不通。’似又偏向无处立脚矣。宋儒学尚分别，故勤註疏；明儒学尚浑成，故立宗旨。然明儒厌训诂支离，而必标宗旨以为的，其弊不减於训诂。道也者，天下之公道，学也者，天下之公学也，何必列标宗旨哉？”先生之学，则以求心为宗，所註《心箴图》，列而为五：曰心图，指本体也；曰存，曰死，曰出入，曰放心。各有箴，而功以存心为主。晚年造诣益深，每提本朝儒者曰：“文清之行，粹然师表，求其卓然之见，一贯之唯，似隔曾、颜一级。文成明睿，学几上达，若夫动不踰矩，循循善诱，犹非孔氏之家法。白沙煞有曾点之趣，而行径稍涉於孤高。敬斋慎密，似有子夏规模，而道业未臻於光大。孟子愿学孔子，而於颜、闵犹曰‘姑舍’，吾於四先生亦云。”以恩贡，就华亭训导，陞崇明教谕。归家三十年，筑室今山。着有《今山集》一百卷。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14558.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14560.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

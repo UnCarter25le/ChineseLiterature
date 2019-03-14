@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+容斋随笔·卷五·易举正_古诗文网
+</title>
+<meta content="唐苏州司户郭京有《周易举正》三卷，云：“曾得王辅嗣、韩康伯手写注定传授真本，比校今世流行本及国学、乡贡举人等本，或将经入注，用注作经，小象中间以下句，反居其上，爻辞注内移，后义却处" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5636.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4013" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·易举正</b></span>
+<a href="javascript:PlayBookv(5636)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5636" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4013)" id="leftbtn4013" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5636" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b4%aa%e8%bf%88">洪迈</a></p>
+<div class="contson">
+<p>　　唐苏州司户郭京有《周易举正》三卷，云：“曾得王辅嗣、韩康伯手写注定传授真本，比校今世流行本及国学、乡贡举人等本，或将经入注，用注作经，小象中间以下句，反居其上，爻辞注内移，后义却处于前，兼有脱遗，两字颠倒谬误者，并依定本举正其讹，凡一百三节。”今略取其明白者二十处载于此：《坤》初六：“履霜坚冰至。象曰：履霜，阴始凝也，驯致其道，至坚冰也。”今本于象文“霜”之下误增“坚冰”二字。《屯》六三象曰：“即鹿无虞何？以从禽也。”今本脱“何”字。《师》六五：“田有禽，利执之，无咎。”元本“之”字行书向下引脚，稍类“言”字，转写相仍，故误作“言，观注义亦全不作“言”字释也。《比》九五象曰：“失前禽，舍逆取顺也。”今本误倒其句。《贲》：“亨，不利有攸往。”今本“不”字误作“小”字。“刚柔交错，天文也；文明以止，人文也。”注云：“刚柔交错而成文焉，天之文也。”今本脱“刚柔交错”一句。《坎》卦“习坎”上脱“坎”字。《姤》：“九四，包夫鱼。”注：“二有其鱼，故失之也。”今本误作“无鱼”。《蹇》：“九三，往蹇来正。”今本作“来反”。《困》初六象曰：“入于幽谷，不明也。”今本“谷”字下多“幽”字。《鼎》彖：“圣人亨以享上帝，以养圣贤。”注云：“圣人用之，上以享上帝而下以养圣贤。”今本正文多“而大亨”三字，故注文亦误增“大亨”二字。《震》彖曰：“不丧匕鬯”一句。《渐》象曰：“君子以居贤德，善风俗。”注云：“贤德以止巽则居，风俗以止巽乃善。”今本正文脱“风”字。《丰》九四象：“遇其夷主，吉，志行也。”今文脱“志”字。《中孚》彖：“豚鱼吉，信及也。”今本“及”字下多“豚鱼”二字。《小过》彖：“柔得中，是以可小事也。”今本脱“可”字，而“事”字下误增“吉”字。六五象曰：“密云不雨，已止也。”注：“阳已止下故也。”今本正文作“已上”，故注亦误作“阳已上故止也”。《既济》彖曰：“《既济》，亨小，小者亨也。”今本脱一“小”字。《系辞》：“二多誉，四多惧。”注云：“惧，近也。”今本误以“近也”字为正文，而注中又脱“惧”字。《杂卦》：“蒙稚而著。”今本“稚”误作“杂”字。予顷于福州《道藏》中见此书而传之，及在后省见晁公武所进《易解》，多引用之，世罕有其书也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5635.aspx">上一章</a>
+<a href="/guwen/book_72.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5637.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4013" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

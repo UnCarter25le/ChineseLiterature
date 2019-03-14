@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+地藏经·利益存亡_古诗文网
+</title>
+<meta content="尔时地藏菩萨摩诃萨白佛言：世尊，我观是阎浮众生，举心动念，无非是罪。脱获善利，多退初心。若遇恶缘，念念增益。是等辈人，如履泥涂，负于重石，渐困渐重，足步深邃。若得遇知识，替与减负，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5313.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3652" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>利益存亡</b></span>
+<a href="javascript:PlayBookv(5313)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5313" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3652)" id="leftbtn3652" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5313" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　尔时地藏菩萨摩诃萨白佛言：世尊，我观是阎浮众生，举心动念，无非是罪。脱获善利，多退初心。若遇恶缘，念念增益。是等辈人，如履泥涂，负于重石，渐困渐重，足步深邃。若得遇知识，替与减负，或全与负。是知识有大力故，复相扶助，劝令牢脚。若达平地，须省恶路，无再经历。</p>
+<p>　　世尊，习恶众生，从纤毫间，便至无量。是诸众生有如此习，临命终时，父母眷属，宜为设福，以资前路。或悬旛盖及燃油灯。或转读尊经、或供养佛像及诸圣像，乃至念佛菩萨，及辟支佛名字，一名一号，历临终人耳根，或闻在本识。是诸众生所造恶业，计其感果，必堕恶趣，缘是眷属为临终人修此圣因，如是众罪，悉皆消灭。</p>
+<p>　　若能更为身死之后，七七日内，广造众善。能使是诸众生永离恶趣，得生人天，受胜妙乐，现在眷属，利益无量。</p>
+<p>　　是故我今对佛世尊，及天龙八部人非人等，劝于阎浮提众生临终之日，慎勿杀害，及造恶缘，拜祭鬼神，求诸魍魉。</p>
+<p>　　何以故？尔所杀害乃至拜祭，无纤毫之力，利益亡人，但结罪缘，转增深重。假使来世或现在生，得获圣分，生人天中。缘是临终被诸眷属造是恶因，亦令是命终人殃累对辩，晚生善处。何况临命终人，在生未曾有少善根，各据本业，自受恶趣，何忍眷属更为增业。</p>
+<p>　　譬如有人从远地来，绝粮三日，所负担物，强过百斤，忽遇邻人，更附少物，以是之故，转复困重。</p>
+<p>　　世尊，我观阎浮众生，但能于诸佛教中，乃至善事，一毛一渧，一沙一尘，如是利益，悉皆自得。</p>
+<p>　　说是语时，会中有一长者，名曰大辩，是长者久证无生，化度十方，现长者身，合掌恭敬，问地藏菩萨言：大士，是南阎浮提众生，命终之后，小大眷属，为修功德，乃至设斋，造众善因，是命终人，得大利益及解脱不？</p>
+<p>　　地藏答言：长者，我今为未来现在一切众生，承佛威力，略说是事。长者，未来现在诸众生等，临命终日，得闻一佛名、一菩萨名、一辟支佛名，不问有罪无罪，悉得解脱。若有男子女人，在生不修善因多造众罪。命终之后，眷属小大，为造福利一切圣事，七分之中而乃获一，六分功德，生者自利。以是之故，未来现在善男女等，闻健自修，分分己获。无常大鬼，不期而到，冥冥游神，未知罪福。七七日内，如痴如聋，或在诸司辩论业果。审定之后，据业受生。未测之间，千万愁苦，何况堕于诸恶趣等。</p>
+<p>　　是命终人，未得受生，在七七日内，念念之间，望诸骨肉眷属，与造福力救拔。过是日后，随业受报。若是罪人，动经千百岁中，无解脱日。若是五无间罪，堕大地狱，千劫万劫，永受众苦。</p>
+<p>　　复次长者：如是罪业众生，命终之后，眷属骨肉，为修营斋，资助业道未斋食竟，及营斋之次，米泔菜叶，不弃于地，乃至诸食未献佛僧，勿得先食。如有违食，及不精勤，是命终人，了不得力。如精勤护净奉献佛僧，是命终人，七分获一。是故长者，阎浮众生，若能为其父母乃至眷属，命终之后，设斋供养，志心勤恳。如是之人，存亡获利。</p>
+<p>　　说是语时，忉利天宫，有千万亿那由他阎浮鬼神，悉发无量菩提之心，大辩长者作礼而退。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5312.aspx">上一章</a>
+<a href="/guwen/book_66.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5314.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3652" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

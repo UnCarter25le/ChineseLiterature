@@ -1,0 +1,123 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+反经·德表_古诗文网
+</title>
+<meta content="孔子曰：“性相近也，习相远也。”言嗜欲之本同，而迁染之途异也。夫刻意则行不肆，牵物则其志流。是以圣人导人理性，裁抑流宕，慎其所与，节其所偏。故《传》曰：“审好恶，理情性，而王道毕矣" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5028.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3201" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>德表</b></span>
+<a href="javascript:PlayBookv(5028)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5028" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3201)" id="leftbtn3201" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5028" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b5%b5%e8%95%a4">赵蕤</a></p>
+<div class="contson">
+<p>　　孔子曰：“性相近也，习相远也。”言嗜欲之本同，而迁染之途异也。夫刻意则行不肆，牵物则其志流。是以圣人导人理性，裁抑流宕，慎其所与，节其所偏。故《传》曰：“审好恶，理情性，而王道毕矣。”治性之道，必审己之所有余，而强其所不足。盖聪明疏通者，戒于太察；寡闻少见者，戒于壅蔽；勇猛刚强者，戒于太暴；仁爱温良者，戒于无断；湛静安舒者，戒于后时；广心浩大者，戒于遗忘。 </p>
+<p>　　《人物志》曰：“ </p>
+<p>　　厉直刚毅，材在矫正，失在激讦(强毅之人，佷刚不和，不戒其强之唐突，而以顺为挠，厉其亢。是故，可与立法，难与入微也。)； </p>
+<p>　　柔顺安恕，美在宽容，失在少决(柔顺之人，缓心宽断，不戒其事之不摄，而以亢为刿，安其舒。是故，可与循常，难与权疑也。)； </p>
+<p>　　雄悍杰健，任在胆烈，失在多忌(雄悍之人，气奋英决，不戒其勇之毁跌，而以顺为恇，竭其势。是故，可与涉难，难与居约也。)； </p>
+<p>　　精良畏慎，善在恭谨，失在多疑(精慎之人，畏患多忌，不戒其懦于为义，而以勇为悍，增其疑。是故，可与保全，难与立节也。)； </p>
+<p>　　强楷坚劲，用在桢干，失在专固(凌楷之人，秉意劲持，不戒其情之固护，而以辩为虚，强其专。是故，可与持正，难与附众也。)； </p>
+<p>　　论辩理绎，能在释结，失在流宕(博辩之人，论理赡给，不戒其辞之泛滥，而以楷为系，遂其流。是故，可与泛序，难与立约也。)； </p>
+<p>　　普博周洽，崇在覆裕，失在混浊(宏普之人，意爱周洽，不戒其交之混杂，而以介为狷，广其浊。是故，可与抚众，难与厉俗也。)； </p>
+<p>　　清介廉洁，节在俭固，失在拘局(狷介之人，砥诃清激，不戒其道之隘狭，而以普为秽，益其拘。是故，可与守节，难与变通也。)； </p>
+<p>　　休动磊硌，业在攀跻，失在疏越(休动之人，志慕超越，不戒其意之太猥，而以静为滞，果其锐。是故，可与进趋，难与持后也。)； </p>
+<p>　　沉静机密，精在玄微，失在迟懦(沉静之人，道思回复，不戒其静之迟后，而以动为疏，美其懦。是故，可与深虑，难与捷速也。)； </p>
+<p>　　朴露径尽，质在中诚，失在不微(朴露之人，中疑实确，不戒其质之野直，而以谲为诞，露其诚。是故，可与立信，难与消息也。)； </p>
+<p>　　多智韬情，权在谲略，失在依违(韬谲之人，原度取容，不戒其术之离正，而以尽为愚，贵其虚。是故，可以赞善，难与矫违也。”) </p>
+<p>　　此拘亢之材，非中庸之德也。 </p>
+<p>　　文子曰：“凡人之道，心欲小，志欲大，智欲圆，行欲方，能欲多，事欲少。” </p>
+<p>　　所谓“心小”者，虑患未生，戒祸慎微，不敢纵其欲也； </p>
+<p>　　“志大”者，兼包万国，一齐殊俗，是非辐凑，中为之毂也； </p>
+<p>　　“智圆”者，终始无端，方流四远，深泉而不竭也； </p>
+<p>　　“行方”者，直立而不挠，素白而不污，穷不易操，远不肆志也； </p>
+<p>　　“能多”者，文武备具，动静中仪也； </p>
+<p>　　“事少”者，执约以治广，处静以待躁也。 </p>
+<p>　　夫天道极即反、盈则损。故聪明广智，守以愚；多闻博辩，守以俭；武力毅勇，守以畏；富贵广大，守以狭；德施天下，守以让。此五者，先王所以守天下也。 </p>
+<p>　　《传》曰：“无始乱，无怙富，无恃宠，无违同，无傲礼，无骄能，无复怒，无谋非德，无犯非义。此九言，古人所以立身也。” </p>
+<p>　　《玉钤经》曰：“夫以明示者浅，有过不自知者弊，迷而不反者流，以言取怨者祸，令与心乖者废，后令缪前者毁，怒而无威者犯，好众辱人者殃，戮辱所任者危，慢其所敬者凶，貌合心离者孤，亲佞远忠者亡，信谗弃贤者昏，私人以官者浮，女谒公行者乱，群下外恩者沦，凌下取胜者侵，名不胜实者耗，自厚薄人者弃，薄施厚望者不报，贵而忘贱者不久用，人不得其正者殆，为人择官者失，决于不仁者险，阴谋外泄者败，厚敛薄施者凋。” </p>
+<p>　　此自理之大体也。 </p>
+<p>　　(孙卿曰：“口能言之，身能行之，国宝也；口不能言，身能行之，国器也；口能言之，身不能行之，国用也；口言善，身行恶，国妖也。”) </p>
+<p>　　故傅子曰：“立德之本，莫尚乎正心。”心正而后身正，身正而后左右正，左右正而后朝廷正，朝廷正而后国家正，国家正而后天下正。故天下不正，修之家；家不正，修之朝廷；朝廷不正，修之左右；左右不正，修之身；身不正，修之心。所修弥近，所济弥远。禹汤罪己，其兴也勃焉。“正心”之谓也。 </p>
+<p>　　(《尸子》曰：“心者，身之君也。天子以天下受令于心，心不当则天下祸；诸侯以国受令于心，心不当则国亡；匹夫以身受令于心，心不当则身为戮矣。) </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5027.aspx">上一章</a>
+<a href="/guwen/book_57.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5029.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3201" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

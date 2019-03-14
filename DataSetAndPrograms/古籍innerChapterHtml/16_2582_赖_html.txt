@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·赖_古诗文网
+</title>
+<meta content="历史来源　　1、出自姬姓，为周文楚灵王所灭，其后以国为氏。史称赖氏正宗。是为河南赖氏。　　2、出自姜姓，为炎帝神农氏的后裔。相传炎帝后裔有四支，属于古羌族的四个氏族部落。其中一支是" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2582.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>赖</b></span>
+<a href="javascript:PlayBookv(2582)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2582" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2582" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自姬姓，为周文楚灵王所灭，其后以国为氏。史称赖氏正宗。是为河南赖氏。<br/>　　2、出自姜姓，为炎帝神农氏的后裔。相传炎帝后裔有四支，属于古羌族的四个氏族部落。其中一支是烈山氏。古时烈与厉通，又音赖、故烈山氏、厉山氏、赖山氏皆同。古时的烈山氏居住在山西汾水流域，后有一支东迁，于商代在河南厉乡县建赖国，依附于商朝。周武王伐商时，赖人南迁，后来接受周武王的子爵封号，为赖子国。春秋鲁昭公四年，楚灵王灭之，其族人迁至鄢地，其后裔以国为氏，称赖氏。是为湖北或河南赖氏。</p>
+<p><strong>家族名人</strong><br/>　　赖文光：清末太平天国著名将领。赖汉英：太平天国时期杰出将领。赖镜：清代画家。赖良：元代文学家。<br/>　　赖文俊：宋代地理学家。</p>
+<p><strong>迁徙分布</strong><br/>　　赖氏早期聚居在鄢陵一带，主要是在今河南境内繁衍发展，后在颍州郡、河南郡、河内郡形成望族。由于任官、战乱等原因，颍州赖氏有一支迁于江南，分布于今江西、福建、湖南、浙江、江苏、广州等省的一些地方，还有一支徙居陕西。广东蕉岭《赖氏族谱》及兴宁《赖氏源流》尊叔颖为赖氏始祖称赖先为叔颖的14世孙。叔颖22世孙赖深，卜居丰宁（今陕西西乡）。叔颖25世孙赖忠诚，在松阳（今浙江遂昌）安家。叔颖30世孙赖硕，于南朝宋元嘉末年迁至江西宁都，其第三子赖灿，生七子，分枝湘、闽、赣、苏等省，形成一些支派：长子赖昭徙居会同（今属河南）武村，次子赖德徙居福建上杭古田，三子赖明徙居江西宜黄乐安，四子赖庆及其后代分衍于江西龙南、上犹等地，五子赖思及其后代分衍于江西石城、秋溪、建昌、广昌及福建岩前等地，六子赖永及其后代分衍于江西信丰、瑞金、南康等地，七子赖彦任江苏扬州通判，在当地安家。赖硕还有一孙叫赖定，因在潭州（今湖南长沙）做官而在当地安家。赖德的长子赖标，自上杭古田迁至福建宁华县石壁村，其11世孙赖朝美徙居福建永定汤湖：另两个11世孙赖祖华、赖祖三于明初由宁华石壁迁至程乡（今广东梅州），后又他衍出蕉岭、平远等支派。赖氏谱牒还记载：赖氏族人为避楚灵王之害，有改为罗、傅二姓者。川、滇一带的赖氏多数人融入阿昌族。清朝乾隆年间，有赖云从自福建漳州渡海至台中开基，此后，闽、粤赖氏陆续有人迁往台湾，有的进而移居海外，去新加坡等地谋生。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2581.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2583.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

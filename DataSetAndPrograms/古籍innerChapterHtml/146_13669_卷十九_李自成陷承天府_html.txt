@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷十九·李自成陷承天府_古诗文网
+</title>
+<meta content="李自成陷承天府癸未正月，李自成陷湖广承天府，巡抚宋一鹤守城，下城巷战，挥刃击杀数贼死。一鹤号鹤峰，顺天宛平籍，北直保定府清苑县人。崇祯三年庚午举人，巡抚都御史。承天破，标下有愿负之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13669.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十九·李自成陷承天府</b></span>
+<a href="javascript:PlayBookv(13669)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13669" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13669" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　李自成陷承天府</p>
+<p>　　癸未正月，李自成陷湖广承天府，巡抚宋一鹤守城，下城巷战，挥刃击杀数贼死。一鹤号鹤峰，顺天宛平籍，北直保定府清苑县人。崇祯三年庚午举人，巡抚都御史。承天破，标下有愿负之出奔者，一鹤坚持不肯，卒自刎死。江阴冯生在楚蜀时，又闻被执骂贼死。钟祥知县萧汉，有贤声，贼戒其部曰，杀贤令者死，乃幽之寺中。戒诸僧曰，令若死，当屠尔寺。僧谨视之，汉曰：吾尽吾道，不碍汝法，遂自经。</p>
+<p>　　萧汉，号象石，江西南丰人。崇祯丁丑进士，授钟祥知县。五载俸满行取，闻襄藩陷，自誓曰，士见危授命，岂可卸担？遂以护陵保土，自请于抚按免觐。壬午十二月十一日，贼逼境，破关厢入，咸失色，汉奋臂呼曰。此正钟令效死之日也。入署奠辞家庙，出绢帨勒令众媵自经。曰：男忠女烈，各宜自尽。吾不能庇城中亿万生灵，敢爱此三十二口，并两雏子。于是扬鞭直指，擐甲登陴，重悬赏格，杀贼三千余级，越六日，贼复大合几百万薄内城，相持五昼夜，至癸未元旦，汉掷剑向北，泣拜曰：臣力竭矣。急冲围奔陵，贼亦踵至，汉挺身大呼钟祥知县在此，不得擅惊陵寝，贼卒挟之前，汉引颈就刃。贼曰：欲首，应云即砍。贼曰：剥皮，应云即剥。贼遣伪官元圭说降，以管夷吾刘清田为言，汉应之曰：管仲不死有母在，我则白云望断，惟知向日。郁离子痛鳞介之易我衣裳，从龙淮左，我正值圣主英明金瓯无缺，事不相同，死即死耳。勿复言。贼惮而重之。不忍杀，批片纸，令乱箭射死萧知县，汉即袒胸以受，寂无半镞相加，旋有票送吉祥寺僧寮，至则罗列美馔，小贼一人主之。汉大骂不食，求死转急。觅死且不可得，偶于圆定觅剃刀藏之，因取敝纸，书杨椒山浩气还太虚，丹心照千古，平生未了事，留作忠魂补。又别录夷齐死后君臣薄，力为君王固首阳两言。纸穷投笔起，复拾土块从壁画钟祥县令萧汉愿死此寺十字，随时对壁自刎，血横溅字。时正月初五日也。士民买榇致诔就寺地痊之。</p>
+<p>　　贼陷承天府，改曰扬武州，遣伪将王克生决显陵，求宝，伪知州张联奎，多备锹锄，献策求欢，贼方举事，辄风雷大作，昼晦，联奎见金甲将，手持金瓜，当头一击，即昏迷跌地，口鼻流血，一夜而死。联奎，宜城诸生，其妻何氏，固以貌都，为贼所执，守节不从，慷慨遇难者也，克生抓去，不知所在，众贼惊散，闯大惧，遂不敢动，一云：诸贼发陵，忽大声起山谷若雷震，贼惧而止，分兵陷潜江、京山诸县。</p>
+<p>　　何氏守节而死，联奎媚贼而亦死，一流芳，一遗臭也。然联奎大损名节，有负其妻，当头一击，快哉。阅此知州官不如县令，男子不如妇人远矣。</p>
+<p>　　附记：二异</p>
+<p>　　二异者何，一墓中人，一无头人也。贼陷楚豫诸省，每决陵求宝，一日发陵，得二美人。盖宫妃殉葬而犹未死者。美人复见天日喜甚，既入室，大笑而卒。以久闭元室，阴风土气，沁入肌骨，腹馁体柔，一遇风日，阳气即散也。</p>
+<p>　　流寇盛时，锄刈人民无虚日，一人远归，距家三十余里，天雨且暮，投宿野邸。旅主云：舍后有屋两间，予弟宿内，恐惊若耳。其人曰：予生平无所畏，独畏汝弟耶。及进门闭，扣之不应，门忽启，心怪之，及入视，启户人乃无首者，其人大骇而仆。旅主笑曰：汝云不畏，何乃尔乎？慰之曰，勿畏也，昔吾弟遇流寇，斩首而去。时獐鹿诸兽群集，将众尸分啖，递及吾弟，一神人止之，曰勿食，此人录上无名，尚有四年阳寿，不应死，群兽散去。弟因自抚其首，已无矣，喉间止一硬管而已，昏夜趋归，与予同卧，谈遇贼事甚悉。及旦，予见弟无首，大骇，然竟不死，饥则啾啾有声，用茶匙沃食管中，饱则无声矣，又能织席，亦异事也。</p>
+<p>　　昔唐崔广宗，为张守珪所杀，仍不死，饥渴即画地作字，世情不替，更生一男，四五年后，忽画地云，后日当死，及期果卒。</p>
+<p>　　监左帑龙舒，尝言亲戚游蜀，路经湖溪，晚投一店，忽见左侧一人无首，骇以为鬼，主人曰：不须惊，此人也，往年因患瘰疬，头忽坠脱不死，自此每所需，则以手画，日以粥汤灌之，故至今犹存耳。</p>
+<p>　　宋绍兴二十五年，忠翊郎刁端礼，随邵运运使往江西经严州淳安道上，憩于潘姓家，闻旁舍啧啧有声，窥之，乃一无头人，织草屦，运手快疾，刁大惊，潘生曰：此吾父也。宣和庚子，尝遭贼乱，斩首而死，手足犹能动，肌体皆温，不忍殓殡，用药傅断处，其后疮愈，别生一窍，欲饮食啾啾然，除灌以粥汤，故赖以活，今三十六年，翁以七十矣。</p>
+<p>　　无头而活，其说近诞。恐世不之信，故附载三事于后，乃知古今奇异，何所不有。</p>
+<p>　　李自成屠黄陂</p>
+<p>　　癸未正月十日乙巳，贼陷云梦。十一日丙午，陷孝感。十二日丁未，李自成、罗汝才至黄陂，知县怀印走，贼设伪令，黄陂士民杀伪官，贼怒，反兵屠之。夷城垣为平地。十三日戊申，陷景陵，贼别将陷德安，自成驰檄黄州，指斥乘舆，伪托仁义以诱远近，伪示有三年免征，一民不杀之语。愚民皆感之。李岩复私作民谣，令党诵之云：穿他娘，吃他娘，开了大门迎闯王。闯王来时不纳粮。以故所至风靡，黄州守将弃城东下，掠江上客舟，大扰江南北，方国安诸将屯汉口。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13668.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13670.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

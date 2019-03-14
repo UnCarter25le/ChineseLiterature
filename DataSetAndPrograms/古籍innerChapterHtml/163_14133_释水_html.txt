@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+尔雅·释水_古诗文网
+</title>
+<meta content="泉一见一否为瀸。井一有水一无水为瀱汋。滥泉正出。正出，涌出也。沃泉县出。县出，下出也。氿泉穴出，穴出，仄出也。湀&lt;门辟&gt;，流川。过辨，回川。灉，反入。水单，沙出。汧，出" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14133.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>释水</b></span>
+<a href="javascript:PlayBookv(14133)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14133" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14133" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+泉一见一否为瀸。<br/>井一有水一无水为瀱汋。<br/>滥泉正出。正出，涌出也。<br/>沃泉县出。县出，下出也。<br/>氿泉穴出，穴出，仄出也。<br/>湀&lt;门辟&gt;，流川。过辨，回川。<br/>灉，反入。水单，沙出。<br/>汧，出不流。归异，出同流，肥。<br/>瀵，大出尾下。水醮曰？。水自河出为灉。<br/>济为濋，汶为水阐，洛为波，汉为潜，淮为浒，江为沱，濄为洵。颖为沙。汝为濆。<br/>水决之泽为汧，决复入为汜。<br/>「河水清且澜漪」，大波为澜，小波为沦，直波为径。<br/>江有沱，河有灉，汝有濆。<br/>浒，水□。水草交为湄。<br/>「济有深涉，深则厉，浅则揭」。揭者，揭衣也；以衣涉水为厉。繇膝以下为揭，繇膝以上为涉，繇带以上为厉。<br/>潜行为泳。<br/>「泛泛杨舟，绋缡维之」。绋，？也。缡，緌也。<br/>天子造舟，诸侯维舟，大夫方舟，士特舟，庶人乘泭。<br/>水注川曰谿，注谿曰谷，注谷曰沟，注沟曰浍，注浍曰渎。<br/>逆流而上曰溯洄，顺流而下曰溯游。正绝流曰乱。<br/>江、河、淮、济为四渎。<br/>四渎者，发源注海者也。──水泉。<br/>水中可居者曰洲，小洲曰陼，小陼曰沚，小沚曰坻。人所为为潏。──水中。<br/>河出昆仑虚，色白。<br/>所渠并千七百一川，色黄。百里一小曲，千里一曲一直。──河曲。<br/>徒骇、太史、马颊、覆□、胡苏、简、絜、钩盘、鬲津。──九河。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14132.aspx">上一章</a>
+<a href="/guwen/book_163.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14134.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

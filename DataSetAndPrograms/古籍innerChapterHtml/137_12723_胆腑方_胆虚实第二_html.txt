@@ -1,0 +1,123 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·胆腑方·胆虚实第二_古诗文网
+</title>
+<meta content="（脉二首 方九首 灸法二首）胆实热　　左手关上脉阳实者，足少阳经也。病苦腹中气满，饮食不下，咽干头痛，洒洒恶寒，胁痛，名曰胆实热也。半夏汤　　治胆腑实热精神不守泻热方。半夏 宿姜（" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12723.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>胆腑方·胆虚实第二</b></span>
+<a href="javascript:PlayBookv(12723)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12723" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12723" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　<span style="font-family:FangSong_GB2312;">　（脉二首 方九首 灸法二首）</span></p>
+<p>　　<strong>胆实热<br/></strong>　　左手关上脉阳实者，足少阳经也。病苦腹中气满，饮食不下，咽干头痛，洒洒恶寒，胁痛，名曰胆实热也。</p>
+<p>　<strong>　半夏汤<br/></strong>　　<strong>治胆腑实热精神不守泻热方。</strong></p>
+<p>　　半夏 宿姜（各三两） 黄芩（一两） 生地黄（五两） 远志 茯苓（各二两） 秫米（一升） 酸枣仁（五合）</p>
+<p>　　上八味 咀，以千里长流水五斗煮秫米，令蟹目沸扬之千余遍，澄清，取九升煮药，取三升半分三服。（《集验方》治虚烦闷不得眠，无地黄、远志，有麦门冬、桂心各三两，甘草、人参各二两。）</p>
+<p>　　<strong>胆虚寒<br/></strong>　　左手关上脉阳虚者，足少阳经也。病苦眩厥痿，足趾不能摇 不能起，僵仆目黄，失精 ，名曰胆虚寒也。</p>
+<p>　　<strong>温胆汤<br/>　　治大病后虚烦不得眠，此胆寒故也，宜服之方。</strong></p>
+<p>　　半夏 竹茹 枳实（各二两） 橘皮（三两） 甘草（一两） 生姜（四两）</p>
+<p>　　上六味 咀，以水八升煮取二升，分三服。（一本有茯苓二两、红枣十二枚）</p>
+<p>　<strong>　千里流水汤<br/>　　治虚烦不得眠方。</strong></p>
+<p>　　麦门冬、半夏（各三两） 茯苓（四两） 酸枣仁（二升） 甘草 桂心 黄芩 远志 萆</p>
+<p>　　上十二味 咀，以千里流水一斛煮米，令蟹目沸扬万遍澄清，取一斗煮药取二升半，分三服。</p>
+<p>　　<strong>酸枣汤<br/>　　治虚劳烦搅，奔气在胸中，不得眠方。</strong></p>
+<p>　　酸枣仁（三升） 人参 桂心 生姜（各二两） 石膏（四两） 茯苓 知母（各三两）甘草（一两半）</p>
+<p>　　上八味 咀，以水一斗先煮枣仁取七升，去滓，下药煮取三升，分三服，日三。</p>
+<p>　　<strong>治虚劳烦闷不得眠方∶</strong></p>
+<p>　　大枣（二七枚） 葱白（七茎）</p>
+<p>　　上二味以水三升煮取一升，去滓顿服。</p>
+<p>　　<strong>栀子汤<br/>　　治大下后虚劳不得眠，剧者颠倒懊恼欲死方。（</strong>仲景云，发汗吐下后，虚烦不得眠，若剧者必反复颠倒，心中懊恼，栀子汤主之。）</p>
+<p>　　大栀子（十四枚） 豉（七合）</p>
+<p>　　上二味，以水四升先煮栀子取二升半，纳豉更煮三沸，去滓。每服一升，安者勿更服。</p>
+<p>　　若上气呕逆，加橘皮二两，亦可加生姜二两。</p>
+<p>　　<strong>治烦闷不得眠方∶</strong></p>
+<p>　　枸杞白皮、生地黄（各五两） 麦门冬 甘草 前胡（各五两） 茯苓 ？</p>
+<p>　　上十味 咀，以水八升煮取三升七合，分四服。</p>
+<p>　　<strong>治虚劳不得眠方∶</strong></p>
+<p>　　酸枣仁 榆叶（等分）</p>
+<p>　　上二味为末，蜜丸如梧桐子大，每服十五丸，日再。</p>
+<p>　　又方 干姜四两为末，汤和顿服，覆取汗愈。</p>
+<p>　　<strong>灸法<br/></strong>　　胆实热灸浊浴，随年壮，穴在挟胆俞旁相行去五寸。</p>
+<p>　　胆虚灸三阴交各二十壮，穴在内踝上一夫。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12722.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12724.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

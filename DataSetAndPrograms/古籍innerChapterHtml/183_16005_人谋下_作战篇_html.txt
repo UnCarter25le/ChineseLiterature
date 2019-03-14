@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·人谋下·作战篇_古诗文网
+</title>
+<meta content="经曰：昔之善战者，如转木石。木石之性，圆则行，方则止。行者，非能行而势不得不行；止者，非能止而势不得不止。夫战人者，自斗於其地，则散；投之於死地，则战。散者，非能散，势不得不散；战" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16005.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>人谋下·作战篇</b></span>
+<a href="javascript:PlayBookv(16005)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16005" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16005" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　经曰：昔之善战者，如转木石。木石之性，圆则行，方则止。行者，非能行而势不得不行；止者，非能止而势不得不止。夫战人者，自斗於其地，则散；投之於死地，则战。散者，非能散，势不得不散；战者，非能战，势不得不战。行止不在於木石，而制在於人；散战不在於人，而制在於势。此因势而战人也。</p>
+<p>　　夫未见利而战，虽众必败；见利而战，虽寡必胜利者，彼之所短，我之所长也。见利而起，无利则止，见利乘时，帝王之资。故曰：「时之至，间不容息。」先之则太过，後之则不及。见利不失，遭时不疑，失利後时，反受其害。疾雷不及掩耳，卒电不及暝目。赴之若惊，用之若狂，此因利之战人也。</p>
+<p>　　夫战者，左川泽，右邱陵，背高向下，处生击死，此平地之战人也。逼敌无近於水，彼知不免，致死拒我，困兽犹斗，蜂虿有毒，况於人乎！令其半济而击之，前者知免，後者慕之，蔑有斗心。敌逆水而来，迎之於水内，此水上之战人也。左右山陵、谿谷险狭与敌相遇，我则金鼓蔽山、旗帜依林、登高远斥、出没人马，此山谷之战人也。势利者，兵之便；山水平陆者，战之地。夫善用兵者，以便胜，以地强，以谋取，此势之战人也。如建瓴水於高宇之上，砉然而无滞溜；又如破竹，数节之後，迎刃自解，无复着手。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16004.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16006.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

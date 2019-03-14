@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷一·过秦下_古诗文网
+</title>
+<meta content="秦兼诸侯山东三十余郡，循津关，据崄塞，缮甲兵而守之。然陈涉率散乱之众数百，奋臂大呼，不用弓戟之兵，鉏耰白梃，望屋而食，横行天下。秦人阻崄不守，关梁不闭，长戟不刺，强弩不射，楚沛深入" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18587.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·过秦下</b></span>
+<a href="javascript:PlayBookv(18587)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18587" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18587" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　秦兼诸侯山东三十余郡，循津关，据崄塞，缮甲兵而守之。然陈涉率散乱之众数百，奋臂大呼，不用弓戟之兵，鉏耰白梃，望屋而食，横行天下。秦人阻崄不守，关梁不闭，长戟不刺，强弩不射，楚沛深入，战于鸿门，曾无藩篱之难。于是山东诸侯并起，豪俊相立，秦使章邯将而东征。章邯因其三军之众，要市于外，以谋其二。群臣之不相信，可见于此矣。</p>
+<p>　　子婴立，遂不悟。借使子婴有庸主之材，而仅得中佐，山东虽乱，三秦之地可全而有，宗庙之祀宜未绝也。秦地被山带河以为固，四塞之国也。自缪公以来，至于秦王，二十余君，常为诸侯雄。此岂世贤哉，其势居然也。且天下尝同心幷力攻秦矣，然困于崄岨而不能进者，岂勇力智能不足哉，形不利，势不便。秦虽小邑，伐幷大城，得阨塞而守之。诸侯起于匹夫，以利会，非有素王之行也。其交未亲，其名未附，名曰亡秦，其实利之也。彼见秦阻之难犯，必退师，案土息民，以待其弊。承解诛罢，以令国君，不患不得意于海内。贵为天子，富有四海，而身为禽者，捄败非也。</p>
+<p>　　秦王足己而不问，遂过而不变。二世受之，因而不改，暴虐以重祸。子婴孤立无亲，危弱无辅。三主之惑，终身不悟，亡不亦宜乎！当此时也，世非无深谋远虑知化之士也，然所以不敢尽忠拂过者，秦俗多忌讳之禁也，忠言未卒于口，而身糜没矣。故使天下之士倾耳而听，重足而立，阖口而不言。是以三主失道，而忠臣不谏，智士不谋也。天下已乱，奸臣不上闻，岂不悲哉！先王知壅蔽之伤国也，故置公、卿、大夫、士，以饰法设刑，而天下治。其强也，禁暴诛乱而天下服；其弱也，五霸征而诸侯从；其削也，内守外附而社稷存。故秦之盛也，繁法严刑而天下震。及其衰也，百姓怨而海内叛矣。故周王序得其道，千余载不绝，秦本末并失，故不能长。由是观之，安危之统，相去远矣。</p>
+<p>　　鄙谚曰：“前事之不忘，后之师也。”是以君子为国，观之上古，验之当世，参之人事。察盛衰之理，审权势之宜，去就有序，变化因时，故旷日长久，而社稷安矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18586.aspx">上一章</a>
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18588.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

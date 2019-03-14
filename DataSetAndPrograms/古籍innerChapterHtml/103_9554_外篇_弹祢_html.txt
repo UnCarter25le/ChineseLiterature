@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+抱朴子·外篇·弹祢_古诗文网
+</title>
+<meta content="抱朴子曰:汉末有祢衡者， 年二十有三， 孔文举齿过知命， 身居九列， 文学冠群， 少长称誉， 名位殊绝， 而友衡於布衣， 又表荐之於汉朝， 以为宜起家作台郎。云:“惟岳降神， 异人" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9554.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>外篇·弹祢</b></span>
+<a href="javascript:PlayBookv(9554)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9554" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9554" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e6%b4%aa">葛洪</a></p>
+<div class="contson">
+<p>　　抱朴子曰:汉末有祢衡者， 年二十有三， 孔文举齿过知命， 身居九列， 文学冠群， 少长称誉， 名位殊绝， 而友衡於布衣， 又表荐之於汉朝， 以为宜起家作台郎。</p>
+<p>　　云:“惟岳降神， 异人并出。 目所一见， 辄诵於口。 耳所瞥闻， 不忘於心。 性与道合， 思若有神。 ’其叹之如此。 衡游许下， 自公卿国士以下， 衡初不称其官， 皆名之云阿某， 或以姓呼之为某儿， 呼孔融为大儿， 呼杨修为小儿。 荀彧犹强可与语， 过此以住， 皆木梗泥偶， 似人而无人气， 皆酒瓮饮囊耳。 百官大会， 衡时在坐， 忽颦蹙凄怆， 哀叹忼慨， 或讥之曰:“英豪乐集， 非所叹也。” 衡眄历视稠众而答曰:“在此积尸列柩之间， 仁人安能不悲乎? ”</p>
+<p>　　曹公尝切齿欲杀之， 然复无正有入法应殆之罪， 又惜有杀儒生之名， 乃谪作鼓吏， 衡了无悔情耻色， 乃缚角於柱， 口就吹之， 乃有异声， 并摇鼓兆击鼓， 闻者不知其一人也。 而论更剧， 无所顾忌， 寻亡走投荆州牧刘表， 表欲作书与孙权， 讨逆於时已全据江东， 带甲百万， 欲结辅车之援， 与共距中国， 使诸文士立草， 尽思而不得表意。 乃示衡。 衡省之曰:“但欲使孙左右持刀儿视之者， 此可用尔， 傥令张子布见此， 大辱人也。” 即摧坏投地， 表怅然有怪色， 谓衡曰:“为了不中芸锄乎? 惜之也。<br/>”衡索纸笔， 便更书之， 众所作有十余通， 衡凡一历视之而已， 暗记书之， 毕以还表。 表以还主， 或有录所作之本也， 以比校之， 无一字错， 乃各大惊。 表乃请衡更作， 衡即作成， 手不停辍， 表甚以以为佳而施用焉。</p>
+<p>　　衡骄傲转甚， 一州人士， 莫不憎恚， 而表亦不复堪， 欲杀之。 或谏以为曹公名为严酷， 犹能容忍， 衡少有虚名， 若一朝杀之， 则天下游士， 莫复拟足於荆楚者也。 表遂遣之。 衡走到夏口， 依将军黄祖， 祖待以上宾。 祖大儿黄射， 与衡偕行， 过人墓下， 俱读碑铭一过而去。</p>
+<p>　　久之， 射曰:“前所视碑文大佳， 恨不写也。” 衡曰:“卿存其名目耳。 我一览尚记之。” 即为暗书之， 末有一字， 石缺， 乃不分明。 衡与半字， 曰:“疑此当作某字。 恐不审也。” 射省可(下有缺文)。 虽言行轻人， 宁愿荣显， 是以高游凤林， 不能幽翳蒿莱， 然修己驳刺， 迷而不觉， 故开口见憎， 举足蹈祸。 赍如此之伎俩， 亦何理容於天下而得其死哉? 犹枭鸣狐嚾， 从皆不喜， 音响不改， 易处何益。 许下， 人物之海也。 文举为之主任， 荷之足以至到， 於此不安， 已可知矣。 犹必死之病， 俞附越人， 所无如何。 朽木铅铤， 班输欧冶所不能匠也。 而复走投荆楚间， 终陷极害， 此乃衡懵蔽之效也。 盖欲之而不能得， 非能得而弗用者矣。 於戏才士， 可勿戒哉!</p>
+<p>　　嵇生曰:“吾所惑者， 衡之虚名也;子所论者， 衡之实病也。 敢不寤寐於指南， 投杖於折中乎! ”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9553.aspx">上一章</a>
+<a href="/guwen/book_103.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9555.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

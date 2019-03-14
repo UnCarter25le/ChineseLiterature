@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+伯牙琴·君道_古诗文网
+</title>
+<meta content="古之有天下者，以为大不得已，而后世以为乐。此天下所以难有也。生民之初，固无乐乎，为君不幸，为天下所归，而不可得拒者，天下有求于我，我无求于天下也。子不闻至德之世乎，饭粝粱啜藜藿，饮" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20276.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>君道</b></span>
+<a href="javascript:PlayBookv(20276)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20276" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20276" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%82%93%e7%89%a7">邓牧</a></p>
+<div class="contson">
+<p>　　古之有天下者，以为大不得已，而后世以为乐。此天下所以难有也。生民之初，固无乐乎，为君不幸，为天下所归，而不可得拒者，天下有求于我，我无求于天下也。子不闻至德之世乎，饭粝粱啜藜藿，饮食未侈也；夏葛衣冬鹿裘，衣服未备也；土阶三尺茅茨不穷，宫室未美也。为衢室之访，为总章之听，故曰皇帝清问，下民其分未严也。尧让许由而许由逃，舜让石户之农而石户之农入海终身不反，其位未尊也。夫然故天下乐戴而不厌，惟恐其一日释位而莫之肯继也。不幸而天下为秦，坏古封建，六合为一，头会箕，敛竭天下之财以自奉，而君益贵；焚诗书，任法律，筑长城万里，凡所以固位而养尊者无所不至，而君益孤。惴惴然若匹夫，怀一金惧人之夺，其后亦巳危矣。天生民而立之君，非为君也，奈何以四海之广，足一夫之用邪！故凡为饮食之侈、衣服之备、宫室之美者，非尧舜也，秦也。为分而严、为位而尊者，非尧舜也，亦秦也。后世为君者，歌颂功德动称尧舜，而所以自为，乃不过如秦，何哉！书曰酣酒嗜音峻宇雕墙，有一于此，未或不亡。彼所谓君者，非有四目两喙、鳞头而羽臂也，状猊咸与人同，则夫人固可为也。今夺人之所好，聚人之所争，慢藏诲盗，冶容诲淫，欲长治久安，得乎？夫乡师里胥，虽贱役亦所以长人也，然天下未有乐为者，利不在焉故也。圣人不利天下，亦若乡师里胥然，独以位之不得，人是惧。岂惧人夺其位哉！夫惧人夺其位者，甲兵弧矢以待，盗贼乱世之事也。恶有圣人在位，天下之人戴之如父母，而日以盗贼为忧，以甲兵弧矢自卫邪？故曰欲为尧舜，莫若使天下无乐乎为君；欲为秦，莫若勿怪盗贼之争天下。嘻，天下何尝之有，败则盗贼，成则帝王，若刘汉中李晋阳者，乱世则治主，治世则乱民也。有国有家，不思所以救之，智鄙相笼，强弱相陵，天下之乱，何时而巳乎！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20275.aspx">上一章</a>
+<a href="/guwen/book_292.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20277.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

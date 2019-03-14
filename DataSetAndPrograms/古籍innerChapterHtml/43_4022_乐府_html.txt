@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·乐府_古诗文网
+</title>
+<meta content="乐府者，声依永，律和声也。钧天九奏，既其上帝；葛天八阕，爰及皇时。自《咸》、《英》以降，亦无得而论矣。至于涂山歌于候人，始为南音；有娀谣乎飞燕，始为北声；夏甲叹于东阳，东音以发；殷" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4022.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2616" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>乐府</b></span>
+<a href="javascript:PlayBookv(4022)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4022" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2616)" id="leftbtn2616" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4022" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　乐府者，声依永，律和声也。钧天九奏，既其上帝；葛天八阕，爰及皇时。自《咸》、《英》以降，亦无得而论矣。至于涂山歌于候人，始为南音；有娀谣乎飞燕，始为北声；夏甲叹于东阳，东音以发；殷整思于西河，西音以兴：音声推移，亦不一概矣。匹夫庶妇，讴吟土风，诗官采言，乐胥被律，志感丝篁，气变金石：是以师旷觇风于盛衰，季札鉴微于兴废，精之至也。</p>
+<p>　　夫乐本心术，故响浃肌髓，先王慎焉，务塞淫滥。敷训胄子，必歌九德，故能情感七始，化动八风。自雅声浸微，溺音腾沸，秦燔《乐经》，汉初绍复，制氏纪其铿锵，叔孙定其容典，于是《武德》兴乎高祖，《四时》广于孝文，虽摹《韶》、《夏》，而颇袭秦旧，中和之响，阒其不还。暨武帝崇礼，始立乐府，总赵代之音，撮齐楚之气，延年以曼声协律，朱马以骚体制歌，《桂华》杂曲，丽而不经，《赤雁》群篇，靡而非典，河间荐雅而罕御，故汲黯致讥于《天马》也。至宣帝雅颂，诗效《鹿鸣》，迩及元成，稍广淫乐，正音乖俗，其难也如此。暨后汉郊庙，惟杂雅章，辞虽典文，而律非夔旷。</p>
+<p>　　至于魏之三祖，气爽才丽，宰割辞调，音靡节平。观其北上众引，《秋风》列篇，或述酣宴，或伤羁戍，志不出于杂荡，辞不离于哀思。虽三调之正声，实《韶》、《夏》之郑曲也。逮于晋世，则傅玄晓音，创定雅歌，以咏祖宗；张华新篇，亦充庭万。然杜夔调律，音奏舒雅，荀勖改悬，声节哀急，故阮咸讥其离声，后人验其铜尺。和乐之精妙，固表里而相资矣。</p>
+<p>　　故知诗为乐心，声为乐体；乐体在声，瞽师务调其器；乐心在诗，君子宜正其文。“好乐无荒”，晋风所以称远；“伊其相谑”，郑国所以云亡。故知季札观乐，不直听声而已。</p>
+<p>　　若夫艳歌婉娈，怨诗诀绝，淫辞在曲，正响焉生？然俗听飞驰，职竞新异，雅咏温恭，必欠伸鱼睨；奇辞切至，则拊髀雀跃；诗声俱郑，自此阶矣！凡乐辞曰诗，诗声曰歌，声来被辞，辞繁难节。故陈思称“左延年闲于增损古辞，多者则宜减之”，明贵约也。观高祖之咏《大风》，孝武之叹《来迟》，歌童被声，莫敢不协。子建士衡，咸有佳篇，并无诏伶人，故事谢丝管，俗称乖调，盖未思也。</p>
+<p>　　至于轩岐鼓吹，汉世铙挽，虽戎丧殊事，而并总入乐府，缪韦所改，亦有可算焉。昔子政品文，诗与歌别，故略具乐篇，以标区界。</p>
+<p>　　赞曰∶</p>
+<p>　　八音攡文，树辞为体。讴吟坰野，金石云陛。</p>
+<p>　　《韶》响难追，郑声易启。岂惟观乐，于焉识礼。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4021.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4023.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2616" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

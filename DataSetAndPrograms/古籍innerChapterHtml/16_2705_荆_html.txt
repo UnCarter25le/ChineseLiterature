@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·荆_古诗文网
+</title>
+<meta content="历史来源　　源流一　　源于芈姓，出自西周初年楚国先君熊绎的封地，属于以国名为氏。西周初年，楚国先君熊绎被封在荆山一带(今湖北荆州)，国号为荆，君主称为荆君。据史籍《通志·" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2705.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>荆</b></span>
+<a href="javascript:PlayBookv(2705)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2705" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2705" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　源流一<br/>　　源于芈姓，出自西周初年楚国先君熊绎的封地，属于以国名为氏。西周初年，楚国先君熊绎被封在荆山一带(今湖北荆州)，国号为荆，君主称为荆君。据史籍《通志·氏族略·以国为氏》上的记载，楚国的旧国号是荆，荆氏是未改号为楚之前的姓氏，又说周朝楚国的别称为荆，国民以国为氏。楚之先祖出自帝颛顼高阳氏。高阳者，黄帝之孙，昌意之子。颛顼帝之后第五代吴回，是帝高辛氏的火正，主管天火与地火，能光融天下，于是帝喾命曰祝融(祝，大也；融，明也)。其所属部落族人分布在商都朝歌的南方(今河南新郑)。吴回之子陆终生有六子，幼子曰季连，芈姓，就是楚之先祖。<br/>　　周襄王姬郑十四年(楚成王三十四年，公元前638年)，楚成王派兵救郑国，与宋国军队大战于泓水(今河南柘城)，射伤意欲称霸的宋襄公并击败宋军，楚国军威大振，其时辖地大致为现在的湖南、湖北全部、重庆、河南、安徽、江苏、江西部分地方。<br/>　　在楚成王继位改荆为楚以后，以前历代荆君的庶出子孙者，即有以原国号为姓氏者，称荆氏，世代相传至今，史称荆氏正宗。<br/>　　源流二<br/>　　源于芈姓，出自为居于秦国的楚氏避秦庄襄王嬴楚之讳所改，属于以国名为氏，或避讳改姓为氏。芈姓之后原有以国为姓的楚氏，其中有一支楚氏族人居于秦国，在斯地生息繁衍。后在先秦时期因避秦庄襄王嬴子楚的名讳，改以原国名“荆”为姓氏，称荆氏，世代相传至今。<br/>　　芈姓荆氏族人皆尊奉楚君熊绎为得姓始祖，且不与姜姓荆氏合谱。<br/>　　源流三<br/>　　源于姜姓，出自战国末期齐国庆氏，属于因故改姓为氏。战国末期，齐国有庆氏一族，是公孙庆克的后裔子孙，后因故有改姓为荆氏者，逐渐形成江南荆氏一族。公孙庆克，是齐桓公姜小白的庶孙，即齐桓公之子姜无亏的儿子。公孙庆克的儿子后来以父名命氏，称庆氏，形成了一个庆氏大家族。在春秋时期，齐国公孙庆克的后裔中有著名的庆封，在晋国还有庆郑，皆为齐桓公之支庶。在先秦时期，被燕国太子丹收买并派往秦国去刺杀秦王嬴政的著名“风萧萧兮易水寒，壮士一去兮不复返”之刺客荆轲，即是该支由庆氏分衍的荆氏族人。<br/>　　姜姓荆氏皆尊奉公孙庆克为得姓始祖，且不与芈姓荆氏合谱。<br/>　　源流四<br/>　　始祖荆王贾（高帝从兄也）后人</p>
+<p><strong>家族名人</strong><br/>　　荆轲<br/>　　荆轲：（?～公元前227年），中国战国时期著名刺客。也称庆卿、荆卿、庆轲。受燕太子丹之托入刺秦王，失败被杀。战国末期卫国人，汉族，喜好读书击剑，为人慷慨侠义。后游历到燕国，被称为“荆卿”（或荆叔），随之由燕国智勇深沉的“节侠”田光推荐给太子丹，拜为上卿。秦国灭赵后，兵锋直指燕国南界，太子丹震惧，与田光密谋，决定派荆轲入秦行刺秦王。荆轲献计太子丹，拟以秦国叛将樊于期之头及燕督亢（今河北涿县、易县、固安一带，是一块肥沃的土地）地图进献秦王，相机行刺。太子丹不忍杀樊于期，荆轲只好私见樊于期，告以实情，樊于期为成全荆轲而自刎。公元前227年，荆轲带燕督亢地图和樊于期首级，前往秦国刺杀秦王。临行前，许多人在易水边为荆轲送行，场面十分悲壮。“风萧萧兮易水寒，壮士一去兮不复还”，这是荆轲在告别时所吟唱的诗句。荆轲来到秦国后，秦王在咸阳宫隆重召见了他。荆轲在献燕督亢地图时，图穷匕见，刺秦王不中，被杀。<br/>　　荆浩<br/>　　荆浩：五代后梁画家，沁水（今属山西省）人。他擅画山水，常常携带笔墨摹写山中古松，画云中山顶时，能画出四面峻厚的气势。著有《笔法记》，对中国山水画的发展有重要影响。<br/>　　荆嗣<br/>　　荆嗣：宋代名将，累立战功。历官天武军校、田重进部将，太宗时攻太原及幽州，他皆率先陷阵，拜都指挥使。真宗时，为邠庆、环庆副部署，嗣起行伍，一生经150余战，未尝败北。</p>
+<p><strong>迁徙分布</strong><br/>　　宋朝时期，荆姓大约有4万人，大约占全国人口的0.05%，约排在大姓姓氏中第二百一十位。在全国的分布主要集中于河北、湖北一带。明朝时期，荆姓人口骤减，大约有1万8干人，在全国的分布主要集中于山西、河南、山东、湖南、河北等地。山西为荆姓第一大省，约占荆姓总人口的一半。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2704.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2706.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

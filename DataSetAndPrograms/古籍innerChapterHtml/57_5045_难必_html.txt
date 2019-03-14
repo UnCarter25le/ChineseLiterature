@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+反经·难必_古诗文网
+</title>
+<meta content="(夫忠为事君之首，而龙逢斩、比干诛；孝称德行之先，孝己忧而曾参泣。遇好文之主，贾谊被谪于长沙；当用武之时，李广无封侯之爵。又云：“意合，异类生爱；意不合，至亲交兵。”) 夫人主莫不" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5045.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3221" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>难必</b></span>
+<a href="javascript:PlayBookv(5045)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5045" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3221)" id="leftbtn3221" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5045" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b5%b5%e8%95%a4">赵蕤</a></p>
+<div class="contson">
+<p>　　(夫忠为事君之首，而龙逢斩、比干诛；孝称德行之先，孝己忧而曾参泣。遇好文之主，贾谊被谪于长沙；当用武之时，李广无封侯之爵。又云：“意合，异类生爱；意不合，至亲交兵。”) </p>
+<p>　　夫人主莫不欲其臣之忠，而忠未必信，故伍员流于江、苌弘死于蜀，其血三年而化为碧。凡人亲莫不欲其子之孝，而孝未必爱，故孝己忧而曾参悲。此难必者也。何以言之(语曰：羿关弧则越人之行自若，弱子关弧则慈母入室闭户。故可必则越人不疑羿，不可必则慈母逃弱子也。)？魏文侯问狐卷子曰：“父子、兄弟、君臣之贤足恃乎？”对曰：“不足恃也。何者？父贤不过尧，而丹朱放；子贤不过舜，而瞽叟拘；兄贤不过舜，而象傲；弟贤不过周公，而管蔡诛；臣贤不过汤武，而桀纣伐。望人者不至，恃人者不久。君欲理，亦从身始，人何可恃乎！” </p>
+<p>　　汉时，梁孝王藏匿羊胜、公孙诡，韩安国泣说梁孝王曰：“大王自度于皇帝(皇帝，景帝也。是梁孝王兄。)，孰与太上皇之与高皇帝，及皇帝之与临江王亲？”(临江王，景帝太子也。)孝王曰：“弗如也。”安国曰：“夫太上、临江，亲父子间，然而高帝曰：‘提三尺剑取天下者，朕也！’故太上终不得制事，居栎阳。临江王，嫡长太子也，以言过废王临江(景尝属诸姬太子母，栗姬言不逊，由是废太子，栗姬忧死也。)。用宫垣事，卒自杀中尉府。何者？治天下终不以私害公。语曰：虽有亲父，安知其不为虎？虽有亲兄，安知其不为狼？今大王列在诸侯，悦一邪臣，浮说犯上，禁挠明法。天子以太后故，不忍致法于王。太后日夜泣涕，幸大王自改，大王终不觉悟。又如太后车即晏驾，大王尚谁攀乎？”语未卒，孝王出羊胜等。(景帝弟梁孝王用羊胜、公孙诡之计，求为汉太子，恐大臣不听，乃阴使人刺汉用事谋臣袁盎。帝闻诡、胜计，遣使十辈，举国大索，捕诡、胜，不得。内史韩安国闻诡、胜匿孝王所，入见王，说之。王出诡、胜，诡、胜自杀也。) </p>
+<p>　　由是观之，安在其可必哉？语曰：“以权利合者，权利尽而交疏。”又曰：“以色事人者，色衰而爱绝。”此言财色不可必也。墨子曰：“虽有慈父，不爱无益之子。”黄石公曰：“主不可以无德，无德则臣民叛。”此言臣子不可必也。《诗》云：“自求伊佑。”有旨哉！有旨哉！ </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5044.aspx">上一章</a>
+<a href="/guwen/book_57.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5046.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3221" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

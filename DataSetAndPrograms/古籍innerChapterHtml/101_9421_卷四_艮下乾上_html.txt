@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷四·艮下乾上_古诗文网
+</title>
+<meta content="遯亨，小利貞。彖曰：遯亨，遯而亨也。剛當位而應與時行也。小利貞，浸而長也。遯之時，義大矣哉。陰長而君子外於時也。隱其道，逃其情，從而正之，而後乃亨。夫彼之生也，微其終大而不可禦者，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9421.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·艮下乾上</b></span>
+<a href="javascript:PlayBookv(9421)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9421" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9421" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　遯亨，小利貞。彖曰：遯亨，遯而亨也。剛當位而應與時行也。小利貞，浸而長也。遯之時，義大矣哉。</p>
+<p>　　陰長而君子外於時也。隱其道，逃其情，從而正之，而後乃亨。夫彼之生也，微其終大而不可禦者，時之來也。故君子觀其兆，而不待其至也。當位而應，猶不果制，與時行而已矣。陰浸而長，其患未害，我志猶行也，故小利而貞。剛而應柔，和而不同，遯而反制，非大徳不能消息也。</p>
+<p>　　象曰：天下有山，遯。君子以逺小人，不惡而嚴。</p>
+<p>　　山侵於天，下通上也。君子逃情於小人，不以力爭，嚴以制也。</p>
+<p>　　初六，遯尾，厲。勿用有攸往。象曰：遯尾之厲，不往何災也。</p>
+<p>　　遯，以逃避患也。患未至而首遯之，則逺於患矣。陰過二矣，而後遯焉，遯之尾也。見而逃之，反相疑也。不往而和，則何災哉。</p>
+<p>　　六二，執之用黄牛之革，莫之勝説。象曰：執用黄牛，固志也。</p>
+<p>　　小人之道，狹而鮮親，至於履位，人多逃也。則以法執也，或係之以利，質之以愛，然後人不得去。堅其志而不可拔也，乃得小人之中，而獲其順矣。</p>
+<p>　　九三，係遯有疾厲，畜臣妾吉。象曰：係遯之厲有疾，憊也。畜臣妾吉，不可大事也。</p>
+<p>　　係志於陰，不能遯也。為小人所制，危憊之道也。施於畜臣妾，吉也。係於鄙賤，豈可大事乎。</p>
+<p>　　九四，好遯君子吉，小人否。象曰：君子好遯，小人否也。</p>
+<p>　　君子知幾絶而好遯小人，情係不能遯也。</p>
+<p>　　九五，嘉遯，貞吉。象曰：嘉遯貞吉，以正志也。</p>
+<p>　　當位相應，能制於内，遯情而治，志在乎正，可謂遯之嘉也。</p>
+<p>　　上九，肥遯，无不利。象曰：肥遯无不利，无所疑也。</p>
+<p>　　過於卦外，無應小人，不勞慮於進退，可謂遯之肥而無不利也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9420.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9422.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

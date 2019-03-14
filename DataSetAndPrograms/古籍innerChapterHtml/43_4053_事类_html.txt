@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·事类_古诗文网
+</title>
+<meta content="事类者，盖文章之外，据事以类义，援古以证今者也。昔文王繇《易》，剖判爻位。《既济》九三，远引高宗之伐，《明夷》六五，近书箕子之贞：斯略举人事，以征义者也。至若胤征羲和，陈《政典》之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4053.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2647" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>事类</b></span>
+<a href="javascript:PlayBookv(4053)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4053" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2647)" id="leftbtn2647" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4053" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　事类者，盖文章之外，据事以类义，援古以证今者也。昔文王繇《易》，剖判爻位。《既济》九三，远引高宗之伐，《明夷》六五，近书箕子之贞：斯略举人事，以征义者也。至若胤征羲和，陈《政典》之训；盘庚诰民，叙迟任之言：此全引成辞以明理者也。然则明理引乎成辞，征义举乎人事，乃圣贤之鸿谟，经籍之通矩也。《大畜》之象，“君子以多识前言往行”，亦有包于文矣。</p>
+<p>　　观夫屈宋属篇，号依诗人，虽引古事，而莫取旧辞。唯贾谊《鵩赋》，始用鹖冠之说；相如《上林》，撮引李斯之书，此万分之一会也。及扬雄《百官箴》，颇酌于《诗》、《书》；刘歆《遂初赋》，历叙于纪传；渐渐综采矣。至于崔班张蔡，遂捃摭经史，华实布濩，因书立功，皆后人之范式也。</p>
+<p>　　夫姜桂因地，辛在本性；文章由学，能在天资。才自内发，学以外成，有学饱而才馁，有才富而学贫。学贫者迍邅于事义，才馁者劬劳于辞情，此内外之殊分也。是以属意立文，心与笔谋，才为盟主，学为辅佐；主佐合德，文采必霸，才学褊狭，虽美少功。夫以子云之才，而自奏不学，及观书石室，乃成鸿采。表里相资，古今一也。故魏武称张子之文为拙，以学问肤浅，所见不博，专拾掇崔杜小文，所作不可悉难，难便不知所出。斯则寡闻之病也。</p>
+<p>　　夫经典沉深，载籍浩瀚，实群言之奥区，而才思之神皋也。扬班以下，莫不取资，任力耕耨，纵意渔猎，操刀能割，必裂膏腴。是以将赡才力，务在博见，狐腋非一皮能温，鸡庶必数千而饱矣。是以综学在博，取事贵约，校练务精，捃理须核，众美辐辏，表里发挥。刘劭《赵都赋》云∶“公子之客，叱劲楚令歃盟；管库隶臣，呵强秦使鼓缶。”用事如斯，可称理得而义要矣。故事得其要，虽小成绩，譬寸辖制轮，尺枢运关也。或微言美事，置于闲散，是缀金翠于足胫，靓粉黛于胸臆也。</p>
+<p>　　凡用旧合机，不啻自其口出，引事乖谬，虽千载而为瑕。陈思，群才之英也，《报孔璋书》云∶“葛天氏之乐，千人唱，万人和，听者因以蔑《韶》、《夏》矣。”此引事之实谬也。按葛天之歌，唱和三人而已。相如《上林》云∶“奏陶唐之舞，听葛天之歌，千人唱，万人和。”唱和千万人，乃相如推之。然而滥侈葛天，推三成万者，信赋妄书，致斯谬也。陆机《园葵》诗云∶“庇足同一智，生理合异端。”夫葵能卫足，事讥鲍庄；葛藟庇根，辞自乐豫。若譬葛为葵，则引事为谬；若谓庇胜卫，则改事失真：斯又不精之患。夫以子建明练，士衡沉密，而不免于谬。曹洪之谬高唐，又曷足以嘲哉！夫山木为良匠所度，经书为文士所择，木美而定于斧斤，事美而制于刀笔，研思之士，无惭匠石矣。</p>
+<p>　　赞曰∶</p>
+<p>　　经籍深富，辞理遐亘。皓如江海，郁若昆邓。</p>
+<p>　　文梓共采，琼珠交赠。用人若己，古来无懵。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4052.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4054.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2647" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

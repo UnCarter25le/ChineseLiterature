@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷三·刘海石_古诗文网
+</title>
+<meta content="刘海石，蒲台人，避乱于滨州。时十四岁，与滨州生刘沧客同函丈，因相善，订为昆季。无何，海石失怙恃，奉丧而归，音问遂阙。沧客家颇裕，年四十，生二子，长子吉，十七岁，为邑名士，次子亦慧。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11512.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·刘海石</b></span>
+<a href="javascript:PlayBookv(11512)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11512" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11512" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　刘海石，蒲台人，避乱于滨州。时十四岁，与滨州生刘沧客同函丈，因相善，订为昆季。无何，海石失怙恃，奉丧而归，音问遂阙。沧客家颇裕，年四十，生二子，长子吉，十七岁，为邑名士，次子亦慧。沧客又内邑中倪氏女，大嬖之。后半年长子患脑痛卒，夫妻大惨。无几何妻病又卒，逾数月长媳又死，而婢仆之丧亡且相继也。沧客哀悼，殆不能堪。</p>
+<p>　　一日方坐愁间，忽阍人通海石至。沧客喜，急出门迎以入。方欲展寒温，海石忽惊曰：“兄有灭门之祸不知耶？”沧客愕然，莫解所以。海石曰：“久失闻问，窃疑近况，未必佳也。”沧客泫然，因以状对，海石欷歔，既而笑曰：“灾殃未艾，余初为兄吊也。然幸而遇仆，请为兄贺。”沧客曰：“久不晤，岂近精‘越人术’耶？”海石曰：“是非所长。阳宅风鉴，颇能习之。”沧客喜，便求相宅。导海石入，内外遍观之，已而请睹诸眷口。沧客从其教，使子媳婢妾俱见于堂，沧客一一指示。</p>
+<p>　　至倪，海石仰天而视，大笑不已。众方惊疑，但见倪女战栗无色，身暴缩短仅二尺余。海石以界方击其首，作石缶声。海石揪其发检脑后，见白发数茎，欲拔之，女缩项跪啼，言即去，但求勿拔。海石怒曰：“汝凶心尚未死耶？”就项后拔去之。女随手而变，黑色如狸。众大骇，海石掇纳袖中，顾子妇曰：“媳受毒已深，背上当有异，请验之。”妇羞，不肯袒示。刘子固强之，见背上白毛长四指许。海石以针挑去，曰：“此毛已老，七日即不可救。”又顾刘次子，亦有毛才二指。曰：“似此可月余死耳。”沧客以及婢仆并刺之。曰：“仆适不来，一门无噍类矣。”问：“此何物？”曰：“亦狐属。吸人神气以为灵，最利人死。”沧客曰：“久不见君，何能神异如此！无乃仙乎？”笑曰：“特从师习小技耳，何遽云仙。”问其师，答云：“山石道人。适此物，我不能死之，将归献俘于师。”言已告别。觉袖中空空，骇曰：“亡之矣！尾末有大毛未去，今已遁去。”众俱骇然。海石曰：“领毛已尽，不能作人，止能化兽，遁当不远。”于是入室而相其猫，出门而嗾其犬，皆曰无之。启圈笑曰：“在此矣。”沧客视之多一豕，闻海石笑，遂伏不敢少动。提耳捉出，视尾上白毛一茎，硬如针。方将检拔，而豕转侧哀鸣，不听拔。海石曰：“汝造孽既多，拔一毛犹不肯耶？”执而拔之，随手复化为狸。纳袖欲出，沧客苦留，乃为一饭。问后会，曰：“此难预定。我师立愿宏深，常使我等遨世上，拔救众生，未必无再见时。”</p>
+<p>　　及别后，细思其名，始悟曰：“海石殆仙矣！‘山石’合一‘岩’字，盖吕祖讳也。” </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11511.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11513.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

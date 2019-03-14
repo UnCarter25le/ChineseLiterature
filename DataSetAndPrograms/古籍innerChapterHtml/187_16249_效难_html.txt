@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+人物志·效难_古诗文网
+</title>
+<meta content="盖知人之效有二难：有难知之难，有知之无由得效之难。何谓难知之难？人物精微，能神而明，其道甚难，固难知之难也。是以众人之察，不能尽备；故各自立度，以相观采：或相其形容，或候其动作，或" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16249.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>效难</b></span>
+<a href="javascript:PlayBookv(16249)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16249" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16249" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8a%ad">刘劭</a></p>
+<div class="contson">
+<p>　　盖知人之效有二难：有难知之难，有知之无由得效之难。</p>
+<p>　　何谓难知之难？人物精微，能神而明，其道甚难，固难知之难也。是以众人之察，不能尽备；故各自立度，以相观采：或相其形容，或候其动作，或揆其终始，或揆其拟象，或推其细微，或恐其过误，或循其所言，或稽其行事。八者游杂，故其得者少，所失者多。是故必有草创信形之误，又有居止变化之谬；故其接遇观人也，随行信名，失其中情。</p>
+<p>　　故浅美扬露，则以为有异。</p>
+<p>　　深明沉漠，则以为空虚。</p>
+<p>　　分别妙理，则以为离娄。</p>
+<p>　　口传甲乙，则以为义理。</p>
+<p>　　好说是非，则以为臧否。</p>
+<p>　　讲目成名，则以为人物。</p>
+<p>　　平道政事，则以为国体。</p>
+<p>　　犹听有声之类，名随其音。夫名非实，用之不效，故曰：名犹口进，而实从事退。中情之人，名不副实，用之有效；故名由众退，而实从事章。此草创之常失也。故必待居止，然后识之。</p>
+<p>　　故居视其所安，达视其所举，富视其所与，穷视其所为，贫视其所取。</p>
+<p>　　然后乃能知贤否。此又已试，非始相也。所以知质未足以知其略，且天下之人，不可得皆与游处。或志趣变易，随物而化：或未至而悬欲，或已至而易顾，或穷约而力行，或得志而从欲；此又居止之所失也。由是论之，能两得其要，是难知之难。</p>
+<p>　　何谓无由得效之难？上材已莫知，或所识在幼贱之中，未达而丧；或所识者，未拔而先没；或曲高和寡，唱不见赞；或身卑力微，言不见亮；或器非时好，不见信贵；或不在其位，无由得拔；或在其位，以有所屈迫。是以良材识真，万不一遇也；须识真在位识，百不一有也；以位势值可荐致之士，十不一合也。或明足识真，有所妨夺，不欲贡荐；或好贡荐，而不能识真。是故，知与不知，相与分乱于总猥之中；实知者患于不得达效，不知者亦自以为未识。所谓无由得效之难也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16248.aspx">上一章</a>
+<a href="/guwen/book_187.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16250.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

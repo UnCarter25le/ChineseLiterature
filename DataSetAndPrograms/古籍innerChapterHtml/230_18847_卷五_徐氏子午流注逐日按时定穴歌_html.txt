@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷五·徐氏子午流注逐日按时定穴歌_古诗文网
+</title>
+<meta content="甲日戌时胆窍阴，丙子时中前谷荥，戊寅陷谷阳明俞，返本丘墟木在寅，庚辰经注阳溪穴，壬午膀胱委中寻，甲申时纳三焦水，荥合天干取液门。乙日酉时肝大敦，丁亥时荥少府心，己丑太白、太冲穴，辛" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18847.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·徐氏子午流注逐日按时定穴歌</b></span>
+<a href="javascript:PlayBookv(18847)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18847" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18847" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　甲日戌时胆窍阴，丙子时中前谷荥，戊寅陷谷阳明俞，返本丘墟木在寅，庚辰经注阳溪穴，壬午膀胱委中寻，甲申时纳三焦水，荥合天干取液门。</p>
+<p>　　乙日酉时肝大敦，丁亥时荥少府心，己丑太白、太冲穴，辛卯经渠是肺经，癸巳肾宫阴谷合，乙未劳宫火穴荥。</p>
+<p>　　丙日申时少泽当，戊戌内庭治胀康，庚子时在三间俞，本原腕骨可祛黄，壬寅经火昆仑上，甲辰阳陵泉合长，丙午时受三焦木，中渚之中仔细详。</p>
+<p>　　丁日未时心少冲，己酉大都脾土逢，辛亥太渊、神门穴，癸丑复溜肾水通，乙卯肝经曲泉合，丁巳包络大陵中。</p>
+<p>　　戊日午时厉兑先，庚申荥穴二间迁，壬戌膀胱寻束骨，冲阳土穴必还原，甲子胆经阳辅是，丙寅小海穴安然，戊辰气纳三焦脉，经穴支沟刺必痊。</p>
+<p>　　己日巳时隐白始，辛未时中鱼际取，癸酉太溪、太白原，乙亥中封内踝比，丁丑时合少海心，己卯间使包络止。</p>
+<p>　　庚日辰时商阳居，壬午膀胱通谷之，甲申临泣为俞木，合谷金原返本归，丙戌小肠阳谷火，戊子时居三里宜，庚寅气纳三焦合，天井之中不用疑。</p>
+<p>　　辛日卯时少商本，癸巳然谷何须忖，乙未太冲原太渊，丁酉心经灵道引，己亥脾合阴陵泉，辛丑曲泽包络准。</p>
+<p>　　壬日寅时起至阴，甲辰胆脉侠溪荥，丙午小肠后溪俞，返求京骨本原寻，三焦寄有阳池穴，返本还原似嫡亲，戊申时注解溪胃，大肠庚戌曲池真，壬子气纳三焦寄，井穴关冲一片金，关冲属金壬属水，子母相生恩义深。</p>
+<p>　　癸日亥时井涌泉，乙丑行间穴必然，丁卯俞穴神门是，本寻肾水太溪原，包络大陵原并过，己巳商丘内踝边，辛未肺经合尺泽，癸酉中冲包络连，子午截时安定穴，留传后学莫忘言。</p>
+<p>　　徐氏子午流注逐日按时定穴表：</p>
+<p>　　本表读法：</p>
+<p>　　本表上行之天干代表十日，其右下角之小字为每日之主经。</p>
+<p>　　本表左行之地支代表每日十二时辰，左旁之阿拉伯号码为时钟数。其右下角之小字为每时流注之经，子午流注正法不用，仅于兼用十二经母子补泻时始用之。</p>
+<p>　　天干与地支格内黄色者代表阴日阴时。</p>
+<p>　　穴名格内红色者代表闭时，应无穴开，本表中于闭时所开之穴，乃取夫妻合日互用之穴。</p>
+<p>　　本表中每日尚余二个时辰(戊癸日各有四个时辰)为闭时，无有穴开，遇时倘有需要，可依法加开十二经母子补泻穴以资补充，本表未予载列。</p>
+<p>　　凡穴名右下角标有井字者，为各日主经之井穴，必于每日主经之首时开穴。以下依次所开之穴，为按照五行相生顺序各经之荥、俞、经、合，以及三焦包络母子相生穴，均无标志。</p>
+<p>　　凡穴名后标有“。”者，为返本还原之穴，与该日俞穴同时开穴。</p>
+<p>　　穴名格内左上角之小字，为当时之天干，其与当时所开井荥俞经合穴所属经脉之天干一致(惟原穴与三焦包络穴例外)，读者可以随时核对，免滋错误。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18846.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18848.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

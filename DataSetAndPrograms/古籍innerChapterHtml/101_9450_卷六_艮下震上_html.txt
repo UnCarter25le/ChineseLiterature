@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷六·艮下震上_古诗文网
+</title>
+<meta content="小過，亨利貞。可小事不可大事，飛鳥遺之音，不冝上，冝下。大吉，彖曰：小過，小者過而亨也。過以利貞，與時行也。柔得中是以小事吉也。剛失位而不中，是以不可大事也。有飛鳥之象焉。飛鳥遺之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9450.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·艮下震上</b></span>
+<a href="javascript:PlayBookv(9450)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9450" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9450" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　小過，亨利貞。可小事不可大事，飛鳥遺之音，不冝上，冝下。大吉，彖曰：小過，小者過而亨也。過以利貞，與時行也。柔得中是以小事吉也。剛失位而不中，是以不可大事也。有飛鳥之象焉。飛鳥遺之音，不宜上，宜下，大吉。上逆而下順也。</p>
+<p>　　剛失正，柔以為主，小人當位，過而得通也。小人者，其心小其見狹，其務近君子，過以合時，利不失正乃行，故小事可也。鳥也者，陽升之物也。剛雖上而失位，不中不得行正也，是以有飛鳥之象也。君子憂其失，哀其止，發乎志，形乎聲，犯上以匡之逆於其道不行，動無所往，遇於害焉。上順而止之，以俟其通，故得其大吉焉。是故不可以大事也。</p>
+<p>　　象曰：山上有雷，小過。君子以行過乎恭，喪過乎哀，用過乎儉。</p>
+<p>　　山上有雷，其虚聲而巳，無益下也。行過乎恭，喪過乎哀，用過乎儉救，於治有其聲也。小事過而不傷其正者，莫過是也。故君子行之。</p>
+<p>　　初六，飛鳥以凶。象曰：飛鳥以凶，不可如何也。</p>
+<p>　　小過不冝上也，其在防之初乎。上應其動，無所止者也。不可往而往，凶災之及，自致之也，將如之何哉。</p>
+<p>　　六二，過其祖，遇其妣，不及其君，遇其臣，无咎。象曰：不及其君，臣不可過也。</p>
+<p>　　小過，剛失位也。二得位，得中能過其剛者也。妣，臣柔也。往與於隂也。非其常而得之，曰過。於其家斯遇妣矣。其於國斯遇臣矣。不及其君人之化也。臣不可過君也。而今過之者，小過之過者也。遇而時，故無咎矣。</p>
+<p>　　九三，弗過，防之，從或戕之，凶。象曰：從或戕之，凶如何也。</p>
+<p>　　陽不得正，不遇者也。小人匪正，忌於君子，可以防之，應而從之，則戕之矣。不能防而自致凶也，如之何哉。</p>
+<p>　　九四，无咎，弗過遇之，往厲必戒，勿用永貞。象曰：弗過遇之，位不當也。徃厲必戒，終不可長也。</p>
+<p>　　卑退自守，故無咎也。剛失位不能過者也。下應而來，非已之召，故曰遇也。恃應自得，以往危哉。必自戒之，此不足為長正之道也。</p>
+<p>　　六五，密雲不雨，自我西郊，公弋，取彼在穴。象曰：密雲不雨，已上也。</p>
+<p>　　柔居尊，小居大也。不應於上，小事而巳。密雲而不能雨者，隂陽得行其道，故盛而為雨也。小過隂乗陽，而位於陽，巳上過矣，安?施乎。不足以和，澤天下也。君子之修德，守於中正，俟其時而行也。茍無正矣，雖上過其德也。將何為乎。隂不足以當王，施于公而巳矣。弋非狩之大者，穴非路之夷者，皆小人之過也。以柔與於柔也。</p>
+<p>　　上六，弗遇過之，飛鳥離之，凶。是謂災眚。象曰：弗遇過之，巳亢也。</p>
+<p>　　小過，隂□過也。小人之道，極也。應何遇乎，飛鳥之凶，上何止矣。道之窮，離之凶，是謂災之過也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9449.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9451.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

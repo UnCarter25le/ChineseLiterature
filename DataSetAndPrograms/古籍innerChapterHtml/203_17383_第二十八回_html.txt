@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第二十八回_古诗文网
+</title>
+<meta content="仙侣戏弄洞宾且说铁拐老仙，一日下游凡界，正在江淮外海等处，偶遇何仙姑飘飘而来。铁拐招之同行。因问仙姑曰：“汝从何来？”仙姑曰：“有唐广贞，因血疾别夫修道，吾从而度之。”铁拐戏之曰：" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17383.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第二十八回</b></span>
+<a href="javascript:PlayBookv(17383)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17383" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17383" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>仙侣戏弄洞宾</strong></p>
+<p>　　且说铁拐老仙，一日下游凡界，正在江淮外海等处，偶遇何仙姑飘飘而来。铁拐招之同行。因问仙姑曰：“汝从何来？”仙姑曰：“有唐广贞，因血疾别夫修道，吾从而度之。”铁拐戏之曰：“惟汝无夫，亦欲他人无夫耶？”仙姑答曰：“人皆有妻，汝何独无妻乎？”拐笑曰：“独留与卿作配耳。”</p>
+<p>　　二人正戏语间，忽蓝采和骑张果之驴至，喝曰：“好好做甚事来？道友之中，一人宿娼妓，你二人又私相调戏，大玷仙教清规，吾将妆等奏帝去也。”铁拐曰：“汝从何来？”采和曰：“吾见蝙蝠老儿息歇，吾盗其驴，周游八极耳。”铁拐曰：“好，好，我等并无作贼，汝盗张果老之驴，赃物现在，乃欲强曰奏人耶？我等当先奏汝矣。”</p>
+<p>　　铁拐向前故夺其驴，三人相与大笑。铁拐徐问曰：“何人宿娼？”采和曰：“汝果不知耶？吕洞宾嫖淫白牡丹，绸缪特甚，今暂相别，日复至矣。”铁拐曰：“钟离每称其徒资质高迈，却用如此功夫，不如同往戏之何如？”仙姑曰：“可。”采和曰：“汝二人先往，吾当送驴还果老去也。”</p>
+<p>　　于是铁拐作丐夫，仙姑作丐妇，商议如此如此，竟往白牡丹家去。</p>
+<p>　　却说白牡丹自别回道人，终夜思其所动所为，必非凡品。正在独坐沉吟，忽有贫子来乞。牡丹曰：“何故到此？”贫子曰：“医汝心病。”牡丹极有眼力，见其人言语古怪，神气非常，与他人面目不同，与以酒食，二人求益则益之，以财物求，又与之。仙姑乃谓牡丹曰：“汝曾思回道人乎？”牡丹曰：“然。”又曰：“汝知其不泄精之故乎？”答曰：“正不知其故耳。”姑曰：“彼仙人也。吾今教汝，候其再至，交感正浓之时，故以手忽指其两肋，彼一时惊觉，必泄其精，此谓迅雷不及掩耳，乃夺生之奇方也。汝得之可不死矣，切勿露其机。”牡丹欲再问，忽不见二人。牡丹曰：“彼皆仙人也，其言不可不信。”</p>
+<p>　　次日洞宾果践约至其家。牡丹喜甚，置酒共饮。夜来与云雨，大展其能。至洞宾恣意之时，以手指其两肋，洞宾忽然惊觉。不及提防，一泄其精。洞宾起曰：“谁教汝如此？”牡丹曰：“昨有贫子教我。”洞宾曰：“此二仙何饶舌至此。”牡丹细问其故，洞宾曰：“吾乃纯阳也。彼二贫子铁拐，何仙姑耳。”牡丹再恳求度。洞宾曰：“汝尘缘未满，须当满足。”因与牡丹一物曰：“服此可以脱凡。”乃呼童子至前，喝声复成剑，佩腰间腾空而起。后来牡丹亦仙去。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17382.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17384.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

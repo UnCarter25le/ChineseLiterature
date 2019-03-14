@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+大戴礼记·武王践阼第五十九_古诗文网
+</title>
+<meta content="武王践阼三日，召士大夫而问焉，曰：“恶有藏之约、行之行，万世可以为子孙常者乎？”诸大夫对曰：“未得闻也！”然后召师尚父而问焉，曰：“昔黄帝颛顼之道存乎？意亦忽不可得见与？”师尚父曰" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19022.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>武王践阼第五十九</b></span>
+<a href="javascript:PlayBookv(19022)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19022" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19022" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%88%b4%e5%be%b7">戴德</a></p>
+<div class="contson">
+<p>　　武王践阼三日，召士大夫而问焉，曰：“恶有藏之约、行之行，万世可以为子孙常者乎？”诸大夫对曰：“未得闻也！”然后召师尚父而问焉，曰：“昔黄帝颛顼之道存乎？意亦忽不可得见与？”师尚父曰：“在丹书，王欲闻之，则齐矣！” </p>
+<p>　　王齐三日，端冕，师尚父（亦端冕）奉书而入，负屏而立，王下堂，南面而立，师尚父曰：“先王之道不北面！”王行（西）折而（南）东面（而立），师尚父西面道书之言曰：“敬胜怠者吉，怠胜敬者灭，义胜欲者从，欲胜义者凶，凡事，不强则枉，弗敬则不正，枉者灭废，敬者万世。藏之约、行之行、可以为子孙常者，此言之谓也！且臣闻之，以仁得之，以仁守之，其量百世；以不仁得之，以仁守之，其量十世；以不仁得之，以不仁守之，必及其世。” </p>
+<p>　　王闻书之言，惕若恐惧，退而为戒书，于席之四端为铭焉，于机为铭焉，于鉴为铭焉，于盥盘为铭焉，于楹为铭焉，于杖为铭焉，于带为铭焉，于履屦为铭焉，于觞豆为铭焉，于户为铭焉，于牖为铭焉，于剑为铭焉，于弓为铭焉，于矛为铭焉。 </p>
+<p>　　席前左端之铭曰：“安乐必敬”；前右端之铭曰：“无行可悔”；后左端之铭曰：“一反一侧，亦不可以忘”；后右端之铭曰：“所监不远，视迩所代”。 </p>
+<p>　　机之铭曰：“皇皇惟敬，口生〈口后〉，口戕口。”鉴之铭曰：“见尔前，虑尔后。”盥盘之铭曰：“与其溺于人也，宁溺于渊，溺于渊犹可游也，溺于人不可救也。” </p>
+<p>　　楹之铭曰：“毋曰胡残，其祸将然，毋曰胡害，其祸将大。毋曰胡伤，其祸将长。”杖之铭曰：“恶乎危？于忿疐。恶乎失道？于嗜欲。恶乎相忘？于富贵。” </p>
+<p>　　带之铭曰：“火灭修容，慎戒必恭，恭则寿。”履屦之铭曰：“慎之劳，劳则富”；觞豆之铭曰：“食自杖，食自杖！戒之憍，憍则逃。” </p>
+<p>　　户之铭曰：“夫名，难得而易失：无懃弗志，而曰我知之乎？无懃弗及，而曰我杖之乎？扰阻以泥之，若风将至，必先摇摇，虽有圣人，不能为谋也。”牖之铭曰：“随天之时，以地之财，敬祀皇天，敬以先时。” </p>
+<p>　　剑之铭曰：“带之以为服，动必行德，行德则兴，倍德则崩。”弓之铭曰：“屈伸之义，废兴之行，无忘自过。”矛之铭曰：“造矛造矛！少闲弗忍，终身之羞。”“予一人所闻，以戒后世子孙。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19021.aspx">上一章</a>
+<a href="/guwen/book_235.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19023.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

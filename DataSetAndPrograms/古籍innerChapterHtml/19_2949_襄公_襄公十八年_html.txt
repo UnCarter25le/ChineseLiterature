@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·襄公·襄公十八年_古诗文网
+</title>
+<meta content="【经】十有八年春，白狄来。夏，晋人执卫行人石买。秋，齐师伐我北鄙。冬十月，公会晋侯、宋公、卫侯、郑伯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子同围齐。曹伯负刍卒于师。楚公子午帅师" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2949.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1480" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>襄公·襄公十八年</b></span>
+<a href="javascript:PlayBookv(2949)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2949" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1480)" id="leftbtn1480" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2949" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】十有八年春，白狄来。夏，晋人执卫行人石买。秋，齐师伐我北鄙。冬十月，公会晋侯、宋公、卫侯、郑伯、曹伯、莒子、邾子、滕子、薛伯、杞伯、小邾子同围齐。曹伯负刍卒于师。楚公子午帅师伐郑。 </p>
+<p>　　【传】十八年春，白狄始来。 </p>
+<p>　　夏，晋人执卫行人石买于长子，执孙蒯于纯留，为曹故也。 </p>
+<p>　　秋，齐侯伐我北鄙。中行献子将伐齐，梦与厉公讼，弗胜，公以戈击之，首队于前，跪而戴之，奉之以走，见梗阳之巫皋。他日，见诸道，与之言，同。巫曰：「今兹主必死，若有事于东方，则可以逞。」献子许诺。 </p>
+<p>　　晋侯伐齐，将济河。献子以朱丝系玉二□，而祷曰：「齐环怙恃其险，负其众庶，弃好背盟，陵虐神主。曾臣彪将率诸侯以讨焉，其官臣偃实先后之。苟捷有功，无作神羞，官臣偃无敢复济。唯尔有神裁之！」沉玉而济。</p>
+<p>　　冬十月，会于鲁济，寻湨梁之言，同伐齐。齐侯御诸平阴，堑防门而守之，广里。夙沙卫曰：「不能战，莫如守险。」弗听。诸侯之士门焉，齐人多死。范宣子告析文子曰：「吾知子，敢匿情乎？鲁人、莒人皆请以车千乘自其乡入，既许之矣。若入，君必失国。子盍图之？」子家以告公，公恐。晏婴闻之曰：「君固无勇，而又闻是，弗能久矣。」齐侯登巫山以望晋师。晋人使司马斥山泽之险，虽所不至，必旗而疏陈之。使乘车者左实右伪，以旗先，舆曳柴而从之。齐侯见之，畏其众也，乃脱归。丙寅晦，齐师夜遁。师旷告晋侯曰：「鸟乌之声乐，齐师其遁。」邢伯告中行伯曰：「有班马之声，齐师其遁。」叔向告晋侯曰：「城上有乌，齐师其遁。」 </p>
+<p>　　十一月丁卯朔，入平阴，遂从齐师。夙沙卫连大车以塞隧而殿。殖绰、郭最曰：「子殿国师，齐之辱也。子姑先乎！」乃代之殿。卫杀马于隘以塞道。晋州绰及之，射殖绰，中肩，两矢夹脰，曰：「止，将为三军获。不止，将取其衷。」顾曰：「为私誓。」州绰曰：「有如日！」乃弛弓而自后缚之。其右具丙亦舍兵而缚郭最，皆衿甲面缚，坐于中军之鼓下。 </p>
+<p>　　晋人欲逐归者，鲁、卫请攻险。己卯，荀偃、士□以中军克京兹。乙酉，魏绛、栾盈以下军克邿。赵武、韩起以上军围卢，弗克。十二月戊戌，及秦周，伐雍门之萩。范鞅门于雍门，其御追喜以戈杀犬于门中。孟庄子斩其以为公琴。己亥，焚雍门及西郭、南郭。刘难、士弱率诸侯之师焚申池之竹木。壬寅，焚东郭、北郭。范鞅门于扬门。州绰门于东闾，左骖迫，还于门中，以枚数阖。</p>
+<p>　　齐侯驾，将走邮棠。大子与郭荣扣马，曰：「师速而疾，略也。将退矣，君何惧焉！且社稷之主，不可以轻，轻则失众。君必待之。」将犯之，大子抽剑断鞅，乃止。甲辰，东侵及潍，南及沂。 </p>
+<p>　　郑子孔欲去诸大夫，将叛晋而起楚师以去之。使告子庚，子庚弗许。楚子闻之，使杨豚尹宜告子庚曰：「国人谓不谷主社稷，而不出师，死不从礼。不谷即位，于今五年，师徒不出，人其以不谷为自逸，而忘先君之业矣。大夫图之！其若之何？」子庚叹曰：「君王其谓午怀安乎！吾以利社稷也。」见使者，稽首而对曰：「诸侯方睦于晋，臣请尝之。若可，君而继之。不可，收师而退，可以无害，君亦无辱。」子庚帅师治兵于汾。于是子蟜、伯有、子张从郑伯伐齐，子孔、子展、子西守。二子知子孔之谋，完守入保。子孔不敢会楚师。 </p>
+<p>　　楚师伐郑，次于鱼陵。右师城上棘，遂涉颖，次于旃然。蒍子冯、公子格率锐师侵费滑、胥靡、献于、雍梁，右回梅山，侵郑东北，至于虫牢而反。子庚门于纯门，信于城下而还。涉于鱼齿之下，甚雨及之，楚师多冻，役徒几尽。 </p>
+<p>　　晋人闻有楚师，师旷曰：「不害。吾骤歌北风，又歌南风。南风不竞，多死声。楚必无功。」董叔曰：「天道多在西北，南师不时，必无功。」叔向曰：「在其君之德也。」 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2948.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2950.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1480" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

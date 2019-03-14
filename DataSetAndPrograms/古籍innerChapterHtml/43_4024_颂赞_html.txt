@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·颂赞_古诗文网
+</title>
+<meta content="四始之至，颂居其极。颂者，容也，所以美盛德而述形容也。昔帝喾之世，咸墨为颂，以歌《九韶》。自商以下，文理允备。夫化偃一国谓之风，风正四方谓之雅，容告神明谓之颂。风雅序人，事兼变正；" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4024.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2618" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>颂赞</b></span>
+<a href="javascript:PlayBookv(4024)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4024" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2618)" id="leftbtn2618" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4024" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　四始之至，颂居其极。颂者，容也，所以美盛德而述形容也。昔帝喾之世，咸墨为颂，以歌《九韶》。自商以下，文理允备。夫化偃一国谓之风，风正四方谓之雅，容告神明谓之颂。风雅序人，事兼变正；颂主告神，义必纯美。鲁国以公旦次编，商人以前王追录，斯乃宗庙之正歌，非宴飨之常咏也。《时迈》一篇，周公所制，哲人之颂，规式存焉。夫民各有心，勿壅惟口。晋舆之称原田，鲁民之刺裘鞸，直言不咏，短辞以讽，丘明子顺，并谓为诵，斯则野诵之变体，浸被乎人事矣。及三闾《橘颂》，情采芬芳，比类寓意，乃覃及细物矣。</p>
+<p>　　至于秦政刻文，爰颂其德。汉之惠景，亦有述容。沿世并作，相继于时矣。若夫子云之表充国，孟坚之序戴侯，武仲之美显宗，史岑之述熹后，或拟《清庙》，或范《駉》、《那》，虽浅深不同，详略各异，其褒德显容，典章一也。至于班傅之《北征》、《西征》，变为序引，岂不褒过而谬体哉！马融之《广成》、《上林》，雅而似赋，何弄文而失质乎！又崔瑗《文学》，蔡邕《樊渠》，并致美于序，而简约乎篇。挚虞品藻，颇为精核。至云杂以风雅，而不变旨趣，徒张虚论，有似黄白之伪说矣。及魏晋杂颂，鲜有出辙。陈思所缀，以《皇子》为标；陆机积篇，惟《功臣》最显。其褒贬杂居，固末代之讹体也。</p>
+<p>　　原夫颂惟典懿，辞必清铄，敷写似赋，而不入华侈之区；敬慎如铭，而异乎规戒之域；揄扬以发藻，汪洋以树义，虽纤巧曲致，与情而变，其大体所底，如斯而已。</p>
+<p>　　赞者，明也，助也。昔虞舜之祀，乐正重赞，盖唱发之辞也。及益赞于禹，伊陟赞于巫咸，并扬言以明事，嗟叹以助辞也。故汉置鸿胪，以唱言为赞，即古之遗语也。至相如属笔，始赞荆轲。及迁《史》固《书》，托赞褒贬，约文以总录，颂体以论辞；又纪传后评，亦同其名。而仲治《流别》，谬称为述，失之远矣。及景纯注《雅》，动植必赞，义兼美恶，亦犹颂之变耳。</p>
+<p>　　然本其为义，事在奖叹，所以古来篇体，促而不广，必结言于四字之句，盘桓乎数韵之词。约举以尽情，昭灼以送文，此其体也。发源虽远，而致用盖寡，大抵所归，其颂家之细条乎！</p>
+<p>　　赞曰∶</p>
+<p>　　容体底颂，勋业垂赞。镂影攡声，文理有烂。</p>
+<p>　　年积愈远，音徽如旦。降及品物，炫辞作玩。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4023.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4025.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2618" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

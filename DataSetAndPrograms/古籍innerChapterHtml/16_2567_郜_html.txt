@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·郜_古诗文网
+</title>
+<meta content="历史来源　　出自姬姓，以国名为姓。周文王的第十五个儿子受封于郜（今山东成武县东南），建立郜国。春秋时郜国被宋国吞没，郜君的后世子孙就以原来的国名为姓，称郜氏。郜姓又写作告。二、郡望" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2567.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>郜</b></span>
+<a href="javascript:PlayBookv(2567)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2567" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2567" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　出自姬姓，以国名为姓。周文王的第十五个儿子受封于郜（今山东成武县东南），建立郜国。春秋时郜国被宋国吞没，郜君的后世子孙就以原来的国名为姓，称郜氏。郜姓又写作告。二、郡望堂号【堂号】"集古堂"：清朝郜坦治《春秋》学，以《左氏春秋传》为主，广采杜预和宋、元各家之说，著《春秋集古注》一书。<br/>　　郜姓在大陆和台湾都没有列入百家姓前一百位。郜姓出自姬姓。上古时候，周武王打败了纣王，建立周朝，于是分封各路诸侯。他将周文王的第十一子，自己的弟弟，封在郜这个地方（今山东成武县东南）。后来，郜国公族的后代就以封地名为姓氏，称郜氏，成为今天郜姓的最早起源。到了春秋时候，郜国后来被齐国灭掉，但它的国人还是保留了郜姓。郜琏，清代旅游家。他游遍了全国，曾三次登上泰山。著有许多游记，其中以《芭蕉》一书最为著名.</p>
+<p><strong>家族名人</strong><br/>　　郜知章：元代著名诗人。家世业儒，通经史，善作诗，与司业王嗣能齐名，世称"王郜"。郜琏：清朝人。官至台州参军。好游山水，尝画芭蕉，传至日本，海外珍之。还善于鼓琴，令人悦耳动听。郜煜：清代进士。官中书科中书。著有《易经理解》。<br/>　　晋代的郜珍曾在任高昌长，是见于史册的第一个郜姓名人。元代诗坛上有所谓的“王郜”之说。“王郜”是指王祠能和郜知章。事实上，郜知章不仅是一位诗人，同时他还是一位精研儒学的学者。据说，他的一定世代以儒传家，在今江西的乐平一儒学的学者。据说，他的一家世代以儒传家，在今江西的乐平一带很有名所。另外，清朝有一位郜琏，字方壶，自号绿天主人，他好鼓琴，又好游山水。他绘制的芭蕉图，传至日本、成了国宝，还有学者郜煜、郜坦，也是值得提及的人物。</p>
+<p><strong>迁徙分布</strong><br/>　　郜氏望族居京兆。京兆：即首都直辖区。在今陕西省西安市至华县一带。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2566.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2568.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

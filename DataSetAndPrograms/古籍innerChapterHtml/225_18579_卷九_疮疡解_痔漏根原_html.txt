@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷九·疮疡解·痔漏根原_古诗文网
+</title>
+<meta content="痔漏者，手太阳之病也。手之三阳，自手走头，足之三阳，自头走足。手三阳之走头者，清阳之上升也；足三阳之走足者，浊阴之下降也。足三阳病则上逆而不降，手三阳病则下陷而不升。《素问" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18579.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·疮疡解·痔漏根原</b></span>
+<a href="javascript:PlayBookv(18579)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18579" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18579" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　痔漏者，手太阳之病也。手之三阳，自手走头，足之三阳，自头走足。手三阳之走头者，清阳之上升也；足三阳之走足者，浊阴之下降也。足三阳病则上逆而不降，手三阳病则下陷而不升。</p>
+<p>　　《素问·气厥论》：小肠移热于大肠，为虙瘕，为沉痔。五行之理，升极必降，降极必升，升则阴化为阳，降则阳化为阴。水本润下，足少阴以癸水而化君火者，降极则升也；火本炎上，手太阳以丙火而化寒水者，升极则降也。手太阳病则丙火下陷，不上升而化寒水，是以小肠有热。五藏六府，病则传其所胜，以丙火而化庚金，是以移热于大肠。魄门处大肠之末，丙火传金，陷于至下之地，是以痔生于肛也。</p>
+<p>　　然病在于二肠，而究其根原，实因于脾。《素问·生气通天论》：因而饱食，筋脉横解，肠澼为痔。以过饱伤脾，脾气困败，不能消磨，水谷莫化，下趋二肠，而为泄利。泄则脾与二肠俱陷，丙火陷于肛门，此痔病所由生也。</p>
+<p>　　气统于肺，而肺气之降者，胃土之右转也；血藏于肝，而肝血之升者，脾土之左旋也。凡经络脏腑之气，皆受于肺；凡经络脏腑之血，皆受于肝。戊土一降，而诸气皆降，己土一升，则诸血皆升。脾土湿陷，则肝木下郁而血不上行，故脱失于大便。凝则为虙瘕，流则为沉痔。沉虙者，皆肝血之下陷，无二理也。</p>
+<p>　　《灵枢·邪气脏腑病形》：肾脉微涩，为不月、沉痔。血流于后，则为沉痔，血凝于前，则为不月，不月即虙瘕也。《金匮》：小肠有寒者，其人下重便血，有热者，必痔。痔与下重便血，皆丙火之下陷。火衰而陷者，则下重便血而不痔；火未衰而陷者，则下重便血而痔生。</p>
+<p>　　要之，痔家热在魄门，而脾于小肠，无不寒湿。缘丙火不虚则不陷，陷则下热而中寒。丙火上升而化寒水者，常也，下陷而不化寒水，是以生热。陷而不升，故热在魄门而不在肠胃也。</p>
+<p>　　此病一成，凡遇中气寒郁，则火陷而痔发。无论其平日，即其痔发肛热之时，皆其寒湿内作之会，而医工不知也。经血陷流，习为熟路，岁久年深，时常滴漏，则为漏病，譬如器漏而水泄也。</p>
+<p>　　茯苓石脂汤</p>
+<p>　　茯苓三钱　丹皮三钱　桂枝三钱　芍药四钱　干姜二钱，炒　甘草二钱　赤石脂三钱　升麻一钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　治痔漏肿痛下血。</p>
+<p>　　肛热加黄连，木燥加阿胶。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18578.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18580.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

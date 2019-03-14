@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷一·兌下乾上_古诗文网
+</title>
+<meta content="履，虎尾，不咥人，亨。彖曰：履，柔履剛也。説而應乎乾，是以履虎尾不咥人，亨。剛中正，履帝位而不疚，光明也。履，一隂而履於陽，為下之長，衆之趨焉。是以危而履虎尾也。語其上下，則下承上" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9398.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·兌下乾上</b></span>
+<a href="javascript:PlayBookv(9398)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9398" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9398" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　履，虎尾，不咥人，亨。彖曰：履，柔履剛也。説而應乎乾，是以履虎尾不咥人，亨。剛中正，履帝位而不疚，光明也。</p>
+<p>　　履，一隂而履於陽，為下之長，衆之趨焉。是以危而履虎尾也。語其上下，則下承上也。言其情，則説而奉於乾也。失其所履而全其所承，是以不咥人，亨。情之所歸，則三也。故以卦命之。其於履，則剛中正，履帝位而不疚。其義也能制其度，得其光明也。隂者陽之求，而履之陽不競者，以隂失位而凶陽，抑其情而不亂上之正，而咸得其履也。</p>
+<p>　　象曰：上天下澤，履。君子以辨上，下定民志。</p>
+<p>　　上天下澤得其履也。君子辨賢、不肖而上下定之，則民無覬倖之望也。</p>
+<p>　　初九，素履，往，无咎。象曰：素履之往，獨行願也。</p>
+<p>　　履得其所履，吉也。過之則咎。以剛志而守下，不求其隂，進之不以為榮，獨履素，行之節是以，無過咎也。</p>
+<p>　　九二，履道坦，坦幽人，貞吉。象曰；幽人，貞吉。中不自亂也。</p>
+<p>　　履不得其履，寧倡無僣。二以剛比柔，見利，不撓其志。居易幽退，履其所履，中正之吉也。</p>
+<p>　　六三，眇能視，跛能履，履虎尾，咥人，凶。武人為于大君。象曰：眇能視，不足以有明也。跛能履，不足以與行也。咥人之凶，位不當也。武人為于大君，志剛也。</p>
+<p>　　卦皆無諸，隂而三，自以為己任。眇目能視，跛足能履，豈足恃哉。僣履非位，咥其冝也。而志擬於剛，欲為武人，大君之行凶之災也。</p>
+<p>　　九四，履虎尾，愬愬，終吉。象曰：愬愬終吉。志行也。</p>
+<p>　　三以不順，為衆同棄而已，近也。愼於難履者也，心懼不足相與，在乎守卑以承於上，為上所任。果獲其志得其終，吉也。</p>
+<p>　　九五，夬履，貞厲。象曰：夬履，貞厲。位正當也。</p>
+<p>　　三柔失位，志比武人，五為一卦之主，明得帝位取而決之，非求係於情也。然三者，衆之趨也。雖曰決之，正之危也。位正當也。何其患乎。</p>
+<p>　　上九，視履考祥，其旋元吉。象曰：元吉，在上大有慶也。</p>
+<p>　　積善之家，必有餘慶。歸其本也。不顧其邪，自履其所得履之終也。則可以心視其往之履，而考其善應也。積其行，得其終，歸其有慶者矣。旋其元吉哉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9397.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9399.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

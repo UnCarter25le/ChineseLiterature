@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十一·张氏妇_古诗文网
+</title>
+<meta content="凡大兵所至，其害甚于盗贼，盖盗贼人犹得而仇之，兵则人所不敢仇也。其少异于盗者，特不敢轻于杀人耳。甲寅岁，三藩作反，南征之士，养马衮郡，鸡犬庐舍一空，妇女皆被淫污。时遭霪雨，田中潴水" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11832.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十一·张氏妇</b></span>
+<a href="javascript:PlayBookv(11832)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11832" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11832" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　凡大兵所至，其害甚于盗贼，盖盗贼人犹得而仇之，兵则人所不敢仇也。其少异于盗者，特不敢轻于杀人耳。甲寅岁，三藩作反，南征之士，养马衮郡，鸡犬庐舍一空，妇女皆被淫污。时遭霪雨，田中潴水为湖，民无所匿，遂乘桴入高粱丛中。兵知之，裸体乘马，入水搜淫，鲜有遗脱。</p>
+<p>　　惟张氏妇不伏，公然在家。有厨舍一所，夜与夫掘坎深数尺，积茅焉；覆以薄，加席其上，若可寝处。自炊灶下。有兵至，则出门应给之。二蒙古兵强与淫，妇曰：“此等事，岂可对人行者？”其一微笑，啁嗻而出。妇与入室，指席使先登。薄折，兵陷。妇又另取席及薄覆其上，故立坎边，以诱来者。少间，其一复入。闻坎中号，不知何处，妇以手笑招之曰：“在此处。”兵踏席，又陷。妇乃益投以薪，掷火其中。火大炽，屋焚。妇乃呼救。火既熄，燔尸焦臭。人问之，妇曰：“两猪恐害于兵，故纳坎中耳。”</p>
+<p>　　由此离村数里，于大道旁并无树木处，携女红往坐烈日中。村去郡远，兵来率乘马，顷刻数至。笑语啁嗻，虽多不解，大约调弄之语。然去道不远，无一物可以蔽身，辄去，数日无患。一日一兵至，甚无耻，就烈日中欲淫妇。妇含笑不甚拒。隐以针刺其马，马辄喷嘶，兵遂絷马股际，然后拥妇。妇出巨锥猛刺马项，马负痛奔骇。缰系股不得脱，曳驰数十里，同伍始代捉之。首躯不知处，缰上一股，俨然在焉。异史氏曰：“巧计六出，不失身于悍兵。贤哉妇乎，慧而能贞！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11831.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11833.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

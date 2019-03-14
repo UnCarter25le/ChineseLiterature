@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·针灸下·热病第五_古诗文网
+</title>
+<meta content="热病　　鱼际 阳谷 主热病振栗鼓颔，腹满阴痿色不变。 经渠 阳池 合谷 支沟 前谷 内庭后溪 腕骨 阳谷 厉兑 冲阳 解溪 主热病汗不出。 孔最 主臂厥热痛汗不出，皆灸刺之，此穴可" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12862.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>针灸下·热病第五</b></span>
+<a href="javascript:PlayBookv(12862)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12862" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12862" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　<strong>　热病<br/></strong>　　鱼际 阳谷 主热病振栗鼓颔，腹满阴痿色不变。 经渠 阳池 合谷 支沟 前谷 内庭后溪 腕骨 阳谷 厉兑 冲阳 解溪 主热病汗不出。 孔最 主臂厥热痛汗不出，皆灸刺之，此穴可以出汗。 列缺 曲池 主热病烦心心闷，先手臂身热螈 ，唇口聚鼻张目下汗出如珠。（《甲乙》云∶两乳下一寸坚，胁下满，心悸。） 中冲 劳宫 大陵 间使 关冲少冲 阳溪 天 主热病烦心心闷而汗不出，掌中热，心痛，身热如火，浸淫烦满，舌本痛。（又云∶间使主热病烦心喜哕，胸中澹澹喜动而热。） 劳宫 主热病三日以往不得汗，怵惕。（《甲乙》云∶劳宫主热病烦满而欲呕哕，三日以往不得汗，怵惕，胸胁不可转侧，咳满溺赤。小便血衄不止，呕吐血噫逆不止，嗌中痛，食不下，喜渴，口中烂，掌中热，欲呕。） 三间 主气热，身热而喘。（《甲乙》云∶寒热口干，身热喘息，目急痛，善惊。）</p>
+<p>　　曲泽 主伤寒，温病身热烦心口干。（《甲乙》云∶主伤寒，温病心澹然，善惊，身热心烦，口干手清，气逆呕唾，肘螈摇头颜清，汗出不过眉。） 曲池 主伤寒余热不尽。 液门 中渚通里 主热病先不乐，头痛面热无汗。（又云∶通里主热病先不乐数日。）上脘 上星 上曲差 陶道 天柱 悬厘 风池 命门 膀胱俞 主烦满汗不出。飞扬 主下部寒热，汗不出，体重。 陶道 主汗不出，凄厥恶寒。 曲泉 主身热头痛，汗不出。 光明 主腹、足清，寒热汗不出。 五处 攒竹 正营 上腕 缺盆 中府 主汗出寒热。 承浆 主汗出，血衄不止。 温溜 主伤寒寒热，头痛哕衄，肩不举。 百会 主汗出而呕 。 巨阙主烦心喜呕（《甲乙》云∶巨阙主心腹胀噫，烦热善呕，膈中不通利。） 商丘 主寒热好呕。 大椎 主伤寒热甚烦呕。列缺 主寒热，掌中热。 悬颅 主热病头痛身热。 少泽主振寒，小指不用，头痛。 神道 关元 主身热头痛，进退往来。 三焦俞 主头痛，食不下。 天井 主振寒，颈项痛。 鱼际 主头痛不甚，汗出。 玉枕 大杼 肝俞 心俞膈俞 陶道 主汗不出，凄厥恶寒。 悬厘 鸠尾 主热病偏头痛引目外 。 膈俞 中府主寒热皮肉骨痛，少气不得卧，支满。（又云∶膈俞主嗜卧怠惰，不欲动摇，身常湿，不能食。） 后溪 主身热恶寒。 肾俞 主头身热赤振栗，腰中、四肢淫泺，欲呕。 肩井关冲 主寒热凄索，气上不得卧。 尺泽 主气隔喜呕鼓颔，不得汗，身痛烦心。 肩贞主寒热项历适。（《甲乙》云∶主耳鸣无闻，引缺盆肩中热痛，麻木不举。） 委中 主热病挟脊痛。冲阳 主振寒而欠。 大都 主热病汗出且厥，足清。（《外台》云∶汗不出厥，手足清。） 太白主热病，先头重颜痛，心烦闷，身热，热争则腰痛不可以俯仰。又热病烦满闷，不得卧，身重骨痛。 支正 少海 主热病，先腰胫酸，喜渴数饮食，身热项痛而强，振寒寒热。（《甲乙》云∶主振寒寒热，颈项肿，实则肘挛，头眩痛。虚则生疣，小者痂疥。） 复溜 主寒热不安，汗出不止，风逆四肢肿。</p>
+<p>　　凡热病烦心，足寒清，多汗，先取然谷，后取太溪大指间动脉，皆先补之。</p>
+<p>　　凡热病，先腰胫酸，喜渴数饮身清，清则项痛而寒且酸，足热，不欲言，头痛颠颠然，先取涌泉及太阳井荥，热中少气厥寒，灸之热去，灸涌泉三壮。烦心不嗜食，灸涌泉。热去，四逆喘气，偏风身汗而清，皆取侠溪。</p>
+<p>　　凡热病刺陷谷，足先寒，寒上至膝乃出针，身痹洗淅振寒，季胁支满痛。凡温病身热，五日以上汗不出，刺大泉，留针一时取针，若未满五日者，禁不可刺。 凡好太息，不嗜食，多寒热，汗出，病至则喜呕，呕已乃衰，即取公孙及井俞。实则肠中切痛，厥头面肿起，烦心狂多饮，不嗜卧。虚则臌胀。腹中气大满，热痛不嗜食，霍乱。公孙主之。</p>
+<p><strong>　　黄胆病<br/></strong>　　然谷 主黄胆，一足寒一足热，喜渴。（《甲乙》云∶舌纵烦满。） 章门 主伤饱身黄。</p>
+<p>　　太冲 主黄胆热中喜渴。 中封 五里 主身黄，时有微热。（《甲乙》云∶主不嗜食，膝内廉，内踝前痛，少气身体重。） 脊中 主黄胆腹满不食。 中脘 大陵 主目黄振寒。 劳宫主黄胆目黄。 太溪 主黄胆。（《甲乙》云∶止消瘅喘气，咽不能言，手足清，大便难，嗌中肿痛，唾血，口中热，唾如胶。） 脾俞 胃脘 主黄胆。（又云∶脾俞主黄胆，喜欠不下食，胁下满欲吐，身重不欲动。）</p>
+<p><strong>　　霍乱<br/></strong>　　巨阙 关冲 支沟 公孙 阴陵泉 主霍乱。 期门 主霍乱泄注。 鱼际 主胃逆霍乱。 太阴 大都 金门 仆参 主厥逆霍乱。 太白 主霍乱逆冷。 解溪 主膝重脚转筋，湿痹。 三里 主霍乱遗矢失气。 承筋 主螈 脚酸。（《甲乙》云∶主霍乱胫不仁。）</p>
+<p>　　大泉 主眼青转筋，乍寒乍热，缺盆中相引痛。 金门 仆参 承山 承筋 主转筋霍乱。 丘墟主脚急肿痛战掉，不能久立，附筋脚挛。 窍阴 主四肢转筋。 委中 委阳 主筋急身热。 人迎 主霍乱头痛胸满，呼吸喘鸣不得息。</p>
+<p>　　凡霍乱泄出不自知，先取太溪，后取太仓之原。</p>
+<p><strong>　　疟病<br/></strong>　　列缺 后溪 少泽 前谷 主疟寒热。（又云∶列缺主疟热甚。） 阳谷 主疟，胁痛不得息。 大钟 主多寒少热。 太溪 主热多寒少。（《甲乙》云∶大溪主疟闷甚呕，热多寒少，欲闭户而处，寒厥足热。） 丘墟 主疟振寒。（《甲乙》云∶丘墟主腋下肿。） 昆仑主疟多汗。（《甲乙》云∶主腰痛不能俯仰，目如脱，项如拔。） 然谷 主温疟汗出。</p>
+<p>　　中封 主色苍苍然，太息振寒。 天府 主疟病。 临泣、主疟日西发。 天枢 主疟振寒，热盛狂言。 少商 主振栗鼓颔。少海 主疟背振寒。（《甲乙》云∶主疟项痛引肘腋。腰痛引小腹中，四肢不举。） 阳溪 主疟甚苦寒咳呕沫。 温溜 主疟面赤肿。 商丘 神庭上星 百会 完骨 风池 神道 液门 前谷 光明 至阴 大杼 主 疟热。（又云∶</p>
+<p>　　商丘主寒疟腹中痛。） 阴都 少海 商阳 三间 中渚 主身热疟病。 太泉 大溪 经渠主疟咳逆心闷，不得卧，寒热。 大陵 腕骨 阳谷 少冲 主疟乍寒乍热。 合谷 阳池侠溪 京骨 主疟寒热。 偏历 主风疟汗不出。 支正 小海 主风疟。 天井主疟食时发，心痛悲伤不乐。 三里 陷谷 侠溪 飞扬 主 疟少气。（又云∶侠溪主疟足痛。）飞扬主狂疟头眩痛 反折。 少泽 复溜 昆仑 主疟寒汗不出。 厉兑 内庭 主疟不嗜食，恶寒。 冲阳 束骨 主疟从脚 起。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12861.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12863.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

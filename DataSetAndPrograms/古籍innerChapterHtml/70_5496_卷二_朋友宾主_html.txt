@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+幼学琼林·卷二·朋友宾主_古诗文网
+</title>
+<meta content="取善辅仁，皆资朋友；往来交际，迭为主宾。尔我同心，曰金兰；朋友相资，日丽泽。东家曰东主，师傅曰西宾。父所交游，尊为父执；己所共事，谓之同袍。心志相孚为莫逆，老幼相交曰忘年。刎颈交，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5496.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3796" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·朋友宾主</b></span>
+<a href="javascript:PlayBookv(5496)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5496" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3796)" id="leftbtn3796" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5496" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%a8%8b%e7%99%bb%e5%90%89">程登吉</a></p>
+<div class="contson">
+<p>　　取善辅仁，皆资朋友；往来交际，迭为主宾。尔我同心，曰金兰；朋友相资，日丽泽。东家曰东主，师傅曰西宾。父所交游，尊为父执；己所共事，谓之同袍。心志相孚为莫逆，老幼相交曰忘年。刎颈交，相如与廉颇；总角好，孙策与周瑜。</p>
+<p>　　胶漆相投，陈重之与雷义；鸡黍之约，元伯之与巨卿。与善人交，如入芝兰之室，久而不闻其香；与恶人交，如入鲍鱼之肆，久而不闻其臭。肝胆相照，斯为腹心之友；意气不孚，谓之口头之交。彼此不合，谓之参商；尔我相仇，如同冰炭。民之失德，乾糇以愆；他山之石，可以攻玉。落月屋梁，相思颜色；暮云春树，想望丰仪。</p>
+<p>　　王阳在位，贡禹弹冠以待荐；杜伯非罪，左儒宁死不徇君。分首判袂，叙别之辞；拥彗扫门，迎迓之敬。陆凯折梅逢驿使，聊寄江南一枝春；王维折柳赠行人，遂唱《阳关三叠》曲。频来无忌，乃云入慕之宾；不请自来，谓之不速之客。醴酒不设，楚王戊待土之意怠；投辖于井，汉陈遵留客之心诚。</p>
+<p>　　蔡邕倒屣以迎宾，周公握发而待士。陈蕃器重徐稚，下榻相延；孔子道遇程生，倾盖而语。伯牙绝弦失子期，更无知音之辈；管宁割席拒华歆，调非同志之人。分金多与，鲍叔独知管仲之贫；绨袍垂爱，须贾深怜范叔之窘。要知主宾联以情，须尽东南之美；朋友合以义，当展切偲之诚。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5495.aspx">上一章</a>
+<a href="/guwen/book_70.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5497.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3796" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

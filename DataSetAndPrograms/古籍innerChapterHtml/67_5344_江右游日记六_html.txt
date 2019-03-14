@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+徐霞客游记·江右游日记六_古诗文网
+</title>
+<meta content="初五日　晨餐后，别丘、夏。二里，仍出大路南。十里，登一岭，曰杨源岭。下岭，东则大溪自南而北，渡溪二里，曰东界山铺，去府已二十里。于是循溪东行，五里，曰大洋，三里，曰界下。众舟鳞次溪" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5344.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4469" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>江右游日记六</b></span>
+<a href="javascript:PlayBookv(5344)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5344" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4469)" id="leftbtn4469" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5344" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%bc%98%e7%a5%96">徐弘祖</a></p>
+<div class="contson">
+<p>　　初五日　晨餐后，别丘、夏。二里，仍出大路南。十里，登一岭，曰杨源岭。下岭，东则大溪自南而北，渡溪二里，曰东界山铺，去府已二十里。于是循溪东行，五里，曰大洋，三里，曰界下。众舟鳞次溪中，以上流有石箭滩，重舟不能上下，俱泊此以待交兑者也。其北多益府王墓。再上二里，即石箭滩，乱石填塞，溪流甚急。其西为凌霄峰，亭亭独上，有佛宇焉。自杨源来，山势回合，而凌霄独高，过此山渐开，亦渐伏矣。又三里，溪南一山逊于凌霄，而尖峭过之，曰八仙过腿。上有石耸起，颇异众山，以无渡不及登。又七里为硝石铺，去府已四十里矣。市肆其长，南、东两溪至此合流，南来者为新城之溪，东北者为杉关之水。东溪舟抵五福尚四十里，至杉关尚陆行三十里，则江、闽分界。南溪则六十里而舟抵新城。新城之陆路，自硝石东渡东溪桥而南，为铁仙岩。其处山俱纯石，如钟推釜覆，北半俱斩峭为崖，屏立平畴间。由崖隙而上，两崖之间潴zhǜ积累水成溪，崖插溪底。凿栈以入，又一水自东注，亦纯石插底，隘不容足。架梁南渡，又转一桥，西渡大溪，遂蹑山峡而上，则飞岩高穹东向而出，髡徒和尚法宣依岩结阁，种竹于外，亦幽亦敞。时日已欲坠，拟假榻于中，而髡奴逐客甚急，形于声色。遂出，仍渡峡桥，见有石级西上，遂蹑之登。盘旋山顶，两度过脊，皆深坑断峡，回豆纵横，或水或涸，想霖雨时靡非深浸也。时日已落崦嵫，下山二里，仍西，宿硝石东溪桥之南。 </p>
+<p>　　初六日　早起，闻有言觉海寺之胜者。平明，南趋二里，则南溪之左也。寺亦古，其前即铁仙以西之第二重也。盖硝石之南，其山皆块石堆簇，南则交互盘错，斩若截堵，峰峰皆然，以铁仙为中；而西则两突而尽于南溪之左；即觉海寺前。东则两突而至于止〔止〕岩之东，再东则山转而南矣。入觉海，见山在其前，即出而循崖以登崖之西，下瞰南溪涓涓北流，时有小舟自新城来。既南行，崖尽，有峡东下，盖南北两崖对峙其来峡，其度脊处反在西濒溪之上。余见其峡深沉，遂蹑山级，东向直登其巅。其巅有东西两台。〔自西而东，路尽莫前。下瞰乱壑纵横，峡形屈曲枝分，汇水成潭，分曹叠泻，疑即所云金龟湖也。而二峰东下无路，但见东峡有水有径，疑即铁仙。仍从旧路下，至溪东两崖对峡处，即从崖下东入峡中。渐下渐湿，遂东北三里至小港口。水自韩公桥来，渡之入山。东北三里，大石岩。五里，韩公桥。三里，双同槽。南二里，紫云岩。西一里，渡溪为夫子岩。返出紫云，一里至响石岩，又登岭一里至竺岫。〕 </p>
+<p>　　初七日　竺岫渡桥，东南三里，舒坑岭。又三里，缅湾。又六里，陈坊。陈坊有溪自北南流，盖自沪溪而下东溪者也。越桥而东上一岭，又下而复上，日铁湾岭。共三里，下岭为钱家湾。又随东溪二里至黄源桥。渡溪而南一里，过黄湾岭。南六里，长行岭。下岭为连家湾，是为新城西北界。连家湾出冈为周家隘，即新城入郡官道。又西十里，百顺辅。又三里上分水岭。先是自百顺西至周家隘，有小水西流，余以为入南溪者；及登分水，而后知犹北入东溪者也。又五里，过沙路岭。又五里过一桥，其水自高学坡来，五六里越桥而南，即与南大溪遇。又二里，东为观者崖，西为仙居院，两崖束溪如门，门以内澄潭甚深。又三里，入新城北门，出西门。石门不甚壮，而阛闠颇盛。出门渡石梁，则日峰山当梁瞰溪。越桥即南随溪行。已折西南，登白石岭。十里，过文江桥，始复与大溪遇，溪流至此已不胜舟矣。于是多随溪，西南过竹山，山亦峭特自异，上有竹仙院。又十里，周舍。周舍之南，路折而东，有潭偃水，颇觉汪洋，即文江之上流也。十五里，宿于石瓶冈，去城二十五里，去福山十五里。 </p>
+<p>　　（八日缺） </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5343.aspx">上一章</a>
+<a href="/guwen/book_67.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5345.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4469" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

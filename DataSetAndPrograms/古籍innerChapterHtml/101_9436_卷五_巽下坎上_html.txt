@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷五·巽下坎上_古诗文网
+</title>
+<meta content="井，改邑不改井，无喪无得，往來井井，汔至，亦未繘井，羸其瓶，凶。彖曰：巽乎水而上水，井。井養而不窮也。改邑不改井，乃以剛中也。汔至亦未繘井，未有功也。羸其瓶，是以凶也。水人之資也，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9436.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·巽下坎上</b></span>
+<a href="javascript:PlayBookv(9436)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9436" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9436" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　井，改邑不改井，无喪无得，往來井井，汔至，亦未繘井，羸其瓶，凶。彖曰：巽乎水而上水，井。井養而不窮也。改邑不改井，乃以剛中也。汔至亦未繘井，未有功也。羸其瓶，是以凶也。</p>
+<p>　　水人之資也，徳人之保也。自古至今，其道一也。故從於水，而下入得水，上汲而施物，井之道也。好于徳而巽志修徳，充其徳而位於民，上咸賴其澤徳之施也。故井曰徳，巽志修徳，曰徳之地不可改而非其道也。酌之不竭，不資於外，无喪无得也。君子之徳，其虚中无改，施之不竭，於何而喪其厚徳也。必備莫究其極，又何能得井冽可食之。往來者，皆井，其井之用焉，則君子徳博而施，故往來者徳其徳焉。非剛中之徳不能至也，井可食矣。人近至之而未繘，无功不能汲。下君子雖至於徳，无其位不受其器，未伸其功也。羸其缾，凶繘之失道，用之非器，棄先之功而及其凶也。君子於器而立度，行權而合物，然後道可終也。夫道者，及物而成徳也。修其徳而不利濟，非其道也。有徳无其位，不建其功，其徳未行也。有其法當於權，然後能終之，故君子不可以不備徳，觀其井而古今之道可知也。</p>
+<p>　　象曰：木上有水，井。君子以勞民勸相。</p>
+<p>　　木上有水，上木而出，以潤於木，井徳之施也。勞也者，勉民之勞也。治之得冝，樂其勞而生財也。上讓下，敬父慈子，孝人之性也。君子明之善，而勸也。非抑之制之，善為事者如之也。</p>
+<p>　　初六，井泥不食，舊井无禽。象曰：井泥不食，下也。舊井无禽，時舎也。</p>
+<p>　　居於井下，井泥者也。舊井而无水者也，禽何食哉。窮下而質弱者矣，時何用哉，故舎也。</p>
+<p>　　九二，井谷射鮒，甕敝漏。象曰：井谷射鮒，无與也。</p>
+<p>　　井而與下谷之流也。初微陰也，而注志焉。中之才无施，及以應不能上行，而集其下事也。有質而不得，務徳也。器自矣，誰不棄之。</p>
+<p>　　九三，井渫不食，為我心惻，可用汲。王明並受其福。象曰：井渫不食，行惻也，求王明受福也。</p>
+<p>　　剛治其位，修已而謀治也。在下之上，有徳者也。井以上為井也。未至上出不見食也。憂其行而心惻矣。上應也，可用汲矣。阻於王之疑也。若主明道通矣。得其賢人，王亦賴其治也。並受其福。</p>
+<p>　　六四，井甃无咎。象曰：井甃无咎，修井也。</p>
+<p>　　體上而下柔，以自處无外以他其徳，不弘學而已矣。修井之道，質弱止於无咎，不足以大濟也。</p>
+<p>　　九五，井冽，寒泉食。象曰：寒泉之食，中正也。</p>
+<p>　　井之治者，寒泉也。冽其寒又甚焉。居於中正，為井之主，保井之徳，養而不窮者也。道之上行，人受其施，皆得食其井也。</p>
+<p>　　上六，井收勿幕，有孚，元吉。象曰：元吉在上，大成也。</p>
+<p>　　井至上，收井之功也。應於下，引於五，博濟而不施，无幕覆之。為衆之信，大成而元吉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9435.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9437.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

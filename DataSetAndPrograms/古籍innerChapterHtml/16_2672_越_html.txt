@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·越_古诗文网
+</title>
+<meta content="历史来源　　1、出自姒姓，是大禹的后代，以国名为氏。远古时大禹治水有功，成为禹王。禹王死后，他的儿子启不经“四岳”选举，就继承了父亲的职位，开始以“家天下”的王位世袭制代替了“四岳" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2672.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>越</b></span>
+<a href="javascript:PlayBookv(2672)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2672" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2672" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自姒姓，是大禹的后代，以国名为氏。远古时大禹治水有功，成为禹王。禹王死后，他的儿子启不经“四岳”选举，就继承了父亲的职位，开始以“家天下”的王位世袭制代替了“四岳”选举的禅让制，建立了我国历史上最早的奴隶制国家夏朝。夏朝传了五代到少康时，少康将庶子无余封在会稽主持禹的祭祀，无余的后人建立了越国。春秋时，越国被楚国所灭，越国的公族子孙有的便以原国名命姓，称越氏。<br/>　　2、出自越王勾践之后，以国名为姓，称越氏。<br/>　　3、出自北方鲜卑族越勒氏、越质诘氏所改。北魏孝文帝时，鲜卑族有越勒氏、越质诘氏，入中原后有的改为越氏。</p>
+<p><strong>家族名人</strong><br/>　　越姬：春秋时楚昭王姬妾，越王勾践之女。楚昭王救陈时，越姬跟随，后为顾全大局，保全忠臣将相而自杀。<br/>　　越升：越其杰的同乡，也是贵州人，在朝廷中当文官，他的学问很好。<br/>　　越英：字德充，贵阳人，明代泸州知州。越升的玄孙，中洪治乡举，初任衡阳教谕，后擢泸州知州。他心地仁爱，喜欢良善，嫉恶如仇，做州官时刚正不阿，地方上风气清正，后弃官而归。他以道义自持，素为乡里所畏服。卒年八十余。<br/>　　越石父：春秋时齐国人。是个贤才，正在囚禁之中。晏子外出，在路上遇到他，就解开乘车左边的马，把他赎出来，用车拉回家。晏子没有向越石父告辞，就走进内室，过了好久没出来，越石父就请求与晏子绝交。晏子大吃一惊，匆忙整理好衣帽道歉说：“我即使说不上善良宽厚，也总算帮助您从困境中解脱出来，您为什么这么快就要求绝交呢？”越石父说：“不是这样的，我听说君子在不了解自己的人那里受到委屈而在了解自己的人面前意志就会得到伸张。当我在囚禁之中，那些人不了解我。你既然已受到感动而醒悟，把我赎买出来，这就是了解我；了解我却不能以礼相待，还不如在囚禁之中”。于是晏子就请他进屋待为贵宾。<br/>　　越其杰：字卓凡，贵阳人。明朝万历年间举人，为人倜傥，工诗词文章，又善骑射，文武兼备。天启年间任夔州知府，奢崇明围攻成都，越其杰率兵大破，升为河南巡抚。著有《蓟门》、《屡非》、《横槊集》等书。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）越姓在大陆和台湾都没有列入百家姓前一百位。根据《万姓统谱》的记载，越氏有三支，第一支是越王勾践的后代，是一个以国为氏的姓氏；第二支越氏是由越强氏改为单姓越氏；第三支越氏是由越质氏改为越氏。越姓出自姒姓。夏朝时，帝少康封他的庶子无余在会稽（今浙江省绍兴市），让他负责祭祀祖先的各项事宜。后来，无余便在会稽山一带建立起小国，自号为越，国民就以越为姓氏越国发展非常迅速，也出现过如越王勾践的伟人，因此越姓得到了很快的发展。北魏孝文帝时，鲜卑族越勒氏、越质诘氏进入中原时，为适应汉族文化，也改为越氏。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2671.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2673.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

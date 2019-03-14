@@ -1,0 +1,199 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+金匮要略·卷下·果实菜谷禁忌并治二十五_古诗文网
+</title>
+<meta content="果子生食生疮。果子落地经宿，虫蚁食之者，人大忌食之。生米停留多日，有损处，食之伤人。桃子多食令人热，仍不得入水浴，今人病淋沥寒热病。杏酪不熟，伤人。梅多食，坏人齿。李不可多食，令人" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16740.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷下·果实菜谷禁忌并治二十五</b></span>
+<a href="javascript:PlayBookv(16740)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16740" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16740" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e4%bb%b2%e6%99%af">张仲景</a></p>
+<div class="contson">
+<p>　　果子生食生疮。</p>
+<p>　　果子落地经宿，虫蚁食之者，人大忌食之。</p>
+<p>　　生米停留多日，有损处，食之伤人。</p>
+<p>　　桃子多食令人热，仍不得入水浴，今人病淋沥寒热病。</p>
+<p>　　杏酪不熟，伤人。</p>
+<p>　　梅多食，坏人齿。</p>
+<p>　　李不可多食，令人胪胀。</p>
+<p>　　林檎不可多食，令人百脉弱。</p>
+<p>　　橘柚多食，令人口爽，不知五味。</p>
+<p>　　梨不可多食，令人寒中，金疮、产妇，亦不宜食。</p>
+<p>　　樱桃杏多食，伤筋骨。</p>
+<p>　　安石榴不可多食，损人肺。</p>
+<p>　　胡桃不可多食，令人动痰饮。</p>
+<p>　　生枣多食，令人热渴，气胀。寒热羸瘦者，弥不可食，伤人。</p>
+<p>　　食诸果中毒，治之方：</p>
+<p>　　猪骨烧灰</p>
+<p>　　上一味，末之，水服方寸匕。亦治马肝漏脯等毒。</p>
+<p>　　木耳赤色，及仰生者，勿食。菌仰卷及赤色者不可食。</p>
+<p>　　食诸菌中毒，闷乱欲死，治之方：</p>
+<p>　　人粪汁饮一升，土浆饮一二升，大豆浓煎汁饮之。服诸吐利药，并解。</p>
+<p>　　食枫柱菌而哭不止，治之以前方。</p>
+<p>　　误食野芋，烦乱欲死，治之以前方。</p>
+<p>　　其野芋根，山东人名魁芋，人种芋，三年不收，亦成野芋，并杀人。</p>
+<p>　　蜀椒闭口者有毒，误食之戟人咽喉，气病欲绝。或吐下白沫，身体痹冷，急治之方。</p>
+<p>　　肉桂，煎汁饮之，饮冷水一二升。</p>
+<p>　　或食蒜，或饮地浆。</p>
+<p>　　或浓煮豉汁饮之。并解。</p>
+<p>　　正月勿食生葱，令人面生游风。</p>
+<p>　　二月勿食蓼，伤人肾。</p>
+<p>　　三月勿食小蒜，伤人志性。</p>
+<p>　　四月、八月勿食胡荽，伤人神。</p>
+<p>　　五月勿食韭，令人乏气力。</p>
+<p>　　五月五日勿食生菜，发百病。</p>
+<p>　　六月、七月勿食茱萸，伤神气。</p>
+<p>　　八月、九月勿食姜，伤人神。</p>
+<p>　　十月勿食椒，损人心，伤心脉。</p>
+<p>　　十一月、十二月勿食薤，令人多涕唾。</p>
+<p>　　四季勿食生葵，令人饮食不化，发百病，非但食中，药中皆不可用，深宜慎之。</p>
+<p>　　时病差未健，食生菜，手足必肿。</p>
+<p>　　夜食生菜，不利人。</p>
+<p>　　十月勿食被霜生菜，令人面无光，目涩心痛，腰疼，或发心疟，疟发时手足十指爪皆青，困萎。</p>
+<p>　　葱韭初生芽者，食之伤人心气。</p>
+<p>　　饮白酒食生韭，令人病增。</p>
+<p>　　生葱不可共蜜，食之杀人，独颗蒜弥忌。</p>
+<p>　　枣和生葱食之，令人病。</p>
+<p>　　生葱和雄鸡、雉、白犬肉食之，令人七窍经年流血。</p>
+<p>　　食糖蜜后，四日内食生葱蒜，令人心痛。</p>
+<p>　　夜食诸姜蒜葱等，伤人心。</p>
+<p>　　芜菁根多食之，令人气胀。</p>
+<p>　　薤不可共牛肉作羹食之，成瘕病，韭亦然。</p>
+<p>　　莼多病，动痔疾。</p>
+<p>　　野苣不可同蜜食之，作内痔。</p>
+<p>　　白苣不可共酪同食，作●虫。</p>
+<p>　　黄瓜食之，发热病。</p>
+<p>　　葵心不可食，伤人；叶尤冷，黄背赤茎者勿食之。</p>
+<p>　　胡荽久食之，令人多忘。</p>
+<p>　　病人不可食胡荽及黄花菜。</p>
+<p>　　芋不可多食，动病。</p>
+<p>　　妊妇食姜，令子余指。</p>
+<p>　　蓼多食，发心痛。</p>
+<p>　　蓼和生鱼食之，令人夺气，阴咳疼痛。</p>
+<p>　　芥菜不可共兔肉食之，成恶邪病。</p>
+<p>　　小蒜多食，伤人心力。</p>
+<p>　　食躁式躁方：</p>
+<p>　　豉浓煮汁饮之。</p>
+<p>　　钩吻与芹菜相似，误食之，杀人，解之方：《肘后》云，与茱萸黄食芥相似。</p>
+<p>　　荠苨八两</p>
+<p>　　上一味，水六升，煮取二升，分温二服。钩吻生地傍无他草，其茎有毛者，以此别之。</p>
+<p>　　菜中有水莨菪，叶圆而光，有毒，误食之，令人狂乱，状如中风，或吐血，治之方：</p>
+<p>　　甘草煮汁，服之即解。</p>
+<p>　　春秋二时，龙带精入芹菜中，人偶食之为病，发时手青腹满，痛不可忍，名蛟龙病，治之方：</p>
+<p>　　硬糖二、三升</p>
+<p>　　上一味，日两度，服之，吐出如蜥蜴三五枚，差。</p>
+<p>　　食苦瓠中毒，治之方：</p>
+<p>　　黎穰煮汁，数服之解。</p>
+<p>　　扁豆，寒热者，不可食之。</p>
+<p>　　久食小豆，令人枯燥。</p>
+<p>　　食大豆等，忌啖猪肉。</p>
+<p>　　大麦久食，令人作●。</p>
+<p>　　白黍米不可同饴蜜食，亦不可合葵食之。</p>
+<p>　　蕎麦面，多食令人发落。</p>
+<p>　　盐多食，伤人肺。</p>
+<p>　　食冷物，冰人齿。食热物，勿饮冷水。</p>
+<p>　　饮酒，食生苍耳，令人心痛。</p>
+<p>　　夏月大醉汗流，不得冷水洗着身，及使扇，即成病。</p>
+<p>　　饮酒大忌灸腹背，令人肠结。</p>
+<p>　　醉后勿饱食，发寒热。</p>
+<p>　　　　饮酒食猪肉，卧秫稻穰中则发黄。</p>
+<p>　　食饴多饮酒，大忌。</p>
+<p>　　凡水及酒，照见人影动者，不可饮之。</p>
+<p>　　醋合酪食之，令人血瘕。</p>
+<p>　　食白米粥勿食生苍耳，成走疰。</p>
+<p>　　食甜粥已，食盐即吐。</p>
+<p>　　犀角?搅饮食，沫出，及浇地坟起者，食之杀人。</p>
+<p>　　饮食中毒烦满，治之方：</p>
+<p>　　苦参三两苦酒一升半</p>
+<p>　　上二味，煮三沸，三上三下，服之，吐食出即差，或以水煮亦得。</p>
+<p>　　又方：</p>
+<p>　　犀角汤亦佳。</p>
+<p>　　贪食、食多不消，心腹坚满痛治之方：</p>
+<p>　　盐一升水三升</p>
+<p>　　上二味，煮令盐消，分三服，当吐出食，便差。</p>
+<p>　　矾石生入腹，破人心肝，亦禁水。</p>
+<p>　　商陆，以水服，杀人。</p>
+<p>　　葶苈子，傅头疮，药成入脑，杀人。</p>
+<p>　　水银入人耳及六畜等，皆死。以金银着耳边，水银则吐。</p>
+<p>　　苦练无子者杀人。</p>
+<p>　　凡诸毒，多是假毒以投，无知时宜煮甘草荠苨汁饮之，通除诸毒药。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16739.aspx">上一章</a>
+<a href="/guwen/book_193.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

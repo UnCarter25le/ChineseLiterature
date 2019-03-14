@@ -1,0 +1,127 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷七·手厥阴心包经_古诗文网
+</title>
+<meta content="手厥阴经穴主治滑氏曰：“手厥阴心主，又曰心包络，何也？”曰：“君火以名，相火以位，手厥阴代君火行事，以用而言，故曰手心主；以经而言，曰心包络，一经而二名，实相火也。”手厥阴心包络经" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18883.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·手厥阴心包经</b></span>
+<a href="javascript:PlayBookv(18883)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18883" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18883" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　<strong>手厥阴经穴主治</strong></p>
+<p>　　滑氏曰：“手厥阴心主，又曰心包络，何也？”曰：“君火以名，相火以位，手厥阴代君火行事，以用而言，故曰手心主；以经而言，曰心包络，一经而二名，实相火也。”</p>
+<p>　　<strong>手厥阴心包络经穴歌</strong></p>
+<p>　　九穴心包手厥阴，天池天泉曲泽深，郄门间使内关对，大陵劳宫中冲侵（左右一十八穴）。</p>
+<p>　　此一经起于天池，终于中冲，取中冲、劳宫、大陵、间使、曲泽，与井荥俞经合也。</p>
+<p>　　脉起胸中，出属心包，下膈，历络三焦；其支者，循胸出胁，下腋三寸，上抵腋下，下循臑内，行太阴、少阴之间，入肘中，下臂，行两筋之间，入掌中，循中指出其端；其支别者，从掌中循小指次指出其端。多血少气，戌时气血注此。</p>
+<p>　　受足少阴之交，其系与三焦之系连属，故指相火之脏，实乃裹心之膜，此实安身立命之地，尤宜详察，默会其真。其调剂也，莫执一方；其针灸也，必循其道。达者慎焉，几于神矣。</p>
+<p>　　<strong>手厥阴心包经考正穴法</strong></p>
+<p>　　天池（一名天会）：</p>
+<p>　　腋下三寸，乳后一寸，着胁直腋撅肋间。手足厥阴、少阳之会。《铜人》灸三壮，针三分。《甲乙》针七分。</p>
+<p>　　主胸中有声，胸膈烦满，热病汗不出，头痛，四肢不举，腋下肿，上气，寒热痎疟，臂痛，目佴佴不明。</p>
+<p>　　天泉（一名天湿）：</p>
+<p>　　曲腋下二寸，举臂取之。《铜人》针六分，灸三壮。</p>
+<p>　　主目佴佴不明，恶风寒，心病，胸胁支满，咳逆，膺背胛间、臂内廉痛。</p>
+<p>　　曲泽：</p>
+<p>　　肘内廉陷中，大筋内侧横纹中动脉是。心包络脉所入为合水。《铜人》灸三壮，针三分，留七呼。</p>
+<p>　　主心痛，善惊，身热，烦渴口干，逆气呕涎血，心下澹澹，身热，风疹，臂肘手腕不时动摇，头清汗出不过肩，伤寒，逆气呕吐。</p>
+<p>　　郄门：</p>
+<p>　　掌后去腕五寸，手厥阴心包络脉隙。《铜人》针三分，灸五壮。</p>
+<p>　　主呕血，衄血，心痛，呕，哕，惊恐畏人，神气不足。</p>
+<p>　　间使：</p>
+<p>　　掌后三寸，两筋间陷中。心包络脉所行为经金。《素注》针六分，留七呼。《铜人》针三分，灸五壮。《明堂》灸七壮。《甲乙》灸三壮。</p>
+<p>　　主伤寒结胸，心悬如饥，卒狂，胸中澹澹，恶风寒，呕沫，怵惕，寒中少气，掌中热，腋肿肘挛，卒心痛，多惊，中风气塞，涎上昏危，喑不得语，咽中如梗，鬼邪，霍乱干呕，妇人月水不调，血结成块，小儿客忤。</p>
+<p>　　内关：</p>
+<p>　　掌后去腕二寸两筋间，与外关相抵。手心主之络，别走少阴。《铜人》针五分，灸三壮。</p>
+<p>　　主手中风热，失志，心痛，目赤，支满肘挛。实则心暴痛泻之，虚则头强补之。</p>
+<p>　　大陵：</p>
+<p>　　掌后骨下，两筋间陷中。手厥阴心包络脉所注为俞土。心包络实泻之。《铜人》针五分。《素注》针六分，留七呼，灸三壮。</p>
+<p>　　主热病汗不出，手心热，肘臂挛痛，腋肿，善笑不休，烦心，心悬若饥，心痛掌热，喜悲泣惊恐，目赤目黄，小便如血，呕?无度，狂言不乐，喉痹，口干，身热头痛，短气，胸胁痛，瘑疮疥癣。</p>
+<p>　　劳宫（一名五里，一名掌中）：</p>
+<p>　　掌中央动脉。《铜人》屈无名指取之。《资生》屈中指取之。滑氏云：“以今观之，屈中指、无名指两者之间取之为允。”心包络脉所溜为荥火。《素注》针三分，留六呼。《铜人》灸三壮。《明堂》针二分，得气即泻，只一度，针过两度，令人虚。禁灸，灸令人息肉日加。</p>
+<p>　　主中风，善怒，悲笑不休，手痹，热病数日汗不出，怵惕，胁痛不可转侧，大小便血，衄血不止，气逆呕哕，烦渴食饮不下，大小人口中腥臭，口疮，胸胁支满，黄疸目黄，小儿龈烂。</p>
+<p>　　中冲：</p>
+<p>　　手中指端，去爪甲角如韭叶陷中。心包络脉所出为井木。心包络虚补之。《铜人》针一分，留三呼。《明堂》灸一壮。</p>
+<p>　　主热病烦闷，汗不出，掌中热，身如火，心痛烦满，舌强。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18882.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18884.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

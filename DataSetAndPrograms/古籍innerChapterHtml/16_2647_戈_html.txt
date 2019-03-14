@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·戈_古诗文网
+</title>
+<meta content="历史来源　　1、出自夏朝东夷族的寒国，以国名为氏。伯明之子名浞，因属寒国人，故史称寒浞。他杀死后羿当了国君，篡夺了夏朝政权，自立为王，封他的一个儿子浇在过国，另一个儿子封在戈国（位" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2647.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>戈</b></span>
+<a href="javascript:PlayBookv(2647)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2647" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2647" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自夏朝东夷族的寒国，以国名为氏。伯明之子名浞，因属寒国人，故史称寒浞。他杀死后羿当了国君，篡夺了夏朝政权，自立为王，封他的一个儿子浇在过国，另一个儿子封在戈国（位于宋、郑之间），为夏王朝附庸国。后来，少康中兴，灭掉戈国。原戈国后代子孙遂以国名命姓，乃称戈氏。<br/>　　2、出自姒姓，是禹王的后裔，以国名为氏。寒浞篡夏以后，少康经过努力，终于复国。少康的儿子杼灭掉了寒浞建立的戈国，分封夏朝同姓人于戈。仍为诸侯方国，其后人亦为戈姓。</p>
+<p><strong>家族名人</strong><br/>　　戈讪：明代著名画家，常熟人。<br/>　　戈文：清代著名画家，苏州人。<br/>　　戈载：字宝士（1786-1856），一字孟博，号顺卿，又号弢翁，江苏吴县人。父戈宙襄号小莲，著有《韵表互考》、《韵类表》、《字母互考》、《字母会韵纪要》等若干种。戈载世其家学，尤潜心於宋人宫调声律之学。嘉庆十二年（1807年）县学生，选贡士，为大学典簿。“中岁后境日贫乏，始出为汗漫游，依人幕下，佐会计事”。晚乃归里，以词学讲论终老。传世著作有《词林正韵》三卷，《宋七家词逊，词集《翠薇花馆词》多至三十九卷。（词友吴嘉洤谓《翠薇花馆词》凡六十馀卷，见《仪宋堂文二集》卷七《亡友七人传》。）诗集亦有二十卷。另有《词律订补》若干种不传。<br/>　　戈涛：献县人，清代乾隆皇帝时为进士，在朝中做官。他以书法好出名，而且又著有《坳堂诗集》等。<br/>　　戈源：戈涛的弟弟，也在朝中做官。他很关心百姓，任官期间，为政宽厚，让百姓受惠得益。而自己勤奋做事，亲力亲为，使许多事得到妥善的解决。<br/>　　戈宙琦：清代著名画家，吴县人。<br/>　　戈裕良：字立山（1764-1830），为清代乾嘉年间名噪一时的园林艺术家，他本是画家，后以造园为业，他将绘画艺术与园林建造结合起来，大江南北许多名园均出自其手。戈裕良祖居武进洛阳尚湖墩。出生于县城东门季子庙后。祖辈皆务农为业，其父振英，生四子，裕良行三，因家境清贫，少时即随父兄种树累石。他23岁时父亲亡故，为了糊口，他告别老母出外造园谋生。他筑的假山，别具风格，能浑然一体，巧夺天工，不需借助于牵罗攀藤，掩饰点缀，而逼肖真山，因此人称花园子。到清嘉庆初年时，他已名声在外，乾隆时江南一些官僚豪门，纷纷置园叠山，裕良遂为各地所争聘，得以大显身手，留下许多传世杰作。他的造园技艺堪称神妙，古今名家倍加推崇，称“苏州园林为我国第一，戈裕良制作的园林又为苏州第一。”</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）戈姓在大陆和台湾都没有列入百家姓前一百位。戈氏是距今4000多年前一个以戈为名的古国的后裔，《姓氏考略》载：“戈氏，禹之后，分封于戈，以国为姓，望出临海。”上古夏朝时候，有个东夷族建立的戈国，是夏王朝的附庸国。后来戈国公族的后代，就以国名为姓，世代相传。而戈国这个国名，原来也是取自地名。在夏朝的少康帝使夏朝盛以后，少康的儿子“杼”，就并合了戈国，那里不再称戈国，还是称为戈地。而杼又将王族中的人分封到戈地去。随后，受封戈地的王族又形成一支以地名为姓戈姓。常州戈姓先世源于临海戈氏。目前常州地区约有戈姓人口1300余人，占全市人口的0．064%。历史上常州戈姓也出现了许多杰出人才。（余略）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2646.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2648.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

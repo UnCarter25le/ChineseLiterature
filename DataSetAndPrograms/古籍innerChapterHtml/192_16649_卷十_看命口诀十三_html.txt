@@ -1,0 +1,121 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·看命口诀十三_古诗文网
+</title>
+<meta content="凡命前五辰为宅舍，若遇有气及吉神临之，主有好宅，门阀崇峻，子孙华显。假令甲申人宅舍在丑，十二月生得，天乙临宅为吉。若居无气及凶神临之，主其宅虚耗，破坏不完，祖业不守。假令庚午人宅舍" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16649.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·看命口诀十三</b></span>
+<a href="javascript:PlayBookv(16649)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16649" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16649" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　凡命前五辰为宅舍，若遇有气及吉神临之，主有好宅，门阀崇峻，子孙华显。</p>
+<p>　　假令甲申人宅舍在丑，十二月生得，天乙临宅为吉。</p>
+<p>　　若居无气及凶神临之，主其宅虚耗，破坏不完，祖业不守。</p>
+<p>　　假令庚午人宅舍在亥，甲子旬亥落空亡，又遇劫杀临之为凶。余准此推。</p>
+<p>　　命后一辰为破宅煞，若在破宅煞中，主无父祖产业或客死他乡。</p>
+<p>　　又看宅纳音与本命纳音相生则吉。宅克身得好宅，身克宅必破散。</p>
+<p>　　假令甲子金以己巳木为宅，二月生系宅旺合有好宅，以身克宅后当破落。</p>
+<p>　　戊午火以癸亥木为宅，九月生宅冠带，十月生宅建，十一月生宅旺。</p>
+<p>　　又值宅生克身必得好宅。若宅鬼旺中生者，有官则吉，无官则凶。</p>
+<p>　　凡禄命虽有休旺，更论其宅以办吉凶。</p>
+<p>　　沈芝云：宅怕犯破。</p>
+<p>　　如甲子人以己巳是宅，如犯亥字其宅受破，命元稍薄，太岁冲年亦须破，须是为长方可断。</p>
+<p>　　如丙子人得辛巳金为宅，遇乙亥流年之类是也。命好亦更动兴作方应。</p>
+<p>　　凡命后五辰为田园，若居有气之乡又福神临之。主田园盈野仓库充实。假令甲子人田园在未，六月生土乘旺气，又逢天乙贵为吉。</p>
+<p>　　若遇无气之乡又凶神临之，主田园瘠薄仓库空虚。</p>
+<p>　　假令戊子人田园在癸未，六月生甲申旬，未落空亡。余准此例。</p>
+<p>　　鬼谷遣文云：马无害“财破”禄无鬼“鬼克”食无亡“空亡”支合无元“元辰”干合无厄“六厄”旺无丧“丧门”衰无吊“吊客”妻无刃“羊刃”财无飞“飞廉”孟无孤“孤辰”季无寡“寡宿”体重须鬼，禄重须官。夫须少，妻须倍，吉须显然，凶须沉味。支干失和而塞，夫妇失时而凶。四柱主本，禄马往来，须分建破。天乙扶持，将德是冲，更办尊卑。有根而无苗实贫而尚可，甘食本气绝而花繁纵子，成而味拙至。</p>
+<p>　　若贵神当位，诸煞伏藏，三元旺相，岂专神煞。</p>
+<p>　　命中用煞，以五行为本，如五行得地无贵，煞而亦贵，虽有恶煞无害于事。若五行不得地，纵有吉煞，亦发不久，如冬月中花耳。</p>
+<p>　　纳音者天地之舞数也，驿马学堂居长生之位，才能官职在旺相之乡，文章富贵处印库之地。如逢衰败则灭三分之一，更遇死绝则去十分之半。切忌空亡冲克，不宜刑害吞食。故同源相成，则天地舞全基本强壮。“同源相成质数为上应数次之”同类相伤，则支神气散理无复合“同类相伤如丁未刑丁丑之类”管辂曰：五行互旺，虽冲气完。五行相克，虽合气散，此之谓也。</p>
+<p>　　或问人生，有始终功名富贵，有一旦崛起忽然骤兴，有始终剥落而中间奋发，有半世淹寋而晚年成就。其故何也？</p>
+<p>　　答曰：莫非命也。其始终富贵，乃柱中身主专旺，其所用吉神或官印财食，俱各带禄得令，不偏不党，无刑冲克害。出门行运步步皆吉，故能成材能振耀。绍前人之基业，立当代之功名。不招谗谤不致伤害，保其终始，是命运生旺，体用俱得故也。</p>
+<p>　　其一旦崛起忽然骤兴，由柱中所用贵神，悉皆得位乘旺，又且合格。奈日主无力，不能胜任其福，所以劳困堰寋。倏逢好运，生扶日干，得其强健元命，用神方为我用。我因乘之，虎啸风生大发富贵。是偏气乘和，衰以遇旺，故迎吉而发，前后迥异。</p>
+<p>　　亦有日主强旺，五行煞纯不杂。奈根本原无制伏，富贵不成。惟待运来制伏煞神，化为权柄，功名显达出类超群，制神力旺发福非常。所以骤兴。由贫贱而至极品，全由行运得地方见其兴，如运不至即常人耳。</p>
+<p>　　其始终奋发而中间剥落者，乃柱中日主健旺，用神亦旺，各相力停。为富室朱门之贤子，及其长大成立，要逢好曜。若大运加临元命，见其财而夺之，因其官而伤之，临其印而坏之，逢其食而枭之。遭际此运祸不胜言，所以盛年见倾而不发。</p>
+<p>　　如其恶运一去，又逢好运扶持，使用神一新。譬如枯苗得雨，勃然而兴。鸿毛遇风，飘然而举，不可御也。</p>
+<p>　　若半世淹蹇，晚年成就，乃四柱身强，阳刃比肩，又各争旺。惟财官煞神等物虚浮，轻少无力而成功名。出门行运又非作福之地，所以一生，饥寒劳苦剥落，直至晚年。</p>
+<p>　　顿逢好运，补起财官煞神等物，假煞为权，制伏阳刃。或得权贵而显扬，或起资财而发福，当随五行清浊，以其所遇之运别之。</p>
+<p>　　嗟夫穷通有命，富贵在天，孔子有是言也，岂人智力所能移易乎哉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16648.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16650.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

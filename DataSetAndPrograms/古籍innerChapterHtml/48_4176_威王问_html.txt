@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孙膑兵法·威王问_古诗文网
+</title>
+<meta content="齐威王问用兵孙子曰：“两军相当，两将相望，皆坚而固，莫敢先举，为之奈何？”孙子答曰：“以轻卒尝之，贱而勇者将之，期于北，毋期于得。为之微阵以触其侧。是谓大得。”威王曰：“用众用寡有" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4176.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2777" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>威王问</b></span>
+<a href="javascript:PlayBookv(4176)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4176" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2777)" id="leftbtn2777" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4176" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e8%86%91">孙膑</a></p>
+<div class="contson">
+　　齐威王问用兵孙子曰：“两军相当，两将相望，皆坚而固，莫敢先举，为之奈何？”孙子答曰：“以轻卒尝之，贱而勇者将之，期于北，毋期于得。为之微阵以触其侧。是谓大得。”威王曰：“用众用寡有道乎？”孙子曰：“有。”威王曰：“我强敌弱，我众敌寡，用之奈何？”孙子再拜曰：“明王之问！夫众且强，犹问用之，则安国之道也，命之曰赞师。毁卒乱行，以顺其志，则必战矣。”威王曰：“敌众我寡，敌强我弱，用之奈何？”孙子曰：“命曰让威。必臧其尾，令之能归。长兵在前，短兵在□，为之流夸，以助其急者。□□毋动，以待敌能。”威王曰：“我出敌出，未知众少，用之奈何？”孙子[ 曰]： “命曰..”威王曰：“击穷寇奈何？”孙子[ 曰]： “..可以侍生计矣。”威王曰：“击均奈何？”孙子曰：“营而离之，我并卒而击之，毋令敌知之。然而不离，按而止。毋击疑。”威王曰：“以一击十，有道乎？”孙子曰：“有。攻其无备，出其不意。”威王曰：“地平卒齐，合而北者，何也？”孙子曰：“其阵无锋也。”威王曰：“令民素听，奈何？”孙子曰：“素信。”威王曰：“善哉言！兵势不穷。”..田忌问孙子曰：“患兵者何也？困敌者何也？壁延不得者何也？失天者何也？失地者何也？失人者何也？请问此六者有道乎？”孙子曰：“有。患兵者地也，困敌者险也。故曰，三里沮洳将患军..涉将留大甲。故曰，患兵者地也，困敌者险也，壁延不得者寒也。□..”.. “奈何？”孙子曰：“鼓而坐之，十而揄之。”田忌曰：“行阵已定，动而令士必听，奈何？”孙子曰：“严而示之利。”田忌曰：“赏罚者，兵之急者耶？”孙子曰：“非。夫赏者，所以喜众，令士忘死也。罚者，所以正乱，令民畏上也。可以益胜，非其急者也。”田忌曰：“权、势、谋、诈，兵之急者耶？”孙子曰：“非也。夫权者，所以聚众也。势者，所以令士必斗也。谋者，所以令敌无备也。诈者，所以困敌也。可以益胜，非其急者也。”田忌忿然作色：“此六者，皆善者所用，而子大夫曰非急者也。然则其急者何也？”孙子曰：“料敌计险，必察远近，..将之道也。必攻不守，兵之急者也。..骨也。”田忌问孙子曰：“张军毋战有道？”孙子曰：“有。倅险增垒，净戒毋动，毋可□□，毋可怒。”田忌曰：“敌众且武，必战有道乎？”孙子曰：“有。埤垒广志，严正辑众，避而骄之，引而劳之，攻其无备，出其不意，必以为久。”田忌问孙子曰：“锥行者何也，雁行者何也？篡卒力士者何也？劲弩趋发者何也？飘风之阵者何也？众卒者何也？”孙子曰：“锥行者，所以冲坚毁锐也。雁行者，所以触侧应□[ 也] 。篡卒力士者，所以绝阵取将也。劲弩趋发者，所以甘战持久也。飘风之阵者，所以回□□□[ 也] 。众卒者，所以分功有胜也。”孙子曰：“明主、知道之将，不以众卒几功。”孙子出而弟子问曰：“威王、田忌臣主之问何如？”孙子曰：“威王问九，田忌问七，几知兵矣，而未达于道也。吾闻素信者昌，立义..用兵无备者伤，穷兵者亡。齐三世其忧矣。”
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4175.aspx">上一章</a>
+<a href="/guwen/book_48.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4177.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2777" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

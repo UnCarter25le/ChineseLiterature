@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+陶庵梦忆·卷一·钟山_古诗文网
+</title>
+<meta content="钟山上有云气，浮浮冉冉，红紫间之，人言王气，龙蜕藏焉。高皇帝与刘诚意、徐中山、汤东瓯定寝穴，各志其处，藏袖中。三人合，穴遂定。门左有孙权墓，请徙。太祖曰：“孙权亦是好汉子，留他守门" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12988.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·钟山</b></span>
+<a href="javascript:PlayBookv(12988)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12988" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12988" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　钟山上有云气，浮浮冉冉，红紫间之，人言王气，龙蜕藏焉。高皇帝与刘诚意、徐中山、汤东瓯定寝穴，各志其处，藏袖中。三人合，穴遂定。门左有孙权墓，请徙。太祖曰：“孙权亦是好汉子，留他守门。”及开藏，下为梁志公和尚塔。</p>
+<p>　　真身不坏，指爪绕身数匝。军士辇之，不起。太祖亲礼之，许以金棺银椁，庄田三百六十，奉香火，舁灵谷寺塔之。今寺僧数千人，日食一庄田焉。陵寝定，闭外羡，人不及知。所见者，门三、飨殿一、寝殿一，后山苍莽而已。壬午七月，朱兆宣簿太常，中元祭期，岱观之。飨殿深穆，暖阁去殿三尺，黄龙幔幔之。列二交椅，褥以黄锦，孔雀翎织正面龙，甚华重。席地以毡，走其上必去舄轻趾。稍咳，内侍辄叱曰：“莫惊驾！”</p>
+<p>　　近阁下一座，稍前，为碽妃，是成祖生母。成祖生，孝慈皇后妊为己子，事甚秘。再下，东西列四十六席，或坐或否。祭品极简陋。朱红木簋、木壶、木酒樽，甚粗朴。簋中肉止三片，粉一铗，黍数粒，东瓜汤一瓯而已。暖阁上一几，陈铜炉一、小筯瓶二、杯棬二；下一大几，陈太牢一、少牢一而已。他祭或不同，岱所见如是。先祭一日，太常官属开牺牲所中门，导以鼓乐旗帜，牛羊自出，龙袱盖之。至宰割所，以四索缚牛蹄。太常官属至，牛正面立，太常官属朝牲揖，揖未起，而牛头已入燖所。燖已，舁至飨殿。次日五鼓，魏国至，主祀，太常官属不随班，侍立飨殿上。祀毕，牛羊已臭腐不堪闻矣。平常日进二膳，亦魏国陪祀，日必至云。</p>
+<p>　　戊寅，岱寓鹫峰寺。有言孝陵上黑气一股，冲入牛斗，百有余日矣。岱夜起视，见之。自是流贼猖獗，处处告警。壬午，朱成国与王应华奉敕修陵，木枯三百年者尽出为薪，发根，隧其下数丈，识者为伤地脉、泄王气，今果有甲申之变，则寸斩应华亦不足赎也。孝陵玉石二百八十二年，今岁清明，乃遂不得一盂麦饭，思之猿咽。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12987.aspx">上一章</a>
+<a href="/guwen/book_139.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12989.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

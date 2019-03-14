@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷三·庚娘_古诗文网
+</title>
+<meta content="金大用，中州旧家子也。聘尤太守女，字庚娘，丽而贤，逑好甚敦。以流寇之乱，家人离逖，金携家南窜。途遇少年，亦偕妻以逃者，自言广陵王十八，愿为前驱。金喜，行止与俱。至河上，女隐告金曰：" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11509.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·庚娘</b></span>
+<a href="javascript:PlayBookv(11509)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11509" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11509" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　金大用，中州旧家子也。聘尤太守女，字庚娘，丽而贤，逑好甚敦。以流寇之乱，家人离逖，金携家南窜。途遇少年，亦偕妻以逃者，自言广陵王十八，愿为前驱。金喜，行止与俱。至河上，女隐告金曰：“勿与少年同舟，彼屡顾我，目动而色变，中叵测也。”金诺之。王殷勤觅巨舟，代金运装，劬劳臻至，金不忍却。又念其携有少妇，应亦无他。妇与庚娘同居，意度亦颇温婉。王坐舡头上与橹人倾语，似甚熟识戚好。</p>
+<p>　　未几日落，水程迢递，漫漫不辨南北。金四顾幽险，颇涉疑怪。顷之，皎月初升，见弥望皆芦苇。既泊，王邀金父子出户一豁，乃乘间挤金入水；金有老父，见之欲号，舟人以篙筑之，亦溺；生母闻声出窥，又筑溺之。王始喊救。母出时，庚娘在后，已微窥之。既闻一家尽溺，即亦不惊，但哭曰：“翁姑俱没，我安适归！”王入劝：“娘子勿忧，请从我至金陵，家中田庐颇足赡给，保无虞也。”女收涕曰：“得如此，愿亦足矣。”王大悦，给奉良殷。既暮，曳女求欢，女托体姅，王乃就妇宿。</p>
+<p>　　初更既尽，夫妇喧竞，不知何由。但闻妇曰：“若所为，雷霆恐碎汝颅矣！”王乃挝妇。妇呼云：“便死休！诚不愿为杀人贼妇！”王吼怒，捽妇出。便闻骨董一声，遂哗言妇溺矣。未几抵金陵，导庚娘至家，登堂见媪，媪讶非故妇。王言：“妇堕水死，新娶此耳。”归房，又欲犯。庚娘笑曰：“三十许男子，尚未经人道耶？市儿初合卺亦须一杯薄浆酒，汝家沃饶，当即不难。清醒相对，是何体段？”王喜，具酒对酌。庚娘执爵，劝酬殷恳。王渐醉，辞不饮。庚娘引巨碗，强媚劝之，王不忍拒，又饮之。于是酣醉，裸脱促寝。庚娘撤器灭烛，托言溲溺，出房，以刀入，暗中以手索王项，王犹捉臂作昵声。庚娘力切之，不死，号而起；又挥之，始殪。媪仿佛有闻，趋问之，女亦杀之。王弟十九觉焉。庚娘知不免，急自刎，刀钝鈌不可入，启户而奔，十九逐之，已投池中矣。呼告居人，救之已死，色丽如生。共验王尸，见窗上一函，开视，则女备述其冤状。群以为烈，谋敛资作殡。天明集视者数千人，见其容皆朝拜之。终日间得金百，于是葬诸南郊。好事者为之珠冠袍服，瘗藏丰满焉。</p>
+<p>　　初，金生之溺也，浮片板上，得不死。将晓至淮上，为小舟所救。舟盖富民尹翁，专设以拯溺者。金既苏，诣翁申谢。翁优厚之。留教其子。金以不知亲耗，将往探访，故不决。俄曰：“捞得死叟及媪。”金疑是父母，奔验果然。翁代营棺木。生方哀恸，又白：“拯一溺妇，自言金生其夫。”生挥涕惊出，女子已至，殊非庚娘，乃十八妇也。向金大哭，请勿相弃。金曰：“我方寸已乱，何暇谋人？”妇益悲。尹审其故，喜为天报，劝金纳妇。金以居丧为辞，且将复仇，惧细弱作累。妇曰：“如君言，脱庚娘犹在，将以报仇居丧去之耶？”翁以其言善，请暂代收养，金乃许之。卜葬翁媪，妇缞绖哭泣，如丧翁姑。</p>
+<p>　　既葬，金怀刃托钵，将赴广陵，妇止之曰：“妾唐氏，祖居金陵，与豺子同乡，前言广陵者诈也。且江湖水寇，半伊同党，仇不能复，只取祸耳。”金徘徊不知所谋。忽传女子诛仇事，洋溢河渠，姓名甚悉。金闻之一快，然益悲，辞妇曰：“幸不污辱。家有烈妇如此，何忍负心再娶？”妇以业有成说，不肯中离，愿自居于媵妾。会有副将军袁公，与尹有旧，适将西发，过尹，见生，大相知爱，请为记室。无何，流寇犯顺，袁有大勋，金以参机务，叙劳，授游击以归。夫妇始成合卺之礼。</p>
+<p>　　居数日，携妇诣金陵，将以展庚娘之墓。暂过镇江，欲登金山。漾舟中流，欻一艇过，中有一妪及少妇，怪少妇颇类庚娘。舟疾过，妇自窗中窥金，神情益肖。惊疑不敢追问，急呼曰：“看群鸭儿飞上天耶！”少妇闻之。亦呼云：“馋猧儿欲吃猫子腥耶！”盖当年闺中之隐谑也。金大惊，反棹近之，真庚娘。青衣扶过舟，相抱哀哭，伤感行旅。唐氏以嫡礼见庚娘。庚娘惊问，金始备述其由。庚娘执手曰：“同舟一话，心常不忘，不图吴越一家矣。蒙代葬翁姑，所当首谢，何以此礼相向？”乃以齿序，唐少庚娘一岁，妹之。</p>
+<p>　　先是，庚娘既葬，自不知历几春秋。忽一人呼曰：“庚娘，汝夫不死，尚当重圆。”遂如梦醒。扪之四面皆壁，始悟身死已葬，只觉闷闷，亦无所苦。有恶少窥其葬具丰美，发冢破棺，方将搜括，见庚娘犹活，相共骇惧。庚娘恐其害己，哀之曰：“幸汝辈来，使我得睹天日。头上簪珥，悉将去，愿鬻我为尼，更可少得直。我亦不泄也。”盗稽首曰：“娘子贞烈，神人共钦。小人辈不过贫乏无计，作此不仁。但无漏言幸矣。何敢鬻作尼！”庚娘曰：“此我自乐之。”又一盗曰：“镇江耿夫人寡而无子，若见娘子必大喜。”庚娘谢之。自拔珠饰悉付盗，盗不敢受，固与之，乃共拜受。遂载去，至耿夫人家，托言舡风所迷。耿夫人，巨家，寡媪自度。见庚娘大喜，以为己出。适母子自金山归也，庚娘缅述其故。金乃登舟拜母，母款之若婿。邀至家，留数日始归。后往来不绝焉。</p>
+<p>　　异史氏曰：“大变当前，淫者生之，贞者死焉。生者裂人眦，死者雪人涕耳。至如谈笑不惊，手刃仇雠，千古烈丈夫中岂多匹俦哉！谁谓女子，遂不可比踪彦云也？”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11508.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11510.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

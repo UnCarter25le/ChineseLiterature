@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+知言·修身_古诗文网
+</title>
+<meta content="胡子曰：修身以寡欲为要，行己以恭俭为先，自天子至于庶人，一也。道不能无物而自道，物不能无道而自物。道之有物，犹风之有动，犹水之有流也，夫孰能间之？故离物求道者，妄而已矣！释氏之学，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14817.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>修身</b></span>
+<a href="javascript:PlayBookv(14817)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14817" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14817" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%83%a1%e5%ae%8f">胡宏</a></p>
+<div class="contson">
+<p>　　胡子曰：修身以寡欲为要，行己以恭俭为先，自天子至于庶人，一也。</p>
+<p>　　道不能无物而自道，物不能无道而自物。道之有物，犹风之有动，犹水之有流也，夫孰能间之？故离物求道者，妄而已矣！</p>
+<p>　　释氏之学，必欲出死生者，盖以身为己私也。天道有消息，故人理有始终。不私其身，以公于天下，四大和合，无非至理；六尘缘影，无非妙用，何事非真，何物非我？生生不穷，无断无灭，此道之固然，又岂人之所能为哉？夫欲以人为者，吾知其为邪矣。</p>
+<p>　　道非仁不立。孝者，仁之基也。仁者，道之生也。义者，仁之质也。</p>
+<p>　　未能无欲，欲不行焉之谓大勇，未能无惑，惑不苟解之谓大智。物不苟应，务尽其心之谓大仁。人而不仁，则道义息。</p>
+<p>　　强暴感仁义而服者有矣，未闻以强暴服强暴而能有终者也。</p>
+<p>　　孝莫大于宁亲，宁亲莫大于存神。神存天地之间，顺其命，勿绝灭之而已矣。死生者，身之常也。存亡者，国之常也。兴废者，天下之常也。绝灭者，非常之变也。圣人制四海之命，法天而不私己，尽制而不曲防，分天下之地以为万国，而与英才共焉。诚知兴废之无常，不可以私守之也。故农夫受田百亩，诸侯百里，天子千里。农夫食其力，诸侯报其功，天子享其德。此天下之分，然非后世擅天下者以大制小、以强制弱之谋也，诚尽制而已矣。是以虞、夏、商、周传祀长久，皆千余岁。论兴废，则均有焉。语绝灭，则至暴秦郡县天下，然后及也。自秦灭先王之制，海内荡然无有根本之固。有今世王天下，而继世无置锥之地者。有今年贵为天子，而明年欲为匹夫不可得者。天王尚焉，况其下者乎？是以等威不立，礼义难行，俗化衰薄，虽当世兴废之常，而受绝灭之祸也。其为不孝孰大焉！悲夫！秦、汉、魏、晋、隋、唐之君，真可谓居绝灭之中而不自知者也。是故大易垂训，必建万国而亲诸侯，春秋立法，兴灭国而继绝世。</p>
+<p>　　义有定体，仁无定用。</p>
+<p>　　道无不可行之时，时无不可处之事。时无穷，事万变，惟仁者为能处之，不失其道而有成功。权数智术，用而或中则成，不中则败。其成败系人之能否，而权变纵释不在我者也。岂不殆哉！</p>
+<p>　　天命不已，故人生无穷。其耳目、口鼻、手足而成身，合父子、君臣、夫妇、长幼、朋友而成世，非有假于外而强成之也，是性然矣。圣人明于大愉，理于万物，畅于四肢，达于天地，一以贯之。性外无物，物外无性。是故成己成物，无可无不可焉。释氏绝物遁世，栖身冲寞，窥见天机有不器于物者，遂以此自大。谓万物皆我心，物不觉悟而我觉悟，谓我独高乎万物。于是颠倒所用，莫知所止，反为有适有莫，不得道义之全。名为识心见性，然四达而实不能一贯。展转淫遁，莫可致诘。世之君子信其幻语而惑之。孰若即吾身世而察之乎？</p>
+<p>　　先道而后言，故无不信之言。先义而后行，故无不果之行。</p>
+<p>　　阴阳成象，而天道着矣。刚柔成质，而地道着矣。仁义成德，而人道着矣。</p>
+<p>　　万物生于天，万事宰于心。性，天命也。命，人心也。而气经纬乎其间，万变着见而不可掩。莫或使之，非鬼神而何？</p>
+<p>　　法制者，道德之显尔。道德者，法制之隐尔。天地之心，生生不穷者也。必有春秋冬夏之节、风雨霜露之变，然后生物之功遂。有道德结于民心，而无法制者为无用。无用者亡〔刘虞之类〕。有法制系于民身，而无道德者为无体。热体者灭〔暴秦之类〕。是故法立制定，苟非其人，亦不可行也。</p>
+<p>　　学进，则所能日益。德进，则所能日损。不己而天，则所能亡矣。</p>
+<p>　　事成则极，极则变。物盈则倾，倾则革。圣人裁成其道，辅相其宜，百姓于变而不知。此尧舜所以为圣也。</p>
+<p>　　造车于室而可通于天下之险易，铸鉴于冶而可以定天下之妍丑，盖得其道而握其要也。治天下者何独不观乎此而反求诸身乎？是以一正君心而天下定矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14816.aspx">上一章</a>
+<a href="/guwen/book_178.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14818.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,119 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷三·肘后歌_古诗文网
+</title>
+<meta content="头面之疾针至阴，腿脚有疾风府寻。心胸有病少府泻，脐腹有病曲泉针。肩背诸疾中渚下，腰膝强痛交信凭。胁肋腿叉后溪妙，股膝肿起泻太冲。阴核发来如升大，百会妙穴真可骇。顶心头痛眼不开，涌泉" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18818.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·肘后歌</b></span>
+<a href="javascript:PlayBookv(18818)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18818" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18818" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　头面之疾针至阴，腿脚有疾风府寻。心胸有病少府泻，脐腹有病曲泉针。</p>
+<p>　　肩背诸疾中渚下，腰膝强痛交信凭。胁肋腿叉后溪妙，股膝肿起泻太冲。</p>
+<p>　　阴核发来如升大，百会妙穴真可骇。顶心头痛眼不开，涌泉下针定安泰。</p>
+<p>　　鹤膝肿劳难移步，尺泽能舒筋骨疼。更有一穴曲池妙，根寻源流可调停。</p>
+<p>　　其患若要便安愈，加以风府可用针。更有手臂拘挛急，尺泽刺深去不仁。</p>
+<p>　　腰背若患挛急风，曲池一寸五分攻。五痔原因热血作，承山须下病无踪，</p>
+<p>　　哮喘发来寝不得，丰隆刺入三分深。狂言盗汗如见鬼，惺惺间使便下针。</p>
+<p>　　骨寒髓冷火来烧，灵道妙穴分明记。疟疾寒热真可畏，须知虚实可用意。</p>
+<p>　　间使宜透支沟中，大椎七壮合圣治。连日频频发不休，金门刺深七分是。</p>
+<p>　　疟疾三日得一发，先寒后热无他语。寒多热少取复溜，热多寒少用间使。</p>
+<p>　　或患伤寒热未收，牙关风壅药难投。项强反张目直视，金针用意列缺求。</p>
+<p>　　伤寒四肢厥逆冷，脉气无时仔细寻。神奇妙穴真有二，复溜半寸顺骨行。</p>
+<p>　　四肢回还脉气浮，须晓阴阳倒换求。寒则须补绝骨是，热则绝骨泻无忧。</p>
+<p>　　脉若浮洪当泻解，沉细之时补便瘳。</p>
+<p>　　百合伤寒最难医，妙法神针用意推。口噤眼合药不下，合谷一针效甚奇。</p>
+<p>　　狐惑伤寒满口疮，须下黄连犀角汤。虫在脏腑食肌肉，须要神针刺地仓。</p>
+<p>　　伤寒腹痛虫寻食，吐蛔乌梅可难攻。十日九日必定死，中脘回还胃气通。</p>
+<p>　　伤寒痞气结胸中，两目昏黄汗不通。涌泉妙穴三分许，速使周身汗自通。</p>
+<p>　　伤寒痞结胁积痛，宜用期门见深功。</p>
+<p>　　当汗不汗合谷泻，自汗发黄复溜凭。飞虎一穴通痞气，祛风引气使安宁。</p>
+<p>　　刚柔二痓最乖张，口禁眼合面红妆。热血流入心肺腑，须要金针刺少商。</p>
+<p>　　中满如何去得根，阴包如刺效如神。不论老幼依法用，须教患者便抬身。</p>
+<p>　　打扑伤损破伤风，先于痛处下针攻。后向承山立作效，甄权留下意无穷。</p>
+<p>　　腰腿疼痛十年春，应针不了便惺惺。大都引气探根本，服药寻方枉费金。</p>
+<p>　　脚膝经年痛不休，内外踝边用意求。穴号昆仑并吕细，应时消散实时瘳。</p>
+<p>　　风痹痿厥如何治？大杼曲泉真是妙。两足两胁满难伸，飞虎神针七分到。</p>
+<p>　　腰软如何去得根，神妙委中立见效。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18817.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18819.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

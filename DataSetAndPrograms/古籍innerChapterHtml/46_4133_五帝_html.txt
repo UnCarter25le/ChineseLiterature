@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·五帝_古诗文网
+</title>
+<meta content="季康子問於孔子曰：「舊聞五帝之名，而不知其實，請問何謂五帝？」孔子曰：「昔丘也聞諸老聃曰：『天有五行，水火金木土，分時化育，以成萬物．』其神謂之五帝．古之王者，易代而改號，取法五行" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4133.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2733" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>五帝</b></span>
+<a href="javascript:PlayBookv(4133)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4133" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2733)" id="leftbtn2733" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4133" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　季康子問於孔子曰：「舊聞五帝之名，而不知其實，請問何謂五帝？」孔子曰：「昔丘也聞諸老聃曰：『天有五行，水火金木土，分時化育，以成萬物．』其神謂之五帝．古之王者，易代而改號，取法五行，五行更王，終始相生，亦象其義．故其為明王者而死配五行，是以太皞配木，炎帝配火，黃帝配土，少皞配金，顓頊配水．」康子曰：「太皞氏其始之木何如？」孔子曰：「五行用事，先起於木，木東方萬物之初皆出焉，是故王者則之，而首以木德王天下，其次則以所生之行，轉相承也．」康子曰：「吾聞勾芒為木正，祝融為火正，蓐收為金正，玄冥為水正，后土為土正，此五行之主而不亂稱曰帝者，何也？」孔子曰：「凡五正者，五行之官名，五行佐成上帝而稱五帝，太皞之屬配焉，亦云帝，從其號．昔少皞氏之子有四叔，曰重、曰該、曰脩、曰熙，實能金木及水，使重為勾芒，該為蓐收，脩及熙為玄冥，顓頊氏之子曰黎為祝融，共工氏之子曰勾龍為后土，此五者，各以其所能業為官職．生為上公，死為貴神，別稱五祀，不得同帝．」康子曰：「如此之言，帝王改號於五行之德，各有所統，則其所以相變者，皆主何事？」孔子曰：「所尚則各從其所王之德次焉．夏后氏以金德王，色尚黑，大事歛用昏，戎事乘驪，牲用玄；殷人用水德王，色尚白，大事歛用日中，戎事乘翰，牲用白；周人以木德王，色尚赤，大事歛用日出，戎事乘騵，牲用騂．此三代之所以不同．」康子曰：「唐虞二帝，其所尚者何色？」孔子曰：「堯以火德王，色尚黃，舜以土德王，色尚青．」康子曰：「陶唐有虞夏后，殷周獨不配五帝，意者德不及上古耶，將有限乎？」孔子曰：「古之平治水土，及播殖百穀者眾矣，唯勾龍氏兼食於社，而棄為稷神，易代奉之，無敢益者，明不可與等．故自太皞以降，逮于顓頊，其應五行，而王數非徒五而配五帝，是其德不可以多也．」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4132.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4134.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2733" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

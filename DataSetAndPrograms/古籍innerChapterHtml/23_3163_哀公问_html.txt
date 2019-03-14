@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+礼记·哀公问_古诗文网
+</title>
+<meta content="哀公问于孔子曰：「大礼何如？君子之言礼，何其尊也？」孔子曰：「丘也小人，不足以知礼。」君曰：「否！吾子言之也。」孔子曰：「丘闻之：民之所由生，礼为大。非礼无以节事天地之神也，非礼无" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3163.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1691" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>哀公问</b></span>
+<a href="javascript:PlayBookv(3163)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3163" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1691)" id="leftbtn1691" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3163" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　哀公问于孔子曰：「大礼何如？君子之言礼，何其尊也？」孔子曰：「丘也小人，不足以知礼。」君曰：「否！吾子言之也。」孔子曰：「丘闻之：民之所由生，礼为大。非礼无以节事天地之神也，非礼无以辨君臣上下长幼之位也，非礼无以别男女父子兄弟之亲、昏姻疏数之交也；君子以此之为尊敬然。然后以其所能教百姓，不废其会节。有成事，然后治其雕镂文章黼黻以嗣。其顺之，然后言其丧算，备其鼎俎，设其豕腊，修其宗庙，岁时以敬祭祀，以序宗族。即安其居，节丑其衣服，卑其宫室，车不雕几，器不刻镂，食不贰味，以与民同利。昔之君子之行礼者如此。」</p>
+<p>　　公曰：「今之君子胡莫行之也？」孔子曰：「今之君子，好实无厌，淫德不倦，荒怠傲慢，固民是尽，午其众以伐有道；求得当欲，不以其所。昔之用民者由前，今之用民者由后。今之君子莫为礼也。」</p>
+<p>　　孔子侍坐于哀公，哀公曰：「敢问人道谁为大？」孔子愀然作色而对曰：「君之及此言也，百姓之德也！固臣敢无辞而对？人道，政为大。」公曰：「敢问何谓为政？」孔子对曰：「政者正也。君为正，则百姓从政矣。君之所为，百姓之所从也。君所不为，百姓何从？」公曰：「敢问为政如之何？」孔子对曰：「夫妇别，父子亲，君臣严。三者正，则庶物从之矣。」公曰：「寡人虽无似也，愿闻所以行三言之道，可得闻乎？」孔子对曰：「古之为政，爱人为大；所以治爱人，礼为大；所以治礼，敬为大；敬之至矣，大昏为大。大昏至矣！大昏既至，冕而亲迎，亲之也。亲之也者，亲之也。是故，君子兴敬为亲；舍敬，是遗亲也。弗爱不亲；弗敬不正。爱与敬，其政之本与！」</p>
+<p>　　公曰：「寡人愿有言。然冕而亲迎，不已重乎？」孔子愀然作色而对曰：「合二姓之好，以继先圣之后，以为天地宗庙社稷之主，君何谓已重乎？」公曰：「寡人固！不固，焉得闻此言也。寡人欲问，不得其辞，请少进！」孔子曰：「天地不合，万物不生。大昏，万世之嗣也，君何谓已重焉！」孔子遂言曰：「内以治宗庙之礼，足以配天地之神明；出以治直言之礼，足以立上下之敬。物耻足以振之，国耻足以兴之。为政先礼。礼，其政之本与！」孔子遂言曰：「昔三代明王之政，必敬其妻子也，有道。妻也者，亲之主也，敢不敬与？子也者，亲之后也，敢不敬与？君子无不敬也，敬身为大。身也者，亲之枝也，敢不敬与？不能敬其身，是伤其亲；伤其亲，是伤其本；伤其本，枝从而亡。三者，百姓之象也。身以及身，子以及子，妃以及妃，君行此三者，则忾乎天下矣，大王之道也。如此，国家顺矣。」</p>
+<p>　　公曰：「敢问何谓敬身？」孔子对曰：「君子过言，则民作辞；过动，则民作则。君子言不过辞，动不过则，百姓不命而敬恭，如是，则能敬其身；能敬其身，则能成其亲矣。」公曰：「敢问何谓成亲？」孔子对曰：「君子也者，人之成名也。百姓归之名，谓之君子之子。是使其亲为君子也，是为成其亲之名也已！」孔子遂言曰：「古之为政，爱人为大。不能爱人，不能有其身；不能有其身，不能安土；不能安土，不能乐天；不能乐天，不能成其身。」</p>
+<p>　　公曰：「敢问何谓成身？」孔子对曰：「不过乎物。」公曰：「敢问君子何贵乎天道也？」孔子对曰：「贵其『不已』。如日月东西相从而不已也，是天道也；不闭其久，是天道也；无为而物成，是天道也；已成而明，是天道也。」公曰：「寡人蠢愚，冥烦子志之心也。」孔子蹴然辟席而对曰：「仁人不过乎物，孝子不过乎物。是故，仁人之事亲也如事天，事天如事亲，是故孝子成身。」公曰：「寡人既闻此言也，无如后罪何？」孔子对曰：「君之及此言也，是臣之福也。」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3162.aspx">上一章</a>
+<a href="/guwen/book_23.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3164.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1691" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

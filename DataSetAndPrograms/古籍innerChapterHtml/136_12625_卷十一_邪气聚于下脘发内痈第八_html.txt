@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷十一·邪气聚于下脘发内痈第八_古诗文网
+</title>
+<meta content="黄帝问曰∶气为上鬲。上鬲者，食入而还出，余已知之矣。虫为下鬲，下鬲者，食时乃出，未得其意，愿卒闻之？岐伯对曰∶喜怒不适，食饮不节，寒温不时，则寒汁留于肠中，留则虫寒，虫寒则积聚，守" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12625.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十一·邪气聚于下脘发内痈第八</b></span>
+<a href="javascript:PlayBookv(12625)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12625" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12625" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　黄帝问曰∶气为上鬲。上鬲者，食入而还出，余已知之矣。虫为下鬲，下鬲者，食时乃出，未得其意，愿卒闻之？岐伯对曰∶喜怒不适，食饮不节，寒温不时，则寒汁留于肠中，留则虫寒，虫寒则积聚，守于下脘，守下脘则肠胃充郭，胃气不营，邪气居之。人食则虫上食，虫上食则下脘虚。下脘虚则邪气胜，胜则积聚以留，留则痈成，痈成则下脘约。</p>
+<p>　　其痈在脘内者，则沉而痛深；其痈在脘外者，则痈外而痛浮，痈上皮热。按其痈，视气所行，先浅刺其傍，稍内益深，还而刺之，无过三行，察其浮沉，以为浅深，已刺必熨，令热入中，日使热内，邪气益衰，大痈乃溃，互以参禁，以除其内，恬淡无为，乃能行气，后服酸苦，化谷乃下鬲矣。曰∶有病胃脘痈者，诊当何如？曰∶诊此者，当候胃脉，其脉当沉涩（《素问》作细）。沉涩者气逆，气逆者则人迎甚盛，甚盛则热。人迎者，胃脉也，逆而盛则热聚于胃口而不行，故胃脘为痈。肝满肾满肺满皆实，则为 。肺痈喘而两胫（《素问》作）满；肝痈两胁（《素问》作 ）下满，卧则惊，不得小便；肾痈 （《素问》作脚）下至少腹满，胫有大小，髀胫跛易偏枯。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12624.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12626.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·暨_古诗文网
+</title>
+<meta content="历史来源　　1、出自以封地名为氏。彭祖的后代在商代做伯爵，他的后代有被封在暨的，在今天的江苏省江阳县东莫乡城，也有说法在常熟县的。他的后代子孙于是就以封地暨为姓，形成暨姓。　　2、" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2651.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>暨</b></span>
+<a href="javascript:PlayBookv(2651)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2651" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2651" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自以封地名为氏。彭祖的后代在商代做伯爵，他的后代有被封在暨的，在今天的江苏省江阳县东莫乡城，也有说法在常熟县的。他的后代子孙于是就以封地暨为姓，形成暨姓。<br/>　　2、出自概氏所改。春秋时吴王夫差的弟弟夫概，其支子以概为氏。后为避仇改为暨氏。又他姓中有的为既姓，而既与暨两字互为通假，经常混用，而有误改暨氏。</p>
+<p><strong>家族名人</strong><br/>　　暨逊：晋代广昌长，字茂言，余杭人。以孝行闻名，被封为关内侯。朝廷为了表扬他的孝行，在他的门前立了一块牌坊旌。<br/>　　暨艳：据《名贤我族言行类稿》提到过一位暨艳。“暨艳，呈郡人，字子休。张温引致之，以为迁曹郎，至尚书，性狷厉，好为清议，见朗署多非其人，欲臧否区别，弹劾否区辊，弹劾百傣，核选三署，率皆贬高就下，降损数等。由是怨愤声积，竟言其专用私情爱赠，不由公理，坐自杀。”<br/>　　暨陶：北宋元丰状元，崇安人，擅长于音律，他的赋很有名，在朝廷任奉议郎。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）暨姓在大陆和台湾都没有列入百家姓前一百位。暨原在上古时的一个地名的一字，这称为诸暨的地方，如今是在江苏省江阴县。后来有贵族受封于诸暨，他的子孙便以封地为姓，简称为暨姓。黄帝的后代中有一个叫彭祖。商朝时，彭祖的后代为爵士，而且受封于诸暨。开初时因为以封地为姓，形成暨氏，另外一说，春秋时越国就有位大夫名叫诸暨郢。在他的子孙中，这个复姓又有分化成诸姓和暨姓两个单姓的，一部分就成了暨姓。还有一说，春秋时，有吴王名夫概，他的子孙中有以概为姓，后来因躲避仇杀被迫改为他姓，其中有的为既姓。而“既”与“暨”两字互为通假，经常混用，所以既氏又可为暨氏。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2650.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2652.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

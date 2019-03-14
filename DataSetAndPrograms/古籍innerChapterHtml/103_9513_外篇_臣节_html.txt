@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+抱朴子·外篇·臣节_古诗文网
+</title>
+<meta content="抱朴子曰:昔在唐虞， 稽古钦明， 犹俟群後之翼亮， 用臻巍巍之成功。 故能熙帝之载， 庶绩欺凝， 四门穆穆， 百揆时序， 蛮夷无猾夏之变， 阿阁有鸣凤之巢也。 喻之元首， 方之股肱" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9513.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>外篇·臣节</b></span>
+<a href="javascript:PlayBookv(9513)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9513" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9513" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e6%b4%aa">葛洪</a></p>
+<div class="contson">
+<p>　　抱朴子曰:昔在唐虞， 稽古钦明， 犹俟群後之翼亮， 用臻巍巍之成功。 故能熙帝之载， 庶绩欺凝， 四门穆穆， 百揆时序， 蛮夷无猾夏之变， 阿阁有鸣凤之巢也。 喻之元首， 方之股肱， 虽有尊卑之殊， 邈实若一体之相赖也。</p>
+<p>　　君必度能而授者， 备乎覆食束之败;臣必量才而受者， 故无流放之祸。 夫如影如响， 俯伏惟命者， 偷容之尸素也。 违令犯颜， 蹇蹇匪躬者， 安上之民翰也。 先意承指者， 佞谄之徒也;匡过弼违者， 社稷之鲠也。 必将伏斧金质而正谏， 据鼎镬而尽言。 忠而见疑， 诤而不得者， 待放可也;必死无补， 将增主过者， 去之可也。</p>
+<p>　　其动也， 匪训典弗据焉;其静也， 匪宪章弗循焉。 请托无所容， 申绳不顾私。 明刑而不滥乎所恨， 审赏而不加乎附己。 不专命以招权， 不含洿而谈洁。 进思尽言以攻谬， 退念推贤而不蔽。 夙兴夜寐， 戚庶事之不康也;俭躬约志， 若策奔於薄冰也。</p>
+<p>　　纳谋贡士， 不宣之於口;非义之利， 不栖之乎心。 立朝则以砥矢为操， 居己则以羔羊为节。 当危值难， 则忘家而不顾命。 擥衡执铨， 则平怀而无彼此。 仪萧曹之指挥， 羡张陈之奇画， 追周勃之尽忠， 准二鲍之直视， 蹈婴弘之节丛， 执恬毅之守终， 甘此离纪炙身之分， 戒彼韩英失忠之祸。 出不辞劳， 入不数功， 归勋引过， 让以先下， 专诚祗栗， 恒若天威之在颜也;宵夙虔竦， 有如汤镬之在侧也。</p>
+<p>　　负荷寄托， 则以伊周为师表;宣力四方， 则以吉召为轨仪;送往视居， 则竭忠贞而不回;搏噬干纪， 则若鹰鹯之鸷鸟雀;蕃捍疆场， 则慕魏绛李牧之高踪;莅众抚民， 则希文翁信臣之德化。 夫忠至者无(原脱一字)以为国， 况怀智以迷上乎? 义督者灭祀而无惮， 况黜辱之敢辞乎? 故能保劳贵以显亲， 托良哉於舆歌。 昆吾彝器， 能者镌勋。 皋陶後稷， 亦何人哉!</p>
+<p>　　抱朴子曰:人臣勋不弘， 则耻俸禄之虚厚也;绩不茂， 则羞爵命之妄高也。 履信思顺， 天人攸赞;畏盈居谦， 乃终有庆。 举足则蹈道度， 抗手则奉绳墨， 褒崇虽淹留， 而悔辱亦必远矣。 若夫损上以附下， 废公以营私， 阿媚曲从， 以水济水， 君举虽谬， 而谄笑赞善。 数进玩好， 陷主於恶。 巧言毁政， 令色取悦， 上蔽人主之明， 下杜进贤之路;外结出境之交， 内树背公之党。 虽才足饰非， 言足文过， 专威若赵高， 擅朝如董卓， 未有不身膏剡锋， 家糜汤火者也。 然而愚瞽舍正即邪， 违真侣伪， 亲览倾偾， 不改其轨， 殃祸之集， 匪降自天也。</p>
+<p>　　抱朴子曰:臣喻股肱， 则手足也。 履冰执热， 不得辞焉。 是以古人方之於地， 掘之则出水泉， 树之则秀百谷;生者立焉， 死者入焉。 功多而不望赏， 劳瘁而不敢怨。 审识斯术， 保己之要也。</p>
+<p>　　抱朴子曰:臣职分则治， 统广则多滞。 非贲获之壮， 不可以举兼人之重;非万夫之特， 不可以总异官之局。 韩侯所以罪侵冒之典， 子元所以惧不胜之祸也。 若乃才力绝伦， 文武兼允， 入有腹心之高算， 出有折冲之远略， 虽事殷而益举， 两循而俱济， 舍之则彝伦斁， 委之而无其人者， 兼之可也;非此器也， 宜自忖引， 辕若载重， 鲜不及矣。 常人贪荣， 不虑後患， 身既倾溺， 而祸逮君亲， 不亦哀哉! 人皆辞斧斤所未开， 而莫让摄官所不堪。 嗟乎! 陈李所以作戒於力少， 而子房所以高蹈於挹盈也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9512.aspx">上一章</a>
+<a href="/guwen/book_103.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9514.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷七·郭秀才_古诗文网
+</title>
+<meta content="东粤士人郭某，暮自友人归，入山迷路，窜榛莽中。约更许，闻山头笑语，急趋之，见十余人藉地饮。望见郭，哄然曰：“坐中正欠一客，大佳，大佳！”郭既坐，见诸客半儒巾，便请指迷。一人笑曰：“" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11662.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·郭秀才</b></span>
+<a href="javascript:PlayBookv(11662)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11662" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11662" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　东粤士人郭某，暮自友人归，入山迷路，窜榛莽中。约更许，闻山头笑语，急趋之，见十余人藉地饮。望见郭，哄然曰：“坐中正欠一客，大佳，大佳！”郭既坐，见诸客半儒巾，便请指迷。一人笑曰：“君真酸腐！舍此明月不赏，何求道路？”即飞一觥来。郭饮之，芳香射鼻，一引遂尽。又一人持壶倾注。郭故善饮，又复奔驰吻燥，一举十觞。众人大赞曰：“豪哉！真吾友也！”郭放达喜谑，能学禽语，无不酷肖。离坐起溲，窃作燕子鸣。众疑曰：“半夜何得此耶？”又效杜鹃，众益疑。郭坐，但笑不言。方纷议问，郭回首为鹦鹉鸣曰：“郭秀才醉矣，送他归也！”众惊听，寂不复闻；少顷又作之。既而悟其为郭，始大笑。皆撮口从学，无一能者。一人曰：“或惜青娘子未至。”又一人曰：“中秋还集于此，郭先生不可不来。”郭敬诺。一人起曰：“客有绝技，我等亦献踏肩之戏，若何？”于是哗然并起。前一人挺身矗立；即有一人飞登肩上，亦矗立；累至四人，高不可登；继至者，攀肩踏臂如缘梯状。十余人顷刻都尽，望之可接霄汉。方惊顾间，挺然倒地，化为修道一线。郭骇立良久，遵道得归。翼日腹大痛，溺绿色似铜青，着物能染，亦无潮气，三日乃已。往验故处，则肴骨狼藉，四围丛莽，并无道路。至中秋郭欲赴约，朋友谏止之。设斗胆再往一会青娘子，必更有异，惜乎其见之摇也！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11661.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11663.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

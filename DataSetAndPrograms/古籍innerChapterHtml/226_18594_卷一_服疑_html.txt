@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷一·服疑_古诗文网
+</title>
+<meta content="衣服疑者，是谓争先；泽厚疑者，是谓争赏；权力疑者，是谓争强；等级无限，是谓争尊。彼人者，近则冀幸，疑则比争。是以等级分明，则下不得疑；权力绝尤，则臣无冀志。故天子之于其下也，加五等" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18594.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·服疑</b></span>
+<a href="javascript:PlayBookv(18594)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18594" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18594" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　衣服疑者，是谓争先；泽厚疑者，是谓争赏；权力疑者，是谓争强；等级无限，是谓争尊。彼人者，近则冀幸，疑则比争。是以等级分明，则下不得疑；权力绝尤，则臣无冀志。故天子之于其下也，加五等，已往则以为臣；臣之于下也，加五等，已往则以为仆。仆亦臣礼也。然称仆不敢称臣者，尊天子、避嫌疑也。</p>
+<p>　　制服之道，取至适至和以予民，至美至神进之帝。奇服文章，以等上下而差贵贱。是以高下异，则名号异，则权力异，则事势异，则旗章异，则符瑞异，则礼宠异，则秩禄异，则冠履异，则衣带异，则环佩异，则车马异，则妻妾异，则泽厚异，则宫室异，则床席异，则器皿异，则饮食异，则祭祀异，则死丧异。故高则此品周高，下则此品周下。加人者品此临之，埤人者品此承之。迁则品此者进，绌则品此者损。贵周丰，贱周谦，贵贱有级，服位有等，等级既设，各处其检，人循其度，擅退则让，上僭则诛。建法以习之，设官以牧之，是以天下见其服而知贵贱，望其章而知其势。使人定其心，各著其目，故众多而天下不眩，传远而天下识祗。卑尊已著，上下已分，则人伦法矣。于是主之与臣，若日之与星。臣不几可以疑主，贱不几可以冒贵。下不凌等，则上位尊；臣不逾级，则主位安；谨守伦纪，则乱无由生。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18593.aspx">上一章</a>
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18595.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

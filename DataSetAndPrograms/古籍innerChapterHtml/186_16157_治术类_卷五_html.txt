@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·治术类·卷五_古诗文网
+</title>
+<meta content="◎安顿穷人治国之道，第一要务在安顿穷人。昔陈文恭公宏谋抚吴，禁妇女入寺烧香，三春游屐寥寥，舆夫、舟子、肩挑之辈无以谋生，物议哗然，由是弛禁。胡公文伯为苏藩，禁开戏馆，怨声载道。金阊" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16157.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>治术类·卷五</b></span>
+<a href="javascript:PlayBookv(16157)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16157" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16157" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎安顿穷人</p>
+<p>　　治国之道，第一要务在安顿穷人。昔陈文恭公宏谋抚吴，禁妇女入寺烧香，三春游屐寥寥，舆夫、舟子、肩挑之辈无以谋生，物议哗然，由是弛禁。胡公文伯为苏藩，禁开戏馆，怨声载道。金阊商贾云集，宴会无时，戏馆、酒馆凡数十处，每日演剧，养活小民不下数万人，此原非犯法事，禁之何益于治？昔苏子瞻治杭，以工代赈，今则以风俗之所甚便，而阻之不得行，其害有不可言者。</p>
+<p>　　由此推之，苏郡五方杂处，如寺院、戏馆、游船、青楼、蟋蟀、鹌鹑等局，皆穷人之大养济院，一旦令其改业，则必至流为游棍，为乞丐、为盗贼，害无底止，不如听之。潘榕皋农部《游虎丘冶坊浜》诗云：“人言荡子销金窟，我道贫民觅食乡。”真仁者之言也。</p>
+<p>　　◎姚毕二公胆识</p>
+<p>　　地方猝遇有事，全在大吏持重不扰，以全民命，然此非有绝大胆识者不能。余尝闻姚小坡、毕秋帆两公逸事，云：乾隆甲午，山东王伦滋事，抚军徐剿贼不克，在东昌堵御；姚公时官河帅，亦在东昌府城。东门外人烟稠密，南北往来水衢，一都会也。贼传檄将于某日来攻城。是夜抚军及河帅俱在城上，见东门外火起，抚军疑贼至，促令放炮，姚公曰：“事未探实，万一误放，则城外生灵涂炭矣。”相持不已。抚军欲手自燃火，姚公从后掣其肘。未几报至，果民居失火，非贼也。东门外居民幸得保全，姚公之力也。</p>
+<p>　　秋帆尚书抚陕时，甘肃回人不靖，阿相国奉命率师往剿。省垣有张回子者，系内地回人之首，家赀百万，素与尚书往来。一日，方与藩皋议事，司阍者传进军报一封，尚书启视，即置靴内，神色自若。藩皋出，令传巡捕进，谓曰：“汝以我名柬请张回子来。”张至，以军报与阅，张皇遽伏地，请收付狱。尚书曰：“我欲收汝，不请汝来矣。我固知汝之必不反也，我将以全家百口保汝。”张叩头出。后知阿相国于军前擒得活口，讯之，词连及张，阿相已入奏，特札知陕抚令密收之。尚书即具疏以全家保其不反，事遂得寝。</p>
+<p>　　此二事昔得吴昙绣光禄师所言，观此可以知大臣坐镇之功矣。师谓姚公之事，犹详慎者所能为；若毕公者处置尤难，保全尤大。盖是时西安方修省城，回人之居内地者不下数万，以张之豪富，诸回皆其族属，若非毕公推诚开示如此，则省中数万回民，其能安坐无事哉？</p>
+<p>　　◎呼名批颊</p>
+<p>　　佟中丞凤彩巡抚河南，年已老，每日五鼓燃烛治文书，或坐倦假寐，少顷辄矍然起，自呼其名曰：“佟某，汝为朝廷大臣，封疆之重皆汝肩之，奈何老不任事若此？”辄以手批颊数四，侍者为之悚栗。中丞在豫，如论罢修河夫役，协济柳梢，及调剂西征大兵，秋毫无犯。豫人感其德者，犹绘像祀之。</p>
+<p>　　◎李恭勤</p>
+<p>　　清代汉名臣中，其以赀郎进者二人，一为李敏达公卫，一为李恭勤公世杰。公贵州黔西州人，少入赀为江南某司巡检。纯皇帝南巡，公司船跳木。时雨后泥滑，上登舟时偶失足，公遽起扶之。督抚恐，缚公请命，上笑曰：“微员中有如此忠爱者。”命立擢知州，后官至四川、江南总督，以廉能称职。纯皇帝屡欲以为阁臣，有尼之者，言公不由科目，例不可官内阁，乃中止。</p>
+<p>　　公督川时，蜀中自金川用兵以来，府库空竭，又承福文襄王积奢侈后，征调赋敛无艺，州郡皆疲敝。公设厉禁，凡府州县，无事不复入成都郡，即以公事来者不过数日，不得蓄音乐、侈宴会；不得饰舆马衣服；朝珠之香楠犀碧、蟒服之刻丝顾绣者，皆有禁。公官总督数年，未尝宴一客。成都将军新莅任，公思不为置酒则太恝，置则破禁，遂乘其家口抵任时馈一蒸豚、一烧羊，使标下武弁婉告曰：“本欲屈入署，适闻眷属至，谨以此佐家宴。”属吏白布政使以下，亦未始具一饭。</p>
+<p>　　元日，则先饬厨为饣毕饣罗十数斛，有下属谒见者，公遣人告曰：“知君等劳苦，当饷以食。”遂设食，饲之毕，公然后出坐堂皇，受礼毕，即令府厅州县等递谒。司道府厅礼毕，告曰：“元日俗例，上司属员虽不接见，亦必肩舆到门。道有远近，必日昃始归，徒苦傔从，无益也。况若曹亦有父母妻子，岁首例得给假，诸君何不早归，令若曹亦放假半日乎？”属员皆应曰：“诺。”</p>
+<p>　　于是元日虚文始革，其风趣也如此。及督两江时，福文襄王征台湾，檄调各督抚府库饷银，他人无不应命，惟公力持不与，曰：“不见部文征拨，誓不敢发此饷，有亏朝廷之府库也。”福亦无如之何。其严厉又如此。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16156.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16158.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

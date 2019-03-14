@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷三·脉法解·寸口脉法_古诗文网
+</title>
+<meta content="饮食入胃，腐化消磨，手太阴散其精华，游溢经络，以化气血。气血周流，现于气口，以成尺寸。气口者，手太阴肺经之动脉也。关前为寸，关后为尺，尺为阴而寸为阳。关者，阴阳之中气也。寸口在鱼际" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18508.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·脉法解·寸口脉法</b></span>
+<a href="javascript:PlayBookv(18508)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18508" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18508" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　饮食入胃，腐化消磨，手太阴散其精华，游溢经络，以化气血。气血周流，现于气口，以成尺寸。</p>
+<p>　　气口者，手太阴肺经之动脉也。关前为寸，关后为尺，尺为阴而寸为阳。关者，阴阳之中气也。寸口在鱼际之分，关上在太渊之分，尺中在经渠之分。</p>
+<p>　　心与小肠，候于左寸，肺与大肠，候于右寸。肝胆候于左关，脾胃候于右关。肾与膀胱候于两尺，心主三焦，随水下蛰，亦附此焉。《素问·脉要精微论》：尺内两傍，则季胁也。尺外以候肾，尺里以候腹。中附上，左外以候肝，内以候膈，右外以候胃，内以候脾，两关部也。上附上，右外以候肺，内以候胸中，左外以候心，内以候膻中，两寸部也。前以候前，后以候后。上竟上者，胸喉中事也。下竟下者，少腹腰股膝胫足中事也。谨调尺寸，而表里上下，于此得矣。</p>
+<p>　　盖肺主藏气，而朝百脉，十二经之气，皆受之于肺。平旦寅初，肺气流布，起于寸口，运行十二经中，周而复始。一日一夜，五十度毕，次日平旦寅初，复会于寸口。寸口者，脉之大会，此曰寸口，乃寸尺三部之总名，非但鱼际已也。故十二经之盛衰，悉见于此。《灵枢·经脉》：经脉者，常不可见也，其虚实也，以气口知之。此气口所以独为五藏主也。气口即寸口。手之三阳，自手走头，大小肠府虽至浊，而经行头上，则为至清，故与心肺同候于两寸。越人十难，实为定法。近人乃欲候大小肠于两尺，乖谬极矣！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18507.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18509.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

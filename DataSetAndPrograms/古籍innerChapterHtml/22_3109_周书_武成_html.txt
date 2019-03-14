@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+尚书·周书·武成_古诗文网
+</title>
+<meta content="武王伐殷。往伐归兽，识其政事，作《武成》。惟一月壬辰，旁死魄。越翼日，癸巳，王朝步自周，于征伐商。厥四月，哉生明，王来自商，至于丰。乃偃武修文，归马于华山之阳，放牛于桃林之野，示天" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3109.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2033" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>周书·武成</b></span>
+<a href="javascript:PlayBookv(3109)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3109" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2033)" id="leftbtn2033" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3109" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　武王伐殷。往伐归兽，识其政事，作《武成》。</p>
+<p>　　惟一月壬辰，旁死魄。越翼日，癸巳，王朝步自周，于征伐商。</p>
+<p>　　厥四月，哉生明，王来自商，至于丰。乃偃武修文，归马于华山之阳，放牛于桃林之野，示天下弗服。</p>
+<p>　　丁未，祀于周庙，邦甸、侯、卫，骏奔走，执豆、笾。越三日，庚戌，柴、望，大告武成。</p>
+<p>　　既生魄，庶邦冢君暨百工，受命于周。</p>
+<p>　　王若曰：「呜呼，群后！惟先王建邦启土，公刘克笃前烈，至于大王肇基王迹，王季其勤王家。我文考文王克成厥勋，诞膺天命，以抚方夏。大邦畏其力，小邦怀其德。惟九年，大统未集，予小子其承厥志。厎商之罪，告于皇天、后土、所过名山、大川，曰：『惟有道曾孙周王发，将有大正于商。今商王受无道，暴殄天物，害虐烝民，为天下逋逃主，萃渊薮。予小子既获仁人，敢祗承上帝，以遏乱略。华夏蛮貊，罔不率俾。恭天成命，肆予东征，绥厥士女。惟其士女，篚厥玄黄，昭我周王。天休震动，用附我大邑周。惟尔有神，尚克相予以济兆民，无作神羞！既戊午，师逾孟津。癸亥，陈于商郊，俟天休命。甲子昧爽，受率其旅若林，会于牧野。罔有敌于我师，前途倒戈，攻于后以北，血流漂杵。一戎衣，天下大定。乃反商政，政由旧。释箕子囚，封比干墓，式商容闾。散鹿台之财，发钜桥之粟，大赉于四海，而万姓悦服。」</p>
+<p>　　列爵惟五，分土惟三。建官惟贤，位事惟能。重民五教，惟食、丧、祭。惇信明义，崇德报功。垂拱而天下治。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3108.aspx">上一章</a>
+<a href="/guwen/book_22.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3110.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2033" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

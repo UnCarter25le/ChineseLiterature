@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·泰州学案·处士耿楚倥先生定理_古诗文网
+</title>
+<meta content="耿定理字子庸，号楚倥，天台之仲弟也。少时读书不成，父督过之，时时独行空谷中，忧愤不知所出。问之则曰：“吾奈何不明白？若有眼瞎子。”不知其所谓不明白者何也。自是或静坐一室，终岁不出；" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14621.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>泰州学案·处士耿楚倥先生定理</b></span>
+<a href="javascript:PlayBookv(14621)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14621" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14621" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　耿定理字子庸，号楚倥，天台之仲弟也。少时读书不成，父督过之，时时独行空谷中，忧愤不知所出。问之则曰：“吾奈何不明白？若有眼瞎子。”不知其所谓不明白者何也。自是或静坐一室，终岁不出；或求友访道，累月忘归。其始事方湛一，最后於邓豁渠得一切平实之旨，能收视返听；於何心隐得黑漆无入无门之旨，充然自足。有问之者曰：“闻子欲作神仙耶？”曰：“吾作天仙，不作地仙。”曰：“天仙云何？”曰：“直从太极入，不落阴阳五行。”天台闻而呵之曰：“学不向事亲从兄实地理会乎？”曰：“学有原本，尧、舜相传，祇是一中。子思为之註曰：‘喜怒哀乐未发之谓中。’今人孰从未发前觑一目哉？”曰：“《中庸》亦只言庸言庸行达道九经而已。”曰：“独不观其结语为无声无臭耶？”先生论学，不烦言说，当机指点，使人豁然於罔指之下。卓吾好谈说，先生不发一言，临别谓之曰：“如何是自以为是不可入尧、舜之道？”卓吾默然。天台携之见刘初泉先生，云：“且勿言我二人是兄弟。”时初泉卧病，天台言“吾与一医者同来。”先生榻前数语，初泉惊起，已知为天台之弟，谓天台曰：“慧能和尚乃是舂米汉哉！大开眼人，恐不可以弟畜之。”李士龙来访，先生未与一语及学，士龙恚曰：“吾冒险千里来此，踰月不闻一言见教，何外我甚？”先生笑而不答。濒行，送之河浒，问曰：“孔子云：‘不曰如之何，如之何。’此作何解？”士龙举朱《註》云云。先生曰：“毕竟是‘不曰如之何，如之何’者。”士龙因有省。京师大会，举中义相质，在会各呈所见，先生默不语。忽从座中崛起拱立曰：“请诸君观中。”因叹曰：“舍当下言中，沾沾於书本上觅中，终生罔矣。”在会因有省者。先生机锋迅利如此。</p>
+<p>　　楚倥论学语</p>
+<p>　　庐山驳天台所性不存语，谓“当官尽职，即为尽性，不则为二心，为妄念矣。即孔子为委吏，莫非性之所存。”楚倥曰：“孔子为委吏而梦周公，却不为二心，为妄念乎？”</p>
+<p>　　卓吾寓周柳塘湖上，一日论学，柳塘谓：“天台重名教，卓吾识真机。”楚倥诮柳塘曰：“拆篱放犬。”</p>
+<p>　　楚倥早岁曾遇异人，质之曰：“孔子问礼于老聃，老聃不言礼，而直曰：‘良贾深藏若虚，盛德容貌若愚’，何也？”曰：“若愚若虚，此礼之真体也。”</p>
+<p>　　问：“伊尹先觉，所觉何事？”曰：“伊尹之觉，非闻见知解之觉也，即其若挞之耻，纳沟之痛，此其觉也。”</p>
+<p>　　胡庐山会天台、楚倥於汉江之浒，相与订学宗旨。天台曰：“以常知为学。”庐山曰：“吾学以无念为宗。”楚倥曰：“吾学以不容已为宗。不容已者，从无声无臭发根，从庸言庸行证果。禹、稷之犹饥犹溺，伊尹之若挞若沟，视亲骸而泚颡，遇呼蹴而不屑，见入井而怵惕，原不知何来，委不知何止，天命之性如此也，故曰‘於穆不已’。如摸拟孔氏之匡廓，非此不容已者为之血脉，则捧土揭木为偶人而已。”</p>
+<p>　　孔氏之无声无臭，亦是有形有象；孔氏之有形有象，原自无声无臭。</p>
+<p>　　龙溪言：“颜子心常止，故不迁；心常一，故不贰。”先生曰：“否。人试观当怒时，中更有个止体在；当过时，中更有个一体在，是二本也。即能之，其怒其过，非真机矣。颜子所好唯学，即生平之怒，以学而怒，学外无怒也。生平之过。以学而过，学外无过也。可见一生精神，只是此学，更无渗漏处也。”</p>
+<p>　　默识，识天地之化育也。夫囿于造化之中，而不自识者，凡夫也。识之，而出入造化者，圣人也。是故不藉名位，不务功能，即学以诲，即诲以学，立己立人，达己达人，盖赞天地之化育於无疆矣。夫赞天地之化育者，非独上之君相贤圣，即下之农工商贾，细之聋瞽侏跛，凡寓形宇内而含灵者，皆有以赞天地之化育而不自识也。</p>
+<p>　　克己者，无我也。无我则浑然天下一体矣，故曰“天下归仁”。羲、文、周、孔四圣人者之于《易》，亦各言其己也。道虽一致，而时位不同，故作用亦自不同。随时变易以从道，俟之万世而不惑不谬者，其孔《易》乎？孔子之于《易》也，学焉耳。试取大、小象传玩之，卦，卦学也，爻，爻学也，学不厌，教不倦，立己立人，达己达人，《易》之生生也如是。</p>
+<p>　　潜、见、惕、跃、飞、亢，自圣人一身观之，随时变易，时象之矣。合千圣观之，与世推移，各一象矣。</p>
+<p>　　《序卦》，周《易》也，首《乾》、《坤》，终《未济》，即周事可覩矣。《杂卦》序孔《易》也，上经首《乾》、《坤》，次《比》、《师》，次《临》、《观》，而终之《困》，下经首《咸》、《恒》，而终之《夬》。何以明孔《易》也？乾刚坤柔，质弗齐也，刚柔善恶，均归之中，孔氏之教也。比以类聚，故乐；师任裁成，宁无忧乎？或智临于上，或相观以摩，无行不与，有求则应，教乃知困也。感之无心，居之有恒，终以刚决柔，纯乎乾矣。是师道也，亦君道也。</p>
+<p>　　天台因举扇悟曰：“原来通体皆是良知，通天彻地，皆是良知。”</p>
+<p>　　天台曰：“人言念菴静坐，曾见光景，遂有所得。”曰：“只理会当下光景耳。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14620.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14622.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

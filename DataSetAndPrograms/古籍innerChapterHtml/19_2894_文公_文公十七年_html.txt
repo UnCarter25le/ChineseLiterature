@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·文公·文公十七年_古诗文网
+</title>
+<meta content="【经】十有七年春，晋人、卫人、陈人、郑人伐宋。夏四月癸亥，葬我小君声姜。齐侯伐我西鄙。六月癸未，公及齐侯盟于谷。诸侯会于扈。秋，公至自谷。冬，公子遂如齐。 【传】十七年春，晋荀林父" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2894.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1420" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>文公·文公十七年</b></span>
+<a href="javascript:PlayBookv(2894)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2894" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1420)" id="leftbtn1420" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2894" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】十有七年春，晋人、卫人、陈人、郑人伐宋。夏四月癸亥，葬我小君声姜。齐侯伐我西鄙。六月癸未，公及齐侯盟于谷。诸侯会于扈。秋，公至自谷。冬，公子遂如齐。 </p>
+<p>　　【传】十七年春，晋荀林父、卫孔达、陈公孙宁、郑石楚伐宋。讨曰：「何故弑君！」犹立文公而还，卿不书，失其所也。 </p>
+<p>　　夏四月癸亥，葬声姜。有齐难，是以缓。 </p>
+<p>　　齐侯伐我北鄙，襄仲请盟。六月，盟于谷。 </p>
+<p>　　晋侯蒐于黄父，遂复合诸侯于扈，平宋也。公不与会，齐难故也。书曰「诸侯」，无功也。</p>
+<p>　　于是，晋侯不见郑伯，以为贰于楚也。 </p>
+<p>　　郑子家使执讯而与之书，以告赵宣子，曰：「寡君即位三年，召蔡侯而与之事君。九月，蔡侯入于敝邑以行。敝邑以侯宣多之难，寡君是以不得与蔡侯偕。十一月，克灭侯宣多而随蔡侯以朝于执事。十二年六月，归生佐寡君之嫡夷，以请陈侯于楚而朝诸君。十四年七月，寡君又朝，以蒇陈事。十五年五月，陈侯自敝邑往朝于君。往年正月，烛之武往朝夷也。八月，寡君又往朝。以陈、蔡之密迩于楚而不敢贰焉，则敝邑之故也。虽敝邑之事君，何以不免？在位之中，一朝于襄，而再见于君。夷与孤之二三臣相及于绛，虽我小国，则蔑以过之矣。今大国曰：『尔未逞吾志。』敝邑有亡，无以加焉。古人有言曰：『畏首畏尾，身其馀几。』又曰：『鹿死不择音。』小国之事大国也，德，则其人也；不德，则其鹿也，铤而走险，急何能择？命之罔极，亦知亡矣。将悉敝赋以待于鯈，唯执事命之。 </p>
+<p>　　文公二年六月壬申，朝于齐。四年二月壬戌，为齐侵蔡，亦获成于楚。居大国之间而从于强令，岂其罪也。大国若弗图，无所逃命。」 </p>
+<p>　　晋巩朔行成于郑，赵穿、公婿池为质焉。 </p>
+<p>　　秋，周甘蜀败戎于垂，乘其饮酒也。 </p>
+<p>　　冬十月，郑大子夷、石楚为质于晋。 </p>
+<p>　　襄仲如齐，拜谷之盟。复曰：「臣闻齐人将食鲁之麦。以臣观之，将不能。齐君之语偷。臧文仲有言曰：『民主偷必死』。」 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2893.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2895.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1420" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

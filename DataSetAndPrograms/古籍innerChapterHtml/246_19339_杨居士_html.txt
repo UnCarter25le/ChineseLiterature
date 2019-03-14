@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·杨居士_古诗文网
+</title>
+<meta content="南海郡有杨居士，亡其名，以居士自目。往往游南海枝郡，常寄食于人，亦不知其所止。谓人曰：“我有奇术，汝辈庸人，固不得而识矣。”后常至郡，会太守好奇者，闻居士来，甚喜，且厚其礼，命饮之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19339.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>杨居士</b></span>
+<a href="javascript:PlayBookv(19339)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19339" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19339" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　南海郡有杨居士，亡其名，以居士自目。往往游南海枝郡，常寄食于人，亦不知其所止。谓人曰：“我有奇术，汝辈庸人，固不得而识矣。”后常至郡，会太守好奇者，闻居士来，甚喜，且厚其礼，命饮之。每宴游，未尝不首召居士。居士亦以此自负。一日，使酒忤太守，太守不能容。后又会宴于郡室，阅妓乐，而居士不得预。时有数客，亦不在太守召中，因谓居士曰：“先生尝自负有奇术，某向者仰望之不暇，一日遇先生于此，诚幸矣。虽然，今闻太守大宴客于郡斋，而先生不得预其间，即不能设一奇术以动之乎必先生果无奇术耶！”居士笑曰：“此末术耳。”君试观我，我为君召其妓，可以佐酒。”皆曰：“愿为之。”居士因命具酒，使诸客环席而坐，又命小童闭西庑空室。久之乃启之，有三四美人自庑下来，装饰华焕，携乐而至。居士曰：“某之术何如？”诸客人大异之，殆不可测，乃命列坐，奏乐且歌。客或讯其术，居士但笑而不答。时昏晦，至夜分，居士谓诸妓曰：“可归矣。”于是皆起，入西庑下空室中。客相目骇叹，然尚疑其鬼物妖惑。明日，有郡中吏曰：“太守昨夕宴郡阁，妓乐列坐，无何皆仆地。瞬息暴风起，飘其乐器而去。迨至夜分，诸妓方寤，乐器亦归于旧所。太守质问众妓，皆云黑无所见，竟不穷其由。”诸客皆大惊，因尽以事对，或告于太守，太守叹异，即谢而遣之，不敢留于郡中。时开成初也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19338.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19340.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·金部·密陀僧_古诗文网
+</title>
+<meta content="释名亦名没多僧、炉底。气味咸、辛、平、有小毒。主治痰结胸中不散。用密陀僧一两，加醋和水各一碗，煎干，研为末。每服取末二钱，以酒和水各一小碗，煎成一碗，趁热服下。以吐出痰涎为好。消渴" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1469.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>金部·密陀僧</b></span>
+<a href="javascript:PlayBookv(1469)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1469" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1469" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>亦名没多僧、炉底。<br/>气味咸、辛、平、有小毒。</p>
+<p><strong>主治</strong><br/>痰结胸中不散。用密陀僧一两，加醋和水各一碗，煎干，研为末。每服取末二钱，以酒和水各一小碗，煎成一碗，趁热服下。以吐出痰涎为好。<br/>消渴饮水。用密陀僧二两，研末，在开水中浸过，取出，加一点蒸饼做成丸子，如梧子大。服时用浓蚕茧盐汤、或茄根汤、或酒送下都行。第一天吃五丸，以后每天增加九丸，直到一次吃到三十丸为止，不可多服，五、六次后，如见水恶心，即可停药。恶心时可吃点干食压一下。<br/>赤白下痢。用密陀僧三两，烧成黄色，取出研细，每服一钱，醋茶送下，一天吃三次。<br/>痔瘘。用铜青、密陀僧各一钱，麝香少许，共研细，以口水调和涂患处。<br/>婴儿泡疮(遍身象鱼鳔，又象水晶，破则流水，疮又再生)。用密陀僧研末洒敷，内服苏合香丸。<br/>惊气失音。用密陀要一茶匙，茶调服，即愈。<br/>腋下狐臭。先洗净腋下，油调密陀僧末涂上。另用一钱密陀僧末放入热蒸饼中，夹在腋下。<br/>口臭。用密陀僧末一钱，醋调漱口。<br/>口疮。用煅过的密陀僧，研末，敷疮上。<br/>鼻内生疮。用密陀僧、香白芷，等分研末，蜡烛油调涂患处。<br/>一切黑瘢。用密陀僧二两，研细，人乳调搽。夜间搽药，白天洗去。<br/>夏月汗斑如疹。用密陀僧八钱、雄黄四钱，共研细。先以姜片擦皮肤发热，再用此姜片蘸药粉擦汗斑。次日斑疹焦枯。<br/>骨疽(一名“多骨疮”，疮内不时露出细骨) 。用密陀僧末加桐油调匀，摊贴患处。<br/>臁疮。用密陀僧末加香油调成膏，摊在油纸上反复贴患处。</p>
+<p><strong>附方</strong><br/>密陀僧和铅丹，功用大致相似：坠痰、定惊、拔毒，是主要的。膏药中常用密陀僧代替铅丹。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1468.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1470.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

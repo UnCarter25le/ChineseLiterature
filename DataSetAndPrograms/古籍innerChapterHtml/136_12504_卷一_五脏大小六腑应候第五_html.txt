@@ -1,0 +1,115 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷一·五脏大小六腑应候第五_古诗文网
+</title>
+<meta content="黄帝问曰∶人俱受气于天，其有独尽天寿者，不免于病者，何也？岐伯对曰∶五脏者固有大小高下坚脆端正偏倾者，六腑亦有大小长短浓薄结直缓急者。凡此二十五变者，各各不同，或善或恶，或吉或凶也" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12504.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·五脏大小六腑应候第五</b></span>
+<a href="javascript:PlayBookv(12504)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12504" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12504" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　黄帝问曰∶人俱受气于天，其有独尽天寿者，不免于病者，何也？岐伯对曰∶五脏者固有大小高下坚脆端正偏倾者，六腑亦有大小长短浓薄结直缓急者。凡此二十五变者，各各不同，或善或恶，或吉或凶也。</p>
+<p>　　心小则安，邪弗能伤（《太素》云外邪不能伤），易伤于忧；心大则忧弗能伤，易伤于邪（《太素》亦作外邪）；心高则满于肺中，闷而善忘，难开以言；心下则脏外，易伤于寒，易恐以言；心坚则脏安守固；心脆则善病消瘅热中；心端正则和利难伤；心偏倾则操持不一，无守司也。（杨上善云∶心脏言神有八变，后四脏但言脏变不言神变者，以神为魂魄意之主，言其神变则四脏可知，故略而不言也。）</p>
+<p>　　肺小则少饮，不病喘（一作喘喝）；肺大则多饮，善病胸痹逆气；肺高则上气喘息咳逆；肺下则逼贲迫肺，善胁下痛；肺坚则不病咳逆上气；肺脆则善病消瘅易伤也（一云易伤于热喘息鼻衄）；肺端正则和利难伤；肺偏倾则病胸胁偏痛。</p>
+<p>　　肝小则安，无胁下之病；肝大则逼胃迫咽，迫咽则善（一作苦）膈中，且胁下痛；肝高则上支贲加胁下急，为息贲；肝下则逼胃，胁下空，空则易受邪；肝坚则脏安难伤；肝脆则善病消瘅易伤；肝端正则和利难伤；肝偏倾则胁下偏痛。</p>
+<p>　　脾小则安，难伤于邪；脾大则苦腠 （音停）而痛，不能疾行；脾高则 引季胁而痛；脾下则下加于大肠，下加于大肠则脏外易受邪；脾坚则脏安难伤；脾脆则善病消瘅易伤；脾端正则和利难伤；脾偏倾则螈 善胀。</p>
+<p>　　肾小则安难伤；肾大则（一本云耳聋或鸣，汁出）善病腰痛，不可以俯仰，易伤于邪；肾高则善病腰膂痛，不可以俯仰（一本云背急缀耳脓血出或生肉塞）；肾下则腰尻痛，不可俯仰，为狐疝；肾坚则不病腰痛；肾脆则善病消瘅易伤；肾端正则和利难伤；肾偏倾则善腰尻痛。凡此二十五变者，人之所以善常病也。</p>
+<p>　　曰∶何以知其然？曰∶赤色小理者心小，粗理者心大，无 者心高，小短举者心下， 长者心坚， 弱小以薄者心脆，直下不举者心端正， （一作面）一方者心偏倾。</p>
+<p>　　白色小理者肺小，粗理者肺大，巨肩反（一作大）膺陷喉者肺高，合腋张胁者肺下，好肩背浓者肺坚，肩背薄者肺脆，背膺浓者肺端正，膺偏竦（一作欹）者肺偏倾。</p>
+<p>　　青色小理者肝小，粗理者肝大，广胸反 者肝高，合胁脆 者肝下，胸胁好者肝坚，胁骨弱者肝脆，膺胁腹好相得者肝端正，胁骨偏举者肝偏倾。</p>
+<p>　　黄色小理者脾小，粗理者脾大，揭唇者脾高，唇下纵者脾下，唇坚者脾坚，唇大而不坚者脾脆，唇上下好者脾端正，唇偏举者脾偏倾。</p>
+<p>　　黑色小理者肾小，粗理者肾大，耳高者肾高，耳后陷者肾下，耳坚者肾坚，耳薄不坚者肾脆，耳好前居牙车者肾端正，耳偏高者肾偏倾。凡此诸变者，持则安，减则病也。</p>
+<p>　　曰∶愿闻人之有不可病者，至尽天寿，虽有深忧大恐怵惕之志，犹弗能感也，大寒甚热弗能伤也；其有不离屏蔽室内，又无怵惕之恐，然不免于病者何也？曰∶五脏六腑，邪之舍也。五脏皆小者，少病，善焦心，人愁忧。五脏皆大者，缓于事，难使以忧。五脏皆高者，好高举措。五脏皆下者，好出人下。五脏皆坚者，无病。五脏皆脆者，不离于病。五脏皆端正者，和利得人心。五脏皆偏倾者，邪心善盗，不可为人，平反复言语也。</p>
+<p>　　曰∶愿闻六腑之应。曰∶肺合大肠，大肠者，皮其应也。《素问》曰∶肺之合皮也，其荣毛也，其主心也。下章言肾之应毫毛，于义为错。</p>
+<p>　　心合小肠，小肠者，脉其应也。《素问》曰∶心之合脉也，其荣色也，其主肾也。其义相顺。</p>
+<p>　　肝合胆，胆者，筋其应也。《素问》曰∶肝之合筋也，其荣爪也，其主肺也。其义相顺。</p>
+<p>　　脾合胃，胃者，肉其应也。《素问》曰∶脾之合肉也，其荣唇也，其主肝也。其义相顺。</p>
+<p>　　肾合三焦膀胱，三焦膀胱者，腠理毫毛其应也。《九卷》又曰∶肾合骨。《素问》曰∶肾之合骨也，其荣发也，其主脾也。其义相同。</p>
+<p>　　曰∶应之奈何？曰∶肺应皮。皮浓者大肠浓，皮薄者大肠薄，皮缓腹里大者大肠缓而长，皮急者大肠急而短，皮滑者大肠直，皮肉不相离者大肠结。</p>
+<p>　　心应脉。皮浓者脉浓，脉浓者小肠浓，皮薄者脉薄；脉薄者小肠薄；皮缓者脉缓，脉缓者小肠大而长；皮薄而脉波小者；小肠小而短；诸阳经脉皆多纡曲者，小肠结。</p>
+<p>　　脾应肉。肉 坚大者胃浓，肉 么者胃薄，肉 小而么者胃不坚，肉不称其身者胃下，胃下者小脘约不利，（《太素》作下脘未约。）肉 不坚者胃缓，肉 无小裹 标紧，（一本作无小裹累）者胃急，肉 多小裹（一本亦作累字）者胃结，胃结者上脘约不利。</p>
+<p>　　肝应筋。爪浓色黄者胆浓，爪薄色红者胆薄，爪坚色青者胆急，爪濡色赤者胆缓，爪直色白无约者胆直，爪恶色黑多文者胆结。</p>
+<p>　　肾应骨。密理浓皮者三焦膀胱浓，粗理薄皮者三焦膀胱薄，腠理疏者三焦膀胱缓，皮急而无毫毛者三焦膀胱急，毫毛美而粗者三焦膀胱直，稀毫毛者三焦膀胱结。</p>
+<p>　　曰∶薄浓美恶皆有其形，愿闻其所病。曰∶各视其外应以知其五内，则知所病矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12503.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12505.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

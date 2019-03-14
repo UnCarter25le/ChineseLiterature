@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+楞伽经·卷五·现证品_古诗文网
+</title>
+<meta content="尔时，大慧菩萨摩诃萨，复白佛言：“世尊，愿为我说一切声闻、缘觉入灭次第相续相。令我及诸菩萨摩诃萨，善知此已，于灭尽三昧乐心无所惑，不堕二乘及诸外道错乱之中。” 佛言：“谛听！当为汝" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13943.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·现证品</b></span>
+<a href="javascript:PlayBookv(13943)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13943" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13943" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ae%9e%e5%8f%89%e9%9a%be%e9%99%80%e8%af%91">实叉难陀译</a></p>
+<div class="contson">
+<p>　　尔时，大慧菩萨摩诃萨，复白佛言：“世尊，愿为我说一切声闻、缘觉入灭次第相续相。令我及诸菩萨摩诃萨，善知此已，于灭尽三昧乐心无所惑，不堕二乘及诸外道错乱之中。” </p>
+<p>　　佛言：“谛听！当为汝说。 </p>
+<p>　　“大慧，菩萨摩诃萨至于六地，及声闻、缘觉入于灭定；七地菩萨念念恒入，离一切法自性相故，非诸二乘。二乘有作堕能所取，不得诸法无差别相，了善不善自相共相入于灭定，是故不能念念恒入。 </p>
+<p>　　“大慧，八地菩萨、声闻、缘觉，心意意识分别想灭。始从初地乃至六地，观察三界一切唯是心意意识自分别起，离我、我所，不见外法种种诸相；凡愚不知由无始来过恶薰习，于自心内变作能取所取之相而生执著。 </p>
+<p>　　“大慧，八地菩萨所得三昧，同诸声闻、缘觉涅槃；以诸佛力所加持故，于三昧门不入涅槃。若不持者，便不化度一切众生，不能满足如来之地，亦则断绝如来种性。是故诸佛为说如来不可思议诸大功德，令其究竟不入涅槃；声闻、缘觉著三昧乐，是故于中生涅槃想。 </p>
+<p>　　“大慧，七地菩萨善能观察心意意识、我、我所执，生法无我，若生若灭自相共相，四无碍辩善巧决定，于三昧门而得自在，渐入诸地具菩提分法。大慧，我恐诸菩萨不善了知自相共相，不知诸地相续次第，堕于外道诸恶见中故如是说。大慧，彼实无有若生若灭。诸地次第、三界往来，一切皆是自心所见。而诸凡愚不能了知；以不知故，我及诸佛为如是说。 </p>
+<p>　　“大慧，声闻、缘觉至于菩萨第八地中，为三昧乐之所昏醉，未能善了唯心所见，自共相习缠覆其心，著二无我生涅槃觉，非寂灭慧。大慧，诸菩萨摩诃萨见于寂灭三昧乐门，即便忆念本愿大悲，具足修行十无尽句，是故不即入于涅槃；以入涅槃不生果故，离能所取故，了达唯心故，于一切法无分别故，不堕心意及以意识、外法性相执著中故，然非不起佛法正因随智慧行如是起故，得于如来自证地故。 </p>
+<p>　　“大慧，如人梦中方便渡河，未渡便觉，觉已思惟向之所见：‘为是真实，为是虚妄？’复自念言：‘非实非妄，如是但是见闻觉知，曾所更事分别习气，离有无念意识梦中之所现耳！’大慧，菩萨摩诃萨亦复如是，始从初地而至七地，乃至增进入于第八得无分别，见一切法如幻梦等，离能所取，见心心所广大力用，勤修佛法未证令证，离心意意识妄分别想，获无生忍。此是菩萨所得涅槃，非灭坏也。 </p>
+<p>　　“大慧，第一义中，无有次第，亦无相续，远离一切境界分别，此则名为寂灭之法。” </p>
+<p>　　尔时，世尊重说颂言： </p>
+<p>　　“诸住及佛地， 唯心无影像，<br/>　　此是去来今， 诸佛之所说。<br/>　　七地是有心， 八地无影像，<br/>　　此二地名住， 余则我所得。<br/>　　自证及清净， 此则是我地，<br/>　　摩醯最胜处， 色究竟庄严。<br/>　　譬如大火聚， 光焰炽然发，<br/>　　化现于三有， 悦意而清凉。<br/>　　或有现变化， 或有先时化，<br/>　　于彼说诸乘， 皆是如来地。<br/>　　十地则为初， 初则为八地，<br/>　　第九则为七， 第七复为八，<br/>　　第二为第三， 第四为第五，<br/>　　第三为第六， 无相有何次？”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13942.aspx">上一章</a>
+<a href="/guwen/book_155.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13944.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

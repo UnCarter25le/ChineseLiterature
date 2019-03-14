@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·秦三·范睢至秦_古诗文网
+</title>
+<meta content="范睢至秦，王庭迎，谓范睢曰：“寡人宜以身受令久矣。今者义渠之事急，寡人日自请太后。今义渠之事已，寡人乃得以身受命。躬窃闵然不敏，敬执宾主之礼。”范睢辞让。是日见范睢，见者无不变色易" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4428.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3272" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>秦三·范睢至秦</b></span>
+<a href="javascript:PlayBookv(4428)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4428" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3272)" id="leftbtn3272" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4428" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　范睢至秦，王庭迎，谓范睢曰：“寡人宜以身受令久矣。今者义渠之事急，寡人日自请太后。今义渠之事已，寡人乃得以身受命。躬窃闵然不敏，敬执宾主之礼。”范睢辞让。</p>
+<p>　　是日见范睢，见者无不变色易容者。秦王屏左右，宫中虚无人，秦王跪而请曰：“先生何以幸教寡人?”范睢曰：“唯唯。”有间，秦王复请，范睢曰：“唯唯。”若是者三。</p>
+<p>　　秦王跽曰：“先生不幸教寡人乎?” 范睢谢曰：“非敢然也。臣闻始时吕尚之遇文王也，身为渔父而钓于渭阳之滨耳。若是者，交疏也。已一说而立为太师，载与俱归者，其言深也。故文王果收功于吕尚，卒擅天下而身立为帝王。即使文王疏吕望而弗与深言，是周无天子之德，而文、武无与成其王也。今臣，羁旅之臣也，交疏于王，而所愿陈者，皆匡君之之事，处人骨肉之间，愿以陈臣之陋忠，而未知王心也，所以王三问而不对者是也。臣非有所畏而不敢言也，知今日言之于前，而明日伏诛于后，然臣弗敢畏也。大王信行臣之言，死不足以为臣患，亡不足以为臣忧，漆身而为厉，被发而为狂，不足以为臣耻。五帝之圣而死，三王之仁而死，五伯之贤而死，乌获之力而死，奔、育之勇焉而死。死者，人之所必不免也。处必然之势，可以少有补于秦，此臣之所大愿也，臣何患乎?伍子胥櫜载而出昭关，夜行而昼伏，至于凌水，无以饵其口，坐行蒲服，乞食于吴市，卒兴吴国，阖庐为霸。使臣得进谋如伍子胥，加之以幽囚，终身不复见，是臣说之行也，臣何忧乎?箕子、接舆，漆身而为厉，被发而为狂，无益于殷、楚。使臣得同行于箕子、接舆，漆身可以补所贤之主，是臣之大荣也，臣又何耻乎?臣之所恐者，独恐臣死之后，天下见臣尽忠而身蹶也，是以杜口裹足，莫肯即秦耳。足下上畏太后之严，下惑奸臣之态；居深宫之中，不离保傅之手；终身暗惑，无与照奸；大者宗庙灭覆，小者身以孤危。此臣之所恐耳!若夫穷辱之事，死亡之患，臣弗敢畏也。臣死而秦治，贤于生也。”</p>
+<p>　　秦王跽曰：“先生是何言也!夫秦国僻远，寡人愚不肖，先生乃幸至此，此天以寡人慁先生，而存先王之庙也。寡人得受命于先生，此天所以幸先王而不弃其孤也。先生奈何而言若此!事无大小，上及太后，下至大臣，愿先生悉以教寡人，无疑寡人也。”范睢再拜，秦王亦再拜。</p>
+<p>　　范睢曰：“大王之国，北有甘泉、谷口，南带泾、渭，右陇、蜀，左关、阪；战车千乘，奋击百万。以秦卒之勇，车骑之多，以当诸侯，譬若驰韩卢而逐蹇兔也，霸王之业可致。今反闭而不敢窥兵于山东者，是穰侯为国谋不忠，而大王之计有所失也。”</p>
+<p>　　王曰：“愿闻所失计。”</p>
+<p>　　睢曰：“大王越韩、魏而攻强齐，非计也。少出师，则不足以伤齐；多之则害于秦。臣意王之计欲少出师，而悉韩、魏之兵则不义矣。今见与国之不可亲，越人之国而攻，可乎?疏于计矣!昔者齐人伐楚，战胜，破军杀将，再辟千里，肤寸之地无得者，岂齐不欲地哉，形弗能有也。诸侯见齐之罢露，君臣之不亲，举兵而伐之，主辱军破，为天下笑。所以然者，以其伐楚而肥韩、魏也。此所谓藉贼兵而赍盗食者也。王不如远交而近攻，得寸则王之寸，得尺亦王之尺也。今舍此而远攻，不亦缪乎?且昔者，中山之地，方五百里，赵独擅之，功成、名立、利附，则天下莫能害。今韩、魏，中国之处，而天下之枢也。王若欲霸，必亲中国而以为天下枢，以威楚、赵。赵彊则楚附，楚彊则赵附。楚、赵附则齐必惧，惧必卑辞重币以事秦，齐附而韩、魏可虚也。”</p>
+<p>　　王曰：“寡人欲亲魏，魏多变之国也，寡人不能亲。请问亲魏奈何?”范睢曰：“卑辞重币以事之。不可，削地而赂之。不可，举兵而伐之。”于是举兵而攻邢丘，邢丘拔而魏请附。曰：“秦、韩之地形，相错如绣。秦之有韩，若木之有蠢，人之病心腹。天下有变，为秦害者莫大于韩。王不如收韩。”王曰：“寡人欲收韩，不听，为之奈何?”</p>
+<p>　　范睢曰：“举兵而攻荥阳，则成皋之路不通；北斩太行之道，则上党之兵不下；一举而攻荥阳，则其国断而为三。魏、韩见必亡，焉得不听?韩听而霸事可成也。”王曰：“善。”</p>
+<p>　　范睢曰：“臣居山东，闻齐之内有田单，不闻其王。闻秦之有太后、穰侯、泾阳、华阳，不闻其有王。夫擅国之谓王，能专利害之谓王，制杀生之威之谓王。今太后擅行不顾，穰侯出使不报，泾阳、华阳击断无讳，四贵备而国不危者，未之有也。为此四者，下乃所谓无王已。然则权焉得不倾，而令焉得从王出乎?臣闻：‘善为国者，内固其威，而外重其权。’穰侯使者操王之重，决裂诸侯，剖符于天下，征敌伐国，莫敢不听。战胜攻取，则利归于陶；国弊，御于诸侯；战败，则怨结于百姓，而祸归社稷。《诗》曰：‘木实繁者披其枝，披其技者伤其心。大其都者危其国，尊其臣者卑其主。’淖齿管齐之权，缩闵王之筋，县之庙梁，宿昔而死。李兑用赵，减食主父，百日而饿死。今秦，太后、穰侯用事，高陵、泾阳佐之，卒无秦王，此亦淖齿、李兑之类已。臣今见王独立于庙朝矣，且臣将恐后世之有秦国者，非王之子孙也。</p>
+<p>　　秦王惧，于是乃废太后，逐穰侯，出高陵，走泾阳于关外。昭王谓范睢曰：“昔者，齐公得管仲，时以为仲父。今吾得子，亦以为父。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4427.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4429.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3272" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷一·叶生_古诗文网
+</title>
+<meta content="淮阳叶生者，失其名字。文章词赋，冠绝当时，而所遇不偶，困于名场。会关东丁乘鹤来令是邑，见其文，奇之，召与语，大悦。使即官署受灯火，时赐钱谷恤其家。值科试，公游扬于学使，遂领冠军。公" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11431.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·叶生</b></span>
+<a href="javascript:PlayBookv(11431)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11431" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11431" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　淮阳叶生者，失其名字。文章词赋，冠绝当时，而所遇不偶，困于名场。会关东丁乘鹤来令是邑，见其文，奇之，召与语，大悦。使即官署受灯火，时赐钱谷恤其家。值科试，公游扬于学使，遂领冠军。公期望綦切，闱后索文读之，击节称叹。不意时数限人，文章憎命，及放榜时，依然铩羽。生嗒丧而归，愧负知己，形销骨立，痴若木偶。公闻，召之来而慰之；生零涕不已。公怜之，相期考满入都，携与俱北。生甚感佩。辞而归，杜门不出。无何寝疾。公遗问不绝，而服药百裹，殊罔所效。</p>
+<p>　　公适以忤上官免，将解任去。函致之，其略云：“仆东归有日，所以迟迟者，待足下耳。足下朝至，则仆夕发矣。”传之卧榻。生持书啜泣，寄语来使：“疾革难遽瘥，请先发。”使人返白。公不忍去，徐待之。</p>
+<p>　　逾数日，门者忽通叶生至。公喜，迎而问之。生曰：“以犬马病，劳夫子久待，万虑不宁。今幸可从杖履。”公乃束装戒旦。抵里，命子师事生，夙夜与俱。公子名再昌，时年十六，尚不能文。然绝慧，凡文艺三两过，辄无遗忘。居之期岁，便能落笔成文。益之公力，遂入邑痒。生以生平所拟举业悉录授读，闱中七题，并无脱漏，中亚魁。公一日谓生曰：“君出余绪，遂使孺子成名。然黄钟长弃若何！”生曰：“是殆有命！借福泽为文章吐气，使天下人知半生沦落，非战之罪也，愿亦足矣。且士得一人知己可无憾，何必抛却白纻，乃谓之利市哉！”公以其久客，恐误岁试，劝令归省。生惨然不乐，公不忍强，嘱公子至都为之纳粟。公子又捷南宫，授部中主政，携生赴监，与共晨夕。逾岁，生入北闱，竟领乡荐。会公子差南河典务，因谓生曰：“此去离贵乡不远。先生奋迹云霄，锦还为快。”生亦喜。择吉就道，抵淮阳界，命仆马送生归。</p>
+<p>　　见门户萧条，意甚悲恻。逡巡至庭中，妻携簸具以出，见生，掷具骇走。生凄然曰：“今我贵矣！三四年不觌，何遂顿不相识？”妻遥谓曰：“君死已久，何复言贵？所以久淹君柩者，以家贫子幼耳。今阿大亦已成立，将卜窀穸，勿作怪异吓生人。”生闻之，怃然惆怅。逡巡入室，见灵柩俨然，扑地而灭。妻惊视之，衣冠履舄如蜕委焉。大恸，抱衣悲哭。子自塾中归，见结驷于门，审所自来，骇奔告母。母挥涕告诉。又细询从者，始得颠末。从者返，公子闻之，涕堕垂膺。即命驾哭诸其室；出橐为营丧，葬以孝廉礼。又厚遗其子，为延师教读。言于学使，逾年游泮。</p>
+<p>　　异史氏曰：“魂从知己竟忘死耶？闻者疑之，余深信焉。同心倩女，至离枕上之魂；千里良朋，犹识梦中之路。而况茧丝蝇迹，吐学士之心肝；流水高山，通我曹之性命者哉！嗟乎！遇合难期，遭逢不偶。行踪落落，对影长愁；傲骨嶙嶙，搔头自爱。叹面目之酸涩，来鬼物之揶揄。频居康了之中，则须发之条条可丑；一落孙山之外，则文章之处处皆疵。古今痛哭之人，卞和惟尔；颠倒逸群之物，伯乐伊谁？抱刺于怀，三年灭字，侧身以望，四海无家。人生世上，只须合眼放步，以听造物之低昂而已。天下之昂藏沦落如叶生者，亦复不少，顾安得令威复来而生死从之也哉？噫！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11430.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11432.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

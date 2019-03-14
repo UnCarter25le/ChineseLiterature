@@ -1,0 +1,134 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+匡谬正俗·卷三_古诗文网
+</title>
+<meta content="礼记曲礼云。礼闻取于人。不闻取人。郑玄注云。取于人谓高尚其道。取人谓制服其身。此义较然可晓。而徐仙音取于人为娶。浪为假借矣。一本娶作聚。奉又云。奉长者之手。入户奉扃。奉席如桥衡。凡" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19047.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三</b></span>
+<a href="javascript:PlayBookv(19047)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19047" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19047" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%a2%9c%e5%b8%88%e5%8f%a4">颜师古</a></p>
+<div class="contson">
+<p>　　礼记</p>
+<p>　　曲礼云。礼闻取于人。不闻取人。郑玄注云。取于人谓高尚其道。取人谓制服其身。此义较然可晓。而徐仙音取于人为娶。浪为假借矣。一本娶作聚。</p>
+<p>　　奉</p>
+<p>　　又云。奉长者之手。入户奉扃。奉席如桥衡。凡如此例。奉者皆谓恭而持之。于义足了。今皆读为捧。音敷奉反。亦浪为假借也。</p>
+<p>　　拾</p>
+<p>　　又云。拾级聚足。此言升阶历级。每一级则并足。然后更登也。拾者。犹言一一拾取。而郑康成读拾为涉。近乎穿凿。</p>
+<p>　　禹宇丘区</p>
+<p>　　或问曰。曲礼云。礼不讳嫌名。郑注云。嫌名谓禹与宇。丘与区。其义何也。答曰。康成郑君此释。盖举异字同音不须讳耳。区字既是。故引为例。禹。宇二字。其音不别。丘之与区。今读则异。然寻按古语。其声亦同。何以知之。陆士衡元康四年从皇太子祖会东堂诗云。巍巍皇代。奄宅九围。帝在在洛。克配紫微。普厥丘宇。时罔不绥。又晋宫合名所载某舍若干区者。列为丘字。则知区。丘音不别矣。且今江淮田野之人犹谓区为丘。亦古之遗音也。今之儒者不晓其意。竞为解释。或云禹。宇是同声。丘。区是声相近。二者并不须讳。并为诡妄。或云宇。禹。区。丘并是别音相近。乃读禹为于举反。故不须讳。并为诡妄。不诣其理。</p>
+<p>　　予</p>
+<p>　　郑玄注曲礼下篇。予。古余字。因郑此说。近代学者遂皆读予为余。案尔雅云。卬。吾。台。予。朕。身。甫。余。言我也。此则予之与余义皆训我。明非同字。许慎说文。予。相推予也。余。词之舒也。既各有音义。本非古今字别。诗云。迨天之未阴雨。彻彼桑土。绸缪牖户。今女下民。或敢侮予。又曰。终其永怀。又窘阴雨。其车既载。乃弃尔辅。载输尔载。将伯助予。又曰。习习谷风。维风及雨。将恐将惧。维予与女。将安将乐。女转弃予。又云汉篇云。群公先正。则不我助。父母先祖。胡宁忍予。楚辞云。帝子降兮北渚。目眇眇兮愁予。袅袅兮秋风。洞庭波兮木叶下。又曰。君回翔兮来下。踰空桑兮从女。纷总总兮九州岛。何寿夭兮在予。又曰。秋兰兮蘼芜。罗生兮堂下。緑叶兮素枝。芳菲菲兮袭予。夫人自有兮美子。荪何以兮愁苦。历观词赋。予无余音。若以书云予一人。礼云余一人。便欲通之以为古今字。至如夏书云。非台小子。敢行称乱。岂得便言台。余古今字耶。邶诗云。人涉卬否。卬须我友。岂得又言卬。我古今字乎。</p>
+<p>　　葬</p>
+<p>　　檀弓云。杜氏之葬在西阶之下。葬谓葬处。而乃读葬为葬才浪反。亦为穿凿。</p>
+<p>　　离</p>
+<p>　　月令云。孟春之月。乃命大史守典奉法。司天日月星辰之行。宿离不忒。无失经纪。以初为常。郑康成注云。离读如俪。按易之离卦彖辞曰。日月丽乎天。百谷草木丽乎土。今云宿离不忒。宿即星辰。离则日月。盖覆上言星辰日月耳。更无别义。居然可晓。何为改离作俪。若然者。离卦亦可以变为丽卦乎。</p>
+<p>　　祝</p>
+<p>　　曾子问曰。祝声三。告曰。某之子生。敢告。郑康成云。声噫。歆警神也。此盖解声三者。谓三称噫。然后言某之子生耳。而徐仙之徒并音祝为祝之又反。学者相承遵之。并大误也。</p>
+<p>　　五方之兵</p>
+<p>　　又云。如诸侯皆在而日食。则从天子救日。各以其方色与其兵。郑康成注云。示奉时事有所讨也。方色者。东方衣青。南方衣赤。西方衣白。北方衣黑。其兵未闻。按黄帝素问及淮南子等诸书说五方之兵。东方其兵矛。南方其兵弩。中央其兵剑。西方其兵戈。北方其兵多铩。盖谓随方色衣其衣。执其兵以救耳。</p>
+<p>　　杀</p>
+<p>　　郊特牲云。大夫而飨君。非礼也。大夫强而君杀之。义也。由三桓始也。郑玄注云。庆父通于夫人以胁公。季友以君命鸩牙。后庆父杀二君而又死又。按杀读为降杀之杀。谓衰弱也。此言大夫不当飨君。自三桓已来大夫强而君弱。是以有就飨于大夫者耳。此一段礼文相承蹑。总论响觐之事。故其下总云。天子微。诸侯僭。大夫强。诸侯胁。相贵以等。相觌以货。相赂以利。而天下之礼乱矣。不言诛戮之事。安取其鸩牙杀庆父哉。</p>
+<p>　　禓</p>
+<p>　　又。乡人禓音伤。孔子朝服立于阼阶。郑玄注云。禓。强鬼也。谓时傩索室驱疫逐强鬼也。禓。或为献。或为傩。而徐仙音禓为傩。今读者遂不言禓。亦失之也。</p>
+<p>　　膻</p>
+<p>　　又云。既奠。然后焫萧合膻芗。此言萧焫以脂。合黍稷烧之。膻者。脂气。芗者。黍稷气。于义自通。而康成乃云膻当为馨字之误。亦为迂曲矣。</p>
+<p>　　辟</p>
+<p>　　又云。祭。有祈焉。有报焉。有由辟焉。康成解云。辟读为弭。谓弭灾兵也。按辟当读为辟邪恶之辟。直云辟灾兵。义自可晓。无烦假借。</p>
+<p>　　温</p>
+<p>　　内则云。问所欲而敬进之。柔色以温之。郑康成注云。温。藉也。承尊长必和颜色也。案直云柔和颜色以温悦尊者之心。不当改读为蕴也。</p>
+<p>　　啸</p>
+<p>　　又。男子入内。不啸不指。夜行以烛。郑康成注云。啸读为叱。嫌有隐使也。案啸者。谓若有所召命。密相讽诱。若齐庄抚楹而歌耳。何为乃云叱呼。诗云。啸歌伤怀。念此硕人。即其义也。</p>
+<p>　　蜗</p>
+<p>　　又云。蜗醢而苽食。蜗者。蠃之类耳。而徐仙等音蜗为蠃。亦未为达。</p>
+<p>　　卵</p>
+<p>　　又曰。濡鱼卵酱实蓼。郑康成注云。卵读为鲲也。案卵者鱼卵。即是鱼子。不劳改读为鲲鱼子也。</p>
+<p>　　有</p>
+<p>　　又云。凡养老。五帝宪。三王有乞言。直谓五帝养之。为法其德行而不乞言。三王既宪法而有乞言之礼。郑康成乃读有为又。盖亦不劳假借也。</p>
+<p>　　孽</p>
+<p>　　玉藻云。世子自名。摈者曰寡君之适。公子曰臣孽。郑康成云。孽当作枿。声之误也。按孽者。是庶孽。既非适子。故自云孽。不当言枿。枿者。断而复生。岂人子之所宜自称乎。</p>
+<p>　　不至</p>
+<p>　　坊记云。昏礼。婿亲迎。见于舅姑。舅姑承子以授婿。恐事之违也。以此坊民。妇犹有不至者。郑康成注云。不至。不亲夫以孝舅姑也。春秋成公九年春二月。伯姬归于宋。夏。季孙行父如宋致女。是时宋恭公不亲迎。恐其违而授之。按不至者。谓淫佚之风。女虽未嫁已从奔诱。及婿亲迎。犹在他室而不至焉。按陈诗东门之杨序曰。昏姻失时。男女多违。亲迎女犹有不至者也。其诗曰。东门之杨。其叶牂牂。昏以为期。期而不至。即其事也。康成诗笺云。亲迎之礼以昏时。女留他色不肯时行。乃至大星煌煌然。为得其义。何为注礼乃更妄生异说。岂非矛盾之论哉。</p>
+<p>　　素食</p>
+<p>　　丧服传记云。既虞。饭疏食水饮。既练。食菜果。饭素食。郑康成注云。素犹故也。谓复平生时食也。案素食谓但食菜果糗饵之属。无酒肉也。礼家变节。渐为降杀。始丧三日不食。卒哭之内朝夕各一溢米为粥而已。既虞疏食水饮。疏食谓麤疏之饭。啘厥之菜。食不复粥。又非止一溢也。既练。遍食菜果酸醎。但无酒肉之属。既除丧。始食干肉饮酒。然后乃复平生时食耳。此是礼经明文。安得始练便复平生故食乎。又班书霍光传载光奏昌邑王过失云。典丧服斩衰。无悲哀之心。废礼谊。居道上不素食。王莽传云。每有水旱。莽辄素食。左右以白。太后遣使诏莽曰。闻公菜食。忧民深矣。今秋幸孰。公勤于职。幸以时食肉。据此益知素食是无肉之食。非平生食也。今俗谓桑门斋食为素食。盖古之遗语焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19046.aspx">上一章</a>
+<a href="/guwen/book_236.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19048.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

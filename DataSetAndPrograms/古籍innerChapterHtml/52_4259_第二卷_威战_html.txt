@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百战奇略·第二卷·威战_古诗文网
+</title>
+<meta content="凡与敌战，士卒前进而不敢退后，是畏我而不畏敌也；若敢退而不敢进者，是畏敌而不畏我也。将使士卒赴汤蹈火而不违者，是威严使然也。法曰：「威克厥爱，允济。」春秋，齐景公时，晋伐阿、鄄，而" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4259.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2910" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第二卷·威战</b></span>
+<a href="javascript:PlayBookv(4259)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4259" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2910)" id="leftbtn2910" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4259" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%9f%ba">刘基</a></p>
+<div class="contson">
+<p>　　凡与敌战，士卒前进而不敢退后，是畏我而不畏敌也；若敢退而不敢进者，是畏敌而不畏我也。将使士卒赴汤蹈火而不违者，是威严使然也。法曰：「威克厥爱，允济。」</p>
+<p>　　春秋，齐景公时，晋伐阿、鄄，而燕侵河上，齐师败绩。〔景公患之，〕晏婴乃荐田穰苴，曰：「穰苴虽田氏庶孽，然其人文能附众、武能威敌，愿君试之。」景公乃召穰苴，与语兵事，大悦之，以为将军，将兵捍燕、晋之师。穰苴曰：「臣素卑贱，君擢之闾伍之中，加之大夫之上，士卒未附，百姓不亲，人微权轻，愿得君之宠臣、国之所尊，以监军，乃可。」于是景公许之，使庄贾往。穰苴既辞，与庄贾约：「旦日日中会于军门。」穰苴先驰至军中，立表下漏待贾。贾素骄贵，以为将己之军而己为监，不甚急，亲戚左右送之，留饮，日中而贾不至。穰苴则仆表决漏，入，行军勒兵，申明约束。既定，夕时，贾乃至。穰苴曰：「何为后期？」贾对曰：「不佞，大夫亲戚送之，故留。」穰苴曰：「将受命之日则忘其家，临阵约束则忘其亲，援枹鼓之急则忘其身。今敌国深侵，邦内骚动，士卒暴露于境，君寝不安席，食不甘味，百姓之命皆悬于君，何谓相送乎？」召军正问曰：「军法，期而后至者云何？」对曰：「当斩。」贾惧，使人驰报景公，请救。既往，未及返，于是遂斩庄贾以徇三军。三军皆震栗。久之，景公遣使持节赦贾，使驰入军中，穰苴曰：「将在军，君命有所不受。」问军正曰：「军中不驰，今使者驰云何？」对曰：「当斩。」使者大惧。穰苴曰：「君之使不可杀之。」乃杀其仆、车之左驸、马之左骖，以徇三军。遣使者还报，然后行。士卒次舍、井灶、饮食、问疾、医药，身自拊循之。悉取将军之资粮，以享士卒，身与士卒平分粮食。最比其羸弱者，三日而后勒兵。病者皆求行，争奋出为之赴战。晋师闻之，为罢去；燕师闻之，渡河而解。于是，穰苴乃率众追击之，遂取所亡邦内故境，率兵而归。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4258.aspx">上一章</a>
+<a href="/guwen/book_52.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4260.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2910" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

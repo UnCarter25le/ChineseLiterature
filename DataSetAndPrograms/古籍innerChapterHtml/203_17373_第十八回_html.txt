@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第十八回_古诗文网
+</title>
+<meta content="点金济众成仙二人行了数日，不觉来到华山。见其山接连天日，吞吐云霞，果是名贤隐迹之乡，仙子传真之处。有诗为证。诗曰：山耸霄汉外，云里路苕峣；　　瀑布流千丈，如铺练一条。　　下有栖心窟" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17373.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第十八回</b></span>
+<a href="javascript:PlayBookv(17373)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17373" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17373" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>点金济众成仙</strong></p>
+<p>　　二人行了数日，不觉来到华山。见其山接连天日，吞吐云霞，果是名贤隐迹之乡，仙子传真之处。有诗为证。诗曰：</p>
+<p>　　山耸霄汉外，云里路苕峣；<br/>　　瀑布流千丈，如铺练一条。<br/>　　下有栖心窟，横安定命桥；<br/>　　巍巍镇世俗，华山名独超。</p>
+<p>　　又诗云：</p>
+<p>　　突兀三峰接九天，云霄深处即神仙；<br/>　　分明指汝超凡路，何事男儿到此边。</p>
+<p>　　兄弟寻至三峰，结草为庐，日夕修炼，期年之内，未见成功。一日出游，见贫人填路，问其故。曰：“乃年岁不登，老弱转乎沟壑，壮者散之四方。”权叹息久之。回至山中，言于简曰：“饥谨荐至，民不堪生，殊为可悯。”简曰：“济人利物，仁人之心。汝识金丹之道，不度斯世之民，成之何用？”权曰：“吾亦将欲试之。”乃取铜锡之类，于前，少放灵药，以火焚之，皆成至室，广布贫民，因之而得命者，千百万家。</p>
+<p>　　一日，有上仙王玄甫者，知钟离道将有得，降于仙班访之。钟离见其丰神特异，言论奇妙，拜求长生之诀。王曰：“心遑遑而无动，气绵绵而徘徊，精涓涓而遗转，神混混而往来。开昆仑放七窍，敛元气于九垓。凿破玉关，神光方显，寂然圆郭，一任往来。”言毕而去。</p>
+<p>　　一日，又遇华阳真人，传以太极刀法，火符内丹。于是洞晓玄机之道，深明往来之理。一日，别其兄，独游云山，至鲁居郧城之崆峒，于紫金四诰峰居之。忽石壁猛响一声，开若门户。钟离直入其中，见一玉匣，启而视之，乃神仙秘决也。钟离怀之而出。</p>
+<p>　　未几，其石复合，居数日乃复归三峰，玩其秘诀，遵而行之。忽五色祥云满户，仙乐频奏，渐入斋中，有仙鹤呼权曰：“玉帝有命，迎汝回天，且转复旧职矣。”权谓简曰：“兄少留此，不久即复会也。”乃授简玉册，乘云仙去。简自与权别，深求秘诀之理，更加修炼之功，臻清净无为之宇，金简玉册之要，遂能察往知来，通玄入妙。一日云房跨鹤到曰：“兄今至道已开，尘缘已满，不可复留此山矣。”乃与之同日升天，度纯阳而去。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17372.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17374.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

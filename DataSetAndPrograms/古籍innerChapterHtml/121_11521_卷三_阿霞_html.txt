@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷三·阿霞_古诗文网
+</title>
+<meta content="文登景星者少有重名，与陈生比邻而居，斋隔一短垣。一日陈暮过荒落之墟，闻女子啼松柏间，近临则树横枝有悬带，若将自经。陈诘之，挥涕而对曰：“母远出，托妾于外兄。不图狼子野心，畜我不卒。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11521.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·阿霞</b></span>
+<a href="javascript:PlayBookv(11521)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11521" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11521" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　文登景星者少有重名，与陈生比邻而居，斋隔一短垣。一日陈暮过荒落之墟，闻女子啼松柏间，近临则树横枝有悬带，若将自经。陈诘之，挥涕而对曰：“母远出，托妾于外兄。不图狼子野心，畜我不卒。伶仃如此不如死！”言已复泣。陈解带，劝令适人，女虑无可托者。陈请暂寄其家，女从之。既归，挑灯审视，丰韵殊绝，大悦，欲乱之，女厉声抗拒，纷纭之声达于间壁。景生逾垣来窥，陈乃释女。女见景生，凝目停睇，久乃奔去。二人共逐之，不知去向。</p>
+<p>　　景归，阖户欲寝，则女子盈盈自房中出。惊问之，答曰：“彼德薄福浅，不可终托。”景大喜，诘其姓氏。曰：“妾祖居于齐，以齐为姓，小字阿霞。”入以游词，笑不甚拒，遂与寝处，斋中多友人来往，女恒隐闭深房。过数日，曰：“妾姑去，此处烦杂困人甚。继今，请以夜卜。”问：“家何所？”曰：“正不远耳。”遂早去，夜果复来，欢爱綦笃。又数日谓景曰：“我两人情好虽佳，终属苟合。家君宦游西疆，明日将从母去，容即乘间禀命，而相从以终焉。”问：“几日别？”约以旬终。既去，景思斋居不可常，移诸内又虑妻妒，计不如出妻。志既决，妻至辄诟厉，妻不堪其辱，涕欲死。景曰：“死恐见累，请早归。”遂促妻行。妻啼曰：“从子十年未尝失德，何决绝如此！”景不听，逐愈急，妻乃出门去。自是垩壁清尘，引领翘待，不意信杳青鸾，如石沉海。妻大归后，数浼知交请复于景，景不纳，遂适夏侯氏。夏侯里居，与景接壤，以田畔之故世有隙。景闻之，益大恚恨。然犹冀阿霞复来，差足自慰。</p>
+<p>　　越年余并无踪绪。会海神寿，祠内外士女云集，景亦在。遥见一女甚似阿霞，景近之，入于人中；从之，出于门外；又从之，飘然竟去，景追之不及，恨悒而返。后半载适行于途，见一女郎着朱衣，从苍头，鞚黑卫来，望之，霞也。因问从人：“娘子为谁？”答言：“南村郑公子继室。”又问：“娶几时矣？”曰：“半月耳。”景思得毋误耶？女郎闻语，回眸一睇，景视，真阿霞也。见其已适他姓，愤填胸臆，大呼：“霞娘！何忘旧约？”从人闻呼主妇，欲奋老拳。女急止之，启幛纱谓景曰：“负心人何颜相见？”景曰：“卿自负仆，仆何尝负卿？”女曰：“负夫人甚于负我！结发者如是而况其他？向以祖德厚，名列桂籍，故委身相从。今以弃妻故，冥中削尔禄秩，今科亚魁王昌即替汝名者也。我已归郑姓，无劳复念。”景俯首帖耳，口不能道一词。视女子策蹇去如飞，怅恨而已。</p>
+<p>　　是科景落第，亚魁果王氏昌名，景以是得薄幸名。四十无偶，家益替，恒趁食于亲友家。偶诣郑，郑款之，留宿焉。女窥客，见而怜之，问郑曰：“堂上客非景庆云耶？”问所自识，曰：“未适君时，曾避难其家，亦深得其豢养。彼行虽贱而祖德未斩，且与君为故人，亦宜有绨袍之义。”郑然之，易其败絮，留以数日。夜分欲寝，有婢持金二十余两赠景。女在窗外言曰：“此私贮，聊酬夙好，可将去，觅一良匹。幸祖德厚，尚足及子孙；无复丧检，以促余龄。”景感谢之。既归，以十余金买缙绅家婢，甚丑悍。举一子，后登两榜。郑官至吏部郎。既没，女送葬归，启舆则虚无人矣，始知其非人也。噫！人之无良，舍其旧而新是谋，卒之卵覆而鸟亦飞，天之所报亦惨矣！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11520.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11522.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

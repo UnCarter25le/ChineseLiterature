@@ -1,0 +1,116 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+大戴礼记·千乘第六十八_古诗文网
+</title>
+<meta content="公曰：“千乘之国，受命于天子，通其四疆，教其书社，循其灌庙，建其宗主，设其四佐，列其五官，处其朝市，为仁如何？”子曰：“不仁，国不化。” 公曰：“何如之谓仁？”子曰：“不淫于色。”" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19030.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>千乘第六十八</b></span>
+<a href="javascript:PlayBookv(19030)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19030" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19030" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%88%b4%e5%be%b7">戴德</a></p>
+<div class="contson">
+<p>　　公曰：“千乘之国，受命于天子，通其四疆，教其书社，循其灌庙，建其宗主，设其四佐，列其五官，处其朝市，为仁如何？”子曰：“不仁，国不化。” </p>
+<p>　　公曰：“何如之谓仁？”子曰：“不淫于色。”子曰：“立妃设如太庙然，乃中治；中治，不相陵；不相陵，斯庶嫔遧；遧，则事上静；静，斯洁信在中。朝大夫必慎以恭；出会谋事，必敬以慎言；长幼小大，必中度，此国家之所以崇也。 </p>
+<p>　　立子设如宗社，宗社先示威，威明显见；辨爵集德，是以母弟官子咸有臣志，莫敢援于外，大夫中妇私谒不行，此所以使五官治，执事政也。夫政以教百姓，百姓齐以嘉善，故蛊佞不生，此之谓良民。国有道则民昌，此国家之所以大遂也。 </p>
+<p>　　卿设如大门，大门显美，小大尊卑中度。开明闭幽，内禄出灾，以顺天道，近者闲焉，远者稽焉。君发禁宰而行之，以时通于地，散布于小。理天之灾祥，地宝丰省，及民共飨其禄，共任其灾，此国家之所以和也。 </p>
+<p>　　国有四辅；辅，卿也。卿设如四体，毋易事，毋假名，毋重食。凡事尚贤进能，使知事爵不世，能之不愆。凡民戴名以能，食力以时成，以事立，此所以使民让也。民咸孝弟而安让，此以怨省而乱不作也，此国之所以长也。 </p>
+<p>　　下无用，则国家富；上有义，则国家治；长有礼，则民不争；立有神，则国家敬；兼而爱之，则民无怨心；以为无命，则民不偷。昔者先王本此六者，而树之德，此国家之所以茂也。 </p>
+<p>　　设其四佐而官之；司徒典春，以教民之不则时不若不令，成长幼老疾孤寡以时通于四疆。有阖而不通，有烦而不治，则民不乐生，不利衣食。 </p>
+<p>　　凡民之藏贮，以及山川之神明加于民者，发国功谋。斋戒必敬，会时必节。日历巫祝，执伎以守官，俟命以作。祈王年，祷民命，及畜谷蜚征庶虞草。 </p>
+<p>　　方春三月，缓施生育，动作百物，于时有事，享于皇祖皇考，朝孤子八人，以成春事。 </p>
+<p>　　司马司夏，以教士车甲。凡士执伎论功，修四卫。强股肱，质射御，才武聪慧，治众长卒，所以为仪缀于国。出可以为率，诱于军旅。四方诸侯之游士，国中贤余秀兴阅焉。 </p>
+<p>　　方夏三月，养长秀蕃庶物。于时有事，享于皇祖皇考，爵士之有庆者七人，以成夏事。 </p>
+<p>　　司寇司秋，以听狱讼，治民之烦乱，执权变民中。凡民之不刑，崩本以要闲，作起不敬以欺惑憧愚。 </p>
+<p>　　作于财赂六畜五谷曰盗。诱居室家有君子曰义。子女专曰〈女芺〉。 五兵及木石曰贼。以中情出，小曰闲，大曰讲。利辞以乱属曰谗。以财投长曰贷。 </p>
+<p>　　凡犯天子之禁，陈刑制辟，以追国民之不率上教者。夫是故一家三夫道行，三人饮食，哀乐平，无狱。 </p>
+<p>　　方秋三月，收歛以时。于时有事，尝新于皇祖皇考，食农夫九人，以成秋事。司空司冬，以制度制地事，准揆山林，规表衍沃，畜水行，衰濯浸，以节四时之事。治地远近，以任民力，以节民食，太古食壮之食，攻老之事。” </p>
+<p>　　公曰：“功事不少，而糇粮不多乎？”子曰：“太古之民，秀长以寿者，食也。在今之民，羸丑以胔者，事也。 </p>
+<p>　　太古无游民，食节事时，民各安其居，乐其宫室，服事信上，上下交信，地移民在。今之世，上治不平，民治不和，百姓不安其居，不乐其宫；老疾用财，壮狡用力，于兹民游；薄事贪食，于兹民忧。 </p>
+<p>　　古者殷书为成男成女名属升于公门，此以气食得节，作事得时，劝有功；夏服君事不及暍，冬服君事不及冻；是故年谷不成，天之饥馑，道无殣者。在今之世，男女属散，名不升于公门，此以气食不节，作事不成；天之饥馑，于时委民，不得以疾死。 </p>
+<p>　　是故立民之居，必于中国之休地，因寒暑之和，六畜育焉，五谷宜焉；辨轻重，制刚柔，和五味，以节食时事。 </p>
+<p>　　东辟之民曰夷，精于侥，至于大远，有不火食者矣。南辟之民曰蛮，信以朴，至于大远，有不火食者矣。西辟之民曰戎，劲以刚，至于大远，有不火食者矣。北辟之民曰狄，肥以戾，至于大远，有不火食者矣。及中国之民，曰五方之民，有安民和味，咸有实用利器，知通之，信令之。 </p>
+<p>　　及量地度居，邑有城郭，立朝市。地以度邑，以度民，以观安危。距封后利，先虑久固，依固可守，为奥可久，能节四时之事，霜露时降。 </p>
+<p>　　方冬三月，草木落。庶虞藏，五谷必入于仓。于时有事，蒸于皇祖皇考，息国老六人，以成冬事。 </p>
+<p>　　民咸知孤寡之必不末也，咸知有大功之必进等也，咸知用劳力之必以时息也。推而内之水火，入也弗之顾矣，而况有强适在前，有君长正之者乎？” </p>
+<p>　　公曰：“善。” </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19029.aspx">上一章</a>
+<a href="/guwen/book_235.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19031.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

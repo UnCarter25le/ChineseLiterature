@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+老老恒言·卷四·帐_古诗文网
+</title>
+<meta content="帐必与床称，夏月轻纱制之。《齐东野语》云：“纱之至轻者曰'轻容’。”王建《宫词》云：“嫌罗不着爱轻容”是也。又须量床面广狭，作帐底如帐顶布为之，帐下三面缝连，不但可以御蚊，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18125.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·帐</b></span>
+<a href="javascript:PlayBookv(18125)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18125" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18125" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%b9%e5%bb%b7%e6%a0%8b">曹廷栋</a></p>
+<div class="contson">
+<p>　　帐必与床称，夏月轻纱制之。《齐东野语》云：“纱之至轻者曰'轻容’。”王建《宫词》云：“嫌罗不着爱轻容”是也。又须量床面广狭，作帐底如帐顶布为之，帐下三面缝连，不但可以御蚊，凡诸虫蚤之类，亦无间得入。</p>
+<p>　　夏帐专在御蚊，其前两幅阖处，正蚊潜入之径也，须以一幅作夹层五六寸，以一幅单层纳入，再加小纽二三，扣于帐外，则蚊不能曲折以入。《东方朔别传》曰：“蚊喜肉而恶烟。”禁其来，不若驱其去，捞水面浮萍曝干，加雄黄少许，烧烟熏室，可并帐外驱之。刘著诗云：“雷声吼夜蚊”，亦得免矣。</p>
+<p>　　纱帐须高广，范蔚宗诗，所谓“修帐窗含秋阴”也。有以细竹竿，横挂帐中，安置衣帕为便。冬月颇宜，夏则多一物，则增一物之热。至脚后可设小几，陈茗碗、瓶花、佛手、柑等类，有枕旁置末丽、夜来香者，香浓透脑，且易引虫蚁，须用小棕篮置之，悬于帐顶下。二花香有余，色不足，惟供晚赏。凡物丰此即啬彼，亦造物自然之理。</p>
+<p>　　予曾以荷花折置帐中，夜半后，瓣放香吐，辛烈之气，睡梦中触鼻惊醒，其透脑为患可知。因忆茂叔“香远益清”之说真，善于体物也。若移置帐外，能使隔帐香来，斯尤独绝，香浓故耳。</p>
+<p>　　另有小帐之制，竹为骨，四方同于床，或弯环如弓样，或上方而窄、下方而宽，如覆斗样。《释名》所谓“斗帐”是也。帐罩于外，大小称乎骨，随处可张，颇为轻便。又有扇帐、荷包帐，俱非居家便用，无取也。冬月帐取低小，则暖气聚，以有骨子小帐，即设诸大床内；床之外，顶板覆其上，四面更以布作围，周匝亦如帐。床大帐小，得围遮护，乃益其暖。若暖床三面镶板，竟设小帐于中，作围赘矣。</p>
+<p>　　纸可作帐，出江右，大以丈计，名“皮纸”，密不漏气，冬得奇暖。或布作顶，少令通气，东坡诗：“困眠得就纸帐暖。”刘后村诗：“纸帐铁擎风雪夜。”又元张昱诗：“隔枕不闻巫峡雨，绕床惟走剡溪云。”或绘梅花于上，元陈泰诗：“梦回蕲竹生清寒，五月幻作梅花看。”盖自宋元以来，前人赏此多矣，如有题咏，并可即书于帐。</p>
+<p>　　《南史·梁武帝》，有木棉布皂帐，名曰“古终”。木棉布质厚于绸，暖即过之。窃意宫帏中所以用此者，乃寓崇俭之意，不然，则帐之暖，又岂独木棉布哉？《晋书·元帝纪》：“帝作布帐练帷”，皆崇俭也。宫帏中犹有崇俭如此者，士庶之家宜知节矣！</p>
+<p>　　有竹帘极细，名“虾须帘”，见《三汀杂志》。夏制为帐，用骨子弯环如弓样者，帘分四片，前二后一，顶及两旁，弯环合一；布缘其连，多缀以钮，称骨子扣之；前二片中分处，入寝亦扣密，则蚊可御，疏漏生凉，似胜于纱。《辍耕录》云：“宫阁制，有银鼠皮壁帐、黑貂皮暖帐。”壁帐岂寻常易办，皮暖帐世俗恒有，非必黑貂耳。但就枕如入暗室，晓夜不能辨，必于帐前开如圆月，纱补之以通光，玻璃尤为爽亮。</p>
+<p>　　有名“纱橱”，夏月可代帐，须楼下一统三间，前与后俱有廊者，方得为之。除廊外，以中一间左右前后，依柱为界，四面绷纱作窗，窗不设棂，透漏如帐，前后廊檐下，俱另置窗，俾有掩蔽，于中驱蚊陈几榻，日可起居，夜可休息，为销夏安适之最。</p>
+<p>　　帐有笼罩床外，床内设搁版如几，脚后横栏，搭衣帕之类，似属妥便。但帐不能作底，又褥不能压帐，仅以带缚床外。冬则暖气不固，夏则不足御蚊，武林僧房有此制。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18124.aspx">上一章</a>
+<a href="/guwen/book_219.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18126.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

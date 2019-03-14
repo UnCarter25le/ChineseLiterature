@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+庄子·杂篇·寓言_古诗文网
+</title>
+<meta content="寓言十九，重言十七，卮言日出，和以天倪。寓言十九，藉外论之 。亲父不为其子媒。亲父誉之，不若非其父者也。非吾罪也，人之罪 也。与己同则应，不与己同则反。同于己为是之，异于己为非之。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3280.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1814" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>杂篇·寓言</b></span>
+<a href="javascript:PlayBookv(3280)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3280" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1814)" id="leftbtn1814" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3280" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ba%84%e5%ad%90%e5%8f%8a%e9%97%a8%e5%be%92">庄子及门徒</a></p>
+<div class="contson">
+<p>　　寓言十九，重言十七，卮言日出，和以天倪。寓言十九，藉外论之 。亲父不为其子媒。亲父誉之，不若非其父者也。非吾罪也，人之罪 也。与己同则应，不与己同则反。同于己为是之，异于己为非之。重 言十七，所以己言也。是为耆艾，年先矣，而无经纬本末以期年耆者 ，是非先也。人而无以先人，无人道也。人而无人道，是之谓陈人。 卮言日出，和以天倪，因以曼衍，所以穷年。不言则齐，齐与言不齐 ，言与齐不齐也。故曰：“言无言。”言无言：终身言，未尝言；终 身不言，未尝不言。有自也而可，有自也而不可；有自也而然，有自 也而不然。恶乎然？然于然；恶乎不然？不然于不然。恶乎可？可于 可；恶乎不可？不可于不可。物固有所然，物固有所可。无物不然， 无物不可。非卮言日出，和以天倪，孰得其久！万物皆种也，以不同 形相禅，始卒若环，莫得其伦，是谓天均。天均者，天倪也。</p>
+<p>　　庄子谓惠子曰：“孔子行年六十而六十化。始时所是，卒而非之。 未知今之所谓是之非五十九非也。”惠子曰：“孔子勤志服知也。” 庄子曰：“孔子谢之矣，而其未之尝言也。孔子云：夫受才乎大本， 复灵以生。鸣而当律，言而当法。利义陈乎前，而好恶是非直服人之 口而已矣。使人乃以心服而不敢蘁，立定天下之定。已乎，已乎！吾 且不得及彼乎！”</p>
+<p>　　曾子再仕而心再化，曰：“吾及亲仕，三釜而心乐；后仕，三千锺 而不洎，吾心悲。”弟子问于仲尼曰：“若参者，可谓无所县其罪乎 ？”曰：“既已县矣！夫无所县者，可以有哀乎？彼视三釜、三千锺 ，如观雀蚊虻相过乎前也。”</p>
+<p>　　颜成子游谓东郭子綦曰：“自吾闻子之言，一年而野，二年而从， 三年而通，四年而物，五年而来，六年而鬼入，七年而天成，八年而 不知死、不知生，九年而大妙。生有为，死也。劝公以其私，死也有 自也，而生阳也，无自也。而果然乎？恶乎其所适，恶乎其所不适？ 天有历数，地有人据，吾恶乎求之？莫知其所终，若之何其无命也？ 莫知其所始，若之何其有命也？有以相应也，若之何其无鬼邪？无以 相应也，若之何其有鬼邪？”</p>
+<p>　　众罔两问于景曰：“若向也俯而今也仰，向也括撮而今也被发；向 也坐而今也起；向也行而今也止：何也？”景曰：“搜搜也，奚稍问 也！予有而不知其所以。予，蜩甲也，蛇蜕也，似之而非也。火与日 ，吾屯也；阴与夜，吾代也。彼，吾所以有待邪，而况乎以无有待者 乎！彼来则我与之来，彼往则我与之往，彼强阳则我与之强阳。强阳 者，又何以有问乎！”</p>
+<p>　　阳子居南之沛，老聃西游于秦。邀于郊，至于梁而遇老子。老子中 道仰天而叹曰：“始以汝为可教，今不可也。”阳子居不答。至舍， 进盥漱巾栉，脱屦户外，膝行而前，曰：“向者弟子欲请夫子，夫子 行不闲，是以不敢；今闲矣，请问其故。”老子曰：“而睢睢盱盱， 而谁与居！大白若辱，盛德若不足。”阳子居蹴然变容曰：“敬闻命 矣！”其往也，舍者迎将其家，公执席，妻执巾栉，舍者避席，炀者 避灶。其反也，舍者与之争席矣！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3279.aspx">上一章</a>
+<a href="/guwen/book_26.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3281.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1814" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

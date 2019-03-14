@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+十六国春秋别传·卷十二·南凉录_古诗文网
+</title>
+<meta content="秃发乌孤秃发乌孤，河西鲜卑人也。八世祖疋孤，率其部自塞北迁于河西。孤子寿阗立，寿阗卒，孙树机能立。壮果多谋略。泰始中杀秦州剌史胡烈于万斛堆败凉州剌史苏榆于金山，又杀凉州剌史杨欣于丹" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19549.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十二·南凉录</b></span>
+<a href="javascript:PlayBookv(19549)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19549" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19549" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b4%94%e9%b8%bf">崔鸿</a></p>
+<div class="contson">
+<p>　　<strong>秃发乌孤</strong></p>
+<p>　　秃发乌孤，河西鲜卑人也。八世祖疋孤，率其部自塞北迁于河西。孤子寿阗立，寿阗卒，孙树机能立。壮果多谋略。泰始中杀秦州剌史胡烈于万斛堆败凉州剌史苏榆于金山，又杀凉州剌史杨欣于丹岭，尽有凉州之地。武帝为之旰食。能死，从弟务凡代立。凡死，孙推斤立。斤死，子思复鞬立，部众转盛，遂据凉土，鞬卒，子乌孤袭位，养民务农修结邻好。吕光封乌孤广武郡公、益州牧、左贤王。</p>
+<p>　　太初元年正月，改元，自称大将军、大单于、西平生。以弟鹿孤为骠骑将军，傉檀为车骑将军。二年，改称武威王。三年正月，徒于乐都。八月，孤因酒走马，马倒伤胁。笑曰：“几使吕光父子大喜。”俄而患甚，顾谓群臣曰：“方难未靖，宜立长君。”言终而薨。在王位三年，伪谥武王，庙号烈祖。</p>
+<p>　　<strong>利鹿孤</strong></p>
+<p>　　利鹿孤，乌孤弟。太初三年八月即位，大赦，改治西平。建和元年正月，大赦改年。延耆老，访政治。二年群臣固请即尊号，不许。九月，僭称河西王。三年三月，寝疾，令曰：“昔我诸兄弟传位非子者，盖以泰伯三让，周道以兴故也。武王创践宝历，垂诸樊之试，终能克昌家业者，其在车骑乎。吾寝疾惙顿，是将不济。内外多虞，国机务广，且令车骑经总百揆，以成先王之志。”薨，谥康王，葬西平陵。</p>
+<p>　　<strong>傉檀</strong></p>
+<p>　　傉檀，利鹿孤弟也。少机警，有才略。建和三年袭位，僭号凉王，迁于乐都，改为弘昌元年。秦遣使拜车骑将军、广武公。四年六月，秦遣授河右诸军事、凉州剌史，镇姑臧。七月宴群臣于宣德堂，仰视而叹曰：“古人言，作者不居，居者不居。信矣！”前昌松太守孟进曰：“张文王筑城苑、缮宗庙，构此堂，为贻厥之资，万世之业。秦师济河，讠崔然瓦解。此堂之建，年垂百载，十有二主。唯信顺可以久安，仁义可以永固。愿大王勉之！”檀曰：“非子无以闻谠言也。”八月，以镇南大将军文支镇姑臧，檀迁于乐都，虽受制于秦，车服礼制，一如王也。十一月，迁于姑臧。</p>
+<p>　　嘉平元年十一月，僭即凉王位于南郊，大赦，改年嘉平。置百官，立世子虎台为太子。二年正月，以子明德归为南中郎将，领昌松太守。归隽爽聪悟，檀甚宠之，年始十三，命为《高昌殿赋》，援笔即成，影不移漏，檀览而喜之，拟之曹子建。七年，傉檀议欲西征乙弗，孟恺谏曰：“连年不收，上下饥弊，南逼炽盘，北迫蒙逊，今远征虽克，后患必深。”傉檀曰：“孤将略地，卿无阻众。”谓其太子虎台曰：“今不种多年，内外俱窘，事宜西行，以拯此弊。蒙逊近去，不能卒来，旦夕所虑，唯在炽盘。彼名微众寡，易以讨御。吾不过一月自足周旋，汝谨守乐都，无使失坠。”傉檀乃率骑数千，西袭乙弗，大破之，获牛马羊四十余万。炽盘乘虚来袭，一旦而城溃，安西樊尼自西平奔告傉檀，傉檀谓众曰：“今乐都为炽盘所陷，卿等能与吾籍乙弗之资，取契汗以赎妻子者，是所望也。遂引师而西，众多逃返，遣征北段苟追之，苟亦不还。于是将士皆散。傉檀曰：“蒙逊、炽盘昔皆委质于吾，今而归之，不亦鄙乎！四海之广，匹夫无所容其身，何其痛哉！吾老矣，宁见妻子而死，遂归炽盘。六月，至西平，盘遣使郊迎，以上宾之礼。岁余，为炽盘所鸩。谥景王，时年五十一。虎台亦为炽盘所害。少子保周归魏，魏以为张掖王。</p>
+<p>　　自乌孤太初元年岁在丁酉至檀薨之岁，十有八岁。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19548.aspx">上一章</a>
+<a href="/guwen/book_250.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19550.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

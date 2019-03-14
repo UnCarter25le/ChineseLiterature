@@ -1,0 +1,126 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷十·妇人解·胎妊解_古诗文网
+</title>
+<meta content="胎妊者，土气所长养也。两精相抟，二气妙凝，清升浊降，阴阳肇基。血以濡之，化其神魂，气以煦之，化其精魄。气统于肺，血藏于肝，而气血之根，总原于土。土者，所以滋生气血，培养胎妊之本也。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18583.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·妇人解·胎妊解</b></span>
+<a href="javascript:PlayBookv(18583)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18583" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18583" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　胎妊者，土气所长养也。两精相抟，二气妙凝，清升浊降，阴阳肇基。血以濡之，化其神魂，气以煦之，化其精魄。气统于肺，血藏于肝，而气血之根，总原于土。土者，所以滋生气血，培养胎妊之本也。木火以生长之，金水以收成之，土气充周，四维寄旺，涵养而变化之，五气皆足，十月而生矣。</p>
+<p>　　土衰而四维失灌，藏气不厚，则木不能生，生气不厚，则火不能长，长气不厚，则金不能收，收气不厚，则水不能成。生长之气薄，则胎不发育，收成之气薄，斯胎不坚完。木火衰乃伤堕于初结之月，金水弱乃殒落于将成之时。</p>
+<p>　　血生于木火，气化于水金，而土则四象之中气也，故养胎之要，首在培土。土运则清其火金而上不病热，暖其水木而下不病寒。木温而火清，则血流而不凝也；金凉而水暖，则气行而不滞也。气血环抱而煦濡之，形神巩固，永无半产之忧矣。</p>
+<p>　　<strong>结胎</strong></p>
+<p>　　胎妊之结，生长资乎木火，收成藉乎金水。土者，四象之母，其絪缊变化，煦濡滋养，全赖乎土。脾以己土而主升，升则化阳而善消；胃以戊土而主降，降则化阴而善受。胎之初结，中气凝蹇，升降之机，乍而堙郁，冲和之气，渐而壅满。其始胃气初郁，滋味厌常而喜新。及其两月胎成，则胃气阻逆，恶心呕吐，食不能下。迟而中气回环，胃土续降，然后能食。</p>
+<p>　　胃土降，则心火下行而化水；脾土升，则肾水上交而化火。胎气在中，升降不利，乃水偏于下润而火偏于上炎。水润下者，火不交水而坎阳虚也；火炎上者，水不济火而离阴弱也。是故妊娠之证，下寒而上热，妊娠之脉，尺微而寸洪。</p>
+<p>　　仲景《金匮》：妇人得平脉，阴脉小弱，其人渴，不能食，无寒热，名妊娠。寸为阳，尺为阴，阴脉小弱者，尺之微也。《素问·平人气象论》：妇人手少阴脉动甚者，妊子也。手少阴之经，循臑内后廉，而走小指，脉动在神门，神门，在掌后锐骨之中。虽非寸口，然太阴之左寸，亦可以候心，神门脉动者，寸口必动。手少阴脉动者，寸之洪也。推之，左寸脉动者，右寸必动，男胎动于左寸，女胎动于右寸，亦自然之理也。</p>
+<p>　　十九难：男脉在关上，女脉在关下。男子寸大而尺小，女子寸小而尺大者，常也。胎气一结，虚实易位，大小反常，缘于中气之壅阻也。阴阳郁格，最易为病，法宜行郁理气为主，未可遽用填补之剂也。</p>
+<p>　　豆蔻苓砂汤</p>
+<p>　　白蔻一钱，生，研　杏仁二钱　甘草一钱　砂仁一钱，炒，研　芍药二钱　丹皮三钱　茯苓三钱　橘皮一钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　治胎孕初结，恶心呕吐，昏晕燥渴。</p>
+<p>　　证缘中气郁阻，胃土不降，以此开郁降浊，清胆火而行肝血。内热加清凉之味，内寒加温暖之品，酌其脏腑阴阳而调之。</p>
+<p>　　<strong>堕胎</strong></p>
+<p>　　胎之结也，一月二月，木气生之，三月四月，火气长之，五月六月，土气化之，七月八月，金气收之，九月十月，水气成之。五气皆足，胎完而生矣。而土为四象之母，始终全藉乎土，土中阳旺，则胎气发育，十月满足，不至于堕。</p>
+<p>　　盖胎妊之理，生长乎木火，收藏于金水，而四象之推迁，皆中气之转运也。阳蛰地下，左旋而化乙木，和煦温畅，万物资生者，己土之东升也；阴凝天上，右转而化辛金，清凉肃杀，万宝告成者，戊土之西降也。木升火化而胎气畅茂，金降水凝而胎气坚完。生长之气衰，则胎堕于初结，收成之力弱，则胎殒于将完，其实皆土气之虚也。土生于火而克于木，火旺则土燥而木达，火衰则土湿而木郁。乙木郁陷而克己土，土气困败，胎妊失养，是以善堕。</p>
+<p>　　胎妊欲堕，腰腹必痛。痛者，木陷而克土也。木生于水而长于土，土湿水寒，乙木乃陷。三十六难：命门者，诸精神之所舍，原气之所系，男子以藏精，女子以系胞。命门阳败，肾水澌寒，侮土灭火，不生肝木，木气郁陷，而贼脾土，此胎孕堕伤之原也。</p>
+<p>　　姜桂苓参汤</p>
+<p>　　甘草二钱　人参三钱　茯苓三钱　干姜三钱　桂枝三钱　丹皮三钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　腹痛，加砂仁、芍药。</p>
+<p>　　<strong>胎漏</strong></p>
+<p>　　结胎之后，经水滋养子宫，化生血肉，无有赢余，是以断而不行。其胎结而经来者，必有瘀血阻格。缘胎成经断，血室盈满，不复流溢。肝脾阳弱，莫能行血，养胎之余，易致堙瘀。瘀血蓄积，阻碍经络，胎妊渐长，隧道壅塞。此后之血，不得上济，月满阴盈，于是下漏。按其胎之左右，必有癥块。或其平日原有宿癥，亦能致此。</p>
+<p>　　若内无瘀血，则是肝脾下陷，经血亡脱，其胎必堕。若血下而腹痛者，则是胞气壅碍，土郁木陷，肝气贼脾也，《金匮》名为胞阻。</p>
+<p>　　宜疏木达郁而润风燥，其漏血腹痛自止。</p>
+<p>　　桂枝地黄阿胶汤</p>
+<p>　　甘草二钱　地黄三钱　阿胶三钱　当归三钱　桂枝三钱　芍药三钱　茯苓三钱　丹皮三钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　治妊娠下血腹痛者。</p>
+<p>　　桂枝茯苓汤</p>
+<p>　　桂枝三钱　茯苓三钱　甘草二钱　丹皮三钱　芍药三钱　桃仁三钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　治妊娠下血，癥块连胎者。</p>
+<p>　　轻者作丸，缓以消之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18582.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18584.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

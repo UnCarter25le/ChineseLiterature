@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+幼学琼林·卷四·讼狱_古诗文网
+</title>
+<meta content="世人惟不平则鸣，圣人以无讼为贵。上有恤刑之主，桁杨雨润；下无冤枉之民，肺石风清。虽囹圄便是福堂，而画地亦可为狱。与人构讼，曰鼠牙雀角之争；罪人诉冤，有抢地吁天之惨。狴犴猛犬而能守，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5514.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3814" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·讼狱</b></span>
+<a href="javascript:PlayBookv(5514)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5514" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3814)" id="leftbtn3814" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5514" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%a8%8b%e7%99%bb%e5%90%89">程登吉</a></p>
+<div class="contson">
+<p>　　世人惟不平则鸣，圣人以无讼为贵。上有恤刑之主，桁杨雨润；下无冤枉之民，肺石风清。虽囹圄便是福堂，而画地亦可为狱。与人构讼，曰鼠牙雀角之争；罪人诉冤，有抢地吁天之惨。</p>
+<p>　　狴犴猛犬而能守，故狱门画狴犴之形；棘木外刺而里直，故听讼在棘木之下。乡亭之系有岸，朝廷之系有狱，谁敢作奸犯科；死者不可复生，刑者不可复续，上当原情定罪。囹圄是周狱，羑里是商牢。桎梏之设，乃拘罪人之具；缧绁之中，岂无贤者之冤。两争不放，谓之鹬蚌相持；无辜牵连，谓之池鱼受害。</p>
+<p>　　请公入瓮，周兴自作其孽；下车泣罪，夏禹深痛其民。好讼曰健讼，挂告曰株连。为人息讼，谓之释纷；被人栽冤，谓之嫁祸。徒配曰城旦，遣戍是问军。三尺乃朝廷之法，三木是罪人之刑。</p>
+<p>　　古之五刑，墨、劓、剕、宫、大辟；今之律例，笞、杖、死罪、徒、流。上古时削木为吏，今日之淳风安在；唐太宗纵囚归狱，古人之诚信可嘉。花落讼庭间，草生囹圄静，歌何易治民之间；吏从冰上立，人在镜中行，颂卢奂折狱之清。可见治乱之药石，刑罚为重；兴平之梁肉，德教为先。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5513.aspx">上一章</a>
+<a href="/guwen/book_70.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5515.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3814" style="width:580px; display:none;"></div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

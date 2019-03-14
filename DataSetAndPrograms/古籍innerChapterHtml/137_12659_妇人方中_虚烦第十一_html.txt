@@ -1,0 +1,124 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·妇人方中·虚烦第十一_古诗文网
+</title>
+<meta content="（方十一首）薤白汤　　治产后胸中烦热逆气方。薤白 半夏 甘草 人参 知母（各二两） 石膏（四两） 栝蒌根（三两） 麦门冬 （半升）上八味， 咀，以水一斗三升，煮取四升，去滓，分五服" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12659.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>妇人方中·虚烦第十一</b></span>
+<a href="javascript:PlayBookv(12659)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12659" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12659" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（方十一首）</span></p>
+<p><strong>　　薤白汤<br/></strong>　　治产后胸中烦热逆气方。</p>
+<p>　　薤白 半夏 甘草 人参 知母（各二两） 石膏（四两） 栝蒌根（三两） 麦门冬 （半升）</p>
+<p>　　上八味， 咀，以水一斗三升，煮取四升，去滓，分五服，日三夜二，热甚即加石膏、知母各一两。</p>
+<p>　　<strong>竹根汤<br/></strong>　　治产后虚烦方。</p>
+<p>　　甘竹根细切一斗五升，以水二斗，煮取七升，去滓，纳小麦二升，大枣二十枚，复煮麦熟三四沸，纳甘草一两，麦门冬一升，汤成去滓，服五合，不瘥更服取瘥。短气亦服之。</p>
+<p>　　<strong>人参当归汤<br/></strong>　　治产后烦闷不安方。</p>
+<p>　　人参 当归 麦门冬 干地黄 桂心（各一两） 大枣（二十枚） 粳米（一升） 芍药（四两） 淡竹叶（三升）</p>
+<p>　　上九味， 咀，以水一斗二升，先煮竹叶及米，取八升，去滓，纳药煮取三升，去滓，分三服。若烦闷不安者，当取豉一升，以水三升煮取一升，尽服之，甚良。</p>
+<p>　　<strong>甘竹茹汤<br/></strong>　　治产后内虚、烦热短气方。</p>
+<p>　　甘竹茹（一升） 人参 茯苓 甘草（各一两） 黄芩（三两）</p>
+<p>　　上五味， 咀，以水六升，煮取二升，去滓，分三服，日三。</p>
+<p>　　<strong>知母汤<br/></strong>　　治产后乍寒乍热，通身温壮，胸心烦闷方。</p>
+<p>　　知母（三两） 芍药 黄芩（各二两） 桂心 甘草（各一两）</p>
+<p>　　上五味， 咀，以水五升，煮取二升半，分三服。</p>
+<p>　　一方不用桂心加生地。</p>
+<p>　　<strong>竹叶汤<br/></strong>　　治产后心中烦闷不解方。</p>
+<p>　　生淡竹叶 麦门冬（各一升） 甘草（二两） 生姜 茯苓（各三两） 大枣（十四枚）小麦 （五合）</p>
+<p>　　上七味， 咀，以水一斗，先煮竹叶、小麦，取八升，纳诸药，煮取三升，去滓，分三服。若心中虚悸者，加人参二两。其人食少无谷气者，加粳米五合。气逆者加半夏二两。</p>
+<p>　　<strong>淡竹茹汤<br/></strong>　　治产后虚烦，头痛、短气欲绝，心中闷乱不解方。</p>
+<p>　　生淡竹茹（一升） 麦门冬 小麦（各五合） 甘草（一两） 生姜（三两，《产宝》用干葛）</p>
+<p>　　上六味， 咀，以水一斗煮竹茹、小麦，取八升，去滓，纳诸药，煮取一升，去滓，分二服，羸人分作三服，若有人参入一两，若无人参，纳茯苓一两半亦佳。人参、茯苓皆治心烦闷及心虚惊悸，安定精神，有则为良，无自根据方服一剂，不瘥更作。若气逆者加半夏二两。</p>
+<p>　　<strong>赤小豆散<br/></strong>　　治产后虚烦，不能食，虚满方。</p>
+<p>　　赤小豆三七枚，烧作末，以冷水和，顿服之良。</p>
+<p>　　<strong>蒲黄散<br/></strong>　　治产后烦闷方。</p>
+<p>　　蒲黄以东流水和方寸匕，服极良。</p>
+<p>　　<strong>蜀漆汤<br/></strong>　　治产后虚热往来，心胸烦满，骨节疼痛及头痛壮热，晡时辄甚，又如微疟方。</p>
+<p>　　蜀漆叶 桂心 甘草 黄芩（各一两） 黄 （五两） 知母 芍药（各二两） 生地黄（一斤）</p>
+<p>　　上八味， 咀，以水一斗，煮取三升，分三服。治寒热不伤人。</p>
+<p>　<strong>　芍药汤<br/></strong>　　治产后虚热头痛方。</p>
+<p>　　白芍药 干地黄 牡蛎（各五两） 桂心（三两）</p>
+<p>　　上四味， 咀，以水一斗，煮取二升半，去滓，分三服，日三。此汤不伤损人，无毒，亦治腹中拘急痛。若通身发热，加黄芩二两。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12658.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12660.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

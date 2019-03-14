@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·韩生_古诗文网
+</title>
+<meta content="唐贞元中，有大理评事韩生者，侨居西河郡南。有一马，甚豪骏。常一日清晨，忽委首于枥，汗而且喘，若涉远而殆者。圉人怪之，具白于韩生。韩生怒：“若盗马夜出，使吾马力殆。谁之罪？”乃令朴焉" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19368.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>韩生</b></span>
+<a href="javascript:PlayBookv(19368)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19368" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19368" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　唐贞元中，有大理评事韩生者，侨居西河郡南。有一马，甚豪骏。常一日清晨，忽委首于枥，汗而且喘，若涉远而殆者。圉人怪之，具白于韩生。韩生怒：“若盗马夜出，使吾马力殆。谁之罪？”乃令朴焉。圉人无以辞，遂受朴。至明日，其马又汗而喘。圉人窃异之，莫可测。是夕，圉人卧无厩舍，阖扉，乃于隙中窥之。忽见韩生所畜黑犬至厩中，且嗥且跃，俄化为一丈夫，衣冠尽黑，既挟鞍致马上，驾而去。行至门，门垣甚高，其黑衣人以鞭击马，跃而过。黑衣者乘马而去。半夜还，下马解鞍，其黑衣人又嗥跃，还化为犬。圉人惊异，不敢泄于人。元中，有大理评事韩生者，侨居西河郡南。有一马，甚豪骏。常一日清晨，忽委首于枥，汗而且喘，若涉远而殆者。圉人怪之，具白于韩生。韩生怒：“若盗马夜出，使吾马力殆。谁之罪？”乃令朴焉。圉人无以辞，遂受朴。至明日，其马又汗而喘。圉人窃异之，</p>
+<p>　　后一夕，黑犬又驾马而去，逮晓方归。圉人因寻马踪，以天雨新霁，历历可辨，直至南十余里一古墓前，马迹方绝。圉人乃结茅斋于墓侧。来夕，先止于斋中以伺之。夜将分，黑衣人果驾马而来。下马，系于野树。其人入墓，与数辈笑言极欢。圉人在茅斋中俯而听之，不敢动。近数食顷，黑衣人告去，数辈送出墓外。于野，有一褐衣者顾谓黑衣人曰：“韩氏名藉今安在？”黑衣人曰：“吾已收在扌寿练石下。吾子无以为忧。”褐衣者曰：“慎毋泄。泄则吾属不全矣。”黑衣人曰：“谨受教。”褐衣者曰：“韩氏稚儿有字乎？”曰：“未也。吾伺有字，即编于名籍，不敢忘。”褐衣者曰：“明夕再来，当得以笑语。”黑衣唯而去。夕，黑犬又驾马而去，逮晓方归。圉人因寻马踪，以天雨新霁，历历可辨，直至南十余里一古墓前，马迹方绝。圉人乃结茅斋于墓侧。来夕，先止于斋中以伺之。夜将分，黑衣人果驾马而来。下马，系于野树。其人入墓，与数辈笑言极欢。圉人在茅斋中俯而听之，不敢动。近数食顷，黑衣人告去，数辈送出墓外。于野，有一褐衣者顾谓黑衣人曰：“韩氏名藉今安在？”黑衣人曰：“吾已收在扌寿练石下。吾子无以为忧。”褐衣者曰：“慎毋泄。泄则吾属不全矣。”黑衣人曰：“谨受</p>
+<p>　　及晓，圉者归，遂以其事密告于韩生。生即命肉诱其犬。犬既至，因以绳系。乃次所闻，遂穷扌寿练石下，果得一轴书，具载韩氏兄弟妻子家僮名氏，纪莫不具。盖所谓韩氏名籍也。有子生一月矣，独此子不书，所谓“稚儿未字”也。韩生大异，命致犬于庭，鞭而杀之。熟其肉以食家僮。已而率邻居士子千余辈，执弧矢兵仗，至郡南古墓前，发基墓，墓中有数犬，毛状皆异，尽杀之以归。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19367.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19369.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

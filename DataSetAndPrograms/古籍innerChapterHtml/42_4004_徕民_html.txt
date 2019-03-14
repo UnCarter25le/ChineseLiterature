@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+商君书·徕民_古诗文网
+</title>
+<meta content="地方百里者，山陵处什一，薮泽处什一，薮谷流水处什一，都邑蹊道处什一，恶田处什二，良田处什四，以此食作夫五万，其山陵、薮泽、谿谷可以给其材，都邑蹊道足以处其民，先王制土分民之律也。今" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4004.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2600" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>徕民</b></span>
+<a href="javascript:PlayBookv(4004)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4004" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2600)" id="leftbtn2600" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4004" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%95%86%e9%9e%85">商鞅</a></p>
+<div class="contson">
+<p>　　地方百里者，山陵处什一，薮泽处什一，薮谷流水处什一，都邑蹊道处什一，恶田处什二，良田处什四，以此食作夫五万，其山陵、薮泽、谿谷可以给其材，都邑蹊道足以处其民，先王制土分民之律也。</p>
+<p>　　今秦之地，方千里者五，而谷土不能处二，田数不满百万，其薮泽、谿谷、名山、大川之材物货宝，又不尽为用，此人不称土地。秦之所与邻者，三晋也；所欲用兵者，韩、魏也。彼土狭而民众，其宅参居而并处；其寡萌贾息民，上无通名，下无田宅，而恃奸务末作以处；人之复阴阳泽水者过半。</p>
+<p>　　此其土之不足以生其民也，似有过秦民之不足以实其土也，意民之情，其所欲者田宅也，而晋之无有也信，秦之有余也必。如此而民不西者，秦士威而民苦也。臣窃以王吏之明为过见。此其所以弱不夺三晋民者，爱爵而重复也，其说曰：“三晋之所以弱者，其民务乐而复爵轻也。秦之所以强者，其民务苦而复爵重也。今多爵而久复，是释秦之所以强，而为三晋之所以弱也。此王吏重爵爱复之说也，而臣窃以为不然。夫所以为苦民而强兵者，将以攻敌而成所欲也。兵法曰：“敌弱而兵强。”此言不失吾所以攻，而敌失其所守也。今三晋不胜秦，四世矣。自魏襄以来，野战不胜，守城必拔，小大之战，三晋之所亡于秦者，不可胜数也。若此而不服，秦能取其地，而不能夺其民也。</p>
+<p>　　今王发明惠：诸侯之士来归义者，今使复之三世，无知军事；秦四竟之内，陵阪丘隰，不起十年征。者于律也，足以造作夫百万。曩者臣言曰：“意民之情，其所欲者田宅也，晋之无有也信，秦之有余也必。若此而民不西者，秦士戚而民苦也。”今利其田宅，而复之三世，此必与其所欲而不使行其所恶也，然则山东之民无不西者矣。且直言之谓也，不然，夫实圹什虚，也天宝，而百万事本，其所益多也，岂徒不失其所以攻乎？</p>
+<p>　　夫秦之所患者，兴兵而伐，则国家贫；安居而农，则敌得休息。此王所不能两成也，故三世战胜，而天下不服。今以故秦事敌，而使新民作本，兵虽百宿于外，竟内不失须臾之时，此富强两成之效也。臣之所谓兵者，非谓悉兴尽起也，论竟内所能给军卒车骑，令故秦兵，新民给刍食。天下有不服之国，则王以此春围其农，夏食其食，秋取其刈，冬陈其宝，以大武摇其本，以广文安其嗣。王行此，十年之内，诸侯将无异民，而王何为爱爵而重复乎？</p>
+<p>　　周军之胜，华军之胜，秦斩首而东之，东之无益亦明矣，而吏犹以为大功，为其损敌也，今以草茅之地徕三晋之民而使之事本，此其损敌也与战胜同实，而秦得之以为粟，此反行两登之计也。且周军之胜、华军之胜、长平之胜，秦所亡民者几何？民客之兵不得事本者几何？臣窃以为不可数矣。假使王之群臣，有能用之、费此之半、弱晋强秦、若三战之胜者，王必加大赏焉。今臣之所言，民无一日之繇，官无数钱之费，其弱晋强秦，有过三战之胜，而王犹以为不可，则臣愚不能知已。</p>
+<p>　　齐人有东郭敞者，犹多愿，愿有万金。其徒请赒焉，不与，曰：“吾将以求封也。”其徒怒而去之宋。曰：“此爱于无也，故不如以先与之有也。”</p>
+<p>　　今晋有民，而秦爱其复，此爱非其有以失其有也，岂异东郭敞之爱非其有以亡其徒乎？且古有尧、舜，当时而见称；中世有汤、武，在位而民服。此三王者，万世之所称也，以为圣王也，然其道犹不能取用于后。今复之三世，而三晋之民可尽也。是非王贤立今时，而使后世为王用乎？然则非圣别说，而听圣人难也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4003.aspx">上一章</a>
+<a href="/guwen/book_42.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4005.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2600" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

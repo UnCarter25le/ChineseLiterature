@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+尚书·周书·顾命_古诗文网
+</title>
+<meta content="成王将崩，命召公、毕公率诸侯相康王，作《顾命》。惟四月，哉生魄，王不怿。甲子，王乃洮□水。相被冕服，凭玉几。乃同，召太保奭、芮伯、彤伯、毕公、卫侯、毛公、师氏、虎臣、百尹、御事。王" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3128.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2017" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>周书·顾命</b></span>
+<a href="javascript:PlayBookv(3128)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3128" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2017)" id="leftbtn2017" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3128" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　成王将崩，命召公、毕公率诸侯相康王，作《顾命》。</p>
+<p>　　惟四月，哉生魄，王不怿。甲子，王乃洮□水。相被冕服，凭玉几。乃同，召太保奭、芮伯、彤伯、毕公、卫侯、毛公、师氏、虎臣、百尹、御事。王曰：「呜呼！疾大渐，惟几，病日臻。既弥留，恐不获誓言嗣，兹予审训命汝。昔君文王、武王宣重光，奠丽陈教，则肄肄不违，用克达殷集大命。在后之侗，敬迓天威，嗣守文、武大训，无敢昏逾。今天降疾，殆弗兴弗悟。尔尚明时朕言，用敬保元子钊弘济于艰难，柔远能迩，安劝小大庶邦。思夫人自乱于威仪。尔无以钊冒贡于非几。」</p>
+<p>　　兹既受命，还出缀衣于庭。越翼日乙丑，王崩。太保命仲桓、南宫毛俾爰齐侯吕伋，以二干戈、虎贲百人逆子钊于南门之外。延入翼室，恤宅宗。丁卯，命作册度。</p>
+<p>　　越七日癸酉，伯相命士须材。狄设黼扆、缀衣。牖间南向，敷重篾席，黼纯，华玉，仍几。西序东向，敷重厎席，缀纯，文贝，仍几。东序西向，敷重丰席，画纯，雕玉，仍几。西夹南向，敷重笋席，玄纷纯，漆，仍几。越玉五重，陈宝，赤刀、大训、弘璧、琬琰、在西序。大玉、夷玉、天球、河图，在东序。胤之舞衣、大贝、鼖鼓，在西房；兑之戈、和之弓、垂之竹矢，在东房。大辂在宾阶面，缀辂在阼阶面，先辂在左塾之前，次辂在右塾之前。</p>
+<p>　　二人雀弁，执惠，立于毕门之内。四人綦弁，执戈上刃，夹两阶戺。一人冕，执刘，立于东堂，一人冕，执钺，立于西堂。一人冕，执戣，立于东垂。一人冕，执瞿，立于西垂。一人冕，执锐，立于侧阶。</p>
+<p>　　王麻冕黼裳，由宾阶隮。卿士邦君麻冕蚁裳，入即位。太保、太史、太宗皆麻冕彤裳。太保承介圭，上宗奉同瑁，由阼阶隮。太史秉书，由宾阶隮，御王册命。曰：「皇后凭玉几，道扬末命，命汝嗣训，临君周邦，率循大卞，燮和天下，用答扬文、武之光训。」王再拜，兴，答曰：「眇眇予末小子，其能而乱四方以敬忌天威。」乃受同瑁，王三宿，三祭，三吒。上宗曰：「飨！」太保受同，降，盥，以异同秉璋以酢。授宗人同，拜。王答拜。太保受同，祭，哜，宅，授宗人同，拜。王答拜。太保降，收。诸侯出庙门俟。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3127.aspx">上一章</a>
+<a href="/guwen/book_22.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3129.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2017" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

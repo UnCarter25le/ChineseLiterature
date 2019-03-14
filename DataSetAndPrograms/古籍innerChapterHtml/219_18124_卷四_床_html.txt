@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+老老恒言·卷四·床_古诗文网
+</title>
+<meta content="《记·内则》云：“安其寝处。”安之法，床为要。服虔《通俗文》曰：“八尺曰床。”故床必宽大，则盛夏热气不逼。上盖顶板，以隔尘灰，后与两旁，勿作虚栏；镶板高尺许，可遮护汗体；" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18124.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·床</b></span>
+<a href="javascript:PlayBookv(18124)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18124" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18124" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%b9%e5%bb%b7%e6%a0%8b">曹廷栋</a></p>
+<div class="contson">
+<p>　　《记·内则》云：“安其寝处。”安之法，床为要。服虔《通俗文》曰：“八尺曰床。”故床必宽大，则盛夏热气不逼。上盖顶板，以隔尘灰，后与两旁，勿作虚栏；镶板高尺许，可遮护汗体；四脚下周围，板密镶之，旁开小门，隆冬置炉于中，令有微暖；或以物填塞，即冷气勿透。板须可装可卸，夏则卸去。床边上作抽屉一二，便于置物备用。</p>
+<p>　　安床着壁，须杉木板隔之。杉质松，能敛湿气，若加油漆，湿气反凝于外。头卧处近壁，亦须板隔，否则壁土湿蒸，验之有霉气，人必受于不觉。《竹窗琐语》曰：“黄梅时，以干栎炭置床下，堪收湿，晴燥即撤去，卧久令人病 。”床低则卧起俱便，陆放翁诗，所谓“绿藤水纹穿矮床”也。如砖地安床，恐有地风暗吹，及湿气上透，须办床垫。称床大小，高五六寸，其前宽二尺许，以为就寝伫足之所，今俗有所谓“踏床”者。床前另置矮凳，既有床垫，踏床可省。暖床之制，上有顶，下有垫，后及两旁，俱实板作门；三面镶密，纸糊其缝，设帐于内，更置幔遮于帐前，可谓深暖至矣。入夏则门亦可卸，不碍其为凉爽也。今俗所谓暖床，但作虚栏绕之，于暖之义奚取？</p>
+<p>　　《说文》曰：“簟，竹席也。”昌黎诗云：“卷送八尺含风漪”是也。今以木镶方匡，或棕穿，或藤穿，通谓之簟。窃意温凉异候，床不得屡易，簟则不妨更换。夏宜棕穿者，取其疏；冬宜藤穿者，取其密。陕西有以牛皮绷若鼓，作冬月卧簟，尤能隔绝冷气。</p>
+<p>　　盛夏暂移床于室中央，四面空虚，即散烦热，楼作卧室者更妥。窗牖不可少开，便微风得入卧所。凡室有里外间者，则开户以通烦闷之气，户之外，又不嫌窗牖洞达矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18123.aspx">上一章</a>
+<a href="/guwen/book_219.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18125.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

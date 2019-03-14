@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·慎_古诗文网
+</title>
+<meta content="历史来源　　1、出自禽滑厘之后，以祖字为氏。春秋时期的禽滑厘是墨子的弟子，他的字为慎子。他的后代以他的字作为姓氏，形成慎姓。　　2、出自芈姓，以邑名为氏。春秋时期的楚国太子白公胜的" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2646.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>慎</b></span>
+<a href="javascript:PlayBookv(2646)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2646" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2646" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自禽滑厘之后，以祖字为氏。春秋时期的禽滑厘是墨子的弟子，他的字为慎子。他的后代以他的字作为姓氏，形成慎姓。<br/>　　2、出自芈姓，以邑名为氏。春秋时期的楚国太子白公胜的后裔中有的被封在慎邑，他的子孙便以邑名作为姓氏，称为慎姓。据《姓氏考略》记载，春秋时，楚国有个地方叫慎县，是白公之邑，其后人以地为氏，望出天水。而根据历史文献资料考证，楚时的慎邑，在今安徽省颍上县西北。望族居天水郡（今甘肃省通渭县西南）。</p>
+<p><strong>家族名人</strong><br/>　　慎到：战国时期韩国大夫、法家名人，曾在齐国的稷下讲学，颇负盛名。研习黄老的道德之术后得到启示，于是有了自己的学说，他主张“抱法处世”“无为而治”，从“弃知去己”出发。著作有《慎子》四十二篇，是慎姓人的骄傲。<br/>　　慎钺：宋代官吏，管理有方，严明但不苛刻，为民做主，得到人民的爱戴。<br/>　　慎蒙：明朝嘉靖进士，字山泉，归安人。在朝廷任监察御史。著作有《天下名山诸胜一览记》。<br/>　　慎温其：宋代词人。宋代人改变唐朝人做律诗的习惯，开始做词，句式比律诗自由，又合谱可歌唱，也称为“长短句”。慎温其对词学就很有见解。<br/>　　慎知礼：宋代词人慎温其的儿子，从小受家学家教，以知书识礼，年青有为并以至孝而闻名当时，做了兴元知府。喜作诗，工医术，后官开封知府。<br/>　　慎从吉：宋代词人慎温其的孙子，爱作诗词，又通医学，做过开封知府。慎姓人在宋代名人辈出，家族昌盛。<br/>　　慎东美：北宋京兆人，书画家，字伯筠，秋夜待潮于钱塘江，沙上露坐，设大酒樽及一杯，对月独饮，意象傲逸，吟啸自若。顾子敦适遇之，亦怀一杯，就其樽对酌。伯筠不问，子敦亦不与之语。酒尽各散去。伯筠工书，王逢原赠之诗，极称其笔法，有曰：“铁索急缠蛟龙僵。”盖言其老劲也。苏东坡见其题壁，亦曰：“此有何好，但似篾束枯骨耳。”伯筠闻之，笑曰：“此意逢原已道了。”今惟丹阳有《戴叔伦碑》，是其遗迹。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）慎姓在大陆和台湾都没有列入百家姓前一百位。关于慎氏是来源有两个说法，一说是，慎氏是传自战国时代魏国墨子的学生禽滑厘，由于禽滑厘的字为“慎子”，所以其子孙才“以王父字为氏”而姓了慎。《尚友录》上记载：“禽滑厘，字慎子，以字为姓。”一说是，慎氏“以地为氏”。依《姓氏考略》记载，春秋时，楚国有个地方叫慎县，是白公之邑，其后人以地为氏，望出天水。而根据历史文献资料考证，楚时的慎邑，在今安徽颍上县西北。望族居天水郡（今甘肃省通渭县西南）。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2645.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2647.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

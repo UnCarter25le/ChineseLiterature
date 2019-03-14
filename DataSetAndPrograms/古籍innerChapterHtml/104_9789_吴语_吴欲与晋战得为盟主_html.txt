@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·吴语·吴欲与晋战得为盟主_古诗文网
+</title>
+<meta content="吴王昏乃戒，令秣马食士。夜中，乃令服兵擐甲，系马舌，出火灶，陈士卒百人，以为彻行百行。行头皆官师，拥铎拱稽，建肥胡，奉文犀之渠。十行一嬖大夫，建旌提鼓，挟经秉枹。十旌一将军，载常建" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9789.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8540" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>吴语·吴欲与晋战得为盟主</b></span>
+<a href="javascript:PlayBookv(9789)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9789" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8540)" id="leftbtn8540" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9789" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+吴王昏乃戒，令秣马食士。夜中，乃令服兵擐甲，系马舌，出火灶，陈士卒百人，以为彻行百行。行头皆官师，拥铎拱稽，建肥胡，奉文犀之渠。十行一嬖大夫，建旌提鼓，挟经秉枹。十旌一将军，载常建鼓，挟经秉枹。万人以为方阵，皆白裳、白旂、素甲、白羽之矰，望之如荼。王亲秉钺，载白旗以中阵而立。左军亦如之，皆赤裳，赤、丹甲、朱羽之矰，望之如火。右军亦如之，皆玄裳、玄旗、黑甲、乌羽之矰，望之如墨。为带甲三万，以势攻，鸡鸣乃定。既陈，去晋军一里。昧明，王乃秉枹，亲就鸣钟鼓、丁宁、于振铎，勇怯尽应，三军皆哗釦以振旅，其声动天地。
+</p><p>　　
+晋师大骇不出，周军饬垒，乃令董褐请事，曰：“两君偃兵接好，日中为期。今大国越录，而造于弊邑之军垒，敢请乱故。”
+</p><p>　　
+吴王亲对之曰：“天子有命，周室卑约，贡献莫入，上帝鬼神而不可以告。无姬姓之振也，徒遽来告。孤日夜相继，匍匐就君。君今非王室不平安是忧，亿负晋众庶，不式诸戎、狄、楚、秦；将不长弟，以力征一二兄弟之国。孤欲守吾先君之班爵，进则不敢，退则不可。今会日薄矣，恐事之不集，以为诸侯笑。孤之事君在今日，不得事君亦在今日。为使者之无远也，孤用亲听命于藩篱之外。”
+</p><p>　　
+董褐将还，王称左畸曰：“摄少司马兹与王士五人，坐于王前。”乃皆进，自■于客前以酬客。
+</p><p>　　
+董褐既致命，乃告赵鞅曰：“臣观吴王之色，类有大忧，小则嬖妾、嫡子死，不则国有大难；大则越入吴。将毒，不可与战。主其许之先，无以待危，然而不可徒许也。”赵鞅许诺。
+</p><p>　　
+晋乃令董褐复命曰：“寡君未敢观兵身见，使褐复命曰：‘曩君之言，周室既卑，诸侯失礼于天子，请贞于阳卜，收文、武之诸侯。孤以下密迩于天子，无所逃罪，讯让日至，曰：昔吴伯父不失，春秋必率诸侯以顾在余一人。今伯父有蛮、荆之虞，礼世不续，用命孤礼佐周公，以见我一二兄弟之国，以休君忧。今君掩王东海，以淫名闻于天子，君有短垣，而自逾之，况蛮、荆则何有于周室？夫命圭有命，固曰吴伯，不曰吴王。诸侯是以敢辞。夫诸侯无二君，而周无二王，君若无卑天子，以干其不祥，而曰吴公，孤敢不顺从君命长弟！’”
+</p><p>　　
+吴王许诺，乃退就幕而会。吴公先歃，晋侯亚之。吴王既会，越闻愈章，恐齐、宋之为己害也，乃命王孙雒先与勇获帅徒师，以为过宾于宋，以焚其北郛焉而过之。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9788.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9790.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8540" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

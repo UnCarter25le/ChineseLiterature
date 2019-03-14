@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷八·六丁日庚戌时断_古诗文网
+</title>
+<meta content="六丁日生时庚戌，墓中逢败难成福；若无救助鬼来伤，财帛不聚伤其目。丁日庚戌时，墓中逢败，丁以庚辛为财，戌中有丙为败，不成其福。若无救助，叠见癸水，主伤目。丁丑日庚戌时，时日相刑，忧伤" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16563.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·六丁日庚戌时断</b></span>
+<a href="javascript:PlayBookv(16563)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16563" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16563" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　六丁日生时庚戌，墓中逢败难成福；</p>
+<p>　　若无救助鬼来伤，财帛不聚伤其目。</p>
+<p>　　丁日庚戌时，墓中逢败，丁以庚辛为财，戌中有丙为败，不成其福。若无救助，叠见癸水，主伤目。</p>
+<p>　　丁丑日庚戌时，时日相刑，忧伤妻子。若寅亥申酉年月，官至三品。午未子辰，行金木运亦贵。</p>
+<p>　　丁卯日庚戌时，生亥未年月，三合会印，贵。子月，煞印，吉。年月建禄，僧道，主贵。柱无救助，见癸旺，多患目疾，酉月无贵；纯酉戌年月，天干透己甲者贵，中带凶。</p>
+<p>　　丁巳日庚戌时，辰巳月，金水运，风宪。癸子、壬亥，南方运，极品。纯未，西北运，三四品；身旺不行财官运，平常，为僧道清高。</p>
+<p>　　丁未日庚戌时，主刑。亥卯会印，申子辰会官，俱主文贵。午月，建禄，有子冲，凶。若年月用土生财，主富；用财生官，富贵双全。</p>
+<p>　　丁酉日庚戌时，日贵格，近贵，晓艺业，有机谋。酉戌，六害，骨肉无情，秋月，五六品贵。</p>
+<p>　　丁亥日庚戌时，日贵格。巳酉丑年月，四五品贵。寅卯亥，火金运，位至六卿。</p>
+<p>　　丁日时逢戌刻真，锁钥无匙库闭门；</p>
+<p>　　父母兄弟难依靠，立成家计自殷勤。</p>
+<p>　　丁日时逢庚戌，火金刑害夭孤。丑辰不遇钥匙无，库闭财能收贮。</p>
+<p>　　就合托妻随住，六亲骨肉消疏。晚年发福改门闾，此命后甜先苦。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16562.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16564.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

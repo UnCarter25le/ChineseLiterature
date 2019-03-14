@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明夷待访录·原法_古诗文网
+</title>
+<meta content="三代以上有法，三代以下无法。何以言之？二帝、三王知天下之不可无养也，为之授田以耕之；知天下之不可无衣也，为之授地以桑麻之：知天下之不可无教也，为之学校以兴之，为之婚姻之礼以防其淫，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14768.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>原法</b></span>
+<a href="javascript:PlayBookv(14768)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14768" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14768" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　三代以上有法，三代以下无法。</p>
+<p>　　何以言之？二帝、三王知天下之不可无养也，为之授田以耕之；知天下之不可无衣也，为之授地以桑麻之：知天下之不可无教也，为之学校以兴之，为之婚姻之礼以防其淫，为之卒乘之赋以防其乱。此三代以上之法也，固末尝为一己而立也。</p>
+<p>　　后之人主，既得天下，唯恐其祚命之不长也，子孙之不能保有也，思患于末然以为之法。然则其所谓法者，一家之法，而非天下之法也。是故秦变封建而为郡县，以郡县得私于我也；汉建庶孽，以其可以藩屏于我也；宋解方镇之兵，以方镇之不利于我也。此其法何曾有一毫为天下之心哉！而亦可谓之法乎？</p>
+<p>　　三代之法，藏天下于天下者也：山泽之利不必其尽取，刑赏之权不疑其旁落，贵不在朝廷也，贱不在草莽也。在后世方议其法之疏，而天下之人不见上之可欲，不见下之可恶，法愈疏而乱愈不作，所谓无法之法也。</p>
+<p>　　后世之法，藏天下于筐箧者也；利不欲其遗于下，福必欲其敛于上；用一人焉则疑其自私，而又用一人以制其私；行一事焉则虑其可欺，而又设一事以防其欺。天下之人共知其筐箧之所在，吾亦鳃鳃然日唯筐箧之是虞，向其法不得不密。法愈密而天下之乱即生于法之中，所谓非法之法也。</p>
+<p>　　论者谓一代有一代之法，子孙以法祖为孝。夫非法之法，前王不胜其利欲之私以创之，后王或不胜其利欲之私以坏之。</p>
+<p>　　坏之者固足以害天下，其创之者亦未始非害天下者也。乃必欲周旋于此胶彼漆之中，以博宪章之余名，此俗儒之剿说也。即论者谓天下之治乱不系于法之存亡。</p>
+<p>　　夫古今之变，至秦而一尽，至元而又一尽，经此二尽之后，古圣王之所恻隐爱人而经营者荡然无具，苟非为之远思深览，一一通变，以复井田、封建、学校、卒乘之旧，虽小小更革，生民之戚戚终无已时也。</p>
+<p>　　即论者谓有治人无治法，吾以谓有治法而后有治人。自非法之法桎梏天下人之手足，即有能治之人，终不胜其牵挽嫌疑之顾盼，有所设施，亦就其分之所得，安于苟简，而不能有度外之功名。使先王之法而在，莫不有法外之意存乎其间。其人是也，则可以无不行之意；其人非也，亦不至深刻罗网，反害天下。故曰有冶法而后有治人。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14767.aspx">上一章</a>
+<a href="/guwen/book_175.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14769.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

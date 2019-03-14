@@ -1,0 +1,140 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+葬法倒杖·二十四砂葬法_古诗文网
+</title>
+<meta content="夫观龙观其起，明穴明其止。起乃动而生，止乃静而死，死处又寻生，是名曰生气。故一察其微，乃尽其大旨。象其物而取其事，顺其情而取其理，推分合以定浅深，明饶减以存克制。倚撞盖粘，体势情意" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20227.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>二十四砂葬法</b></span>
+<a href="javascript:PlayBookv(20227)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20227" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20227" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%ad%a0%e6%9d%be">杨筠松</a></p>
+<div class="contson">
+<p>　　夫观龙观其起，明穴明其止。起乃动而生，止乃静而死，死处又寻生，是名曰生气。故一察其微，乃尽其大旨。象其物而取其事，顺其情而取其理，推分合以定浅深，明饶减以存克制。倚撞盖粘，体势情意，差之毫厘，谬以千里。</p>
+<p>　　担伞</p>
+<p>　　来龙急气，脉直冲中，无乳气穴粘右边，侧受倚其后，托左臂长而明堂宽展，如人之担伞势也。宜浅开金井，若太深必伤，宜培加客土，填实于茔，必主富贵绵远。</p>
+<p>　　正葬</p>
+<p>　　来龙三四节结，穴势既不峻急而缠护，又齐整坐下，金鱼环会，堂气分明。宜扦正穴，开井放棺，接取真气，坟培高垒，向对中应为的。半纪之间，富贵双全。</p>
+<p>　　打开</p>
+<p>　　太阳顽金无纹浪，须打开深圹作窝，约取中堂。金鱼会处，定穴悬棺而葬，取中小温润气，谓开金取水，发须迟而绵远不败。</p>
+<p>　　悬棺</p>
+<p>　　来龙脉急而无缓，有分有合，穴结深泥，打开实处而见实土，并内用砖石结起巨圹，竖四石柱于圹内，悬棺而下。圹前相接金池，放三吉之水，去垒土成坟，以接生气。</p>
+<p>　　垒坟</p>
+<p>　　来龙有盖有座，上急下缓，为之坠脉，所以平地生突，突中有石，不可用工掘凿，似借外城，浅开金井，浮土正葬，垒土成坟，先富后贵之地也。</p>
+<p>　　大小剜蓝</p>
+<p>　　来龙有情，头高而穴偏，或侧臂顿起圆金，到头入手，有鼠肉受穴，水星外应，有金水相生之义，为大腕偏受。一伏再顿小金，有迎堂顾祖之意，为小剜正受。此则不可开井太深，更宜高立坟城，恐来势耸而压穴也。凡术者宜有裁度，用之可也。</p>
+<p>　　马鬣封</p>
+<p>　　来龙高冈有窟，窟中有突，突顶正葬，须从穴前挖开，下面吞进，突下安穴。不可深开钳圹，金骨浅安井内，否则卓棺为吉。葬后培坟，如旧土不动，马鬣之封微露，不可用砖石结砌，侵损其突。</p>
+<p>　　回龙顾祖</p>
+<p>　　龙势急硬，过关峡生《鼻勾》《鼻合》转回，脉从回面结，顾祖迎堂，宗族皆转。朝揖玄微，不必拘于真与不真。穴宜高迁，深开金井，谓之黄金登水，墓登砂是也。</p>
+<p>　　骑龙</p>
+<p>　　龙神尽处有突兀之结，案迫前砂而穴露，其气不聚，后龙垒来，草蛇灰线，过脉分明，穴须退后高扦，取骑龙下，深井放棺，填补明堂，以全造化也。</p>
+<p>　　拿扯</p>
+<p>　　来龙峻急入穴，须有情而堂气迫狭，外山外水左右交结，横观外堂，宽展气脉，侧受穴用，提起扦之。开井不浅不深，酌中裁剪，容土培就，贴身雌雄，扯后拿前。葬过一纪，世出富豪特达之士也。</p>
+<p>　　停驿</p>
+<p>　　来龙高冈脉紧，穴情似有似无，登□□望龙，方明端的。峦头须金水帐脱下平中小结，入首有铺茵停车驻马之驿也。十字之中，深开金井，高砌坟成，依法裁剪，自有妙理。</p>
+<p>　　斗斧</p>
+<p>　　直龙枕险又无缠护，左右前后却有鬼曜，翻身横作，连山取水，以接生气，情如斗斧拱揖。前朝不许，时师妄为测度，盖出势直来横受，故知之难也。</p>
+<p>　　担凹</p>
+<p>　　来龙横过转跌降脉，穴情有若蜂腰之势，合天财两头金样，后有正托，乐于仰掌中直扦。开井不用太深，吞棺三分之一，太深则反伤穴也。前关住堂气不泄，发福永久，若砂水真去为凶，此天财相似也。</p>
+<p>　　抱儿</p>
+<p>　　来龙上急下缓，雌雄交度，堂气分明，应案秀出，龙虎面前迫逼扦穴可要上穿龙虎腰，下取交合水，横抱如人抱儿之状也。</p>
+<p>　　吞下</p>
+<p>　　其来龙势直落斜，摆屈睁受，穴法宜吞入，开井以聚真气，后应其乐，前迎其朝，此乃大富不绝佳城也。穴情虽高，葬于前面，再立一虚埙，名吞下，须要有应托为吉。</p>
+<p>　　吐葬</p>
+<p>　　来龙降势，状若草露流珠之情，为吐息露珠，侵损则真气散矣。只可粘踪，小开金井，低垒砖城。若水不流泥，前有秀应，必为巨富贵之地。</p>
+<p>　　浮葬</p>
+<p>　　其来龙入手，情势低平，夹辅高出，穴中必有曲窠，藏其真气，四水不拂，八风不吹，宜浅开金井，正放其棺，法不待饶。用客土添培，厚筑其墓，使暖气相接，真脉冲融，则富贵立至。</p>
+<p>　　沉葬</p>
+<p>　　来龙情高护矮，降气必然深入，聚气朝应有情，关阑未甚周密，其穴打低平下夹辅方为是法。开井吞棺三分之一，四旁筑实，可免八风动摇之病，真为绵远之地也。</p>
+<p>　　牵牛</p>
+<p>　　土星行龙结穴，入首顿起两顶，左右之山伸出二臂，交度重耸。朝迎有情，两般行度，深浅高低，依法宜开成方，金井放棺，借取两傍，应乐分肩合脚，如土牛之合牵也。阴阳妙理，人罕识之，一突情可两穴，如麒麟头上品字是也。</p>
+<p>　　就饱</p>
+<p>　　来龙气缓，虽结珠块坡穴，大小不均，小面有牙爪紧密，不成局段。大边饱满而有分合，玄微可就。饱处而扦之，广开金井，深入其棺，坟城小垒，裨补小边。取堂气坦夷，虽曰就饱而不饱也。</p>
+<p>　　伤饥</p>
+<p>　　龙来过脉，节节分明，盖下有金，金下有横土，似上非上，中有湾凹或曲池，不浅不深，庸术狐疑必矣。苟有宾主相投，穴虽有病，葬亦有法：贴脊扦之，小井纳棺，筑后培前，以补造化，虽曰伤饥而不饥也。</p>
+<p>　　撞穴</p>
+<p>　　来龙情峻，堂浅坐下，去水撮脚，牵飞到此，多生疑窦。情势可取，须别立法度，开钳广撞入吞棺而下撞穴，蹲而视之，只见外堂宽展，外砂周密，避凶就凶，假也灵茔。</p>
+<p>　　插木生芽</p>
+<p>　　来龙直木插下亦谓之玄武嘴长。纵有正佐，切不可扦，当头尽脉，一扦则败，绝其中停，必有节木。须于肥厚处开井放棺，挑饶三分，自有生芽之意，仍须客土培实端正，则根本固而枝叶荣矣。</p>
+<p>　　牵弓</p>
+<p>　　来龙顶欹转凹，侧寻肥突放送取龙左右臂湾环，有如牵弓发箭之势，中应分明，于鼠肉处开浅井放棺，有若靶搭正箭，力能远发，应居两旁，棺头必合，棺脚必分，借倚护弦之力。极为至理，务要前案，湾如张弓方吉，反弓便凶。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20226.aspx">上一章</a>
+<a href="/guwen/book_287.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

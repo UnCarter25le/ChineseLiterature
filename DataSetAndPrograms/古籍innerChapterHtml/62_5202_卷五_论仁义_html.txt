@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贞观政要·卷五·论仁义_古诗文网
+</title>
+<meta content="贞观元年，太宗曰：“朕看古来帝王以仁义为治者，国祚延长，任法御人者，虽救弊于一时，败亡亦促。既见前王成事，足是元龟。今欲专以仁义诚信为治。望革近代之浇薄也。”黄门侍郎王珪对曰：“天" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5202.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3471" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·论仁义</b></span>
+<a href="javascript:PlayBookv(5202)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5202" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3471)" id="leftbtn3471" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5202" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%a2">吴兢</a></p>
+<div class="contson">
+<p>　　贞观元年，太宗曰：“朕看古来帝王以仁义为治者，国祚延长，任法御人者，虽救弊于一时，败亡亦促。既见前王成事，足是元龟。今欲专以仁义诚信为治。望革近代之浇薄也。”黄门侍郎王珪对曰：“天下凋丧日久，陛下承其余弊，弘道移风，万代之福。但非贤不理，惟在得人。”太宗曰：“朕思贤之情，岂舍梦寐！”给事中杜正伦进曰：“世必有才，随时听用，岂待梦傅说，逢吕尚，然后为治乎？”太宗深纳其言。</p>
+<p>　　贞观二年，太宗谓侍臣曰：“朕谓乱离之后，风俗难移，比观百姓渐知廉耻，官民奉法，盗贼日稀，故知人无常俗，但政有治乱耳。是以为国之道，必须抚之以仁义，示之以威信，因人之心，去其苛刻，不作异端，自然安静，公等宜共行斯事也。”</p>
+<p>　　贞观四年，房玄龄奏言：“今阅武库甲仗，胜隋日远矣。”</p>
+<p>　　太宗曰：“饬兵备寇虽是要事，然朕唯欲卿等存心理道，务尽忠贞，使百姓安乐，便是朕之甲仗。隋炀帝岂为甲仗不足，以至灭亡？正由仁义不修，而群下怨叛故也。宜识此心。”</p>
+<p>　　贞观十三年，太宗谓侍臣曰：“林深则鸟栖，水广则鱼游，仁义积则物自归之。人皆知畏避灾害，不知行仁义则灾害不生。夫仁义之道，当思之在心，常令相继，若斯须懈怠，去之已远。犹如饮食资身，恒令腹饱，乃可存其性命。”王珪顿首曰：“陛下能知此言，天下幸甚！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5201.aspx">上一章</a>
+<a href="/guwen/book_62.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5203.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3471" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

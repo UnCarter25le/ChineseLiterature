@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·颜回_古诗文网
+</title>
+<meta content="魯定公問於顏回曰：「子亦聞東野畢之善御乎？」對曰：「善則善矣，雖然，其馬將必佚．」定公色不悅，謂左右曰：「君子固有誣人也．」顏回退後三日，牧來訴之曰：「東野畢之馬佚，兩驂曳兩服入于" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4127.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2727" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>颜回</b></span>
+<a href="javascript:PlayBookv(4127)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4127" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2727)" id="leftbtn2727" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4127" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　魯定公問於顏回曰：「子亦聞東野畢之善御乎？」對曰：「善則善矣，雖然，其馬將必佚．」定公色不悅，謂左右曰：「君子固有誣人也．」顏回退後三日，牧來訴之曰：「東野畢之馬佚，兩驂曳兩服入于廄．」公聞之，越席而起，促駕召顏回．回至，公曰：「前日寡人問吾子以東野畢之御，而子曰善則善矣，其馬將佚，不識吾子奚以知之？」顏回對曰：「以政知之．昔者帝舜巧於使民，造父巧於使馬，舜不窮其民力，造父不窮其馬力，是以舜無佚民，造父無佚馬．今東野畢之御也，升馬執轡，御體正矣，步驟馳騁，朝禮畢矣，歷險致遠，馬力盡矣，然而猶乃求馬不已，臣以此知之．」公曰：「善！誠若吾子之言也，吾子之言，其義大矣，願少進乎．」顏回曰：「臣聞之鳥窮則啄，獸窮則攫，人窮則詐，馬窮則佚，自古及今，未有窮其下而能無危者也．」公悅，遂以告孔子．孔子對曰：「夫其所以為顏回者，此之類也，豈足多哉．」</p>
+<p>　　孔子在衛，昧旦晨興，顏回侍側，聞哭者之聲甚哀．子曰：「回，汝知此何所哭乎？」對曰：「回以此哭聲非但為死者而已，又有生離別者也．」子曰：「何以知之？」對曰：「回聞桓山之鳥，生四子焉，羽翼既成，將分于四海，其母悲鳴而送之，哀聲有似於此，謂其徃而不返也，回竊以音類知之．」孔子使人問哭者，果曰：「父死家貧，賣子以葬，與之長決．」子曰：「回也，善於識音矣．」</p>
+<p>　　顏回問於孔子曰：「成人之行，若何？」子曰：「達于情性之理，通於物類之變，知幽明之故，睹游氣之原，若此可謂成人矣．既能成人，而又加之以仁義禮樂，成人之行也，若乃窮神知禮，德之盛也．」</p>
+<p>　　顏回問於孔子曰：「臧文仲武仲孰賢？」孔子曰：「武仲賢哉．」顏回曰：「武仲世稱聖人而身不免於罪，是智不足稱也；好言兵討，而挫銳於邾，是智不足名也．夫文仲其身雖歿，而言不杇，惡有未賢？」孔子曰：「身歿言立，所以為文仲也．然猶有不仁者三，不智者三，是則不及武仲也．」回曰：「可得聞乎？」孔子曰：「下展禽，置六關，妾織蒲，三不仁；設虛器，縱逆祀，祠海鳥，三不智．武仲在齊，齊將有禍，不受其田，以避其難，是智之難也．夫臧文仲之智而不容於魯，抑有由焉，作而不順，施而不恕也夫．夏書曰：『念茲在茲，順事恕施．』</p>
+<p>　　顏回問於君子．孔子曰：「愛近仁，度近智，為己不重，為人不輕，君子也夫．」回曰：「敢問其次．」子曰：「弗學而行，弗思而得，小子勉之．」</p>
+<p>　　仲孫何忌問於顏回曰：「仁者一言而必有益於仁智，可得聞乎？」回曰：「一言而有益於智，莫如預；一言而有益於仁，莫如恕．夫知其所不可由，斯知所由矣．」</p>
+<p>　　顏回問小人．孔子曰：「毀人之善以為辯，狡訐懷詐以為智，幸人之有過，恥學而羞不能，小人也．」</p>
+<p>　　顏回問子路曰：「力猛於德而得其死者，鮮矣，盍慎諸焉．」孔子謂顏回曰：「人莫不知此道之美，而莫之御也，莫之為也，何居為聞者，盍日思也夫．」</p>
+<p>　　顏回問於孔子曰：「小人之言有同乎？君子者不可不察也．」孔子曰：「君子以行言，小人以舌言，故君子為義之上相疾也，退而相愛；小人於為亂之上相愛也，退而相惡．」</p>
+<p>　　顏回問朋友之際，如何．孔子曰：「君子之於朋友也，心必有非焉而弗能謂，吾不知其仁人也，不忘久德，不思久怨，仁矣夫．」</p>
+<p>　　叔孫武叔見未仕於顏回，回曰：「賓之，武叔多稱人之過，而己評論之．」顏回曰：「固子之來辱也，宜有得於回焉，吾聞知諸孔子曰：『言人之惡，非所以美己；言人之枉，非所以正己．』故君子攻其惡，無攻人惡．」</p>
+<p>　　顏回謂子貢曰：「吾聞諸夫子身不用禮，而望禮於人，身不用德，而望德於人，亂也．夫子之言，不可不思也．」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4126.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4128.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2727" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

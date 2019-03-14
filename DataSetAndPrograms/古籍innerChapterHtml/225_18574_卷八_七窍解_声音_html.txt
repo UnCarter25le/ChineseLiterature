@@ -1,0 +1,113 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷八·七窍解·声音_古诗文网
+</title>
+<meta content="声音者，手太阴之所司也。肺藏气，而气之激宕则为声，故肺病则声为之不调，气病则声为之不畅。而气之所以病者，由于己土之湿。手阳明主令于燥金，手太阴化气于湿土，阳明旺则金燥而响振，太阴盛" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18574.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·七窍解·声音</b></span>
+<a href="javascript:PlayBookv(18574)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18574" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18574" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　声音者，手太阴之所司也。肺藏气，而气之激宕则为声，故肺病则声为之不调，气病则声为之不畅。而气之所以病者，由于己土之湿。手阳明主令于燥金，手太阴化气于湿土，阳明旺则金燥而响振，太阴盛则土湿而声瘖。譬之琴瑟箫鼓，遇晴明而清越，值阴晦而沉浊，燥湿之不同也。燥为阳而湿为阴，阳旺则气聚而不泄，气通而不塞，聚则响而通则鸣。唇缺齿落而言语不清者，气之泄也；涕流鼻渊而声音不亮者，气之塞也。</p>
+<p>　　然声出于气而气使于神。《灵枢·忧恚无言》：喉咙者，气之所以上下者也。会厌者，声音之户也。口唇者，声音之扇也。舌者，声音之机也。悬雍者，声音之关也。颃颡者，分气之所泄也。横骨者，神气所使，主发舌者也。盖门户之开阖，机关之启闭，气为之也。而所以司其迟疾，时其高下，开阖适宜，而启闭中节者，神之所使也。是故久嗽而音哑者，病在声气；中风而不言者，病在神明。声气病则能言而不能响，神明病则能响而不能言。声气出于肺，神明藏于心。四十九难：肺主五声，入心为言。缘声由气动，而言以神发也。</p>
+<p>　　闻之妇人在军，金鼓不振。李少卿军中有女子，击鼓起士而鼓不鸣。然则调声音者，益清阳而驱浊阴，一定之理也。</p>
+<p>　　茯苓橘皮杏仁汤</p>
+<p>　　茯苓三钱　半夏三钱　杏仁三钱　百合三钱　橘皮三钱　生姜三钱</p>
+<p>　　煎半杯，热服。</p>
+<p>　　治湿旺气郁，声音不亮者。</p>
+<p>　　百合桔梗鸡子汤</p>
+<p>　　百合三钱　桔梗三钱　五味一钱　鸡子白一枚</p>
+<p>　　煎半杯，去滓，入鸡子清，热服。</p>
+<p>　　治失声喑哑者。</p>
+<p>　　须发</p>
+<p>　　须发者，手足六阳之所荣也。《灵枢·阴阳二十五人》：手三阳之上者，皆行于头。阳明之经，其荣髭也。少阳之经，其荣眉也。太阳之经，其荣须也。足三阳之上者，亦行于头。阳明之经，其荣髯也。少阳之经，其荣须也。太阳之经，其荣眉也。凡此六经，血气盛则美而长，血气衰则恶而短。</p>
+<p>　　夫须发者，营血之所滋生，而实卫气之所发育也。血根于上而盛于下，气根于下而盛于上。须发上盛而下衰者，手足六阳之经气盛于上故也。《灵枢·决气》：上焦开发，宣五谷味，熏肤，充身，泽毛，若雾露之溉，是谓气。冬时阳气内潜，而爪发枯脆，夏日阳气外浮，而爪须和泽。缘须发之生，血以濡之，所以滋其根荄，气以煦之，所以荣其枝叶也。</p>
+<p>　　宦者伤其宗筋，血泄而不滋，则气脱而不荣，是以无须，与妇人正同。</p>
+<p>　　然则须落发焦者，血衰而实气败，当于营卫二者双培其本枝，则得之矣。</p>
+<p>　　桂枝柏叶汤</p>
+<p>　　首乌三钱　桂枝三钱　丹皮三钱　生地三钱　柏叶三钱　生姜三钱　人参三钱　阿胶三钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　治须落发焦，枯燥不荣。</p>
+<p>　　黄涩早白，加桑椹、黑豆。阳衰土湿者，加干姜、茯苓。肺气不充，重用黄芪，肺主皮毛故也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18573.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18575.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

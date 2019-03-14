@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+抱朴子·外篇·安贫_古诗文网
+</title>
+<meta content="抱朴子曰:昔汉火寝耀，龙战虎争，九有幅裂，三家鼎据。有乐天先生者，避地蓬转，播流岷益，始处昵於文休，末见知於孔明。而言高行方，独立不群，时人惮焉，莫之或与。时二公之力，不能违众，遂" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9543.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>外篇·安贫</b></span>
+<a href="javascript:PlayBookv(9543)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9543" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9543" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e6%b4%aa">葛洪</a></p>
+<div class="contson">
+<p>　　抱朴子曰:昔汉火寝耀，龙战虎争，九有幅裂，三家鼎据。有乐天先生者，避地蓬转，播流岷益，始处昵於文休，末见知於孔明。而言高行方，独立不群，时人惮焉，莫之或与。时二公之力，不能违众，遂令斯生沈抑衡荜，齿渐桑榆，而韦布不改。而时主思贤，不闻不知;当途之士，莫举莫贡。潜侧武之陋巷，窜绳枢之蓬屋，进废经世之务，退忘治生之车，草梨餐屡空，朝不谋夕。</p>
+<p>　　於是偶俗公子造而诘之，曰:’盖闻有伊吕之才者，不久滞於穷贱;怀猗顿之术者，不长处於饥寒。达者贵其知变，智士验乎不匮。故范生出则灭吴霸越，为命世之佐;入则货殖营生，累万金之赀。天贫在六极，富在五福，《诗》美加可矣，</p>
+<p>　　《易》贵聚人，垂饵香则鳝鲔来，悬赏厚则果毅奋，长卿所以解犊鼻而拥朱旄，曲逆所以下席扉而享茅土，不韦所以食十万之邑，张侯所以拔囹圄之困也。故下乡俭而获悔咎之辰，漂妪丰而蒙千金之报。先生无少伯之奇略，专锐思乎六经，忽绝米长之实祸，慕不朽之虚名，耻诡遇以干禄，羞炫沽以要荣，冀西伯之畋，俟黄河之将清。甘列子之菜色，邈全神而遗形，何异图画骐骥，以代徒行之劳;遥指海水，以解口焦之渴;张鱼网於峻极之巅;施钧缗於修木之末;虽自以为得所，犹未免乎迂阔也。事无身後之功，物无违时之盛。今海内瓜分，英雄力竞，象恭滔天，猾夏放命，驽蹇星驰以兼路，豺狼奋口而交争。当途投袂以讼屈，素士蒙尘以履径，纯儒释皇道而治五霸之术，硕生弃四科而恤月旦之评。筐篚实者，进於草莱;乏资地者，退於朝廷;握黄白者，排金门而陟玉堂，诵方策者，结世雠而委泥泞;贽币浓者，瓦石成珪璋;请托薄者，龙骏弃林坰;党援多者，偕惊飚以凌云;交结狭者，侣踊鳖以沈泳。</p>
+<p>　　夫丸泥已不能遏彭蠡之沸腾，独贤亦焉能反流遁之失正?今先生入无儋石之储，出无束修之调。徒含章如龙凤，被文如虎豹，吐之如波涛，陈之如锦绣，而冻饿於环堵，何计疏之可吊?奚不泛轻舟以托迅，御飞帆以远之。交瑰货於朔南，收金碧於九疑。迪崔烈之遐武，縻好爵於清时?徒疲劳於述作，岂蝉蜕之有期也?独苦身以为名，乃黄老之所蚩也!”</p>
+<p>　　乐天先生答曰:“六艺备研，八索必该。斯则富矣，振翰摛藻，德音无穷，斯则贵矣。求仁仁至，舍旃焉如。夫栖重渊以颐灵，外万物而自得，遗纷埃於险途，澄精神於玄默。不窥牖以遐览，判微言而靡惑。虽复设之以台鼎，犹确尔而弗革也。曷肯忧贫而与贾竖争利，戚穷而与凡琐竞达哉!吾子苟知商贩可以崇宝，耕也可以免饥，不识逐麋者不顾兔，道远者其到迟也。且夫尚父之鼓刀，素首乃吐奇也;万钧之为重，冲飚不能移;箫韶未九成，灵鸟纡仪也。是以俟扶摇而登苍霄者，不弃诎於蓬蒿之杪;骋兰筋以陟六万者，不争途乎蹇驴之群。大孝必畏辱亲之险，故子春战悸於下堂;上智不贵难得之财，故唐虞捐金而抵譬。明哲消祸於未来，知士闻利则虑害，而吾子言凡仆以泛舟，孳孳於润屋，劝隋珠之弹雀，控虎口以夺肉，轻遗体於不测，触重险以远至，忘发肤之明戒，寻乾没於难冀。若夫焚输倾岩，木拔石飞，阳侯山峙，洪涛山罪巍，轻艘尘漂，力与心违，从嗟泣而罔逮，乃悟达者之见微也。</p>
+<p>　　“昔回宪以清苦称高，陈平以无金免危，广汉以好利丧身，牛缺以载宝灰糜。匹夫枉死於怀璧，丰狐召灾於美皮。今吾子督余以诲盗之业，敦余以召贼之策，进鸩酒以献酬，慧养寿之忠益。夫士以三坟为金玉，五典为琴筝，讲肄为锺鼓，百家为笙簧，使味道者以辞饱，酣德者以义醒，超流俗以高蹈，轶亿代以扬声，方长驱以独往，何货贿之秽情。夫藏多者亡厚，好谦者忌盈，含夜光者速剖，循覆车者必倾，过载者沈其舟，欲胜者杀其生盖下士所用心，上德所未营也。”於是问者荡然自失，请备门生之末编，永宝长生之良方焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9542.aspx">上一章</a>
+<a href="/guwen/book_103.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9544.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

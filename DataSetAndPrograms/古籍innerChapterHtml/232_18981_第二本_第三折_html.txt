@@ -1,0 +1,121 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西厢记·第二本·第三折_古诗文网
+</title>
+<meta content="﻿　　[夫人上云]今日安排下小酌，单请张生酬劳。道与红娘，疾忙去书院中请张生，着他是必便来，休推故。[下][末上云]夜来老夫人说，着红娘来请我，却怎生不见来？我打扮着等他。皂角也使" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18981.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第二本·第三折</b></span>
+<a href="javascript:PlayBookv(18981)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18981" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18981" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e5%ae%9e%e7%94%ab">王实甫</a></p>
+<div class="contson">
+<p>﻿　　[夫人上云]今日安排下小酌，单请张生酬劳。道与红娘，疾忙去书院中请张生，着他是必便来，休推故。[下][末上云]夜来老夫人说，着红娘来请我，却怎生不见来？我打扮着等他。皂角也使过两个也，水也换了两桶也，乌纱帽擦得光挣挣的。怎么不见红娘来也呵？[红娘上云]老夫人使我请张生。我想若非张生妙计呵，俺一家儿性命难保也呵。</p>
+<p>　　[中吕][粉蝶儿]半万贼兵，卷浮云片时扫净，俺一家儿死里逃生。舒心的列山灵，陈水陆，张君瑞合当钦敬。当日所望无成；谁想一缄书倒为了媒证。</p>
+<p>　　[醉东风]今日个东阁玳筵开，煞强如西厢和月等。薄衾单枕有人温，早则不冷、冷。受用足宝鼎香浓，绣帘风细，绿窗人静。</p>
+<p>　　可早来到也。</p>
+<p>　　[脱布衫]幽僻处可有人行，点苍苔白露泠泠。隔窗儿咳嗽了一声，[红敲门科][末云]是谁来也？[红云]是我。他启朱唇急来答应。</p>
+<p>　　[末云]拜揖小娘子。[红唱]</p>
+<p>　　[小梁州]则见他叉手忙将礼数迎，我这里“万福，先生”。乌纱小帽耀人明，白襕净，角带傲黄程。</p>
+<p>　　[幺篇]衣冠济楚庞儿俊，可知道引动俺莺莺。据相貌才性，我从来心硬，一见了也留情。</p>
+<p>　　[末云]“既来之，则安之。”请书房内说话。小娘子此行为何？[红云]贱妾奉夫人严命，特请先生小酌数杯，勿却。[末云]便去，便去。敢问席上有莺莺姐姐么？[红唱]</p>
+<p>　　[上小楼]“请”字儿不曾出声，“去”字儿连忙答应；可早莺莺根前，“姐姐”呼之，喏喏连声。秀才每闻道“请”，恰便似听将军严令，和他那五脏神愿随鞭镫。</p>
+<p>　　[末云]今日夫人端的为甚么筵席？[红唱]</p>
+<p>　　[幺篇]第一来为压惊，第二来因谢承。不请街坊，不会亲邻，不受人情。避众僧，请老兄，和莺莺匹聘。[末云]如此小生欢喜。[红唱]则见他欢天喜地，谨依来命。</p>
+<p>　　[末云]小生客中无镜，敢烦小娘子看小生一看何如？[红唱]</p>
+<p>　　[满庭芳]来回顾影，文魔秀士，风欠酸丁。下工夫将额颅十分挣，迟和疾擦倒苍蝇，光油油耀花人眼睛，酸溜溜螫得人牙疼。[末云]夫人办甚么请我？[红唱]茶饭已安排定，淘下陈仓米数升，碟下七八碗软蔓青。</p>
+<p>　　[末云]小生想来：自寺中一见了小姐后，不想今日得成婚姻，岂不为前生分定？[红云]姻缘非力所为，天意尔。</p>
+<p>　　[快活三]咱人一事精，百事精；一无成，百无成。世间草木本无情，自古云：“地生连理木，水出并头莲。”他犹有相兼并。</p>
+<p>　　[朝天子]休道这生，年纪儿后生，恰学害相思病。天生聪俊，打扮素净，奈夜夜成孤另。才子多情，佳人薄幸，兀的不担阁了人性命。[末云]你姐姐果有信行？[红唱]谁无一个信行，谁无一个志诚，你两个今夜亲折证。</p>
+<p>　　我嘱咐你咱！</p>
+<p>　　[四边静]今宵欢庆，软弱莺莺、可曾惯经。你索款款轻轻，灯下交鸳颈。端详可憎，好煞人也无干净！</p>
+<p>　　[末云]小娘子先行，小生收拾书房便来。敢问那里有甚么景致？[红唱]</p>
+<p>　　[耍孩儿]俺那里有落红满地胭脂冷，休辜负了良辰美景。夫人遣妾莫消停，请先生勿得推称。俺那里准备着鸳鸯夜月销金帐，孔雀春风软玉屏。乐奏合欢令，有凤箫象板，锦瑟鸾笙。</p>
+<p>　　[末云]小生书剑飘零，无以为财礼，却是怎生？[红唱]</p>
+<p>　　[四煞]聘财断不争，婚姻自有成，新婚燕尔安排定。你明博得跨凤乘鸾客，我到晚来卧看牵牛织女星。休蹊幸，不要你半丝儿红线，成就了一世儿前程。</p>
+<p>　　[三煞]凭着你灭寇功，举将能，两般儿功效如红定。为甚俺莺娘心下十分顺，都则为君瑞胸中百万兵。越显得文风盛，受用足珠围翠绕，结果了黄卷青灯。</p>
+<p>　　[二煞]夫人只一家，老兄无伴等，为嫌繁冗寻幽静。[末云]别有甚客人？[红唱]单请你个有恩有义闲中客，且回避了无是无非窗下僧。夫人的命，道足下莫教推托，和贱妾即便随行。</p>
+<p>　　[末云]小娘子先行，小生随后便来。[红唱]</p>
+<p>　　[收尾]先生休作谦，夫人专意等。常言道“恭敬不如从命”，休使得梅香再来请。[下]</p>
+<p>　　[末云]红娘去了，小生拽上书房门者。我比及得夫人那里，夫人道：“张生，你来了也，饮几杯酒，去卧房内和莺莺做亲去！”小生到得卧房内，和姐姐解带脱衣，颠鸾倒凤，同谐鱼水之欢，共效于飞之愿。觑他云鬟低坠，星眼微朦，被翻翡翠，袜绣鸳鸯；不知性命何如？且看下回分解。</p>
+<p>　　[笑云]单羡法本好和尚也:只凭说法口，遂却读书心。[下]</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18980.aspx">上一章</a>
+<a href="/guwen/book_232.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18982.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

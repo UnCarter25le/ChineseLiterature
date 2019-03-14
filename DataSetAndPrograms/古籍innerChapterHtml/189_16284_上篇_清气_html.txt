@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+滴天髓阐微·上篇·清气_古诗文网
+</title>
+<meta content="一清到底有精神，管取生平富贵真。澄浊求清清得去，时来寒谷也回春。【原注】清者不徒一气成局之谓也。如正官格，身旺有财，身弱有印，并无伤官七杀杂之，纵有比肩食神财煞印绶杂之，皆循序得所" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16284.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上篇·清气</b></span>
+<a href="javascript:PlayBookv(16284)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16284" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16284" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%ba%ac%e5%9b%be">京图</a></p>
+<div class="contson">
+<p>　　一清到底有精神，管取生平富贵真。澄浊求清清得去，时来寒谷也回春。</p>
+<p>　　【原注】清者不徒一气成局之谓也。如正官格，身旺有财，身弱有印，并无伤官七杀杂之，纵有比肩食神财煞印绶杂之，皆循序得所，有安顿，或作闲神，不来破局，乃为清奇。又要有精神，不为枯弱者佳。浊非五行并出之谓。如正官格，身弱混之以煞，混之以财，以食神杂之，不能伤我之官，反与官星不和；以印绶杂之，不能扶我之身，反与财星相戕，俱为浊。或得一神有力，或行运得所，以扫其浊气，冲其滞气，皆为澄浊以求清，皆富贵命矣。</p>
+<p>　　【任氏曰】：</p>
+<p>　　命之最难辨者，清浊两字也。此章所重得，“澄浊求清”四字也。清而有气，则精神贯足 ；清而无气，则精神枯槁。精神枯即邪气入，邪气入则清气散，清气散则不贫即贱矣。夫清浊者，八字皆有也，非正官一端而论也。如正官格，身弱有印，忌财，财星不现，清可知矣。即使有财，不可便作浊论，须要看其情势。如财与官贴，官与印贴，印与日主贴，则财生官，官生印，印生身，印之源头更长矣，至行运再助其印绶，自然富贵矣。即使无财，不可便作清论，亦要看其情势，或印星无气，与官星不通，或印星太旺，日主枯弱，不受印星之生；或官星贴日，印星远隔，日主先受官克，印星不能生化，至行运再逢财官，不贫亦夭矣。如正官格，身旺喜财，所忌者印绶，伤官其次也。亦看情势，如伤官与财贴，财与官贴，官与比肩贴，不特官星无碍，抑且伤官化劫生财，财生官旺，官之源头更长，至行运再遇财官之地，名利两全矣。如伤官与财星远隔，反与官星紧贴，财不能为力，至行运再遇伤官之地，不贫亦贱矣。如伤官在天干，财星在地支，必须天干财运以解之；伤官在地支，财星在天干，必须地支财运以通之。或财官相贴，而财神被合神绊住，或被闲神劫占，亦须岁运冲其合神，制其闲神，皆为澄浊求清。虽举正官而论，八格皆同此论。总之喜神宜得地逢生，与日主紧贴者佳；忌神宜失势临绝。与日主远隔者美。日主喜印，印星贴身，或坐下印绶，此即日主之精神也；官星贴印，或坐下官星，此即印绶之精神。余可类推。</p>
+<p>　　癸酉 甲子 丙寅 乙未</p>
+<p>　　癸亥 壬戌 辛酉 庚申 己未 戊午</p>
+<p>　　丙生子月，坐下长生，印透根深，弱中之旺。喜其官星当令，透而生财，所谓“一清到底有精神”也；更妙源流不悖，纯粹可观。金水运中，登科发甲。名高翰苑；惜中运火土，以致终老于词林。</p>
+<p>　　甲子 丙寅 己亥 辛未</p>
+<p>　　丁卯 戊辰 己巳 庚午 辛未 壬申</p>
+<p>　　春土坐亥财官太旺，最喜独印逢生。财藏生官，财印绶之元神愈旺；气贯生时 ，而日主之气不薄；更妙连珠生化，尤羡运途不悖。所以恩分雕绵，宠锡金莲，地近清楚，职居津要。</p>
+<p>　　癸未 甲子 丙寅 丁酉</p>
+<p>　　癸亥 壬戌 辛酉 庚申 己未 戊午</p>
+<p>　　此与前癸酉者，大同小异。前则官坐财地，此则官坐伤地，兼之子未相贴，不但天干之官受克，即地支之官亦伤。更嫌劫入财乡，所谓财劫官伤，纵使芹香早采，仍蹭蹬秋闱。辛酉庚申运干支皆财，财如放稍春竹，利如蔓草生枝，家业丰裕；一交己未，伤妻克子，遭回禄，家业大破。可知穷通在运也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16283.aspx">上一章</a>
+<a href="/guwen/book_189.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16285.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

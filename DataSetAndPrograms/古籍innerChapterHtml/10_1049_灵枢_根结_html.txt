@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·根结_古诗文网
+</title>
+<meta content="歧伯曰：天地相感，寒暖相移，阴阳之道，孰少孰多，阴道偶，阳道奇。发于春夏，阴气少，阳气多，阴阳不调，何补何泻。发于秋冬，阳气少，阴气多；阴气盛而阳气衰，故茎叶枯槁，湿雨下归，阴阳相" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1049.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left871" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·根结</b></span>
+<a href="javascript:PlayBookv(1049)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1049" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(871)" id="leftbtn871" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1049" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　歧伯曰：天地相感，寒暖相移，阴阳之道，孰少孰多，阴道偶，阳道奇。发于春夏，阴气少，阳气多，阴阳不调，何补何泻。发于秋冬，阳气少，阴气多；阴气盛而阳气衰，故茎叶枯槁，湿雨下归，阴阳相移，何泻何补？奇邪离经，不可胜数，不知根结，五脏六腑折关败枢，开合而走，阴阳大失，不可复取。九针之玄，要在终始；故能知终始，一言而毕，不知终始，针道咸绝。</p>
+<p>　　太阳根于至阴，结于命门。命门者，目也。阳明根于厉兑，结于颡大。颡大者，钳耳也。少阳根于窍阴，结于窗笼。窗笼者，耳中也。太阴为开，阳明为合，少阳为枢。故开折则肉节渎而暴病起矣。故暴病者，取之太阳，视有余不足。渎者，皮肉宛膲而弱也。合折，则气无所止息而痿疾起矣。故痿疾者，取之阳明，视有余不足。无所止息者，真气稽留，邪气居之也。枢折，即骨繇而不安于地。故骨繇者取之少阳，视有余不足。骨繇者，节缓而不收也。所谓骨繇者，摇故也。当穷具本也。</p>
+<p>　　太阴根于隐白，结于太仓。少阴根于涌泉，结于廉泉。厥阴根于大敦，结于玉英，络于膻中。太阴为开，厥阴为阖，少阴为枢。故开折，则仓廪无所输，膈洞。膈洞者，取之太阴，视有余不足，故开折者，气不足而生病也。合折，即气绝而喜悲，悲者取之厥阴，视有余不足。枢折则脉有所结而不通。不通者，取之少阴，视有余不足，有结者，皆取之不足。</p>
+<p>　　足太阳根于至阴，溜于京骨，注于昆仑，入于天柱、飞扬也。足少阳根于窍阴，溜于丘墟，注于阳辅，入于天容、光明也。足阳明根于厉兑，溜于冲阳，注于下陵，入于人迎、丰隆也。手太阳根于少泽，溜于阳谷，注于小海，入于于窗、支正也。手少阳根于关冲，溜于阳池，注于支沟，入于于牖、外关也。手阳明根于商阳，溜于合谷，注于阳溪，入于扶突、偏历也。此所谓十二经者，盛络皆当取之。</p>
+<p>　　一日一夜五十营，以营五脏之精，不应数者，名曰狂生。所谓五十营者，五脏皆受气，持其脉口，数其至也。五十动而不一代者，五脏皆受气。四十动一代者，一脏无气。三十动一代者，二脏无气。二十动一代者，三脏无气。十动一代者，四脏无气。不满十动一代者，五脏无气。予之短期，要在终始。所谓五十动而不一代者，以为常也。以知五脏之期，予之短期，予之短期者，乍数乍疏也。</p>
+<p>　　黄帝曰：逆顺五体者，言人骨节之大小，肉之坚脆，皮之厚薄，血之清浊，气之滑涩，脉之长短，血之多少，经络之数，余已知之矣，此皆布衣匹夫之士也。夫王公大人，血食之君，身体柔脆，肌肉软弱，血气剽悍滑利，其刺之徐疾浅深多少，可得同之乎。歧伯答曰：膏梁菽藿之味，何可同也？气滑即出疾，其气涩则出迟，气悍则针小而入浅，气涩则针大而入深，深则欲留，浅则欲疾。以此观之，刺布衣者，深以留之，刺大人者，微以徐之，此皆因气剽悍滑利也。</p>
+<p>　　黄帝曰：形气之逆顺奈何？歧伯曰：形气不足，病气有余，是邪胜也，急泻之；形气有余，病气不足，急补之；形气不足，病气不足，此阴阳气俱不足也，不可刺之，刺之则重不足。重不足则阴阳俱竭，血气皆尽，五脏空虚，筋骨髓枯，老者绝灭，壮者不复矣。形气有余，病气有余，此谓阴阳俱有余也。急泻其邪，调其虚实。故曰：有余者泻之，不足者补之，此之谓也。</p>
+<p>　　故曰：刺不知逆顺，真邪相搏。满而补之，则阴阳四溢，肠胃充郭，肝肺内□，阴阳相错。虚而泻之，则经脉空虚，血气竭枯，肠胃□辟，皮肤薄着，毛腠夭膲，予之死期。</p>
+<p>　　故曰：用针之要，在于知调阴与阳。调阴与阳，精气乃光，合形与气，使神内藏。</p>
+<p>　　故曰：上工平气，中工乱脉，下工绝气危生。</p>
+<p>　　故曰：下工不可不慎也，必审五藏变化之病，五脉之应，经络之实虚，皮之柔粗，而后取之也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1048.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1050.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right871" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

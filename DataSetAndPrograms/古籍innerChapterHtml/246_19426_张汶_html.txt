@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·张汶_古诗文网
+</title>
+<meta content="右常侍杨潜，尝自尚书郎出刺西河郡。时属县平遥，有乡吏张汶者，无疾暴卒，数日而寤。初汶见亡兄来诣其门，汶甚惊，因谓曰：“吾兄非鬼耶何为而来？”兄泣曰：“我自去人间，常常属念亲友，若瞽" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19426.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>张汶</b></span>
+<a href="javascript:PlayBookv(19426)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19426" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19426" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　右常侍杨潜，尝自尚书郎出刺西河郡。时属县平遥，有乡吏张汶者，无疾暴卒，数日而寤。初汶见亡兄来诣其门，汶甚惊，因谓曰：“吾兄非鬼耶何为而来？”兄泣曰：“我自去人间，常常属念亲友，若瞽不得忘视也。思平生欢，岂可得乎今冥官使我，得归而省汝。”汉曰：“冥官为谁？”曰：“地府之官，权位甚尊。吾今为其吏，往往奉使至里中，比以幽明异路，不可诣汝之门。今冥官召汝，汝可疾赴。”汶惧，辞之不可。牵汶袂而去。行十数里，路曛黑不可辨，但闻车马驰逐，人物喧语，亦闻其妻子兄弟呼者哭者，皆曰：“且议丧具。”汶但与兄俱进，莫知道途之几何。因自念：“我今死矣，然常闻人死，当尽见亲友之殁者，今我即呼之，安知其不可哉？”汶有表弟武季伦者，卒且数年，与汶善，即呼之，果闻季伦应曰：“诺。”既而俱悲泣，汶因谓曰：“今弟之居，为何所也何为曛黑如是？”季伦曰：“冥途幽晦，无日月之光故也。”又曰：“恨不可尽，今将去矣。”汶曰：“今何往？”季伦曰：“吾平生时，积罪万状，自委身冥途，日以戮辱。向闻兄之语，故来与兄言，今不可留。”又悲泣久之，遂别。呼亲族中亡殁者数十，咸如季伦应呼而至，多言身被涂炭，词甚凄咽。汶虽前去，亦不知将止何所，但常闻妻子兄弟号哭及语音，历然在左右，因遍呼其名，则如不闻焉。久之，有一人厉呼曰：“平遥县吏张汶。”汶既应曰：“诺。”又有一人责怒汶，问平生之过有几。汶固拒之，于是命案掾出汶之籍。顷闻案掾称曰：“张汶未死，愿遣之。”冥官怒曰：“汶未当死，何召之？”掾曰：“张汶兄今为此吏，向者许久处冥途，为役且甚，请以弟代，虽未允其请，今自召至此。”冥官怒其兄曰：“何为自召生人，不顾吾法。”即命囚之，而遣汶归。汶谢而出。遂独行，以道路曛晦，惶惑且甚。俄顷，忽见一烛在数十里外，光影极微，汶喜曰：“此烛将非人居乎？”驰走，望影而去。可行百余里，方觉其影稍近，迫而就之，乃见己身偃卧于榻，其室有烛，果汶见者。自是寤。汶即以冥中所闻妻子兄弟号哭及议丧具，讯其家，无一异者。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19425.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19427.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

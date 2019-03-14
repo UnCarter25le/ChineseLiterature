@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+五代史阙文·周史四篇_古诗文网
+</title>
+<meta content="周太祖冯道（事迹相因，故君臣同序）周太祖在汉隐帝朝，为枢密使，将兵伐河中李守贞时，冯道守太师，不与朝政，以疾请告。周祖谒道于私第，问伐蒲策。道辞以不在其位，不敢议国事。周祖固问之，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20176.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>周史四篇</b></span>
+<a href="javascript:PlayBookv(20176)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20176" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20176" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e7%a6%b9%e5%81%81">王禹偁</a></p>
+<div class="contson">
+<p>　　<strong>周太祖冯道</strong>（事迹相因，故君臣同序）</p>
+<p>　　周太祖在汉隐帝朝，为枢密使，将兵伐河中李守贞时，冯道守太师，不与朝政，以疾请告。周祖谒道于私第，问伐蒲策。道辞以不在其位，不敢议国事。周祖固问之，道不得已，谓周祖曰：“相公颇知博乎”周祖微时好蒲博，屡以此抵罪，疑道讥己，勃然变色。道曰：“是行亦犹博也。夫博，财多者气豪而胜，财寡者心怯而输。守贞在晋，累典禁兵，自为军情附己，遂谋反耳。今相公诚能不惜官钱，广施恩爱，明其赏罚，使军心许国，则守贞不足虑也。”周祖曰：“恭闻命矣。”故伐蒲之役，周祖以便宜从事，率成大功。然亦军旅归心，终移汉祚。又周祖自邺起兵赴阙，汉隐帝兵败，遇害于刘子陂。周祖入京师，百官谒，周祖见道犹设拜，意道便行推戴。道受拜如平时，徐曰：“侍中此行不易。”周祖气沮，故禅代之谋稍缓。及请道诣徐州，册湘阴公为汉嗣。道曰：“侍中由衷乎”周祖设誓，道曰：“莫教老夫为谬语，令为谬语人。”臣谨按周世宗朝诏史臣修《周祖实录》，故道之事所宜讳矣。</p>
+<p>　　<strong>王峻</strong></p>
+<p>　　广顺初，河东刘崇引契丹攻晋州，遣峻率师赴援。峻顿兵于陕，周祖欲亲征，遣使谕之。峻见使受宣讫，谓使曰：“与某驰还，附奏陛下，言晋州城坚，未易可拔，刘崇兵锋方锐，不可与力争。所以驻兵者，待其气衰耳，非臣怯也。陛下新即位，不宜轻举。今朝中受圣知者，惟李谷、范质而已。陛下若车驾出汜水，则慕容彦超以贼军入汴，大事去矣。”使还具奏，周祖自以手提耳，目使者曰：“几败吾事。”</p>
+<p>　　<strong>世宗符皇后</strong></p>
+<p>　　符后，先适河中节度使李守贞之子崇训。守贞尝得术士，善听声，知人贵贱，守贞举族悉令术士听之，独言后大贵，当母仪天下。守贞信之，因曰：“吾妇尚为皇后，我可知也。”遂谋叛。及城陷，后独免，周祖为世宗娶之。显德中，册为后。臣以为术士之言，盖亦有时而中，人君之位，安可无妄而求，公侯其诫之。</p>
+<p>　　<strong>王朴 </strong></p>
+<p>　　周显德中，朴与魏仁浦俱为枢密使。时太祖皇帝已掌禁兵。一日，有殿直乘马，误冲太祖导从，太祖自诣密地，诉其无礼。仁浦令宣徽院勘诘，朴谓太祖曰：“太尉名位虽高，未加使相。殿直，廷臣也，与太尉比肩事主，太尉况带军职，不宜如此。”太祖唯唯而出。臣谨按朴之行事，传于人口者甚众，而史氏阙书。臣昨重修《太祖实录》，已于《李谷传》中见朴遗事，今复补其大者。况太祖、太宗在位，每称朴有公辅之器，朝列具闻。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20175.aspx">上一章</a>
+<a href="/guwen/book_281.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

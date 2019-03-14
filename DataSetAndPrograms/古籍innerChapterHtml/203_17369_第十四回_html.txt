@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第十四回_古诗文网
+</title>
+<meta content="蕃兵劫败汉军却说钟离原是上界仙子，因掌书有过，谪下界中。至此复当破阵征战之时，正当铁拐从空而过。一见杀气腾腾，伫空一望，乃钟离与蕃将大战，铁拐曰：“钟离已当遇道超凡，何乃执迷不悟在" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17369.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第十四回</b></span>
+<a href="javascript:PlayBookv(17369)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17369" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17369" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>蕃兵劫败汉军</strong></p>
+<p>　　却说钟离原是上界仙子，因掌书有过，谪下界中。至此复当破阵征战之时，正当铁拐从空而过。一见杀气腾腾，伫空一望，乃钟离与蕃将大战，铁拐曰：“钟离已当遇道超凡，何乃执迷不悟在此？且夷人固不可灭，收功自有其人。设使钟离收其全功，必自封侯加爵，彼时沉溺太深，有误大道。不若使之战败逃回，出迷路而超仙界，岂不美哉！”于是化作老翁，竟投蕃营而去。</p>
+<p>　　却说蕃将大败之后，收兵计数，十万已去八九。正思报复，无计可施，乃愁愁闷闷，坐帐沉思。忽小军报道：“营前有一老翁来见。”不聿自思此翁并无故交，老翁来见，必有说也。命引入。老翁入帐，见不聿揖而不拜。不聿问曰：“翁来何事？”翁曰：“特来贺将军耳。”不聿曰：“吾败将丧兵，羞惭无地，何可贺之？”老翁曰：“将军差矣，胜负兵家之常，若即再战，未可量也。奈何一挫而遂丧其锐乎？吾以为汉兵得胜，其志必骄，今夜劫营，定获全胜。况中国将星隐隐不明，难星侵之至急，今夜彼营必有大灾，其兵必乱。此时将军四面突入，彼皆以为从天而下也。岂有不胜之理哉！”言讫，即辞而去。</p>
+<p>　　不聿闻言大喜，便下令一更造饭，二更劫营。有末将必忽进曰：“汉将多谋，老翁之言恐有诈也。何深信之？”不聿曰：“汝言虽是，但老翁之言深合兵法，且吾亦已怀此意矣。汝但鼓勇听令，再勿深疑。”随即点精兵四万，分为四队饱食而进。每路兵分作两队，以防前后救援。一更之后，人啣枚，马摘铃，悄悄往汉营四面埋伏而去。但看火箭四面皆起，其营中之失与否皆勿论也。</p>
+<p>　　却说钟离得胜回营，大劳三军，论功行赏，将近三更方罢，牙将冯己进曰：“敌人虽败，士卒尚多，今夜可防劫寨之患。”钟离曰：“汝言正合兵法，吾自备之，汝在外更宜谨慎。”冯己领诺而出。时至三更，忽后营火起，乃铁拐所为也。值大风骤发，火逞风威，风加火势，连烧大营。”军士急救不能得灭。正值惊慌，蕃兵望见火起，放起火箭，四面伏兵，一齐鼓噪突入。汉兵马不及鞍，人不及甲，望风奔走，自相践踏，死者不计其数。钟离提枪直出，正遇不聿，战十合余，见军士乱逃，又不知敌兵多少，只得落荒而走。行不数十步，又被蕃兵拦住。后面不聿又到。</p>
+<p>　　正在危急，却得冯己挺身杀入救出，未及脱身，坐下马却被箭射死。冯己夺蕃兵一马与骑，走上山坡，回头一望，只见营寨皆焚，黑夜如同白昼。全军尽散，左右止得千人。大叫一声，坠于马下，冯己急忙扶起，背后边兵又至，己曰：“将军急行，吾自断后。”钟离乃放马望山谷而去，蕃兵亦不追赶。余话不题。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17368.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17370.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

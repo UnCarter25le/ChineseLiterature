@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+地藏经·分身集会_古诗文网
+</title>
+<meta content="尔时百千万亿不可思、不可议、不可量、不可说无量阿僧祇世界，所有地狱处，分身地藏菩萨，俱来集在忉利天宫。以如来神力故，各以方面，与诸得解脱从业道出者，亦各有千万亿那由他数，共持香华，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5308.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3647" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>分身集会</b></span>
+<a href="javascript:PlayBookv(5308)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5308" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3647)" id="leftbtn3647" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5308" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　尔时百千万亿不可思、不可议、不可量、不可说无量阿僧祇世界，所有地狱处，分身地藏菩萨，俱来集在忉利天宫。以如来神力故，各以方面，与诸得解脱从业道出者，亦各有千万亿那由他数，共持香华，来供养佛。</p>
+<p>　　彼诸同来等辈，皆因地藏菩萨教化，永不退转于阿耨多罗三藐三菩提。是诸众等，久远劫来，流浪生死，六道受苦，暂无休息。以地藏菩萨广大慈悲，深誓愿故，各获果证。既至忉利，心怀踊跃，瞻仰如来，目不暂舍。</p>
+<p>　　尔时，世尊舒金色臂，摩百千万亿不可思、不可议、不可量、不可说、无量阿僧祇世界诸分身地藏菩萨摩诃萨顶，而作是言：吾于五浊恶世，教化如是刚强众生，令心调伏，舍邪归正，十有一二，尚恶习在。吾亦分身千百亿，广设方便。或有利根，闻即信受；或有善果，勤劝成就；或有暗钝，久化方归；或有业重，不生敬仰。如是等辈众生，各各差别，分身度脱。</p>
+<p>　　或现男子身、或现女人身、或现天龙身、或现神鬼身、或现山林川原、河池泉井，利及于人，悉皆度脱。或现天帝身、或现梵王身、或现转轮王身、或现居士身、或现国王身、或现宰辅身、或现官属身、或现比丘、比丘尼、优婆塞、优婆夷身、乃至声闻、罗汉、辟支佛、菩萨等身、而以化度。非但佛身，独现其前。</p>
+<p>　　汝观吾累劫勤苦，度脱如是等难化刚强罪苦众生。其有未调伏者，随业报应。若堕恶趣，受大苦时，汝当忆念吾在忉利天宫，殷勤付嘱。令娑婆世界，至弥勒出世已来众生，悉使解脱，永离诸苦，遇佛授记。</p>
+<p>　　尔时，诸世界分身地藏菩萨，共复一形，涕泪哀恋，白其佛言：我从久远劫来，蒙佛接引，使获不可思议神力，具大智慧。我所分身，遍满百千万亿恒河沙世界，每一世界化百千万亿身，每一身度百千万亿人，令归敬三宝，永离生死，至涅槃乐。但于佛法中所为善事，一毛一渧，一沙一尘，或毫发许，我渐度脱，使获大利。唯愿世尊，不以后世恶业众生为虑。</p>
+<p>　　如是三白佛言：唯愿世尊，不以后世恶业众生为虑。</p>
+<p>　　尔时，佛赞地藏菩萨言：善哉！善哉！吾助汝喜。汝能成就久远劫来，发弘誓愿，广度将毕，即证菩提。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5307.aspx">上一章</a>
+<a href="/guwen/book_66.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5309.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3647" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

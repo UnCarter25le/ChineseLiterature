@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·奏启_古诗文网
+</title>
+<meta content="昔唐虞之臣，敷奏以言；秦汉之辅，上书称奏。陈政事，献典仪，上急变，劾愆谬，总谓之奏。奏者，进也。言敷于下，情进于上也。秦始立奏，而法家少文。观王绾之奏勋德，辞质而义近；李斯之奏骊山" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4038.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2632" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>奏启</b></span>
+<a href="javascript:PlayBookv(4038)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4038" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2632)" id="leftbtn2632" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4038" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　昔唐虞之臣，敷奏以言；秦汉之辅，上书称奏。陈政事，献典仪，上急变，劾愆谬，总谓之奏。奏者，进也。言敷于下，情进于上也。</p>
+<p>　　秦始立奏，而法家少文。观王绾之奏勋德，辞质而义近；李斯之奏骊山，事略而意诬：政无膏润，形于篇章矣。自汉以来，奏事或称“上疏”，儒雅继踵，殊采可观。若夫贾谊之务农，晁错之兵事，匡衡之定郊，王吉之劝礼，温舒之缓狱，，谷永之谏仙，理既切至，辞亦通辨，可谓识大体矣。后汉群贤，嘉言罔伏，杨秉耿介于灾异，陈蕃愤懑于尺一，骨鲠得焉。张衡指摘于史职，蔡邕铨列于朝仪，博雅明焉。魏代名臣，文理迭兴。若高堂天文，黄观教学，王朗节省，甄毅考课，亦尽节而知治矣。晋氏多难，灾屯流移。刘颂殷劝于时务，温峤恳恻于费役，并体国之忠规矣。</p>
+<p>　　夫奏之为笔，固以明允笃诚为本，辨析疏通为首。强志足以成务，博见足以穷理，酌古御今，治繁总要，此其体也。若乃按劾之奏，所以明宪清国。昔周之太仆，绳愆纠谬；秦有御史，职主文法；汉置中丞，总司按劾；故位在鸷击，砥砺其气，必使笔端振风，简上凝霜者也。观孔光之奏董贤，则实其奸回；路粹之奏孔融，则诬其衅恶。名儒之与险士，固殊心焉。若夫傅咸劲直，而按辞坚深；刘隗切正，而劾文阔略：各其志也。后之弹事，迭相斟酌，惟新日用，而旧准弗差。然函人欲全，矢人欲伤，术在纠恶，势必深峭。《诗》刺谗人，投畀豺虎；《礼》疾无礼，方之鹦猩。墨翟非儒，目以羊彘；孟轲讥墨，比诸禽兽。《诗》、《礼》、儒墨，既其如兹，奏劾严文，孰云能免。是以世人为文，竞于诋诃，吹毛取瑕，次骨为戾，复似善骂，多失折衷。若能辟礼门以悬规，标义路以植矩，然后逾垣者折肱，捷径者灭趾，何必躁言丑句，诟病为切哉！是以立范运衡，宜明体要。必使理有典刑，辞有风轨，总法家之裁，秉儒家之文，不畏强御，气流墨中，无纵诡随，声动简外，乃称绝席之雄，直方之举耳。</p>
+<p>　　启者，开也。高宗云“启乃心，沃朕心”，取其义也。孝景讳启，故两汉无称。至魏国笺记，始云启闻。奏事之末，或云“谨启”。自晋来盛启，用兼表奏。陈政言事，既奏之异条；让爵谢恩，亦表之别干。必敛饬入规，促其音节，辨要轻清，文而不侈，亦启之大略也。</p>
+<p>　　又表奏确切，号为谠言。谠者，正偏也。王道有偏，乖乎荡荡，矫正其偏，故曰谠言也。孝成称班伯之谠言，言贵直也。自汉置八能，密奏阴阳，皂囊封板，故曰封事。晁错受书，还上便宜。后代便宜，多附封事，慎机密也。夫王臣匪躬，必吐謇谔，事举人存，故无待泛说也。</p>
+<p>　　赞曰∶</p>
+<p>　　皂饰司直，肃清风禁。笔锐干将，墨含淳酖。</p>
+<p>　　虽有次骨，无或肤浸。献政陈宜，事必胜任。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4037.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4039.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2632" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

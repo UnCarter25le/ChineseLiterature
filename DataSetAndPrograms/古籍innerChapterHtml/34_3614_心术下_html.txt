@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+管子·心术下_古诗文网
+</title>
+<meta content="形不正者，德不来；中不精者，心不冶。正形饰德，万物毕得，翼然自来，神莫知其极，昭知天下，通于四极。是故曰：无以物乱官，毋以官乱心，此之谓内德。是故意气定，然后反正。气者身之充也，行" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3614.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2267" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>心术下</b></span>
+<a href="javascript:PlayBookv(3614)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3614" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2267)" id="leftbtn2267" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3614" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ae%a1%e4%bb%b2%e5%8f%8a%e9%97%a8%e5%be%92">管仲及门徒</a></p>
+<div class="contson">
+<p>　　形不正者，德不来；中不精者，心不冶。正形饰德，万物毕得，翼然自来，神莫知其极，昭知天下，通于四极。是故曰：无以物乱官，毋以官乱心，此之谓内德。是故意气定，然后反正。气者身之充也，行者正之义也。充不美则心不得，行不正则民不服。是故圣人若天然，无私覆也；若地然，无私载也。私者，乱天下者也。</p>
+<p>　　凡物载名而来，圣人因而财之，而天下治。实不伤，不乱于天下，而天下治。专于意，一于心，耳目端，知远之证。能专乎？能一乎？能毋卜筮而知凶吉乎？能止乎？能已乎？能毋问于人而自得之于己乎？故曰，思之。思之不得，鬼神教之。非鬼神之力也。其精气之极也。</p>
+<p>　　一气能变曰精、一事能变曰智。慕选者，所以等事也；极变者，所以应物也。慕选而不乱，极变而不烦，执一之君子执一而不失，能君万物，日月之与同光，天地之与同理。</p>
+<p>　　圣人裁物，不为物使。心安，是国安也；心治，是国治也。治也者心也，安也者心也。治心在于中，治言出于口，治事加于民，故功作而民从，则百姓治矣。所以操者非刑也，所以危者非怒也。民人操，百姓治，道其本至也，至不至无，非所人而乱。</p>
+<p>　　凡在有司执制者之利，非道也。圣人之道，若存若亡，援而用之，殁世不亡。与时变而不化，应物而不移，日用之而不化。</p>
+<p>　　人能正静者，筋肕而骨强；能戴大圆者，体乎大方；镜大清者，视乎大明。正静不失，日新其德，昭知天下，通于四极。金心在中不可匿，外见于形容，可知于颜色。善气迎人，亲如弟兄；恶气迎人，害于戈兵。不言之言，闻于雷鼓。全心之形，明于日月，察于父母。昔者明王之爱天下，故天下可附；暴王之恶天下，故天下可离。故货之不足以为爱，刑之不足以为恶。货者爱之末也，刑者恶之末也。</p>
+<p>　　凡民之生也，必以正平；所以失之者，必以喜乐哀怒，节怒莫若乐，节乐莫若礼，守礼莫若敬。外敬而内静者，必反其性。</p>
+<p>　　岂无利事哉？我无利心。岂无安处哉？我无安心。心之中又有心。意以先言，意然后形，形然后思，思然后知。凡心之形，过知失生。</p>
+<p>　　是故内聚以为原。泉之不竭，表里遂通；泉之不涸，四支坚固。能令用之，被及四固。</p>
+<p>　　是故圣人一言解之，上察于天，下察于地。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3613.aspx">上一章</a>
+<a href="/guwen/book_34.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3615.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2267" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

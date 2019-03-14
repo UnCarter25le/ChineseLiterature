@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+农桑辑要·播种·大小麦青稞附_古诗文网
+</title>
+<meta content="《齐民要术》：大、小麦皆须五月、六月暵地。不暵地而种者，其收倍薄。崔寔曰：“五月六月菑麦田”也。《孝经援神契》云：黑坟宜麦。《氾胜之书》曰：种麦得时，无不善。早种则虫而有节；晚种则" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6500.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5528" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>播种·大小麦青稞附</b></span>
+<a href="javascript:PlayBookv(6500)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6500" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5528)" id="leftbtn5528" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6500" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　《齐民要术》：大、小麦皆须五月、六月暵地。不暵地而种者，其收倍薄。崔寔曰：“五月六月菑麦田”也。</p>
+<p>　　《孝经援神契》云：黑坟宜麦。</p>
+<p>　　《氾胜之书》曰：种麦得时，无不善。早种则虫而有节；晚种则穗小而少实。当种麦，若天旱无雨泽，则薄渍麦种以酢且故反，与“醋”字同。浆并蚕矢，夜半渍向晨，速投之，令与白露俱下。酢浆令麦耐旱，蚕矢令麦忍寒。麦生黄色，伤于太稠；稠者，锄而稀之。</p>
+<p>　　崔寔曰：凡种大、小麦，得白露节，可种薄田；秋分，种中田；后十日，种美田。惟蓣古猛反，大麦类。麦，早晚无常。正月，可种春麦，尽二月止。</p>
+<p>　　青稞苦禾反，麦名。麦：治打时稍难，惟快日用碌碡碾。与大麦同时熟。面堪作趁及饼饪，甚美。磨緫尽无麸。锄一遍佳；不锄亦得。</p>
+<p>　　《四时类要》：晒大小麦，今年收者，于六月扫庭除，候地毒热，众手出麦，薄摊，取苍耳碎剉拌晒之。至未时，及热收，可以二年不蛀。音注，虫也。若有陈麦，亦须依此法更晒，须在立秋前；秋后，则已有虫生，恐无益矣。</p>
+<p>　　《士农必用》：古农语云：“彭祖寿，年八百，不可忘了植蚕植麦。”又云：“社后种麦争回耧。”又云：“社后种麦争回牛。”言夺时之急，如此之甚也。</p>
+<p>　　《韩氏直说》：五六月麦熟，带青收一半；合熟收一半，若过熟，则抛费。每日至晚，即便载麦上场堆积，用苫缴覆，以防雨作。苫须于以前农隙时备下。如搬载不及，即于地内苫积；天晴，乘夜载上场，即摊一二车，薄则易干。碾过一遍，翻过，又碾一遍，起秸下场，扬子收起。虽未净，直待所收麦都碾尽，然后将未净秸秆再碾。如此，可一日一场，比至麦收尽，已碾讫三之二。农家忙并，无似蚕麦。古语云：“收麦如救火。”若少迟慢，一值阴雨，即为灾伤，迁延过时，秋苗亦误锄治。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6499.aspx">上一章</a>
+<a href="/guwen/book_79.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6501.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5528" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

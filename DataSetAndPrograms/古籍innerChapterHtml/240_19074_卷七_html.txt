@@ -1,0 +1,124 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西夏书事·卷七_古诗文网
+</title>
+<meta content="咸平四年夏四月，保吉谋攻西州回鹘，回鹘请兵于朝。，河水暴涨回鹘自唐末浸微，散处甘、凉、瓜、沙间，各立君长分领族帐。时保吉犹驻积石河，将西掠吐蕃健马，北收回鹘锐兵，然后长驱南牧。西州" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19074.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七</b></span>
+<a href="javascript:PlayBookv(19074)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19074" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19074" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%b9%bf%e6%88%90">吴广成</a></p>
+<div class="contson">
+<p>　　咸平四年夏四月，保吉谋攻西州回鹘，回鹘请兵于朝。，河水暴涨</p>
+<p>　　回鹘自唐末浸微，散处甘、凉、瓜、沙间，各立君长分领族帐。时保吉犹驻积石河，将西掠吐蕃健马，北收回鹘锐兵，然后长驱南牧。西州回鹘可汗禄胜知其谋，遣枢密使曹万通入贡，言本国东至黄河，西至雪山，有小郡数百，甲马精习，愿朝廷命将统领，使得缚继迁以献。真宗嘉之，赐以诏曰：“夏、绥抗命，神人所弃。卿世济忠烈，谊笃舅甥，继上奏封，备陈方略，且欲大举精甲，就覆残妖，拓土西陲，献俘北阙。可汗功业，其可胜言！嘉叹所深，不忘朕意。今更不遣使臣，一切委卿统制。”特授万通左神武大将军，优赐禄胜器服。佶率兵拒战，酋领中矢死</p>
+<p>　　按：此回鹘请讨保吉之始。州地。</p>
+<p>　　吐蕃六谷都首领潘罗支以兵来讨。旬，田稼尽没，</p>
+<p>　　知镇戎军李继和言，六谷都首领潘罗支愿戮力讨夏州，请授以刺史。廷议罗支已为酋帅，授刺史太轻，乃以为盐州防御使兼灵州西面都巡检使。于是罗支遣部下李万年率兵进讨，贻书继和请师期。佶率兵拒</p>
+<p>　　掳羌嵬逋走回。寨，</p>
+<p>　　嵬逋乃保吉扰河西时掠得者，乘间率属千余内投，保吉自万户谷追之，不及。潘罗支攻夏州，</p>
+<p>　　秋七月，以下恒、环等州告契丹。军节度，而绥、宥诸州尚</p>
+<p>　　保吉遣李文骥献于契丹，因以下恒、环、庆三州告，契丹主赐诏褒之。兰山</p>
+<p>　　按此与前告下麟、同伪词耳。何以书？罪其妄也。伪妄之词，一之为甚，可再三乎？，杀知州事裴济，改</p>
+<p>　　八月，遣使献马。绥、</p>
+<p>　　犹称所赐姓名，然寇掠边鄙益甚。外寨，</p>
+<p>　　攻灵州不克，田其境地。绥、银割</p>
+<p>　　灵州居平夏西北，南去镇戎约五百里，东去环州六、七日程，中隔瀚海，数百里乏水草，烽火、亭障不相望，若聚众急攻，早已不守。保吉欲俟中国财用关辅民力尽耗，然后取之。是时以五万骑攻城，城中兵少不出战。据其山川险要，凡四旁膏腴之地，使部族万山等率蕃卒驻榆林、大定间为屯田计，垦辟耕耘，骚扰日甚。真宗谋之参政李至，至言：“灵州虽西北要冲，今援绝势孤，不能不弃。若移朔方军于环州，保固边境，亦一时之权也。”乃遣宰相张齐贤行边。齐贤上言：“灵武孤城，必难固守，徒使军民六、七万陷于危亡之地。”知制诰杨亿亦言弃之便。辅臣咸以灵州及必争之地，苟失之，则缘边诸郡皆不可保。宰相李沆曰：“继迁不死，灵武终非朝廷有。莫若遣使密召州将，使部分军民空垒而归，如此，则关右之民息肩矣。”真宗不从，以王超为西面行营都部署，将兵六万援之。东三十里，保吉以部下饥</p>
+<p>　　九月，袭定州及怀远镇，镇将李赞自焚死；连取保静、永州；攻清远军，破之。讨保吉之</p>
+<p>　　清远据积石岭，在瀚海中，去灵、环各三、四百里，四面悬绝。保吉攻灵州不克，复遣牙将赵光允贡马，潜以众袭破定州，围怀远。李赞兵不满百，拒战累日，力尽积藁自焚。连破保静、永州，攻清远。知军刘隐、监押丁赞分兵拒守，走间使诣庆州请援。都部署杨琼遣副部署潘、都监刘文质率兵六千赴之，且曰：“俟吾继至。”已而，迁延不进。保吉自鼓兵攻南门，令子阿移督精甲攻北门，堙濠断桥以战。七日，城中力竭，兵马都监段义启门降。保吉兵威益炽，逾支子平，直薄青冈城下。阿移，德明小字也。逋族</p>
+<p>　　按：保吉攻城夺寨，未有如此详书者。缘河外五城乃灵州肩背，而清远据积石之冲，屯粮置守，以通环、庆援兵，尤为要害。自保吉取清远，灵州遂失声援矣。月，筑河防。</p>
+<p>　　冬十月，升保静县为静州。仪州制胜</p>
+<p>　　按：此李氏更改郡县之始。势成而</p>
+<p>　　徇唐隆镇，与麟州兵战于柳拨川，不胜。，常屯重兵境上，而输馈</p>
+<p>　　保吉既得清远，以兵徇唐隆镇，谋从萧关、武延、石门路攻麟、府。麟州副部署曹璨出蕃兵邀之镇西柳拨川，保吉战不利，退走三十余里。微，散处甘、凉、瓜</p>
+<p>　　十二月，攻河外寨，降守将李琼。军入青冈峡数百里皆蕃部</p>
+<p>　　自清远军陷，尽焚青冈峡诸寨，环庆、延、麟府以外近河之地，皆属保吉。真宗诏：西蕃诸族有能破夏州者，当授节度使，赐银、彩、茶六万；举族来附者，给田宅。于是蕃部阿药、讹猪、讹遇等皆内属。保吉谓中国诱之，率兵攻灵州河外寨。寨主李琼拒守旬余，保吉知其困，遣人招之，琼举城降。佶率兵拒战，酋领</p>
+<p>　　部将卧浪己内降。及怀远镇</p>
+<p>　　真宗命补军主，赐之田宅。河州，合洮河水东北</p>
+<p>　　咸平五年春正月，保吉置市于赤沙、橐驼等路。北，部众甚盛。初，合于</p>
+<p>　　赤沙川、橐驼口两路，为灵、夏二州蕃族屯聚处，保吉各置会贸易，以诱熟户。于是归者日众，中国禁之不止。始此。</p>
+<p>　　三月，取灵州，杀知州事裴济，改州为西平府。绥、银割弃，</p>
+<p>　　河外五城相继陷没，灵州孤堞仅存。关陕之民困于转输，陷锋镝填沙碛者不下数十万。岁荐饥，城中斗米价至十贯。裴济至镇，甫二载，谋辑八镇，大兴顿田，民间稍有生色。保吉集蕃部并力攻之，济被围两月，饷援并绝，刺指血染奏乞救。保吉遣兵断瀚海要路，王超大军不得进。别将张煦出镇戎军，入夏州界，由白豹镇抵柔远川，戍兵七百骑邀战，煦击败之，星夜赴援，未至而城陷，济死焉。济在镇有声望，及没，夏人惜之。保吉以世爵西平，又受契丹西平王册典，遂改州为西平府。麟、</p>
+<p>　　夏四月，使清远蕃酋伪降，邀环、庆官军于白豹镇，不胜。白，光</p>
+<p>　　灵武路自清远军入青冈峡数百里皆蕃部所居，汉人使旅经由，并在熟户安泊，所求赂遗，谓之“打当”，习以为常。保吉闻援将张煦引兵将抵清远，使新降蕃酋伪为熟户，以甲骑三千约降，愿给资粮，为饷导。煦察其诈，亟严军待。会环庆路部署张凝率师按部还，保吉遣兵邀之，凝将败，煦领锐卒赴援，一矢殪一大将，乃解。迁战，夺人畜甚众。时以</p>
+<p>　　声言攻环州，以创甚不果。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19073.aspx">上一章</a>
+<a href="/guwen/book_240.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19075.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

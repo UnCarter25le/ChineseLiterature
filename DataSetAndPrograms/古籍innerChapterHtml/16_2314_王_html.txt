@@ -1,0 +1,117 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·王_古诗文网
+</title>
+<meta content="历史来源「王」源出有许多，帝王的后裔称王子，王孙，遂为氏。一 ; 出于「妫」姓，相传为古帝虞舜之后，子孙在陈国，齐王田和为其后人。二 ; 出于「子」姓。商纣时王子比干之后。三 ; " name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2314.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>王</b></span>
+<a href="javascript:PlayBookv(2314)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2314" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2314" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong></p>
+<p>　　「王」源出有许多，帝王的后裔称王子，王孙，遂为氏。</p>
+<p>　　一 ; 出于「妫」姓，相传为古帝虞舜之后，子孙在陈国，齐王田和为其后人。</p>
+<p>　　二 ; 出于「子」姓。商纣时王子比干之后。</p>
+<p>　　三 ; 出于「?」姓。周文王第十五子毕公高之后 ; 又周灵王太子晋，因直谏被废为庶民，迁居于琅邪 ( 今山东胶南 ) ，世人称其为「王」家，其后亦为「王」氏。</p>
+<p>　　四 ; 秦灭六国后，各国王族避难散居，至汉朝初年纷纷易姓为「王」氏。</p>
+<p>　　五 ; 南北朝时，西魏鲜卑族复姓可颇氏。亦改为王氏。</p>
+<p>　　六 ; 古高丽国君有王氏。</p>
+<p>　　七 ; 西钳耳族有王氏。</p>
+<p>　　八 ; 赐姓，如燕王丹的玄孙嘉，在西汉末年王莽当朝时被赐姓「王氏」。</p>
+<p>　　九 ; 冒姓，如隋末王世充本姓支氏。<br/> <br/><strong>家族名人</strong></p>
+<p>　　王子乔</p>
+<p>　　神话传说中的仙人。汉˙刘向˙列仙传˙卷上˙王子乔：王子乔者，周灵王太子晋也。好吹笙作凤凰鸣，游伊洛之间，道士浮丘公接以上嵩高山。三十余年后，求之于山上，见柏良，曰：告我家，七月七日，待我于缑氏山巅。至时，果乘白鹤驻山头。望之不得到，举手谢时人，数日而去。亦称为王乔、王子晋。</p>
+<p>　　王翦 (生卒年不详)</p>
+<p>　　战国时秦的名将，频阳（今陕西富平县东北五十里）人。事秦始皇，曾定赵、燕、蓟诸地，后为李信所谗，谢病归里，后信战败，始皇遂用翦策以平荆。</p>
+<p>　　王昭君 ( 王嫱 ) (生卒年不详)</p>
+<p>　　汉秭归人。元帝时选入掖庭，呼韩邪单于入朝，求美人为阏氏，帝以嫱赐之，号宁胡阏氏。晋时避司马昭讳，改称明妃。</p>
+<p>　　王莽</p>
+<p>　　王羲之 （321～379）</p>
+<p>　　字逸少，东晋临沂（今属山东）人，后南迁为会稽人。尝为右军将军，世称王右军。善书法，所写草隶，冠绝古今，以兰亭集序、乐毅论等为最，后人称为书圣。</p>
+<p>　　王安石 (1021～1086）</p>
+<p>　　字介甫，号半山老人，宋临川人。博览强记，工书画，尤善诗，而文词简练。神宗时为相，改革政治，锐行新法，因反对者众多，没有成功。封荆国公，卒谥文。着有周官新义、临川集、唐百家诗选等。</p>
+<p>　　王阳明 (1472～1528）</p>
+<p>　　字伯安，浙江余姚人。明代大儒，弘治进士。正德时巡抚南赣，定宸濠之乱。嘉靖时封新建伯，总督两广，破断藤峡贼，卒谥文成。其学以知行合一为主，发挥致良知之教，反对朱熹格物穷理之说，讲心学渊源于宋之陆九渊，世称姚江学派。尝筑室于阳明洞，学者称「阳明先生」，有王文成公全书。<br/> <br/><strong>地望分布</strong></p>
+<p>　　山西太原郡，山东琅邪郡，山东北海郡，河南陈留郡，山东东海郡，山东高平郡，陕西京兆郡，甘肃天水郡，山东东平郡，河南新蔡郡，河南新野郡，江苏山阳郡，河北中山郡，河北章武郡，山东东莱郡，山西河东郡，甘肃金城郡，四川广汉郡，江苏堂邑郡，河南河南郡，河北河间郡，河南汲郡，陕西冯翊郡，辽宁营州。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2313.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2315.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

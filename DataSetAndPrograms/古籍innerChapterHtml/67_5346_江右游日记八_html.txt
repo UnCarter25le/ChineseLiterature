@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+徐霞客游记·江右游日记八_古诗文网
+</title>
+<meta content="十三日　（缺）白赤丸如轮，平升玉盘之上，遥望日下，白气平铺天末，上有翠尖数点，则会仙诸峰也。仍从顶北下，十里，至空屋岐路处，遂不从东而从西下，里许而得混元观，则军峰之北下观也。其地" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5346.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4471" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>江右游日记八</b></span>
+<a href="javascript:PlayBookv(5346)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5346" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4471)" id="leftbtn4471" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5346" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%bc%98%e7%a5%96">徐弘祖</a></p>
+<div class="contson">
+<p>　　十三日　（缺）白赤丸如轮，平升玉盘之上，遥望日下，白气平铺天末，上有翠尖数点，则会仙诸峰也。仍从顶北下，十里，至空屋岐路处，遂不从东而从西下，里许而得混元观，则军峰之北下观也。其地已属抚之宜黄。〔闻山南车盘来道亦有下观云。〕循水北下，两山排闼tà门，水泻其中，无甚悬突飞洄之态。又下五里，始至涧底，此军峰直北之水也。既下山，境始开。又山一层横列于外，则鱼牙山也。又有一水自西南来，此军峰西壑之水，至此与北涧会。循水东北又五里，过袈裟石。绾两涧之口，水出其间，百家之聚在其外，曰墟上。又有一水亦自西南来会，则鱼牙山之水也，与大溪合而北，西转下宜黄，为宜黄之源云。自墟上东北岐，路溯一小溪，十里至东源。东向上岭，三里而登其上，曰板岭。其水西流入宜，东南流入丰，东北流亦入宜，盖军峰北下之脊也。越岭而东，一里，复得坪焉。山溪潆洄，数家倚之，曰章岭。竟坞一里，水东出峡间，下坠深坑，有路随之，想走南丰道也。其水东南去，必出南丰，则章岭一隙其为南丰属明矣。水口坠坑处，北有一径亦渐下北坑，则走下村道矣。亦渐有溪北自下村出七里坑，达枫林而下宜黄，则下村以北又俱宜黄之属。是水口北行一径，即板岭东度之脊也，但其脊甚平而狭，过时不觉耳。下脊，北五里，至下村。又北二里，水入山夹中，两山逼束形容两山相距很近，挤紧收敛，使中间非常狭窄甚隘，而长水倾底，路潆盘绕山半，山有凹凸，路亦随之，名曰十八排，即七里坑也。已而下坑渡涧，复得平坞，始有人居，已明月在中流矣。又北二里，水复破峡而出。又一里，出峡，是为枫林内村。又一里，山开水转，而西度小桥，是为枫林，一名陈坊。乃宿。 </p>
+<p>　　十四日　平明饭，行，即从小桥循小溪北上。盖枫林大溪西下宜黄，而小溪则北自南源分水而来者也。溯北上五里，入南湾坳，上分水岭，南为宜黄，北为南城，西南境逾岭为南源。五里至八角庄，为洪氏山庄。有水东下，舍之。北上黄沙岭，二里逾岭，下巾儿漈，水亦东下，又舍之。北溯一小水，三里，上栏寨门，平行岭上，为李家岭。又一里，始下，下一里，则磁龟在焉。磁龟者，罗圭峰玘qǐ之所居也，在南城西南九十里，据李文正《东阳记》，北阻芙蓉，西阨连珠峰，南望军峰，东则灵峰迤逦，有石在溪桥之下，而不甚肖；其溪亦不甚大；自西而东，夹溪而宅，甚富，皆罗氏也。问有花园坑，景亦没，无可观。遂东北逾岭而下，溪自东南下坑中，路不能从也。东下三里，山峡少开。又循一水，有桥跨之，曰云阳桥，水亦东南下，又舍之。东逾一岭，又二里，曰乘龙坳，水亦南下。复东上二里，曰鹅腰岭。平行岭上又二里，而下一里，曰鉏chǚ源，其水始东行。始至磁龟，以为平地，至此历级而降，共十里而至歪排，皆循东下，始知磁龟犹在众山之心，众山之顶也。歪排以上多坠峡奔崖之流，但为居民造粗纸，濯水如滓因水被污染而混浊肮脏，失飞练悬殊之胜。然鉏chǚ源小水已如此，不知滋龟以东诸东南注壑者，其必有垂虹界瀑之奇，恨路不能从何。出歪排，其南山坞始开，水亦南去。又东逾黄土岭，共三里，则下岐东行平畴中。五里，一溪自西北东去，有桥架其上，曰游真观前桥。又东五里，则盱江自东南而北。是时日才下午，不得舟，宿于溪西之路东，其溪之东即新丰大市也。 </p>
+<p>　　十五日　路东不得舟，遂仍从陆。右江左山，于是纯北行矣。六里，为大安桥。又三十里，则从姑在望，入郡南门矣。 </p>
+<p>　　十六日　过东门大桥，即从桥端南下。随沙岸，丛竹夹道，乔松拂云，江流雉堞右映，深树密篝左护，是曰中洲。有道观，今改为佛宇。前二石将军古甚，刘文恭铉为之记，因程南云盱人，与刘同在翰苑故也。是日再醉于夏调御处。 </p>
+<p>　　十七日　静闻随二担从麻源大路先往宜黄，余作钱、陈、刘诸书。是晚榻于调御斋中。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5345.aspx">上一章</a>
+<a href="/guwen/book_67.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5347.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4471" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

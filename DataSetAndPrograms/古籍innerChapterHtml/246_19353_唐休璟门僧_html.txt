@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·唐休璟门僧_古诗文网
+</title>
+<meta content="唐中宗时，唐公休璟为相。尝有一僧，发言多中，好为厌胜之术。休璟甚敬之。一日僧来，谓休璟曰：“相国将有大祸，且不远数月，然可以禳去。”休璟惧甚，即拜之。僧曰；“某无他术，但奉一计耳，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19353.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>唐休璟门僧</b></span>
+<a href="javascript:PlayBookv(19353)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19353" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19353" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　唐中宗时，唐公休璟为相。尝有一僧，发言多中，好为厌胜之术。休璟甚敬之。一日僧来，谓休璟曰：“相国将有大祸，且不远数月，然可以禳去。”休璟惧甚，即拜之。僧曰；“某无他术，但奉一计耳，愿听之。”休璟曰：“幸吾师教焉。”僧曰：“且天下郡守，非相国命之乎？”曰：“然。”僧曰：“相国当于卑冗官中访一孤寒家贫有才干者，使为曹州刺史，其深感相国恩，而可以指踪也。既得之，原以报某。”休璟且喜且谢，遂访于亲友。张君者，家甚贫，为京卑官，即日拜替善大夫。又旬日，用为曹州刺史。既而召僧谓曰：“已従师之计，得张某矣。然则可教乎？”僧曰：“张君赴郡之时，当令求二犬，高数尺而神俊者。”休璟唯之。已而张君荷唐公特达之恩，然莫喻其旨，及将赴郡，告辞于休璟。既而谢之曰：“某名迹幽昧，才识疏浅。相国拔此沈滞，牧守大郡，由担石之储，获二千石之禄，自涸辍而泛东溟，出穷谷而陟层霄，德固厚矣。然而感恩之外，窃所忧惕者，未知相国之旨何哉？”休璟曰：“用君之才耳，非他也。然常闻贵郡多善犬，愿得神俊非常者二焉。”张君曰：“谨奉教。”既至郡数日，乃悉召郡吏，告之曰：“吾受丞相唐公深恩，拔于不次，得守大郡。今唐公求二良犬，可致之乎”。有一吏前曰：“某家育一犬，质状异常，愿献之。”张大喜，即献焉。既至，其犬高数尺而肥，其臆广尺余，神俊异常，而又驯扰。张君曰：“相国所求者二也，如何？”吏白曰：“郡内唯有此，他皆常也。然郡南十里某村某民家，其亦有一焉。民极惜之，非君侯亲往，不可取之。”张君即命驾。赍厚直而访之，果得焉。其状与吏所献者无异，而神彩过之。张君甚喜，即召亲吏以二犬献休璟。休璟大悦，且奇其状，以为未常见。遂召僧视之。僧曰：“善育之。脱相君之祸者，二犬耳。”宗时，唐公休璟为相。尝有一僧，发言多中，好为厌胜之术。休璟甚敬之。一日僧来，谓休璟曰：“相国将有大祸，且不远数月，然可以禳去。”休璟惧甚，即拜之。僧曰；“某无他术，但奉一计耳，愿听之。”休璟曰：“幸吾师教焉。”僧曰：“且天下郡守，非相国命之乎？”曰：“然。”僧曰：“相国当于卑冗官中访一孤寒家贫有才干者，使为曹州刺史，其深感相国恩，而可以指踪也。既得之，原</p>
+<p>　　后旬日，其僧又至，谓休璟曰：“事在今夕，愿相君严为之备。”休璟即留僧宿。是夜，休璟坐于堂之前轩，命左右十余人执弧矢立于榻之隅，其僧与休璟共处一榻。至夜分，僧笑曰：“相君之祸免矣。可以就寝。”休璟大喜，且谢之。遂彻左右，与僧寝焉。迨晓，僧呼休璟：“可起矣。”休璟即起，谓僧曰：“祸诚免矣，然二犬安所用乎？”僧曰：“俱往观焉。”乃与休璟偕寻其迹，至后园中，见一人仆地而卒矣，视其颈有血，盖为物所噬者。又见二犬在大木下，仰视之，见一人袒而匿其上。休璟惊，且诘曰：“汝为谁？”其人泣而指死者曰：“某与彼俱贼也，昨夕偕来，且将致害相国。盖遇此二犬，环而且吠，彼遂为噬而死。某惧，因匿身于此，伺其他去，将逃焉。迨晓终不去。今即甘死于是矣。”休璟即召左右，令缚之。曰：“此罪固当死，然非其心也，盖受制于人耳。愿释之。”休璟命解缚，其贼拜泣而去。休璟谢其僧曰：“赖吾师，不然，死于二人之手。”僧曰：“此盖相国之福也，岂所能为哉。”日，其僧又至，谓休璟曰：“事在今夕，愿相君严为之备。”休璟即留僧宿。是夜，休璟坐于堂之前轩，命左右十余人执弧矢立于榻之隅，其僧与休璟共处一榻。至夜分，僧笑曰：“相君之祸免矣。可以就寝。”休璟大喜，且谢之。遂彻左右，与僧寝焉。迨晓，僧呼休璟：“可起矣。”休璟即起，谓僧曰</p>
+<p>　　休璟有表弟卢轸，在荆门，有术士告之：“君将有灾戾，当求一善禳厌者为，庶可矣。”轸素知其僧，因致书于休璟，请求之。僧即以书付休璟曰：“事在其中耳。”及书达荆州，而轸已卒。其家开视其书，徒见一幅之纸，并无有文字焉。休璟益奇之。后数年，其僧遁去，竟不知其所适。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19352.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19354.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

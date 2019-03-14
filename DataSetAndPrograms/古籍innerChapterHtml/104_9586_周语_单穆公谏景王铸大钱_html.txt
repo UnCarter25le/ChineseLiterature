@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·周语·单穆公谏景王铸大钱_古诗文网
+</title>
+<meta content="景王二十一年，将铸大钱。单穆公曰：“不可。古者，天灾降戾，于是乎量资币，权轻重，以振救民。民患轻，则为作重币以行之，于是乎有母权子而行，民皆得焉。若不堪重，则多作轻而行之，亦不废重" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9586.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8337" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>周语·单穆公谏景王铸大钱</b></span>
+<a href="javascript:PlayBookv(9586)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9586" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8337)" id="leftbtn8337" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9586" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+景王二十一年，将铸大钱。单穆公曰：“不可。古者，天灾降戾，于是乎量资币，权轻重，以振救民。民患轻，则为作重币以行之，于是乎有母权子而行，民皆得焉。若不堪重，则多作轻而行之，亦不废重，于是乎有子权母而行，小大利之。
+</p><p>　　
+“今王废轻而作重，民失其资，能无匮乎？若匮，王用将有所乏，乏则将厚取于民。民不给，将有远志，是离民也。且夫备有未至而设之，有至而后救之，是不相入也。可先而不备，谓之怠；可后而先之，谓之召灾。周固羸国也，天未厌祸焉，而又离民以佐灾，无乃不可乎？将民之与处而离之，将灾是备御而召之，则何以经国？国无经，何以出令？令之不从，上之患也，故圣人树德于民以除之。
+</p><p>　　
+“《夏书》有之曰：‘关石和钧，王府则有。’《诗》亦有之曰：‘瞻彼旱麓，榛楛济济。恺悌君子，干禄恺悌。’夫旱麓之榛楛殖，故君子得以易乐干禄焉。若夫山林匮竭，林麓散亡，薮泽肆既，民力雕尽，田畴荒芜，资用乏匮，君子将险哀之不暇，而何易乐之有焉？
+</p><p>　　
+“且绝民用以实王府，犹塞川原而为潢汙也，其竭也无日矣。若民离而财匮，灾至而备亡，王其若之何？吾周官之于灾备也，其所怠弃者多矣，而又夺之资，以益其灾，是去其藏而翳其人也。王其图之！”
+</p><p>　　
+王弗听，卒铸大钱。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9585.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9587.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8337" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

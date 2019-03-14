@@ -1,0 +1,118 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+商君书·垦令_古诗文网
+</title>
+<meta content="无宿治，则邪官不及为私利于民。而百官之情不相稽，则农有余日；邪官不及为私利于民，则农不败。农不败而有余日，则草必垦矣。訾粟而税，则上壹而民平。上壹，则信；信，则臣不敢为邪。民平，则" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3991.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2587" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>垦令</b></span>
+<a href="javascript:PlayBookv(3991)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3991" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2587)" id="leftbtn2587" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3991" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%95%86%e9%9e%85">商鞅</a></p>
+<div class="contson">
+<p>　　无宿治，则邪官不及为私利于民。而百官之情不相稽，则农有余日；邪官不及为私利于民，则农不败。农不败而有余日，则草必垦矣。</p>
+<p>　　訾粟而税，则上壹而民平。上壹，则信；信，则臣不敢为邪。民平，则慎；慎，则难变。上信而官不敢为邪，民慎而难变，则下不非上，中不苦官。</p>
+<p>　　下不非上，中不苦官，则壮民疾农不变。壮民疾农不变，则少民学之不休。</p>
+<p>　　少民学之不休，则草必垦矣。</p>
+<p>　　无以外权爵任与官，则民不贵学问，又不贱农。民不贵学，则愚；愚，则无外交；无外交别则国安不殆。民不贱农，则勉农而不偷。国家不殆，勉农而不偷，则草必垦矣。</p>
+<p>　　禄厚而税多，食口众者，败农者也。则以其食口之数贱而重使之，则辟淫游惰之民无所于食。民无所于食，则必农；农，则草必垦矣。</p>
+<p>　　使商无得籴，农无得粜。农无得粜，则窳惰之农勉疾。商不得籴，则多岁不加乐。多岁不加乐，则饥岁无裕利。无裕利，则商怯；商怯，则欲农。</p>
+<p>　　窳惰之农勉疾，商欲农，则草必垦矣。</p>
+<p>　　声服无通于百县，则民行作不顾，休居不听。休居不听，则气不淫。行作不顾，则意必壹。意壹而气不淫，则草必垦矣。</p>
+<p>　　无得取庸，则大夫家长不建缮，爱子不惰食，惰民不窳，而庸民无所于食，是必农。大夫家长不建缮，则农事不伤。爱子、惰民不窳，则故田不荒。</p>
+<p>　　农事不伤，农民益农，则草必垦矣。</p>
+<p>　　废逆旅，则奸伪、躁心、私交、疑农之民不行，逆旅之民无所于食，则必农。农，则草必垦矣。</p>
+<p>　　壹山泽，则恶农、慢惰、倍欲之民无所于食。无所于食，则必农。农，则草必垦矣。</p>
+<p>　　贵酒肉之价，重其租，令十倍其朴，然则商贾少，农不能喜酣奭，大臣不为荒饱。商贾少，则上不费粟。民不能喜酣奭，则农不慢。大臣不荒，则国事不稽，主无过举。上不费粟，民不慢农，则草必垦矣。</p>
+<p>　　重刑而连其罪，则褊急之民不斗，很刚之民不讼，怠惰之民不游，费资之民不作，巧谀、恶心之民无变也。五民者不生于境内，则草必垦矣。</p>
+<p>　　使民无得擅徙，则诛愚。乱农农民无所于食而必农。愚心、躁欲之民壹意，则农民必静。农静、诛愚，则草必垦矣。</p>
+<p>　　均出余子之使令，以世使之，又高其解舍，令有甬官食，概。不可以辟役，而大官未可必得也，则余子不游事人，则必农。农，则草必垦矣。</p>
+<p>　　国之大臣诸大夫，博闻、辨慧、游居之事，皆无得为，无得居游于百县，则农民无所闻变见方。农民无所闻变见方，则知农无从离其故事，而愚农不知，不好学问。愚农不知，不好学问，则务疾农。知农不离其故事，则草必垦矣。</p>
+<p>　　令军市无有女子。而命其商，令人自给甲兵，使视军兴；又使军市无得私输粮者。则奸谋无所于伏，盗输粮者不私稽，轻惰之民不游军市。盗粮者无所售，送粮者不私，轻惰之民不游军市，则农民不淫，国粟不劳，则草必垦矣。</p>
+<p>　　百县之治一形，则从迂者不敢更其制，过而废者不能匿其举。过举不匿，则官无邪人。迂者不饰，代者不更，则官属少而民不劳。官无邪，则民不敖；民不敖，则业不败。官属少，征不烦。民不劳，则农多日。农多日，征不烦，业不败，则草必垦矣。</p>
+<p>　　重关市之赋，则农恶商，商有疑惰之心。农恶商，商疑惰，则草必垦矣。</p>
+<p>　　以商之口数使商，令之厮、舆、徒、重者必当名，则农逸而商劳。农逸，则良田不荒；商劳，则去来赍送之礼无通于百县。则农民不饥，行不饰。农民不饥，行不饰，则公作必疾，而私作不荒，则农事必胜。农事必胜，则草必垦矣。</p>
+<p>　　令送粮无取僦，无得反庸，车牛舆重设必当名。然则往速来疾，则业不败农。业不败农，则草必垦矣。</p>
+<p>　　无得为罪人请于吏而饷食之，则奸民无主。奸民无主，则为奸不勉。为奸不勉，则奸民无朴。奸民无朴，则农民不败。农民不败，则草必垦矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3990.aspx">上一章</a>
+<a href="/guwen/book_42.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3992.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2587" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

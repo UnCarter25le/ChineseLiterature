@@ -1,0 +1,126 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·选举部·荐举_古诗文网
+</title>
+<meta content="征辟凡访求遗佚，有诏召之曰征，郡国举擢曰辟。三代官由访举。汉始诏刺史守相得专辟。隋炀帝始州县僚属选举，一由吏部。唐玄宗始文武选，分属吏、兵两部。劝驾汉高帝诏曰：“贤士大夫有肯从我游" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19209.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>选举部·荐举</b></span>
+<a href="javascript:PlayBookv(19209)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19209" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19209" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>征辟</strong></p>
+<p>　　凡访求遗佚，有诏召之曰征，郡国举擢曰辟。三代官由访举。汉始诏刺史守相得专辟。隋炀帝始州县僚属选举，一由吏部。唐玄宗始文武选，分属吏、兵两部。</p>
+<p>　　<strong>劝驾</strong></p>
+<p>　　汉高帝诏曰：“贤士大夫有肯从我游者，吾能尊显之。……其有称明德者，长吏必身劝，为之驾。”</p>
+<p>　　<strong>计偕</strong></p>
+<p>　　汉武帝元光五年，诏征吏民有明当世之务，习先圣之术者，县次续食，令与计偕。</p>
+<p>　　<strong>鹗荐</strong></p>
+<p>　　后汉祢衡始冠，孔融爱其才，与为友，上表荐之曰：“鸷鸟累百，不如一鹗；使衡立朝，必有可观。”</p>
+<p>　　<strong>先容</strong></p>
+<p>　　《邹阳传》：“蟠木根柢，轮囷离奇。为万乘器者，以左右为之先容也。”</p>
+<p>　　<strong>公门桃李</strong></p>
+<p>　　唐狄仁杰荐张柬之为宰相，又荐夏官侍郎姚崇、监察御史桓彦范、太平州刺史敬晖数人，皆为名臣。或谓仁杰曰：“天下桃李尽属公门。”仁杰曰：“荐贤为国，非为私也。”</p>
+<p>　　<strong>药笼中物</strong></p>
+<p>　　元行冲谓狄仁杰曰：“下之事上，譬之富家积贮以自资也。脯脂膎胰，以供滋膳；参术芝苓，以防疾病。门下充为味者多矣，愿以小人充备一药石。”仁杰叹曰：“君正吾药笼中物，不可一日无也。”</p>
+<p>　　<strong>道侧奇宝</strong></p>
+<p>　　韩愈荐樊宗师于袁滋相公书曰：“诚不忍奇宝横弃道侧。”</p>
+<p>　　<strong>向阳花木</strong></p>
+<p>　　范文正公知杭州，苏麟为属县巡简。城中官弁往往皆获荐，独麟在外邑，未见收录，因公事入府，献诗曰：“近水楼台先得月，向阳花木早为春。”文正见而荐之。</p>
+<p>　　<strong>夹袋</strong></p>
+<p>　　吕蒙正夹袋中有折子，每四方人谒见，必问有何人才。客去，即识之。朝廷求贤，取诸夹袋以应。</p>
+<p>　　<strong>明珠暗投</strong></p>
+<p>　　《邹阳传》：明月之珠，夜光之璧，以投于道，莫不按剑相顾盼，无因而至前也。</p>
+<p>　　<strong>相见之晚</strong></p>
+<p>　　主父偃上书阁下，朝奏，暮召。时徐乐、严安亦俱上书言世务。上召三人，曰：“公等安在？何相见之晚也！”</p>
+<p>　　<strong>齿牙余论</strong></p>
+<p>　　《南史》：谢朓好奖予人才。会稽孔闿有才华，未贵时，孔珪尝令草让表以示朓，朓嗟吟良久，手自折简荐之，谓珪曰：“士子声名未立，应共奖成，无惜齿牙余论。”</p>
+<p>　　<strong>铅刀一割</strong></p>
+<p>　　晋以谯王永为湘州刺史，行至武昌，敦与之宴，谓永曰：“足下雅素佳士，恐非将相才也。”永曰：“公未见知耳，铅刀岂无一割之用？”</p>
+<p>　　<strong>四辈督趋</strong></p>
+<p>　　唐《马周传》：中郎将常何言：“臣客马周，忠孝人也。”帝即召之。未至，又遣四辈督趋之。</p>
+<p>　　<strong>举贤良</strong></p>
+<p>　　汉武帝建元初，始诏天下举贤良方正、直言敢谏之士。又用董仲舒议，令郡县岁举孝廉各一人，限以四科：一曰德行高洁，志节清白；二曰学通行修，经中博士；三曰明习法令，足以决疑，按章复问，文中御史；四曰刚毅多略，遭事不惑，明足决断，材任三辅。县令四科取士，终汉世不变。</p>
+<p>　　<strong>举茂才</strong></p>
+<p>　　后汉安帝元嘉初，尚书令左雄上言：郡国强仕，自今孝廉年不满四十，不得察举，皆请诣公府，诸生试经学、文吏课笺奏。若有茂才异行，自可不拘年齿。帝从之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19208.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19210.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

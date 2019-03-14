@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+老老恒言·卷二·燕居_古诗文网
+</title>
+<meta content="养静为摄生首务。五官之司，俱属阳火；精髓血脉，则阴精也。阴足乃克济阳。《内经》曰：“阴精所奉其人寿，阳精所降其人夭。”降者降伏之降，阴不足而受阳制，立见枯竭矣。养静所以养阴，正为动" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18107.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·燕居</b></span>
+<a href="javascript:PlayBookv(18107)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18107" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18107" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%b9%e5%bb%b7%e6%a0%8b">曹廷栋</a></p>
+<div class="contson">
+<p>　　养静为摄生首务。五官之司，俱属阳火；精髓血脉，则阴精也。阴足乃克济阳。《内经》曰：“阴精所奉其人寿，阳精所降其人夭。”降者降伏之降，阴不足而受阳制，立见枯竭矣。养静所以养阴，正为动时挥运之用。《显道经》曰：“骨涌面白、血涌面赤、髓涌面黄、肌涌面黑、精涌面光、气涌面泽。光泽必根乎精气，所谓啐然见于面也。按“精气”二字俱从米，是精气又必资乎米。调停粥饭，饥饱适时，生精益气之功孰大焉！</p>
+<p>　　《记·王制》云：“九十饮食不离寝”，寝谓寝处之所，乃起居 室之意。如年未九十，精力衰颓者，起居卧室，似亦无不可。少视听、寡言笑，俱足宁心养神，即祛病良方也。《广成子》曰：“无视无听，抱神以静，形将自正。”心者神之舍，目者神之牖；目之所至，心亦至焉。《阴符经》曰：“机在目”，《道德经》曰：“不见可欲，使心不乱。”平居无事时，一室默坐，常以目视鼻，以鼻对脐，调匀呼吸；毋间断，毋矜持，降心火入于气海，自觉遍体和畅。《定观经》曰：“勿以涉事无厌”，故求多事，勿以处喧无恶。强来就喧，盖无厌无恶，事不累心也；若多事就喧，心即为事累矣！《冲虚经》曰：“务外游，不如务内观。”</p>
+<p>　　心不可无所用，非必如槁木、如死灰，方为养生之道。静时固戒动，动而不妄动，亦静也。道家所谓不怕念走，惟怕觉迟。至于用时戒杂，杂则分，分则劳，惟专则虽用不劳，志定神凝故也。</p>
+<p>　　人藉气以充其身，故平日在乎善养，所忌最是怒。怒心一发，则气逆而不顺，窒而不舒；伤我气，即足以伤我身。老年人虽事值可怒，当思事与身孰重，一转念间，可以涣然冰释。</p>
+<p>　　寒暖饥饱，起居之常，惟常也，往往易于疏纵，自当随时审量。衣可加即加，勿以薄寒而少耐；食可置即置，勿以悦口而少贪。《济生编》曰：“衣不嫌过，食不嫌不及”，此虽救偏之言，实为得中之论。</p>
+<p>　　春冰未泮，下体宁过于暖，上体无妨略减，所以养阳之生气。绵衣不可顿加，少暖又须暂脱。北方语曰：若要安乐，不脱不着。南方语曰：若要安乐，频脱频着。</p>
+<p>　　夏月冰盘，以阴乘阳也；冬月围炉，以阳乘阴也，阴阳俱不可违时。《内经》曰：“智者之养生也，必顺四时而调寒暑。”然冬寒犹可近火，火在表也；夏热必戒纳凉，凉入里也。《济世仁术编》曰：“手心通心窍。”大热时，以扇急扇手心，能使遍体俱凉。愚谓不若谚语云：心定自然凉！“心定”二字可玩味。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18106.aspx">上一章</a>
+<a href="/guwen/book_219.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18108.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

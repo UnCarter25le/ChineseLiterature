@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷四·病形脉诊第二（上）_古诗文网
+</title>
+<meta content="黄帝问曰∶邪气之中人奈何？高下有度乎？岐伯对曰∶身半以上者，邪中之；身半以下者，湿中之；中于阴则留腑，中于阳则留脏。曰∶阴之与阳，异名同类，上下相会，经络之相贯也，如环之无端。夫邪" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12562.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·病形脉诊第二（上）</b></span>
+<a href="javascript:PlayBookv(12562)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12562" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12562" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　黄帝问曰∶邪气之中人奈何？高下有度乎？岐伯对曰∶身半以上者，邪中之；身半以下者，湿中之；中于阴则留腑，中于阳则留脏。曰∶阴之与阳，异名同类，上下相会，经络之相贯也，如环之无端。夫邪之中人也，或中于阴，或中于阳，上下左右，无有恒常。曰∶诸阳之会，皆在于面，人之方乘虚时及新用力，若热饮汗出，腠理开而中于邪，中于首则下阳明，中于面则下太阳，中于颊则下少阳，中于膺背两胁，亦中其经。中于阴者，常从臂始。夫臂与 ，其阴皮薄，其肉淖泽，故俱受于风，独伤于其阴也。曰∶此故伤其脏乎？曰∶身之中于风也，不必动脏。故邪入于阴经，其脏气实，邪气入而不容，故还之于腑。是故阳中则留于经，阴中则留于腑。曰∶邪之中脏者奈何？曰∶恐惧忧愁则伤心。形寒饮冷则伤肺，以其两寒相感，中外皆伤，故气逆而上行。有所堕坠，恶血留内，有所大怒，气上而不能下，积于胁下则伤肝。有所击仆，若醉以入房，汗出当风则伤脾。有所用力举重，若入房过度，汗出浴水则伤肾。</p>
+<p>　　曰∶五脏之中风奈何？曰∶阴阳俱相感，邪乃得往。十二经脉，三百六十五络，其血气皆上于面而走空窍。其精阳之气，上走于目而为睛，其别气走于耳而为听，其宗气上出于鼻而为臭，其浊气下出于胃而走唇舌而为味。其气之津液皆上熏于面，而皮又浓，其肉坚，故大热甚，寒不能胜之也。虚邪之中身也，洒淅动其形。正邪之中人也微，先见于色，不知于身，若存若亡，有形无形，莫知其情。夫色脉与尺之皮肤相应，如桴鼓影响之相应，不得相失，此亦本末根叶之出候也，根死则叶枯矣。故色青者其脉弦，色赤者其脉钩，色黄者其脉代，色白者其脉毛，色黑者其脉石。见其色而不得其脉，反得相胜之脉则死矣；得相生之脉则病已矣。曰∶五脏之所生变化之病形何如？曰∶先定其五色五脉之应，其病乃可别也。曰∶色脉已定，别之奈何？曰∶调其脉之缓急大小滑涩，而病形定矣。曰∶调之何如？</p>
+<p>　　曰∶脉急者，尺之皮肤亦急；脉缓者，尺之皮肤亦缓；脉小者，尺之皮肤亦减而少气；脉大者，尺之皮肤亦大；脉沉者，尺之皮肤亦沉；脉滑者，尺之皮肤亦滑；脉涩者，尺之皮肤亦涩。凡此变者，有微有甚。故善调尺者，不待于寸；善调脉者，不待于色。能参合而行之者，可以为上工，十全其九；行二者为中工，十全其七；行一者为下工，十全其六。尺肤温（一作滑）以淖泽者，风也。尺肉弱者，解 也。安卧脱肉者，寒热也（一本下作不治）。</p>
+<p>　　尺肤涩者，风痹也。尺肤粗如枯鱼鳞者，水 饮也。尺肤寒甚脉急（一作小）者，泄少气也。尺肤热甚脉盛躁者，病温也。其脉盛而滑者，汗且出（一作病且出）也。尺肤烧炙人手（一作炬然），先热后寒者，寒热也。尺肤先寒，久持之而热者，亦寒热也。尺肤炬然热，人迎大者，当夺血也。尺坚大脉小甚则少气， 有加者，立死（《脉经》云∶尺紧于人迎者少气）。肘所独热者，腰以上热。肘后独热者，肩背热。肘前独热者，膺前热。肘后廉以下三四寸热者，肠中有虫。手所独热者，腰以上（一作下）热。臂中独热者，腰腹热。掌中热者，腹中热也。掌中寒者，腹中寒也。鱼际白肉有青血脉者，胃中有寒也。</p>
+<p>　　曰∶人有尺肤缓甚（一云尺脉数甚）筋急而见，此为何病？曰∶此所谓狐（狐，《素问》作疹）筋。狐筋者，是人腹必急，白色黑色见，则病甚。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12561.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12563.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

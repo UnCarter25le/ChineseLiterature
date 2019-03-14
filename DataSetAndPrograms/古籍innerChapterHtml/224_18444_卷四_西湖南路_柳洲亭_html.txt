@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷四·西湖南路·柳洲亭_古诗文网
+</title>
+<meta content="柳洲亭，宋初为丰乐楼。高宗移汴民居杭地嘉、湖诸郡，时岁丰稔，建此楼以与民同乐，故名。门以左，孙东瀛建问水亭。高柳长堤，楼船画舫会合亭前，雁次相缀。朝则解维，暮则收缆。车马喧阗，驺从" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18444.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·西湖南路·柳洲亭</b></span>
+<a href="javascript:PlayBookv(18444)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18444" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18444" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　柳洲亭，宋初为丰乐楼。高宗移汴民居杭地嘉、湖诸郡，时岁丰稔，建此楼以与民同乐，故名。门以左，孙东瀛建问水亭。高柳长堤，楼船画舫会合亭前，雁次相缀。朝则解维，暮则收缆。车马喧阗，驺从嘈杂，一派人声，扰嚷不已。堤之东尽为三义庙。过小桥折而北，则吾大父之寄园、铨部戴斐君之别墅。折而南，则钱麟武阁学、商等轩冢宰、祁世培柱史、余武贞殿撰、陈襄范掌科各家园亭，鳞集于此。过此，则孝廉黄元辰之池上轩、富春周中翰之芙蓉园，比闾皆是。今当兵燹之后，半椽不剩，瓦砾齐肩，蓬蒿满目。李文叔作《洛阳名园记》，谓以名园之兴废，卜洛阳之盛衰；以洛阳之盛衰，卜天下之治乱。诚哉言也！余于甲午年，偶涉于此，故宫离黍，荆棘铜驼，感慨悲伤，几效桑苎翁之游苕溪，夜必恸哭而返。</p>
+<p>　　张杰《柳洲亭》诗：</p>
+<p>　　谁为鸿凿此陂，涌金门外即瑶池。</p>
+<p>　　平沙水月三千顷，画舫笙歌十二时。</p>
+<p>　　今古有诗难绝唱，乾坤无地可争奇。</p>
+<p>　　溶溶漾漾年年绿，销尽黄金总不知。</p>
+<p>　　王思任《问水亭》诗：</p>
+<p>　　我来一清步，犹未拾寒烟。灯外兼星外，沙边更槛边。</p>
+<p>　　孤山供好月，高雁语空天。辛苦西湖水，人还即熟眠。</p>
+<p>　　赵汝愚《丰乐楼柳梢青》词：</p>
+<p>　　水月光中，烟霞影里，涌出楼台。空外笙箫，云间笑语，人在蓬莱。天香暗逐风回，正十里荷花盛开。买个小舟，山南游遍，山北归来。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18443.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18445.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

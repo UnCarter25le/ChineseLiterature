@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·向_古诗文网
+</title>
+<meta content="历史来源　　1、出自姜姓，为炎帝神农氏之后。神农氏有裔孙名向，被封为诸侯，其后代子孙以向为姓，遂成向姓。　　2、出自祁姓，为帝尧的后裔，以国为姓。周代有向国，故址在今山东莒县南部。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2643.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>向</b></span>
+<a href="javascript:PlayBookv(2643)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2643" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2643" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自姜姓，为炎帝神农氏之后。神农氏有裔孙名向，被封为诸侯，其后代子孙以向为姓，遂成向姓。<br/>　　2、出自祁姓，为帝尧的后裔，以国为姓。周代有向国，故址在今山东莒县南部。后来国灭，向国国君的后代就以原国名为姓，成为向姓的一支。3、出自子姓，为汤王的后代。春秋时期，宋国国君宋桓公有子名肸（音bì），字向夫，世代为宋国卿士，其后亦姓向，成为向氏。</p>
+<p><strong>家族名人</strong><br/>　　向海明（?-613）：隋末农民起义军领袖。他原为扶风（今陕西凤翔）僧人，自称"弥勒"出世。大业九年（613年）率众起义，追随者数万。后转战于扶风、安定（今甘肃泾川北）之间，自称皇帝，年号白乌。后为隋将杨义臣所败。<br/>　　向子韶：宋朝开封人，字和卿，元符年间进士。建炎初年任淮宁知府。金人犯境，子韶亲率兵丁和家族子弟守城。城陷落后，子韶不屈而死，谥号忠毅。<br/>　　向士壁（?-1261）：南宋名将，字君玉，常州（今江苏常州）人，绍定进士，官至大理卿直龙图阁。元兵南下，合州告急，制置使马光祖命士壁率兵赴援。士壁数立战功，升任湖南安抚使兼知潭州。元兵围城，士壁聚力固守，力战退之。不久又升任兵部侍郎兼转运使，后因奸相贾似道妒忌其功，被诬告杀害。<br/>　　向侃：字希颜，明朝巢县人，永乐年间中举，宣德中任靖宁州判官，后升任监察御史，一度又出为知府。他洁己爱民，不避艰苦，办事公正，清约如寒士，名节很好。他和兄弟五人到老也住在一起，十分友爱。</p>
+<p><strong>迁徙分布</strong><br/>　　河南郡：汉高帝置，在今河南省洛阳市一带。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2642.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2644.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

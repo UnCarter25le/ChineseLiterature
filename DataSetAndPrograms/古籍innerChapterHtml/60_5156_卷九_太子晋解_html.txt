@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+逸周书·卷九·太子晋解_古诗文网
+</title>
+<meta content="晋平公使叔誉于周，见太子晋而与之言。五称而三穷，逡巡而退，其言不遂。归告公曰：“太子晋行年十五，而臣弗能与言。君请归，声就复与田，若不反，及有天下，将以为诛。”平公将归之，师旷不可" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5156.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3425" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·太子晋解</b></span>
+<a href="javascript:PlayBookv(5156)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5156" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3425)" id="leftbtn3425" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5156" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　晋平公使叔誉于周，见太子晋而与之言。五称而三穷，逡巡而退，其言不遂。归告公曰：“太子晋行年十五，而臣弗能与言。君请归，声就复与田，若不反，及有天下，将以为诛。”平公将归之，师旷不可曰：“请使瞑臣往与之言，若能幪予，反而复之。”</p>
+<p>　　师旷见太子，称曰：“吾闻王子之语，高于泰山，夜寝不寐，昼居不安，不远长道，而求一言。”</p>
+<p>　　王子应之曰：“吾闻太师将来，甚喜。热又惧吾年臣少，见子而慎，尽忘吾其度。”</p>
+<p>　　师旷曰：“吾闻王子，古之君子，甚成不骄，自晋始如周，行不知劳。”</p>
+<p>　　王子应之曰：“声之君子，其行至慎，委积施关，道路无限，百姓悦之，相将而远，远人来欢，视道如咫。”</p>
+<p>　　师旷告善，又称曰：“古之君子，其行可则，由舜而下，其孰有广德？”</p>
+<p>　　王子应之曰：“如舜者天，舜居其所以利天下，奉翼远人，皆得己仁，此之谓天。如禹者，圣劳而不居，以利天下，好取不好与，必度其正，是谓之圣。如文王者，其大道仁，其小道惠。三分天下而有其二，敬人无方，服事于商，既有其众，而返失其身，此之谓仁。如武王者义，杀一人而以利天下，异姓同姓各得其所，是之谓仪。”</p>
+<p>　　师旷告善。又称曰：“宣辨名命，异姓恶之。王侯君公，何以为尊，何以为上？”</p>
+<p>　　王子应之曰：“人生而重丈夫，谓之胄子；胄子成人能治上官，谓之士；士率众时作，谓之曰伯；伯能移善于众，与百姓同，谓之公；公能树名生物，与天道俱，谓之侯，侯能成群，谓之君。君有广德，分任诸侯而敦信，曰予一人；善至于四海，曰天子，达于四荒曰天王。四荒至，莫有怨訾，乃登为帝。”</p>
+<p>　　师旷罄然。又称曰：“温恭敦敏，方德不改，闻物□□，下学以起，尚登帝臣，乃参天子，自古谁？”</p>
+<p>　　王子应之曰：“穆穆虞舜，明明赫赫，立义治律，万物皆作，分均天财，万物熙熙，非舜而谁能？”</p>
+<p>　　师旷东躅其足，曰：“善哉，善哉！”王子曰：“太师何举足骤？”师旷曰：“天寒足跔，是以数也。”</p>
+<p>　　王子曰：“请入坐。”遂敷席注瑟。师旷歌无射，曰：“国诚宁矣，远人来观，修义经矣，好乐无荒。”乃注瑟于王子，王子歌峤曰：“何自南极，至于北极，绝境越国，弗愁道远。”</p>
+<p>　　师旷蹶然起，曰：“瞑臣请归。”王子赐之乘车四马，曰：“太师亦善御之。”师旷对曰：“御吾未之学也。”王子曰：“汝不为夫《诗》，《诗》云：‘马之刚矣，辔之柔矣，马亦不刚，辔亦不柔，志气镳镳，取予不疑。’以是御之。”师旷对曰：“瞑臣无见，为人辩也，唯耳之恃，而耳又寡闻而易穷。王子，汝将为天下宗乎？”</p>
+<p>　　王子曰：“太师何汝戏我乎？自太昊以下，至于尧舜禹，未有一姓而再有天下者，夫大当时而不伐，天何可得？吾闻汝知人年之长短，告吾。”</p>
+<p>　　师旷对曰：“汝声清汗，汝色赤白，火色不寿。”</p>
+<p>　　王子曰：“然。吾后三年，将上宾于帝所，汝慎无言，殃将及汝。”</p>
+<p>　　师旷归，未及三年，告死者至。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5155.aspx">上一章</a>
+<a href="/guwen/book_60.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5157.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3425" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

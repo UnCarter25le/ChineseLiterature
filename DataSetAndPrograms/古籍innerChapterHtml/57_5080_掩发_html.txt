@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+反经·掩发_古诗文网
+</title>
+<meta content="孙子曰：“善战者，其势险，其节短。”“以利动之，以卒待之。”又曰：“善动敌者，形之，敌必从。”何以明其然耶？ 燕平齐，围即墨城。即墨城中推田单为将以拒燕。田单欲激怒其卒，乃宣言曰：" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5080.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3300" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>掩发</b></span>
+<a href="javascript:PlayBookv(5080)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5080" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3300)" id="leftbtn3300" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5080" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b5%b5%e8%95%a4">赵蕤</a></p>
+<div class="contson">
+<p>　　孙子曰：“善战者，其势险，其节短。”“以利动之，以卒待之。”又曰：“善动敌者，形之，敌必从。”何以明其然耶？ </p>
+<p>　　燕平齐，围即墨城。即墨城中推田单为将以拒燕。田单欲激怒其卒，乃宣言曰：“吾唯恐燕将劓所得齐卒，及掘城外坟墓。伤先人，可为寒心。”燕将如其言，即墨人皆涕泣，共欲出战，怒皆十倍。单乃收人金，得千镒，令即墨富豪遗燕将，书曰：“即墨即降，愿不虏吾家族。”燕将大喜，亦懈。乃收牛得千头，束苇于尾，烧其端，凿城数十穴，夜纵牛出。以壮士五千人随其后，牛尾热而奔燕，燕军大惊，所随五千因衔枚击之，燕军大败，杀其将骑劫，复齐七十余城。 </p>
+<p>　　吕蒙西屯陆口，关羽讨樊，留兵备公安、南郡。蒙上疏曰：“关羽讨樊而多留备兵，必恐蒙图其后故也。蒙常有病，乞分众还建邺，以治病为名，羽闻之，必撤备兵，尽赴襄阳。大军浮江，昼夜驰上，袭其空虚，则南郡可取，而羽可擒之。”遂称病笃，权乃露檄召蒙，羽果信之。稍撤兵赴樊，权闻之，遂行。先遣蒙在前，伏其精兵于[舟冓][舟鹿]中，使白衣摇橹，作商贾服，昼夜兼行，至羽所置江边屯候，尽收缚之，是故羽不闻知(太公曰：“伪称使者，所以绝粮食；谬号令、与敌同服者，所以备走北也。”由此言之，衣服、号令之中，不可不审也。)。遂到南郡，士仁、糜芳皆降。蒙入据城，尽得羽将士家属，皆抚慰，约令军中不得干历人家，道不拾遗(昔秦伯见袭郑之利，不顾崤函之败；吴王矜伐齐之功，而忘姑苏之祸。故曰：“不能尽知用兵之害者，则不能尽知用兵之利。”此之谓矣。《经》曰：“役诸侯则以业。”语曰：“因其强而强之，敌乃可折。”关羽讨樊，虽不被人计，亦自役自强者也。)。 </p>
+<p>　　羽还，在道路，数使人与蒙相闻，蒙厚遇其使，使周旋城中，家家致问，或手书示信。羽使人还，私相参讯，咸知家门无恙，相待过于平时，故羽士卒无斗心。权至获羽，遂定荆州。 </p>
+<p>　　此掩发之变。故曰：“始如处女，敌人开户；后如脱兔，敌不及距。”此之谓矣。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5079.aspx">上一章</a>
+<a href="/guwen/book_57.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5081.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3300" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

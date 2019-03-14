@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·吏治类·卷一_古诗文网
+</title>
+<meta content="◎施世纶为清官陈康祺《燕下乡脞录》笔记云：“少时即闻乡里父老言施世纶为清官，入都后，则闻院曲盲词，有演唱其政绩者，盖由小说中刻有《施公案》一书，比为宋之包孝肃、明之海忠介，故俗口流" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16187.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>吏治类·卷一</b></span>
+<a href="javascript:PlayBookv(16187)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16187" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16187" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎施世纶为清官</p>
+<p>　　陈康祺《燕下乡脞录》笔记云：“少时即闻乡里父老言施世纶为清官，入都后，则闻院曲盲词，有演唱其政绩者，盖由小说中刻有《施公案》一书，比为宋之包孝肃、明之海忠介，故俗口流传，至今不泯也。按公当官，实廉强，能恤下。初知江南泰州，值淮安下河被水，诏遣两大臣莅州督堤工，从者驿骚闾里，白其不法者治之。湖广兵变，援剿官兵过境，沿途攘夺，公具刍粮以应，而令人各持一梃列而待，有犯者治之，兵皆敛手去。守扬州、江宁，所至民怀（按公为靖海侯琅次子），乞留者万人，不得请，乃人投一文钱，建双亭于府衙前，名‘一文亭’。累迁督漕运，奉命勘陕西灾，全陕积储多虚耗，而西安、凤翔为甚。将具疏，总督鄂海以公子知会宁也，微词要挟，公笑曰：‘吾自入官，身且不顾，何有子？’卒劾之，鄂以失察罢。公平生得力，在‘不侮鳏寡，不畏疆御’二语，盖二百年茅檐妇孺之口，不尽无凭也。”</p>
+<p>　　◎魏青天</p>
+<p>　　魏青天者，广昌魏少宰定国，知湖广应城县时，楚民争称之者也。公善决狱，惠政入人心，邻县讼者咸赴诉，上官亦知之。云梦、孝感民，为有司所虐，闭城罢市，大吏亲临不得入，檄公往，民望见衔牌，欢曰：“魏青天至矣。”皆罗拜，旋解散。嗣守杭州，豁浮粮，屏盗贼，戢旗兵，民感戴如在楚时。会巡抚黄叔琳获罪，或言叔琳弟叔 璥为御史，巡台湾，过杭扰民，民罢市，世宗命将军总督会讯。</p>
+<p>　　讯日，观者如堵墙，叔璥囚服，噤不语，将军呼三木胁之。公率钱塘令历阶上，抗声曰：“府县司地方，地方罢市，府县不知，请先劾府县。且阖城老弱万千在庭下，辱将军一问，有无立剖，安用刑为？”将军目外望诸百姓，匍伏同声应曰：“如府君言。”叔 璥遂得释。公后以陈臬畿辅，拷人致死，谪戍黑龙江。乾隆元年，与杨名时、魏廷珍同召见，出抚安徽，入贰吏部。终其身世，称魏青天。</p>
+<p>　　◎郭琇令吴江</p>
+<p>　　郭制军琇令吴江时，簋不饬，大吏将劾之，郭立誓痛改，令役担水洗县堂及内室，示民以更新，后果操行峻介，卒称直臣，以其事无稽，姑置之。偶读新城陈侍郎用光应诏言事折子，有云：“臣闻汤斌为江南巡抚时，将劾吴江县知县郭琇，琇请见，愿以治行自赎，斌许之，遂一变而为良吏，且致位卿贰，以名臣显。”是人言不尽子虚矣。按康熙二十五年，文正抚苏，尝荐琇居心冲澹，莅事精锐，宜行取，部以催征未完议格，特旨允行，授御史。又三十八年春，圣祖南巡至德州，见琇跪道旁，谕阁臣曰：“郭琇前令吴江，百姓至今感颂，其人有胆量、无朋比，可授湖广总督。”</p>
+<p>　　知郭制军之在吴江，其改辙以后，必有循良慈惠，深餍人心者。至于居台垣时，劾河臣靳辅治河无功；劾大学士明珠、余国柱结党营私，背公纳贿，少詹高士奇、都御史王鸿绪等招摇依附，一时方严抗直之声几使辇下栗然，朝贵侧目（详见公所著《华野疏稿》）。其丰裁气骨，作令时必已不凡，特年少阔疏，人言偶惑，宜文正儆厉而奖掖之，不然士大夫一命甫膺，甘为墨吏，素丝已黦，白璧难磨，尚何晚盖立功之可冀乎！命世如郭公，仍不能掩其生平之一节，有位君子，庶知惧焉。</p>
+<p>　　◎李侍御</p>
+<p>　　山左李侍郎望石，初名立。其选庶常也，世祖举御笔改名赞元。后以监察御史出按楚，时鄂渚有大滑段世昌，稔恶万端，而神谋四达，前台使莫能谁何。李至，佯置不问。一日，饯客江干，已微醉，从一尉一僮，夜往叩门，世昌仓皇趋出，径前手絷之，命尉牵其颈，踏月还署，即置之狱。远近显要为之求解者，书牍盈案，李概不发，立杖杀之。当世昌入狱时，语其家人曰：“我少时见一道人，能知未来事，询以终身，道人曰：‘他日所遇，非桃非杏，非坐非行，即禄尽时也。’今按君姓名适符，尚欲觊生乎？”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16186.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16188.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

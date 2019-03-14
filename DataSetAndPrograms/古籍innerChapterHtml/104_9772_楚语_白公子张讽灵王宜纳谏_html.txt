@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·楚语·白公子张讽灵王宜纳谏_古诗文网
+</title>
+<meta content="灵王虐，白公子张骤谏。王患之，谓史老曰：“吾欲已子张之谏，若何？”对曰：“用之实难，已之易矣。若谏，君则曰余左执鬼中，右执殇宫，凡百箴谏，吾尽闻之矣，宁闻他言？”白公又谏，王如史老" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9772.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8523" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>楚语·白公子张讽灵王宜纳谏</b></span>
+<a href="javascript:PlayBookv(9772)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9772" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8523)" id="leftbtn8523" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9772" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+灵王虐，白公子张骤谏。王患之，谓史老曰：“吾欲已子张之谏，若何？”对曰：“用之实难，已之易矣。若谏，君则曰余左执鬼中，右执殇宫，凡百箴谏，吾尽闻之矣，宁闻他言？”
+</p><p>　　
+白公又谏，王如史老之言。对曰：“昔殷武丁能耸其德，至于神明，以入于河，自河徂亳，于是乎三年，默以思道。卿士患之，曰：‘王言以出令也，若不言，是无所禀令也。’武丁于是作书，曰：‘以余正四方，余恐德之不类，兹故不言。’如是而又使以象梦旁求四方之贤，得傅说以来，升以为公，而使朝夕规谏，曰：‘若金，用女作砺。若津水，用女作舟。若天旱’用女作霖雨。启乃心，沃朕心。若药不瞑眩，厥疾不廖。若跣不视地，厥足用仿。’若武丁之神明也，其圣之睿广也，其智之不疚也，犹自谓未乂，故三年默以思道。既得道，犹不敢专制，使以象旁求圣人。既得以为辅，又恐其荒失遗忘，故使朝夕规诲箴谏，曰：‘必交修余，无余弃也。’今君或者未及武丁，而恶规谏者，不亦难乎！
+</p><p>　　
+“齐桓、晋文，皆非嗣也，还轸诸侯，不敢淫逸，心类德音，以德有国。近臣谏，远臣谤，舆人诵，以自诰也。是以其入也，四封不备一同，而至于有畿田，以属诸侯，至于今为令君。桓、文皆然，君不度忧于二令君，而欲自逸也，无乃不可乎？《周诗》有之曰：‘弗躬弗亲，庶民弗信。’臣惧民之不信君也，故不敢不言。不然，何急其以言取罪也？”
+</p><p>　　
+王病之，曰：“子复语。不穀虽不能用，吾慭置之于耳。”对曰：“赖君用之也，故言。不然，巴浦之犀、犛、兕、象，其可尽乎，其又以规为瑱也？”遂趋而退，归，杜门不出。七月，乃有乾溪之乱，灵王死之。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9771.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9773.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8523" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

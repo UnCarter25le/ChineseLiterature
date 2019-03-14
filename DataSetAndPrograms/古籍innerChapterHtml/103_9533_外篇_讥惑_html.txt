@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+抱朴子·外篇·讥惑_古诗文网
+</title>
+<meta content="抱朴子曰:澄浊剖判， 庶物化生， 习族或能应对焉， 毛宗或有知言焉。 于玃识往， 归终知来， 玄禽解阴阳， 虫也虫岂远泉流， 蓍龟无以过焉， 甘石不能胜焉。 夫唯无礼， 不厕贵性，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9533.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>外篇·讥惑</b></span>
+<a href="javascript:PlayBookv(9533)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9533" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9533" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e6%b4%aa">葛洪</a></p>
+<div class="contson">
+<p>　　抱朴子曰:澄浊剖判， 庶物化生， 习族或能应对焉， 毛宗或有知言焉。 于玃识往， 归终知来， 玄禽解阴阳， 虫也虫岂远泉流， 蓍龟无以过焉， 甘石不能胜焉。 夫唯无礼， 不厕贵性， 厥初邃古， 民无阶级， 上帝悼混然之甚陋， 悯巢穴之可鄙， 故构栋宇以去鸟兽之群， 制礼数以异等威之品。 教以盘旋， 训以揖让， 立则磬折， 拱则抱鼓， 趋步升降之节， 瞻视接对之容， 至於三千。 盖检溢之堤防， 人理之所急也。 故俨若冠於曲礼， 望貌首於五事， 出门有见宾之肃， 闲居有敬独之戒， 颜生整仪於宵浴， 仲由临命而结缨， 恭容暂废， 惰慢已及， 安上治民， 非此莫以。</p>
+<p>　　盖人之有礼， 犹鱼之有水矣。 鱼之失水， 虽暂假息， 然枯糜可必待也。 人之弃礼， 虽犹面见然， 而祸败之阶也。 鲁秉周礼， 暴兵不加， 魏式干木， 锐冠旋旆。 大楚带甲百万， 而有振槁之月色;强秦肴函袭崄， 而无折柳之固。 岂非弃三本而丧根柢之攸召哉! 矧乎安逸触情， 丧乱日久， 风秃页教沮， 抑断之仪废， 简脱之俗成， 近人值政化之蚩役， 庸民遭道网之绝紊， 犹网鱼之去水罟， 围兽之出陆罗也。</p>
+<p>　　丧乱以来， 事物屡变， 冠履衣服， 袖袂财制， 日月改易， 无复一定。 乍长乍短， 一广一狭， 忽高忽卑， 或粗或细， 所饰无常， 以同为快。 其好事者， 朝夕放效， 所谓“京辇贵大眉， 远方皆半额”也。</p>
+<p>　　余实凡夫， 拙於随俗， 其服物变不胜， 故不变， 无所损者， 余未曾易也。 虽见指笑， 余亦不理也。 岂苟欲违众哉， 诚以为不急耳。 上国众事， 所以胜江表者多， 然亦有可否者， 君子行礼， 不求变俗， 谓违本邦之他国， 不改其桑梓之法也。 况其在於父母之乡， 亦何为当事弃旧而强更学乎! 吴之善书， 则有皇象刘纂岑伯然朱季平， 皆一代之绝手， 如中州有锺元常胡孔明张芝索靖， 各一邦之妙， 并用古体， 俱足周事。</p>
+<p>　　余谓废已习之法， 更勤苦以学中国之书， 尚可不须也， 况於乃有转易其声音， 以效北语， 既不能便良， 似可耻可笑， 所谓不得邯郸之步， 而有匍匐之嗤者。 此犹其小者耳， 乃有遭丧者， 而学中国哭者， 令忽然无复念之情。 昔锺仪庄舃， 不忘本声， 古人韪之。</p>
+<p>　　孔子云:丧亲者， 若婴儿之失母。 其号岂常声之有! 宁令哀有余而礼不足， 哭以泄哀， 妍拙何在? 而乃治饰其音， 非痛切之谓也。 又闻贵人在大哀， 或有疾病， 服石散以数食宣药势， 以饮酒为性命， 疾患危笃， 不堪风冷， 帏帐茵褥， 任其所安， 於是凡琐小人之有财力者， 了不复居於丧位， 常在别房， 高床重褥， 美食大饮， 或与密客， 引满投空， 至於沈醉。 曰:‘此京洛之法也。” 不亦惜哉!</p>
+<p>　　余之乡里， 先德君子， 其居重难， 或并在衰老， 於礼唯应衰麻在身， 不成丧致毁者， 皆过哀啜粥， 口不经甘。 时人虽不肖者， 莫不企及自勉， 而今人乃自取如此， 何其相去之辽缅乎! 又凡人不解， 呼谓中国之人居丧者多皆奢溢， 殊不然也。 吾闻晋之宣景文武四帝， 居亲丧皆毁瘠逾制， 又不用王氏二十五月之礼， 皆行七月服， 於时天下之在重哀者， 咸以四帝为法， 世人何独不闻此， 而虚诬高人， 不亦惑乎!</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9532.aspx">上一章</a>
+<a href="/guwen/book_103.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9534.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

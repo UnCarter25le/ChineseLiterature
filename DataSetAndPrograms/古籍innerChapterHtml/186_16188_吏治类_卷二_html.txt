@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·吏治类·卷二_古诗文网
+</title>
+<meta content="◎袁子才宰江宁袁简斋宰江宁时，五月十日天大风，白日晦冥。城有韩女，被风吹至铜井村，村去城九十里，明日村人送归之。女已字李秀才子，李疑风不能吹人远去，必有奸，因控官。袁曰：“古有风吹" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16188.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>吏治类·卷二</b></span>
+<a href="javascript:PlayBookv(16188)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16188" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16188" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎袁子才宰江宁</p>
+<p>　　袁简斋宰江宁时，五月十日天大风，白日晦冥。城有韩女，被风吹至铜井村，村去城九十里，明日村人送归之。女已字李秀才子，李疑风不能吹人远去，必有奸，因控官。袁曰：“古有风吹女子至六十里者，汝知之乎？”李不信，袁取元郝文忠公《陵川集》示之，曰：“郝公一代忠臣，宁作诓语？第当年风吹吴门女，竟嫁宰相，恐汝子无福耳。”秀才读诗大喜，姻好如故。总督尹继善闻之曰：“可谓宰官必用读书人矣。”</p>
+<p>　　其诗曰：“八月十五双星会，花月摇光照金翠。黑风当筵灭红烛，一朵仙桃落天外。梁家有子是新郎，芊氏负从钟建背。争看足下来鬼物，云鬓欹斜倒冠佩。须臾举目视旁人，衣服不同言语异。自说吴门六十里，恍惚不知来此地。甘心肯作梁家妇，诏起高楼榜天赐。几年夫婿作相公，满眼儿孙尽朝贵。须知伉俪有因缘，富者莫求贫莫弃。”</p>
+<p>　　◎公归集</p>
+<p>　　平湖陆稼书龙其，改名陇其。初为嘉定令，以小舟载纺具抵任，内子躬自辟垆，易日用蔬菜，而慈惠字民，强毅任事，一时有神君之颂。忽有瞽者诣案自陈曰：“聪明正直谓之神，公即神也。我不幸两目无见，特乞公一字批断，来生作有目人，地下冥王必不违公言耳。”</p>
+<p>　　稼书笑而允之。不二载，被劾去，嘉定士民数千泣留不得，因刻《公归集》为赠。山右魏总宪上疏，称以天下第一清官，复其职，仍补灵寿县，内擢监察御史。罢官归朱泾，著书自娱，卒于康熙乙亥年。殁时，并无疾苦，午倦卧床，口喃喃若与人谈者，有顷，呼其家人曰：“忠愍公在此交代，我其去矣。”遂闭目而逝，空中萧鼓暄阗，合村无不共闻，殁后寂然矣。</p>
+<p>　　◎岳青天</p>
+<p>　　岳少保起，满洲人，以孝廉起家。初任奉天府尹，前令尹某以贪黩著，公入署时，命仆自屋宇器用皆洗涤之，曰：“勿缁染其污迹也。”后与将军某抗，罢官。嘉庆即位，首起用，为山东布政使，俄调任江南巡抚。公以清介自矢，夫人亲掌签押，署中僮仆不过数人，出则驺从萧条，屏却舆轿，瘦骖敝服，居然寒素。禁止游船妓馆，无事不许宴宾演剧，吴下奢侈之风，为之一变，实数十年中所未有者。其驭下甚宽，然不假以事权。尝与客共谈，指其侍从曰：“若辈惟可令其洒扫趋走、烹茶吸烟而已。署中政事，乃天子付我辈者，安可使其与闻？从来大吏，多不能令终者，皆倚任若辈为心腹故也。”</p>
+<p>　　其夫人尤严正，公尝往籍毕山尚书产，归已暮，面微醺，夫人正色告曰：“山尚书，即以耽于酒色故，至于家产荡然。今相公触目惊心，方畏戒之不暇，乃复效彼行耶！”公长谢乃已。故吴民至今思之，演为《岳青天歌》，以汤文正之后一人而已。</p>
+<p>　　◎陈宏谋捕寺僧</p>
+<p>　　苏州治平寺有二十二房，囊橐饶裕，造密室藏妇女，恣意淫纵。乾隆二十四年，巡抚陈文恭公宏谋，兼得其实，密掩捕之，搜获妇女四人，并衣饰奁具无算。公派员谳鞫二十二房内犯奸者一十四房，淫僧一十六名，并供出被奸妇女二十五人。奏闻，械淫僧解京治罪，刑部请杖毙，奉旨发黑龙江，给披甲人为奴。</p>
+<p>　　◎阳曲令祈雨</p>
+<p>　　康熙六十年辛丑，山右大饥，平阳、汾州尤甚。高安朱文端公，衔命往赈，全活无数。公还朝，亟称阳曲令沈某，治行为山西第一。沈，闽人，初令阳曲，次牧沁州，后守汾州，皆有惠政。尝祈雨，三祈三应。阳曲为省会首邑，自庚子秋至辛丑夏，历三时不雨，求辄不应。</p>
+<p>　　沈率绅士步行百二十里，至五台山神祠祷焉，是夜即雨，连三日夜大雨，阳曲之四隅莫不沾足，而邻境旱如故。沈归，中丞率大小属吏郊迎，万民拥道，欢呼忭庆。为民请命，至诚感神，虽古循吏，莫是过已。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16187.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16189.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

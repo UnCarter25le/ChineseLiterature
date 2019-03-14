@@ -1,0 +1,132 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+金匮要略·卷上·胸痹心痛短气病脉证治九_古诗文网
+</title>
+<meta content="（论一首 证一首 方十首）师曰：夫脉当取太过不及，阳微阴弦，即胸痹而痛，所以然者，责其极虚也。今阳虚知在上焦，所以胸痹、心痛者，以其阴弦故也。平人无寒热，短气不足以息者，实也。胸痹" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16724.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷上·胸痹心痛短气病脉证治九</b></span>
+<a href="javascript:PlayBookv(16724)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16724" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16724" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e4%bb%b2%e6%99%af">张仲景</a></p>
+<div class="contson">
+<p>　　（论一首 证一首 方十首）</p>
+<p>　　师曰：夫脉当取太过不及，阳微阴弦，即胸痹而痛，所以然者，责其极虚也。今阳虚知在上焦，所以胸痹、心痛者，以其阴弦故也。</p>
+<p>　　平人无寒热，短气不足以息者，实也。</p>
+<p>　　胸痹之病，喘息咳唾，胸背痛，短气，寸口脉沉而迟，关上小紧数，栝蒌薤白白酒汤主之。</p>
+<p>　　栝蒌薤白白酒汤方</p>
+<p>　　栝蒌实一枚（捣） 薤白半斤 白酒七升</p>
+<p>　　右三味，同煮，取二升，分温再服。</p>
+<p>　　胸痹不得卧，心痛彻背者，栝蒌薤白半夏汤主之。</p>
+<p>　　栝蒌薤白半夏汤方</p>
+<p>　　栝蒌实一枚 薤白三两 半夏半斤 白酒一斗</p>
+<p>　　右四昧，同煮，取四升，温服一升，日三服。</p>
+<p>　　胸痹心中痞，留气结在胸，胸满，胁下逆抢心，枳实薤白桂枝汤主之；人参汤亦主之。</p>
+<p>　　枳实薤白桂枝汤方</p>
+<p>　　枳实四枚 厚朴四两 薤白半斤 桂枝一两 栝蒌实一枚（捣）</p>
+<p>　　右五味，以水五升，先煮枳实、厚朴，取二升，去滓，内诸药，煮数沸，分温三服。</p>
+<p>　　人参汤方</p>
+<p>　　人参 甘草 干姜 白术 各三两</p>
+<p>　　右四味，以水八升，煮取三升，温服一升，日三服</p>
+<p>　　胸痹，胸中气塞，短气，茯苓杏仁甘草汤主之，橘枳姜汤亦主之。</p>
+<p>　　茯苓杏仁甘草汤方</p>
+<p>　　茯苓三两 杏仁五十个 甘草一两</p>
+<p>　　右三味，以水一斗，煮取五升，温服一升，日三服（不差，更服）。</p>
+<p>　　橘枳姜汤方</p>
+<p>　　橘皮一斤 枳实三两 生姜半斤</p>
+<p>　　右三味，以水五升，煮取二升，分温再服。（《肘后》《千金》云治胸痹，胸中■■如满，噎塞习习如痒，喉中涩，唾燥沫）</p>
+<p>　　胸痹缓急者，薏苡附子散主之。</p>
+<p>　　薏苡附子散方</p>
+<p>　　薏苡仁十五两 大附子十枚（炮）</p>
+<p>　　右二味，杵为散，服方寸匕，日三服。</p>
+<p>　　心中痞，诸逆心悬痛，桂枝生姜枳实汤主之。</p>
+<p>　　桂枝生姜枳实汤方</p>
+<p>　　桂枝三两 生姜三两 枳实五枚</p>
+<p>　　右三味，以水六升，煮取三升，分温三服。</p>
+<p>　　心痛彻背，背痛彻心，乌头赤石脂丸主之。</p>
+<p>　　乌头赤石脂丸方</p>
+<p>　　蜀椒一两（一法二分） 乌头一分（炮） 附子半两（炮）（一法一分）干姜一两（一法一分） 赤石脂一两（一法二分）</p>
+<p>　　右五味，末之，蜜丸如梧子大，先食服一丸，日三服（不知，稍加服）。</p>
+<p>　　九痛丸 治九种心痛</p>
+<p>　　附子三两（炮） 生狼牙一两（炙香） 巴豆一两（去皮心，熬，研如脂） 人参 干姜 吴茱萸各一两</p>
+<p>　　右六味，末之，炼蜜丸如桐子大，酒下，强人初服三丸，日三服，弱者二丸。兼治卒中恶，腹胀痛，口不能言。又连年积冷，流主心胸痛，并冷肿上气，落马坠车血疾等，皆主之，忌口如常法。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16723.aspx">上一章</a>
+<a href="/guwen/book_193.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16725.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

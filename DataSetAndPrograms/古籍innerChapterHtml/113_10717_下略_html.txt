@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三略·下略_古诗文网
+</title>
+<meta content="夫能扶天下之危者，则据天下之安；能除天下之忧者，则享天下之乐；能救天下之祸者，则获天下之福；故泽及于民，则贤人归之；泽及昆虫，则圣人归之。贤人所归，则其国强；圣人所归，则六合同。求" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_10717.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8684" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>下略</b></span>
+<a href="javascript:PlayBookv(10717)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv10717" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8684)" id="leftbtn8684" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay10717" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e7%9f%b3%e5%85%ac">黄石公</a></p>
+<div class="contson">
+<p>　　夫能扶天下之危者，则据天下之安；能除天下之忧者，则享天下之乐；能救天下之祸者，则获天下之福；故泽及于民，则贤人归之；泽及昆虫，则圣人归之。贤人所归，则其国强；圣人所归，则六合同。求贤以德，致圣以道。贤去，则国微；圣去，则国乖。微者危之阶，乖者亡之征。贤人之政，降人以体；圣人之政，降人以心。体降可以图始，心降可以保终。降体以礼，降心以乐。所谓乐者，非金石丝竹也；谓人乐其家，谓人乐其族，谓人乐其业，谓人乐其都邑，谓人乐其政令，谓人乐其道德。如此，君人者乃作乐以节之，使不失其和。故有德之君，以乐乐人；无德之君，以乐乐身。乐人者，久而长；乐身者，不久而亡。</p>
+<p>　　释近谋远者，劳而无功；释远谋近者，佚而有终。佚政多忠臣，劳政多怨民。故曰，务广地者荒，务广德者强，能有其有者安，贪人之有者残。残灭之政，累世受患；造作过制，虽成必败。舍己而教人者逆，正己而化人者顺；逆者乱之招，顺者治之要。</p>
+<p>　　道、德、仁、义、礼，五者一体也。道者人之所蹈，德者人之所得，仁者人之所亲，义者人之所宜，礼者人之所体；不可无一焉。故夙兴夜寐，礼之制也；讨贼报仇，义之决也；恻隐之心，仁之发也；得己得人，德之路也；使人均平，不失其所，道之化也。</p>
+<p>　　出君下臣，名曰命；施于竹帛，名曰令；奉而行之，名曰政。夫命失，则令不行；令不行，则政不正；政不正，则道不通；道不通，则邪臣胜；邪臣胜，则主威伤。</p>
+<p>　　千里迎贤，其路远；致不肖，其路近。是以明王舍近而取远，故能全功尚人，而下尽力。废一善，则众善衰。赏一恶，则众恶归。善者得其祐，恶者受其诛，则国安而众善至。众疑，无定国；众惑，无治民。疑定惑还，国乃可安。一令逆，则百令失；一恶施，则百恶结。故善施于顺民，恶加于凶民，则令行而无怨。使怨治怨，是谓逆天；使仇治仇，其祸不救。治民使平，致平以清，则民得其所，而天下宁。犯上者尊，贪鄙者富，虽有圣王，不能致其治。犯上者诛，贪鄙者拘，则化行而众恶消。</p>
+<p>　　清白之士，不可以爵禄得；节义之士，不可以威刑胁。故明君求贤，必观其所以而致焉。致清白之士，修其礼；致节义之士，修其道。而后士可致，而名可保。夫圣人君子，明盛衰之源，通成败之端，审治乱之机，知去就之节。虽穷，不处亡国之位；虽贫，不食乱邦之禄。潜名抱道者，时至而动，则极人臣之位；德合于己，则建殊绝之功。故其道高，而名扬于后世。</p>
+<p>　　圣王之用兵，非乐之也，将以诛暴讨乱也。夫以义诛不义，若决江河而溉爝火，临不测而挤欲堕，其克必矣。所以优游恬淡而不进者，重伤人物也。夫兵者，不祥之器，天道恶之，不得已而用之，是天道也。夫人之在道，若鱼之在水；得水而生，失水而死。故君子者常畏惧而不敢失道。</p>
+<p>　　豪杰秉职，国威乃弱；杀生在豪杰，国势乃竭；豪杰低首，国乃可久。杀生在君，国乃可安；四民用灵，国乃无储；四民用足，国乃安乐。贤臣内，则邪臣外；邪臣内，则贤臣毙。内外失宜，祸乱传世。大臣疑主，众奸集聚；臣当君尊，上下乃昏，君当臣处，上下失序。伤贤者，殃及三世；蔽贤者，身受其害；嫉贤者，其名不全。进贤者，福流子孙，故君子急于进贤，而美名彰焉。利一害百，民去城郭；利一害万，国乃思散。去一利百，人乃慕泽；去一利万，政乃不乱。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_10716.aspx">上一章</a>
+<a href="/guwen/book_113.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8684" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

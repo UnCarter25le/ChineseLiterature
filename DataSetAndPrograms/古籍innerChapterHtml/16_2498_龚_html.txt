@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·龚_古诗文网
+</title>
+<meta content="历史来源「龚」源出：一、为共氏所改。据《古今姓氏书辨证》所载：其先共氏，避难，加龙为龚。其时约在战国末年秦汉之际。二、唐《元和姓纂》云：共工后有共、龚二氏。此为神话传说附会之辞，不" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2498.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>龚</b></span>
+<a href="javascript:PlayBookv(2498)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2498" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2498" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong></p>
+<p>　　「龚」源出：</p>
+<p>　　一、为共氏所改。据《古今姓氏书辨证》所载：其先共氏，避难，加龙为龚。其时约在战国末年秦汉之际。</p>
+<p>　　二、唐《元和姓纂》云：共工后有共、龚二氏。此为神话传说附会之辞，不足为凭。</p>
+<p><strong>家族名人</strong></p>
+<p>　　龚祈</p>
+<p>　　字孟道，南朝宋汉寿县人，风度翩翩，英俊潇洒，中书郎范述见了，说："此荆楚之仙人也。"</p>
+<p>　　龚遂</p>
+<p>　　字少卿，西汉南平阳县（今山东邹县）人。初任昌邑王刘贺的郎中令。刘贺行为多有不端，龚遂引经据典，陈述福祸，谏争忘己。宣帝（公元前73-前49年在位）时任渤海太守，正逢饥荒，龚遂单车到渤海郡，开仓济贫，劝民务农。百姓纷纷卖剑买牛，郡内治安大为好转。</p>
+<p>　　龚郯</p>
+<p>　　字昙伯，南宋宁德人，拜朱熹为师，很注重身体力行。晚年与杨复辩论理与气先后之学，尤其有造诣。自号南峰居士。</p>
+<p>　　龚胜（公元前68-前11年）</p>
+<p>　　字君宾，西汉彭城人。哀帝时征召为谏议大夫，多次上书，论议朝政。后任渤海太守。王莽篡政后，他隐居乡里。王莽数次派人征召，拜他为上卿，坚持不受，对门人高晖等说："早晚是要入土的，怎么能一身给两个姓的人当官呢！"绝食十四日而死。</p>
+<p>　　龚鼎孳</p>
+<p>　　字孝升，明末安徽合肥人，崇祯七年进士，官兵科给事中。清军入京后，历任左都御史、刑部尚书，为人旷达不拘礼俗，博学多闻，能诗善文，与吴伟业、钱谦益齐名，称清初江左三大家。他的侍妾顾横波善画墨兰，别具一格。</p>
+<p><strong>地望分布</strong></p>
+<p>　　湖南省溆浦县南</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2497.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2499.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

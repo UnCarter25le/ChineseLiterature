@@ -1,0 +1,134 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷一·西湖北路·岳王坟_古诗文网
+</title>
+<meta content="岳鄂王死，狱卒隗顺负其尸，逾城至北山以葬。后朝廷购求葬处，顺之子以告。及启棺如生，乃以礼服殓焉。隗顺，史失载。今之得以崇封祀享，??千秋，皆顺力也。倪太史元璐曰：“岳王祠，泥范忠武" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18417.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·西湖北路·岳王坟</b></span>
+<a href="javascript:PlayBookv(18417)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18417" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18417" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　岳鄂王死，狱卒隗顺负其尸，逾城至北山以葬。后朝廷购求葬处，顺之子以告。及启棺如生，乃以礼服殓焉。隗顺，史失载。今之得以崇封祀享，??千秋，皆顺力也。倪太史元璐曰：“岳王祠，泥范忠武，铁铸桧、Ι，人之欲不朽桧、Ι也，甚于忠武。”按公之改谥忠武，自隆庆四年。墓前之有秦桧、王氏、万俟Ι三像，始于正德八年，指挥李隆以铜铸之，旋为游人挞碎。后增张俊一像。四人反接，跪于丹墀。自万历二十六年，按察司副使范涞易之以铁，游人椎击益狠，四首齐落，而下体为乱石所掷，止露肩背。旁墓为银瓶小姐。王被害，其女抱银瓶坠井中死。杨铁崖乐府曰：“岳家父，国之城；秦家奴，城之倾。皇天不灵，杀我父与兄。嗟我银瓶为我父，缇萦生不赎父死，不如无生。千尺井，一尺瓶，瓶中之水精卫鸣。”墓前有分尸桧。天顺八年，杭州同知马伟锯而植之，首尾分处，以示磔桧状。隆庆五年，大雷击折之。朱太史之俊曰：“一秦桧耳，铁首木心，俱不能保至此。”天启丁卯，浙抚造祠媚?，穷工极巧，徙苏堤第一桥于百步之外，数日立成，骇其神速。崇祯改元，魏?败，毁其祠，议以木石修王庙。卜之王，王弗许。</p>
+<p>　　岳云，王之养子，年十二从张宪战，得其力，大捷，号曰“赢官人”，军中皆呼焉。手握两铁锤，重八十斤。王征伐，未尝不与，每立奇功，王辄隐之。官至左武大夫、忠州防御使。死年二十二，赠安远军承宣使。所用铁锤犹存。</p>
+<p>　　张宪为王部将，屡立战功。绍兴十年，兀术屯兵临颖，宪破其兵，追奔十五里，中原大振。秦桧主和，班师。桧与张俊谋杀岳飞，诱飞部曲能告飞事者，卒无人应。张俊锻炼宪，被掠无完肤，强辩不伏，卒以冤死。景定二年，追封烈文侯。</p>
+<p>　　正德十二年，布衣王大?发地得碣石，乃崇封焉。郡守梁材建庙，修撰唐皋记之。</p>
+<p>　　牛皋墓在栖霞岭上。皋字伯远，汝州人，岳鄂王部将，素立战功。秦桧惧其怨己，一日大会众军士，置毒害之。皋将死，叹曰：“吾年近六十，官至侍从郎，一死何恨，但恨和议一成，国家日削。大丈夫不能以马革裹尸报君父，是为叹耳！”</p>
+<p>　　张景元《岳坟小记》：</p>
+<p>　　岳少保坟祠，祠南向，旧在??。孙中贵为买民居，开道临湖，殊惬大观。祠右衣冠葬焉。石门华表，形制不巨，雅有古色。</p>
+<p>　　周诗《岳王坟》诗：</p>
+<p>　　将军埋骨处，过客式英风。北伐生前烈，南枝死后忠。</p>
+<p>　　干戈戎马异，涕泪古今同。目断封丘上，苍苍夕照中。</p>
+<p>　　高启《岳王坟》诗：</p>
+<p>　　大树无枝向北风，千年遗恨泣英雄。</p>
+<p>　　班师诏已成三殿，射虏书犹说两宫。</p>
+<p>　　每忆上方谁请剑，空嗟高庙自藏弓。</p>
+<p>　　栖霞岭上今回首，不见诸陵白雾中。</p>
+<p>　　唐顺之《岳王坟》诗：</p>
+<p>　　国耻犹未雪，身危亦自甘。九原人不返，万壑气长寒。</p>
+<p>　　岂恨藏弓早，终知借剑难。吾生非壮士，于此发冲冠。</p>
+<p>　　蔡汝南《岳王墓》诗：</p>
+<p>　　谁将三字狱，堕此一长城。北望真堪泪，南枝空自荣。</p>
+<p>　　国随身共尽，君恃相为生。落日松风起，犹闻剑戟鸣。</p>
+<p>　　王世贞《岳坟》诗：</p>
+<p>　　落日松杉覆古碑，英风飒飒动灵祠。</p>
+<p>　　空传赤帝中兴诏，自折黄龙大将旗。</p>
+<p>　　三殿有人朝北极，六陵无树对南枝。</p>
+<p>　　莫将乌喙论勾践，鸟尽弓藏也不悲。</p>
+<p>　　徐渭《岳坟》诗：</p>
+<p>　　墓门惨淡碧湖中，丹ぬ朱扉射水红。</p>
+<p>　　四海龙蛇寒食后，六陵风雨大江东。</p>
+<p>　　英雄几夜乾坤博，忠孝传家俎豆同。</p>
+<p>　　肠断两宫终朔雪，年年麦饭隔春风。</p>
+<p>　　张岱《岳王坟》诗：</p>
+<p>　　西泠烟雨岳王宫，鬼气阴森碧树丛。</p>
+<p>　　函谷金人长堕泪，昭陵石马自嘶风。</p>
+<p>　　半天雷电金牌冷，一族风波夜壑红。</p>
+<p>　　泥塑岳侯铁铸桧，只令千载骂奸雄。</p>
+<p>　　董其昌《岳坟柱对》：</p>
+<p>　　南人归南，北人归北，小朝廷岂求活耶。</p>
+<p>　　孝子死孝，忠臣死忠，大丈夫当如是矣。</p>
+<p>　　张岱《岳坟柱铭》：</p>
+<p>　　呼天悲铁像，此冤未雪，常闻石马哭昭陵。</p>
+<p>　　拓地饮黄龙，厥志当酬，尚见泥兵湿蒋庙。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18416.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18418.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

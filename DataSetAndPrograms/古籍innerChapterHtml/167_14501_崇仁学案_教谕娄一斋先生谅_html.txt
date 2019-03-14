@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·崇仁学案·教谕娄一斋先生谅_古诗文网
+</title>
+<meta content="娄谅字克贞，别号一斋，广信上饶人。少有志於圣学，尝求师於四方，夷然不屑曰：“率举子学，非身心学也。”闻康斋在临川，乃往从之。康斋一见喜之，云：“老夫聪明性紧，贤也聪明性紧。”一日，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14501.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>崇仁学案·教谕娄一斋先生谅</b></span>
+<a href="javascript:PlayBookv(14501)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14501" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14501" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　娄谅字克贞，别号一斋，广信上饶人。少有志於圣学，尝求师於四方，夷然不屑曰：“率举子学，非身心学也。”闻康斋在临川，乃往从之。康斋一见喜之，云：“老夫聪明性紧，贤也聪明性紧。”一日，康斋治地，召先生往视，云：“学者须亲细务。”先生素豪迈，由此折节，虽扫除之事，必躬自为之，不责僮仆，遂为康斋入室，凡康斋不以语门人者，於先生无所不尽。康斋学规，来学者始见，其余则否。罗一峰未第时往访，康斋不出，先生谓康斋曰：“此一有志知名之士也，如何不见？”康斋曰：“我那得工夫见此小后生耶！”一峰不悦，移书四方，谓是名教中作怪，张东白从而和之，康斋若不闻。先生语两人曰：“君子小人不容并立，使后世以康斋为小人，二兄为君子无疑，倘后世以君子康斋，不知二兄安顿何地？”两人之议遂息。景泰癸酉，举於乡，退而读书十余年，始上春官，至杭复返。明年天顺甲申再上，登乙榜，分教成都。寻告归，以著书造就后学为事。所著《日录》四十卷，词朴理纯，不苟悦人。《三礼订讹》四十卷，以《周礼》皆天子之礼为国礼，《仪礼》皆公卿、大夫、士、庶人之礼为家礼；以《礼记》为二经之传，分附各篇，如《冠礼》附《冠义》之类，不可附各篇，各附一经之后，不可附一经，总附二经之后，取《系辞传》附《易》后之意。《诸儒附会》十三篇，以程、朱论黜之。《春秋本意》十二篇，惟用经文训释，而意自见，不用三传事实，曰：“《春秋》必待三传而后明，是《春秋》为无用书矣。”先生以收放心为居敬之门，以何思何虑、勿助勿忘为居敬要指。康斋之门，最著者陈石斋、胡敬斋与先生三人而已。敬斋之所訾者，亦唯石斋与先生为最，谓两人皆是儒者陷入异教去，谓先生“陆子不穷理，他却肯穷理；石斋不读书，他却勤读书。但其穷理读书，只是将圣贤言语来护己见耳。”先生之书散逸不可见，观此数言，则非仅蹈袭师门者也。又言：“克贞见搬木之人得法，便说他是道，此与运水搬柴相似，指知觉运动为性，故如此说。道固无所不在，必其合乎义理而无私，乃可为道，岂搬木者所能？盖搬木之人，故不可谓之知道；搬木得法，便是合乎义理，不可谓之非道，但行不着，习不察耳。”先生之言，未尝非也。先生静久而明，杭州之返，人问云何，先生曰：“此行非惟不第，且有危祸。”春闱果灾，举子多焚死者。灵山崩，曰：“其应在我矣！”急召子弟永诀，命门人蔡登查周、程子卒之月日，曰：“元公、纯公皆暑月卒，予何憾！”时弘治辛亥五月二十七日也，年七十。门人私谥文肃先生。子兵部郎中性。其女嫁为宁庶人妃，庶人反，先生子姓皆逮系，遗文散失，而宗先生者，绌於石斋、敬斋矣。文成年十七，亲迎过信，从先生问学，相深契也。则姚江之学，先生为发端也。子忱，字诚善，号冰溪，不下楼者十年，从游甚众，僧舍不能容，其弟子有架木为巢而读书者。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14500.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14502.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

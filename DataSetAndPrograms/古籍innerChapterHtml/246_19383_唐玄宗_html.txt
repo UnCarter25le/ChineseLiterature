@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·唐玄宗_古诗文网
+</title>
+<meta content="开元二十三年秋，玄宗皇帝狩于近郊。驾至咸阳原，有大鹿兴于前，赑然其躯，颇异于常者。上命弓射之，一发而中。及驾还，及敕厨吏灸其◆已进。而尚食具熟俎献。时张果老先生侍，上命果坐于前，以" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19383.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>唐玄宗</b></span>
+<a href="javascript:PlayBookv(19383)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19383" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19383" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　开元二十三年秋，玄宗皇帝狩于近郊。驾至咸阳原，有大鹿兴于前，赑然其躯，颇异于常者。上命弓射之，一发而中。及驾还，及敕厨吏灸其◆已进。而尚食具熟俎献。时张果老先生侍，上命果坐于前，以其肉赐之。果谢而食。既食，且奏曰：“陛下以此鹿为何如？”上曰：“吾只知其鹿也，亦未知何如哉？”果曰：“此鹿年且千岁矣。陛下幸问臣。”上笑曰：“此一兽耳，何遂言其千岁耶！”果曰：“昔汉元狩五年秋，臣侍武帝畋于上林，其従臣有生获此鹿而献者，帝以示臣，奏曰：‘此仙鹿也，寿将千岁。今既生获，不如活之。’会武帝尚神仙，由是纳臣之奏。”上曰：“先生绐矣。且汉元狩五年及今八百岁，其鹿长寿，岂历八百岁而不为畋所获乎况苑囿内麋鹿亦多，今所获何妨为他鹿乎？”果曰：“曩时武帝既获此鹿，将舍去之，且命东方朔以练铜为牌，刻成文字以识其年，系于左角下。愿得验之，庶表臣之不诬也。”上即命置鹿首于前，诏内臣高力士验之。凡食倾，曾无所见。上笑曰：“先生果谬矣。左角之下，铜牌安在。”果曰：“臣请自索之。”即顾左右，使铁钳，钳出一小牌，实铜制者，可二寸许。盖以年月悠久，为毛革蒙蔽，始不见耳。持以进，上命磨莹视之。其文字刓弊，不可识矣。上于是信果之不谬。又问果曰：“汉元狩五年，甲子何次史编何事吾将徵诸记传，先生第为我言之。”果曰：“是岁岁次癸亥，武帝始开昆明池，用习水战，因蒐狩以顺礼焉。迫今甲戌岁，八百五十二年。”上即命按《汉史》，其昆明池果元狩五年所开，其甲子亦无差。上顾谓力士曰：“异乎哉！张果能言汉武时事，真所谓至人矣。吾固不可得而知也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19382.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19384.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

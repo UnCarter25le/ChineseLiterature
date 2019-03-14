@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·赵一·秦王谓公子他_古诗文网
+</title>
+<meta content="秦王谓公子他曰：“昔岁殽下之事，韩为中军，以与诸侯攻秦。韩与秦接境壤界，其地不能千里，展转不可约。日者秦、楚战于蓝田，韩出锐师以佐秦，秦战不利，因转与楚，不固信盟，唯便是从。韩之在" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4576.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3856" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>赵一·秦王谓公子他</b></span>
+<a href="javascript:PlayBookv(4576)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4576" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3856)" id="leftbtn3856" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4576" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　秦王谓公子他曰：“昔岁殽下之事，韩为中军，以与诸侯攻秦。韩与秦接境壤界，其地不能千里，展转不可约。日者秦、楚战于蓝田，韩出锐师以佐秦，秦战不利，因转与楚，不固信盟，唯便是从。韩之在我，心腹之疾。吾将伐之，何如?”公子他曰：“王出兵韩，韩必惧，惧则可以不战而深取割。”王曰：“善。”乃起兵，一军临荧阳，一军临太行。</p>
+<p>　　韩恐，使阳成君入谢于秦，请效上党之地以为和。命韩阳告上党之守靳（黄重）曰：“秦起二军以临韩，韩不能有。今王令韩兴兵以上党入和与秦，使阳言之太守，太守其效之。”靳（黄重）曰：“人有言：挈瓶之知，不失守器。王则有令，而臣太守，虽王与子，亦其猜焉。臣请悉发守以应秦，若不能卒，则死之。”</p>
+<p>　　韩阳趋以报王，王曰：“吾始已诺于应侯矣，今不与，是欺之也。”乃使冯亭代靳（黄重）。</p>
+<p>　　冯亭守三十日，阴使人请赵王曰：“韩不能守上党，且以与秦，其民皆不欲为秦，而愿为赵。今有城市之邑七十，愿拜内之与王，唯王才之。”赵王喜，召平原君而告之曰：“韩不能守上党，且以与秦，其吏民不欲为秦，而皆愿为赵。今冯亭令使者以与寡人，何如?”赵豹对曰：“臣闻圣人甚祸无故之利。”王曰：“人怀吾义，何谓无故乎?”对曰：’秦蚕食韩氏之地，中绝不令相通，故自以为坐受上党也。且夫韩之所以内赵者，欲嫁其祸也。秦被其劳，而赵受其利，虽强大不能得之于小弱，而小弱顾能得之强大乎?今王取之，可谓有故乎?且秦以牛田，水通粮，其死士皆列之于上地，令严政行，不可与战。王自图之。”王大怒曰：“夫用百万之众，攻战逾年历岁，未见一城也。今不用兵而得城七十，何故不为?”赵豹出。</p>
+<p>　　王召赵胜、赵禹而告之曰：“韩不能守上党，今其守以与寡人，有城市之邑七十。”二人对曰：“用兵逾年，未见一城，今坐而得城，此大利也。”乃使赵胜往受地。</p>
+<p>　　赵胜至曰：“敝邑之王，使使者臣胜，太守有诏，使臣胜谓曰：‘请以三万户之都封太守，千户封县令，诸吏皆益爵三级，民能相集者，赐家六金。’”冯亭垂涕而勉曰：“是吾处三不义也：为主守地面不能死，而以与人，不义一也；主内之秦，不顺主命，不义二也；卖主之地而食之，不义三也。”辞封而入韩，谓韩王曰：“赵闻韩不能守上党，今发兵已取之矣。”</p>
+<p>　　韩告秦曰：“赵起兵取上党。”秦王怒，令公孙起、王（齿奇）以兵遇赵于长平。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4575.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4577.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3856" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

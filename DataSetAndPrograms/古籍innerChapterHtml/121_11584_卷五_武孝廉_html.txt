@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷五·武孝廉_古诗文网
+</title>
+<meta content="武孝廉石某，囊资赴都，将求铨叙。至德州，暴病，唾血不起，长卧舟中。仆篡金亡去，石大恚，病益加，资粮断绝，榜人谋委弃之。会有女子乘船，夜来临泊，闻之，自愿以舟载石。榜人悦，扶石登女舟" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11584.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·武孝廉</b></span>
+<a href="javascript:PlayBookv(11584)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11584" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11584" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　武孝廉石某，囊资赴都，将求铨叙。至德州，暴病，唾血不起，长卧舟中。仆篡金亡去，石大恚，病益加，资粮断绝，榜人谋委弃之。会有女子乘船，夜来临泊，闻之，自愿以舟载石。榜人悦，扶石登女舟。石视之，妇四十余，被服灿丽，神采犹都。呻以感谢，妇临审曰：“君夙有瘵根，今魂魄已游墟墓。”石闻之，噭然哀哭。妇曰：“我有丸药，能起死。苟病瘳，勿相忘。”石洒泣矢盟。妇乃以药饵石，半日，觉少痊。妇即榻供甘旨，殷勤过于夫妇。石益德之。月余，病良已。石膝行而前，敬之如母。妇曰：“妾茕独无依，如不以色衰见憎，愿侍巾栉。”时石三十余，丧偶经年，闻之，喜惬过望，遂相燕好。妇乃出藏金，使入都营干，相约返与同归。石赴都夤缘，选得本省司阃，余金市鞍马，冠盖赫奕。因念妇腊已高，终非良偶，因以百金聘王氏女为继室。心中悚怯，恐妇闻知，遂避德州道，迂途履任。年余，不通音耗。有石中表，偶至德州，与妇为邻。妇知之，诣问石况，某以实对，妇大骂，因告以情。某亦代为不平，慰解曰：“或署中务冗，尚未暇遑。乞修尺一书，为嫂寄之。”妇如其言。某敬以达石，石殊不置意。又年余，妇自往归石，止于旅舍，托官署司宾者通姓氏，石令绝之。一日，方燕饮，闻喧詈声，释杯凝听，则妇已搴帘入矣。石大骇，面色如土。妇指骂曰：“薄情郎！安乐耶？试思富若贵何所自来？我与汝情分不薄，即欲置婢妾，相谋何妨？”石累足屏气，不能复作声。久之，长跪自投，诡辞求宥，妇气稍平。石与王氏谋，使以妹礼见妇。王氏雅不欲，石固哀之，乃往。王拜，妇亦答拜。曰：“妹勿惧，我非悍妒者。曩事，实人情所不堪，即妹亦不当愿有是郎。”遂为王缅述本末。王亦愤恨，因与变詈石。石不能自为地，惟求自赎，遂相安帖。</p>
+<p>　　初，妇之未入也，石戒阍人勿通。至此，怒阍人，阴诘让之。阍人固言管钥未发，无入者，不服。石疑之而不敢问妇。两虽言笑，而终非所好也。幸妇娴婉，不争夕。三餐后，掩闼早眠，并不问良人夜宿何所。王初犹自危，见其如此，益敬之。厌旦往朝，如事姑嫜。妇御下宽和有体，而明察若神。一日，石失印绶，合署沸腾，屑屑还往，无所为计。妇笑言：“勿忧，竭井可得。”石从之，果得。叩其故，辄笑不言。隐约间，似知盗者之姓名，然终不肯泄。居之终岁，察其行多异。石疑其非人，常于寝后使人輶听之，但闻床上终夜作振衣声，亦不知其何为。妇与王极相怜爱。</p>
+<p>　　一夕，石以赴臬司未归，妇与王饮，不觉醉，就卧席间，化而为狐。王怜之，覆以锦褥。未几，石入，王告以异，石欲杀之。王曰：“即狐，何负干君？”石不听，急觅佩刀。而妇已醒，骂曰：“虺蝮之行，而豺狼之性，必不可以久居！曩时啖药，乞赐还也！”即唾石面。石觉森寒如浇冰水，喉中习习作痒，呕出，则丸药如故。妇拾之，忿然径出，追之已杳。石中夜旧症复作，血嗽不止，半载而卒。</p>
+<p>　　异史氏曰：“石孝廉翩翩若书生，或言其折节能下士，语人如恐伤。壮年殂谢，士林悼之。至闻其负狐妇一事，则与李十郎何以少异？”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11583.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11585.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

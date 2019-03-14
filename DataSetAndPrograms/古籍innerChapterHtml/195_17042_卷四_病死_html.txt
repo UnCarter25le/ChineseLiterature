@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+洗冤集录·卷四·病死_古诗文网
+</title>
+<meta content="凡因病死者，形体羸瘦，肉色痿黄，口眼多合，腹肚多陷，两眼通黄，两拳微握，发髻解脱，身上或有新旧针灸瘢痕，余无他故，即是因病死。凡病患求乞在路死者，形体瘦劣，肉色痿黄，口眼合，两手微" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17042.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·病死</b></span>
+<a href="javascript:PlayBookv(17042)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17042" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17042" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ae%8b%e6%85%88">宋慈</a></p>
+<div class="contson">
+<p>　　凡因病死者，形体羸瘦，肉色痿黄，口眼多合，腹肚多陷，两眼通黄，两拳微握，发髻解脱，身上或有新旧针灸瘢痕，余无他故，即是因病死。</p>
+<p>　　凡病患求乞在路死者，形体瘦劣，肉色痿黄，口眼合，两手微握，口齿焦黄，唇不着齿。</p>
+<p>　　邪魔中风卒死，尸多肥，肉色微黄，口眼合，头髻紧，口内有涎沫，遍身无他故。</p>
+<p>　　卒死，肌肉不陷，口鼻内有涎沫，面色紫赤。盖其人未死时，涎壅于上，气不宣通，故面色及口鼻如此。</p>
+<p>　　卒中死，眼开睛白，口齿开，牙关紧，间有口眼 斜，并口两角、鼻内涎沫流出，手脚拳曲。</p>
+<p>　　中暗风，尸必肥，肉多 白色，口眼皆闭，涎唾流溢。卒死于邪祟，其尸不在于肥瘦，两手皆握，手足爪甲多青。或暗风如发惊搐死者，口眼多 斜，手足必拳缩，臂腿手足细小，涎沫亦流。(以上三项大略相似，更须检时仔细分别)</p>
+<p>　　伤寒死，遍身紫赤色，口眼开有紫汗流，唇亦微绽，手不握拳。</p>
+<p>　　时气死者，眼开口开，遍身黄色，量有薄皮起，手足俱伸。</p>
+<p>　　中暑死，多在五、六、七月，眼合，舌与粪门俱不出，面黄白色。</p>
+<p>　　冻死者，面色痿黄，口内有涎沫，牙齿硬，身直，两手紧抱胸前，兼衣服单薄。检时，用酒醋洗，得少热气，则两腮红，面如芙蓉色。口有涎沫出，其涎不粘，此则冻死证。</p>
+<p>　　饥饿死者，浑身黑瘦，硬直、眼闭、口开，牙关紧禁，手脚俱伸。</p>
+<p>　　或疾病死，值春、夏、秋初，申得迟，经隔两三日，肚上、脐下、两胁肋骨缝，有微青色；此是病患死后，经日变动，腹内秽污发作，攻注皮肤，致有此色。不是生前有他故，切宜仔细。</p>
+<p>　　凡验病死之人，才至检所，先问原申人∶其身死人来自何处?几时到来?几时得病?曾与不曾申官取责口词?有无人识认?如收得口词，即须问∶原患是何疾病?年多少?病得几日方申官取问口词?既得口词之后几日身死?如无口词，则问∶如何取口词不得?若是奴婢，则须先讨契书看，问∶有无亲戚?患是何病?曾请是何医人?吃甚药?曾与不曾申官取口词?如无，则问不责口词因根据；然后，对众证定。如别无它故，只取众定验状，称说∶遍身黄色，骨瘦，委是生前因患是何疾致死。仍取医人定验疾色状一纸。如委的众证因病身死分明，原初虽不曾取责口词，但不是非理致死，不须牒请覆验。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17041.aspx">上一章</a>
+<a href="/guwen/book_195.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17043.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

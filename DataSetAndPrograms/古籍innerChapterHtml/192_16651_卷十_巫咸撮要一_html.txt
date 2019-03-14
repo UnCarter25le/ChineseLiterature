@@ -1,0 +1,124 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·巫咸撮要一_古诗文网
+</title>
+<meta content="天元神趣经云：凡推人命，先详日下兴衰，变用分局，天地方成。造化贵贱明于上下，兴衰尽在干支。四时中妙理穷通，五行内荣枯自禀。是以：春生甲乙居寅卯，岂怕庚辛。夏长丙丁乘巳午，何愁壬癸。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16651.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·巫咸撮要一</b></span>
+<a href="javascript:PlayBookv(16651)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16651" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16651" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　天元神趣经云：</p>
+<p>　　凡推人命，先详日下兴衰，变用分局，天地方成。</p>
+<p>　　造化贵贱明于上下，兴衰尽在干支。</p>
+<p>　　四时中妙理穷通，五行内荣枯自禀。</p>
+<p>　　是以：</p>
+<p>　　春生甲乙居寅卯，岂怕庚辛。</p>
+<p>　　夏长丙丁乘巳午，何愁壬癸。</p>
+<p>　　庚辛值兑秋生兮，离火难侵。</p>
+<p>　　壬癸逢干冬降兮，戊己怎克。</p>
+<p>　　土生四季得时而遇鬼，其伤无害。</p>
+<p>　　设使五行失地而逢克，其灾不愈。</p>
+<p>　　又若化格成象，须分衰旺相停。尤宜配合之中，要识往来去路。</p>
+<p>　　金绝艮北，火没乾西，木落坤南而无形，水到巽东而无位。</p>
+<p>　　此乃阳干皆死，遇合而以类相从，妻若潜形，但见局中。</p>
+<p>　　而可决阴生四正，时旺者身贵家荣。死绝墓伤类伤干，尤为不足。</p>
+<p>　　化气入格不破，大显贵者十有八九。</p>
+<p>　　化气失局有伤，论显荣者百无二三。</p>
+<p>　　最高最贵者，居旺处三位，需要相扶持。</p>
+<p>　　至贱至贫者，居衰处，四柱难寻造化。</p>
+<p>　　元象在地支之中，配合在天干之内。</p>
+<p>　　象成旺用，皆生火土之中。四柱无伤，直列朝廷之上。</p>
+<p>　　支中畏惧，亦须声誉非。贫运至衰乡，必主灾咎。</p>
+<p>　　化成造化，各居于衰墓绝乡。象成杂局，遇合犹如不遇。</p>
+<p>　　夫行旺运，妻乃从夫。妻运扶持，夫从妻论。</p>
+<p>　　己身临鬼，须明天地之中。</p>
+<p>　　象旺象衰，要识荣枯贵贱。</p>
+<p>　　身衰鬼旺，应须肢体伤残。身旺鬼衰，定作凶徒之命。</p>
+<p>　　鬼身皆衰，男必飘蓬，女必师尼，伏身潜匿，自居高名。</p>
+<p>　　月气相伤，此乃伏象，官鬼皆全，遐龄不遂。</p>
+<p>　　干中破败，乃有技艺以随身。</p>
+<p>　　支乃生全。难仗六亲而独立。</p>
+<p>　　五行属于其象，皆在十二支中。先分南北与东西，次看三合内别认。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16650.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16652.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

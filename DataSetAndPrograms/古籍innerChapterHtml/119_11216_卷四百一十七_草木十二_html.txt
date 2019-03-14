@@ -1,0 +1,126 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平广记·卷四百一十七·草木十二_古诗文网
+</title>
+<meta content="花卉怪下　　光化寺客　僧智聓　邓珪　刘皂　田布　梁生　苏昌远药怪　　　　上党人　田登娘　赵生　　菌怪　　　　郭元振　宣平坊官人　豫章人花卉怪下光化寺客　　兖州徂徕山寺曰光化，客有习" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11216.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left9171" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四百一十七·草木十二</b></span>
+<a href="javascript:PlayBookv(11216)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11216" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(9171)" id="leftbtn9171" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay11216" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89%e3%80%81%e6%89%88%e8%92%99%e3%80%81%e5%be%90%e9%93%89%e7%ad%89">李昉、扈蒙、徐铉等</a></p>
+<div class="contson">
+<p>　　花卉怪下　　光化寺客　僧智聓　邓珪　刘皂　田布　梁生　苏昌远</p>
+<p>　　药怪　　　　上党人　田登娘　赵生　　</p>
+<p>　　菌怪　　　　郭元振　宣平坊官人　豫章人</p>
+<p>　　花卉怪下</p>
+<p>　　光化寺客　　</p>
+<p>　　兖州徂徕山寺曰光化，客有习儒业者，坚志栖焉。夏日凉天，因阅壁画于廊序。忽逢白衣美女，年十五六，姿貌绝异。客询其来，笑而应曰：“家在山前。”客心知山前无是子，亦未疑妖。但心以殊尤，贪其观视。且挑且悦，因诱致于室。交欢结义，情款甚密。白衣曰：“幸不以村野见鄙，誓当永奉恩顾。然今晚须去，复来则可以不别矣。”客因留连，百端遍尽，而终不可。素宝白玉指环，因以遗之曰：“幸视此，可以速还。”因送行。白衣曰：“恐家人接迎，愿且回去。”客即上寺门楼，隐身目送。白衣行计百步许，奄然不见。客乃识其灭处，径寻究。寺前舒平数里，纤木细草，毫发无隐，履历详熟，曾无踪迹。暮将回，草中见百合苗一枝，白花绝伟。客因斸之。根本如拱，瑰异不类常者。及归，乃启其重付，百叠既尽，白玉指环，宛在其内。乃惊叹悔恨，恍惚成病，一旬而毙。（出《集异记》）</p>
+<p>　　僧智聓　　</p>
+<p>　　上元中，蜀郡有僧智聓在宝相寺持经。夜久，忽有飞虫五六大如蝇，金色，迭飞赴灯焰，或蹲于灯花上鼓翅。与火一色，久乃灭于焰中。如此数夕。童子击堕其一，乃董陆花（明抄本“董”作“薰”、“花”作“香”）也。亦无形状。自是不复见。（出《酉阳杂俎》）</p>
+<p>　　邓珪　　</p>
+<p>　　晋阳西有童子寺在郊牧之外。贞元中，有邓珪者寓居于寺。是岁秋，与朋友数辈会宿。既阖扉后，忽见一手自牖间入。其手色黄而瘦甚。众视之，俱慄然。独珪无所惧。反开其牖。闻有吟啸之声，珪不之怪。讯之曰：“汝为谁？”对曰：“吾隐居山谷有年矣。今夕纵风月之游，闻先生在此，故来奉谒。诚不当列先生之席，愿得坐牖下，听先生与客谈足矣。珪许之。既坐，与诸客谈笑极欢。久之告去。将行，谓珪曰：“明夕当再来。愿先生未见摈。”既去，珪与诸客议曰。此必鬼也。不穷其迹，且将为患矣。”于是缉丝为缗数百寻，候其再来。必缚（“必缚”原作“丝”，据明抄本、陈校本改）之。明夕果来，又以手出于牖间。珪即以缗系其臂，牢不可解。闻牖外问：“何罪而见缚？其议安在？得无悔邪？”遂引缗而去。至明日，珪与诸客俱穷其迹。至寺北百余步，有蒲桃一株，甚蕃茂，而缗系其枝。有叶类人手，果牖间所见者。遂命掘其根而焚之。（出《宣室志》）</p>
+<p>　　刘皂　　</p>
+<p>　　灵石县南尝夜中妖怪，由是里中人无敢夜经其地者。元和（“元和”原作“大初”，据明抄本、陈校本改）年，董叔经为西河守。时有彭城刘皂，假孝义尉。皂顷尝以书忤董叔，怒甚，遂弃职。入汾水关，夜至灵石南，逢一人立于路旁。其状绝异，皂马惊而坠。久之乃起。其路旁立者，即解皂衣袍而自衣之。皂以为劫，不敢拒。既而西走近十余里，至逆旅，因言其事。逆旅人曰：“邑南夜中有妖怪，固非贼尔。”明日，有自县南来者，谓皂曰：“县南野中有蓬蔓，状类人，披一青袍，不亦异乎？”皂往视之，果己之袍也。里中人始悟，为妖者乃蓬蔓耳。由是尽焚，其妖遂绝。（出《宣室志》）</p>
+<p>　　田布　　</p>
+<p>　　唐田布，田悦之子也。元和中，尝过蔡比，路侧有草如蒿。茎大如指，其端聚叶，若鹪鹩巢在苇。折视之，叶中有小鼠数十，才若皂荚子，目犹未开，啾啾有声。（出《酉阳杂俎》）</p>
+<p>　　梁生　　</p>
+<p>　　唐兴平之西，有梁生别墅，其后园有梨树十余株。太和四年冬十一月，初雪霁，其梨忽有花发，芳而且茂。梁生甚奇之，以为吉兆。有韦氏谓梁生曰：“夫木以春而荣，冬而瘁，固其常矣。焉可谓之吉兆乎？”生闻之不悦。后月余，梁生父卒。（出《宣室志》）</p>
+<p>　　苏昌远　　</p>
+<p>　　中和中，有士人苏昌远居苏州属邑。有小庄去官道十里。吴中水乡率多荷芰。忽一日，见一女郎，素衣红脸，容质艳丽。阅其色，恍若神仙中人。自是与之相狎，以庄为幽会之所。苏生惑之既甚，尝以玉环赠之，结系殷勤。或一日，见槛前白莲花开敷殊异，俯而玩之。见花房中有物。细视，乃所赠玉环也。因折之，其妖遂绝。（出《北梦琐言》）</p>
+<p>　　药怪</p>
+<p>　　上党人　　</p>
+<p>　　隋文帝时，上党有人宅后每夜有人呼声。求之不见。去宅一里，但见一人参枝。掘之，入地五尺，如人体状。掘去之后，呼声遂绝。时晋王广阴有夺宗之计，谄事权要，上君也，党与也，言朋党比而谮。太子竟见废。隋室因此而乱。（原缺出处。陈校本作出《宣室志》。今见《隋书·五行志》）</p>
+<p>　　田登娘　　</p>
+<p>　　陕州西北白径岭上逻村，村之田氏尝穿井，得一根大如臂。节中粗皮若茯苓，香气似术。其家奉释，有像设数十，遂置于像前。田氏女名登娘，十六七，有容质。其父常令供香火焉。经岁余，女尝日见一少年出入佛堂中，白衣蹑屐。女遂私之。精神举止，有异于常矣。其物根每岁至春萌芽。其女有妊，乃具白于母。母疑其怪。尝有衲僧过门，其家因留之供养。僧将入佛宇，辄为物拒之。一日，女随母他出，僧入佛堂。门才启，有一鸽拂僧飞去。其夕，女不复见其怪，视其根，亦成朽蠹。女娠才七月，产物三节，其形如象前根也。田氏并火焚之，其怪亦绝。旧说枸杞茯苓人参术形有异，服之获上寿。或不荤血，不色欲，遇之必能降真为地仙矣。田氏非冀，故见怪而去之。宜乎！（出《酉阳杂俎》）</p>
+<p>　　赵生　　</p>
+<p>　　天宝中，有赵生者，其先以文学显。生兄弟数人，俱以进士明经入仕。独生性鲁钝，虽读书，然不能分句详义。由是年壮尚不得为郡贡。常与兄弟友生会宴，盈座朱绿相接，独生白衣，甚为不乐。及酒酣，或靳之，生益惭且怒。后一日，弃其家遁去，隐晋阳山，葺茅为舍。生有书百余编，笈而至山中，昼习夜息，虽寒热切肌（“肌”原作“饥”。据明抄本、陈校本改），食粟袭紵，不惮劳苦。而生蒙懵，力愈勤而功愈少。生愈恚怒。终不易其志。后旬余，有翁衣褐来造之，因谓生曰：“吾子居深山中，读古人书，岂有志于禄仕乎？虽然，学愈久而卒不能分句详议，何蔽滞之甚邪！”生谢曰：“仆不敏，自度老且无用，故入深山，读书自悦。虽不能达其精微，然必欲死于志业，不辱先人。又何及于禄仕也？”翁曰：“吾子之志甚坚。老夫虽无术能有补于郎君，但幸一谒我耳。”因徵其所止。翁曰：“吾段氏子，家于山西大木之下。”言讫，忽亡所见。生怪之，以为妖。遂径往山西寻其迹，果有段树蕃茂。生曰：“岂非段氏子乎？”因持锸发其下，得人参长尺余，甚肖所遇翁之貌。生曰：“吾闻人参能为怪者，可愈疾。”遂瀹而食之。自是醒然明悟，目所览书，尽能穷奥。后岁余，以明经及第。历官数任而卒。（出《宣室志》）</p>
+<p>　　菌怪</p>
+<p>　　郭元振　　</p>
+<p>　　郭元振尝山居。中夜，有人面如盘，瞬目出于灯下。元振了无惧色。徐染翰题其颊曰：“久戍人偏老，长征马不肥。”元振之警句也。题毕吟之，其物遂灭。久之，元振随樵闲步，见巨木上有白耳，大如数斗，所题句在焉。（出《酉阳杂俎》）</p>
+<p>　　宣平坊官人　　</p>
+<p>　　京宣平坊，有官人夜归。入曲，有卖油者张帽驮桶，不避道。导者搏之，头随而落，遂遽入一大宅门。官人异之，随入至一大槐树下，遂灭。因告其家。其家即掘之。深数尺，并树枯根，下有大蛤蟆如叠。挟二笔錔。树溜津满其中也。及有巨白菌如殿门浮沤钉。其盖已落。蛤蟆乃驴也，笔錔乃油桶也，菌则其人矣。里人有买其油者月余，怪其油好而贱。及怪发，食者悉病呕。（出《酉阳杂俎》）</p>
+<p>　　豫章人　　</p>
+<p>　　豫章人好食蕈。有黄姑蕈者尤为美味。有民家治舍，烹此蕈以食工人。工人有登屋施瓦者，下视无人，唯釜煮物，以盆覆之。俄有小儿裸身绕釜而走，倏忽没于釜中。顷之，主人设（“设”原作“说”，据明抄本、陈校本改）蕈，工独不食，亦不言。既暮，食蕈者皆卒。（出《稽神录》）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11215.aspx">上一章</a>
+<a href="/guwen/book_119.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11217.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right9171" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

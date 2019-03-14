@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·竺_古诗文网
+</title>
+<meta content="历史来源　　1、出自竹姓，以国名为氏，后改为竺生。夏、商、周三代有孤竹国，到了春秋时，其国君之子伯夷、叔齐之后以国名为姓，称竹氏。至汉代，有枞阳人竹晏，因避仇人而改为竺姓，其后沿用" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2708.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>竺</b></span>
+<a href="javascript:PlayBookv(2708)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2708" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2708" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自竹姓，以国名为氏，后改为竺生。夏、商、周三代有孤竹国，到了春秋时，其国君之子伯夷、叔齐之后以国名为姓，称竹氏。至汉代，有枞阳人竹晏，因避仇人而改为竺姓，其后沿用不改。<br/>　　2、源于古印度，属于外来姓氏。据《姓苑》和《汉书·西域传》等记载，古代印度称天竺国，有天竺僧人来中国传教，以国名“竺”为姓。后来，中国僧侣有的随印度僧人学经，也随师父之姓，成为竺姓。通常认为汉代宣帝时竺次为中国竺姓始祖。</p>
+<p><strong>家族名人</strong><br/>　　竺渊：明朝文士，宣德年间举为进士。被朝廷任为官员，正统中为福建参议，敕守银坑，盗贼四起时，竺渊率众捕盗，反被盗贼所捕，后因不屈于盗被杀。<br/>　　竺法深：晋代僧人。名潜，或称道潜，字法深。俗姓王，琅邪郡（治所在今山东省临沂市北）人。18岁便出家，师从富有才解久负盛名的名僧刘元真，慢慢克服了一般士族子弟习见的浮华性格，深刻钻研了般若学的佛学理论，加上相貌堂堂，谈吐风雅，在京城长安已小有名声。至24岁时，独自登坛讲学，所讲《正法华经》、《大品般若经》，义理深奥，剖析明白，前来听讲受业者常济济一堂，多达五六百人。<br/>　　竺道馨：晋代女僧，雅能清淡，尤善小品。<br/>　　竺道生：南北朝时僧人。俗姓魏，原籍钜鹿（河北省平乡县）人，而寄居彭城（江苏省铜山县）。大约十岁，即依名僧竺法汰出家。曾随僧伽提婆研习有部之学，并受学鸠摩罗什深得般若之旨。高僧传本传谓其“常以入道之要，慧解为本。故钻仰群经,斟酌杂论，万里随法，不惮疲苦。”因而得以摄受涵泳空有两宗的学说，以建构独特的思想。<br/>　　竺大年：宋朝学者，专心研究儒家经典《礼记》，著有一本叫《礼记订议》的书。<br/>　　竺绍康：反清志士。在秋瑾与徐锡麟策划皖浙起义时，被任命为光复军分统。皖浙起义失败后，被通缉，避入台州山区。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）竺姓在大陆和台湾没有列入百家姓前一百位。竺姓与竹姓同源。相传商汤时，禹封炎帝的后代墨台氏在孤竹国（今河北省卢龙县南），孤竹国国君的后人就有以国名的一字为姓，称为竹氏。东汉时。枞阳侯竹晏认为竹源出自孤竹国两位贤人，即伯夷和叔齐（二人为商末周初的贤人，因不食乱臣之粮而饿死于首阳山），于是在“竹”字下面加个“二”字，即成了“竺”氏。另外，古时称印度为天竺国，曾有僧人来中国传经时，为了适应汉文化的习惯，就取一个字为他们的姓氏，而他们被称为天竺僧，就多以竺为姓。后来，有些僧人在中国定居，而有些汉族的僧人因拜师也随他们姓竺，这样，竺姓就在汉人中传开来。还有，因竺和竹同音，汉代有位本叫竹晏的人改为姓竺，其后人因之。据《汉书·西域传》考证。但我国另一部姓氏古籍《姓苑》上说：“竺本姓竹，至汉枞阳竹晏改为竺。”依照《姓苑》的考证，我国的竹氏源流，据《名贤氏族言行类稿》的记载：“孤竹君，姜姓，殷汤封之辽西，令支至伯夷、叔齐，子孙以竹为氏焉，东莞。”望族居东海郡（今山东省兖州东南）。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2707.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2709.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

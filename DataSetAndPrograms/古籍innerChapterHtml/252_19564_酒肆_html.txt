@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+都城纪胜·酒肆_古诗文网
+</title>
+<meta content="除官库子库脚店之外，其余皆谓之“拍户”，有茶饭店，谓兼卖食次下酒是也。但要索唤及时食品，知处不然，则酒家亦有单于牌面点选也。包子酒店，谓卖鹅鸭包子、四色兜子、肠血粉羹、鱼子、鱼白之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19564.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>酒肆</b></span>
+<a href="javascript:PlayBookv(19564)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19564" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19564" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%80%90%e5%be%97%e7%bf%81">耐得翁</a></p>
+<div class="contson">
+<p>　　除官库子库脚店之外，其余皆谓之“拍户”，有茶饭店，谓兼卖食次下酒是也。但要索唤及时食品，知处不然，则酒家亦有单于牌面点选也。包子酒店，谓卖鹅鸭包子、四色兜子、肠血粉羹、鱼子、鱼白之类，此处易为支费。宅子酒店，谓外门面装饰如仕宦宅舍，或是旧仕宦宅子改作者。花园酒店，城外多有之，或城中效学园馆装折。直卖店，谓不卖食次也。散酒店，谓零卖百单四、七十七、五十二、三十八，并折卖外坊酒。门首亦不设油漆杈子，多是竹栅布幕，谓之打碗，遂言只一杯也。却不甚尊贵，非高人所往。庵酒店，谓有娼妓在内，可以就欢，而于酒阁内暗藏卧床也。门首红栀子灯上，不以晴雨，必用箬盖之，以为记认。其他大酒店，娼妓只伴坐而已。欲买欢，则多往其居。罗酒店，在山东、河北有之，今借名以卖浑头，遂不贵重也。酒家事物，门设红杈子绯缘帘贴金红纱栀子灯之类。旧传因五代郭高祖游幸汴京潘楼，至今成俗。酒阁名为厅院，若楼上则又或名为山，一山、二山、三山之类。牌额写过山，非特有山，谓酒力高远也。大凡入店，不可轻易登楼上阁，恐饮燕浅短。如买酒不多，则只就楼下散坐，谓之门床马道。初坐定，酒家人先下看菜，问买多少，然后别换菜蔬。亦有生疏不惯人，便忽下箸，被笑多矣。大抵店肆饮酒，在人出著如何，只知食次，谓之下汤水，其钱少，止百钱五千者，谓之小分下酒。若命妓，则此辈多是虚驾骄贵，索唤高价细食，全要出著经惯，不被所侮也。如煮酒，或有先索到十瓶，逐旋开饮，少顷只饮五六瓶佳者，其余退回，亦是搜弊之一诀。</p>
+<p>　　官库则东酒库曰大和楼，西酒库曰金文库，有楼曰西楼，旧有“楼攻愧”书榜，后为好奇者取去。南酒库曰升宫，楼曰和乐楼。北酒库曰春风楼。正南楼对吴、越两山，南上酒库曰和丰楼。西子库曰丰乐楼，在今涌金门外，乃旧杨和王之耸翠楼，后张定叟兼领库事，取为官库，正跨西湖，对两山之胜。西子库曰太平楼，中酒库曰中和楼。南外库在便门外，东外库在崇新门外。北外库在湖州市，有楼曰春融楼。其他则有西溪，并赤山九里松酒库，其中和和乐、和丰并在御街，其太平大和因回禄后其楼悉废。若欲赏妓，往官库中点花牌，其酒家人亦多隐庇推托，须是亲识其妓，及以利委之可也。</p>
+<p>　　天府诸酒库，每遇寒食节前开沽煮酒，中秋节前后开沽新酒。各用妓弟，乘骑作三等装束：一等特髻大衣者；二等冠子裙背者；三等冠子衫子裆裤者。前有小女童等，及诸社会，动大乐迎酒样赴府治，呈作乐，呈伎艺杂剧，三盏退出，于大待诸处迎引归库。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19563.aspx">上一章</a>
+<a href="/guwen/book_252.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19565.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

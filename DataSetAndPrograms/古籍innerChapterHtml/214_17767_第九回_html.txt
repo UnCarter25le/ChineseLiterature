@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+小八义·第九回_古诗文网
+</title>
+<meta content="失意子负托理家　徐文标保镖入京诗曰：周顺运不通　来在徐家中方有存身处　又遇贾秀英周顺来至文标书房，一夜晚景不表。天明亮了，周顺合衣而睡，站起身来，下了床榻，推开房门。家将端来一盆净" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17767.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第九回</b></span>
+<a href="javascript:PlayBookv(17767)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17767" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17767" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%8a%e9%97%b2%e5%b1%85%e5%a3%ab">半闲居士</a></p>
+<div class="contson">
+<p>　　<strong>失意子负托理家　徐文标保镖入京</strong></p>
+<p>　　诗曰：</p>
+<p>　　周顺运不通　来在徐家中</p>
+<p>　　方有存身处　又遇贾秀英</p>
+<p>　　周顺来至文标书房，一夜晚景不表。天明亮了，周顺合衣而睡，站起身来，下了床榻，推开房门。家将端来一盆净面水，道：“周少爷，净面。”</p>
+<p>　　周顺洗面已毕，家将即忙将酒饭端至书房。周少爷用早膳毕，苦坐寒窗念文章，暂且不表。周老夫人上宅安身。再表文标出了上宅，急来书房，开门走进房来，周顺欠身离坐，二人对面坐下，说：“兄弟，好好念书，单等后来替你周家报仇。”周顺说：“哥哥，不必挂心，我用心念书是了。”</p>
+<p>　　文标书房把话明　连把兄弟叫几声　若是用心把书念出了赦旨你进京　连科三场得中了　好替你家把冤伸拿了蔡京先杀死　刮骨熬油点天灯　高俅犯在你的手不砍千刀你别容　拿了杨俭和童贯　一刀一个脖子平文标书房来讲话　公子又把徐哥称</p>
+<p>　　周顺说：“哥哥，我就在这书房存身亦就是了。”文标说：“你房门总要小心，走漏风声，那时悔之晚矣。”书要翦断。周顺在文标家中，过个新年。此时正在二月天气，文标上街置买东西，遇见保镖的伙伴众家。伙伴说：“徐教师，我们承揽了一件买卖，二十八个驼子送进东京，有徐教师，人家才顾呢。你若不去，人家不顾。”文标说：“多少银子？”伙伴说：“二十五两给你，剩二十五两，共五十银子。”文标说：“我家有事，等我回家与我母亲商量商量，叫我去，我就去，叫我不去，我就不去。”伙伴说：“徐教师，你本领既好，当去的。”文标说：“你们先回去等我，我回家去。”</p>
+<p>　　不多时，到了家，进了上宅，向娘亲姑母说道：“为儿要上东京保镖，去得去不得？”徐夫人说：“我儿不去便好，现今你家表弟在俺府中，他家犯了灭门之罪，若走了风声，拿进官衙，那有他的性命。我儿你可别去。”文标说：“娘亲，儿就不去了。”周老夫人说：“姐姐，侄儿进京保镖，叫他去一次，一来挣些银子，二来打探了周家的官司。”徐老夫人说：“这好呢。姑母叫你去，你就去罢。”文标一听，立时更衣，头戴英雄绸帽，身穿锦绣衣，腰束洋绉搭包，下穿骑马兜包，下穿骑马兜腰滚裤，足蹬快靴，带上防身宝剑，挂上标囊袋，藏上三口金镖，辞了娘亲姑母。二位夫人说：“好呀，多加小心。”文标说：“二位娘亲、姑母不必挂心。”文标又来至书房，见了周顺，说：“兄弟，你在书房好好用功，我进京保镖去，再打听打听你周家官司出了赦旨未有。若出了赦旨，大比之年你好进京科考。如若老天保佑你，得一官半职，好替你周门报仇。这住着书房，大门别出，我一派家业交与你执掌。”周顺说：“谨遵哥哥的话。哥哥进京，路上多加小心。”说罢送出书房。文标又上了绣楼，见了妻子贾氏，说道：“贤妻，我要进京保镖，一派家业交与表弟照应，你这老娘们宜恭敬，且不可得罪我那兄弟。”贾氏说：“丈夫你去罢，去年那一次就把我吓破胆子了，我怎敢得罪你那兄弟？”</p>
+<p>　　文标不言，离了绣房，来在二门，家将拉过马来，备了鞍褥，带上嚼环，接过坐马，拉出府门。顷时来见了众伙伴，开完镖单，插上旗子，众伙伴一齐上了坐马，喊着号令，走下来了。</p>
+<p>　　文标上了马能行　伙伴用力喊连声　保着驼子街上走一街两巷闹哄哄　老张回头叫老李　老田回头叫老丁老王回头叫老赵　冯二大姐叫老公　看着众人做买卖恨不得走进京城　不言众人把呆卖　文标催马往前行一直走出西门外　顺着大路快如风　啦啦马跑还嫌慢恨不一时走进京　人要腾空马生翅　心急要进汴梁城论走也得多几日　噜噜困明公　天到黑了就住店早日清晨就登程　走些高低芳草路　过些村庄府县城见些才子去赶考　为的进京求功名　文标行走一个月多时进了东京城　书要翦断方为妙　啰啰不中听入水登舟从此过　入山也从山中行　往前正走抬头看有坐松林面前迎　文标马上开言说　连把伙伴叫一声说在此处住下罢　下回山下大交锋。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17766.aspx">上一章</a>
+<a href="/guwen/book_214.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17768.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

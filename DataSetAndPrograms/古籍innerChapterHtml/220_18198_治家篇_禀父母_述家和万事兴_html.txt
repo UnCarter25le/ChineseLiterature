@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·治家篇·禀父母·述家和万事兴_古诗文网
+</title>
+<meta content="男国藩跪禀父母亲大人万福金安。正月八日，恭庆祖父母双寿，男去腊作寿屏二架，今年同乡送寿对者五人，拜寿来客四十人，早面四席，晚酒三席。未吃晚酒者，于十六日廿日补请二席。又请人画椿重荫" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18198.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>治家篇·禀父母·述家和万事兴</b></span>
+<a href="javascript:PlayBookv(18198)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18198" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18198" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　男国藩跪禀</p>
+<p>　　父母亲大人万福金安。正月八日，恭庆祖父母双寿，男去腊作寿屏二架，今年同乡送寿对者五人，拜寿来客四十人，早面四席，晚酒三席。未吃晚酒者，于十六日廿日补请二席。又请人画椿重荫，观者无不叹羡！</p>
+<p>　　男身体如常，新年应酬太繁，几至日不暇给，媳妇及孙儿女俱平安。正月十五，接到四弟六弟信，四弟欲偕季弟从汪觉庵师游，六弟欲借九弟至省城诚书。男思大人家事日烦，必不能常在家熟照管诸弟，且四弟天分平常，断不可一日无师，读书改诗文，断不可一课耽搁。伏望堂上大人俯从男等之请，即命四弟季弟从觉庵师，其柬修银，男于八月付回，两弟自必加倍发奋矣！</p>
+<p>　　六弟实不羁之才，乡间孤陋寡闻，断不足以启其见识而坚其心志。且少年英锐之气，不可久挫，六弟不得入学，即挫之矣，欲进京而男阻之，再挫之矣。若又不许肆业省城，则毋乃太挫其锐气乎？伏望上大人俯从男等之请，即命六弟九弟下省读书，其费用，男于二月间付银什两，至金竺虔家。</p>
+<p>　　夫家和则福自生，若一家之中兄有言，弟无不从，弟有请，兄无不应，和气蒸帮而家不兴者，未之有也。反是而不败者，亦未之有也。伏望大人察男之志！即此敬禀叔父之人，恕不另具。六弟将来必为叔父克家之子，即为吾族光大门弟，可喜也！谨述一二，余续禀。（道光二十三年正月十六日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18197.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18199.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

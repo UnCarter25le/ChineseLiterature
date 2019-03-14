@@ -1,0 +1,138 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·伦类部·奴婢_古诗文网
+</title>
+<meta content="纪纲之仆《左传》：晋侯迎夫人嬴氏以归，秦伯送卫于晋三千人，实纪纲之仆。渔童樵青唐肃宗赠高士张志和奴婢二人，志和配为夫妇，名曰渔童、樵青。人问其故，曰：“渔童使捧钓收纶，芦中鼓枻。樵" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19202.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>伦类部·奴婢</b></span>
+<a href="javascript:PlayBookv(19202)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19202" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19202" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>纪纲之仆</strong></p>
+<p>　　《左传》：晋侯迎夫人嬴氏以归，秦伯送卫于晋三千人，实纪纲之仆。</p>
+<p>　　<strong>渔童樵青</strong></p>
+<p>　　唐肃宗赠高士张志和奴婢二人，志和配为夫妇，名曰渔童、樵青。人问其故，曰：“渔童使捧钓收纶，芦中鼓枻。樵青使刈兰薪桂，竹里煎茶。”</p>
+<p>　　<strong>海山使者</strong></p>
+<p>　　晋陶侃家僮百余人，惟一奴不喜言语，尝默坐。侃一日出郊外，奴执鞭随，胡僧见而惊，礼之曰：“海山使者也。”侃异之。至夜，失其所在。</p>
+<p>　　<strong>读书婢</strong></p>
+<p>　　郑玄家奴婢皆读书，一婢不称指，玄使人曳跪泥中。须臾，一婢问曰：“胡为乎泥中？”曰：“薄言往愬，逢彼之怒。”</p>
+<p>　　<strong>慕其博奥</strong></p>
+<p>　　萧颖士性褊无比，畜一佣仆杜亮，每一决责，便至力殚。亮养创平复，为其指使如故。或劝之去，答曰：“岂不知，但慕其博奥，以此恋恋不能去耳。”</p>
+<p>　　<strong>温公二仆</strong></p>
+<p>　　司马温公家一仆，三十年，止称“君实秀才”。苏学士来谒，闻而教之，明日改称“大参相公”。温公惊问，仆实告。公曰：“好一仆被苏东坡教坏了。”温公一日过独乐园，见创一厕屋，问守园者从何得钱。对曰：“积游赏者所得。”公曰：“何不留以自用？”对曰：“只相公不要钱。”</p>
+<p>　　<strong>臧获</strong></p>
+<p>　　海岱之间骂奴日臧，骂婢曰获。盖古无奴婢，犯事者被臧，没入官为奴；妇女逃亡，获得者为婢。</p>
+<p>　　<strong>措大</strong></p>
+<p>　　奴婢之称，有曰厮养，有曰苍头，有曰卢儿，有曰奚童，有曰钳奴，有曰措大。措大者，以其能举措大事也。</p>
+<p>　　<strong>开阁驱婢</strong></p>
+<p>　　王处仲尝荒恣于色，体为之疲，左右谏之，曰：“吾乃不觉耳。如此甚易。”乃开后阁，悉驱诸婢出，任其所之。</p>
+<p>　　<strong>追婢</strong></p>
+<p>　　阮咸先幸姑家鲜卑婢。及居母丧，姑当远徙，竟将婢去。咸借客驴，着重服，自追之，累骑而返，曰：“人种不可失！”（婢即阮孚之母。）</p>
+<p>　　<strong>银鹿</strong></p>
+<p>　　唐颜真卿家僮名曰银鹿。欧阳公云：“银鹿鼎来。”</p>
+<p>　　<strong>便了</strong></p>
+<p>　　汉王子渊名褒，从成都杨惠买夫时，户下有一髯奴，名便了，决卖万五千，与立券，约从百使役。</p>
+<p>　　<strong>长须赤脚</strong></p>
+<p>　　韩愈寄卢仝诗云：“玉川先生洛城里，破屋数间而已矣。一奴长须不裹头，一婢赤脚老无齿。”又东坡云：“常呼赤脚婢，雨中撷园蔬。”</p>
+<p>　　<strong>掌笺婢</strong></p>
+<p>　　唐潞州节度使薛嵩，有侍婢红线，嵩使掌笺表，号内记室。</p>
+<p>　　<strong>吹篪婢</strong></p>
+<p>　　后魏河间王有婢曰朝云，善吹篪。诸羗叛，王使朝云假为妪吹篪，皆流泪，思乡而去。</p>
+<p>　　<strong>桃叶</strong></p>
+<p>　　晋王献之爱妾名桃叶，尝渡秦淮口，献之作歌送之。今名曰桃叶渡。（献之有歌曰：桃叶复桃叶，渡江不用楫。但渡无所苦，我自来迎接。）</p>
+<p>　　<strong>雪儿歌</strong></p>
+<p>　　唐李密宠姬名雪儿，每宾客，有辞章奇丽者，付雪儿协律歌之。故号雪儿歌。</p>
+<p>　　<strong>绛桃柳枝</strong></p>
+<p>　　韩退之二侍姬，名绛桃、柳枝。退之初出使未归，柳枝窜去，家人追获。及镇州，有云：“别来杨柳街头树，摆乱春风只欲归，惟有小桃园里在，柳花不发侍郎回。”自是专属意绛桃。</p>
+<p>　　<strong>樊素小蛮</strong></p>
+<p>　　白乐天两婢，一名樊素，一名小蛮。有云：“樱桃樊素口，杨柳小蛮腰。”</p>
+<p>　　<strong>瓦剌辉</strong></p>
+<p>　　明太祖驸马梅殷仆也。谭深、赵曦谋杀驸马，文皇帝杀此二臣，瓦剌辉取心肝以祭驸马，痛哭而殉。</p>
+<p>　　<strong>仆地泼毒酒</strong></p>
+<p>　　卫国主父为周大夫，不归者三年。其妻巫氏与人通。一日，主父回。其妻虑事败，以毒酒饮之，命婢葵枝行酒。葵枝知其谋而忖曰：“从主母而杀主人，不可谓义；受主母托而破其状，则害主母，不可谓忠。”乃故仆于地，而泼其酒。主父反以婢为不敬，而重责之，葵枝受而不怨。</p>
+<p>　　<strong>李元苍头</strong></p>
+<p>　　李善，汉李元之苍头也。元尽室疫死，惟孤儿续始生数旬，而资财巨万，诸奴欲谋续，分其财。善潜以续出亡，隐瑕丘界中，亲自乳哺。及长，诉叛奴于官，悉杀之。时钟离意为瑕丘令，上书以闻，光武拜善及续并太子舍人。善还旧里，脱冠解带，扫元墓门修祭，泣数日乃去。</p>
+<p>　　<strong>定国侍儿</strong></p>
+<p>　　王巩字定国，坐苏轼党，贬宾州。轼临北归，别巩，出侍儿柔奴进酒。轼问柔奴：“岭南应是不好？”柔奴曰：“此心安处，便是吾乡。”轼因作《定风波》一词以赠。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19201.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19203.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

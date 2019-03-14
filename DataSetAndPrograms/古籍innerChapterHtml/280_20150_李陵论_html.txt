@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+何博士备论·李陵论_古诗文网
+</title>
+<meta content="善将将者，不以其将予敌；善为将者，不以其身予敌。主以其将予敌，而将不辞，是制将也；将以其身予敌，而主不禁，是听主也。故听主无断，而制将无权，二者之失均焉。汉武召陵欲为贰师将辎重也，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20150.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>李陵论</b></span>
+<a href="javascript:PlayBookv(20150)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20150" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20150" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%95%e5%8e%bb%e9%9d%9e">何去非</a></p>
+<div class="contson">
+<p>　　善将将者，不以其将予敌；善为将者，不以其身予敌。主以其将予敌，而将不辞，是制将也；将以其身予敌，而主不禁，是听主也。故听主无断，而制将无权，二者之失均焉。</p>
+<p>　　汉武召陵欲为贰师将辎重也，而陵恶于属人，自以所将皆荆楚勇士、奇才、剑客，愿得自当一队，以步卒五千涉单于庭，而无所事骑也。夫所谓骑者，匈奴之胜兵长技也。广泽平野，奔突驰践，出没千里，非中国步兵所能敌也。以匈奴之强，兵骑之众，居安待佚，为制敌之主。而吾欲以五千之士，擐甲负粮，徒步深入，策劳麾惫，为赴敌之客。是陵轻委其身以予敌矣。而汉武不之禁也，乃甚壮之，而听其行。上无统帅，而旁无援师，使之穷数十日之力，涉数千里之地，以与敌角而冀其成功。陵诚勇矣，虽其所以摧败，足以暴于天下；卒以众寡不敌，身为降虏，辱国败家，为天下笑者，是汉武以陵与敌也。故曰：二者之失均焉。法曰：“小敌之坚，大敌之擒也。”陵提五千之士，孤军独出，当单于十万之师，转斗万里，安得不为其所擒也？是以古之善战者无幸胜而有常功。计必胜而后战，是胜不可以幸得也；度有功而后动，是功可以常期也。秦将取荆，问其将李信曰：“度兵几何而足？”信曰：“二十万足矣。”以问王翦，翦曰：“非六十万不可。”秦君甚壮信而怯翦也，遂以二十万众，信将而行，大丧其师而还。秦君大怒，自驾以请王翦，翦曰：“必欲用臣，顾非六十万人不可也。”秦君曰：“谨受命。”翦遂将之，卒破荆而灭之焉。冒顿单于嫚辱吕后，汉之君臣廷议，欲斩其使，遂举兵击之。樊哙请曰：“愿得十万众，横行匈奴中。”季布曰：“哙可斩也。昔高祖以四十万众困于平城，哙奈何欲以十万众横行匈奴也？”吕后大悟，遂罢其议。向使王翦徇秦君以将予敌而不辞，吕后听樊哙以身予敌而不禁，则二将之祸可胜悔哉？</p>
+<p>　　夫李广、李陵皆山西之英将也，材武善战，能得士死力。然轻暴易敌，可以属人，难以专将。世主者苟能因其材而任之，使奋励气节，霆击鸷搏，则前无坚敌，而功烈可期矣。汉武皆乖其所任，二人者终偾蹶而不济，身辱名败，可不惜哉！</p>
+<p>　　大将军卫青之大击匈奴也，以广为前将军。青徙广出东道，少回远，乏水草。广请于上曰：“臣部为前将军，令臣出东道，臣结发与匈奴战，乃今一得当单于，臣愿居前，先死单于。”而青阴受上旨，以广数奇，无令当单于，恐不得所欲。广遂出东道，卒以失期自杀。夫以广之材勇，得从大将军全师之出，其胜气已倍矣。又获居前以当单于，此其志得所逞，宜有以自效，无复平日之不偶也。奈何独摧摈之，使其枉道他出，遂死于悒悒，而天下皆深哀焉？至若陵也，又听其以身予敌而弃之匈奴，侥幸于或胜。及其以败闻，徒延首倾耳望其死敌而已，无他悔惜也。嗟夫！汉武之于李氏不得为无负也。盖用广者失于难，而用陵者失于易，其所以丧之者一也。贾复，中兴之名将也。世祖以其壮勇轻敌而敢深入，不令别将远征，常自从之，故复卒以勋名自终。盖壮勇轻敌者可以自从，而别将远征之所深忌也。观贾复之所以为将，无以异于陵、广也。而世祖不令别将远征，常以自从者，是明于知复，而得所以驭之之术也，故卒收其效而全其躯。不然，则复也亦殒于敌矣。呜呼，任人若世祖者，几希矣！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20149.aspx">上一章</a>
+<a href="/guwen/book_280.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20151.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

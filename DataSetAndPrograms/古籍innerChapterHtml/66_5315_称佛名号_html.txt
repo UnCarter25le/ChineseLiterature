@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+地藏经·称佛名号_古诗文网
+</title>
+<meta content="尔时地藏菩萨摩诃萨白佛言：世尊，我今为未来众生演利益事，于生死中，得大利益，唯愿世尊听我说之。佛告地藏菩萨：汝今欲兴慈悲，救拔一切罪苦六道众生，演不思议事，今正是时，唯当速说。吾即" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5315.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3654" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>称佛名号</b></span>
+<a href="javascript:PlayBookv(5315)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5315" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3654)" id="leftbtn3654" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5315" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　尔时地藏菩萨摩诃萨白佛言：世尊，我今为未来众生演利益事，于生死中，得大利益，唯愿世尊听我说之。</p>
+<p>　　佛告地藏菩萨：汝今欲兴慈悲，救拔一切罪苦六道众生，演不思议事，今正是时，唯当速说。吾即涅槃，使汝早毕是愿，吾亦无忧现在未来一切众生。</p>
+<p>　　地藏菩萨白佛言：世尊，过去无量阿僧祇劫，有佛出世，号无边身如来。若有男子女人闻是佛名，暂生恭敬，即得超越四十劫生死重罪。何况塑画形像，供养赞叹，其人获福无量无边。</p>
+<p>　　又于过去恒河沙劫，有佛出世，号宝性如来。若有男子女人闻是佛名，一弹指顷，发心归依，是人于无上道永不退转。</p>
+<p>　　又于过去有佛出世，号波头摩胜如来。若有男子、女人，闻是佛名，历于耳根，是人当得千返生于六欲天中，何况志心称念。</p>
+<p>　　又于过去，不可说不可说阿僧祇劫，有佛出世，号师子吼如来。若有男子女人闻是佛名，一念归依，是人得遇无量诸佛摩顶授记。</p>
+<p>　　又于过去有佛出世，号拘留孙佛。若有男子女人，闻是佛名，志心瞻礼或复赞叹，是人于贤劫千佛会中，为大梵王，得授上记。</p>
+<p>　　又于过去有佛出世，号毗婆尸。若有男子女人闻是佛名，永不堕恶道，常生人天，受胜妙乐。</p>
+<p>　　又于过去无量无数恒河沙劫，有佛出世，号宝胜如来。若有男子女人闻是佛名，毕竟不堕恶道，常在天上受胜妙乐。</p>
+<p>　　又于过去有佛出世，号宝相如来。若有男子女人闻是佛名，生恭敬心，是人不久得阿罗汉果。</p>
+<p>　　又于过去无量阿僧祇劫，有佛出世，号袈裟幢如来。若有男子女人闻是佛名者，超一百大劫生死之罪。</p>
+<p>　　又于过去有佛出世，号大通山王如来。若有男子女人闻是佛名者，是人得遇恒河沙佛广为说法，必成菩提。</p>
+<p>　　又于过去有净月佛、山王佛、智胜佛、净名王佛、智成就佛、无上佛、妙声佛、满月佛、月面佛有如是等不可说佛。世尊，现在未来一切众生，若天若人，若男若女，但念得一佛名号，功德无量，何况多名。</p>
+<p>　　是众生等，生时死时，自得大利，终不堕恶道。若有临命终人，家中眷属，乃至一人，为是病人高声念一佛名，是命终人，除五无间罪，余业报等悉得销灭。是五无间罪，虽至极重，动经亿劫，了不得出，承斯临命终时，他人为其称念佛名，于是罪中，亦渐销灭。何况众生自称自念，获福无量，灭无量罪。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5314.aspx">上一章</a>
+<a href="/guwen/book_66.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5316.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3654" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

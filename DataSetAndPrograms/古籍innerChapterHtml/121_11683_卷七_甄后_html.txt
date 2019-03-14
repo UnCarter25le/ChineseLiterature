@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷七·甄后_古诗文网
+</title>
+<meta content="洛城刘仲堪，少钝而淫于典籍。恒杜门攻苦，不与世通。一日方读，忽闻异香满室，少间佩声甚繁。惊顾之，有美人入，簪珥光采，从者皆宫妆。刘惊伏地下，美人扶之曰：“子何前倨而后恭也？”刘益惶" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11683.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·甄后</b></span>
+<a href="javascript:PlayBookv(11683)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11683" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11683" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　洛城刘仲堪，少钝而淫于典籍。恒杜门攻苦，不与世通。一日方读，忽闻异香满室，少间佩声甚繁。惊顾之，有美人入，簪珥光采，从者皆宫妆。刘惊伏地下，美人扶之曰：“子何前倨而后恭也？”刘益惶恐，曰：“何处天仙，未曾拜识。前此几时有侮？”美人笑曰：“相别几何，遂尔懜懜！危坐磨砖者非子耶？”乃展锦荐，设瑶浆，捉坐对饮，与论古今事，博洽非常。刘茫茫不知所对。美人曰：“我止赴瑶池一回宴耳，子历几生，聪明顿尽矣！”遂命侍者，以汤沃水晶膏进之。刘受饮讫，忽觉心神澄彻。既而曛黑，从者尽去，息烛解襦，曲尽欢好。</p>
+<p>　　未曙，诸姬已复集。美人起，妆容如故，鬓发修整，不再理也。刘依依苦诘姓字，答曰：“告郎不妨，恐益君疑耳。妾，甄氏；君，公干后身。当日以妾故罹罪，心实不忍，今日之会，亦聊以报情痴也。”问：“魏文安在？”曰：“丕，不过贼父之庸子耳。妾偶从游嬉富贵者数载，过即不复置念。彼曩以阿瞒故，久滞幽冥，今未闻知。反是陈思为帝典籍，时一见之。”旋见龙舆止于庭中，乃以玉脂合赠刘，作别登车，云推而去。</p>
+<p>　　刘自是文思大进。然追念美人，凝思若痴，历数月渐近羸殆。母不知其故，忧之。家一老妪，忽谓刘曰：“郎君意颇有思否？”刘以言隐中情告之，妪曰：“郎试作尺一书，我能邮致之。”刘惊喜曰：“子有异术，向日昧于物色。果能之，不敢忘也。”乃折柬为函，付妪便去。半夜而返曰：“幸不误事。初至门，门者以我为妖，欲加缚絷。我遂出郎君书，乃将去。少顷唤入，夫人亦欷歔，自言不能复会。便欲裁答。我言：‘郎君羸惫，非一字所能瘳。’夫人沉思久，乃释笔云：‘烦先报刘郎，当即送一佳妇去。’濒行，又嘱：‘适所言乃百年计，但无泄，便可永久矣。’”刘喜，伺之。</p>
+<p>　　明日，果一老姥率女郎诣母所，容色绝世，自言：“陈氏；女其所出，名司香，愿求作妇。”母爱之，议聘，更不索资，坐待成礼而去。惟刘心知其异，阴问女：“系夫人何人？”答云：“妾铜雀故妓也。”刘疑为鬼，女曰：“非也。妾与夫人俱隶仙籍，偶以罪过谪人间。夫人已复旧位；妾谪限未满，夫人请之天曹，暂使给役，去留皆在夫人。故得长侍床箦耳。”一日，有瞽媪牵黄犬丐食其家，拍板俚歌。女出窥，立未定，犬断索咋女，女骇走，罗衿断。刘急以杖击犬。犬犹怒，龁断幅，顷刻碎如麻，嚼吞之。瞽媪捉领毛，缚以去。刘入视女，惊颜未定，曰：“卿仙人，何乃畏犬？”女曰：“君自不知，犬乃老瞒所化，盖怒妾不守分香戒也。”刘欲买犬杖毙，女不可，曰：“上帝所罚，何得擅诛？”</p>
+<p>　　居二年，见者皆惊其艳，而审所从来，殊恍惚，于是共疑为妖。母诘刘，刘亦微道其异。母大惧，戒使绝之，刘不听。母阴觅术士来，作法于庭。方规地为坛，女惨然曰：“本期白首，今老母见疑，分义绝矣。要我去亦复非难，但恐非禁咒可遣耳！”乃束薪爇火，抛阶下。瞬息烟蔽房屋，对面相失。忽有声震如雷，已而烟灭，见术士七窍流血死矣。入室，女已渺。呼妪问之，妪亦不知所去。刘始告母：“妪盖狐也。”异史氏曰：“始于袁，终于曹，而后注意于公干，仙人不应若是。然平心而论：奸瞒之篡子，何必有贞妇哉？犬睹故妓，应大悟分香卖履之痴，固犹然妒之耶？呜呼！奸雄不暇自哀，而后人哀之已！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11682.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11684.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·始诛_古诗文网
+</title>
+<meta content="孔子為魯司寇，攝行相事，有喜色．仲由問曰：「由聞君子禍至不懼，福至不喜，今夫子得位而喜，何也？」孔子曰：「然，有是言也．不曰樂以貴下人乎？」於是朝政，七日而誅亂政大夫少正卯，戮之于" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4111.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2711" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>始诛</b></span>
+<a href="javascript:PlayBookv(4111)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4111" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2711)" id="leftbtn2711" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4111" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　孔子為魯司寇，攝行相事，有喜色．仲由問曰：「由聞君子禍至不懼，福至不喜，今夫子得位而喜，何也？」孔子曰：「然，有是言也．不曰樂以貴下人乎？」於是朝政，七日而誅亂政大夫少正卯，戮之于兩觀之下，尸於朝．三日，子貢進曰：「夫少正卯，魯之聞人也，今夫子為政，而始誅之，或者為失乎？」孔子曰：「居，吾語汝以其故．天下有大惡者五，而竊盜不與焉．一曰心逆而險，二曰行僻而堅，三曰言偽而辯，四曰記醜而博，五曰順非而澤，此五者有一於人，則不免君子之誅，而少正卯皆兼有之．其居處足以撮徒成黨，其談說足以飾褒榮眾，其強禦足以反是獨立，此乃人之姦雄者也，不可以不除．夫殷湯誅尹諧、文王誅潘正、周公誅管蔡、太公誅華士、管仲誅付乙、子產誅史何，是此七子，皆異世而同誅者，以七子異世而同惡，故不可赦也．詩云：『憂心悄悄，慍于群小，小人成群，斯足憂矣．』」</p>
+<p>　　孔子為魯大司寇，有父子訟者，夫子同狴執之，三月不別，其父請止．夫子赦之焉．季孫聞之，不悅曰：「司寇欺余，曩告余曰，國家必先以孝，余今戮一不孝以教民孝，不亦可乎？而又赦，何哉？」冉有以告孔子，子喟然歎曰：「嗚呼！上失其道，而殺其下，非理也．不教以孝，而聽其獄，是殺不辜．三軍大敗，不可斬也．獄犴不治，不可刑也．何者？上教之不行，罪不在民故也．夫慢令謹誅，賊也．徵斂無時，暴也．不試責成，虐也．政無此三者，然後刑可即也．書云：『義刑義殺勿庸，以即汝心，惟曰未有慎事，言必教而後刑也．』既陳道德以先服之，而猶不可，尚賢以勸之，又不可，即廢之，又不可，而後以威憚之，若是三年，而百姓正矣．其有邪民不從化者，然後待之以刑，則民咸知罪矣．詩云：『天子是毗，俾民不迷．』是以威厲而不試，刑錯而不用．今世則不然，亂其教，繁其刑，使民迷惑而陷焉，又從而制之，故刑彌繁，而盜不勝也．夫三尺之限，空車不能登者，何哉？峻故也．百仞之山，重載陟焉，何哉？陵遲故也．今世俗之陵遲久矣，雖有刑法，民能勿踰乎？」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4110.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4112.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2711" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

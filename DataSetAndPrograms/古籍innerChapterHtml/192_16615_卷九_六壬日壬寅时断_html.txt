@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷九·六壬日壬寅时断_古诗文网
+</title>
+<meta content="六壬日生时壬寅，水火相逢既济论；水木月通财禄贵，不通无救是常人。壬日壬寅时，水火既济。壬用丙为财，甲为食，寅上丙生甲旺，壬水无气，若通水局，有倚托，皆贵，不通无救，福薄。壬寅日健旺" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16615.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·六壬日壬寅时断</b></span>
+<a href="javascript:PlayBookv(16615)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16615" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16615" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　六壬日生时壬寅，水火相逢既济论；</p>
+<p>　　水木月通财禄贵，不通无救是常人。</p>
+<p>　　壬日壬寅时，水火既济。壬用丙为财，甲为食，寅上丙生甲旺，壬水无气，若通水局，有倚托，皆贵，不通无救，福薄。壬寅日健旺，主大富，如不通月气，亦贵。</p>
+<p>　　壬子日壬寅时，纯子，年月无午冲破，入飞天格，富贵。寅卯巳申酉戌亥年月，俱贵。</p>
+<p>　　壬寅日壬寅时，壬趋艮格，土厚地方，山明水秀，腰金衣紫。巳亥年月，武职三品，富厚纯笃。寅年午月，行北运，金紫。巳月，行西北运，贵。辰戌丑未，亦吉。纯寅尤吉。一云中年贵，五十后大厄。</p>
+<p>　　壬辰日壬寅时，纯辰，壬骑龙背格，干头无丙丁戊己，运行比肩，大贵。纯寅大富。卯戌月，木金运，三五品贵。午月，平常。</p>
+<p>　　壬午日壬寅时，少年多疾厄。壬午，禄马同乡。辰寅年月，二品贵。申酉，高尚，若通木火，才名冠世，贵。戌月，行东南运，方面极品。</p>
+<p>　　壬申日壬寅时，巳酉丑月，武职三品。辛卯、戌月，亦贵。子寅，大贵。一云贫而发，亦不久。</p>
+<p>　　壬戌日壬寅时，巳月，偏官格，名标金榜，身坐玉堂。纯子，三品，寅卯，行北运，风宪。又，六壬日见壬寅时，名白太虚贵，不久，盛而祸生。</p>
+<p>　　六壬逢虎是浮沤，富贵功名莫强求；</p>
+<p>　　有印有官为上格，骤然财禄免忧愁。</p>
+<p>　　壬日壬寅时遇，比肩相遇食神，弟兄雁侣少同群，此是生时定分。</p>
+<p>　　坐局运行官地，身强禄位超伦，身衰刑害祸相侵，衣禄平常之命。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16614.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16616.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+世说新语·伤逝_古诗文网
+</title>
+<meta content="王仲宣好驴鸣。既葬，文帝临其丧，顾语同游曰：“王好驴鸣，可各作一声以送之。”赴客皆一作驴鸣。王浚冲为尚书令，著公服，乘轺车，经黄公酒垆下过，顾谓后车客：“吾昔与嵇叔夜、阮嗣宗共酣饮" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2762.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1574" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>伤逝</b></span>
+<a href="javascript:PlayBookv(2762)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2762" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1574)" id="leftbtn1574" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2762" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e4%b9%89%e5%ba%86">刘义庆</a></p>
+<div class="contson">
+<p>　　王仲宣好驴鸣。既葬，文帝临其丧，顾语同游曰：“王好驴鸣，可各作一声以送之。”赴客皆一作驴鸣。</p>
+<p>　　王浚冲为尚书令，著公服，乘轺车，经黄公酒垆下过，顾谓后车客：“吾昔与嵇叔夜、阮嗣宗共酣饮于此垆，竹林之游，亦预其末。自嵇生夭、阮公亡以来，便为时所羁绁。今日视此虽近，邈若山河。”</p>
+<p>　　孙子荆以有才，少所推服，唯雅敬王武子。武子丧时，名士无不至者。子荆后来，临尸恸哭，宾客莫不垂涕。哭毕，向灵床曰：“卿常好我作驴鸣，今我为卿作。”体似真声，宾客皆笑。孙举头曰：“使君辈存，令此人死！”</p>
+<p>　　王戎丧儿万子，山简往省之，王悲不自胜。简曰：“孩抱中物，何至于此？”王曰：“圣人忘情，最下不及情；情之所钟，正在我辈。”简服其言，更为之恸。</p>
+<p>　　有人哭和长舆曰：“峨峨若千丈松崩。”</p>
+<p>　　卫洗马以永嘉六年丧，谢鲲哭之，感动路人。咸和中，丞相王公教曰：“卫洗马当改葬。此君风流名士，海内所瞻，可脩薄祭，以敦旧好。”</p>
+<p>　　顾彦先平生好琴，及丧，家人常以琴置灵床上。张季鹰往哭之，不胜其恸，遂径上床，鼓琴，作数曲竟，抚琴曰：“顾彦先颇复赏此不？”因又大恸，遂不执孝子手而出。</p>
+<p>　　庾亮儿遭苏峻难遇害。诸葛道明女为庾儿妇，既寡，将改适，与亮书及之。亮答曰：“贤女尚少，故其宜也。感念亡儿，若在初没。”</p>
+<p>　　庾文康亡，何扬州临葬云：“埋玉树箸土中，使人情何能已已！”</p>
+<p>　　王长史病笃，寝卧镫下，转麈尾视之，叹曰：“如此人，曾不得四十！”及亡，刘尹临殡，以犀柄麈尾箸柩中，因恸绝。</p>
+<p>　　支道林丧法虔之后，精神霣丧，风味转坠。常谓人曰：“昔匠石废斤于郢人，牙生辍弦于钟子，推己外求，良不虚也！冥契既逝，发言莫赏，中心蕴结，余其亡矣！”却后一年，支遂殒。</p>
+<p>　　郗嘉宾丧，左右白郗公“郎丧”，既闻，不悲，因语左右：“殡时可道。”公往临殡，一恸几绝。</p>
+<p>　　戴公见林法师墓，曰：“德音未远，而拱木已积。冀神理绵绵常，不与气运俱尽耳！”</p>
+<p>　　王子敬与羊绥善。绥清淳简贵，为中书郎，少亡。王深相痛悼，语东亭云：“是国家可惜人！”</p>
+<p>　　王东亭与谢公交恶。王在东闻谢丧，便出都诣子敬道：“欲哭谢公。”子敬始卧，闻其言，便惊起曰：“所望于法护。”王于是往哭。督帅刁约不听前，曰：“官平生在时，不见此客。”王亦不与语，直前，哭甚恸，不执末婢手而退。</p>
+<p>　　王子猷、子敬俱病笃，而子敬先亡。子猷问左右：“何以都不闻消息？此已丧矣！”语时了不悲。便索舆来奔丧，都不哭。子敬素好琴，便径入坐灵床上，取子敬琴弹，弦既不调，掷地云：“子敬！子敬！人琴俱亡。”因恸绝良久，月余亦卒。</p>
+<p>　　孝武山陵夕，王孝伯入临，告其诸弟曰：“虽榱桷惟新，便自有黍离之哀！”</p>
+<p>　　羊孚年三十一卒，桓玄与羊欣书曰：“贤从情所信寄，暴疾而殒，祝予之叹，如何可言！”</p>
+<p>　　桓玄当篡位，语卞鞠云：“昔羊子道恒禁吾此意。今腹心丧羊孚，爪牙失索元，而匆匆作此诋突，讵允天心？” </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2761.aspx">上一章</a>
+<a href="/guwen/book_18.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2763.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1574" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

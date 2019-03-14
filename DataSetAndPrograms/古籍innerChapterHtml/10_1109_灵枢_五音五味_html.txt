@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·五音五味_古诗文网
+</title>
+<meta content="右征与少征，调右手太阳上，左商与左征，调左手阳明上。少征与大宫，调左手阳明上，右角与大角，调右手少阳下。大征与少征，调左手太阳上，众羽与少羽，调右足太阳下，少商与右商调右手太阳下，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1109.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left933" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·五音五味</b></span>
+<a href="javascript:PlayBookv(1109)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1109" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(933)" id="leftbtn933" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1109" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　右征与少征，调右手太阳上，左商与左征，调左手阳明上。少征与大宫，调左手阳明上，右角与大角，调右手少阳下。大征与少征，调左手太阳上，众羽与少羽，调右足太阳下，少商与右商调右手太阳下，桎羽与众羽，调右足太阳下，少宫与大宫，调右足阳明下，判角与少角，调右足少阳下，釱商与上商，调右足阳明下，釱商与上角，调左足太阳下。</p>
+<p>　　上征与右征同榖麦、畜羊、果杏，手少阴藏心，色赤味苦，时夏。上羽与大羽，同榖大豆，畜牛，果栗，足少阴藏肾，色黑味咸，时冬上宫与大宫同谷稷，畜牛，果枣足太阴藏脾，色黄味甘时季夏，上商与右商同榖黍，畜鸡，果桃手太阴藏肺，色白味辛时秋。上角与大角同榖麻、畜犬、果李，足厥阴藏肝，色青味酸，时春。</p>
+<p>　　大宫与上角，同右足阳明上，左角与大角，同左足阳明上，少羽与大羽同右足太阳下，左商与右商，同左手阳明上，加宫与大宫同左足少阳上，质判与大宫，同左手太阳下，判角与大角同左足少阳下，大羽与大角，同右足太阳上，大角与大宫同右足少阳上，右征、少征、质征、上征、判征、右角、钛角、上角、大角、判角。右商、少商、钛商、上商、左商。少宫、上宫、大宫、加宫、左角宫。众羽、桎羽、上羽、大羽、少羽。</p>
+<p>　　黄帝曰：妇人无须者，无血气乎？歧伯曰：冲脉任脉皆起于胞中，上循背里，为经络之海，其浮而外者，循腹右上行，会于咽喉，别而络唇口，血气盛则充肤热肉，血独盛者澹渗皮肤，生毫毛。今妇人之生有余于气，不足于血以其数脱血也，冲任之脉，不荣口唇，故须不生焉。</p>
+<p>　　黄帝曰：士人有伤于阴，阴气绝而不起，阴不用，然其须不去，其故，何也？宦者独去何也？愿闻其故。歧伯曰：宦者去其宗筋，伤其冲脉，血泻不复，皮肤内结，唇口内荣故须不生。</p>
+<p>　　黄帝曰：其有天宦者，未尝被伤，不脱于血，然其须不生其故何也？歧伯曰：此天之所不足也，其任冲不盛、宗筋不成，有气无血，唇口不荣，故须不生。</p>
+<p>　　黄帝曰：善乎哉！圣人之通万物也，若日月之光影，音声鼓响，闻其声而知其形，其非夫子，孰能明万物之精。是故圣人，视其颜色黄赤者，多热气，青白者少热气，黑色者多血少气，美眉者，太阳多血；通髯极须者，少阳多血，美须者阳明多血，此其时然也。夫人之常数，太阳常多血少气，少阳常多气少血，阳明常多血多气，厥阴常多气少血，少阴常多血少气，太阴常多血少气，此天之常数也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1108.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1110.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right933" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

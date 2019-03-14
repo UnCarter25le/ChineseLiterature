@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·诸论·论治病略例第三_古诗文网
+</title>
+<meta content="夫天布五行以植万类，人禀五常以为五脏，经络腑输，阴阳会通，玄冥幽微，变化难极。《易》曰∶非天下之至赜，其孰能与于此？观今之医，不念思求经旨，以演其所知，各承家技，始终循旧，省病问疾" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12642.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>诸论·论治病略例第三</b></span>
+<a href="javascript:PlayBookv(12642)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12642" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12642" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　夫天布五行以植万类，人禀五常以为五脏，经络腑输，阴阳会通，玄冥幽微，变化难极。</p>
+<p>　　《易》曰∶非天下之至赜，其孰能与于此？观今之医，不念思求经旨，以演其所知，各承家技，始终循旧，省病问疾，务在口给。相对斯须，便处汤药，按寸不及尺，握手不及足，人迎趺阳，三部不参，动数发息，不满五十，短期未知决诊，九候曾无仿佛，明堂阙庭，尽不见察，所谓窥管而已。夫欲视死别生，固亦难矣。此皆医之深戒，病者可不谨以察之，而自防虑也。</p>
+<p>　　古来医人，皆相嫉害。扁鹊为秦太医令李酰所害，即其事也。一医处方，不得使别医和合，脱或私加毒药，令人增疾，渐以致困。如此者非一，特须慎之，宁可不服其药，以任天真，不得使愚医相嫉，贼人性命，甚可哀伤。</p>
+<p>　　夫百病之本，有中风伤寒、寒热温疟、中恶霍乱、大腹水肿、肠 下痢、大小便不通、奔豚上气、咳逆呕吐、黄胆消渴、留饮癖食、坚积症瘕，惊邪癫痫、鬼疰、喉痹齿痛、耳聋目盲，金疮 折、痈肿恶疮、痔 瘤瘿，男子五劳七伤、虚乏羸瘦，女子带下崩中、血闭阴蚀，虫蛇蛊毒所伤，此皆大略宗兆，其间变动枝叶，各根据端绪以取之。又有冷热劳损，伤饱房劳，惊悸恐惧，忧恚怵惕，又有产乳落胎，堕下瘀血，又有贪饵五石，以求房中之乐。此皆病之根源，为患生诸枝叶也。不可不知其本末，但向医说，男女长幼之病，有半与病源相附会者，便可服药也。男子者，众阳所归，常居于燥。阳气游动，强力施泄，便成劳损。</p>
+<p>　　损伤之病，亦以众矣。若比之女人，则十倍易治。凡女子十四以上，则有月事。月事来日得风冷湿热、四时之病相协者，皆自说之。不尔与治误相触动，更增困也。处方者，亦应问之。</p>
+<p>　　凡用药皆随土地所宜，江南岭表，其地暑湿，其人肌肤薄脆，腠理开疏，用药轻省。关中河北，土地刚燥，其人皮肤坚硬，腠理闭塞，用药重复。</p>
+<p>　　世有少盛之人，不避风湿，触犯禁忌，暴竭精液，虽得微疾，皆不可轻以利药下之。一利大重，竭其精液，困滞着床，动经年月也。凡长宿病，宜服利汤，不须尽剂，候利之足则止。病源未除者，于后更合耳。稍有气力堪尽剂，则不论也。</p>
+<p>　　病源须服利汤取除者，服利汤后，宜将丸散时时助之。</p>
+<p>　　凡病服利汤得瘥者，此后慎不中服补汤也。若得补汤，病势还复成也，更重泻之，则其人重受弊也。若初瘥，气力未甚平复者，但消息之，须服药者，当以平药和之。夫常患之人，不妨行走，气力未衰，欲将补益。冷热随宜丸散者，可先服利汤，泻除胸腹中壅积痰实，然后可服补药也。夫极虚劳应服补汤者，不过三剂即止。若治风病应服治风汤者，皆非三五剂可知也。自有滞风洞虚，即服十数剂，乃至百余日可瘥也。故曰∶实则泻之，虚则补之。</p>
+<p>　　夫二仪之内，阴阳之中，唯人最贵。人者，禀受天地中和之气，法律礼乐，莫不由人。</p>
+<p>　　人始生，先成其精，精成而脑髓生。头圆法天，足方象地，眼目应日月，五脏法五星，六腑法六律，以心为中极。大肠长一丈二尺，以应十二时；小肠长二丈四尺，以应二十四气；身有三百六十五络，以应一岁；人有九窍，以应九州；天有寒暑，人有虚实；天有刑德，人有爱憎；天有阴阳，人有男女；月有大小，人有长短。所以服食五谷不能将节，冷热咸苦更相抵触，共为攻击，变成疾病。凡医诊候，固是不易，又问而知之，别病深浅，名曰巧医。仲景曰∶凡欲和汤合药，针灸之法，宜应精思，必通十二经脉，辨三百六十孔穴荣卫气行，知病所在，宜治之法，不可不通。古者上医相色，色脉与形不得相失，黑乘赤者死，赤乘青者生。中医听声，声合五音，火闻水声，烦闷干惊；木闻金声，恐畏相刑。脾者土也，生育万物，回助四旁，善者不见，死则归之，太过则四肢不举，不及则九窍不通，六识闭塞，犹如醉人。四季运转，周而复始。下医诊脉，知病源由，流转移动，四时逆顺，相害相生，审知脏腑之微，此乃为妙也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12641.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12643.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

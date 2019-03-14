@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十二·姬生_古诗文网
+</title>
+<meta content="南阳鄂氏患狐，金钱什物，辄被窃去。迕之祟益甚。鄂有甥姬生，名士不羁，焚香代为祷免，卒不应；又祝舍外祖使临己家，亦不应。众笑之，生曰：“彼能幻变，必有人心。我固将引之俾入正果。”数日" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11872.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十二·姬生</b></span>
+<a href="javascript:PlayBookv(11872)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11872" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11872" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　南阳鄂氏患狐，金钱什物，辄被窃去。迕之祟益甚。鄂有甥姬生，名士不羁，焚香代为祷免，卒不应；又祝舍外祖使临己家，亦不应。众笑之，生曰：“彼能幻变，必有人心。我固将引之俾入正果。”数日辄一往祝之。虽不见验，然生所至狐遂不扰，以故鄂常止生宿。生夜望空请见，邀益坚。一日生归，独坐斋中，忽房门缓缓自开。生起，致敬曰：“狐兄来耶？”殊寂无声。又一夜门自开，生曰：“倘是狐兄降临，固小生所祷祝而求者，何妨即赐光霁？”却又寂然。案头有钱二百，及明失之。生至夜增以数百。中宵闻布幄铿然，生曰：“来耶？敬具时铜数百备用。仆虽不充裕，然非鄙吝者。若缓急有需，无妨质言，何必盗窃？”少间视钱，脱去二百。生仍置故处，数夜不复失。有熟鸡，欲供客而失之。生至夕又益以酒，而狐从此绝迹矣。</p>
+<p>　　鄂家祟如故。生又往祝曰：“仆设钱而子不取，设酒而子不饮；我外祖衰迈，无为久祟之。仆备有不腆之物，夜当凭汝自取。”乃以钱十千、酒一樽，两鸡皆聂切，陈几上。生卧其旁，终夜无声，钱物如故。狐怪从此亦绝。生一日晚归，启斋门，见案上酒一壶，燂鸡盈盘；钱四百，以赤绳贯之，即前日所失物也。知狐之报。嗅酒而香，酌之色碧绿，饮之甚醇。壶尽半酣，觉心中贪念顿生，暮然欲作贼，便启户出。思村中一富室，遂往越其墙。墙虽高，一跃上下，如有翅翎。入其斋，窃取貂裘、金鼎而出，归置床头，始就枕眠。</p>
+<p>　　天明携入内室，妻惊问之，生嗫嚅而告，有喜色。妻骇曰：“君素刚直，何忽作贼！”生恬然不为怪，因述狐之有情。妻恍然悟曰：“是必酒中之狐毒也。”因念丹砂可以却邪，遂研入酒，饮生，少顷，生忽失声曰：“我奈何做贼！”妻代解其故，爽然自失。又闻富室被盗，噪传里党。生终日不食，莫知所处。妻为之谋，使乘夜抛其墙内。生从之。富室复得故物，事亦遂寝。</p>
+<p>　　生岁试冠军，又举行优，应受倍赏。及发落之期，道署梁上粘一帖云：“姬某作贼，偷某家裘、鼎，何为行优？”梁最高，非跋足可粘。文宗疑之，执帖问生。生愕然，思此事除妻外无知者；况署中深密，何由而至？因悟曰：“此必狐之为也。”遂缅述无讳，文宗赏礼有加焉。生每自念无取罪于狐，所以屡陷之者，亦小人之耻独为小人耳。</p>
+<p>　　异史氏曰：“生欲引邪入正，而反为邪惑。狐意未必大恶，或生以谐引之，狐亦以戏弄之耳。然非身有夙根，室有贤助，几何不如原涉所云，家人寡妇，一为盗污遂行淫哉！吁！可惧也！”</p>
+<p>　　吴木欣云：“康熙甲戌，一乡科令浙中，点稽囚犯，有窃盗已刺字讫，例应逐释。令嫌‘窃’字减笔从俗，非官板正字，使刮去之；候创平，依字汇中点画形象另刺之。盗口占一绝云：‘手把菱花仔细看，淋漓鲜血旧痕斑。早知面上重为苦，窃物先防识字官。’禁卒笑之曰：“诗人不求功名，而乃为盗？’盗又口占答之云：‘少年学道志功名，只为家贫误一生。冀得资财权子母，囊游燕市博恩荣。’”即此观之，秀才为盗，亦仕进之志也。狐授姬生以进取之资，而返悔为所误，迂哉！一笑。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11871.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11873.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

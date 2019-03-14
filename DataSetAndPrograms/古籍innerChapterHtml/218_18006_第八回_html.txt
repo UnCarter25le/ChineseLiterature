@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西汉演义·第八回_古诗文网
+</title>
+<meta content="张良使力士击车却说此人乃韩国人，姓张名良，字子房，五世相韩。因始皇灭了韩国，一向怀恨在心，只要与本主报仇，用千金结交天下壮士，欲杀始皇。因来到村中，遇见这几个乡老，不觉说出这几句言" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18006.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第八回</b></span>
+<a href="javascript:PlayBookv(18006)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18006" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18006" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%94%84%e4%bc%9f">甄伟</a></p>
+<div class="contson">
+<p>　　<strong>张良使力士击车</strong></p>
+<p>　　却说此人乃韩国人，姓张名良，字子房，五世相韩。因始皇灭了韩国，一向怀恨在心，只要与本主报仇，用千金结交天下壮士，欲杀始皇。因来到村中，遇见这几个乡老，不觉说出这几句言语来，众人都走了。从店后有一壮士出来，张良见那人，身高一丈，相貌堂堂，向良长揖便曰：“贤公适言始皇无道，想要为天下除此暴秦，如有用我之处，自当与公出力。”良曰：“此处不可说话，便请壮士到某家求教。”壮士同良到家，分宾主坐定。良便问壮士姓名，其人曰：“某姓黎，住居海边，人称某为沧海公。颇有膂力，使一百斤铁枪，单管天下不平事。适见公器宇不凡，语言出众，必是奇特之士，故敢剖露肝胆。愿闻姓名，有何指教？”良曰：“某韩国人，姓张名良，五世相韩。今韩被始皇所灭，愿破千金求士，未得其人。今遇壮士，大遂吾愿，况今始皇无道，天下切齿，公若奋力，诛灭此无道，与六国报仇，天下仰德，青史标名，万世不朽也。”壮士曰：“谨遵公教，决不食言。”良遂留壮士在家，打听始皇东巡，何处经过。</p>
+<p>　　后数日，良出探问，得知始皇从阳武县过来。良却令壮士在高阜处悬望，见始皇车驾，将行之三里远，正行到博浪沙地方。壮士只见黄罗伞盖之下，想是始皇，即大步奔走向前，用力举鎚，将车驾打得粉碎，原来始皇恐人暗算，常有副车在前，壮士不知，误中副车，早有护驾御林军将壮士捉住，始皇追问：“谁人主使？”壮士切齿瞑目，大骂曰：“吾为天下诛汝无道，岂有人使之耶？”子房见事不成，暗暗叫苦，即于人丛中走脱，始皇又令赵高勘问，壮士不肯招出何人主使，乃撞柱而死。始皇却令天下大索主使之人，十日不获。子房遂逃难于下邳友人项伯家隐藏。项伯乃楚将项燕之后也，与良交甚厚，遂留居住不疑。</p>
+<p>　　良因偶出城外圮桥边闲立，忽见一老人，身着黄衣过桥下，偶将履溺于泥中，不能出，遂呼良曰：“孺子可将吾履取出！”良见老人仙风道骨，与寻常人不同，急向泥中取履，跪而进之，极其恭谨，老人行不数步，又将履溺于泥中，又令张良去取，良略无异色，又取跪进之。如此者三次。老人曰：“此子可教。”遂指桥边大树曰：“汝于后五日，早往此处等我，我与汝一物，不可违也！”至五日，子房早起到树边，见老人坐于树下，老人曰：“孺子与长者约，何来太迟耶？汝且退，后五日当早来！”子房至后五日，五更时复来，又见老人先坐于树下相等，怒言曰：“孺子何懒惰如此？且退，后五日当早来！”子房至第五日，先夜不寝，即来树下等候，不时老人忽然就到，子房一见，俯伏拜迎。月明之下，见那老人时，比前更精彩，道袍竹杖，皮冠草履，飘然而来，真神仙也。子房跪而言曰：“愿领教。”老人曰：“汝年富力强，勤心就学，他日贵显，当为帝王之师。幸今相遇，千载难逢，授汝秘书三卷，奇谋神算，虽孙、吴不能及也，功成身退，虽连、蠡不能过。汝留为韩报仇，扶立真主，名垂万世，与日月争光，不可负也！”子房向老人前跪而恳告曰：“愿求大名。”老人曰：“你记着，后十三年，大谷城东葬一国君空地内得黄石一片，即我也。”言讫飘然而去。子房藏书，回到伯家，开卷看时，名曰《素书》。暗读默记，自觉心胸开豁，识见精明，与前迥然不同也，</p>
+<p>　　不说张良在项伯家隐藏。却说始皇东巡来到徐州，风景不同，民俗自别，桑麻绣野，禾黍铺田。百姓来献嘉禾，一茎三穗。始皇大喜，赏了百姓，复往东南到沛县，又见旺气，想此地必有异人，分付细加访问，倘或有人，即当杀之，以绝后患。李斯曰：“云气出没偶然耳，何劳陛下忧心！如若差人访察，恐骚动百姓，反生他患。”始皇曰：“卿言是也。”遂命驾起行，来到会稽城中。见十字街人丛中，走出一少年壮士来，要刺杀始皇。不知性命如何？且看下回分解。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18005.aspx">上一章</a>
+<a href="/guwen/book_218.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18007.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

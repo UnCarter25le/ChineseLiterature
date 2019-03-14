@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+六韬·文韬·上贤_古诗文网
+</title>
+<meta content="文王问太公曰：“王人者，何上，何下，何取，何去，何禁，何止？”　太公曰：“王人者，上贤，下不肖，取诚信，去诈伪，禁暴乱，止奢侈。故王人者，有六贼七害。”　文王曰：“愿闻其道。”　太" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4966.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3136" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>文韬·上贤</b></span>
+<a href="javascript:PlayBookv(4966)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4966" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3136)" id="leftbtn3136" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4966" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%a7%9c%e5%ad%90%e7%89%99">姜子牙</a></p>
+<div class="contson">
+<p>　　文王问太公曰：“王人者，何上，何下，何取，何去，何禁，何止？”　</p>
+<p>　　太公曰：“王人者，上贤，下不肖，取诚信，去诈伪，禁暴乱，止奢侈。故王人者，有六贼七害。”　</p>
+<p>　　文王曰：“愿闻其道。”　</p>
+<p>　　太公曰：“夫六贼者：一曰，臣有大作宫室池榭，游观倡乐者，伤王之德。二曰，民有不事农桑，任气游侠，犯历法禁，不从吏教者，伤王之化。三曰，臣有结朋党，蔽贤智，障主明者，伤王之权。四曰，士有抗志高节，以为气势，外交诸侯，不重其主者，伤王之威。五曰，臣有轻爵位，贱有司，羞为上犯难者，伤功臣之劳。六曰，强宗侵夺，凌侮贫弱者，伤庶人之业。　</p>
+<p>　　“七害者：一曰，无智略权谋，而以重赏尊爵之故，强勇轻战，侥幸于外，王者慎勿使为将。二曰，有名无实，出入异言，掩善扬恶，进退为巧，王者慎勿与谋。三曰，朴其身躬，恶其衣服，语无为以求名，言无欲以求利，此伪人也，王者慎勿近。四曰，奇其冠带，伟其衣服，博闻辩辞，虚论高议，以为容美，穷居静处，而诽时俗，此奸人也，王者慎勿宠。五曰，谗佞苟得，以求官爵，果敢轻死，以贪禄秩，不图大事，得利而动，以高谈虚论，说于人主，王者慎勿使。六曰，为雕文刻镂，技巧华饰，而伤农事，王者必禁之。七曰，伪方异技，巫蛊左道，不祥之言，幻惑良民，王者必止之。　</p>
+<p>　　“故民不尽力，非吾民也；士不诚信，非吾士也；臣不忠谏，非吾臣也；吏不平洁爱人，非吾吏也；相不能富国强兵，调和阴阳，以安万乘之主，正群臣，定名实，明赏罚，乐万民，非吾相也。夫王者之道如龙首，高居而远望，深视而审听。示其形，隐其情，若天之高不可极也，若渊之深不可测也。故可怒而不怒，奸臣乃作；可杀而不杀，大贼乃发。兵势不行，敌国乃强。”　</p>
+<p>　　文王曰：“善哉。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4965.aspx">上一章</a>
+<a href="/guwen/book_56.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4967.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3136" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

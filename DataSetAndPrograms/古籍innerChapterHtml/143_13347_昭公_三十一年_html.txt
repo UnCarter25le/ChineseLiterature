@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+公羊传·昭公·三十一年_古诗文网
+</title>
+<meta content="一、三十有一年。春王正月，公在干侯。二、季孙隐如会晋荀栎于适历。三、夏四月丁巳，薛伯谷卒。四、晋侯使荀栎唁公于干侯。五、秋，葬薛献公。六、冬，黑弓以滥来奔。文何以无邾娄？通滥也。曷" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13347.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>昭公·三十一年</b></span>
+<a href="javascript:PlayBookv(13347)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13347" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13347" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%85%ac%e7%be%8a%e9%ab%98">公羊高</a></p>
+<div class="contson">
+<p>　　一、三十有一年。春王正月，公在干侯。</p>
+<p>　　二、季孙隐如会晋荀栎于适历。</p>
+<p>　　三、夏四月丁巳，薛伯谷卒。</p>
+<p>　　四、晋侯使荀栎唁公于干侯。</p>
+<p>　　五、秋，葬薛献公。</p>
+<p>　　六、冬，黑弓以滥来奔。</p>
+<p>　　文何以无邾娄？通滥也。曷为通滥？贤者子孙宜有地也。贤者孰谓？谓叔术也。何贤乎叔术？让国也。其让国奈何？当邾娄颜之时，邾娄女有为鲁夫人者，则未知其为武公与？懿公与？孝公幼，颜淫九公子于宫中，因以纳贼，则未知其为鲁公子与？邾娄公子与？臧氏之母，养公者也。君幼则宜有养者，大夫之妾，士之妻，则未知臧氏之母者曷为者也？养公者必以其子入养。臧氏之母闻有贼，以其子易公，抱公以逃。贼至，凑公寝而弒之。臣有鲍广父与梁买子者闻有贼，趋而至。臧氏之母曰：“公不死也，在是，吾以吾子易公矣。”于是负孝公之周诉天子，天子为之诛颜而立叔术，反孝公于鲁。颜夫人者，妪盈女也，国色也，其言曰：“有能为我杀杀颜者，吾为其妻。”叔术为之杀杀颜者，而以为妻，有子焉，谓之盱。夏父者，其所为有于颜者也。盱幼而皆爱之，食必坐二子于其侧而食之，有珍怪之食，盱必先取足焉。夏父曰：“以来，人未足而盱有余。”叔术觉焉，曰：“嘻！此诚尔国也夫！”起而致国于夏父，夏父受而中分之，叔术曰：“不可！”三分之，叔术曰：“不可！”四分之，叔术曰：“不可！”五分之，然后受之。公扈子者，邾娄之父兄也，习乎邾娄之故，其言曰：“恶有言人之国贤若此者乎！”诛颜之时，天子死，叔术起而致国于夏父。当此之时，邾娄人常被兵于周，曰：“何故死吾天子？”通滥则文何以无邾娄？天下未有滥也。天下未有滥，则其言以滥来奔何？叔术者，贤大夫也，绝之则为叔术不欲绝，不绝则世大夫也。大夫之义不得世，故于是推而通之也。</p>
+<p>　　七、十有二月辛亥朔，日有食之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13346.aspx">上一章</a>
+<a href="/guwen/book_143.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13348.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

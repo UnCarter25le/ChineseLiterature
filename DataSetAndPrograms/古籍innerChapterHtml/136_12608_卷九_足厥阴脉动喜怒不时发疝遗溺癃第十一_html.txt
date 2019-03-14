@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷九·足厥阴脉动喜怒不时发疝遗溺癃第十一_古诗文网
+</title>
+<meta content="黄帝问曰∶刺节言去衣者，刺关节之支络，愿闻其详。岐伯对曰∶腰脊者人之关节，股 者人之趋翔，茎睾者身中之机，阴津之候，津液之道路也。故饮食不节，喜怒不时，津液内流而下溢于睾，水道不通" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12608.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·足厥阴脉动喜怒不时发疝遗溺癃第十一</b></span>
+<a href="javascript:PlayBookv(12608)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12608" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12608" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　黄帝问曰∶刺节言去衣者，刺关节之支络，愿闻其详。岐伯对曰∶腰脊者人之关节，股 者人之趋翔，茎睾者身中之机，阴津之候，津液之道路也。故饮食不节，喜怒不时，津液内流而下溢于睾，水道不通，炅不休息，俯仰不便，趋翔不能，荣然有水，不上不下， 石所取，形不可匿，裳不可蔽，名曰去衣。曰∶有癃者一日数十溲，此不足也。身热如炭，颈膺如格，人迎躁盛，喘息气逆，此有余也（《素问》下有阳气大盛于外一句）。阴气不足，则太阴脉细如发者，此不足者也。其病安在？曰∶病在太阴，其盛在胃，颇在肺，病名曰厥，死不治。此得五有余，二不足。曰∶何谓五有余、二不足？曰∶所谓五有余者，病气之有余也；二不足者，亦病气之不足也。今外得五有余，内得二不足，此其不表不里，亦死证明矣。</p>
+<p>　　狐疝惊悸少气，巨阙主之。阴疝引睾，阴交主之，少腹痛，溺难，阴下纵，横骨主之。少腹疝，卧善惊，气海主之。暴疝，少腹大热，关元主之。阴疝气疝，天枢主之。 疝，大巨及地机、中 主之。阴疝痿，茎中痛，两丸骞，卧不可仰卧，刺气街主之。阴疝，冲门主之。男子阴疝，两丸上下，小腹痛，五枢主之。阴股内痛，气痈，狐疝走上下，引少腹痛，不可俯仰上下，商丘主之。狐疝，太冲主之。阴跳遗溺，小便难而痛，阴上下入腹中，寒疝阴挺出偏大肿，腹脐痛，腹中悒悒不乐，大敦主之。腹痛上抢心，心下满癃，茎中痛，怒 不欲视，泣出，长太息，行间主之。癫疝，阴暴痛（《千金》 疝阴暴痛，痿厥，身体不仁），中封主之。疝，癃，脐少腹引痛，腰中痛，中封主之。气痛癃，小便黄，气满塞，虚则遗溺，身时寒热，吐逆，溺难，腹满，石门主之。气癃疝阴急，股枢 内廉痛，交信主之。阴跳腰痛，实则挺长，寒热，挛，阴暴痛，遗溺，偏大，虚则暴痒气逆，肿睾卒疝，小便不利如癃状，数噫恐悸，气不足，腹中悒悒，少腹痛，嗌中有热，如有 肉状，如着欲出，背挛不可俯仰，蠡沟主之。丈夫疝，阴跳痛引纂中，不得溺，腹中支，胁下 满，闭癃，阴痿，后时泄，四肢不收，实则身疼痛，汗不出，目KT KT 然无所见，怒欲杀人，暴痛引髌，下节时有热气，筋挛膝痛不可屈伸，狂如新发，衄，不食，喘呼，少腹痛引噫，足厥痛，涌泉主之。癃疝，然谷主之。卒疝，少腹痛，照海主之，病在左取右，右取左，立已。疝，四肢淫泺，身闷，至阴主之。遗溺关门及神门、委中主之。胸满膨膨然，实则癃闭，腋下肿，虚则遗溺，脚急兢兢然，筋急痛，不得大小便，腰痛引腹不得俯仰，委阳主之。癃，中 主之。气癃溺黄（《千金》此四字前有寒热不节，肾病不可以俯仰），关元及阴陵泉主之。气癃，小窍中热，实则腹皮痛，虚则痒瘙，会阴主之。小肠有热，溺赤黄，中脘主之。溺黄，下廉主之。小便黄赤，完骨主之。小便黄，肠鸣相逐，上廉主之。劳瘅，小便赤难，前谷主之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12607.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12609.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

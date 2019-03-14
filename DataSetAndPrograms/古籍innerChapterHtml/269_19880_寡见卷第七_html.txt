@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+扬子法言·寡见卷第七_古诗文网
+</title>
+<meta content="吾寡见人之假者也。迩文之视，迩言之听，假则偭焉。或曰：“曷若兹之甚也？先王之道满门。”曰：“不得已也，得已则已矣。得已而不已者，寡哉！”好尽其心于圣人之道者，君子也。人亦有好尽其心" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19880.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>寡见卷第七</b></span>
+<a href="javascript:PlayBookv(19880)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19880" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19880" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%89%ac%e9%9b%84">扬雄</a></p>
+<div class="contson">
+<p>　　吾寡见人之假者也。迩文之视，迩言之听，假则偭焉。或曰：“曷若兹之甚也？先王之道满门。”曰：“不得已也，得已则已矣。得已而不已者，寡哉！”好尽其心于圣人之道者，君子也。人亦有好尽其心矣，未必圣人之道也。</p>
+<p>　　多闻见而识乎至道者，至识也。多闻见而识乎邪道者，迷识也。如贤人谋之，美也，诎人而从道。如小人谋之，不美也，诎道而从人。</p>
+<p>　　或问：“五经有辩乎？”曰：“惟五经为辩。说天者莫辩乎《易》，说事者莫辩乎《书》，说体者莫辩乎《礼》，说志者莫辩乎《诗》，说理者莫辩乎《春秋》。舍斯，辩亦小矣。”春木之芚兮，援我手之鹑兮。去之五百岁，其人若存兮。或曰：“譊々者天下皆说也，奚其存？”曰：“曼是为也，天下之亡圣也久矣。呱呱之子、各识其亲；譊々之学，各习其师。精而精之，是在其中矣！”或曰：“良玉不雕，美言不文，何谓也？”曰：“玉不雕，玙璠不作器。</p>
+<p>　　言不文，典谟不作经。”或问：“司马子长有言，曰五经不如《老子》之约也，当年不能极其变，终身不能究其业。”曰：“若是则周公惑，孔子贼。古者之学耕且养，三年通一。</p>
+<p>　　今之学也，非独为之华藻也，又从而绣其鞶帨，恶在其《老》不《老》也。”或曰：“学者之说可约邪？”曰：“可约解科。”或曰：“君子听声乎？”曰：“君子惟正之听；荒乎淫，拂乎正，沈而乐者，君子不听也。”或问：“侍君子以博乎？”曰：“侍坐则听言，有酒则观礼。焉事博乎？”或曰：“不有博弈者乎？”曰：“为之犹贤于已耳。侍君子者贤于已乎？君子不可得而侍也。侍君子，晦斯光，窒斯通，亡斯有，辱斯荣，败斯成。如之何贤于已也。”鹪明冲天，不在六翮乎？拔而傅尸鸠，其累矣夫。</p>
+<p>　　雷震乎天，风薄乎山，云徂乎方，雨流乎渊，其事矣乎？魏武侯与吴起浮于西河，宝河山之固。起曰：“在德不在固。”曰：“美哉言乎！使起之固兵每如斯，则太公何以加诸？”或问：“周宝九鼎，宝乎？”曰：“器宝也。器宝，待人而后宝。”齐桓、晋文以下，至于秦兼，其无观已。或曰：“秦无观，奚其兼？”曰：“所谓观，观德也。如观兵，开辟以来，未有秦也。”或问：“鲁用儒而削，何也？”曰：“鲁不用儒也。昔在姬公用于周而四海皇皇，奠枕于京。孔子用于鲁，齐人章章，归其侵疆。鲁不用真儒故也。如用真儒，无敌于天下，安得削？”灏灏之海，济，楼航之力也。航人无楫，如航何？或曰：“奔垒之车，沈流之航，可乎？”曰：“否。”或曰：“焉用智？”曰：“用智于未奔沈。大寒而后索衣裘，不亦晚乎？”乘国者，其如乘航乎？航安，则人斯安矣。</p>
+<p>　　惠以厚下，民忘其死。忠以卫上，君念其赏。自后者，人先之。自下者，人高之。诚哉，是言也！或曰：“弘羊榷利而国用足，盍榷诸？”曰：“譬诸父子，为其父而榷其子，纵利，如子何？卜式之云，不亦匡乎！”或曰：“因秦之法，清而行之，亦可以致平乎？”曰：“譬诸琴瑟郑、卫调，俾夔因之，亦不可以致萧韶矣。”或问：“处秦之世，抱周之书，益乎？”曰：“举世寒，貂狐不亦燠乎？”或曰：“炎之以火，沃之以汤，燠亦燠矣！”曰：“燠哉！燠哉！时亦有寒者矣。”非其时而望之，非其道而行之，亦不可以至矣。</p>
+<p>　　秦之有司，负秦之法度；秦之法度，负圣人之法度。秦弘违天地之道，而天地违秦亦弘矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19879.aspx">上一章</a>
+<a href="/guwen/book_269.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19881.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

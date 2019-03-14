@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷二·乾下坤上_古诗文网
+</title>
+<meta content="泰，小往大來，吉，亨。彖曰：泰，小往大來，吉，亨。則是天地交而萬物通也。上下交而其志同也。内陽而外隂，内健而外順，内君子而外小人，君子道長，小人道消也。易者，象也，神之用也。故泰象" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9399.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·乾下坤上</b></span>
+<a href="javascript:PlayBookv(9399)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9399" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9399" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　泰，小往大來，吉，亨。彖曰：泰，小往大來，吉，亨。則是天地交而萬物通也。上下交而其志同也。内陽而外隂，内健而外順，内君子而外小人，君子道長，小人道消也。</p>
+<p>　　易者，象也，神之用也。故泰象於天地交，而萬物生。上下交而人治成。陽内得時而隂外也。健發於内其道順行於外。親内君子，踈外小人，君子之長也。是以損削之道往，而豐大之道來，吉而通者也。</p>
+<p>　　象曰：天地交泰，后以財成天地之道。輔相天地之宜，以左右民。</p>
+<p>　　天地合其時以養物也，聖人興其財以豐人也。結網罟，作耒耜，能輔相天地之宜，成天地之道。因時而通利，而左右其民也。</p>
+<p>　　初九，拔茅茹，以其彚，征，吉。象曰：拔茅征吉，志在外也。</p>
+<p>　　拔茅而連出也，君子道長，上下交志，以其类，征吉。離内以之外，志求其成也。</p>
+<p>　　九二，包荒，用馮河，不遐遺，朋亡。得尚于中行。象曰：包荒得尚于中行，以光大也。</p>
+<p>　　乾降為泰，而得其中，能通天下之情，知天下之用，而不過其當也。朋黨何由興乎，志在其中，不失其治，應之而行，可謂光大已矣。</p>
+<p>　　九三，无平不陂，无往不復，艱貞，无咎。勿恤其孚，于食有福。象曰：无往不復，天地際也。</p>
+<p>　　乾下通而泰也，物不可終通，則天道復其上，地道歸其下矣。平陂則險矣，有往則復矣。君子見其交會，思其所終，慮患而艱守之，不失其正。則可无咎而全其吉，保食其福也。</p>
+<p>　　六四，翩翩，不富以其鄰，不戒以孚。象曰：翩翩，不富，皆失實也。不戒以孚，中心願也。</p>
+<p>　　物各歸本也，隂陽之情皆相求也。四所以下者，非顧其陽，自樂其歸，不賴陽之治也。與其衆同志，翩翩，輕舉不富鄰而自備不戒，約而自孚，皆乘中心之願而行也。</p>
+<p>　　六五，帝乙歸妹，以祉元吉。象曰：以祉元吉；中以行願也。</p>
+<p>　　隂居貴盛而委質於二，靜而無為，居貴有祉，理得於中。願心而行，非權之逼也。忘巳而與能，聖人之道也。故元吉矣。</p>
+<p>　　上六，城復于隍，勿用師，自邑告命，貞吝。象曰：城復于隍，其命亂也。</p>
+<p>　　塹隍以為城，取下以為上也。其終則復隍矣。下為上使者，通其志也。終不能通，命亂者也。以之用衆，衆不從也。以之告邑，命不行也。猶以為正也，終惜已矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9398.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9400.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孙膑兵法·十问_古诗文网
+</title>
+<meta content="兵问曰：交和而舍，粮食均足，人兵敌衡，客主两惧。敌人圆阵以胥，因以为固，击[ 之奈何？曰] ：击此者，三军之众分而为四五，或傅而佯北，而示之惧。彼见我惧，则遂分而不顾。因其乱毁其固" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4190.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2791" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>十问</b></span>
+<a href="javascript:PlayBookv(4190)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4190" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2791)" id="leftbtn2791" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4190" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e8%86%91">孙膑</a></p>
+<div class="contson">
+　　兵问曰：交和而舍，粮食均足，人兵敌衡，客主两惧。敌人圆阵以胥，因以为固，击[ 之奈何？曰] ：击此者，三军之众分而为四五，或傅而佯北，而示之惧。彼见我惧，则遂分而不顾。因其乱毁其固。驷鼓同举，五遂俱傅。五遂俱至，三军同利。此击圆之道也。交和而舍，敌富我贫，敌众我少，敌强我弱，其来有方，击之奈何？曰：击此者，□阵而□之，规而离之，合而佯北，杀将其后，勿令知之。此击方之道也。交和而舍，敌人既众以强，劲捷以刚，锐阵以胥，击之奈何？击此者，必三而离之，一者延而衡，二者[□□□□□] 恐而下惑，下上既乱，三军大北。此击锐之道也。交和而舍，敌既众以强，延阵以衡，我阵而待之，人少不能，击之奈何？击此者，必将三分我兵，练我死士，二者延阵张翼，一者材士练兵，期其中极。此杀将击衡之道也。交和而舍，我人兵则众，车骑则少，敌人十倍，击之奈何？击此者，当保险带隘，慎避广易。故易则利车，险则利徒。此击车之道也。交和而舍，我车骑则众，人兵则少，敌人十倍，击之奈何？击此者，慎避险阻，决而导之，抵诸易。敌虽十倍，便我车骑，三军可击。此击徒人之道也。交和而舍，粮食不属，人兵不足俧，绝根而攻，敌人十倍，击之奈何？曰：击此者，敌人既□而守阻，我..反而害其虚。此击争□之道也。交和而舍，敌将勇而难惧，兵强人众自固，三军之士皆勇而无虑，其将则威，其兵则武，而理强粮瞍，诸侯莫之或待。击之奈何？曰：击此者，告之不敢，示之不能，坐拙而待之，以骄其意，以惰其志，使敌弗识。因击其不□，攻其不御，压其骀，攻其疑。彼既贵既武，三军徙舍，前后不相睹，故中而击之，若有徒与。此击强众之道也。交和而舍，敌人保山而带阻，我远则不接，近则无所，击之奈何？击此者，彼敛阻移□□□□□则危之，攻其所必救，使离其固，以揆其虑，施伏设援，击其移庶。此击保固之道也。交和而舍，客主两阵，敌人形箕，计敌所愿，欲我陷覆，击之奈何？击此者，渴者不饮，饥者不良，三分用其二，期于中极，彼既□□，材士练兵，击其两翼，□彼□喜□□三军大北。此击箕之道也。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4189.aspx">上一章</a>
+<a href="/guwen/book_48.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4191.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2791" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

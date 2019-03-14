@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷一·论支干源流_古诗文网
+</title>
+<meta content="夫干犹木之干，强而为阳；支犹木之枝，弱而为阴。昔盘古氏明天地之道，达阴阳之变为三才。首君以天地既分之后，先有天而后有地，由是气化而人生焉，故天皇氏一姓十三人，继盘古氏以治，是曰天灵" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16336.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·论支干源流</b></span>
+<a href="javascript:PlayBookv(16336)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16336" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16336" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　夫干犹木之干，强而为阳；支犹木之枝，弱而为阴。昔盘古氏明天地之道，达阴阳之变为三才。首君以天地既分之后，先有天而后有地，由是气化而人生焉，故天皇氏一姓十三人，继盘古氏以治，是曰天灵淡泊，无为而俗自化，始制干支之名，以定岁之所在。其十干曰：于逢、旃蒙、柔兆、疆圉、着雍、屠维、上章、重光、玄、昭阳；十二支曰：困敦、赤奋若、摄提格、单于、执徐、大荒落、敦洋、协洽、滩、作噩、阉茂、大渊献。蔡邕独断曰：“干，干也。其名有十，亦曰十母，即今甲乙丙丁戊己庚辛壬癸是也；支，枝也。其名十有二，亦曰十二子，即今子丑寅卯辰已午未申酉戍亥是也。”谓之天皇氏者，取其天开于子之义也；谓之地皇氏者，取其地辟于丑之义也；谓之人皇氏者，取其人生于寅之义也。故干支之名在天皇时始制，而地皇氏则定三辰，道分昼夜，以三十日为一月，而干支始各有所配。人皇氏者，主不虚王，臣不虚贵，政教君臣所自起，饮食男女所自始，始得天地之气而有子母之分，于是干支始有所属焉。至于伏羲仰观象于天，俯观法于地，中观万物与人，始画八卦以通神明之德，以类万物之情，以作甲历而文字生焉。逮及黄帝授河图，见日月星辰之象，于是始有星官之书。命大尧探五行之情，占斗纲所建，于是始作甲子配五行纳音之属。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16335.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16337.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,166 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·六微旨大论_古诗文网
+</title>
+<meta content="黄帝问曰：呜呼！远哉，天之道也，如迎浮云，若视深渊，视深渊尚可测，迎浮云莫知其极。夫子数言谨奉天道，余闻而藏之，心私异之，不知其所谓也。愿夫子溢志尽言其事，令终不灭，久而不绝，天之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1031.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left852" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·六微旨大论</b></span>
+<a href="javascript:PlayBookv(1031)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1031" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(852)" id="leftbtn852" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1031" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问曰：呜呼！远哉，天之道也，如迎浮云，若视深渊，视深渊尚可测，迎浮云莫知其极。夫子数言谨奉天道，余闻而藏之，心私异之，不知其所谓也。愿夫子溢志尽言其事，令终不灭，久而不绝，天之道可得闻乎？</p>
+<p>　　岐伯稽首再拜对曰：明乎哉问，天之道也！此因天之序，盛衰之时也。</p>
+<p>　　帝曰：愿闻天道六六之节盛衰何也？</p>
+<p>　　岐伯曰：上下有位，左右有纪。故少阳之右，阳明治之；阳明之右，太阳治之；太阳之右，厥阴治之；厥阴之右，少阴治之；少阴之右，太阴治之；太阴之右，少阳治之。此所谓气之标，盖南面而待之也。故曰：因天之序，盛衰之时，移光定位，正立而待之，此之谓也。</p>
+<p>　　少阳之上，火气治之，中见厥阴；阳明之上，燥气治之，中见太阴；太阳之上，寒气治之，中见少阴；厥阴之上，风气治之，中见少阳；少阴之上，热气治之，中见太阳；太阴之上，湿气治之，中见阳明。所谓本也，本之下，中之见也，见之下，气之标也。本标不同，气应异象。</p>
+<p>　　帝曰：其有至而至，有至而不至，有至而太过，何也？</p>
+<p>　　岐伯曰：至而至者和；至而不至，来气不及也；未至而至，来气有余也。</p>
+<p>　　帝曰：至而不至，未至而至如何？</p>
+<p>　　岐伯曰：应则顺，否则逆，逆则变生，变则病。</p>
+<p>　　帝曰：善。请言其应。</p>
+<p>　　岐伯曰：物，生其应也。气，脉其应也。</p>
+<p>　　帝曰：善。愿闻地理之应六节气位何如？</p>
+<p>　　岐伯曰：显明之右，君火之位也；君火之右，退行一步，相火治之；复行一步，土气治之；复行一步，金气治之；复行一步，水气治之；复行一步，木气治之；复行一步，君火治之。</p>
+<p>　　相火之下，水气承之；水位之下，土气承之；土位之下，风气承之；风位之下，金气承之；金位之下，火气承之；君火之下，阴精承之。</p>
+<p>　　帝曰：何也？</p>
+<p>　　岐伯曰：亢则害，承乃制，制则生化，外列盛衰，害则败乱，生化大病。</p>
+<p>　　帝曰：盛衰何如？</p>
+<p>　　岐伯曰：非其位则邪，当其位则正，邪则变甚，正则微。</p>
+<p>　　帝曰：何谓当位？</p>
+<p>　　岐伯曰：木运临卯，火运临午，土运临四季，金运临酉，水运临子，所谓岁会，气之平也。</p>
+<p>　　帝曰：非位何如？</p>
+<p>　　岐伯曰：岁不与会也。</p>
+<p>　　帝曰：土运之岁，上见太阴；火运之岁，上见少阳少阴；金运之岁，上见阳明；木运之岁，上见厥阴；水运之岁，上见太阳，奈何？</p>
+<p>　　岐伯曰：天之与会也。故《天元册》曰天符。</p>
+<p>　　帝曰：天符岁会何如？</p>
+<p>　　岐伯曰：太一天符之会也。</p>
+<p>　　帝曰：其贵贱何如？</p>
+<p>　　岐伯曰：天符为执法，岁位为行令，太一天符为贵人。</p>
+<p>　　帝曰：邪之中也奈何？</p>
+<p>　　岐伯曰：中执法者，其病速而危；中行令者，其病徐而持；中贵人者，其病暴而死。</p>
+<p>　　帝曰：位之易也何如？</p>
+<p>　　岐伯曰：君位臣则顺，臣位君则逆，逆则其病近，其害速；顺则其病远，其害微。所谓二火也。</p>
+<p>　　帝曰：善。愿闻其步何如？</p>
+<p>　　岐伯曰：所谓步者，六十度而有奇，故二十四步积盈百刻而成日也。</p>
+<p>　　帝曰：六气应五行之变何如？</p>
+<p>　　岐伯曰：位有终始，气有初中，上下不同，求之亦异也。</p>
+<p>　　帝曰：求之奈何？</p>
+<p>　　岐伯曰：天气始于甲，地气始于子，子甲相合，命曰岁立，谨候其时，气可与期。</p>
+<p>　　帝曰：愿闻其岁，六气始终，早晏何如？</p>
+<p>　　岐伯曰：明乎哉问也！</p>
+<p>　　甲子之岁，初之气，天数始于水下一刻，终于八十七刻半；二之气始于八十七刻六分，终于七十五刻；三之气，始于七十六刻，终于六十二刻半；四之气，始于六十二刻六分，终于五十刻；五之气，始于五十一刻，终于三十七刻半；六之气，始于三十七刻六分，终于二十五刻。所谓初六，天之数也。</p>
+<p>　　乙丑岁，初之气，天数始于二十六刻，终于一十二刻半；二之气，始于一十二刻六分，终于水下百刻；三之气，始于一刻，终于八十七刻半；四之气，始于八十七刻六分，终于七十五刻；五之气，始于七十六刻，终于六十二刻半；六之气，始于六十二刻六分，终于五十刻。所谓六二，天之数也。 丙寅岁，初之气，天数始于五十一刻，终于三十七刻半；二之气，始于三十七刻六分，终于二十五刻；三之气，始于二十六刻，终于一十二刻半；四之气，始于一十二刻六分，终于水下百刻；五之气，始于一刻，终于八十七刻半；六之气，始于八十七刻六分，终于七十五刻。所谓六三，天之数也。</p>
+<p>　　丁卯岁，初之气，天数始于七十六刻，终于六十二刻半；二之气，始于六十二刻六分，终于五十刻；三之气，始于五十一刻，终于三十七刻半；四之气，始于三十七刻六分，终于二十五刻；五之气，始于二十六刻，终于一十二刻半；六之气，始于一十二刻六分，终于水下百刻。所谓六四，天之数也。次戊辰岁，初之气复始于一刻，常如是无已，周而复始。</p>
+<p>　　帝曰：愿闻其岁候何如？</p>
+<p>　　岐伯曰：悉乎哉问也！日行一周，天气始于一刻，日行再周，天气始于二十六刻，日行三周，天气始于五十一刻，日行四周，天气始于七十六刻，日行五周，天气复始于一刻，所谓一纪也。是故寅午戌岁气会同，卯未亥岁气会同，辰申子岁气会同，巳酉丑岁气会同，终而复始。</p>
+<p>　　帝曰：愿闻其用也。</p>
+<p>　　岐伯曰：言天者求之本，言地者求之位，言人者求之气交。</p>
+<p>　　帝曰：何谓气交？</p>
+<p>　　岐伯曰：上下之位，气交之中，人之居也。故曰：天枢之上，天气主之；天枢之下，地气主之；气交之分，人气从之，万物由之，此之谓也。</p>
+<p>　　帝曰：何谓初中？</p>
+<p>　　岐伯曰：初凡三十度而有奇，中气同法。</p>
+<p>　　帝曰：初中何也？</p>
+<p>　　岐伯曰：所以分天地也。</p>
+<p>　　帝曰：愿卒闻之。</p>
+<p>　　岐伯曰：初者地气也，中者天气也。</p>
+<p>　　帝曰：其升降何如？</p>
+<p>　　岐伯曰：气之升降，天地之更用也。</p>
+<p>　　帝曰：愿闻其用何如？</p>
+<p>　　岐伯曰：升已而降，降者谓天；降已而升，升者谓地。天气下降，气流于地；地气上升，气腾于天。故高下相召，升降相因，而变作矣。</p>
+<p>　　帝曰：善。寒湿相遘，燥热相临，风火相值，其有闻乎？</p>
+<p>　　岐伯曰：气有胜复，胜复之作，有德有化，有用有变，变则邪气居之。</p>
+<p>　　帝曰：何谓邪乎？</p>
+<p>　　岐伯曰：夫物之生从于化，物之极由乎变，变化之相薄，成败之所由也。故气有往复，用有迟速，四者之有，而化而变，风之来也。</p>
+<p>　　帝曰：迟速往复，风所由生，而化而变，故因盛衰之变耳。成败倚伏游乎中，何也？</p>
+<p>　　岐伯曰：成败倚伏生乎动，动而不已，则变作矣。</p>
+<p>　　帝曰：有期乎？</p>
+<p>　　岐伯曰：不生不化，静之期也。</p>
+<p>　　帝曰：不生化乎？</p>
+<p>　　岐伯曰：出入废则神机化灭，升降息则气立孤危。故非出入，则无以生长壮老已；非升降，则无以生长化收藏。是以升降出入，无器不有。故器者生化之宇，器散则分之，生化息矣。故无不出入，无不升降，化有小大，期有近远，四者之有而贵常守，反常则灾害至矣。故曰无形无患，此之谓也。</p>
+<p>　　帝曰：善。有不生不化乎？</p>
+<p>　　岐伯曰：悉乎哉问也！与道合同，惟真人也。</p>
+<p>　　帝曰：善。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1030.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1032.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right852" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

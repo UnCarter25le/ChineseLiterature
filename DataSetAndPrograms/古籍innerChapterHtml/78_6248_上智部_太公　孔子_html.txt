@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·上智部·太公　孔子_古诗文网
+</title>
+<meta content="【原文】太公望封于齐。齐有华士者，义不臣天子，不友诸侯，人称其贤。太公使人召之三，不至；命诛之。周公曰：“此人齐之高士，奈何诛之？”太公曰：“夫不臣天子，不友诸侯，望犹得臣而友之乎" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6248.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5205" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上智部·太公　孔子</b></span>
+<a href="javascript:PlayBookv(6248)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6248" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5205)" id="leftbtn5205" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6248" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　太公望封于齐。齐有华士者，义不臣天子，不友诸侯，人称其贤。太公使人召之三，不至；命诛之。周公曰：“此人齐之高士，奈何诛之？”太公曰：“夫不臣天子，不友诸侯，望犹得臣而友之乎？望不得臣而友之，是弃民也；召之三不至，是逆民也。而旌之以为教首，使一国效之，望谁与为君乎？”</p>
+<p>　　少正卯与孔子同时。孔子之门人三盈三虚。孔子为大司寇，戮之于两观之下。子贡进曰：“夫少正卯，鲁之闻人。夫子诛之，得无失乎？”孔子曰：“人有恶者五，而盗窃不与焉：一曰心达而险，二曰行僻而坚，三曰言伪而辩，四曰记丑而博，五曰顺非而泽。此五者，有一于此，则不免于君子之诛，而少正卯兼之。此小人之桀雄也，不可以不诛也。”</p>
+<p>　　〔评〕齐所以无惰民，所以终不为弱国。韩非《五蠹》之论本此。</p>
+<p>　　小人无过人之才，则不足以乱国。然使小人有才而肯受君子之驾驭，则又未尝无济于国，而君子亦必不概摈之矣。少正卯能煽惑孔门之弟子，直欲掩孔子而上之，可与同朝共事乎？孔子下狠手，不但为一时辩言乱政故，盖为后世以学术杀人者立防。</p>
+<p>　　华士虚名而无用，少正卯似大有用而实不可用。壬人佥士，凡明主能诛之；闻人高士，非大圣人不知其当诛也。唐萧瑀好奉佛，太宗令出家。玄宗开元六年，河南参军郑铣阳、丞郭仙舟投匦献诗。敕曰：“观其文理，乃崇道教，于时用不切事情，宜各从所好。”罢官度为道士。此等作用，亦与圣人暗合。如使佞佛者尽令出家，谄道者即为道士，则士大夫攻乎异端者息矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6247.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6249.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5205" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

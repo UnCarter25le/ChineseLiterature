@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+老老恒言·卷四·被_古诗文网
+</title>
+<meta content="被宜里面俱绸，毋用锦与缎，以其柔软不及也。装丝绵者，厚薄各一，随天时之宜，或厚或薄，以其一着体盖之；外多备装絮者数条，酌寒暖加于装绵者之上。絮取其匀薄，取其以渐可加，故必多备。《身" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18128.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·被</b></span>
+<a href="javascript:PlayBookv(18128)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18128" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18128" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%b9%e5%bb%b7%e6%a0%8b">曹廷栋</a></p>
+<div class="contson">
+<p>　　被宜里面俱绸，毋用锦与缎，以其柔软不及也。装丝绵者，厚薄各一，随天时之宜，或厚或薄，以其一着体盖之；外多备装絮者数条，酌寒暖加于装绵者之上。絮取其匀薄，取其以渐可加，故必多备。</p>
+<p>　　《身章撮要》曰：“大被曰衾，单被曰 。”老年独卧，着身盖者，被亦宜大，乃可摺如封套式，使暖气不散。此外酌寒暖渐加其上者，必狭尺余，两边勿摺，则宽平而身之转侧舒。有以单被衬其里，牵缠非所适，只于夏初需之。亦用狭者，夹被同。</p>
+<p>　　老年畏寒，有以皮制被，皮衣宜表毛于外，皮被宜着毛于体。面用绸，薄加絮，宽大可摺为妥。然较以丝绵装者，究之轻软勿及。</p>
+<p>　　被取暖气不漏，故必阔大，使两边可摺，但摺则卧处不得平匀，被内亦嫌逼窒。拟以两边缉合如筒，勿太窄，须酌就寝之便。且反侧宽舒，脚后兼缉合之，锡以名曰“茧子被”，谓如蚕茧之周密也。</p>
+<p>　　《岭南志异》曰：“邕州人选鹅腹之毳毛装被，质柔性冷，宜覆婴儿，兼辟惊痫。”愚谓如果性冷，老年亦有时宜之，特婴儿体属纯阳，利于常用。又《不自弃文》曰：“食鹅之肉，毛可遗也，峒民缝之以御腊。”柳子厚诗亦云：“鹅毛御腊缝山 。”然则性冷而兼能御腊，所谓暖不伤热，囊被之物，竟属尽美。《江右建昌志》：“产纸大而厚，揉软作被，细腻如茧，面里俱可用之，薄装以绵，已极温暖。”唐徐寅诗：“一床明月盖归梦，数尺白云笼冷眠。”明龚诩诗：“纸衾方幅六七尺，厚软轻温腻而白。霜天雪夜最相宜，不使寒侵独眠客。”可谓曲尽纸被之妙。龚诗云独眠，纸被正以独眠为宜。</p>
+<p>　　有摘玫瑰花囊被，去蒂晒干，先将丝瓜老存筋者，剪开捶软作片，约需数十；以线联络，花铺其上，纱制被囊之，密针行如麂眼方块式，乍凉时覆体最佳。玫瑰花能养血疏肺气，得微暖，香弥甚；丝瓜性清寒，可解热毒。二物本不甚贵，寻常犹属能办。</p>
+<p>　　冬月子后霜落时，被口每觉加冷，东坡诗，所谓“重衾脚冷知霜重”也。另以薄棉被兜住脚后，斜引被角，置诸枕旁。觉冷时，但伸一手牵被角而直之，即可盖暖。凡春秋天气，夜半后俱觉稍凉，以夹被置床内，趁意加体，亦所以顺天时。《诗· 大杜》篇，疏云：从旦积暖，故日中之后必热；从昏积凉，故夜半之后必凉。</p>
+<p>　　《记·王制》曰：“八十非人不暖。”《本草》曰：“老人与二七以前少阴同寝。藉其熏蒸，最为有益。”少陵诗：“暖老须燕玉”是也。愚谓老年以独寝为安，或先令童女睡少顷，被暖则起，随即入寝。既藉熏蒸之益，仍安独寝之常，岂非两得。倘气血衰微，终宵必资人以暖，则非如《王制》所云不可。</p>
+<p>　　《法藏碎金》曰：“还元功夫，全在被中行之。择少女肥白无病者，晚间食以淡粥，擦齿漱口极净，与之同被而寝。至子后令其呼气，吸而咽之，再则令其舌抵上腭，俟舌下生津，接而咽之。真还元之秘也。”愚按，此说近采补诡异之术，然《易·大过》之爻辞曰：“枯杨生ㄗ。”谓老阳得少阴以滋长也，盖有此理，姑存之。《参同契》有“铅汞丹鼎”之说，惑世滋甚。或有以飞 之术问程子，答曰：“纵有之，只恐天上无着处。”</p>
+<p>　　熏笼只可熏香，若以暖被，火气太甚。当于欲寝时，先令人执炉，遍被中移动熨之，但破冷气，入寝已觉温暖如春。《西京杂记》曰：“长安有巧工作熏炉，名'被中香’外体圆，中为机环，使炉体常平，以此熏被至佳。”近亦有能仿而为之，名“香球”。《卫生经》曰：“热炉不得置头卧处”，火气入脑恐眩晕。有制大锡罐，热水注满，紧覆其口，彻夜纳诸被中，可以代炉，俗呼“汤婆子”。然终有湿气透漏，及于被褥，则必及于体，暂用较胜于炉。黄山谷名以“脚婆”。明吴宽诗：“穷冬相伴胜房空。”《博古图》“汉有温壶”，为注汤温手足之器，与汤婆子同类。</p>
+<p>　　夏月大热时，裸体而卧，本无需被；夜半后汗收凉生，必备葛布单被覆之。葛布廓索，不全着体，而仍可遮护，使勿少受凉，晨起倍觉精神爽健。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18127.aspx">上一章</a>
+<a href="/guwen/book_219.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18129.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

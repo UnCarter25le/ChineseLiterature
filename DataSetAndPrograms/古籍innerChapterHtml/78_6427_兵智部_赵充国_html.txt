@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·兵智部·赵充国_古诗文网
+</title>
+<meta content="【原文】先零、罕、开皆西羌种，各有豪，数相攻击，成仇。匈奴连合诸羌，使解仇作约。充国料其到秋变必起，宜遣使行边预为备。于是两府白遣义渠安国行视诸边，分别善恶。安国至，召先零诸豪三十" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6427.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5406" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>兵智部·赵充国</b></span>
+<a href="javascript:PlayBookv(6427)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6427" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5406)" id="leftbtn5406" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6427" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　先零、罕、开皆西羌种，各有豪，数相攻击，成仇。匈奴连合诸羌，使解仇作约。充国料其到秋变必起，宜遣使行边预为备。于是两府白遣义渠安国行视诸边，分别善恶。安国至，召先零诸豪三十余人，以尤桀黠，皆斩之，纵兵击斩千余级，诸降羌悉叛，攻城邑，杀长吏。上问：“谁可将者。”充国对曰：“无逾于老臣者矣。”充国时年七十余。上问：“将军度羌虏何如?当用几人?”充国曰：“百闻不如一见，兵难隃度。臣愿驰至金城，图上方略。”充国至金城，须兵满万骑，方渡河，恐为虏所遮，即夜遣三校衔枚先渡，渡辄营阵。及明，以次尽渡。虏数十百骑来，出入军旁。充国意此骁骑难制，且恐为诱，戒军勿击，曰：“吾士马新倦，不可驰逐，击虏以殄灭为期，小利不足贪也。”</p>
+<p>　　遣骑候四望峡中，亡虏。夜引兵至落都，谓诸校司马曰：“吾知羌无能为矣。使发数千人守杜四望、峡中，兵岂得人哉!”遂西至西部都尉府，日飨军士，士皆欲为用。虏数挑战，充国坚守。（边批：节节持重。）初罕开豪靡当儿使弟雕库来告都尉曰：“先零将反。”后数日，果反。雕库种人颇在先零中，都尉赵充国即留雕库为质。充国以为亡罪，遣归告种豪：“大兵诛有罪，毋取并灭，能相捕斩者，除罪：斩大豪有罪者一人，赐钱四十万，中豪十五万，下豪二万，大男三千，女子及老小千钱。又以所捕妻子财物与之。”欲以威信招降罕开及劫略者，解散虏谋。酒泉太守辛武贤上言：“今虏朝夕为寇，土地寒苦，汉马不能冬，可益马食，以七月上旬赍三十日粮，分兵并出张掖、酒泉，合击罕开。”天子下其议，充国以为：“佗负三十日食，又有衣装兵器，难以追逐。据前险，守后阨，以绝粮道，必有伤危之患。且先零首为畔逆，宜捐罕开暗昧之过，先诛先零以震动之。”朝议谓：“先零兵盛而负罕开之助，不先破罕开，则先零未可图。”（边批：似是而非。）天子遂敕充国进兵。充国上书谢罪，因陈利害曰：“臣闻兵法：‘攻不足者守有余。’‘善战者致人，不致于人。’即罕羌欲为寇，宜简练以俟其至，以逸待劳，必胜之道也。今释致虏之术，而从为虏所致之道，愚以为不便。先零羌欲为背畔。故与罕开解仇结约。然其私心，亦恐汉兵至而罕开背之。其计常欲先赴罕开之急，以坚其约。先击罕羌，先零必助之。今虏马肥、食足，击之未见利，适使先零得施德于罕羌以坚其约。党坚势盛，附者浸多，臣恐国家之忧不二三岁而已。于臣之计，先诛先零，则罕开不烦兵而服；如其不服，须正月击之未晚。”上从充国议，充国引兵至先零，虏久屯聚，解弛，望见大军，弃车重，欲渡湟水，道阨狭，充国徐行驱之。（边批：又持重。）或曰：“逐利宜亟。”充国曰：“此穷寇，不可迫也，缓之则走不顾，急之则还致死。”诸校皆曰：“善。”虏赴水溺死数百，降及斩首五百余人。兵至罕地，令军毋燔聚落刍牧田中。罕羌闻之，喜曰：“汉果不击我矣。”豪靡忘来自归，充国赐饮食，遣还谕种人，时羌降者万余人。充国度羌必坏，请罢骑兵，留万人屯田，以待其敝。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6426.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6428.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5406" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

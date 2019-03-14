@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷九·修政语上_古诗文网
+</title>
+<meta content="黄帝曰：道若川谷之水，其出无已，其行无止。故服人而不为仇，分人而不譐者，其惟道矣。故播之于天下，而不忘者，其惟道矣。是以道高比于天，道明比于日，道安比于山。故言之者见谓智，学之者见" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18636.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·修政语上</b></span>
+<a href="javascript:PlayBookv(18636)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18636" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18636" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　黄帝曰：道若川谷之水，其出无已，其行无止。故服人而不为仇，分人而不譐者，其惟道矣。故播之于天下，而不忘者，其惟道矣。是以道高比于天，道明比于日，道安比于山。故言之者见谓智，学之者见谓贤，守之者见谓信，乐之者见谓仁，行之者见谓圣人。故惟道不可窃也，不可以虚为也。故黄帝职道义，经天地，纪人伦，序万物，以信与仁为天下先。然后济东海，入江内，取绿图，西济积石，涉流沙，登于昆仑，于是还归中国，以平天下，天下太平，唯躬道而已。</p>
+<p>　　帝颛顼曰：至道不可过也，至义不可易也。是故以后者复迹也。故上缘黄帝之道而行之，学黄帝之道而赏之，加而弗损，天下亦平也。</p>
+<p>　　颛顼曰：功莫美于去恶而为善，罪莫大于去善而为恶，故非吾善善而已也，善缘善也，非恶恶而已也，恶缘恶也。吾日慎一日，其此已也。</p>
+<p>　　帝喾曰：缘道者之辞而与为道已，缘巧者之事而学为巧已，行仁者之操而与为仁已。故节仁之器，以修其躬，而身专其美矣。故士缘黄帝之道而明之，学帝颛顼之道而行之，而天下亦平矣。</p>
+<p>　　帝喾曰：德莫高于博爱人，而政莫高于博利人，故政莫大于信，治莫大于仁，吾慎此而已矣。</p>
+<p>　　帝尧曰：“吾存心于先古，加志于穷民，痛万姓之罹罪，忧众生之不遂也。”故一民或饥，曰：“此我饥之也。”一民或寒，曰：“此我寒之也。”一民有罪，曰：“此我陷之也。”仁行而义立，德博而化富。故不赏而民劝，不罚而民治，先恕而后行，是以德音远也。是故尧教化及雕题蜀越，抚交趾，身涉流沙，地封独山，西见王母，训及大夏渠叟，北中幽都，及狗国与人身而鸟面，及焦侥。好贤而隐不逮，强于行，而菑于志，率以仁而恕，至此而已矣。</p>
+<p>　　帝舜曰：吾尽吾敬而以事吾上，故见谓忠焉；吾尽吾敬以接吾敌，故见谓信焉；吾尽吾敬以使吾下，故见谓仁焉。是以见爱亲于天下之人，而见归乐于天下之民，而见贵信于天下之君。故吾详取之以敬也，吾得之以敬也，故欲明道而谕教，唯以敬者为忠，必服之。</p>
+<p>　　大禹之治天下也，诸侯万人，而禹一皆知其体。故大禹岂能一见而知之也？岂能一闻而识之也？诸侯朝会，而禹亲报之，故是以禹一皆知其国也。其士月朝，而禹亲见之，故是以禹一皆知其体也。然且大禹其犹大恐，诸侯会，则问于诸侯曰：“诸侯以寡人为骄乎？”朔日士朝，则问于士曰：“诸大夫以寡人为汏乎？其闻寡人之骄之汏耶，而不以语寡人者，此教寡人之残道也，灭天下之教也，故寡人之所怨于人者，莫大于此也。”</p>
+<p>　　大禹曰：“民无食也，则我弗能使也，功成而不利于民，我弗能劝也。”故鬟河而道之九牧，凿江而道之九路，洒五湖而定东海。民劳矣而弗苦者，功成而利于民也。禹尝昼不暇食，夜不暇寝矣，方是时也，忧务故也。故禹与士民同务，故不自言其信，而信谕矣。故治天下，以信为之也。</p>
+<p>　　汤曰：学圣王之道者，譬其如日；静思而独居，譬其若火。夫舍学圣之道，而静居独思，譬其若去日之明于庭，而就火之光于室也。然可以小见，而不可以大知。是故明君而君子，贵尚学道，而贱下独思也。故诸君子得贤而举之，得贤而与之，譬其若登山乎。得不肖而举之，得不肖而与之，譬其若下渊乎。故登山而望，其何不临，而何不见？陵迟而入渊，其孰不陷溺？是以明君慎其举，而君子慎其与，然后福可必归，菑可必去也。</p>
+<p>　　汤曰：药食尝于卑，然后至于贵；药言献于贵，然后闻于卑。故药食尝于卑，然后至于贵，教也；药言献于贵，然后闻于卑，道也。故使人味食，然后食者，其得味也多；若使人味言，然后闻言者，其得言也少。故以是明上之于言也，必自也听之，必自也择之，必自也聚之，必自也藏之，必自也行之。故道以数取之为明，以数行之为章，以数施之万姓为藏。是故求道者，不以目而以心；取道者，不以手而以耳。致道者以言，入道者以忠，积道者以信，树道者以人。故人主有欲治安之心，而无治安之故者，虽欲治显荣也，弗得矣。故治安不可以虚成也，显荣不可以虚得也。故明君敬士察吏爱民，以参其极，非此者，则四美不附矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18635.aspx">上一章</a>
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18637.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

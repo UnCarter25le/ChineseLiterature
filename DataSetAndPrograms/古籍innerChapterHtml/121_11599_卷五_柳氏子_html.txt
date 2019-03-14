@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷五·柳氏子_古诗文网
+</title>
+<meta content="胶州柳西川，法内史之主计仆也。年四十余，生一子，溺爱甚至。纵任之，惟恐拂。既长，荡侈逾检，翁囊积为空。无何，子病，翁故蓄善骡，子曰：“骡肥可啖。杀啖我，我病可愈。”柳谋杀蹇劣者。子" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11599.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·柳氏子</b></span>
+<a href="javascript:PlayBookv(11599)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11599" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11599" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　胶州柳西川，法内史之主计仆也。年四十余，生一子，溺爱甚至。纵任之，惟恐拂。既长，荡侈逾检，翁囊积为空。无何，子病，翁故蓄善骡，子曰：“骡肥可啖。杀啖我，我病可愈。”柳谋杀蹇劣者。子闻之，大怒骂，疾益甚。柳惧，杀骡以进，子乃喜。然尝一脔，便弃去。病卒不减，寻死，柳悼叹欲绝。</p>
+<p>　　后三四年，村人以香社登岱。至山半，见一人乘骡驶行而来，怪似柳子。比至，果是。下骡遍揖，各道寒暄。村人共骇，亦不敢诘其死。但问：“在此何作？”答云：“亦无甚事，东西奔驰而已。”便问逆旅主人姓名，众具告之。柳子拱手曰：“适有小故，不暇叙间阔，明日当相谒。”上骡遂去。众既归寓，亦谓其未必即来。厌旦俟之，子果至，系骡厩柱，趋进笑言。众曰：“尊大人日切思慕，何不一归省侍？”子讶问：“言者何人？”众以柳对。子神色俱变，久之曰：“彼既见思，请归传语：我于四月七日，在此相候。”言讫，别去。</p>
+<p>　　众归，以情致翁。翁大哭，如期而往，自以其故告主人。主人止之，曰：“曩见公子，情神冷落，似未必有嘉意。以我卜之，殆不可见。”柳啼泣不信。主人曰：“我非阻君，神鬼无常，恐遭不善。如必欲见，请伏椟中，察其词色，可见则出。”柳如其言。既而子来，问曰：“柳某来否？”主人曰：“无。”子盛气骂曰：“老畜产那便不来！”主人惊曰：“何骂父？”答曰：“彼是我何父！初与义为客侣，不意包藏祸心，隐我血资，悍不还。今愿得而甘心，何父之有！”言已出门，曰：“便宜他！”柳在椟中，历历闻之，汗流接踵，不敢出气。主人呼之出，狼狈而归。</p>
+<p>　　异史氏曰：“暴得多金，何如其乐？所难堪者偿耳。荡费殆尽，尚不忘于夜台，怨毒之于人甚矣！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11598.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11600.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

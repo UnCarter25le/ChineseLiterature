@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+六韬·犬韬·战骑_古诗文网
+</title>
+<meta content="武王问太公曰：“战骑奈何？”太公曰：“骑有十胜，九败。”武王曰：“十胜奈何？”太公曰：“敌人始至，行陈未定，前后不属，陷其前骑，击其左右，敌人必走；敌人行陈整齐坚固，士卒欲斗，吾骑" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5016.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3186" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>犬韬·战骑</b></span>
+<a href="javascript:PlayBookv(5016)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5016" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3186)" id="leftbtn3186" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5016" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%a7%9c%e5%ad%90%e7%89%99">姜子牙</a></p>
+<div class="contson">
+<p>　　武王问太公曰：“战骑奈何？”</p>
+<p>　　太公曰：“骑有十胜，九败。”</p>
+<p>　　武王曰：“十胜奈何？”</p>
+<p>　　太公曰：“敌人始至，行陈未定，前后不属，陷其前骑，击其左右，敌人必走；敌人行陈整齐坚固，士卒欲斗，吾骑翼而勿去，或驰而往，或驰而来，其疾如风，其暴如雷，白昼如昏，数更旌旗，变易衣服，其军可克；敌人行陈不固，士卒不斗，薄其前后，猎其左右，翼而击之，敌人必惧；敌人暮欲归舍，三军恐骇，翼其两旁，疾击其后，薄其垒口，无使得入，敌人必败。</p>
+<p>　　“敌人无险阻保固，深入长驱，绝其粮路，敌人必饥；地平而易，四面见敌，车骑陷之，敌人必乱；敌人奔走，士卒散乱，或翼其两旁，或掩其前后，其将可擒；敌人暮返，其兵甚众，其行阵必乱；令我骑十而为队，百而为屯，车五而为聚，十而为群，多设旌旗，杂以强弩；或击其两旁，或绝其前后，敌将可虏。此骑之十胜也。”</p>
+<p>　　武王曰：“九败奈何？”</p>
+<p>　　太公曰：“凡以骑陷敌，而不能破陈，敌人佯走，以车骑返击我后，此骑之败地也。追北逾险，长驱不止，敌人伏我两旁，又绝我后，此骑之围地也。往而无以返，入而无以出，是谓陷于天井，顿于地穴，此骑之死地也。所从入者隘，所从出者远，彼弱可以击我强，彼寡可以击我众，此骑之没地也。</p>
+<p>　　“大涧深谷，翳藏林木，此骑之竭地。左右有水，前有大阜，后有高山，三军战于两水之间，敌居表里，此骑之艰地也。敌人绝我粮道，往而无以还，此骑之困地也。下沮泽，进退渐洳，此骑之患地也。左有深沟，右有坑阜，高下如平地，进退诱敌，此骑之陷地也。此九者，骑之死地也。明将之所以远避，＿将之所陷败也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5015.aspx">上一章</a>
+<a href="/guwen/book_56.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5017.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3186" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

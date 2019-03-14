@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·为政篇·致诸弟·进谏言戒除骄矜_古诗文网
+</title>
+<meta content="澄候温甫子植季洪四位老弟足下：四月初三日发一家信，厥后折差不来，是以月余无家书，五月十二折弁来，接到家中一信，乃四月一日所发者，具悉一切，植弟大愈，此最可喜！京寓一切平安，癣疾又大" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18279.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>为政篇·致诸弟·进谏言戒除骄矜</b></span>
+<a href="javascript:PlayBookv(18279)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18279" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18279" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　澄候温甫子植季洪四位老弟足下：</p>
+<p>　　四月初三日发一家信，厥后折差不来，是以月余无家书，五月十二折弁来，接到家中一信，乃四月一日所发者，具悉一切，植弟大愈，此最可喜！京寓一切平安，癣疾又大愈，比去年六月，更无形迹，去年六月之愈，已为五年来所未有，今又过之，或者从此日退，不复能为恶臭，皮毛之疾，究不甚足虑，久而弥可信也。</p>
+<p>　　四月十四日考差，题乐民之乐者，民亦乐其乐，经文题，必有忍，其乃有济，有容德乃大，赋得廉溪乐处，得焉字，二十六日余又进一谏疏，敬陈圣德三端，预防弊，其言颇过激切，而圣量如海，尚能容纳，岂没唐以下之英主所可及哉？余之意，盖以受惠深重，官至二品，不为不尊，堂上则诰封三代，儿子则荫任六品，不为不荣，若于此时，再不尽忠直言，更待何时乃可建言，而皇上圣德之美，出于天，自然满廷臣工，遂不敢以片言逆耳，将来恐一念骄矜，遂至恶直而好谀，则此日臣工不得辞其咎，是以趁此元年新政，即将骄矜之机关说破，使圣心日就兢业，而绝自是之萌，此余区区之本意也，现在人才不振，皆谨小而忽于大，人人皆趋习脂韦唯阿之风，欲以此疏稍挽风气，冀在廷管趋于骨鲠②，而遇事不敢退缩，此余区区之众意也。</p>
+<p>　　折子初上之时，余意恐犯不测之感，业将得失祸福，置之度外，不意圣慈含容，曲赐全。自是以后，余益当尽忠报国，不复复顾身家之私，然此后折奏虽多，亦思无有做此折之激直者；此折尚蒙优容，则以后奏折，必不致或触圣怒可知，诸弟可将吾意，细告堂上大人，无以余奏折不慎，或以戆直干天威为虑也。</p>
+<p>　　父亲每次家书，皆教我尽忠图报，不必系念家中，余敬体吾父之教训，是以公而忘私，国而忘家，计此后但略寄数百金，偿家中旧债，即一心以国事为主，一切升官得差之念，毫不挂于意中，故昨五月初七大京堂考差，余即未往赶考，侍郎之得差不得差，原不关乎与考不与考，上年已酉科，传郎考差而得者三人，瑞常花沙纳张带是也，未考而得者亦三人，灵桂福济王广荫是也，今年侍郎考差者五人，不考者三人，是曰题，以义制事，以礼制心论，诗题迷观沧海曰，得涛字，五月初一放云贵差，十二放两广福建三省，名见京报内，兹不另录，袁漱六考差颇为得意，诗亦工妥，应可一得以救积困。</p>
+<p>　　朱石翘明府初政甚好，睚是我邑之福，余下次当写信与之，霞仙得县首，亦见其犹能拔取真士，刘继振既系水口近邻，又送钱至我家，求请封典，义不可辞，但渠三十年四月选授训道，已在正月廿六恩诏之后，不知尚可办否？当再向吏部查明，如不可办，则当俟明年四月升付查明，乃可呈请，若并升付之时，根思不能及于餐官，则当以钱退，家中须于近日详告刘家，言目前不克呈请，须待明年六月，乃有的信耳。</p>
+<p>　　澄弟河南汉口之信，皆已接到，行路之难，乃至于此，自汉口以后，想一路戴福星矣，刘午峰张星垣陈谷堂之银皆可收，刘陈尤宜受之，不受以议拘泥，然交际之道，与其失之滥，不若失之隘，吾弟能如此，乃晋之所欣慰者也！西垣四月廿九到京，住宅内，大约八月可出都，此次所寄折底，如欧阳家及诸亲族，不妨钞送共阅；见余忝窃高位，亦欲忠直图报，不敢唯阿取容，惧其玷辱宗族，辜负期望也。余不一一。国藩手草。（咸丰元年五月十四日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18278.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18280.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

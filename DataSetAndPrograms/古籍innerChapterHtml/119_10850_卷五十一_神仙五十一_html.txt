@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平广记·卷五十一·神仙五十一_古诗文网
+</title>
+<meta content="侯道华　宜君王老　陈师　陈金侯道华　　河中永乐县道净院，居蒲中之胜境，道士寓居，有以十数。唐文宗时，道士邓太玄炼丹于药院中。药成，疑功未究，留贮院内，人共掌之。太玄死（死原作师。据" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_10850.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8792" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五十一·神仙五十一</b></span>
+<a href="javascript:PlayBookv(10850)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv10850" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8792)" id="leftbtn8792" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay10850" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89%e3%80%81%e6%89%88%e8%92%99%e3%80%81%e5%be%90%e9%93%89%e7%ad%89">李昉、扈蒙、徐铉等</a></p>
+<div class="contson">
+<p>　　侯道华　宜君王老　陈师　陈金</p>
+<p>　　侯道华　　</p>
+<p>　　河中永乐县道净院，居蒲中之胜境，道士寓居，有以十数。唐文宗时，道士邓太玄炼丹于药院中。药成，疑功未究，留贮院内，人共掌之。太玄死（死原作师。据明抄本改），门徒周悟仙主院事。时有蒲人侯道华，事悟仙以供给使。诸道士皆奴畜之，洒扫隶役，无所不为，而道华愈欣然。又常好子史，手不释卷，一览必诵之于口。众或问之，要此何为，答曰：“天上无愚懵仙人。”咸大笑之。蒲中多大枣，天下人传，岁中不过一二无核者，道华比三年辄得啖之。一旦，道华执斧，科古松枝垂且尽，如削，院中人无喻其意。明日昧爽，众晨起，道华房中亡所见。古松下施案，致一杯水，仍脱双履案前，道华衣挂松上。院中视之，中留一首诗云：“帖里大还丹，多年色不移。前宵盗吃却，今日碧空飞。惭愧深珍重，珍重邓天师。他年炼得药，留着与内芝。吾师知此术，速炼莫为迟。三清专相待，大罗的有期。”下列细字，称去年七月一日，蒙韩君赐姓李名内芝，配住上清善进院，以次十数言。时唐大中五年五月二十一日，院中人方验道华窃太玄药仙去，因相率白节度使尚书郑公光，按视踪迹不诬，即以其事闻奏。诏赍绢五百匹，并赐御衣，修饰廊殿，赐名升仙院。（出《宣室志》）</p>
+<p>　　宜君王老</p>
+<p>　　王老，坊州宜君县人也。居于村墅，颇好道爱客，务行阴德为意，其妻亦同心不倦。一 旦有蓝缕道士造其门，王老与其妻俱延礼之。居月余，间日与王老言谈杯酌，甚相欢狎。俄 患遍身恶疮，王老乃求医药看疗，益切勤切，而疮日甚。逮将逾年，道士谓王老曰：“此疮 不烦以凡药相疗，但得数斛酒浸之，自愈。”于是王老为之精洁酿酒，及熟，道士言以大瓮 盛酒，“吾自加药浸之。”遂入瓮，三日方出，须发俱黑，面颜复少年，肌若凝脂。王老阖 家视之惊异。道士谓王老曰：“此酒可饮，能令人飞上天。”王老信之。初，瓮酒五斛余。 及·３·太平广记窥，二三斗存耳，清冷香美异常。时方打麦，王老与妻子并打麦人共饮， 皆大醉。道士亦饮，云：“可上天去否？”王老愿随师所适。于是祥风忽起，彩云如蒸，屋 舍草树，全家人物鸡犬，一时飞去。空中犹闻打麦声，数村人共观望惊叹。唯猫弃而不去。 风定，其佣打麦二人，乃遗在别村树下，后亦不食，皆得长年。宜君县西三十里。有升仙村 存焉。（出《续仙传》） 王老，是坊州宜君县人。住在农村田野的草房里，很慕道好客，把致力于行阴德作为宗 旨，他的妻子也与他心意相同坚持不懈。一天，有个穿着破烂衣衫的道士登门拜坊，王老和 他的妻子都很礼貌地招待这个道士。住了一个多月，闲暇的日子就和王老谈天饮酒，互相都 很欢喜亲近。不久，道士遍体患了恶疮。王老就求医买药给他治疗，更加殷勤关切，然而道 士的恶疮却一天比一天严重。等到将要过年，道士对王老说：“这种疮不能用普通的药治 疗，只要弄到几斛（十斗）酒浸泡它，自然会好。”于是王老为他酿造精洁的酒，到酒熟 时，道士说用大瓮盛酒，“我自己加药浸疮。”道士就进了大瓮，三天才出来，胡子、头发 全都变黑，容颜又变为少年，肌肤像凝固的油脂一般细嫩。王老全家看到道士变得如此感到 惊异。道士对王老说：“这酒可以喝，能让人飞上天。”王老相信他的话。当初，瓮中酒有 五斛多，等到探视，只剩二三斗了，酒味香美清冷异常。当时正打麦子，王老与妻子连同打 麦子的人一起喝，都喝得大醉。道士也喝，又问：“愿意上天去吗？”王老愿意随法师去。 于是忽起祥风，彩云如热气上升，屋舍草树，全家人、物、鸡、犬，同时飞去。还能听到空 中打麦声，几个村人看到感到惊叹。只有猫被弃而没飞去。风定了，那雇来打麦子的两个 人，被遗留在别的村子的树下。这两人后来也不食人间烟火，都得到长生。宜君县西三十 里，还有升仙村留存在那里。</p>
+<p>　　陈师　　</p>
+<p>　　豫章逆旅梅氏，颇济惠行旅。僧道投止，皆不求直。恒有一道士，衣服蓝缕，来止其家，梅厚待之。一日谓梅曰：“吾明日当设斋，从君求新瓷碗二十事，及七箸，君亦宜来会，可于天宝洞前访陈师也。”梅许之，道士持碗渡江而去。梅翌日诣洞前，问其村人。莫知其处。久之将回，偶得一小迳，甚明净。试寻之，果见一院。有青童应门，问之，乃陈之居也。入见道士，衣冠华楚，延与之坐。命具食，顷之食至，乃熟蒸一婴儿，梅惧不食。良久又进食，乃蒸一犬子，梅亦不食。道士叹息，命取昨所得碗赠客。视之，乃金碗也。谓梅曰：“子善人也，然不得仙。千岁人参枸杞，皆不肯食，乃分也。”谢而遣之。比不复见矣。（出《稽神录》）</p>
+<p>　　陈金　　</p>
+<p>　　陈金者，少为军士，隶江西节度使刘信。围虔州，金私与其徒五人，发一大冢，开棺，见一白髯老人。面如生，通身白罗衣，衣皆如新。开棺即有白气冲天，墓中有非常香气。金独视棺盖上有物如粉，微作硫黄气。金素闻棺中硫黄为药，即以衣襟掬取怀归。墓中无他珍宝，即共掩塞之而出。既至营中，营中人皆惊云：“今日那得有香气？”金知硫黄之异，旦辄汲水服之，至尽。城平（平原作中。据明抄本改），入舍僧寺，偶与寺僧言之，僧曰：“此城中富人之远祖也，子孙相传，其祖好道，有异人教饵硫黄。云数尽当死，死后三百年，墓当开，即解化之期也，今正三百年矣。”即相与复视之，棺中空，唯衣尚存，如蝉蜕之状。金自是无病，今为清海军小将，年七十余矣，形体枯瘦，轻健如故。（出《稽神录》）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_10849.aspx">上一章</a>
+<a href="/guwen/book_119.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_10851.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8792" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

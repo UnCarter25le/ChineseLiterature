@@ -1,0 +1,145 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷二十二·孙襄_古诗文网
+</title>
+<meta content="孙襄孙襄，南直宁国宣城人。崇祯甲戌进士，官郎中，注伪户政府属。陈扆诵陈扆诵，山东济宁人。崇祯丁丑进士，官郎中，注伪户政府属。徐有声徐有声，太医院籍。崇祯庚辰特用官郎中，注伪户政府属" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13724.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二十二·孙襄</b></span>
+<a href="javascript:PlayBookv(13724)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13724" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13724" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　孙襄</p>
+<p>　　孙襄，南直宁国宣城人。崇祯甲戌进士，官郎中，注伪户政府属。</p>
+<p>　　陈扆诵</p>
+<p>　　陈扆诵，山东济宁人。崇祯丁丑进士，官郎中，注伪户政府属。</p>
+<p>　　徐有声</p>
+<p>　　徐有声，太医院籍。崇祯庚辰特用官郎中，注伪户政府属。</p>
+<p>　　李甲</p>
+<p>　　李甲，北直顺德南和人。天启甲子举人，官员外，注伪户政府属。</p>
+<p>　　姬琨</p>
+<p>　　姬琨，陕西西安华州人。官生，官员外，注伪户政府属。</p>
+<p>　　贺久邵</p>
+<p>　　贺久邵，湖广长沙湘乡人。万历四十六年戊午举人，官主事，伪户政府从事。</p>
+<p>　　陈联壁</p>
+<p>　　陈联壁，湖广襄阳光化人。官生，官主事，伪户政府从事。</p>
+<p>　　介松年</p>
+<p>　　介松年，山西平阳解州人。崇祯辛未进士，官主事，原官。赌记云：亲见门贴。甲乙史云：三月二十一户，侍郎党崇雅、给事介松年、御史柳寅东，各方巾色衣，自西长安门骑马入内。盖党在通州时降，介在保定时迎降也。</p>
+<p>　　别单开有：</p>
+<p>　　吴篪，福建莆田人。崇祯庚辰特用，官郎中。</p>
+<p>　　傅鷟祥，河南汝宁汝阳人。官生，官主事。</p>
+<p>　　南廷铸，陕西西安渭南人。官生，官郎中。</p>
+<p>　　郑尔圻，北直保定安肃人。官生，官郎中。</p>
+<p>　　王凤林，山西平阳芮城人。官生，官员外。</p>
+<p>　　李钟秀，山西平阳蒲州人。天启丁卯举人，官郎中。</p>
+<p>　　王高才，陕西西安三原人。天启甲子举人，官员外。</p>
+<p>　　胡之彬，河南汝宁光州人。崇祯甲戌进士，官主事。</p>
+<p>　　礼部</p>
+<p>　　涂原</p>
+<p>　　涂原，四川夔州梁山人。崇祯辛未进士，官郎中，注伪政府属。</p>
+<p>　　吴泰来</p>
+<p>　　吴泰来，江西瑞州新昌人。崇祯辛未进士，官员外，伪礼政府从事。此吴甘来同胞也。</p>
+<p>　　一本所生，贤不肖何相去之远也。禽跖一家，导敦同国，泾渭之分，自古为然矣。</p>
+<p>　　余忠宸</p>
+<p>　　余忠宸，江西南康都昌人。崇祯丁丑进士，官员外。</p>
+<p>　　汤有庆</p>
+<p>　　汤有庆，南直长洲人。崇祯丁丑进士，官主事。伪四川成都安县令。</p>
+<p>　　张琦</p>
+<p>　　张琦，南直无锡人，崇祯甲戌进士，官主事。伪四川梓潼县令，出都不一日，遇响马夺印去，索千金为赎，叩首乞怜，贼磨印角，知是铜，掷还之。</p>
+<p>　　附记：张琦，甲戌项煜所取士也，为主事，积金四千两。甲申，其戚陈曰：贼信急，须藏金。琦辞以无。已而城破，俱投井中。贼入京，凡衙门诸井，悉淘汲靡遣。时琦唐中道袍道履，坐马坊草宅，击鲸诵金刚经。所携一仆、一妇、一婢，年十三四，俱匿屋后。贼至谓道人诵经，辄去。迨后婢妇登后屋探望，贼遥见，诘琦曰：汝是官儿，非道人也，岂有出家人而藏妇人者乎？遂索草中，得红袍银带及银五百两，并妇婢挈去，琦乃免，未之降贼也。此琦之歌童顾元在京亲见述此。赵玉森，家居，学前，有翰林匾，诸生击碎之。赵闭户，诸生乃去，复至琦家，时琦尚未南归，伊郎子寅服麻衣，迎诸生曰：吾父已死矣。众以琦年六十余信之，乃散。及十二月琦归，子曰：何以归为？迨明年乙酉，南都有议。大清至，乃免。</p>
+<p>　　高去奢</p>
+<p>　　高去奢，北直真定宁晋人。崇祯丁丑进士，官主事。</p>
+<p>　　叶澍</p>
+<p>　　叶澍，广西籍，江西南昌丰城人。天启丁卯举人，官司务，伪吏政府司务。</p>
+<p>　　别单开有：</p>
+<p>　　黄熙允，福建泉州晋江人。崇祯辛未进士，官郎中。</p>
+<p>　　吴之琦，福建晋江人。崇祯丁丑进士，官主事。</p>
+<p>　　兵部</p>
+<p>　　张缙彦</p>
+<p>　　张缙彦，字坦公，河南卫辉新乡人。崇祯辛未进士，官尚书。三月十九辰时，同太监曹化淳，开齐化、东便二门，纳贼以入朝，为太监王德化所击，须尽拔，贼亦鄙之，竟戮之。一云南归为实。</p>
+<p>　　大事纪云：二十一日，内监王德化出朝，见兵部尚书张缙彦青衣待罪于皇极殿前。叱曰：汝辈误国至此，今不急殡先帝，乃复推戴新主耶？缙彦曰：此与我无干。自有主之者。德化愤极，呼从者连擦其颊，缙彦掩面垂涕。</p>
+<p>　　附记：张一方、蔡元吉</p>
+<p>　　张一方，大同人，善骑射，貌瘠而勇，望若饥鹰，少从曹文诏剿贼，所在有功。曹没，从豫镇陈永福守汴城，迄全。陈降贼，一方从之。及贼破京师，分营蓟遵闲，乃逸去。时张缙彦朝房自缢死复苏。自成使牛金星说降，不从，备极榜掠，乃命二贼挟之西行，遇一方于龙泉关，遂与脱身至太原。会贼将大索缙彦，一方与蔡元吉乃投伪将永福，差往河南。永福疑之，留驿符不发，及缙彦计脱，奔丰峪山，着黄冠走盘驼，地皆土黔，炙人肝而食，贼追捕甚急，忽一方与元吉俱至，遂脱于难。已而，贼捕缙彦于新乡，一方、元吉潜卫左右。八月初五日，擒府县各伪长，与缙彦入行山之吉岗。归者人，有万伪都尉黄来袭，互战不胜。一方乃潜伏林中，射杀其长贼乃遁去。时一方年三十八，从缙彦南下，至睢阳歼贼事闻，授副总兵，驻兵睢阳，疽发而死。缙彦葬之睢阳城中。</p>
+<p>　　蔡元吉，怀庆人，始祖从高帝战有功，授怀庆卫指挥使。元吉薄武官不为，入弟子员，与张一方善。贼掠河北，陈永福降，元吉随永福自匿。至燕云，度紫荆、龙泉，经太原，皆与一方共之。张缙彦引而南，疏其事，授监纪推官。</p>
+<p>　　右两人，本不列于从逆，予之附之者，见缙彦未尝为贼戮耳。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13723.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13725.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+老老恒言·卷四·枕_古诗文网
+</title>
+<meta content="《释名》云：“枕，检也，所以检项也。”侧曰颈，后曰项，太低则项垂，阳气不达，未免头目昏眩；太高则项屈，或致作酸，不能转动。酌高下尺寸，令侧卧恰与肩平，即仰卧亦觉安舒。《显道经》曰：" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18126.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·枕</b></span>
+<a href="javascript:PlayBookv(18126)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18126" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18126" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%b9%e5%bb%b7%e6%a0%8b">曹廷栋</a></p>
+<div class="contson">
+<p>　　《释名》云：“枕，检也，所以检项也。”侧曰颈，后曰项，太低则项垂，阳气不达，未免头目昏眩；太高则项屈，或致作酸，不能转动。酌高下尺寸，令侧卧恰与肩平，即仰卧亦觉安舒。《显道经》曰：“枕高肝缩，枕下肺蹇。”以四寸为平枕。</p>
+<p>　　《唐书》：明皇为太子时，尝制长枕，与诸王共之。老年独寝，亦需长枕，则反侧不滞一处。头为阳，恶热，即冬月辗转枕上，亦不嫌冷。如枕短，卧得热气，便生烦躁。</p>
+<p>　　囊枕之物，乃制枕之要。綠豆皮可清热，微嫌质重；茶可除烦，恐易成末；惟通草为佳妙，轻松和软，不蔽耳聪。《千金方》云：“半醉酒，独自宿。软枕头，暖盖足。能息心，自暝目。”枕头软者甚多，尽善无弊，殆莫过通草。放翁有“头风便菊枕”之句，菊花香气，可清头目，但恐易生蠹虫。元马祖常诗云：“半夜归心三径远，一囊秋色四屏香。”前人盖往往用之。《清异录》：卢文杞枕骨高，凡枕之坚实者不用，缝青缯充以柳絮。按《本草》柳絮性凉，作枕亦宜，然生虫之弊，尤捷于菊。吴 《扶寿方》：以菊花艾叶作护膝。藤枕，以藤粗而编疏者，乃得凉爽；若细密止可饰观，更加以漆，既不通气，又不收汗，无当于用。藤枕中空，两头或作抽替可藏物，但勿置香花于内，以致透脑。《物类相感志》曰：“枕中置麝少许，绝恶梦。”麝能通关、镇心、安神故也，偶用则可，久则反足为累。</p>
+<p>　　侧卧耳必着枕，老年气血易滞，或患麻木，甚且作痛。办耳枕，其长广如枕，高不过寸，中开一孔，卧时加于枕，以耳纳入。耳为肾窍，枕此并杜耳鸣耳塞之患。</p>
+<p>　　《山居清供》曰：“慈石捶末，和入囊枕，能通耳窍，益目光。”又女廉药枕，以赤心柏木，制枕如匣，纳以散风养血之剂；枕面密钻小孔，令透药气，外以衡布裹之而卧。又《长庵外集》云：“取黄杨木作枕，必阴晦夜伐之，则不裂。”按木枕坚实，夏月昼卧或可用。《签铭汇钞》：苏彦楠榴枕铭“颐神靖魄，须以宁眠。”恐未然也。</p>
+<p>　　瓷器作枕，不过便榻陈设之具。《格古论》曰：“定窑有瓷枕，制极精巧，但枕首寒凝入骨。”东坡诗：“暂借藤床与瓦枕，莫教孤负北窗凉。”北窗凉气，已不宜受，况益之瓦枕乎！石枕亦热。</p>
+<p>　　枕底未缉合时，囊实后不用缉合，但以纽联之。凡笔札及紧要物，可潜藏于内，取用甚便。《汉书》曰：“淮南王有《枕中鸿宝苑秘书》。”其制盖类是。一枕可两用，曰摺叠枕。先制狭条如枕长，厚径寸，或四或五，再以单层布总包其外，分界处以针缉其边：一缉其左之上，一缉其右之下。可左摺[zhé]右摺，而叠之作枕，平铺即作垫，此便榻可备之物。</p>
+<p>　　凡仰卧腿舒，侧卧两膝交加，有上压下之嫌。办膝枕，小于枕首者，置诸被侧，或左或右，以一膝任意枕之，最适。</p>
+<p>　　竹编如枕，圆长而疏漏者，俗谓之“竹夫人”，又曰“竹几”，亦以枕膝。东坡诗：“闻道床头惟'竹几’，'夫人’应不解卿卿。”山谷曰：“竹夫人，盖凉寝竹器，憩臂休膝，似非夫人之职。”名以“青奴”，有诗云：“我无红袖堪娱夜，只要'青奴’一味凉。”老年但宜用于三伏时，入秋则凉便侵人，易为膝患。</p>
+<p>　　有名竹夹膝者，取猫头大竹，削而光之，置诸寝，其用同于竹夫人。唐陆龟蒙有诗云：“截得 冷似龙，翠光横在暑天中。”但嫌实不漏气，着体过凉，老年无取。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18125.aspx">上一章</a>
+<a href="/guwen/book_219.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18127.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

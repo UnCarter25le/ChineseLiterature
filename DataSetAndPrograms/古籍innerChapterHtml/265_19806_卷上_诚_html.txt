@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+北溪字义·卷上·诚_古诗文网
+</title>
+<meta content="诚字与忠信字极相近，须有分别。诚是就自然之理上形容出一字，忠信是就人用工夫上说。诚字后世都说差了，到伊川方云“无妄之谓诚”，字义始明。至晦翁又增两字，曰“真实无妄之谓诚”，道理尤见" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19806.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷上·诚</b></span>
+<a href="javascript:PlayBookv(19806)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19806" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19806" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%88%e6%b7%b3">陈淳</a></p>
+<div class="contson">
+<p>　　诚字与忠信字极相近，须有分别。诚是就自然之理上形容出一字，忠信是就人用工夫上说。</p>
+<p>　　诚字后世都说差了，到伊川方云“无妄之谓诚”，字义始明。至晦翁又增两字，曰“真实无妄之谓诚”，道理尤见分晓。后世说至诚两字，动不动加诸人，只成个谦恭谨愿底意思。不知诚者真实无妄之谓，至诚乃是真实极至而无一毫之不尽，惟圣人乃可当之，如何可容易以加诸人？</p>
+<p>　　诚字本就天道论，维天之命於穆不已，只是一个诚。天道流行，自古及今，无一毫之妄。暑往则寒来，日往则月来，春生了便夏长，秋杀了便冬藏，元亨利贞终始循环，万古常如此，皆是真实道理为之主宰。如天行一日一夜，一周而又过一度，与日月星辰之运行躔度，万古不差，皆是真实道理如此。又就果木观之，甜者万古甜，苦者万古苦，青者万古常青，白者万古常白，红者万古常红，紫者万古常紫，圆者万古常圆，缺者万古常缺，一花一叶，文缕相等对，万古常然无一毫差错，便待人力十分安排撰造来，终不相似，都是真实道理，自然而然。此中庸所以谓“其为物不二，其生物不测”，而五峰亦曰“诚者，命之道乎”，皆形容得亲切。</p>
+<p>　　就人论，则只是这实理流行付予于人，自然发见出来底，未说到做工夫处。且诚之一字，不成受生之初便具这理，到赋形之后未死之前，这道理便无了？在吾身日用常常流行发见，但人不之察耳。如孩提之童，无不知爱亲敬兄，都是这实理发见出来，乃良知良能，不待安排。又如乍见孺子将入井，便有怵惕之心。至行道乞人饥饿濒死，而蹴尔嗟来等食乃不屑就，此皆是降衷秉彝真实道理，自然发见出来。虽极恶之人，物欲昏蔽之甚，及其稍息，则良心之实自然发见，终有不可殄灭者。此皆天理自然流行真实处。虽曰见于在人，而亦天之道也。及就人做工夫处论，则只是悫实不欺伪之谓。是乃人事之当然，便是人之道也。故存心全体悫实，固诚也；若一言之实，亦诚也；一行之实，亦诚也。</p>
+<p>　　如“君子诚之为贵”“诚之者，人之道”，此等就做工夫上论，盖未能真实无妄，便须做工夫，要得真实无妄。孟子又谓“思诚者人之道”，正是得子思此理传授处。古人立意，有就天命言者，有就人做工夫言者。至于“至诚”二字，乃圣人德性地位，万理皆极其真实，绝无一毫虚伪，乃可以当之。</p>
+<p>　　诚在人言，则圣人之诚，天之道也；贤人之诚，人之道也。</p>
+<p>　　诚有以理言者，若“诚者物之终始”是也。有以心言者，若“不诚无物”是也。</p>
+<p>　　如君臣父子夫妇兄弟朋友等类，若不是实理如此，则便有时废了。惟是实理如此，所以万古常然。虽更乱离变故，终有不可得而殄灭者。</p>
+<p>　　诚与信相对论，则诚是自然，信是用力；诚是理，信是心；诚是天道，信是人道；诚是以命言，信是以性言；诚是以道言，信是以德言。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19805.aspx">上一章</a>
+<a href="/guwen/book_265.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19807.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

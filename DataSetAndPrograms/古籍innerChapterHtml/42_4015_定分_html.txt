@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+商君书·定分_古诗文网
+</title>
+<meta content="公问于公孙鞅曰：“法令以当时立之者，明旦欲使天下之吏民皆明知而用之，如一而无私，奈何”？公孙鞅曰：为法令，置官吏，朴足以知法令之谓者，以为天下正，则奏天子。天子则各主法令之，皆降，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4015.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2609" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>定分</b></span>
+<a href="javascript:PlayBookv(4015)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4015" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2609)" id="leftbtn2609" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4015" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%95%86%e9%9e%85">商鞅</a></p>
+<div class="contson">
+<p>　　公问于公孙鞅曰：“法令以当时立之者，明旦欲使天下之吏民皆明知而用之，如一而无私，奈何”？</p>
+<p>　　公孙鞅曰：为法令，置官吏，朴足以知法令之谓者，以为天下正，则奏天子。天子则各主法令之，皆降，受命，发官。各主法令之民，敢忘行主法令之所谓之名，各以其所忘之法令名罪之。主法令之吏有迁徙物故，辄使学读法令所谓，为之程式，使日数而知法令之所谓；不中程，为法令以罪之。</p>
+<p>　　有敢剟定法令、损益一字以上，罪死不赦。诸官吏及民有问法令之所谓也于主法令之吏，皆各以其故所欲问之法令明告之。各为尺六寸之符，明书年、月、日、时、所问法令之名，以告吏民。主法令之吏不告，及之罪，而法令之所谓也，皆以吏民之所问法令之罪，各罪主法令之吏。即以左券予吏之问法令者，主法令之吏谨藏其右券木柙，以室藏之，封以法令之长印。即后有物故，以券书从事。</p>
+<p>　　法令皆副，置一副天子之殿中，为法令为禁室，有铤钥，为禁而以封之，内藏法令一副禁室中，封以禁印。有擅发禁室印，及入禁室视禁法令，及禁剟一字以上，罪皆死不赦。一岁受法令以禁令。</p>
+<p>　　天子置三法官，殿中置一法官，御史置一法官及吏，丞相置一法官。诸侯、郡、县皆各为置一法官及吏，皆此秦一法官。郡、县、诸侯一受宝来之法令，学问并所谓。吏民知法令者，皆问法官。故天下之吏民无不知法者。</p>
+<p>　　吏明知民知法令也，故吏不敢以非法遇民，民不敢犯法以干法官也。遇民不修法，则问法官，法官即以法之罪告之，民即以法官之言正告之吏。吏知其如此，故吏不敢以非法遇民，民又不敢犯法。如此，天下之吏民虽有贤良辩慧，不能开一言以枉法；虽有千金，不能以用一铢。故知诈贤能者皆作而为善，皆务自治奉公。民愚则易治也，此所生于法明白易知而必行。</p>
+<p>　　法令者，民之命也，为治之本也，所以备民也。为治而去法令，犹欲无饥而去食也，欲无寒而去衣也，欲东而西行也，其不几亦明矣。一兔走，百人逐之，非以兔为可分以为百，由名之未定也。夫卖兔者满市，而盗不敢取，由名分已定也。故名分未定，尧、舜、禹、汤且皆如鹜焉而逐之；名分已定，贪盗不取。今法令不明，其名不定，天下之人得议之。其议，人异而无定。</p>
+<p>　　人主为法于上，下民议之于下，是法令不定，以下为上也。此所谓名分之不定也。夫名分不定，尧、舜犹将皆折而奸之，而况众人乎？此令奸恶大起、人主夺威势、亡国灭社稷也道也。今先圣人为书而传之后世，必师受之，乃知所谓之名；不师受之，而人以其心意议之，至死不能知其名与其意。故圣人必为法令置官也，置吏也，为天下师，所以定名分也，名分定，则大诈贞信，巨盗愿悫，而各自治也。故夫名分定，势治之道也；名分不定，势乱之道也。故势治者不可乱，势乱者不可治。夫势乱而治之，愈乱；势治而治之，则治。故圣王治治不治乱。</p>
+<p>　　夫微妙意志之言，上知之所难也。夫不待法令绳墨，而无不正者，千万之一也。故圣人以千万治天下，故夫知者而后能知之，不可以为法，民不尽知；贤者而后知之，不可以为法，民不尽贤。故圣人为法，必使之明白易知，名正，愚知遍能知之；为置法官，置主法之吏，以为天下师，令万民无陷于险危。故圣人立天下而无刑死者，非不刑杀也，行法令，明白易知，为置法官吏为之师，以道之知，万民皆知所避就，避祸就福，而皆以自治也。故明主因治而终治之，故天下大治也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4014.aspx">上一章</a>
+<a href="/guwen/book_42.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2609" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

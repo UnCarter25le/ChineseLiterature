@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·相鲁_古诗文网
+</title>
+<meta content="孔子初仕為中都宰，制為養生送死之節，長幼異食、強弱異任、男女別塗、路無拾遺、器不雕偽，為四寸之棺，五寸之槨，因丘陵為墳，不封、不樹，行之一年，而西方之諸侯則焉．定公謂孔子曰：「學子" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4110.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2710" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>相鲁</b></span>
+<a href="javascript:PlayBookv(4110)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4110" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2710)" id="leftbtn2710" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4110" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　孔子初仕為中都宰，制為養生送死之節，長幼異食、強弱異任、男女別塗、路無拾遺、器不雕偽，為四寸之棺，五寸之槨，因丘陵為墳，不封、不樹，行之一年，而西方之諸侯則焉．定公謂孔子曰：「學子此法，以治魯國何如？」孔子對曰：「雖天下可乎，何但魯國而已哉．於是二年，定公以為司空．乃別五土之性，而物各得其所生之宜，咸得厥所．先時季氏葬昭公于墓道之南，孔子溝而合諸墓焉．謂季桓子曰：「貶君以彰己罪，非禮也，今合之，所以揜夫子之不臣．」由司空為魯大司寇．設法而不用，無姦民．</p>
+<p>　　定公與齊侯會于夾谷，孔子攝相事，曰：「臣聞有文事者，必有武備．有武事者，必有文備，古者諸侯並出疆，必具官以從，請具左右司馬．」定公從之．至會所，為壇位土階三等，以遇禮相見，揖讓而登，獻酢既畢，齊使萊人以兵鼓謲劫定公．孔子歷階而進，以公退曰：「士以兵之，吾兩君為好，裔夷之俘，敢以兵亂之，非齊君所以命諸侯也，裔不謀夏、夷不亂華、俘不干盟、兵不偪好、於神為不祥、於德為愆義、於人為失禮，君必不然．」齊侯心怍，麾而避之．有頃，齊奏宮中之樂，俳優侏儒戲於前．孔子趨進歷階而上，不盡一等，曰：「匹夫熒侮諸侯者，罪應誅，請右司馬速刑焉．」於是斬侏儒，手足異處．齊侯懼，有慚色．將盟，齊人加載書曰：「齊師出境，而不以兵車三百乘從我者，有如此盟．」孔子使茲無還對曰：「而不返我汶陽之田，吾以供命者，亦如之．」齊侯將設享禮，孔子謂梁丘據曰：「齊魯之故，吾子何不聞焉？」事既成矣，而又享之，是勤執事，且犧象不出門，嘉樂不野合，享而既具是棄禮，若其不具，是用秕粺，用秕粺君辱，棄禮名惡，子盍圖之．夫享，所以昭德也，不昭，不如其已．」乃不果享．齊侯歸，責其群臣曰：「魯以君子道輔其君，而子獨以夷狄道教寡人，使得罪．」於是乃歸所侵魯之四邑，及汶陽之田．</p>
+<p>　　孔子言於定公曰：「家不藏甲，邑無百雉之城，古之制也．今三家過制，請皆損之．」乃使季氏宰仲由隳三都．叔孫不得意於季氏，因費宰公山弗擾率費人以襲魯．孔子以公與季孫叔孫孟孫，入于費氏之宮，登武子之臺；費人攻之，及臺側，孔子命申句須樂頎勒士眾下伐之，費人北，遂隳三都之城．強公室，弱私家，尊君卑臣，政化大行．</p>
+<p>　　初，魯之販羊有沈猶氏者，常朝飲其羊以詐．市人有公慎氏者，妻淫不制．有慎潰氏，奢侈踰法．魯之鬻六畜者，飾之以儲價．及孔子之為政也，則沈猶氏不敢朝飲其羊．公慎氏出其妻．慎潰氏越境而徙．三月，則鬻牛馬者不儲價，賣羊豚者不加飾．男女行者，別其塗，道不拾遺．男尚忠信，女尚貞順．四方客至於邑，不求有司，皆如歸焉．</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4111.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2710" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

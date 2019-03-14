@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十二·鸮鸟_古诗文网
+</title>
+<meta content="长山杨令，性奇贪。康熙乙亥间，西塞用兵，市民间骡马运粮。杨假此搜括，地方头畜一空。周村为商贾所集，趁墟者车马辐辏。杨率健丁悉篡夺之，不下数百余头。四方估客，无处控告。时诸令皆以公务" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11860.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十二·鸮鸟</b></span>
+<a href="javascript:PlayBookv(11860)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11860" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11860" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　长山杨令，性奇贪。康熙乙亥间，西塞用兵，市民间骡马运粮。杨假此搜括，地方头畜一空。周村为商贾所集，趁墟者车马辐辏。杨率健丁悉篡夺之，不下数百余头。四方估客，无处控告。</p>
+<p>　　时诸令皆以公务在省。适益都令董、莱芜令范、新城令孙，会集旅舍。有山西二商迎门号诉，盖有健骡四头，俱被抢掠，道远失业不能归，哀求诸公为缓颊也。三公怜其情，许之。遂共诣杨。杨治具相款。酒既行，众言来意，杨不听。众言之益切。杨举酒促釂以乱之，曰：“某有一令，不能者罚。须一天上、一地下、一古人，左右问所执何物，口道何词，随问答之。”便倡云：“天上有月轮，地下有昆仑，有一古人刘伯伦。左问所执何物，答云：‘手执酒杯。’右问口道何词，答云：‘道是酒杯之外不须提。’”范公云：“天上有广寒宫，地下有乾清宫，有一古人姜太公。手执钓鱼竿，道是‘愿者上钩’。孙云：“天上有天河，地下有黄河，有一古人是萧何。手执一本《大清律》，他道是‘赃官赃吏’。”杨有惭色，沉吟久之，曰：“某又有之。天上有灵山，地下有太山，有一古人是寒山。手执一帚，道是‘各人自扫门前雪’。”众相视觍然。忽一少年傲岸而入，袍服华整，举手作礼。共挽坐，酌以大斗。少年笑曰：“酒且勿饮。闻诸公雅令，愿献刍荛。”众请之，少年曰：“天上有玉帝，地下有皇帝，有一古人洪武朱皇帝。手执三尺剑，道是‘贪官剥皮’。”众大笑。杨恚骂曰：“何处狂生敢尔！”命隶执之。少年跃登几上，化为鸮，冲帘飞出，集庭树间，四顾室中作笑声。主人击之，且飞且笑而去。</p>
+<p>　　异史氏曰：“市马之役，诸大令健畜盈庭者十之七，而千百为群，作骡马贾者，长山外不数数见也。圣明天子爱惜民力，取一物必偿其值，焉知奉行者流毒若此哉！鸮所至，人最厌其笑，儿女共唾之，以为不祥。此一笑则何异于凤鸣哉！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11859.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11861.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

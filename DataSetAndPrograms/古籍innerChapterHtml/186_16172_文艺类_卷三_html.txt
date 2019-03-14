@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·文艺类·卷三_古诗文网
+</title>
+<meta content="◎吴梅村绝命诗吴梅村祭酒病革时，有《绝命诗》云：“忍死偷生廿载余，而今罪孽怎消除。受恩欠债须填补，纵比鸿毛亦不如。”病中赋《贺新郎》一阕云：“万事催华发。论龚生、天年竟夭，高名难没" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16172.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>文艺类·卷三</b></span>
+<a href="javascript:PlayBookv(16172)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16172" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16172" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎吴梅村绝命诗</p>
+<p>　　吴梅村祭酒病革时，有《绝命诗》云：“忍死偷生廿载余，而今罪孽怎消除。受恩欠债须填补，纵比鸿毛亦不如。”病中赋《贺新郎》一阕云：“万事催华发。论龚生、天年竟夭，高名难没。吾病难将医药治，耿耿胸中热血。待洒向、西风残月。剖却心肝今置地，问华陀、解我肠千结。追往恨，倍凄咽。故人慷慨多奇节。为当年、沉吟不断，草间偷活。艾炙眉头瓜喷鼻，今日须难决绝。早患苦重来千叠。脱屣妻拿非易事，竟一钱不值何须说。人世事，几完缺。”</p>
+<p>　　至其诗集中如《吊侯朝宗》、《寄房师周芮公》诸作，凄酸激楚，自悔偷生，隐痛沉悲，殆难言喻。盖甲申而后，堂上健存，柴车屡征，忍耻一出，自与虞山合肥辈贪恋富贵者，心事略有不同。后人追考生平，慕其才，悲其遇可也。</p>
+<p>　　◎郑板桥笔榜</p>
+<p>　　字画索润，古人所有。板桥笔榜小卷，盖自书书画润笔例也，见之友人处，其文云：“大幅六两，中幅四两，小幅二两，书条对联一两，扇子斗方五钱。凡送礼物、食物，总不如白银为妙。公之所送，未必弟之所好也。送现银则中心喜乐，书画皆佳。礼物既属纠缠，赊欠尤为赖帐。年老神倦，不能陪诸君子作无益语言也。画竹多于买竹钱，只高六尺价三千，任渠话旧论交接，只当秋风过耳边。乾隆己卯，拙公和上属书谢客，板桥郑燮。”</p>
+<p>　　此老风趣可掬，视彼卖技假名士，偶逢旧友，貌为口不言钱，而实故靳以要厚酬者，其雅俗真伪何如乎？纸尾有吴山尊学士跋云：“乙亥、丙子间，与渊如同校唐文于邗上，皆有心遽意违，情怠手阑之困，适同游西□庵，见板桥此纸，戏属工人上石，贻同人工书画者，鼒记。”</p>
+<p>　　◎郑桥桥道情</p>
+<p>　　乾隆时，兴化郑燮工书画，书增减真、隶，别为一格，如秋花倚石，野鹤戛烟，自然成趣，时称“板桥体”。多效之者，然勿能似也。有道情十首，颇足醒世。</p>
+<p>　　序云：“枫叶芦花并客舟，烟波江上使人愁。劝君更尽一杯酒，昨日少年今白头。自家板桥道人是也，我先世元和公公流落人间，教歌度曲。我如今也谱得道情十首，无非唤醒痴聋，销除烦恼。每到山青水绿之处，聊以自遣自歌，若遇争名夺利之场，正好觉人觉世，这也是风流事业，措大生涯。不免将来请教诸公，以当一笑。”</p>
+<p>　　词曰：“老渔翁，一钓竿。靠山涯，傍水湾。扁舟来往无牵绊。沙鸥点点轻波远，荻港萧萧白昼寒，高歌一曲斜阳晚。一霎时波摇金影，蓦抬头月上东山。”</p>
+<p>　　二曰：“老樵夫，自砍柴。捆青松，夹绿槐。茫茫野草秋山外。丰碑是处成荒冢，华表千寻卧碧苔，坟前石马磨刀坏。倒不如闲钱沽酒，醉醺醺山径归来。”</p>
+<p>　　三曰：“老头陀，古庙中。自烧香，自打钟。兔葵燕麦闲斋供。山门破落无关锁，斜日苍黄有乱松，秋星闪烁颓垣缝。黑寂寂蒲团打坐，夜烧茶炉火通红。”</p>
+<p>　　四曰：“水田衣，老道人。背葫芦，戴袱巾。棕鞋布袜相厮称。修琴卖药般般会，捉鬼拿妖件件能，白云红叶归山径。闻说道悬岩结屋，却教人何处相寻。”</p>
+<p>　　五曰：“老书生，白屋中。说唐虞，道古风。许多后辈高科中。门前仆从雄如虎，陌上旌旗去似龙，一朝势落成春梦。倒不如蓬门僻巷，教几个小小蒙童。”</p>
+<p>　　六曰：“尽风流，小乞儿。数莲花，唱竹枝。千门打鼓沿街市。桥边日出犹酣睡，山外斜阳已早归，残杯冷炙饶滋味。醉倒在回廊古庙，一凭他雨打风吹。”</p>
+<p>　　七曰：“掩柴扉，怕出头。剪西风，菊径秋。看看又是重阳后。几行衰草迷山郭，一片残阳下酒楼，栖鸦点上萧萧柳。撮几句盲辞瞎话，却还供铁板歌喉。”</p>
+<p>　　八曰：“邈唐虞，远夏殷。卷宗周，入暴秦。争雄七国相兼并。文章两汉空陈迹，金粉南朝总废尘，李唐赵宋慌忙尽。最可叹龙盘虎踞，尽销磨燕子舂灯。”</p>
+<p>　　九曰：“吊龙逢，哭比干。羡庄周，行老聃。未央宫里王孙惨。南来薏苡徒兴谤，七尺珊瑚只自残，孔明枉作英雄汉。早知道茅庐高卧，省多少六出祁山。”</p>
+<p>　　十曰：“拨琵琶，续续弹。唤庸愚，警懦顽。四条弦上多哀怨。黄沙白草无人迹，古戍寒云乱鸟还，虞罗惯打孤飞雁。收拾起渔樵事业，任从他风雪关山。”</p>
+<p>　　尾声云：“风流家世元和老，旧曲翻新调，扯碎状元袍，脱却乌纱帽。俺唱这道情儿，归山去了。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16171.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16173.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

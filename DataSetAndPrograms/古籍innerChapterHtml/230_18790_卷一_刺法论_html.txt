@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷一·刺法论_古诗文网
+</title>
+<meta content="黄帝问曰：“人虚即神游失守位，使鬼神外干，是致夭亡，何以全真？愿闻刺法。”歧伯曰：“神移失守，虽在其体，然不致死，或有邪干，故令夭寿。只如厥阴失守，天已虚，人气肝虚，感天重虚，即魂" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18790.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·刺法论</b></span>
+<a href="javascript:PlayBookv(18790)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18790" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18790" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　黄帝问曰：“人虚即神游失守位，使鬼神外干，是致夭亡，何以全真？愿闻刺法。”</p>
+<p>　　歧伯曰：“神移失守，虽在其体，然不致死，或有邪干，故令夭寿。只如厥阴失守，天已虚，人气肝虚，感天重虚，即魂游于上。邪干厥阴大气，身温犹可刺之，刺足少阳之所过。咒曰：「太上元君，郁郁青龙，常居其左，制之三魂。」诵三遍，次呼三魂名：「爽灵、胎光、幽精。」诵三遍，次想青龙于穴下，刺之可徐徐出针，亲令人按气于口中，腹中鸣者可活；次刺肝之俞，咒曰：「太微帝君，元英制魂，贞元及本，令人青云」。又呼三魂名如前三遍。</p>
+<p>　　肝虚、天虚、又遇出汗，是谓三虚。神游上位，左无英君，神光不聚，白尸鬼至，令人卒亡。目有神采，心腹尚温，口中无涎，舌卵不缩。丘墟穴、针三分。九椎下两旁。针三分，留三呼，次进一分，留三呼，复退二分，留一呼，徐徐出针，气及复活。</p>
+<p>　　人病心虚，又遇君相二火，司天失守，感而三虚，遇火不及，黑尸鬼犯之，</p>
+<p>　　令人暴亡。可刺手少阳之所过。咒曰：「太乙帝君，泥丸总神，丹无黑气，来复其真。」诵三遍，想赤凤于穴下。复刺心俞，咒曰：「丹房守灵，五帝上清，阳和布体，来复黄庭。」诵三遍。</p>
+<p>　　舌卵不缩、目神不变。阳池。刺三分，留一呼，次进一分，留三呼，复退留一呼，徐出扪穴，即令复活。五椎两旁。刺法同前。</p>
+<p>　　人脾病，又遇太阴司天失守，感而三虚。又遇土不及，青尸鬼犯之，令人暴亡。可刺足阳明之所过。咒曰：「常在魂庭，始清太宁，元和布气，六甲及真。」诵三遍，先想黄庭于穴下。复刺脾俞，咒曰：「大始干位，总统坤元，黄庭真气，来复游全。」诵三遍。</p>
+<p>　　智意二神，游于上位，故曰失守。冲阳。刺三，留三，次进二，留一呼，徐徐出，以手扪。十一椎下两旁。刺三，留二，进五，动气至，徐出针。</p>
+<p>　　人肺病，遇阳明司天失守，感而三虚。又遇金不及，有赤尸鬼干人，令人</p>
+<p>　　暴亡。可刺手阳明之所过。咒曰：「青气真全，帝符日元，七魄归右，今复本田。」诵三遍，想白虎于穴下。复刺肺俞，咒曰：「左元真人，六合气宾，天符帝力，来入其门。」诵三遍。</p>
+<p>　　合谷。刺三，留三，次进二，留三，复退，留一，徐出，手扪。三椎下两旁。针一分半，留三呼，次进二分，留一呼，徐出，手扪。</p>
+<p>　　人肾病，又遇太阳司天失守，感而三虚。又遇水运不及之年，有黄尸鬼干人正气，吸人神魂，致暴亡。可刺足太阳之所过。咒曰：「元阳肓婴，五老及真，泥丸玄华，补精长存。」想黑气于穴下。复刺肾俞，咒曰：「天玄日晶，太和昆灵，贞元内守，持入始清。」诵三遍。</p>
+<p>　　京骨。刺一分半，留三呼，进三分，留一呼，徐出针扪穴。十四椎下两旁。刺三分，留三呼，进三分，留三呼，徐徐出针扪穴。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18789.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18791.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

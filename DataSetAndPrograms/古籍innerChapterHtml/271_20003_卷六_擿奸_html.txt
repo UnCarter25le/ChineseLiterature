@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+折狱龟鉴·卷六·擿奸_古诗文网
+</title>
+<meta content="173、黄霸抱儿(李崇、于仲文、张咏三事附)前汉时，颍川有富室，兄弟同居，其妇俱怀妊。长妇胎伤，匿之，弟妇生男，夺为己子。论争三年，不决。郡守黄霸使人抱儿于庭中，乃令娣姒竞取之。既" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20003.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·擿奸</b></span>
+<a href="javascript:PlayBookv(20003)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20003" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20003" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%83%91%e5%85%8b">郑克</a></p>
+<div class="contson">
+<p>　　173、黄霸抱儿(李崇、于仲文、张咏三事附)前汉时，颍川有富室，兄弟同居，其妇俱怀妊。长妇胎伤，匿之，弟妇生男，夺为己子。论争三年，不决。郡守黄霸使人抱儿于庭中，乃令娣姒竞取之。既而，长妇持之甚猛，弟妇恐有所伤，情极凄怆。霸乃叱长妇曰：“汝贪家财，固欲得儿，宁虑或有所伤乎？此事审矣。”即还弟妇儿，长妇乃服罪。</p>
+<p>　　旧出风俗通。</p>
+<p>　　按：疑狱集又载一事，与此相似：后魏李崇，为扬州刺史。部民苟泰有子三岁，失之，后见在郭奉伯家，各言己子，并有邻证，郡县不能决。崇乃令二父与儿各别禁数日，忽遣吏谓曰：“儿已暴死，可出举哀。”泰闻之，悲不自胜；奉伯嗟叹而已，殊无痛意。遂以儿还泰。出北史本传。此乃用霸擿奸之术者也。</p>
+<p>　　别载一事，亦颇相似：后周于仲文，为安固太守。有任、杜两家各失牛，后得一牛，两家具认，久不能决。仲文令各驱其家牛群至，乃放所认者，牛遂向任氏群中。又使人微伤其牛，任氏嗟惋，杜氏自若。遂诃杜氏，服罪而去。出北史于栗磾传。仲文，其八世孙也。此亦用霸擿奸之术者也。</p>
+<p>　　隋襄州总管裴政云：“凡推事有两：一察情，一据证。审其曲直，以定是非。”据证者，核奸用之；察情者，擿奸用之。盖证或难凭，而情亦难见，于是用谲以擿其伏，然后得之。此三事是也。于仲文放牛事又见证慝门。</p>
+<p>　　近时小说亦载一事云：张咏尚书镇蜀日，市有二婴孩同戏，其一为奔马所毙，孩母二人竞认生者为己子，私证无所验，有司不能决。咏佯怒，谓二妪曰：“若当时二子尽毙马足，尔亦何所争耶？”乃令健卒取儿，将掷于井中。一母前走，急往护之；一母后行，其意差懒。遂以子还前行者。此乃妄人傅会为之也。夫始生而夺之者，儿固未能识母也；三岁而失之者，儿或已忘其父也。二婴同戏，纵未能言，当已识母；非历时长久，亦不应便忘。且于仲文放所认牛向任氏群，而杜氏服罪；若放所认儿，则必向其母，而非母者服罪矣。岂得云“私证无所验”，而复用擿奸之术，佯为掷井之怒乎？无足取者，聊附之耳。</p>
+<p>　　174、薛宣断缣前汉时，临淮有一人，持匹缣到市卖之，道遇雨，披覆。后一人至，求共庇荫。雨霁当别，因相争斗，各云我缣，诣府自言。太守薛宣核实良久，莫肯首服。宣曰：“缣直数百钱，何足纷纭，自致县官。”呼骑吏中断缣，人各与半，使追听之。后人曰：“太守之恩。”缣主乃称冤不已。宣知其状，诘之服罪。旧出风俗通。</p>
+<p>　　按：此与黄霸抱儿之术同也。薛宣用于断所争之缣，仲文用于伤所认之牛，以其事异而理同故尔。后有善擿奸者，则霸之术犹可用也。</p>
+<p>　　175、周于语尸已见核奸门。</p>
+<p>　　按：于察死人状而得稻芒焉，因以求为奸之迹，是核奸者也；与死人语而使疑怪焉，因以动怀奸之心，是擿奸者也。核奸以正，擿奸以谲，此其所以异也。</p>
+<p>　　176、崔思兢诈言已见辨诬门。</p>
+<p>　　177、庄遵审奸已见释冤门。</p>
+<p>　　178、安重荣抽剑已见惩恶门。</p>
+<p>　　按：擿奸钩慝之术，皆与鞫情相似，而必用谲焉。尽心君子亦不可忽也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20002.aspx">上一章</a>
+<a href="/guwen/book_271.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20004.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

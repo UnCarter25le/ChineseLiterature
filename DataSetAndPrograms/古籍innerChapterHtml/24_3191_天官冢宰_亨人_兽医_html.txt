@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+周礼·天官冢宰·亨人/兽医_古诗文网
+</title>
+<meta content="亨人掌共鼎镬，以给水、火之齐。职外，内饔之爨亨煮，辨膳羞之物。祭祀，共大羹、鉶羹。宾客，亦如之。甸师掌帅其属而耕耨王藉。以时入之，以共齐盛。祭祀，共萧茅、共野果、瓜之荐。丧事，代王" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3191.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1721" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>天官冢宰·亨人/兽医</b></span>
+<a href="javascript:PlayBookv(3191)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3191" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1721)" id="leftbtn1721" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3191" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%91%a8%e5%85%ac%e6%97%a6">周公旦</a></p>
+<div class="contson">
+<p>　　亨人掌共鼎镬，以给水、火之齐。职外，内饔之爨亨煮，辨膳羞之物。祭祀，共大羹、鉶羹。宾客，亦如之。</p>
+<p>　　甸师掌帅其属而耕耨王藉。以时入之，以共齐盛。祭祀，共萧茅、共野果、瓜之荐。丧事，代王受眚灾。王之同姓有罪，则死刑焉。帅其徒以薪蒸，役外，内饔之事。</p>
+<p>　　兽人掌罟田兽，辨其名物。冬献狼，夏献麋，春秋献兽物。时田，则守罟。及弊田，令禽注于虞中。凡祭祀、丧纪、宾客，共其死兽、生兽。凡兽入于腊人，皮、毛、筋、角入于玉府。凡田兽者，掌其政令。</p>
+<p>　　渔人掌以时渔为梁。春献王鲔，辨鱼物，为鲜薨，以共王膳羞。凡祭祀、宾客、丧纪，共其鱼之鲜薨。凡渔者，掌其政令。凡渔征入于玉府。</p>
+<p>　　鳖人掌取互物，以时簎鱼、鳖、龟、蜃，凡狸物。春献鳖蜃，秋献龟鱼。祭祀，共蠯、蠃、蚳，以授醢人。掌凡邦之簎事。</p>
+<p>　　腊人，掌乾肉。凡田兽之脯腊膴胖之事，凡祭祀，共豆脯，荐脯、膴、胖，凡腊物，宾客、丧纪，共脯腊凡乾肉之事。</p>
+<p>　　医师掌医之政令，聚毒药以共医事。凡邦之有疾病者，疕疡者，造焉，则使医分而治之。岁终，则稽其医事，以制其食。十全为上，十失一次之，十失二次之，十失三次之，十失四为下。</p>
+<p>　　食医掌和王之六食，六饮、六膳、百羞、百酱、八珍之齐。凡食齐□春时，羹齐□夏时，酱齐□秋时，饮齐□冬时。凡和，春多酸，夏多苦，秋多辛，冬多咸，调以滑甘。凡会膳食之宜，牛宜稌，羊宜黍，豕宜稷，犬宜梁，雁宜麦，鱼宜蓏。凡君子之食恒放焉。</p>
+<p>　　疾医掌养万民之疾病。四时皆有疠疾：春时有瘠首疾，夏时有痒疥疾，秋时有疟寒疾，冬时有嗽上气疾。以五味、五谷、五药，养其病；以五气、五声、五声，□其死生。两之以九窃之变，参之以九藏之动。凡民之有疾病者，分而治之。死终，则各书其所以，而入于医师。</p>
+<p>　　疡医掌肿疡、溃疡、金疡、折疡之祝，药、劀、杀之齐。凡疗疡，以五毒攻之。以五气养之，以五药疗之，以五味节之。凡药以酸养骨，以辛养筋，以咸养脉，以苦养气，以甘养肉，以滑养窃。凡有疡者，受其药焉。</p>
+<p>　　兽医掌疗兽病，疗兽疡。凡疗兽病，灌而行之，以节之，以动其气，观其所发而养之。凡疗兽疡，灌而劀之，以发其恶，然后药之，养之，食之。凡兽之有病者，有疡者，使疗之。死，则计其数以讲退之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3190.aspx">上一章</a>
+<a href="/guwen/book_24.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3192.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1721" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

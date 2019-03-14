@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·巩_古诗文网
+</title>
+<meta content="历史来源　　1、出自姬姓，是以地名命姓的姓氏。周朝周敬王有个同族卿士简公收封于巩（今河南巩县），称为巩简公。巩简公一度执掌朝政，他鉴于周王室的历次内乱，大多因为贵族掌权而引起的。于" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2676.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>巩</b></span>
+<a href="javascript:PlayBookv(2676)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2676" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2676" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自姬姓，是以地名命姓的姓氏。周朝周敬王有个同族卿士简公收封于巩（今河南巩县），称为巩简公。巩简公一度执掌朝政，他鉴于周王室的历次内乱，大多因为贵族掌权而引起的。于是他便录用从各诸侯来的人士，而不再任用王族子弟为官。这项措施，引起了王族子弟的不满。后来王子朝作乱，将他杀害了。他的子孙便原封邑名"巩"命姓，称巩氏。<br/>　　2、古代羌族姓氏。古代羌族姓氏中有巩姓，如巩廉玉。3、出自春秋时晋国大夫巩朔的后代。</p>
+<p><strong>家族名人</strong><br/>　　巩信：宋朝安封人。曾经作过荆湖都统。他为人沉着冷静，智勇双全。后来加官进爵，升为江西招讨使，隶属文天祥部下。他初到都统府时，文天祥拨给他义士1000名，他婉言谢绝不用，到了江西之后自己招兵买马，集兵三千余数，亲自训练，作好战备。不久，元兵南下，他亲率兵马与元军交战于石岭一带，身受重伤后，便投崖而死，以身殉国。巩珍--明朝应天人。明朝永乐三年（1405年）间，明成祖为了发展对外关系，首次派郑和下西洋，巩珍便跟随船队出洋，三年间到了二十多个国家，他将在各地的所见所闻记录下来，撰成了一部书，名为《西洋番国志》。内中记述了各国的风土人情以及中国与亚非各国人民友好关系史上重要的一笔。这本书不仅引人入胜，也对中国的航海史及中国文化史作出了重要贡献。巩永固--字宏图。明朝宛平人。侍奉永安公主，崇尚文学雅致，喜欢结交贤士大夫，游览山河。崇祯末年，当李自成起义军攻陷京都，公主的灵柩尚在宫中大堂之上。永固以黄绳系其二女于公主灵前，纵火焚之。之后写下"身受国恩，义不可辱"八个大字，自刎而死。</p>
+<p><strong>迁徙分布</strong><br/>　　根据历来姓氏学古籍的考证，巩姓是周朝的世家公卿，发祥于现在河南省的巩县地方。巩县位于洛水的东岸，本是周朝时的诸侯之一，叫巩伯国，秦汉统一，便把巩伯国的原址，置为巩县。望族居于山阳郡，就是现在的山东省金乡县西北。巩氏后人奉巩简公为巩姓的得姓始祖。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2675.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2677.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

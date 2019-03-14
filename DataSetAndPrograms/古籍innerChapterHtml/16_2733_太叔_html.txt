@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·太叔_古诗文网
+</title>
+<meta content="历史来源　　1、出自姬姓，是卫国开国始祖康叔的后代，以祖上次第排名为氏。春秋时，卫国国君卫文公姬毁的第三个儿子叫姬仪。在古代，兄弟以伯仲叔季为次序来排名，姬仪因为排行老三，所以人称" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2733.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>太叔</b></span>
+<a href="javascript:PlayBookv(2733)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2733" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2733" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源<br/></strong>　　1、出自姬姓，是卫国开国始祖康叔的后代，以祖上次第排名为氏。春秋时，卫国国君卫文公姬毁的第三个儿子叫姬仪。在古代，兄弟以伯仲叔季为次序来排名，姬仪因为排行老三，所以人称叔仪，又因为他是王族之后，所以世称太叔仪。他的后代子孙以祖上的次第排名字命姓，称太叔复姓。<br/>　　2、亦出自姬姓，以祖上封号为氏。春秋时，郑庄公名叫寤生，他的弟弟叫作段，被封在京，世称京城太叔，其后代子孙遂以祖先封号命姓，称太叔复姓。</p>
+<p><strong>家族名人</strong><br/>　　太叔仪：古代春秋时期，卫国有一位周朝的王族后代叫姬仪，姬仪排行第三，也就是卫文公姬毁的第三个儿子。古时候，兄弟辈排行次序，老大称伯，老二称仲，老三称叔，老四称季。姬仪为老三，就称作叔仪。而姬姓源自周朝王族，（周文王叫姬昌，周武王叫姬发）于是外人称呼叔仪时为表示尊敬，就称他太叔仪。太叔仪的子孙，以先辈的身份为荣耀，世代姓太叔。<br/>　　太叔段：春秋郑国人。郑武公少子，庄公弟。母爱而欲立为太子，武公不许。在古代，太叔这样的尊称是被普遍采用，称呼王公贵族中排行三的子弟，而也可能被子孙延用演变成姓氏。见于古书记载的春秋时郑国有一位京城太叔，他也是周朝姬姓王族的后代，名叫段，受封于京城。他的后代就取京城太叔中的“太叔”两字为姓。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）太叔姓在大陆和台湾都没有列入百家姓前一百位。太叔姓并不多见，源起皇族姓氏。一是出自姬姓。春秋时期，卫国国君卫文公的第三子名仪，而卫文公是周朝的王族后代。按古时的排序规则，三子应为叔字（古时候，兄弟辈排行次序，老大称伯，老二，三，四分别是仲，叔，季）。因此，仪又称作叔仪。为表示对周室皇族的尊重，他人称呼叔仪时都加个“太”字，即为太叔仪。太叔仪的子孙，以此身份为荣耀，改姓太叔。后来，太叔这个称呼在贵族中流传。凡王公皇室贵族中排行三的子弟，都称之为太叔，他们的子孙也演变为越来越多的太叔氏。二是出自春秋郑庄公之弟段，他也是周朝姬姓王族的后代，受封于京城，众人称之为京城太叔。他的后代就取太叔两字为姓。太叔氏望出东平郡（在今天山东省东平、泰安一带），这个姓氏到了秦汉以后便逐渐少见。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2732.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2734.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

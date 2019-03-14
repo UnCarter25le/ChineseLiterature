@@ -1,0 +1,119 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·治诸风方·风痹第八_古诗文网
+</title>
+<meta content="（论一首 方九首）论曰∶血痹病从何而得之？师曰∶夫尊荣人骨弱肌肤盛，因疲劳汗出，卧不时动摇加被微风遂得之，形如风状。（巢源云其状如被微风所吹。）但以脉自微涩，涩在寸口，关上紧，宜针" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12700.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>治诸风方·风痹第八</b></span>
+<a href="javascript:PlayBookv(12700)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12700" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12700" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（论一首 方九首）</span></p>
+<p>　　论曰∶血痹病从何而得之？师曰∶夫尊荣人骨弱肌肤盛，因疲劳汗出，卧不时动摇加被微风遂得之，形如风状。（巢源云其状如被微风所吹。）但以脉自微涩，涩在寸口，关上紧，宜针引阳气，令脉和紧去则愈。</p>
+<p>　　<strong>防己黄汤<br/>　　治风湿脉浮身重汗出恶风方。</strong></p>
+<p>　　甘草（二两） 黄 （五两） 汉防己（四两） 生姜 白术（各三两） 大枣（十二枚）</p>
+<p>　　上六味 咀，以水六升煮取三升，分三服，服了坐被中，欲解如虫行皮中，卧取汗。</p>
+<p>　<strong>　黄汤<br/>　　治血痹阴阳俱微，寸口关上微，尺中小紧，外证身体不仁如风状方。</strong></p>
+<p>　　蜀黄 人参（《要略》无） 芍药 桂心（各二两） 生姜（六两） 大枣（十二枚）</p>
+<p>　　上六味 咀，以水六升，煮取二升，服七合，日三服，令尽。</p>
+<p>　　<strong>治风痹游走无定处，名曰血痹大易方∶</strong></p>
+<p>　　萆 薯蓣 牛膝 泽泻（各二两） 白术 地肤子（各半两） 干漆 蛴螬 车前子 狗脊 天雄（各十铢） 茵芋（六铢） 山茱萸（三十铢） 干地黄（二两半）</p>
+<p>　　上十四味为末，蜜和丸如梧桐子大，酒下十丸，日三，后稍加。</p>
+<p>　<strong>　治游风行走无定，肿或如盘大，或如瓯，或着腹背，或着臂，或着脚，悉主之方∶</strong></p>
+<p>　　海藻 茯苓 防风 独活 附子 白术（各三两） 大黄（五两） 当归（一本作当陆）鬼？</p>
+<p>　　上九味 咀，以酒二斗渍五日，初服二合，渐加，以知为度。</p>
+<p>　　<strong>铁精汤<br/>　　治三阴三阳厥逆寒食，胸胁支满，病不能言，气满胸中急，肩息，四肢时寒热不随，喘悸烦乱，吸吸少气，言辄飞扬虚损方。</strong></p>
+<p>　　黄铁（三十斤，以流水八斗扬之三千遍，以炭烧，令赤，投冷水复烧七遍，如此澄清，取汁二斗煮药） 人参（三两） 半夏 麦门冬（各一升） 白薇 黄芩 甘草 芍药（各四两）石膏（五两） 生姜（二两） 大枣（二十枚）</p>
+<p>　　上十味 咀，纳前汁中煮取六升，服一升日三服，两日令尽。</p>
+<p>　　<strong>治诸风痹方∶</strong></p>
+<p>　　防风 甘草 黄芩 桂心 当归 茯苓（各一两） 秦艽 葛根（各二两） 生姜（五两）大枣（三十枚） 杏仁（五十枚）</p>
+<p>　　上十一味 咀，以酒水各四升，煮取三升，分三服，取汗。</p>
+<p>　<strong>　白蔹散<br/>　　治风痹肿，筋急展转易常处方。</strong></p>
+<p>　　白蔹（半两） 附子（六铢）</p>
+<p>　　上二味治下筛，酒服半刀圭，日三。不知增至一刀圭，身中热行为候十日便觉。</p>
+<p>　　<strong>附子酒<br/></strong>　　治大风冷痰癖胀满诸痹方大附子一枚，重二两者（亦云二枚），酒五升渍，春五日。每服一合，日再，以瘥为度。</p>
+<p>　　<strong>麻子酒<br/></strong>　　治虚劳百病，伤寒风湿，及妇人带下，月水往来不调，手足疼痹着床，服之令人肥健方。</p>
+<p>　　麻子（一石） 法曲（一斗）</p>
+<p>　　上二味先捣麻子成末，以水二石着釜中，蒸麻子极熟，炊一石米顷出滓，随汁多少，如家酝法，候熟，取清酒，随性饮之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12699.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12701.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

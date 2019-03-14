@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷二·辽阳陷_古诗文网
+</title>
+<meta content="天启元年三月二十日，辽阳陷。先是，经略袁应泰闻沈阳陷，与巡按张铨、分守道何廷魁、监军道崔儒秀等会议，忽报大兵自四里铺至矣，命总兵侯世禄，出敌，遇哈都、哈真二将合战，自午至戌胜负未分" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13468.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·辽阳陷</b></span>
+<a href="javascript:PlayBookv(13468)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13468" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13468" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　天启元年三月二十日，辽阳陷。先是，经略袁应泰闻沈阳陷，与巡按张铨、分守道何廷魁、监军道崔儒秀等会议，忽报大兵自四里铺至矣，命总兵侯世禄，出敌，遇哈都、哈真二将合战，自午至戌胜负未分，遂收兵，至东山驻营。大兵乘夜攻小西门，应泰命发火器达旦。大兵死伤颇众，火器亦尽。令监军牛维曜出小南门助侯世禄再战，维曜中流矢师溃。世禄不支亦走。应泰与张铨、何廷魁、崔儒秀城上见之，知事败，乃曰：本院奉命专征，欲恢复疆土，上报朝廷，下安百姓，无如天数至此，使谋臣不能决策，勇将不能奏功，辽阳会城危在指顾，若退守河西，不惟无颜面圣，抑且羞见诸将士，愿缴尚方，誓以身殉。公等无阃外责可速出城收拾余烬为退守河西计。铨等曰：我辈皆受国恩，今日患难时，正当捐躯报国，愿相从地下，同为厉鬼击敌耳。言未讫，四门报攻城，各分门而守。顷之小西门火起，大兵已登城。小南门内应开门兵大入，应泰在东城楼拜阙谢恩取剑自刎。儒秀缢死。张铨死守北门，见李永芳攻城大骂背国忘君逆贼。永芳佯不闻，厉声叱兵攻益急，须臾城破，铨于城楼，犹骂不绝口。大兵登城杀之。遍城火起，哭声震地。何廷魁回署，与一妻二女投园井而死。</p>
+<p>　　附记</p>
+<p>　　辽阳生员杨某，顺治十七年总督松江，与无锡进士刘果远会饮，演梨园酒酣，杨拍案呼曰：此板误矣。刘间曰：老总台精审音律乎：杨曰：予命亦藉是获存。初辽东之破也，恐民贫思乱，先拘贫民杀尽，又二年恐民富聚众致乱，复尽杀之。惟四等人不杀。一等皮工，能为快鞋不杀。二等木工，能作器用，不杀。三等针工能缝裘帽不杀。四等优人能歌汉曲，不杀。惟欲杀秀士。</p>
+<p>　　时予为谋生思得寸进，闭户读书，面颇肥白，被获，问曰：汝得非秀士乎。对日：非也。优人耳。曰：优人必善歌，汝试歌之，予遂唱四平腔一曲始得释。杨述竟，即于筵间亲点板歌一阕而罢。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13467.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13469.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

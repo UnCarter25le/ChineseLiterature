@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷八·钱卜巫_古诗文网
+</title>
+<meta content="夏商，河间人。其父东陵，豪富侈汰，每食包子，辄弃其角，狼藉满地。人以其肥重，呼之“丢角太尉”。暮年家甚贫，日不给餐，两肢瘦垂革如囊，人又呼“募庄僧”，谓其挂袋也。临终谓商曰：“余生" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11722.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·钱卜巫</b></span>
+<a href="javascript:PlayBookv(11722)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11722" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11722" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　夏商，河间人。其父东陵，豪富侈汰，每食包子，辄弃其角，狼藉满地。人以其肥重，呼之“丢角太尉”。暮年家甚贫，日不给餐，两肢瘦垂革如囊，人又呼“募庄僧”，谓其挂袋也。临终谓商曰：“余生平暴殄天物，上干天怒，遂至冻饿以死。汝当惜福力行，以盖父愆。”</p>
+<p>　　商恪遵治命，诚朴无二，躬耕自给。乡人咸爱敬之。富人某翁哀其贫，假以资使学负贩，辄亏其母。愧无以偿，请为佣，翁不肯。商瞿然不自安，尽货其田宅，往酬翁。翁请得情，益直之。强为赎还旧业；又益贷以重金，俾作贾。商辞曰：“十数金尚不能偿，奈何结来生驴马债耶？”翁乃招他贾与偕。数月而返，仅能不亏；翁不收其息，使复之。年余贷资盈辈，归至江，遭飓，舟几覆，物半丧失。归计所有，略可偿主，遂语贾曰：“天之所贫，谁能救之？此皆我累君也！”乃稽簿付贾，奉身而退。翁再强之，必不可，躬耕如故。每自叹曰：“人生世上，皆有数年之享，何遂落魄如此？”会有外来巫，以钱卜，悉知人运数。敬诣之。巫，老妪也。寓室精洁，中设神座，香气常熏。商人朝拜讫，巫便索资。商授百钱，巫尽纳木筒中，执跪座下，摇响如祈签状。已而起，倾钱入手，而后于案上次第摆之。其法以字为否，幕为亨；数至五十八皆字，以后则尽幕矣。遂问：“庚甲几何？”答：“二十八岁。”巫摇首曰：“早矣！官人现行者先人运，非身运。五十八岁方交本身运，始无盘错也。”问：“何谓先人运？”曰：“先人有善，其福未尽，则后人享之；先人有不善，其祸未尽，则后人亦受之。”商屈指曰：“再三十年，齿已老耆，行就木矣。”巫曰：“五十八以前，便有回国，略可营谋；然仅免饥寒耳。五十八之年，当有巨金自来，不须力求。官人生无过行，再世享之不尽也。”别巫而返，疑信半焉。然安贫自守，不敢妄求。后至五十三岁，留意验之。时方东作，病痁不能耕。既痊，天大旱，早禾尽枯。近秋方雨，家无别种，田数亩悉以种谷。既而又旱，葬菽半死，惟谷无恙；后得雨勃发，其丰倍焉。来春大饥，得以无馁。商以此信巫，从翁贷资，小权子母，辄小获；或劝作大贾，商不肯。迨五十七岁，偶葺墙垣，掘地得铁釜；揭之，白气如絮，惧不敢发。移时气尽，白镪满瓮。夫妻共运之，称计一千三百二十五两。窃议巫术小舛。邻人妻入商家，窥见之，归告夫。夫忌焉，潜告邑宰。宰最贪，拘商索金。妻欲隐其半，商曰：“非所宜得，留之贾祸。”尽献之。宰得金，恐其漏匿，又追贮器，以金实之，满焉，乃释商。居无何，宰迁南昌同知。逾岁，商以懋迁至南昌，则宰已死。妻子将归，货其粗重；有桐油如干篓，商以直贱，买之以归。既抵家，器有渗漏，泻注他器，则内有白金二铤；遍探皆然。兑之，适得前掘镪之数。</p>
+<p>　　商由此暴富，益赡贫穷，慷慨不吝。妻劝积遗子孙，商曰：“此即所以遗子孙也。”邻人赤贫至为丐，欲有所求，而心自愧。商闻而告之曰：“昔日事，乃我时数未至，故鬼神假子手以败之，于汝何尤？”遂周给之。邻人感泣。后商寿八十，子孙承继，数世不衰。</p>
+<p>　　异史氏曰：“汰侈已甚，王侯不免，况庶人乎！生暴天物，死无饭含，可哀矣哉！幸而鸟死鸣哀，子能干盅，穷败七十年，卒以中兴；不然，父孽累子，子复累孙，不至乞丐相传不止矣。何物老巫，遂宣天之秘？鸣呼！怪哉！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11721.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11723.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

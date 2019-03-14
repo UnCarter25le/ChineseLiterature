@@ -1,0 +1,127 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·伤寒方上·发汗散第四_古诗文网
+</title>
+<meta content="（方十一首）度瘴发汗青散　　治伤寒敕色，恶寒发热，头痛项强体疼方。麻黄（三两半） 桔梗 细辛 吴茱萸 防风 白术（各一两） 乌头 干姜 蜀椒 桂心（各一两六铢）上十味治下筛，温酒服" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12704.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>伤寒方上·发汗散第四</b></span>
+<a href="javascript:PlayBookv(12704)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12704" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12704" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p><span style="font-family:FangSong_GB2312;">　　（方十一首）</span></p>
+<p>　　<strong>度瘴发汗青散<br/>　　治伤寒敕色，恶寒发热，头痛项强体疼方。</strong></p>
+<p>　　麻黄（三两半） 桔梗 细辛 吴茱萸 防风 白术（各一两） 乌头 干姜 蜀椒 桂心（各一两六铢）</p>
+<p>　　上十味治下筛，温酒服方寸匕，温覆取汗，汗出止。若不得汗，汗少不解，复服如法。</p>
+<p>　　若得汗足，如故头痛发热，此为内实，当服 豉丸。若翟氏丸。如得便头重者，可以二大豆许，纳鼻孔中，觉燥涕出，一日可三四度，必愈。兼辟时行病。</p>
+<p>　　<strong>五苓散<br/>　　主时行热病但狂言烦躁，不安，精彩言语不与人相当者方。</strong></p>
+<p>　　猪苓 白术 茯苓（各十八铢） 桂心（十二铢） 泽泻（三十铢）</p>
+<p>　　上五味治下筛，水服方寸匕，日三，多饮水，汗出即愈。</p>
+<p>　<strong>　崔文行解散<br/>　　治时气不和伤寒发热者方。</strong></p>
+<p>　　桔梗 细辛（各四两） 白术（八两） 乌头（一斤）</p>
+<p>　　上四味治下筛，若中伤寒服钱五匕，覆取汗解。若不觉，复小增之，以知为度。若时气不和，旦服钱五匕。辟恶气欲省病者服一服，皆酒服。</p>
+<p>　　<strong>六物青散<br/>　　治伤寒敕色恶寒方。</strong></p>
+<p>　　附子 白术（各一两六铢） 防风 细辛（各一两十八铢） 桔梗 乌头（各三两十八铢）</p>
+<p>　　上六味治下筛，以温酒服钱五匕，不知稍增之。服后食顷不汗出者，进温粥一杯以发之，温覆汗 可也。勿令流离，勿出手足也，汗出止。若汗大出不止者，温粉粉之，微者不须粉。不得汗者，当更服之。得汗而不解者，当服神丹丸。</p>
+<p>　　<strong>青散<br/>　　治春伤寒头痛发热方。</strong></p>
+<p>　　苦参 浓朴 石膏（各三十铢） 大黄 细辛（各二两） 麻黄（五两） 乌头（五枚）</p>
+<p>　　上七味治下筛。觉伤寒头痛发热，以白汤半升和药方寸匕投汤中，熟讫去滓尽服覆取汗，汗出温粉粉之良久。一服不除，宜重服之。或当微下利者，有大黄故也。</p>
+<p>　　<strong>诏书发汗白薇散<br/>　　治伤寒三日不解者方。</strong></p>
+<p>　　白薇（十二铢） 杏仁 贝母（各十八铢） 麻黄（一两八铢）</p>
+<p>　　上四味治下筛，酒服方寸匕，自覆卧汗出即愈。</p>
+<p>　　<strong>华佗赤散<br/></strong>　　治伤寒头痛身热，腰背强引颈，及中风口噤疟不绝，妇人产后中风寒经气 </p>
+<p>　　丹砂（十二铢） 蜀椒 蜀漆 干姜 细辛 黄芩 防己 桂心 茯苓 人参 沙参 桔梗女萎（即葳蕤） 乌头（各十八铢） 雄黄（二十四铢） 吴茱萸（三十铢） 麻黄 代赭（各二两半）</p>
+<p>　　上十八味治下筛，酒服方寸匕，日三。耐药者二匕。覆令汗出。欲治疟先发一时，所服药二匕半，以意消息之。细辛、姜、桂、丹砂、雄黄不熬，余皆熬之。</p>
+<p>　　<strong>赤散<br/>　　治伤寒头痛项强、身热腰脊痛往来有时方。</strong></p>
+<p>　　干姜 防风 沙参 细辛 白术 人参 蜀椒 茯苓 麻黄 黄芩 代赭 桔梗 吴茱萸（各一两） 附子（二两）</p>
+<p>　　上十四味治下筛，先食，酒服一钱匕，日三。</p>
+<p>　<strong>　乌头赤散<br/>　　治天行疫气病方。</strong></p>
+<p>　　乌头（一两半） 皂荚（半两） 雄黄 细辛 桔梗 大黄（各一两）</p>
+<p>　　上六味治下筛，清酒或井华水服一刀圭，日二，不知稍增，以知为度。除时气疫病，若牛马六畜中水行疫，亦可与方寸匕，人始得病一日时，服一刀圭，取两大豆许，吹注两鼻孔中。</p>
+<p>　<strong>　水解散<br/>　　治时行头痛壮热一二日方。</strong></p>
+<p>　　桂心 甘草 大黄（各二两） 麻黄（四两）</p>
+<p>　　上四味治下筛，患者以生熟汤浴，讫以暖水服方寸匕，日三，覆取汗，或利便瘥。力强人服二方寸匕。（《延年秘录》有黄芩、芍药各二两。《古今录验》无甘草，有芍药。治天行热病生 疮疼痛及解肌出汗）</p>
+<p>　<strong>　治时病表里大热欲死方∶</strong></p>
+<p>　　大黄 寒水石 芒硝 石膏 升麻 麻黄 葛根 （各等分）</p>
+<p>　　上八味治下筛，水服方寸匕，日三。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12703.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12705.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

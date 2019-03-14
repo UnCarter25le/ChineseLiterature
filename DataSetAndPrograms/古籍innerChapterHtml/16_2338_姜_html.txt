@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·姜_古诗文网
+</title>
+<meta content="历史来源「姜」源出  ;姜氏为中华民族最古老的姓之一，炎帝就是姓「姜」。一 ; 以地名为氏。据《说文解字》及《元和姓纂》所载，神农 ( 炎帝 ) 生于姜水，故以为姓。姜太公 ( 姜" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2338.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>姜</b></span>
+<a href="javascript:PlayBookv(2338)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2338" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2338" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong></p>
+<p>　　「姜」源出  ;</p>
+<p>　　姜氏为中华民族最古老的姓之一，炎帝就是姓「姜」。</p>
+<p>　　一 ; 以地名为氏。据《说文解字》及《元和姓纂》所载，神农 ( 炎帝 ) 生于姜水，故以为姓。姜太公 ( 姜尚 ) ，封于齐国，后为田和所灭，子孙分散，逐为「姜」氏。</p>
+<p>　　二 ; 据《诗经》所载，相传周族始祖后稷之母为「姜嫄」，乃姜姓有邰氏之女。</p>
+<p><strong>家族名人</strong></p>
+<p>　　姜嫄</p>
+<p>　　传为有邰氏之女，「帝喾」妃，周始祖后稷之母。于野外践踏巨人足迹而生稷。见《史记˙卷四˙周本纪》。或作姜原。</p>
+<p>　　姜维 (202～264）</p>
+<p>　　字伯约，三国蜀汉天水冀县人。本为魏将，后归附蜀，为诸葛亮重用，任征西将军。诸葛亮死后，继领其军。魏军攻蜀，后主刘禅降魏，姜维被迫投降。后欲谋复国，事败被乱军所杀。</p>
+<p>　　姜夔 (1155～1221）</p>
+<p>　　字尧章，自号白石道人，宋鄱阳人。终生未出仕，常往来于鄂、赣、皖、浙、苏之间，后病死于杭州。姜氏精通音律，常自度曲，工诗，词尤精。夔词以句琢字炼、清丽婉约见胜。在白石道人歌曲六卷中，有十七首词曲均有古工尺字旁谱，为研究词乐的重要资料。宁宗广元三年进大乐议一卷及琴瑟考古图一卷，论评古今的乐制问题，建议整理宫廷音乐，但未被采纳，今已失传。着有白石道人诗集、词集、歌曲等。</p>
+<p><strong>地望分布</strong></p>
+<p>　　甘肃天水郡。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2337.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2339.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

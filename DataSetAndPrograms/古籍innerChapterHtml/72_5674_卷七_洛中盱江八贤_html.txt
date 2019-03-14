@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+容斋随笔·卷七·洛中盱江八贤_古诗文网
+</title>
+<meta content="司马温公《序赙礼》，书闾阎之善者五人，吕南公作《不欺述》，书三人，皆以卑微不见于史氏。予顷修国史，将以缀于孝行传而不果成，聊纪之于此。温公所书皆陕州夏县人。曰医刘太，居亲丧，不饮酒" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5674.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4181" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·洛中盱江八贤</b></span>
+<a href="javascript:PlayBookv(5674)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5674" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4181)" id="leftbtn4181" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5674" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b4%aa%e8%bf%88">洪迈</a></p>
+<div class="contson">
+<p>　　司马温公《序赙礼》，书闾阎之善者五人，吕南公作《不欺述》，书三人，皆以卑微不见于史氏。予顷修国史，将以缀于孝行传而不果成，聊纪之于此。温公所书皆陕州夏县人。曰医刘太，居亲丧，不饮酒食肉终三年，以为今世士大夫所难能。其弟永一，尤孝友廉谨。夏县有水灾，民涨死者以百数，永一执竿立门首，他人物流入门者，辄擿出之。有僧寓钱数万于其室而死，永一诣县自陈，请以钱归其子弟。乡人负债不偿者，毁其券。曰周文粲，其兄嗜酒，仰弟为生，兄或时酗殴粲，邻人不平而唁之，粲怒曰：“兄未尝殴我，汝何离间吾兄弟也！”曰苏庆文者，事继母以孝闻，常语其妇曰：“汝事吾母小不谨，必逐汝！”继母少寡而无子，由是安其室终身。曰台亭者，善画，朝廷修景灵宫，调天下画工诣京师，事毕，诏选试其优者，留翰林授官禄，亨名第一。以父老固辞。归养于田里。</p>
+<p>　　南公所书皆建昌南城人。曰陈策，尝买骡，得不可被鞍者，不忍移之他人，命养于野庐，俟其自毙。其子与猾驵计，因经过官人丧马，即磨破骡背，以炫贾之。既售矣，策闻，自追及，告以不堪。官人疑策爱也，秘之。策请试以鞍，亢亢终日不得被，始谢还焉。有人从策买银器若罗绮者，策不与罗绮。其人曰：“向见君帑有之，今何靳？”策曰：“然，有质钱而没者，岁月已久，丝力糜脆不任用，闻公欲以嫁女，安可以此物病公哉！”取所当与银器投炽炭中，曰：“吾恐受质人或得银之非真者，故为公验之。”曰危整者，买鲍鱼，其驵舞秤权阴厚整。鱼人去，身留整傍，请曰：“公买止五斤，已为公密倍入之，愿畀我酒。”整大惊，追鱼人数里返之，酬以直。又饮驵醇酒，曰：“汝所欲酒而已，何欺寒人为？”曰曾叔卿者，买陶器欲转易于北方，而不果行。有人从之并售者，叔卿与之，已纳价，犹问曰：“今以是何之？”其人对：“欲效公前谋耳。”叔卿曰：“不可，吾缘北方新有灾荒，是故不以行，今岂宜不告以误君乎？”遂不复售。而叔卿家苦贫，妻子饥寒不恤也。鸣呼，此八人者贤乎哉！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5673.aspx">上一章</a>
+<a href="/guwen/book_72.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5675.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4181" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

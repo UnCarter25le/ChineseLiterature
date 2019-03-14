@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·气节类·卷六_古诗文网
+</title>
+<meta content="◎秋帆尚书镇洋毕秋帆先生，负海内重望，文章政绩，自具国史。乾隆五十二年，先生为河南巡抚。六月廿四日夜，湖北荆州府江水暴涨，堤ㄨ城决，淹没田庐，人民死者以数十万计。七月朔日，得襄阳飞" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16151.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>气节类·卷六</b></span>
+<a href="javascript:PlayBookv(16151)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16151" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16151" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎秋帆尚书</p>
+<p>　　镇洋毕秋帆先生，负海内重望，文章政绩，自具国史。乾隆五十二年，先生为河南巡抚。六月廿四日夜，湖北荆州府江水暴涨，堤ㄨ城决，淹没田庐，人民死者以数十万计。</p>
+<p>　　七月朔日，得襄阳飞信，先生即于是日先发藩库银四十万两，星夜解楚赈济；一面奏闻。高宗皇帝大加奖赏，以为有督抚才，不数日即擢授两湖总督，兼理巡抚事务。先生为人仁而厚，博而雅，见人有一善，必咨嗟称道之不置。好施与，重然诺，笃于朋友，如蒋莘畲、程鱼门、曹习庵诸公身后事，皆为料理得宜，虽千金不顾也。家蓄梨园一部，公余之暇便令演唱。一日，客同坐观剧，谓先生曰：“公得毋奢乎？”先生笑曰：“吾尝题文文山遗像有云：‘自有文章留正气，何曾声妓累忠忱。’所谓大德不逾闲，小德出入可也。”客始服其言。时和公相声威赫奕，欲令天下督抚皆欲奔走其门以为快，而先生澹然置之。五十四年夏，和相年四十，自宰相而下皆有币帛贺之，惟先生独赋诗十首，并检书画铜瓷数物，为公相寿。</p>
+<p>　　人曰：“公将以此诗入冰山录中耶？”先生默然，乃大悟，终其身不交和相。六十年二月，贵州苗民石柳邓、湖南苗民石三保第聚众劫掠，人民震恐。先生闻之，即驰赴常德，筹办灭贼之计。事既平，尚驻辰州，以积劳成疾，卒于当阳旅馆，年六十七。后二年，和相果伏法。</p>
+<p>　　◎魏廷珍</p>
+<p>　　魏廷珍，字君弼，直隶景州人，康熙癸巳探花，精于算法，赋性骨鲠，累遭世庙训饬，而向用不衰。总督漕运时，上命国师文觉往南朝山，仪卫尊严等王公，所过地方官员膜拜如弟子，至淮督关，年希尧首行此礼，大学士河督嵇曾筠不得已从之，魏独植立徜徉，且上疏言“臣不能从佛法”，上亦不之罪也。</p>
+<p>　　◎陈恪勤</p>
+<p>　　陈恪勤之被逮入都也，除夕市米潞河，主人问：“客何来？”曰：“陈太守。”</p>
+<p>　　“是湘潭陈公邪？”曰：“然。”曰：“是廉吏，安用钱为？”反其值，问寓何所。次日门外车槛槛馈米十石，书一函，称：“天子必再用公，公宜以一节终始，毋失天下望。”纸尾不署姓名，问担夫，曰：“其人姓魏。”访之，则闭户他出矣。盖隐君子也。</p>
+<p>　　◎佛典属</p>
+<p>　　蒙古典属佛尔卿额，顺义王俺答裔也。其祖锡拉被掳，至隶上驷院牧马，仁皇帝于内苑阅马，见其竟日无怠容，曰：“此金日碑俦也。”因擢侍卫。宪皇帝御极，廉亲王允祀等觊觎大位，拉公首发逆谋，宪皇帝悦之，擢内大臣，其子孙皆膺无仕。公其长孙也，年十六，即擢宿卫。尝擎盖于马上假寐，误惊御骑，纯皇帝恶之，以贵臣子不即责，倘佯禁闼三十余年，未逾一级。公性滑稽作谑语，时上最喜赞礼郎，多有至大位者，公曰：“蜩蝉辈亦足贵耶？某虽不肖，实能揣摩其调，秋娘纵老，犹可献倚门技也。”因与擢其选，上大喜曰：“尔亦能作是耶？”立擢鸿胪卿，未逾年，授副都统。时和相擅权，旨未下，时有贺之者。公告人曰：“余之升擢，犹弈者反着，其子尚未定也。”人争笑之。公素不信佛，谓世无轮回事，病革时呼子孙环列榻前，众以为有遗嘱，公忽张目曰：“此时目前尚无一鬼，至是终无鬼矣。寄语世人，莫信浮屠说也。”语罢，瞑目逝。是临终尚作笑柄也。</p>
+<p>　　◎陈鹏年</p>
+<p>　　姚石甫《识小录》云：“衢州人言，院总陈鹏年始为西安令。行乡征粮，至徐忠庄公言祠，徐氏子孙张公像，陈为之避坐。更至留氏祠，留氏亦张梦炎像，陈见之大怒，仆像于地，杖之二十。先是留氏子孙犹盛，多兴者。自杖后，留氏遂败，乃无入庠者。”按恪勤此举，未见他纪载，其嫉邪崇正足为士民劝惩。墨绶翩翩，已绰有名臣风范矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16150.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16152.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

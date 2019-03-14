@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+庄子·内篇·德充符_古诗文网
+</title>
+<meta content="鲁有兀者王骀，从之游者与仲尼相若。常季问于仲尼曰：“王骀， 兀者也，从之游者与夫子中分鲁。立不教，坐不议。虚而往，实而归 。固有不言之教，无形而心成者邪？是何人也？”仲尼曰：“夫子" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3258.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1791" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>内篇·德充符</b></span>
+<a href="javascript:PlayBookv(3258)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3258" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1791)" id="leftbtn1791" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3258" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ba%84%e5%ad%90%e5%8f%8a%e9%97%a8%e5%be%92">庄子及门徒</a></p>
+<div class="contson">
+<p>　　鲁有兀者王骀，从之游者与仲尼相若。常季问于仲尼曰：“王骀， 兀者也，从之游者与夫子中分鲁。立不教，坐不议。虚而往，实而归 。固有不言之教，无形而心成者邪？是何人也？”仲尼曰：“夫子， 圣人也，丘也直后而未往耳！丘将以为师，而况不若丘者乎！奚假鲁 国，丘将引天下而与从之。”</p>
+<p>　　常季曰：“彼兀者也，而王先生，其与庸亦远矣。若然者，其用心 也，独若之何？”仲尼曰：“死生亦大矣，而不得与之变；虽天地覆 坠，亦将不与之遗；审乎无假而不与物迁，命物之化而守其宗也。”</p>
+<p>　　常季曰：“何谓也？”仲尼曰：“自其异者视之，肝胆楚越也；自 其同者视之，万物皆一也。夫若然者，且不知耳目之所宜，而游心乎 德之和。物视其所一而不见其所丧，视丧其足犹遗土也。”</p>
+<p>　　常季曰：“彼为己，以其知得其心，以其心得其常心。物何为最之 哉？”仲尼曰：“人莫鉴于流水而鉴于止水。唯止能止众止。受命于 地，唯松柏独也正，在冬夏青青；受命于天，唯尧、舜独也正，在万 物之首。幸能正生，以正众生。夫保始之徵，不惧之实，勇士一人， 雄入于九军。将求名而能自要者而犹若是，而况官天地、府万物、直 寓六骸、象耳目、一知之所知而心未尝死者乎！彼且择日而登假，人 则从是也。彼且何肯以物为事乎！”</p>
+<p>　　申徒嘉，兀者也，而与郑子产同师于伯昏无人。子产谓申徒嘉曰： “我先出则子止，子先出则我止。”其明日，又与合堂同席而坐。子 产谓申徒嘉曰：“我先出则子止，子先出则我止。今我将出，子可以 止乎？其未邪？且子见执政而不违，子齐执政乎？”申徒嘉曰：“先 生之门固有执政焉如此哉？子而说子之执政而后人者也。闻之曰：‘ 鉴明则尘垢不止，止则不明也。久与贤人处则无过。’今子之所取大 者，先生也，而犹出言若是，不亦过乎！”</p>
+<p>　　子产曰：“子既若是矣，犹与尧争善。计子之德，不足以自反邪？ ”申徒嘉曰：“自状其过以不当亡者众；不状其过以不当存者寡。知 不可奈何而安之若命，唯有德者能之。游于羿之彀中。中央者，中地 也；然而不中者，命也。人以其全足笑吾不全足者众矣，我怫然而怒 ，而适先生之所，则废然而反。不知先生之洗我以善邪？吾之自寐邪 ？吾与夫子游十九年，而未尝知吾兀者也。今子与我游于形骸之内， 而子索我于形骸之外，不亦过乎！”子产蹴然改容更貌曰：“子无乃 称！”</p>
+<p>　　鲁有兀者叔山无趾，踵见仲尼。仲尼曰：“子不谨，前既犯患若是 矣。虽今来，何及矣！”无趾曰：“吾唯不知务而轻用吾身，吾是以 亡足。今吾来也，犹有尊足者存，吾是以务全之也。夫天无不覆，地 无不载，吾以夫子为天地，安知夫子之犹若是也！”孔子曰：“丘则 陋矣！夫子胡不入乎？请讲以所闻。”无趾出。孔子曰：“弟子勉之 ！夫无趾，兀者也，犹务学以复补前行之恶，而况全德之人乎！”</p>
+<p>　　无趾语老聃曰：“孔丘之于至人，其未邪？彼何宾宾以学子为？彼 且以蕲以諔诡幻怪之名闻，不知至人之以是为己桎梏邪？”老聃曰： “胡不直使彼以死生为一条，以可不可为一贯者，解其桎梏，其可乎？ ”无趾曰：“天刑之，安可解！”</p>
+<p>　　鲁哀公问于仲尼曰：“卫有恶人焉，曰哀骀它。丈夫与之处者，思 而不能去也；妇人见之，请于父母曰：‘与为人妻，宁为夫子妾’者 ，数十而未止也。未尝有闻其唱者也，常和人而已矣。无君人之位以 济乎人之死，无聚禄以望人之腹，又以恶骇天下，和而不唱，知不出 乎四域，且而雌雄合乎前，是必有异乎人者也。寡人召而观之，果以 恶骇天下。与寡人处，不至以月数，而寡人有意乎其为人也；不至乎 期年，而寡人信之。国无宰，而寡人传国焉。闷然而后应，氾而若辞。 寡人丑乎，卒授之国。无几何也，去寡人而行。寡人恤焉若有亡也， 若无与乐是国也。是何人者也！”</p>
+<p>　　仲尼曰：“丘也尝使于楚矣，适见豚子食于其死母者。少焉眴若， 皆弃之而走。不见己焉尔，不得其类焉尔。所爱其母者，非爱其形 也，爱使其形者也。战而死者，其人之葬也不以翣资；刖者之屡，无 为爱之。皆无其本矣。为天子之诸御：不爪翦，不穿耳；取妻者止于 外，不得复使。形全犹足以为尔，而况全德之人乎！今哀骀它未言而 信，无功而亲，使人授己国，唯恐其不受也，是必才全而德不形者也 。”</p>
+<p>　　哀公曰：“何谓才全？”仲尼曰：“死生、存亡、穷达、贫富、贤 与不肖、毁誉、饥渴、寒暑，是事之变、命之行也。日夜相代乎前， 而知不能规乎其始者也。故不足以滑和，不可入于灵府。使之和豫， 通而不失于兑。使日夜无隙，而与物为春，是接而生时于心者也。是 之谓才全。”“何谓德不形？”曰：“平者，水停之盛也。其可以为 法也，内保之而外不荡也。德者，成和之修也。德不形者，物不能离 也。”</p>
+<p>　　哀公异日以告闵子曰：“始也吾以南面而君天下，执民之纪而忧其 死，吾自以为至通矣。今吾闻至人之言，恐吾无其实，轻用吾身而亡 吾国。吾与孔丘非君臣也，德友而已矣！”</p>
+<p>　　闉跂支离无脣说卫灵公，灵公说之，而视全人：其脰肩肩。甕 囗（上“央”下“瓦”音ａｎｇ４）大瘿说齐桓公，桓公说之，而视 全人：其脰肩肩。故德有所长而形有所忘。人不忘其所忘而忘其所不 忘，此谓诚忘。</p>
+<p>　　故圣人有所游，而知为孽，约为胶，德为接，工为商。圣人不谋， 恶用知？不斵，恶用胶？无丧，恶用德？不货，恶用商？四者，天鬻也 。天鬻者，天食也。既受食于天，又恶用人！</p>
+<p>　　有人之形，无人之情。有人之形，故群于人；无人之情，故是非不 得于身。眇乎小哉，所以属于人也；謷乎大哉，独成其天。</p>
+<p>　　惠子谓庄子曰：“人故无情乎？”庄子曰：“然。”惠子曰：“人 而无情，何以谓之人？”庄子曰：“道与之貌，天与之形，恶得不谓 之人？”惠子曰：“既谓之人，恶得无情？”庄子曰：“是非吾所谓 情也。吾所谓无情者，言人之不以好恶内伤其身，常因自然而不益生 也。”惠子曰：“不益生，何以有其身？”庄子曰：“道与之貌，天 与之形，无以好恶内伤其身。今子外乎子之神，劳乎子之精，倚树而 吟，据槁梧而瞑。天选子之形，子以坚白鸣。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3257.aspx">上一章</a>
+<a href="/guwen/book_26.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3259.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1791" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

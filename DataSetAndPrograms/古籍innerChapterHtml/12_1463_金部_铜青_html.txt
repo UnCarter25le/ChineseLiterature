@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·金部·铜青_古诗文网
+</title>
+<meta content="释名亦名铜绿，即铜器上所生的绿色物。市上常用醋制铜，使生绿，收取晒干即可用。气味酸、平、微毒。主治风痰引起的突然昏倒或瘫痪。用铜青二两，研细，水飞去滓，慢火熬干，再加入麝身一分，以" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1463.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>金部·铜青</b></span>
+<a href="javascript:PlayBookv(1463)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1463" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1463" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>亦名铜绿，即铜器上所生的绿色物。市上常用醋制铜，使生绿，收取晒干即可用。</p>
+<p><strong>气味</strong><br/>酸、平、微毒。</p>
+<p><strong>主治</strong><br/>风痰引起的突然昏倒或瘫痪。用铜青二两，研细，水飞去滓，慢火熬干，再加入麝身一分，以糯米粉糊成丸子，如弹丸大。每一丸，分两次服，薄荷酒送。若风痰未全好，可再用朱砂酒冲同量丸药服。要吐出青绿色涎水，泻下恶物，才算病愈。此方名“碧林丹”。治小儿的这种病，宜用“绿云丹”。方子是：用铜青研末，不定量，加醋面糊丸，如芡子大，每次用薄荷酒化服一丸，服后不久，吐涎如胶，即有效。<br/>烂眼。用水调铜青，涂在碗底，艾火熏干后，刮下来涂烂处。<br/>头发恶红，不断脱落。用油磨铜钱末涂抹即生。<br/>脸上黑痣。用粗草划破黑痣，再用铜青末涂搽，三天不洗去，痣自脱掉。痣厚的，可再搽一次。<br/>走马牙疳(骨槽风、败血症、牙根肿痛、臭烂出血)。用铜青、滑石、杏仁等分，研末涂搽。<br/>口鼻疳疮。用铜青、枯矾等分，研细敷疮上。又方：用人中白一钱、铜青三分研细搽抹。<br/>杨梅毒疮。用醋煮铜青研末，烧酒调搽。要忍痛，让水出，次日即干。或再加白矾，与铜青等分，研末涂搽。<br/>臁疮顽癣。用铜青七分，研细，加黄蜡一两共熬。另取厚纸一张，铺涂熬汁，两面垫一层纸，然后再贴到患处，以出水为好。亦治杨梅疮毒及虫咬。<br/>痔瘘。见后面蜜陀僧条。<br/>蛇咬伤。用铜青研细敷之。<br/>百虫入耳。用生油调铜青滴入。<br/>头上生虱。用铜青、明矾，共研细，揉入发内。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1462.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1464.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

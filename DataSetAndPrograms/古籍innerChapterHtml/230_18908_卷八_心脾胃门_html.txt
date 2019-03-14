@@ -1,0 +1,130 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷八·心脾胃门_古诗文网
+</title>
+<meta content="心痛：曲泽间使内关大陵神门太渊太溪通谷心俞（百壮），巨阙（七壮）。心痛食不化：中脘。胃脘痛：太渊鱼际三里两乳下（各一寸，各三十壮）膈俞胃俞肾俞（随年壮）。心烦：神门阳溪鱼际腕骨少商" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18908.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·心脾胃门</b></span>
+<a href="javascript:PlayBookv(18908)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18908" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18908" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　心痛：曲泽间使内关大陵神门太渊太溪通谷心俞（百壮），巨阙（七壮）。</p>
+<p>　　心痛食不化：中脘。</p>
+<p>　　胃脘痛：太渊鱼际三里两乳下（各一寸，各三十壮）膈俞胃俞肾俞（随年壮）。</p>
+<p>　　心烦：神门阳溪鱼际腕骨少商解溪公孙太白至阴。</p>
+<p>　　烦渴心热：曲泽。</p>
+<p>　　心烦怔忡：鱼际。</p>
+<p>　　卒心痛不可忍，吐冷酸水：灸足大趾次指内纹中各一壮，炷如小麦大，立愈。</p>
+<p>　　思虑过多，无心力，忘前失后：灸百会。</p>
+<p>　　心风：心俞（灸）中脘。</p>
+<p>　　烦闷：腕骨。虚烦口干：肺俞。</p>
+<p>　　烦闷不卧：太渊公孙隐白肺俞阴陵泉三阴交。</p>
+<p>　　烦心喜噫：少商太溪陷谷。</p>
+<p>　　心痹悲恐：神门大陵鱼际。</p>
+<p>　　懈惰：照海。</p>
+<p>　　心惊恐：曲泽天井灵道神门大陵鱼际二间液门少冲百会厉兑通谷巨阙章门。</p>
+<p>　　嗜卧：百会天井三间二间太溪照海厉兑肝俞。</p>
+<p>　　嗜卧不言：膈俞。</p>
+<p>　　不得卧：太渊公孙隐白肺俞阴陵三阴交。</p>
+<p>　　支满不食：肺俞。</p>
+<p>　　振寒不食：冲阳。</p>
+<p>　　胃热不食：下廉。</p>
+<p>　　胃胀不食：水分。</p>
+<p>　　心恍惚：天井巨阙心俞。</p>
+<p>　　心喜笑：阳溪阳谷神门大陵列缺鱼际劳宫复溜肺俞。</p>
+<p>　　胃痛：太渊鱼际三里肾俞肺俞胃俞两乳下（灸一寸，各二十一壮）。</p>
+<p>　　翻胃：先取下脘后取三里（泻）胃俞膈俞（百壮）中脘脾俞。</p>
+<p>　　噎食不下：劳宫少商太白公孙三里中魁（在中指第二节尖）膈俞心俞胃俞三焦俞中脘大肠俞。</p>
+<p>　　不能食：少商三里然谷膈俞胃俞大肠俞。</p>
+<p>　　不嗜食：中封然谷内庭厉兑隐白阴陵泉肺俞脾俞胃俞小肠俞。</p>
+<p>　　食气，饮食闻食臭：百会少商三里灸膻中。</p>
+<p>　　食多身瘦：脾俞胃俞。</p>
+<p>　　脾寒：三间中渚液门合谷商丘三阴交中封照海陷谷太溪至阴腰俞。</p>
+<p>　　胃热：悬钟。</p>
+<p>　　胃寒有痰：膈俞。</p>
+<p>　　脾虚腹胀谷不消：三里。</p>
+<p>　　脾病溏泄：三阴交。</p>
+<p>　　脾虚不便：商丘三阴交（三十壮）。</p>
+<p>　　胆虚呕逆，热，上气：气海。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18907.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18909.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

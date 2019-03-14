@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·魏三·秦败魏于华走芒卯而围大梁_古诗文网
+</title>
+<meta content="秦败魏于华，走芒卯而围大梁。须贾为魏谓穰侯曰：“臣闻魏氏大臣父兄皆谓魏王曰：‘初时惠王伐赵，战胜乎三梁，十万之军拔邯郸，赵氏不割，而邯郸复归。齐人攻燕，杀子之，破故国，燕不割，而燕" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4680.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4072" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>魏三·秦败魏于华走芒卯而围大梁</b></span>
+<a href="javascript:PlayBookv(4680)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4680" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4072)" id="leftbtn4072" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4680" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　秦败魏于华，走芒卯而围大梁。须贾为魏谓穰侯曰：“臣闻魏氏大臣父兄皆谓魏王曰：‘初时惠王伐赵，战胜乎三梁，十万之军拔邯郸，赵氏不割，而邯郸复归。齐人攻燕，杀子之，破故国，燕不割，而燕国复归。燕、赵之所以国全兵劲，而地不并乎诸侯者，以其能忍难而重出地也。宋、中山数伐数割，而随以亡。臣以为燕、赵可法，而宋、中山可无为也。夫秦贪戾之国而无亲，蚕食魏，尽晋国，战胜睪子，割八县，地未毕入而兵复出矣。夫秦何厌之有哉!今又走芒卯，人北地，此非但攻梁也，且劫王以多割也，王必勿听也。今王循楚、赵而讲，楚、赵怒丽与王争事秦，秦必受之。秦挟楚、赵之兵以复攻，则国救亡不可得也已。愿王之必无讲也。王若欲讲，必少割而有质；不然必欺。’是臣之所闻于魏也，愿君之以是虑事也。</p>
+<p>　　“《周书》曰：‘维命不于常。’此言幸之不可数也。夫战胜睪子，而割八县，此非兵力之精，非计之工也，天幸为多矣。今又走芒卯，入北地，以攻大梁，是以天幸自为常也。知者不然。</p>
+<p>　　“臣闻魏氏悉其百县胜兵，以止戍大梁，臣以为不下三十万。以三十万之众，守十仞之城，臣以为虽汤、武复生，弗易攻也。夫轻信楚、赵之兵，陵十仞之城，战三十万之众，而志必举之，臣以为自天下之始分以至于今，未尝有之也。攻而不能拔，秦兵必罢，阴必亡，则前功必弃矣。今魏方疑，可以少割收也。愿之及楚、赵之兵未任于大梁也，亟以少割收。魏方疑，而得以少割为和，必欲之，则君得所欲矣。楚、赵怒于魏之先己讲也，必争事秦。从是以散，而君后择焉。且君之尝割晋国取地也，何必以兵哉?夫兵不用，而魏效绛、安邑，又为阴启两机，尽故宋，卫效尤惮。秦兵已令，而君制之，何求而不得?何为而不成?臣愿君之熟计而无行危也。”</p>
+<p>　　穰侯曰：“善。”乃罢梁围。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4679.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4681.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4072" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

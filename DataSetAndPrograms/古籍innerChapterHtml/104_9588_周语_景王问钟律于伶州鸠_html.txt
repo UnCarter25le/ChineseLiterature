@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·周语·景王问钟律于伶州鸠_古诗文网
+</title>
+<meta content="王将铸无射，问律于伶州鸠。对曰：“律所以立均出度也。古之神瞽考中声而量之以制，度律均钟，百官轨仪，纪之以三，平之以六，成于十二，天之道也。夫六，中之色也，故名之曰黄钟，所以宣养六气" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9588.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8339" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>周语·景王问钟律于伶州鸠</b></span>
+<a href="javascript:PlayBookv(9588)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9588" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8339)" id="leftbtn8339" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9588" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+王将铸无射，问律于伶州鸠。对曰：“律所以立均出度也。古之神瞽考中声而量之以制，度律均钟，百官轨仪，纪之以三，平之以六，成于十二，天之道也。夫六，中之色也，故名之曰黄钟，所以宣养六气、九德也。由是第之：二曰太蔟，所以金奏赞阳出滞也；三曰姑洗，所以修洁百物，考神纳宾也；四曰蕤宾，所以安靖神人，献酬交酢也；五曰夷则，所以咏歌九则，平民无贰也；六曰无射，所以宣布哲人之令德，示民轨仪也。为之六间，以扬沉伏而黜散越也。元间大吕，助宣物也；二间夹钟，出四隙之细也；三间仲吕，宣中气也；四间林钟，和展百事，俾莫不任肃纯恪也；五间南吕，赞阳秀也；六间应钟，均利器用，俾应复也。
+</p><p>　　
+“律吕不易，无奸物也。细钧有钟无镈，昭其大也。大钧有镈无钟，甚大无镈，鸣其细也。大昭小鸣，和之道也。和平则久，久固则纯，纯明则终，终复则乐，所以成政也，故先王贵之。”
+</p><p>　　
+王曰：“七律者何？”对曰：“昔武王伐殷，岁在鹑火，月在天驷，日在析木之津，辰在斗柄，星在天鼋。量与日、辰之位皆在北维，颛顼之所建也，帝喾受之。我姬氏出自天鼋，及析木者，有建星及牵牛焉，则我皇妣大姜之姪、伯陵之后逄公之所凭神也。岁之所在，则我有周之分野也。月之所在，辰马农祥也，我太祖后稷之所经纬也。王欲合是五位三所而用之，自鹑及驷七列也，南北之揆七同也。凡人神以数合之，以声昭之，数合声和，然后可同也。放以七同其数而以律和其声，于是乎有七律。
+</p><p>　　
+“王以二月癸亥夜陈，未毕而雨。以夷则之上宫毕，当辰。辰在戌上，故长夷则之上宫，名之曰羽，所以藩屏民则也。王以黄钟之下宫，布戎于牧之野，故谓之厉，所以厉六师也。以太蔟之下宫，布令于商，昭显文德，底纣之多罪，故谓之宣，所以宣三王之德也。反及嬴内，以无射之上宫，布宪施舍于百姓，故谓之嬴乱，所以优柔容民也。”
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9587.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9589.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8339" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

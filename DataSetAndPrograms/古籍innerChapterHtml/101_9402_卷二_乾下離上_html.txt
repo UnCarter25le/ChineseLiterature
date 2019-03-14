@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷二·乾下離上_古诗文网
+</title>
+<meta content="大有，元亨。彖曰：大有，柔得尊位，大中而上下應之，曰大有。其德剛健，而文明應乎天，而時行是以，元亨。柔得大中之位，而上下歸焉，無有逺邇，皆大有之也。其德剛健而行，文明以辨，大位德應" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9402.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·乾下離上</b></span>
+<a href="javascript:PlayBookv(9402)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9402" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9402" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　大有，元亨。彖曰：大有，柔得尊位，大中而上下應之，曰大有。其德剛健，而文明應乎天，而時行是以，元亨。</p>
+<p>　　柔得大中之位，而上下歸焉，無有逺邇，皆大有之也。其德剛健而行，文明以辨，大位德應於天，以時行，是以大亨也。</p>
+<p>　　象曰：火在天上，大有。君子以遏惡揚善，順天休命。</p>
+<p>　　明得其時，上無不容也。善者，道之大也，故揚之。惡者，道之小也，故遏之。上舉其善則惡止矣。君子順其時，美其命而已，故大有之也。</p>
+<p>　　初九，无交害，匪咎。艱則无咎。象曰：大有，初九，无交害也。</p>
+<p>　　夫欲其豐，害物以求有者，斯害來矣。此害之交也。咎可逃乎。初得於主，始有之矣，守其分而不躁，難其志以自保，則終有大而无咎也。未涉於交害矣。易所以戒。大有，剛健之初，先逺害而利，自至矣。</p>
+<p>　　九二，大車以載，有攸往，无咎。象曰：大車以載，積中不敗也。</p>
+<p>　　剛健之中，力之大者也。上之所任事，委於中，致逺，不泥也。</p>
+<p>　　九三，公用亨于天子，小人弗克。象曰：公用亨于天子，小人害也。</p>
+<p>　　為下之長，富有其民，公之位也。為五所有，志達乎尊，以奉其主也。小人不可用也。以上之柔德，則不克，通而謀其害之矣。大有，容之也。御小人者，其道異乎，可大有之而不任也。</p>
+<p>　　九四，匪其彭，无咎。象曰：匪其彭，无咎。明辨晳也。</p>
+<p>　　柔得尊位，而上下咸願應之以時，近親難處之地也。能知禍福之端，畏天下之所覩。如非在五旁，兢以自警，不敢怙恃，可无咎矣。非明辨者不能至也。可謂智矣。剛能處柔者也。</p>
+<p>　　六五，厥孚交如，威如，吉。象曰：厥孚交如，信以發志也。威如之吉。易而无備也。</p>
+<p>　　以柔德而居主位，虚中孚誠民亦奉其誠也。志交信矣。何所備乎。故易然，而保其尊。威如，而獲其吉也。</p>
+<p>　　上九，自天佑之，吉。无不利。象曰：大有，上吉，自天佑也。</p>
+<p>　　剛居極上，尊柔奉之，可謂上賢而順高，而得終。履其信也。得其終也。内符於天，與天合德也。則自天佑之矣。何不利焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9401.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9403.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,114 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+食疗本草·卷中·鸡_古诗文网
+</title>
+<meta content="（一）（丹雄鸡）∶主患白虎，可铺饭于患处，使鸡食之良。又取热粪封之取热，使伏于患人床下。〔嘉〕（二）其肝入补肾方中，用冠血和天雄四分，桂心二分，太阳粉四分，丸服之，益阳气。〔嘉〕（" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16866.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷中·鸡</b></span>
+<a href="javascript:PlayBookv(16866)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16866" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16866" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%9f%e8%af%9c">孟诜</a></p>
+<div class="contson">
+<p>　　（一）（丹雄鸡）∶主患白虎，可铺饭于患处，使鸡食之良。又取热粪封之取热，使伏于患人床下。〔嘉〕</p>
+<p>　　（二）其肝入补肾方中，用冠血和天雄四分，桂心二分，太阳粉四分，丸服之，益阳气。〔嘉〕</p>
+<p>　　（三）乌雄鸡∶主心痛，除心腹恶气。〔嘉〕</p>
+<p>　　（四）又，虚弱人取一只，治如食法。五味汁和肉一器中，封口，重汤中煮之，使骨肉相去即食之，甚补益。仍须空腹饱食之。肉须烂，生即反损。亦可五味腌，经宿，炙食之，分为两顿。〔嘉〕</p>
+<p>　　（五）又，刺在肉中不出者，取尾二七枚，烧作灰，以男子乳汁和封疮，刺当出。〔嘉〕</p>
+<p>　　（六）又，目泪出不止者，以三年冠血敷目睛上，日三度。〔嘉〕</p>
+<p>　　（七）乌雌鸡∶温，味酸，无毒。主除风寒湿痹，治反胃、安胎及腹痛， 折骨疼，乳痈。〔证〕</p>
+<p>　　（八）月蚀疮绕耳根，以乌雌鸡胆汁敷之，日三。〔证〕</p>
+<p>　　（九）产后血不止，以鸡子三枚，醋半升，好酒二升，煎取一升，分为四服。如人行三二里，微暖进之。〔嘉〕</p>
+<p>　　（十）又，新产妇可取一只，理如食法，和五味炒熟，香，即投二升酒中，封口经宿，取饮之，令人肥白。〔嘉〕</p>
+<p>　　（十一）又，和乌油麻二升，熬令黄香，末之入酒，酒尽极效。〔嘉〕</p>
+<p>　　（以乌油麻一升，熬之令香，末，和酒服之，即饱热能食。）〔证〕</p>
+<p>　　（十二）黄雌鸡∶主腹中水癖水肿，以一只理如食法∶和赤小豆一升同煮，候豆烂即出食之。其汁，日二夜一，每服四合。补丈夫阳气，治冷气。瘦着床者，渐渐食之良。〔嘉〕</p>
+<p>　　（十三）又，先患骨热者，不可食之。鸡子动风气，不可多食。〔嘉〕</p>
+<p>　　（十四）又，光粉诸石为末，和饭与鸡食之，后取鸡食之，甚补益。〔嘉〕</p>
+<p>　　（十五）又，子醋煮熟，空腹食之，治久赤白痢。〔嘉〕</p>
+<p>　　（十六）又，人热毒发，可取三颗鸡子白，和蜜一合，服之瘥。〔嘉〕</p>
+<p>　　（十七）治大人及小儿发热，可取卵三颗，白蜜一合，相和服之，立瘥。卵并不得和蒜食，令人短气。〔证〕</p>
+<p>　　（十八）又，胞衣不出，生吞鸡子清一枚，治目赤痛，除心胸伏热，烦满咳逆，动心气，不宜多食。〔证〕</p>
+<p>　　（十九）鸡具五色者，食之致狂。肉和鱼肉汁食之，成心瘕。六指，玄鸡白头家鸡，及鸡死足爪不伸者，食并害人。〔证〕</p>
+<p>　　（二十）鸡子和葱，食之气短。鸡子白共鳖同食损人。鸡子共獭肉同食，成遁尸注，药不能治。〔证〕</p>
+<p>　　（二十一）鸡、兔同食成泄痢。小儿五岁已下，未断乳者，勿与鸡肉食。〔证〕</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16865.aspx">上一章</a>
+<a href="/guwen/book_194.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16867.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

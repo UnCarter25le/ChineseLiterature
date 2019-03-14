@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+庄子·外篇·胠箧_古诗文网
+</title>
+<meta content="将为胠箧探囊发匮之盗而为守备，则必摄缄藤，固扃鐍，此世俗之 所谓知也。然而巨盗至，则负匮揭箧担囊而趋，唯恐缄藤扃鐍之不 固也。然则乡之所谓知者，不乃为大盗积者也？故尝试论之：世俗之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3263.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1796" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>外篇·胠箧</b></span>
+<a href="javascript:PlayBookv(3263)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3263" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1796)" id="leftbtn1796" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3263" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ba%84%e5%ad%90%e5%8f%8a%e9%97%a8%e5%be%92">庄子及门徒</a></p>
+<div class="contson">
+<p>　　将为胠箧探囊发匮之盗而为守备，则必摄缄藤，固扃鐍，此世俗之 所谓知也。然而巨盗至，则负匮揭箧担囊而趋，唯恐缄藤扃鐍之不 固也。然则乡之所谓知者，不乃为大盗积者也？</p>
+<p>　　故尝试论之：世俗之所谓知者，有不为大盗积者乎？所谓圣者，有 不为大盗守者乎？何以知其然邪？昔者齐国邻邑相望，鸡狗之音相闻 ，罔罟之所布，耒耨之所刺，方二千余里。阖四竟之内，所以立宗庙 社稷，治邑屋州闾乡曲者，曷尝不法圣人哉？然而田成子一旦杀齐君 而盗其国，所盗者岂独其国邪？并与其圣知之法而盗之，故田成子有 乎盗贼之名，而身处尧舜之安。小国不敢非，大国不敢诛，十二世有 齐国，则是不乃窃齐国并与其圣知之法以守其盗贼之身乎？</p>
+<p>　　尝试论之：世俗之所谓至知者，有不为大盗积者乎？所谓至圣者， 有不为大盗守者乎？何以知其然邪？昔者龙逢斩，比干剖，苌弘胣， 子胥靡。故四子之贤而身不免乎戮。故跖之徒问于跖曰：“盗亦有道 乎？”跖曰：“何适而无有道邪？夫妄意室中之藏，圣也；入先，勇 也；出后，义也；知可否，知也；分均，仁也。五者不备而能成大盗 者，天下未之有也。”由是观之，善人不得圣人之道不立，跖不得圣 人之道不行。天下之善人少而不善人多，则圣人之利天下也少而害天 下也多。故曰：唇竭则齿寒，鲁酒薄而邯郸围，圣人生而大盗起。掊 击圣人，纵舍盗贼，而天下始治矣。</p>
+<p>　　夫川竭而谷虚，丘夷而渊实。圣人已死，则大盗不起，天下平而无 故矣！圣人不死，大盗不止。虽重圣人而治天下，则是重利盗跖也。 为之斗斛以量之，则并与斗斛而窃之；为之权衡以称之，则并与权衡 而窃之；为之符玺以信之，则并与符玺而窃之；为之仁义以矫之，则 并与仁义而窃之。何以知其然邪？彼窃钩者诛，窃国者为诸侯，诸侯之门而仁义存焉，则是非窃仁义圣知邪？故逐于大盗，揭诸侯，窃仁 义并斗斛权衡符玺之利者，虽有轩冕之赏弗能劝，斧钺之威弗能禁。 此重利盗跖而使不可禁者，是乃圣人之过也。</p>
+<p>　　故曰：“鱼不可脱于渊，国之利器不可以示人。”彼圣人者，天下 之利器也，非所以明天下也。故绝圣弃知，大盗乃止；掷玉毁珠，小 盗不起；焚符破玺，而民朴鄙；掊斗折衡，而民不争；殚残天下之圣 法，而民始可与论议；擢乱六律，铄绝竽瑟，塞瞽旷之耳，而天下始 人含其聪矣；灭文章，散五采，胶离朱之目，而天下始人含其明矣。 毁绝钩绳而弃规矩，囗（左“扌”右“丽”）工倕之指，而天下始人 有其巧矣。故曰：大巧若拙。削曾、史之行，钳杨、墨之口，攘弃仁 义，而天下之德始玄同矣。彼人含其明，则天下不铄矣；人含其聪， 则天下不累矣；人含其知，则天下不惑矣；人含其德，则天下不僻矣。 彼曾、史、杨、墨、师旷、工倕、离朱者，皆外立其德而爚乱天下者 也，法之所无用也。</p>
+<p>　　子独不知至德之世乎？昔者容成氏、大庭氏、伯皇氏、中央氏、栗 陆氏、骊畜氏、轩辕氏、赫胥氏、尊卢氏、祝融氏、伏戏氏、神农氏 ，当是时也，民结绳而用之。甘其食，美其服，乐其俗，安其居，邻 国相望，鸡狗之音相闻，民至老死而不相往来。若此之时，则至治已 。今遂至使民延颈举踵，曰“某所有贤者”，赢粮而趣之，则内弃其 亲而外去其主之事，足迹接乎诸侯之境，车轨结乎千里之外。则是上 好知之过也！</p>
+<p>　　上诚好知而无道，则天下大乱矣！何以知其然邪？夫弓弩毕弋机变 之知多，则鸟乱于上矣；钩饵罔罟罾笱之知多，则鱼乱于水矣；削格 罗落罯罘之知多，则兽乱于泽矣；知诈渐毒、颉滑坚白、解垢同异之 变多，则俗惑于辩矣。故天下每每大乱，罪在于好知。故天下皆知求 其所不知而莫知求其所已知者，皆知非其所不善而莫知非其所已善者， 是以大乱。故上悖日月之明，下烁山川之精，中堕四时之施，惴耎之 虫，肖翘之物，莫不失其性。甚矣，夫好知之乱天下也！自三代以下 者是已！舍夫种种之机而悦夫役役之佞；释夫恬淡无为而悦夫啍啍之 意，啍啍已乱天下矣！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3262.aspx">上一章</a>
+<a href="/guwen/book_26.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3264.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1796" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

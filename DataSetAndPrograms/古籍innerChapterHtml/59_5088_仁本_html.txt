@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+司马法·仁本_古诗文网
+</title>
+<meta content="古者，以仁为本，以义治之之谓正。正不获意则权。权出于战，不出于中人。是故杀人安人，杀之可也；攻其国，爱其民，攻之可也；以战止战，虽战可也。故仁见亲，义见说，智见恃，勇见身，信见信。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5088.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3308" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>仁本</b></span>
+<a href="javascript:PlayBookv(5088)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5088" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3308)" id="leftbtn3308" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5088" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8f%b8%e9%a9%ac%e7%a9%b0%e8%8b%b4">司马穰苴</a></p>
+<div class="contson">
+<p>　　古者，以仁为本，以义治之之谓正。正不获意则权。权出于战，不出于中人。是故杀人安人，杀之可也；攻其国，爱其民，攻之可也；以战止战，虽战可也。故仁见亲，义见说，智见恃，勇见身，信见信。内得爱焉，所以守也；外得威焉，所以战也。战道：不违时，不历民病，所以爱吾民也；不加丧，不因凶，所以爱夫其民也；冬夏不兴师，所以兼爱其民也。故国虽大，好战必亡；天下虽安，忘战必危。天下既平，天下大恺，春蒐秋狝，诸侯春振旅，秋治兵，所以不忘战也。</p>
+<p>　　古者，逐奔不过百步，纵绥不过三舍，是以明其礼也。不穷不能而哀怜伤病，是以明其仁也。成列而鼓是以明其信也。争义不争利，是以明其义也。又能舍服，是以明其勇也。知终知始，是以明其智也。六德以时合教，以为民纪之道也，自古之政也。</p>
+<p>　　先王之治，顺天之道，设地之宜，官司之德，而正名治物，立国辨职，以爵分禄，诸侯说怀，海外来服，狱弭而兵寝，圣德之治也。</p>
+<p>　　其次，贤王制礼乐法度，乃作五刑，兴甲兵以讨不义。巡狩省方，会诸侯，考不同。其有失命、乱常、背德、逆天之时，而危有功之君，徧告于诸侯，彰明有罪。乃告于皇天上帝日月星辰，祷于后土四海神祗山川冢社，乃造于失王。然后冢宰征师于诸侯曰：“某国为不道，征之，以某年月日师至于某国，会天于正刑”。冢宰与百官布令于军曰：“入罪人之地，无暴圣祗，无行田猎，无毁土功，无燔墙屋，无伐林木，无取六畜，禾黍、器械，见其老幼，奉归勿伤。虽遇壮者，不校勿敌，敌若伤之，医药归之。”既诛有罪，王及诸侯修正其国，举贤立明，正复厥职。</p>
+<p>　　王霸之所以治诸侯者六：以土地形诸侯，以政令平诸侯，以礼信亲诸侯，以礼力说诸侯，以谋人维诸侯，以兵革服诸侯。同患同利以台诸侯，比小事大以和诸侯。</p>
+<p>　　会之以发禁者九。凭弱犯寡则眚之。贼贤害民则伐之。暴内陵外则坛之。野荒民散则削之。负固不服则侵之。贼杀其亲则正之。放弑其君则残之。犯令陵政则杜之。外内乱，禽兽行，则灭之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_59.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5089.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3308" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·秦五·文信侯出走_古诗文网
+</title>
+<meta content="文信侯出走，与司空马之赵，赵以为守相。秦下甲而攻赵。司马空说赵王曰：“文信侯相秦，臣事之，为尚书，习秦事。今大王使守小官，习赵事。请为大王设秦、赵之战，而亲观其孰胜。赵孰与秦大?”" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4453.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3286" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>秦五·文信侯出走</b></span>
+<a href="javascript:PlayBookv(4453)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4453" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3286)" id="leftbtn3286" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4453" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　文信侯出走，与司空马之赵，赵以为守相。秦下甲而攻赵。司马空说赵王曰：“文信侯相秦，臣事之，为尚书，习秦事。今大王使守小官，习赵事。请为大王设秦、赵之战，而亲观其孰胜。赵孰与秦大?”曰：“不如。”“民孰与之众?”曰：“不如。”“金钱粟孰与之富?”曰：“弗如。”“国孰与之治?”曰：“不如。”“相孰与之贤?”曰：“不如。”“将孰与之武?”曰：“不如。”“律令孰与之明?”曰：“不如。”司空马曰：“然则大王之国，百举而无及秦者，大王之国亡。”赵王曰：“卿不远赵，而悉教以国事，愿于因计。”司空马曰：“大王裂赵之半以赂秦，秦不接刃而得赵之半，秦必悦。内恶赵之守，外恐诸侯之救，秦必受之。秦受地而卻兵，赵守半国以自存。秦衔赂以自强，山东必恐；亡赵自危，诸侯必惧。惧而相救，则从事可成。臣请大王约从。从事成，则是大王名亡赵之半，实得山东以敌秦，秦不足亡。”赵王曰：“前日秦下甲攻赵，赵赂以河间十二县，地削兵弱，卒不免秦患。今又割赵之半以强秦，力不能自存，因以亡矣。愿卿之更计。”司空马曰：“臣少为秦刀笔，以官长而守小官，未尝为兵首，请为大王悉赵兵以遇。”赵王不能将。司空马曰：“臣效愚计，大王不用，是臣无以事大王，愿自请。”</p>
+<p>　　司空马去赵，渡平原。平原津令郭遗劳而问：“秦兵下赵，上客从赵来，赵事何如?”司空马言其为赵王计而弗用，赵必亡。平原令曰：“以上客料之，赵何时亡?”司空马曰：“赵将武安君，期年而亡；若杀武安君，不过半年。赵王之臣有韩仓者，以曲合于赵王，其交甚亲，其为人疾贤妒功臣。今国危亡，王必用其言，武安君必死。”</p>
+<p>　　韩仓果恶之，王使人代。武安君至，使韩仓数之曰：“将军战胜，王觞将军。将军为寿于前而捍匕首，当死。”武安君曰：“繓病钩，身大臂短，不能及地，起居不敬，恐惧死罪于前，故使工人为木材以接手。上若不信，繓请以出示。”出之袖中，以示韩仓，状如振捆，缠之以布。“愿公入明之。”韩仓曰：“受命于王，赐将军死，不赦。臣不敢言。”武安君北面再拜赐死，缩剑将自诛，乃曰：“人臣不得自杀宫中。”遇司空马门，趣甚疾，出諔门也。右举剑将近自诛，臂短不能及，衔剑征之于柱以自刺。武安君死五月，赵亡。</p>
+<p>　　平原令见诸公，必为言之曰：“磋嗞乎，司空马!”又以为司空马逐于秦，非不知也；去赵，非不肖也。赵去司空马而国亡。国亡者，非无贤人，不能用也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4452.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4454.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3286" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

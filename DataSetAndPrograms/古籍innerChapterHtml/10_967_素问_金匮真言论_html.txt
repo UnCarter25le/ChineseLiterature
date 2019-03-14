@@ -1,0 +1,111 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·金匮真言论_古诗文网
+</title>
+<meta content="黄帝曰：天有八风，经有五风，何谓？岐伯对曰：八风发邪，以为经风，触五藏，邪气发病。所谓得四时之胜者：春胜长夏，长夏胜冬，冬胜夏，夏胜秋，秋胜春，所谓四时之胜也。东风生于春，病在肝，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_967.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left785" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·金匮真言论</b></span>
+<a href="javascript:PlayBookv(967)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv967" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(785)" id="leftbtn785" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay967" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝曰：天有八风，经有五风，何谓？</p>
+<p>　　岐伯对曰：八风发邪，以为经风，触五藏，邪气发病。所谓得四时之胜者：春胜长夏，长夏胜冬，冬胜夏，夏胜秋，秋胜春，所谓四时之胜也。</p>
+<p>　　东风生于春，病在肝，俞在颈项；南风生于夏，病在心，俞在胸胁；西风生于秋，病在肺，俞在肩背；北风生于冬，病在肾，俞在腰股；中央为土，病在脾，俞在脊。</p>
+<p>　　故春气者，病在头；夏气者，病在藏；秋气者，病在肩背；冬气者，病在四支。</p>
+<p>　　故春善病鼽衄，仲夏善病胸胁，长夏善病洞泄寒中，秋善病风疟，冬善病痹厥。</p>
+<p>　　故冬不按跷，春不鼽衄，春不病颈项，仲夏不病胸胁，长夏不病洞泄寒中，秋不病风疟，冬不病痹厥，飧泄而汗出也。</p>
+<p>　　夫精者，身之本也。故藏于精者，春不病温。夏暑汗不出者，秋成风疟。此平人脉法也。</p>
+<p>　　故曰：阴中有阴，阳中有阳。平旦至日中，天之阳，阳中之阳也；日中至黄昏，天之阳，阳中之阴也；合夜至鸡鸣，天之阴，阴中之阴也；鸡鸣至平旦，天之阴，阴中之阳也。故人亦应之。</p>
+<p>　　夫言人之阴阳，则外为阳，内为阴；言人身之阴阳，则背为阳，腹为阴；言人身之藏腑中阴阳，则藏者为阴，腑者为阳，肝、心、脾、肺、肾五藏皆为阴，胆、胃、大肠、小肠、膀胱、三焦六腑皆为阳。所以欲知阴中之阴、阳中之阳者何也？为冬病在阴，夏病在阳，春病在阴，秋病在阳，皆视其所在，为施针石也。</p>
+<p>　　故背为阳，阳中之阳，心也；背为阳，阳中之阴，肺也；腹为阴，阴中之阴，肾也；腹为阴，阴中之阳，肝也；腹为阴，阴中之至阴，脾也。此皆阴阳表里、内外、雌雄相输应也，故以应天之阴阳也。</p>
+<p>　　帝曰：五藏应四时，各有收受乎？</p>
+<p>　　岐伯曰：有。东方青色，入通于肝，开窍于目，藏精于肝，其病发惊骇；其味酸，其类草木，其畜鸡，其谷麦，其应四时，上为岁星，是以春气在头也，其音角，其数八，是以知病之在筋也，其臭臊。</p>
+<p>　　南方赤色，入通于心，开窍于耳，藏精于心，故病在五脏；其味苦，其类火，其畜羊，其谷黍，其应四时，上为荧惑星，是以知病之在脉也，其音徵，其数七，其臭焦。</p>
+<p>　　中央黄色，入通于脾，开窍于口，藏精于脾，故病在舌本；其味甘，其类土，其畜牛，其谷稷，其应四时上为镇星，是以知病在肉也，其音宫，其数五，其臭香。</p>
+<p>　　西方白色，入通于肺，开窍于鼻，藏精于肺，故病在背；其味辛，其类金，其畜马，其谷稻，其应四时，上为太白星，是以知病之在皮毛也，其音商，其数九，其臭腥。</p>
+<p>　　北方黑色，入通于肾，开窍于二阴，藏精于肾，故病在溪；其味咸，其类水，其畜彘，其谷豆，其应四时，上为辰星，是以知病之在骨也，其音羽，其数六，其臭腐。</p>
+<p>　　故善为脉者，谨察五藏六府，一逆一从，阴阳、表里、雌雄之纪，藏之心意，合心于精。非其人勿教，非其真勿授，是谓得道。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_966.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_968.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right785" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷一·过秦中_古诗文网
+</title>
+<meta content="秦灭周祀，幷海内，兼诸侯，南面称帝，以四海养。天下之士，斐然向风，若是何也？曰：近古之无王者久矣，周室卑微，五霸既灭，令不行于天下，是以诸侯力政。强凌弱，众暴寡，兵革不休，士民罢弊" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18586.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·过秦中</b></span>
+<a href="javascript:PlayBookv(18586)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18586" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18586" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　秦灭周祀，幷海内，兼诸侯，南面称帝，以四海养。天下之士，斐然向风，若是何也？曰：近古之无王者久矣，周室卑微，五霸既灭，令不行于天下，是以诸侯力政。强凌弱，众暴寡，兵革不休，士民罢弊。今秦南面而王天下，是上有天子也。即元元之民，冀得安其性命，莫不虚心而仰上。当此之时，专威定功，安危之本，在于此矣。</p>
+<p>　　秦王怀贪鄙之心，行自奋之智，不信功臣，不亲士民。废王道而立私爱，焚文书而酷刑法，先诈力而后仁义，以暴虐为天下始。夫幷兼者高诈力，安危者贵顺权。推此言之，取与攻守不同术也。秦虽离战国而王天下，其道不易，其政不改，是其所以取之也，孤独而有之，故其亡可立而待也。借使秦王论上世之事，并殷周之迹，以制御其政，后虽有淫骄之主，犹未有倾危之患也。故三王之建天下，名号显美，功业长久。</p>
+<p>　　今秦二世立，天下莫不引领而观其亡。夫寒者利裋褐，而饥者甘糟糠；天下嚣嚣，新主之资也，此言劳民之易为仁也。向使二世有庸主之行，而任忠贤，臣主一心，而忧海内之患，缟素而正先帝之过；裂地分民，以封功臣之后；建国立君，以礼天下。虚囹圄而免刑戮，去收孥污秽之罪，使各反其乡里。发仓廪，散财币，以振孤独穷困之士。轻赋少事，以佐百姓之急，约法省刑，以持其后。使天下之人，皆得自新，更节循行，各慎其身。塞万民之望，而以盛德与天下息矣。即四海之内，皆欢然各自安乐其处，惟恐有变。虽有狡害之民，无离上之心，则不轨之臣，无以饰其智，而暴乱之奸弭矣。二世不行此术，而重以无道，坏宗庙，与民更始作阿房之宫，繁刑严诛，吏治刻深，赏罚不当，赋敛无度。天下多事，吏不能纪，百姓困穷，而主不收恤。然后奸伪并起，而上下相遁，蒙罪者众，刑僇相望于道，而天下苦之。自群卿以下，至于众庶，人怀自危之心，亲处穷苦之实，咸不安其位，故易动也。是以陈涉不用汤武之贤，不借公侯之尊，奋于大泽，而天下响应者，其民危也。</p>
+<p>　　故先王者，见终始之变，知存亡之由，是以牧之以道，务在安之而已矣。下虽有逆行之臣，必无响应之助。故曰：“安民可与为义，而危民易与为非。”此之谓也。贵为天子，富有四海，身在于戮者，正之非也，是二世之过也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18585.aspx">上一章</a>
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18587.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

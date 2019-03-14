@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷二·骨度肠度肠胃所受第七_古诗文网
+</title>
+<meta content="黄帝问曰∶脉度言经脉之长短，何以立之？伯高对曰∶先度其骨节之大小广狭长短，而脉度定矣。曰∶人长七尺五寸者，其骨节之大小长短知各几何？曰∶头（一作颈）之骨围二尺六寸，胸围四尺五寸，腰" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12523.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·骨度肠度肠胃所受第七</b></span>
+<a href="javascript:PlayBookv(12523)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12523" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12523" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　黄帝问曰∶脉度言经脉之长短，何以立之？伯高对曰∶先度其骨节之大小广狭长短，而脉度定矣。曰∶人长七尺五寸者，其骨节之大小长短知各几何？曰∶头（一作颈）之骨围二尺六寸，胸围四尺五寸，腰围四尺二寸。发所覆者颅，至项一尺二寸，发以下至颐长一尺，君子参（又作三，又作终）折。结喉以下至缺盆中长四寸，缺盆以下至 长九寸，过则肺大，不满则肺小。 以下至天枢长八寸，过则胃大，不及则胃小。天枢以下至横骨长六寸半，过则回肠广长，不满则狭短。横骨长六寸半，横骨上廉以下至内辅之上廉长一尺八寸，内辅之上廉以下至下廉长三寸半，内辅下廉至内踝长一尺三寸，内踝以下至地长三寸，膝 以下至跗属长一尺六寸，跗属以下至地长三寸，故骨围大则太过，小则不及。角以下至柱骨长一尺（一作寸），行腋中不见者长四寸，腋以下至季胁长一尺二寸，季胁以下至髀枢长六寸，髀枢以下至膝中长一尺九寸，膝以下至外踝长一尺六寸，外踝以下至京骨长三寸，京骨以下至地长一寸。耳后当完骨者广九寸，耳前当耳门者广一尺二寸。（一作三寸。）两颧之间广九寸半（《九墟》作七寸），两乳之间广九寸半，两髀之间广六寸半。足长一尺二寸，广四寸半。肩至肘长一尺七寸，肘至腕长一尺二寸半，腕至中指本节长四寸，本节至其末长四寸半。项发以下至脊骨长三寸半（一作二寸），脊骨以下至尾 二十一节长三尺，上节长一寸四分分之七奇分之一，奇分在下，故上七节下至膂骨，九寸八分分之七。此众人骨之度也。所以立经脉之长短也。是故视其经脉之在于身也，其见浮而坚，其见明而大者多血，细而沉者多气，乃经之长短也。</p>
+<p>　　曰∶愿闻六腑传谷者，肠胃之大小长短，受谷之多少奈何？曰∶谷之所从出入浅深远近长短之度，唇至齿长九分，广二寸半。齿以后至会厌，深三寸半，大容五合。舌重十两，长七寸，广二寸半。咽门重十两，广二寸半，至胃长一尺六寸。胃纡曲屈，伸之长二尺六寸，大一尺五寸，径五寸，大容三（一作二）斗五升。小肠后附脊，左环回周叶（一作迭，下同）积，其注于回肠者，外附于脐上回运环反十六曲，大二寸半，径八分分之少半，长三丈二尺（一作三尺）。回肠当脐左环回周叶积而下，回运环反十六曲，大四寸，径一寸寸之少半，长二丈一尺。广肠附（一作传）脊以受回肠，左环叶积（一作脊）上下僻，大八寸，径二寸寸之大半，长二尺八寸。肠胃所入至所出，长六丈四寸四分，回曲环反三十二曲。</p>
+<p>　　曰∶人不食七日而死者何也？曰∶胃大一尺五寸，径五寸，长二尺六寸，横屈受水谷三斗五升。其中之谷常留者二斗，水一斗五升而满。上焦泄气，出其精微， 悍滑疾。下焦下溉，泄诸小肠。小肠大二寸半，径八分分之少半，长三丈二尺，受谷二斗四升，水六升三合合之大半，回肠大四寸，径一寸寸之少半，长二丈一尺，受谷一斗，水七升半，广肠大八寸，径二寸寸之大半，长二尺八寸，受谷九升三合八分合之一。肠胃之长凡五丈八尺四寸，受水谷九斗二升一合合之大半，此肠胃所受水谷之数也。平人则不然，胃满肠虚，肠满则胃虚，更满更虚，故气得上下，五脏安定，血脉和利，精神乃居，故神者水谷之精气也。故肠胃之中常留谷二斗四升，水一斗五升。故人一日再至后，后二升半，一日中五升。五七三斗五升，而留水谷尽矣。故平人不饮不食七日而死者，水谷精气津液皆尽，故七日死矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12522.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12524.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

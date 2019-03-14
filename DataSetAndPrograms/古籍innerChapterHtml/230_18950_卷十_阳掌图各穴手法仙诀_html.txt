@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷十·阳掌图各穴手法仙诀_古诗文网
+</title>
+<meta content="掐心经，二掐劳宫，推上三关，发热出汗用之。如汗不来，再将二扇门揉之，掐之，手心微汗出，乃止。掐脾土，曲指左转为补，直推之为泻，饮食不进，人瘦弱，肚起青筋，面黄，四肢无力用之。掐大肠" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18950.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·阳掌图各穴手法仙诀</b></span>
+<a href="javascript:PlayBookv(18950)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18950" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18950" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　掐心经，二掐劳宫，推上三关，发热出汗用之。如汗不来，再将二扇门揉之，掐之，手心微汗出，乃止。</p>
+<p>　　掐脾土，曲指左转为补，直推之为泻，饮食不进，人瘦弱，肚起青筋，面黄，四肢无力用之。</p>
+<p>　　掐大肠，倒推入虎口，止水泻痢疾，肚膨胀用之。红痢补肾水，白多推三关。</p>
+<p>　　掐肺经，二掐离宫起至干宫止，当中轻，两头重，咳嗽化痰，昏迷呕吐用之。</p>
+<p>　　掐肾经，二掐小横纹，退六腑，治大便不通，小便赤色涩滞，肚作膨胀，气急，人事昏迷，粪黄者，退凉用之。</p>
+<p>　　推四横纹，和上下之气血，人事瘦弱，奶乳不思，手足常掣，头偏左右，肠胃湿热，眼目翻白者用之。</p>
+<p>　　掐总筋，过天河水，能清心经，口内生疮，遍身潮热，夜间啼哭，四肢常掣，去三焦六腑五心潮热病。</p>
+<p>　　运水入土，因水盛土枯，五谷不化用之。运土入水，脾土太旺，水火不能即济用之。如儿眼红能食，则是火燥土也。宜运水入土，土润而火自克矣。若口干，眼翻白，小便赤涩，则是土盛水枯，运土入水，以使之平也。</p>
+<p>　　掐小天心，天吊惊风，眼翻白偏左右，及肾水不通，用之。</p>
+<p>　　分阴阳，止泄泻痢疾，遍身寒热往来，肚膨呕逆用之。</p>
+<p>　　运八卦，除胸肚膨闷，呕逆气吼噫，饮食不进用之。</p>
+<p>　　运五经，动五脏之气，肚胀，上下气血不和，四肢掣，寒热往来，去风除腹响。</p>
+<p>　　揉板门，除气促气攻，气吼气痛，呕胀用之。</p>
+<p>　　揉劳宫，动心中之火热，发汗用之，不可轻动。</p>
+<p>　　推横门向板门，止呕吐；板门推向横门，止泻。如喉中响，大指掐之。</p>
+<p>　　总位者，诸经之祖，诸症掐效。嗽甚，掐中指一节。痰多，掐手背一节。手指甲筋之余，掐内止吐，掐外止泻。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18949.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18951.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·金部·铅_古诗文网
+</title>
+<meta content="释名又名青金、黑锡、金公、水中金。气味甘、寒、无毒。主治明目、固牙、乌须发。用铅半斤，熔成汁，趁热加桑条灰，同时以柳木搅拌，使成沙状细末，再筛过，用筛取的细末揩牙，揩后漱口，即又漱" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1464.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>金部·铅</b></span>
+<a href="javascript:PlayBookv(1464)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1464" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1464" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>又名青金、黑锡、金公、水中金。</p>
+<p><strong>气味</strong><br/>甘、寒、无毒。</p>
+<p><strong>主治</strong><br/>明目、固牙、乌须发。用铅半斤，熔成汁，趁热加桑条灰，同时以柳木搅拌，使成沙状细末，再筛过，用筛取的细末揩牙，揩后漱口，即又漱口水洗眼，有明目、固齿、乌须发之效。<br/>肾气攻心，奔豚喘急，面黑欲死。用铅二两、石亭脂二两、木香一两、麝香一钱。先把铅熔化，加入石亭脂，急炒。焰起时，含醋喷之。炒毕，倾入先掘好的地坑中，盖好。等冷后取出研细，再加米饭，做成丸子，如芡子大。每服二丸，热酒送下。或身上出汗，或通便通气病即愈。如大便还不通，可再服一丸，加玄明粉五分同服。<br/>妇女血气冷痛攻心。可照上方服药。<br/>风 (口吐白沫，翻目抽筋)。用黑铅、水银、结砂、南星(炮过)各一两，共研为末，加糯米饭做成丸子，如绿豆大，按年龄一岁服一丸，乳汗送下。<br/>反胃、呃逆。用黑铅熔成汁，冷后，以柳木捶研成粉。取一两，加醋一升，放在砂锅里熬成膏子，再加蒸饼末少许，捏成小豆大的丸子。每服一丸，姜汤送下。<br/>多年反胃水上。用铅二两、石亭脂二两、盐卤汁五两。先烧铅，以卤汁淬过，再与石亭脂同炒，等到起焰时，挑在水上，焰止，研匀，加蒸饼做丸，如梧子大。每服二十九，石莲干柿汤送下。<br/>消渴烦闷。用黑铅、水银等分。结如泥后，常含黄豆大一团，把口水吞下。<br/>水肿。用铅五两、灸皂荚一个、酒二斗，煮开六次，常常饮之，至小便畅通，达二、三升，肿即消。<br/>小便不能。用铜锉成末，取一两，用生姜半两、灯心一握，井水煎服。服药前，将炒葱贴在肚脐上。<br/>突发咳嗽。用炉中铜屑、桂心、皂荚等分，研细，和蜜成丸，如梧子大。每服十五丸。忌食忽。<br/>瘰疬结核。用铅二两，在铁锅里炒，取其黑灰，调醋涂搽，把一片布块盖着。注意勤换药，让恶汁流出。如此半月，不痛不破，内消为水而病愈。<br/>背痈。用铅一斤、甘草(微灸)三两。先取酒一斗，浸甘草，然后把铅熔化投入酒中。等铅冷凝，又取出再熔再投，如此九次，去滓饮酒，醉卧即愈。<br/>砒霜中毒(烦躁如狂，心腹疼痛，四肢发冷)。用黑铅四两，磨水一碗灌服。<br/>硫磺中毒。用黑铜煎汤服。<br/>轻粉中毒。用铜五斤打壶一把，装烧酒十五斤、土茯苓半斤、乳香三钱，封固，重汤煎一昼夜，埋土中，出火毒。每日早晚喝数杯，用瓦盆接小便，可见尿中有粉状物。服至筋骨不痛乃止。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1463.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1465.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

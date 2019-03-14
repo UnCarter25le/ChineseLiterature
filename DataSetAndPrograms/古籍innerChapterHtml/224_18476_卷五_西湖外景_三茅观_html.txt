@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷五·西湖外景·三茅观_古诗文网
+</title>
+<meta content="三茅观在吴山西南。三茅者，兄弟三人，长曰盈，次曰固，季曰衷，秦初咸阳人也。得道成仙，自汉以来，即崇祀之。第观中三像，一立、一坐、一卧，不知何说。以意度之，或以行立坐卧，皆是修炼功夫" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18476.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·西湖外景·三茅观</b></span>
+<a href="javascript:PlayBookv(18476)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18476" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18476" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　三茅观在吴山西南。三茅者，兄弟三人，长曰盈，次曰固，季曰衷，秦初咸阳人也。得道成仙，自汉以来，即崇祀之。第观中三像，一立、一坐、一卧，不知何说。以意度之，或以行立坐卧，皆是修炼功夫，教人不可蹉过耳。宋绍兴二十年，因东京旧名，赐额曰宁寿观。元至元间毁，明洪武初重建。成化十年建昊天阁。嘉靖三十五年，总制胡宗宪以平岛夷功，奏建真武殿。万历二十一年，司礼孙隆重修，并建钟翠亭、三义阁。相传观中有褚遂良小楷《阴符经》墨迹。景定庚申，宋理宗以贾似道有江汉功，赐金帛巨万，不受，诏就本观取《阴符经》，以酬其功。此事殊韵，第不应于贾似道当之耳。余尝谓曹操、贾似道千古奸雄，乃诗文中之有曹孟德，书画中之有贾秋壑，觉其罪业滔天，减却一半。方晓诗文书画，乃能忏悔恶人如此。凡人一窍尚通，可不加意诗文，留心书画哉？</p>
+<p>　　徐渭《三茅观观潮》诗：</p>
+<p>　　黄幡绣字金铃重，仙人夜语骑青凤。</p>
+<p>　　宝树攒攒摇绿波，海门数点潮头动。</p>
+<p>　　海神罢舞回腰窄，天地有身存不得。</p>
+<p>　　谁将练带括秋空？谁将古概量春雪？</p>
+<p>　　黑鳌载地几万年，昼夜一身神血干。</p>
+<p>　　升沉不守瞬息事，人间白浪今如此。</p>
+<p>　　白日高高惨不光，冷虹随身萦城隍。</p>
+<p>　　城中那得知城外，却疑寒色来何方。</p>
+<p>　　鹿苑草长文殊死，狮子随人吼祗树。</p>
+<p>　　吴山石头坐秋风，带着高冠拂云雾。</p>
+<p>　　又《三茅观眺雪》诗：</p>
+<p>　　高会集黄冠，琳宫夜坐阑。梅芳成蕊易，雪谢作花难。</p>
+<p>　　檐月沉怀暖，江峰入坐寒。暮鸦惊炬火，飞去破烟岚。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18475.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18477.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

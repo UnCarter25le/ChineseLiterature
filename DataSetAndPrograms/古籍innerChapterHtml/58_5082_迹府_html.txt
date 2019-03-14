@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+公孙龙子·迹府_古诗文网
+</title>
+<meta content="公孙龙，六国时辩士也。疾名实之散乱，因资材之所长，为“守白”之论。 假物取譬，以“守白”辩，谓白马为非马也。白马为非马者，言白所以名色，言 马所以名形也；色非形，形非色也。夫言色则" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5082.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3302" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>迹府</b></span>
+<a href="javascript:PlayBookv(5082)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5082" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3302)" id="leftbtn3302" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5082" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%85%ac%e5%ad%99%e9%be%99">公孙龙</a></p>
+<div class="contson">
+<p>　　公孙龙，六国时辩士也。疾名实之散乱，因资材之所长，为“守白”之论。 假物取譬，以“守白”辩，谓白马为非马也。白马为非马者，言白所以名色，言 马所以名形也；色非形，形非色也。夫言色则形不当与，言形则色不宜从，今合 以为物，非也。如求白马于厩中，无有，而有骊色之马，然不可以应有白马也。 不可以应有白马，则所求之马亡矣；亡则白马竟非马。欲推是辩，以正名实而化 天下焉。</p>
+<p>　　龙于孔穿会赵平原君家。穿曰：“素闻先生高谊，愿为弟子久，但不取先生 以白马为非马耳！请去此术，则穿请为弟子。”</p>
+<p>　　龙曰：“先生之言悖。龙之所以为名者，乃以白马之论尔！今使龙去之，则 无以教焉。且欲师之者，以智与学不如也。今使龙去之，此先教而后师也；先教 而后师之者，悖。</p>
+<p>　　“且白马非马，乃仲尼之所取。龙闻楚王张繁弱之弓，载亡归之矢，以射蛟 口于云梦之圃，而丧其弓。左右请求之。王曰：‘止。楚人遗弓，楚人得之，又 何求乎？’仲尼闻之曰：‘楚王仁义而未遂也。亦曰人亡弓，人得之而已，何必 楚？’若此，仲尼异‘楚人’与所谓‘人’。夫是仲尼异‘楚人’与所谓‘人’， 而非龙‘白马’于所谓‘马’，悖。”</p>
+<p>　　“先生修儒术而非仲尼之所取，欲学而使龙去所教，则虽百龙，固不能当前 矣。”孔穿无以应焉。</p>
+<p>　　公孙龙，赵平原君之客也；孔穿，孔子之孙也。穿与龙会。穿谓龙曰：“臣 居鲁，侧闻下风，高先生之智，说先生之行，愿受益之日久矣，乃今得见。然所 不取先生者，独不取先生之以白马为非马耳。请去白马非马之学，穿请为弟子。”</p>
+<p>　　公孙龙曰：“先生之言悖。龙之学，以白马为非马者也。使龙去之，则龙无 以教；无以教而乃学于龙也者，悖。且夫欲学于龙者，以智与学焉为不逮也。今 教龙去白马非马，是先教而后师之也；先教而后师之，不可。”</p>
+<p>　　“先生之所以教龙者，似齐王之谓尹文也。齐王之谓尹文曰：‘寡人甚好士， 以齐国无士，何也？’尹文曰：‘愿闻大王之所谓士者。’齐王无以应。尹文曰： ‘今有人于此，事君则忠，事亲则孝，交友则信，处乡则顺，有此四行，可谓士 乎？’齐王曰：‘善！此真吾所谓士也。’尹文曰：‘王得此人，肯以为臣乎？’ 王曰：‘所愿而不可得也。’”</p>
+<p>　　“是时齐王好勇。于是尹文曰：‘使此人广众大庭之中，见侵侮而终不敢斗， 王将以为臣乎？’王曰：‘钜士也？见侮而不斗，辱也！辱则寡人不以为臣矣。’ 尹文曰：‘唯见侮而不斗，未失其四行也。是人失其四行，其所以为士也然。而 王一以为臣，一不以为臣，则向之所谓士者，乃非士乎？’齐王无以应。”</p>
+<p>　　“尹文曰：‘今有人君，将理其国，人有非则非之，无非则亦非之；有功则 赏之，无功则亦赏之，而怨人之不理也，可乎？’齐王曰：‘不可。’尹文曰： ‘臣口观下吏之理齐，齐方若此矣。’王曰：‘寡人理国，信若先生之烟，人虽 不理，寡人不敢怨也。意未至然与？’</p>
+<p>　　“尹文曰：‘言之敢无说乎？王之令曰：‘杀人者死，伤人者刑。’人有畏 王之令者，见侮而终不敢斗，是全王之令也。而王曰：‘见侮而不斗者，辱也。 ’谓之辱，非之也。无非而王非之，故因除其籍，不以为臣也。不以为臣者，罚 之也。此无而王罚之也。且王辱不敢斗者，必荣敢斗者也；荣敢斗者，是而王是 之，必以为臣矣。必以为臣者，赏之也。彼无功而王赏之。王之所赏，吏之所诛 也；上之所是，而法之所非也。赏罚是非，相与四谬，虽十黄帝，不能理也。’ 齐王无以应。”</p>
+<p>　　“故龙以子之言有似齐王。子知难白马之非马，不知所以难之说，以此，犹 好士之名，而不知察士之类。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_58.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5083.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3302" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

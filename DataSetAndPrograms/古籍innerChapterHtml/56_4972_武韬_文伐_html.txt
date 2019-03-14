@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+六韬·武韬·文伐_古诗文网
+</title>
+<meta content="文王问太公曰：“文伐之法奈何？”太公曰：“凡文伐有十二节：“一曰，因其所喜，以顺其志，彼将生骄，必有好事，苟能因之，必能去之。“二曰，亲其所爱，以分其威。一人两心，其中必衰。廷无忠" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4972.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3142" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>武韬·文伐</b></span>
+<a href="javascript:PlayBookv(4972)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4972" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3142)" id="leftbtn3142" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4972" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%a7%9c%e5%ad%90%e7%89%99">姜子牙</a></p>
+<div class="contson">
+<p>　　文王问太公曰：“文伐之法奈何？”太公曰：“凡文伐有十二节：</p>
+<p>　　“一曰，因其所喜，以顺其志，彼将生骄，必有好事，苟能因之，必能去之。</p>
+<p>　　“二曰，亲其所爱，以分其威。一人两心，其中必衰。廷无忠臣，社稷必苊。</p>
+<p>　　“三曰，阴赂左右，得情甚深，身内情外，国将生害。</p>
+<p>　　“四曰，辅其淫乐，以广其志，厚赂珠玉，娱以美人。卑辞委听，顺命而合。彼将不争，奸节乃定。</p>
+<p>　　“五曰，严其忠臣，而薄其赂，稽留其使，勿听其事。亟为置代，遗以诚事。亲而信之，其君将复合之，苟能严之，国乃可谋。</p>
+<p>　　“六曰，收其内，间其外，才臣外相，敌国内侵，国鲜不亡。</p>
+<p>　　“七曰，欲锢其心，必厚赂之；收其左右忠爱，阴示以利；令之轻业，而蓄积空虚。</p>
+<p>　　“八曰，赂以重宝，因与之谋，谋而利之，利之必信，是谓重亲；重亲之积，必为我用，有国而外，其地大败。</p>
+<p>　　“九曰，尊之以名，无难其身；示以大势，从之必信，致其大尊；先为之荣，微饰圣人，国乃大偷。</p>
+<p>　　“十曰，下之必信，以得其情；承意应事，如与同生；既以得之，乃微收之；时及将至，若天丧之。</p>
+<p>　　“十一曰，塞之以道。人臣无不重贵与富，恶死与咎。阴示大尊，而微输重宝，收其豪杰。内积甚厚，而外为乏。阴纳智士，使图其计；纳勇士，使高其气。富贵甚足，而常有繁滋。徒党已具，是谓塞之。有国而塞，安能有国。</p>
+<p>　　“十二曰：养其乱臣以迷之，进美女淫声以惑之，遗良犬马以劳之，时与大势以诱之，上察而与天下图之。</p>
+<p>　　“十二节备，乃成武事。所谓上察天，下察地，征已见，乃伐之。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4971.aspx">上一章</a>
+<a href="/guwen/book_56.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4973.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3142" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

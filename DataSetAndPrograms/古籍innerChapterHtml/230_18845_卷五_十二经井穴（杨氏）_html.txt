@@ -1,0 +1,128 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷五·十二经井穴（杨氏）_古诗文网
+</title>
+<meta content="手太阴井：少商人病膨胀，喘咳，缺盆痛，心烦，掌热，肩背疼，咽痛喉肿。斯乃以脉循上膈肺中，横过腋关，穿过尺泽入少商，故邪客于手太阴之络，而生是病。可刺手太阴肺经井穴少商也，手大指侧。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18845.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·十二经井穴（杨氏）</b></span>
+<a href="javascript:PlayBookv(18845)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18845" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18845" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　<strong>手太阴井：少商</strong></p>
+<p>　　人病膨胀，喘咳，缺盆痛，心烦，掌热，肩背疼，咽痛喉肿。斯乃以脉循上膈肺中，横过腋关，穿过尺泽入少商，故邪客于手太阴之络，而生是病。</p>
+<p>　　可刺手太阴肺经井穴少商也，手大指侧。刺同身寸之一分，行六阴之数各一痏，左取右，右取左，如食顷已。灸三壮。</p>
+<p>　　<strong>手阳明井：商阳</strong></p>
+<p>　　人病气满，胸中紧痛，烦热，喘而不已息。斯乃以其脉自肩端入缺盆，络肺；其支别者从缺盆中直而上颈，故邪客于手阳明之络，而有是病。</p>
+<p>　　可刺手阳明大肠井穴商阳也，在手大指次指爪甲角。刺入一分，行六阴之数，左取右，右取左，如食顷已。灸三壮。</p>
+<p>　　<strong>足阳明井：厉兑</strong></p>
+<p>　　人病腹心闷，恶人火，闻响心惕，鼻衄唇喎，疟狂，足痛，气蛊，疮疥，齿寒。乃脉起于鼻交頞中，下循鼻外，入上齿中，还出侠口环唇，下交承浆。却循颐后下廉，出大迎，循颊车，上耳前，故邪客于足阳明之络，而有是病。</p>
+<p>　　可刺足阳明胃经井厉兑，足次指爪甲上与肉交者韭许。刺一分，行六阴数，左取右，食顷已。</p>
+<p>　　<strong>足太阴井：隐白</strong></p>
+<p>　　人病尸厥暴死，脉犹如常人而动，然阴盛于上，则邪气重上，而邪气逆，阳气乱，五络闭塞，结而不通，故状若尸厥，身脉动，不知人事，邪客手足少阴、太阴、足阳明络，此五络，命所关。</p>
+<p>　　可初刺足太阴脾隐白，二刺足少阴肾涌泉，三刺足阳明胃厉兑，四刺手太阴肺少商，五刺手少阴心少冲，五井穴各二分，左右皆六阴数。不愈，刺神门；不愈，以竹管吹两耳，以指掩管口，勿泄气，必须极吹蹙，才脉络通，每极三度。甚者灸维会三壮。针前后各二分，泻二度，后再灸。</p>
+<p>　　<strong>手少阴井：少冲</strong></p>
+<p>　　人病心痛烦渴，臂厥，胁肋疼，心中热闷，呆痴忘事，颠狂。斯乃以其脉起于心，支从心系侠喉咙，出向后腕骨之下，直从肺，行腋下臑内，循廉肘内通臂，循廉抵腕，直过神门脉，入少冲。</p>
+<p>　　可刺手心经井少冲，手小指内侧交肉者如韭叶。刺一分，行六阴数，右取左，若灸三炷，如麦大，不已，复刺神门穴。</p>
+<p>　　<strong>手太阳井：少泽</strong></p>
+<p>　　人病颔肿，项强难顾，肩似拔，臑似折，肘臂疼，外廉痛。斯乃以其脉起小指，自少泽过前谷，上循臂内至肩入缺盆，向腋，络心间，循咽下膈，抵胃；支从缺盆上颈颊，至目锐眦入耳，复循颊入鼻雜，斜贯于颧，故邪客于太阳络，生是病。</p>
+<p>　　可刺手小肠井少泽，小指外侧与肉相交如韭叶。刺一分，六阴数各一痏，左病右取。若灸如小麦炷，三壮止。</p>
+<p>　　<strong>足太阳井：至阴</strong></p>
+<p>　　人病头项肩背腰目疼，脊痛，痔疟，颠狂，目黄泪出，鼻流血。斯乃经之正者，从脑出，别下项；支别者，从膊内左右别下，又其络从上行，循眦上额，故邪客于足太阳络，而有是病。</p>
+<p>　　可刺足太阳膀胱井至阴，小指外侧韭叶。行六阴数，不已，刺金门五分，灸三壮；不已，刺申脉三分，如人行十里愈。有所坠，瘀血留腹内，满胀不得行，先以利药，次刺然谷前脉出血立已。不已，刺冲阳三分（胃之原）及大敦见血（肝之井）。</p>
+<p>　　<strong>足少阴井：涌泉</strong></p>
+<p>　　人病卒心痛，暴胀，胸胁支满。斯乃脉上贯肝膈，走于心内，故邪客于足少阴之络，而有是病。</p>
+<p>　　可刺足少阴肾井涌泉，足心中。刺三分，行六阴数，见血出，令人立饥欲食，左取右，素有此病，新发，刺五日愈，灸三壮。</p>
+<p>　　<strong>手厥阴井：中冲</strong></p>
+<p>　　人病卒然心痛，掌中热，胸满膨，手挛臂痛，不能伸屈，腋下肿平，面赤目黄，善笑，心胸热，耳聋响。斯乃以其包络之脉，循胁过腋下，通臑内，至间使入劳宫，循经直入中冲；支别从掌循小指，过次指关冲，故邪客于手厥阴络，生是病。</p>
+<p>　　可刺手厥阴心包井中冲，中指内端去甲韭叶。刺一分，行六阴数，左取右，如食顷已。若灸可三壮，如小麦炷。</p>
+<p>　　<strong>手少阳井：关冲</strong></p>
+<p>　　人病耳聋痛，浑浑目疼，肘痛，脊间心后疼甚。斯乃以其脉上臂，贯臑外循肩上，交出少阳缺盆、膻中、膈内；支出颈项耳后，直入耳中；循遍目内眦，故邪气客于少阳之络，生是病。</p>
+<p>　　可刺手少阳三焦井穴关冲也，手小指次指去爪甲与肉交者如韭叶许。刺一分，各一痏，右取左，如食顷已。如灸三壮不已，复刺少阳俞中渚穴。</p>
+<p>　　<strong>足少阳井：窍阴</strong></p>
+<p>　　人病胸胁足痛，面滞，头目疼，缺盆腋肿汗多，颈项瘿瘤强硬，疟生寒热。乃脉支别者，从目锐下大迎，合手少阳抵项，下颊车，下颈合缺盆以下胸，交中贯膈，络肝胆，循胁，故邪客于足少阳之络，而有是病。</p>
+<p>　　可刺足少阳胆井窍阴，在次指与肉交者如韭叶许。刺一分，行六阴数，各一痏，左病右取，如食顷已。灸可三壮。</p>
+<p>　　<strong>足厥阴井：大敦</strong></p>
+<p>　　人病卒疝暴痛，及腹绕脐上下急痛。斯乃肝络去内踝上五寸，别走少阳；其支别者，循胫上睪，结于茎，故邪客于足厥阴之络，而有是病。</p>
+<p>　　可刺足厥阴肝经井穴大敦，大指端。行六阴数，左取右，素有此病，再发，刺之三日已。若灸者，可五壮止。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18844.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18846.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

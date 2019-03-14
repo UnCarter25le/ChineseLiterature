@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·人谋下·沉谋篇_古诗文网
+</title>
+<meta content="经曰：善用兵者，非信义不立，非阴阳不胜，非奇正不列，非诡谲不战；谋藏於心，事见於迹。心与迹同者败，心与迹异者胜。兵者，诡逆也。能而示之不能，用而示之不用。心谋大，迹示小；心谋取，迹" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_15998.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>人谋下·沉谋篇</b></span>
+<a href="javascript:PlayBookv(15998)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv15998" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay15998" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　经曰：善用兵者，非信义不立，非阴阳不胜，非奇正不列，非诡谲不战；谋藏於心，事见於迹。心与迹同者败，心与迹异者胜。兵者，诡逆也。能而示之不能，用而示之不用。心谋大，迹示小；心谋取，迹示与。惑其真，疑其诈；真诈不决，则强弱不分。湛然若玄元之无象，渊然若沧海之不测。如此，则阴阳不能算，鬼神不能知，术数不能穷，卜筮不能占，而况於将乎！夫善战者，胜败生於两阵之间；其谋也，策不足验；其胜也，形不足观。能言而不能行者，国之害；能行而不能言者，国之用。故曰：「至谋不说，大兵不言，微乎！神乎！故能通天地之理，备万物之情。」是故，贪者利之，使其难厌；强者卑之，使其骄矜；亲者离之，使其携贰。难厌则公正阙，骄矜则虞守亏，携贰则谋臣去</p>
+<p>　　周文利殷，而商纣杀；勾践卑吴，而夫差戮；汉高离楚，而项羽亡。是故，屈诸侯者以言，役诸侯者以策。夫善兵者，攻其爱，敌必从；捣其虚，敌必随；多其方，敌必分；疑其事，敌必备。从随不得城守，分备不得并兵，则我佚而敌劳，敌寡而我众。夫以佚击劳者，武之顺；以劳击佚者，武之逆；以众击寡者，武之胜；以寡击众者，武之败。能以众击寡，以佚击劳，吾所以得全胜矣。夫竭三军气、夺一将心、疲万人力、断千里粮，不在武夫行阵之势，而在智士权算之中。弱兮柔兮，卷之不盈怀袖；沉兮密兮，舒之可经寰海。五寸之键，能制阖辟；方寸之心，能易成败。智周万物而不殆，曲成万物而不遗。顺天信人，察始知终，则谋何虑乎不从哉！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_15997.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_15999.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

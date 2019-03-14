@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·僖公·僖公七年_古诗文网
+</title>
+<meta content="【经】七年春，齐人伐郑。夏，小邾子来朝。郑杀其大夫申侯。秋七月，公会齐侯、宋公、陈世子款、郑世子华盟于宁母。曹伯班卒。公子友如齐。冬葬曹昭公。 【传】七年春，齐人伐郑。孔叔言于郑伯" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2851.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1372" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>僖公·僖公七年</b></span>
+<a href="javascript:PlayBookv(2851)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2851" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1372)" id="leftbtn1372" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2851" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】七年春，齐人伐郑。夏，小邾子来朝。郑杀其大夫申侯。秋七月，公会齐侯、宋公、陈世子款、郑世子华盟于宁母。曹伯班卒。公子友如齐。冬葬曹昭公。 </p>
+<p>　　【传】七年春，齐人伐郑。孔叔言于郑伯曰：「谚有之曰：『心则不竞，何惮于病。』既不能强，又不能弱，所以毙也。国危矣，请下齐以救国。」公曰：「吾知其所由来矣。姑少待我。」对曰：「朝不及夕，何以待君？」 </p>
+<p>　　夏，郑杀申侯以说于齐，且用陈辕涛涂之谮也。 </p>
+<p>　　初，申侯，申出也，有宠于楚文王。文王将死，与之璧，使行，曰，「唯我知女，女专利而不厌，予取予求，不女疵瑕也。后之人将求多于女，女必不免。我死，女必速行。无适小国，将不女容焉。」既葬，出奔郑，又有宠于厉公。子文闻其死也，曰：「古人有言曰『知臣莫若君。』弗可改也已。」</p>
+<p>　　秋，盟于宁母，谋郑故也。 </p>
+<p>　　管仲言于齐侯曰：「臣闻之，招携以礼，怀远以德，德礼不易，无人不怀。」齐侯修礼于诸侯，诸侯官受方物。</p>
+<p>　　郑伯使大子华听命于会，言于齐侯曰：「泄氏、孔氏、子人氏三族，实违君命。若君去之以为成。我以郑为内臣，君亦无所不利焉。」齐侯将许之。管仲曰：「君以礼与信属诸侯，而以奸终之，无乃不可乎？子父不奸之谓礼，守命共时之谓信。违此二者，奸莫大焉。」公曰：「诸侯有讨于郑，未捷。今苟有衅。从之，不亦可乎？」对曰：「君若绥之以德，加之以训辞，而帅诸侯以讨郑，郑将覆亡之不暇，岂敢不惧？若总其罪人以临之，郑有辞矣，何惧？且夫合诸侯以崇德也，会而列奸，何以示后嗣？夫诸侯之会，其德刑礼义，无国不记。记奸之位，君盟替矣。作而不记，非盛德也。君其勿许，郑必受盟。夫子华既为大子而求介于大国，以弱其国，亦必不免。郑有叔詹、堵叔、师叔三良为政，未可间也。」齐侯辞焉。子华由是得罪于郑。</p>
+<p>　　冬，郑伯请盟于齐。 </p>
+<p>　　闰月，惠王崩。襄王恶大叔带之难，惧不立，不发丧而告难于齐。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2850.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2852.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1372" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+大戴礼记·礼三本第四十二_古诗文网
+</title>
+<meta content="礼有三本：天地者，性之本也；先祖者，类之本也；君师者，治之本也。无天地焉生？无先祖焉出？无君师焉治？三者偏亡，无安之人。故礼，上事天，下事地，宗事先祖，而宠君师，是礼之三本也。 王" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19008.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>礼三本第四十二</b></span>
+<a href="javascript:PlayBookv(19008)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19008" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19008" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%88%b4%e5%be%b7">戴德</a></p>
+<div class="contson">
+<p>　　礼有三本：天地者，性之本也；先祖者，类之本也；君师者，治之本也。无天地焉生？无先祖焉出？无君师焉治？三者偏亡，无安之人。故礼，上事天，下事地，宗事先祖，而宠君师，是礼之三本也。 </p>
+<p>　　王者天太祖，诸侯不敢怀，大夫、士有常宗，所以别贵始，德之本也。 </p>
+<p>　　郊止天子，社止诸侯，道及士大夫，所以别尊卑。尊者事尊，卑者事卑，宜钜者钜，宜小者小也。 </p>
+<p>　　故有天下者事七世，有国者事五世，有五乘之地者事三世，有三乘之地者事二世，待年而食者不得立宗庙，所以别积厚者流泽光、积薄者流泽卑也。 </p>
+<p>　　大飨尚玄尊，俎生鱼，先大羹，贵饮食之本也。 </p>
+<p>　　大飨尚玄尊而用酒，食先黍稷而饭稻粱，祭哜大羹而饱乎庶羞，贵本而亲用。贵本之谓文，亲用之谓理，两者合而成文，以归太一，夫是谓大隆。 </p>
+<p>　　故尊之尚玄酒也，俎之生鱼也，豆之先大羹也，一也。 </p>
+<p>　　利爵之不啐也，成事之俎不尝也，三侑之不食也，一也。 </p>
+<p>　　大昏之未发齐也，庙之未纳尸也，始卒之未小敛也，一也。 </p>
+<p>　　大路车之素幭也，郊之麻冕也，丧服之先散带也，一也。 </p>
+<p>　　三年之哭不反也，清庙之歌一倡而三叹也，县一罄而尚拊搏、朱弦而通越也，一也。 </p>
+<p>　　凡礼始于脱，成于文，终于隆。故至备，情文俱尽；其次，情文佚兴；其下，复情以归太一。 </p>
+<p>　　天地以合，四海以洽，日月以明，星辰以行，江河以流，万物以倡，好恶以节，喜怒以当，以为下则顺，以为上则明，万变不乱，贷之则丧。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19007.aspx">上一章</a>
+<a href="/guwen/book_235.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19009.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·度量类·卷一_古诗文网
+</title>
+<meta content="◎张京江遗事京江风度端凝，为清朝第一。故乾隆时翠华南幸，常御书此四字，以颜其闾，父老至今犹传为佳话。殊不知公之生平，固不独以度胜，其器量亦实有大过人者。幼时攻制艺，尝诵公“不患不人" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16204.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>度量类·卷一</b></span>
+<a href="javascript:PlayBookv(16204)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16204" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16204" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎张京江遗事</p>
+<p>　　京江风度端凝，为清朝第一。故乾隆时翠华南幸，常御书此四字，以颜其闾，父老至今犹传为佳话。殊不知公之生平，固不独以度胜，其器量亦实有大过人者。幼时攻制艺，尝诵公“不患不人之不己知，患不知人也”一节题文，至束股（曩时制艺有八股，或六股，其篇末二股，谓之束股）“不受朝廷不甚爱惜之官，亦不受乡党无足重轻之誉”二语，辄信公人如其文，具此胸襟，安得不光国而迈种耶？与公入词林时，府中有一力，年已老矣。某年，公归自京师，晨兴诣斋，执卷坐此，力入洒扫，率呼曰：“玉书且起，公为徙别室待之。”事已而后，入不少怪也。其徒语力曰：“相公今贵矣，汝犹当束发受书时而名之耶？”力闻之，爽然。</p>
+<p>　　翌日，遇公则改貌，而称谓亦如仪，公愕然诘之曰：“谁教汝者？”力曰：“闻礼应如是，觉昨非而今是耳。”公欷太息曰：“是何黠物，斫汝天真矣。”又公入相时，其府垣外有隙地，邻有兴作者越用之，家人与之争，则不听，将怒而鸣诸县，先以书驰白公，公还笺曰：“千里来书止为墙，让他几尺也何妨。长城万里今犹在，不见当年秦始皇。”呜呼！此二者，皆琐事也，然富贵人处之，鲜有不怒其侮己者，而公之有容乃如此，今尚可得其人哉！</p>
+<p>　　传闻公之辅政也，日入值，一日上问曰：“天下以何物为最肥，何物为最瘦乎？”有满大臣抢白曰：“莫瘦于豺狼，莫肥于猪羊。”上顾问公曰：“张蛮子（清初称南人往往以此），汝谓何如？”公曰：“臣以为莫肥于春雨，莫瘦于秋霜耳。”上太息曰：“此真宰相语也！吾满臣中能及此哉？”</p>
+<p>　　◎杜公厚德</p>
+<p>　　宝坻杜文端公（立德），德器厚重，人不见其喜愠之色。京师有无赖子，偶与驺卒哄，乘醉随公舆后辱詈，公若不闻。无赖于随至邸第，詈不止。久之，公遣问曰：“詈可已乎？”无赖子归，酒既醒，或告以昨辱宰相，仓皇诣第谢罪，公慰遣之，仍予二金，令改行生理，无赖子感泣而去，岁时必至公门叩拜，卒为善人。予乡文定孙公（廷铨）、司寇高公（珩），居乡亦然，皆可为士大夫法。</p>
+<p>　　◎王相国假归后轶事</p>
+<p>　　王太仓相国假归，入山养病，戒仆人勿言姓氏。道遇疾雨，移舟避乡坊，其家不容，逐之，乃告曰：“我好人，勿疑也。”乡人笑曰：“好人那肯六月出门远行？”公闻之，悚然曰：“彼言是也。”公喜菊，多蓄名种，杜醒陶造之，猝见白剪绒，不觉身入花间，忘与主人交礼。公曰：“君兴故不减我。”乃赠与之。</p>
+<p>　　公夏六月，斜跣据地，手捉菊虫，邻叟不知，意花丁也，呼之不应，乃戏蹴之，公曰：“叟亦爱菊耶？”亦赠与之。公有古瓷，直不赀，一日李安溪索观，命奴捧之，历阶而上，失足倾跌而碎，李不觉失声，公怡然不动，安溪每服其雅量。</p>
+<p>　　◎王鸣盛家居</p>
+<p>　　光禄王西庄先生鸣盛，家居时，有无赖子与人赌胜，醉骂王氏之门，门者不能忍，先生力止之。次日，无赖子酒醒，其母挈之诣先生家请罪，笑谢之曰：“昨汝酒醉，我却不怪。但以后醉了，若骂他人，恐致获咎。”无赖子惶恐而归，戒酒终身，卒无事。先生涵养如此，宜其瞽目复明，年跻大耋也。</p>
+<p>　　◎蔡文恭家居</p>
+<p>　　漳浦蔡文恭公，致仕家居，每遇巡检典史，亦执礼甚恭。或以为过，公曰：“欲使乡民知位至宰相，必敬父母官；知父母官之尊，虽宰相必致敬。庶几常存不敢之心，而犯上作乱者或鲜矣。”</p>
+<p>　　故终公之世，漳浦民无滋事者。见梁ぇ林中丞《归田琐记》。按，昔贤有以宰相居乡，闻县官过门，必起立拱手者；有在籍显官，道逢丞尉，遭呵斥不校者，前史多传为美德，公亦有所受之也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16203.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16205.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

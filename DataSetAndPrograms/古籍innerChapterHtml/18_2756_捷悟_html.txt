@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+世说新语·捷悟_古诗文网
+</title>
+<meta content="杨德祖为魏武主簿，时作相国门，始构榱桷，魏武自出看，使人题门作“活”字，便去。杨见，即令坏之。既竟，曰：“门中‘活’，‘阔’字。王正嫌门大也。”人饷魏武一杯酪，魏武啖少许，盖头上题" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2756.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1568" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>捷悟</b></span>
+<a href="javascript:PlayBookv(2756)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2756" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1568)" id="leftbtn1568" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2756" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e4%b9%89%e5%ba%86">刘义庆</a></p>
+<div class="contson">
+<p>　　杨德祖为魏武主簿，时作相国门，始构榱桷，魏武自出看，使人题门作“活”字，便去。杨见，即令坏之。既竟，曰：“门中‘活’，‘阔’字。王正嫌门大也。”</p>
+<p>　　人饷魏武一杯酪，魏武啖少许，盖头上题“合”字以示众。众莫能解。次至杨脩，脩便啖，曰：“公教人啖一口也，复何疑？”</p>
+<p>　　魏武尝过曹娥碑下，杨脩从，碑背上见题作“黄绢幼妇，外孙虀臼”八字。魏武谓脩曰：“解不？”答曰：“解。”魏武曰：“卿未可言，待我思之。”行三十里，魏武乃曰：“吾已得。”令脩别记所知。脩曰：“黄绢，色丝也，于字为绝。幼妇，少女也，于字为妙。外孙，女子也，于字为好。虀臼，受辛也，于字为辞。所谓‘绝妙好辞’也。”魏武亦记之，与脩同，乃叹曰：“我才不及卿，乃觉三十里。”</p>
+<p>　　魏武征袁本初，治装，余有数十斛竹片，咸长数寸，众云并不堪用，正令烧除。太祖思所以用之，谓可为竹椑楯，而未显其言。驰使问主簿杨德祖。应声答之，与帝心同。众伏其辩悟。</p>
+<p>　　王敦引军垂至大桁，明帝自出中堂。温峤为丹阳尹，帝令断大桁，故未断，帝大怒，瞋目，左右莫不悚惧。召诸公来。峤至不谢，但求酒炙。王导须臾至，徒跣下地，谢曰：“天威在颜，遂使温峤不容得谢。”峤于是下谢，帝乃释然。诸公共叹王机悟名言。</p>
+<p>　　郗司空在北府，桓宣武恶其居兵权。郗于事机素暗，遣笺诣桓：“方欲共奖王室，脩复园陵。”世子嘉宾出行，于道上闻信至，急取笺，视竟，寸寸毁裂，便回。还更作笺，自陈老病，不堪人闲，欲乞闲地自养。宣武得笺大喜，即诏转公督五郡，会稽太守。</p>
+<p>　　王东亭作宣武主簿，尝春月与石头兄弟乘马出郊。时彦同游者，连镳俱进。唯东亭一人常在前，觉数十步，诸人莫之解。石头等既疲倦，俄而乘舆回，诸人皆似从官，唯东亭弈弈在前。其悟捷如此。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2755.aspx">上一章</a>
+<a href="/guwen/book_18.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2757.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1568" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

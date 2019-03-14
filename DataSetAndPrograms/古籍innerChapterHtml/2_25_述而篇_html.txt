@@ -1,0 +1,132 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+论语·述而篇_古诗文网
+</title>
+<meta content="子曰：“述而不作，信而好古，窃比于我老彭。”子曰：“默而识之，学而不厌，诲人不倦，何有于我哉？”子曰：“德之不修，学之不讲，闻义不能徙，不善不能改，是吾忧也。”子之燕居，申申如也，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_25.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left765" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>述而篇</b></span>
+<a href="javascript:PlayBookv(25)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv25" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(765)" id="leftbtn765" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay25" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>子曰：“述而不作，信而好古，窃比于我老彭。”</p>
+<p>子曰：“默而识之，学而不厌，诲人不倦，何有于我哉？”</p>
+<p>子曰：“德之不修，学之不讲，闻义不能徙，不善不能改，是吾忧也。”</p>
+<p>子之燕居，申申如也，夭夭如也。</p>
+<p>子曰：“甚矣吾衰也！久矣吾不复梦见周公。”</p>
+<p>子曰：“志于道，据于德，依于仁，游于艺。”</p>
+<p>子曰：“自行束修以上，吾未尝无诲焉。”</p>
+<p>子曰：“不愤不启，不悱不发，举一隅不以三隅反，则不复也。”</p>
+<p>子食于有丧者之侧，未尝饱也。</p>
+<p>子于是日哭，则不歌。</p>
+<p>子谓颜渊曰：“用之则行，舍之则藏，惟我与尔有是夫！”子路曰：“子行三军，则谁与？”子曰：“暴虎冯河，死而无悔者，吾不与也。必也临事而惧，好谋而成者也。”</p>
+<p>子曰：“富而可求也，虽执鞭之士，吾亦为之。如不可求，从吾所好。”</p>
+<p>子之所慎：齐，战，疾。</p>
+<p>子在齐闻《韶》，三月不知肉味，曰：“不图为乐之至于斯也。”</p>
+<p>冉有曰：“夫子为卫君乎？”子贡曰：“诺，吾将问之。”入，曰：“伯夷、叔齐何人也？”曰：“古之贤人也。”曰：“怨乎？”曰：“求仁而得仁，又何怨？”出，曰：“夫子不为也。”</p>
+<p>子曰：“饭疏食饮水，曲肱而枕之，乐亦在其中矣。不义而富且贵，于我如浮云。”</p>
+<p>子曰：“加我数年，五十以学《易》，可以无大过矣。”</p>
+<p>子所雅言，《诗》、《书》、执礼，皆雅言也。</p>
+<p>叶公问孔子于子路，子路不对。子曰：“女奚不曰：其为人也，发愤忘食，乐以忘忧，不知老之将至云尔。”</p>
+<p>子曰：“我非生而知之者，好古，敏以求之者也。”</p>
+<p>子不语怪、力、乱、神。</p>
+<p>子曰：“三人行，必有我师焉。择其善者而从之，其不善者而改之。”</p>
+<p>子曰：“天生德于予，桓魋其如予何？”</p>
+<p>子曰：“二三子以我为隐乎？吾无隐乎尔！吾无行而不与二三子者，是丘也。”</p>
+<p>子以四教：文，行，忠，信。</p>
+<p>子曰：“圣人，吾不得而见之矣；得见君子者斯可矣。”子曰：“善人，吾不得而见之矣，得见有恒者斯可矣。亡而为有，虚而为盈，约而为泰，难乎有恒乎。”</p>
+<p>子钓而不纲，弋不射宿。</p>
+<p>子曰：“盖有不知而作之者，我无是也。多闻，择其善者而从之；多见而识之，知之次也。”</p>
+<p>互乡难与言，童子见，门人惑。子曰：“与其进也，不与其退也，唯何甚？人洁己以进，与其洁也，不保其往也。”</p>
+<p>子曰：“仁远乎哉？我欲仁，斯仁至矣。”</p>
+<p>陈司败问：“昭公知礼乎？”孔子曰：“知礼。”孔子退，揖巫马期而进之，曰：“吾闻君子不党，君子亦党乎？君取于吴，为同姓，谓之吴孟子。君而知礼，孰不知礼？”巫马期以告，子曰：“丘也幸，苟有过，人必知之。”</p>
+<p>子与人歌而善，必使反之，而后和之。</p>
+<p>子曰：“文，莫吾犹人也。躬行君子，则吾未之有得。”</p>
+<p>子曰：“若圣与仁，则吾岂敢？抑为之不厌，诲人不倦，则可谓云尔已矣。”公西华曰：“正唯弟子不能学也。”</p>
+<p>子疾病，子路请祷。子曰：“有诸？”子路对曰：“有之。《诔》曰：‘祷尔于上下神祇。’”子曰：“丘之祷久矣。”</p>
+<p>子曰：“奢则不孙，俭则固。与其不孙也，宁固。”</p>
+<p>子曰：“君子坦荡荡，小人长戚戚。”</p>
+<p>子温而厉，威而不猛，恭而安。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_24.aspx">上一章</a>
+<a href="/guwen/book_2.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_26.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right765" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

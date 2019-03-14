@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+山海经·海经·海外东经_古诗文网
+</title>
+<meta content="海外自东南陬至东北陬者。　　【长差】丘，爰有遗玉、青马、视肉、杨柳、甘华。甘果所生，在东海。两山夹丘，上有树木。一曰嗟丘。一曰百果所在，在尧葬东。　　大人国在其北，为人大，坐而削船" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left9" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>海经·海外东经</b></span>
+<a href="javascript:PlayBookv(9)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(9)" id="leftbtn9" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+　　海外自东南陬至东北陬者。<br/>　　【长差】丘，爰有遗玉、青马、视肉、杨柳、甘华。甘果所生，在东海。两山夹丘，上有树木。一曰嗟丘。一曰百果所在，在尧葬东。<br/>　　大人国在其北，为人大，坐而削船。一曰在【长差】丘北。<br/>　　奢比尸国在其北，兽身、人面、大耳，珥两青蛇。一曰肝榆之尸在大人北。<br/>　　君子国在其北，衣冠带剑，食兽，使二大虎在旁，其人好让不争。有薰华草，朝生夕死。一曰在肝榆之尸北<br/>　　【上工下虫】在其北，各有两首。一曰在君子国北。朝阳之谷，神曰天吴，是为水伯。在【上工下虫】北两水间。其为兽也，八首人面，八足八尾，皆青黄。<br/>　　青丘国在其北，其狐四足九尾。一曰在朝阳北。<br/>　　帝命竖亥步，自东极至于西极，五亿十选九千八百步。竖亥右手把算，左手指青丘北。一曰禹令竖亥。一曰五亿十万九千八百步。<br/>　　黑齿国在其北，为人黑，食稻啖蛇，一赤一青，在其旁。一曰在竖亥北，为人黑首，食稻使蛇，其一蛇赤。<br/>　　下有汤谷。汤谷上有扶桑，十日所浴，在黑齿北。居水中，有大木，九日居下枝，一日居上枝。<br/>　　雨师妾在其北。其为人黑，两手各操一蛇，左耳有青蛇，右耳有赤蛇。一曰在十日北，为人黑身人面，各操一龟。<br/>　　玄股之国在其北。其为人衣鱼食，使两鸟夹之。一曰在雨师妾北。<br/>　　毛民之国在其北，为人身生毛。一曰在玄股北。<br/>　　劳民国在其北，其为人黑。或曰教民。一曰在毛民北，为人面目手足尽黑。<br/>　　东方句芒，鸟身人面，乘两龙。<br/>　　建平元年四月丙戊，待诏太常属臣望校治，侍中光禄勋臣龚，侍中奉车都尉光禄大夫臣秀领主省。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_8.aspx">上一章</a>
+<a href="/guwen/book_1.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_10.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right9" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

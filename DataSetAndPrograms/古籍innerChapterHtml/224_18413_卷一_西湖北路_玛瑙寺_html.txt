@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷一·西湖北路·玛瑙寺_古诗文网
+</title>
+<meta content="玛瑙坡在保ㄈ塔西，碎石文莹，质若玛瑙，土人采之，以镌图篆。晋时遂建玛瑙宝胜院，元末毁，明永乐间重建。有僧芳洲仆夫艺竹得泉，遂名仆夫泉。山巅有阁，凌空特起，凭眺最胜，俗称玛瑙山居。寺" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18413.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·西湖北路·玛瑙寺</b></span>
+<a href="javascript:PlayBookv(18413)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18413" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18413" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　玛瑙坡在保ㄈ塔西，碎石文莹，质若玛瑙，土人采之，以镌图篆。晋时遂建玛瑙宝胜院，元末毁，明永乐间重建。有僧芳洲仆夫艺竹得泉，遂名仆夫泉。山巅有阁，凌空特起，凭眺最胜，俗称玛瑙山居。寺中有大钟，侈?齐适，舒而远闻，上铸《莲经》七卷，《金刚经》三十二分。昼夜十二时，保六僧撞之。每撞一声，则《法华》七卷、《金刚》三十二分，字字皆声。吾想法夜闻钟，起人道念，一至旦昼，无不牿亡。今于平明白昼时听钟声，猛为提醒，大地山河，都为震动，则铿钅訇一响，是竟《法华》一转、《般若》一转矣。内典云：人间钟鸣未歇际，地狱众生刑具暂脱此间也。鼎革以后，恐寺僧惰慢，不克如前。</p>
+<p>　　张岱《玛瑙寺长鸣钟》诗：</p>
+<p>　　女娲炼石如炼铜，铸出梵王千斛钟。</p>
+<p>　　仆夫泉清洗刷早，半是顽铜半玛瑙。</p>
+<p>　　锤金琢玉昆吾刀，盘旋钟纽走蒲牢。</p>
+<p>　　十万八千《法华》字，《金刚般若》居其次。</p>
+<p>　　贝叶灵文满背腹，一声撞破莲花狱。</p>
+<p>　　万鬼桁杨暂脱离，不愁漏尽啼荒鸡。</p>
+<p>　　昼夜百刻三千杵，菩萨慈悲泪如雨。</p>
+<p>　　森罗殿前免刑戮，恶鬼狰狞齐退役。</p>
+<p>　　一击渊渊大地惊，青莲字字有潮音。</p>
+<p>　　特为众生解冤结，共听毗庐广长舌。</p>
+<p>　　敢言佛说尽荒唐，劳我?黎日夜忙。</p>
+<p>　　安得成汤开一面，吉网罗钳都不见。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18412.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18414.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

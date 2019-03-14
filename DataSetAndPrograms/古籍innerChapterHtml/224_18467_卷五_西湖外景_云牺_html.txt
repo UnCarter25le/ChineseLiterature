@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷五·西湖外景·云牺_古诗文网
+</title>
+<meta content="云栖，宋熙宁间有僧志逢者居此，能伏虎，世称伏虎禅师。天僖中，赐真济院额。明弘治间为洪水所圮。隆庆五年，莲池大师名衤朱宏，字佛慧，仁和沈氏子，为博士弟子，试必高等，性好清净，出入二氏" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18467.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·西湖外景·云牺</b></span>
+<a href="javascript:PlayBookv(18467)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18467" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18467" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　云栖，宋熙宁间有僧志逢者居此，能伏虎，世称伏虎禅师。天僖中，赐真济院额。明弘治间为洪水所圮。隆庆五年，莲池大师名衤朱宏，字佛慧，仁和沈氏子，为博士弟子，试必高等，性好清净，出入二氏。子殇妇殁。一日阅《慧灯集》，失手碎茶瓯，有省，乃视妻子为鹘臭布衫，于世相一笔尽勾。</p>
+<p>　　作歌寄意，弃而专事佛，虽学使者屠公力挽之，不回也。从蜀师剃度受具，游方至伏牛，坐炼呓语，忽现旧习，而所谓一笔勾者，更隐隐现。去经东昌府谢居士家，乃更释然，作偈曰：“二十年前事可疑，三千里外遇何奇。焚香执戟浑如梦，魔佛空争是与非。”当是时，似已惑破心空，然终不自以为悟。</p>
+<p>　　归得古云栖寺旧址，结茅默坐，悬铛煮糜，日仅一食。胸挂铁牌，题曰：“铁若开花，方与人说。”久之，檀越争为构室，渐成丛林，弟子日进。其说主南山戒律，东林净土，先行《戒疏发隐》，后行《弥陀疏钞》。一时江左诸儒皆来就正。王侍郎宗沐问：“夜来老鼠唧唧，说尽一部《华严经》？”师云：</p>
+<p>　　“猫儿突出时如何？”自代云：“走却法师，留下讲案。”又书颂云：“老鼠唧唧，《华严》历历。奇哉王侍郎，却被畜生惑。</p>
+<p>　　猫儿突出画堂前，床头说法无消息。大方广佛《华严经》，世主妙严品第一。”其持论严正，诂解精微。监司守相下车就语，侃侃略无屈。海内名贤，望而心折。孝定皇太后绘像宫中礼焉，赐蟒袈裟，不敢服，被衲敝帏，终身无改。斋惟?菜。有至寺者，高官舆从，一概平等，几无加豆。仁和樊令问：“心杂乱，何时得静？”师曰：“置之一处，无事不办。”坐中一士人曰：“专格一物，是置之一处，办得何事？”师曰：“论格物，只当依朱子豁然贯通去，何事不办得？”或问：“何不贵前知？”</p>
+<p>　　师曰：“譬如两人观《琵琶记》，一人不曾见，一人见而预道之，毕竟同看终场，能增减一出否耶？”甬东屠隆于净慈寺迎师观所著《昙花传奇》，虞淳熙以师梵行素严阻之。师竟偕诸绅衿临场谛观讫，无所忤。寺必设戒，绝钗钏声，而时抚琴弄箫，以乐其脾神。晚著《禅关策进》。其所述，峭似高峰、冷似冰者，庶几似之矣。喜乐天之达，选行其诗。平居笑谈谐谑，洒脱委蛇，有永公清散之风。未尝一味槁木死灰，若宋旭所议担板汉，真不可思议人也。出家五十年，种种具嘱语中。万历乙卯六月晦日，书辞诸友，还山设斋，分表施衬，若将远行者。七月三日，卒仆不语，次日复醒。弟子辈问后事，举嘱语对。四日之午，命移面西向，循首开目，同无疾时，哆哪念佛，趺坐而逝。往吴有神李昙降毗山，谓师是古佛。而杨靖安万春尝见师现佛身，施食吴中。一信士窥空室，四鬼持灯至，忽列三莲座，师坐其一，佛像也。乩仙之灵者云，张果听师说《心赋》于永明。李屯部妇素不信佛，偏受师戒，逾年屈三指化，云身是梵僧阿那吉多。而僧俗将坐脱时，多请说戒、说法。然师自名凡夫，诸事恐呵责，不敢以闻。化前一日，漏语见一大莲华盖，不复能秘其往生之奇云。</p>
+<p>　　袁宏道《云栖小记》：</p>
+<p>　　云栖在五云山下，篮舆行竹树中，七八里始到，奥僻非常，莲池和尚栖止处也。莲池戒律精严，于道虽不大彻，然不为无所见者。至于单提念佛一门，则尤为直捷简要，六个字中，旋天转地，何劳捏目更趋狂解，然则虽谓莲池一无所悟可也。一无所悟，是真阿弥，请急着眼。</p>
+<p>　　李流芳《云栖春雪图跋》：</p>
+<p>　　余春夏秋常在西湖，但未见寒山而归。甲辰，同二王参云栖。时已二月，大雪盈尺。出赤山步，一路琼枝玉干，披拂照曜。望江南诸山，皑皑云端，尤可爱也。庚戌秋，与白民看雪两堤。余既归，白民独留，迟雪至腊尽。是岁竟无雪，怏怏而返。世间事各有缘，固不可以意求也。癸丑阳月题。</p>
+<p>　　又《题雪山图》：</p>
+<p>　　甲子嘉平月九日大雪，泊舟阊门，作此图。忆往岁在西湖遇雪，雪后两山出云，上下一白，不辩其为云为雪也。余画时目中有雪，而意中有云，观者指为云山图，不知乃画雪山耳。放笔一笑。</p>
+<p>　　张岱《赠莲池大师柱对》：</p>
+<p>　　说法平台，生公一语石一语。</p>
+<p>　　栖真斗室，老僧半间云半间。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18466.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18468.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

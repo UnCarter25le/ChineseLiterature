@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·胆智部·周瑜 寇准 陈康伯_古诗文网
+</title>
+<meta content="【原文】曹操既得荆州，顺流东下，遗孙权书，言：“治水军八十万众，与将军会猎于吴。”张昭等曰：“长江之险，已与敌共。且众寡不敌，不如迎之。”鲁肃独不然，劝权召周瑜于鄱阳。瑜至，谓权曰" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6360.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5323" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>胆智部·周瑜 寇准 陈康伯</b></span>
+<a href="javascript:PlayBookv(6360)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6360" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5323)" id="leftbtn5323" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6360" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　曹操既得荆州，顺流东下，遗孙权书，言：“治水军八十万众，与将军会猎于吴。”张昭等曰：“长江之险，已与敌共。且众寡不敌，不如迎之。”鲁肃独不然，劝权召周瑜于鄱阳。瑜至，谓权曰：“操托名汉相，实汉贼也。将军割据江东，兵精粮足，当为汉家除残去秽。况操自送死而可迎之耶？请为将军筹之。今北土未平，马超、韩遂尚在关西，为操后患；而操舍鞍马，仗舟楫，与吴越争衡；又今盛寒，马无藁草；中国士众，远涉江湖之险，不习水土，必生疾病。——此数者，用兵之患周瑜也。瑜请得精兵五万人，保为将军破之!”权曰：“孤与老贼誓不两立!”因拔刀砍案曰：“诸将敢复言迎操者，与此案同。”竟败操于赤壁。</p>
+<p>　　契丹寇澶州，边书告急，一夕五至，中外震骇。寇准不发，饮笑自如。真宗闻之，召准问计，准曰：“陛下欲了此，不过五日。（边批：大言。）愿驾幸澶州。”帝难之，欲还内，准请毋还而行，乃召群臣议之。王钦若，临江人，请幸金陵；陈尧叟，阆州人，请幸成都。准曰：“陛下神武，将臣协和，若大驾亲征，敌当自遁，奈何弃庙社远幸楚、蜀？所在人心崩溃，敌乘势深入，天下可复保耶？”帝乃决策幸澶州，准曰：“陛下若入宫，臣不得到，又不得见，则大事去矣。请毋还内。”驾遂发，六军、有司追而及之。临河未渡，是夕内人相泣。上遣人瞷准。方饮酒鼾睡。明日又有言金陵之谋者，上意动。准固请渡河，议数日不决。准出见高烈武王琼，谓之曰：“子为上将，视国危不一言耶？”琼谢之，乃复入，请召问从官，至皆嘿然。上欲南下，准曰：“是弃中原也!”又欲断桥因河而守，准曰：“是弃河北也!”上摇首曰：“儒者不知兵。”准因请召诸将，琼至，曰：“蜀远，钦若之议是也，上与后宫御楼船，浮汴而下，数日可至。”众皆以为然，准大惊，色脱。琼又徐进曰：“臣言亦死，不言亦死，与其事至而死，不若言而死。（边批：此举全得高公力，上所信者，武臣也。）今陛下去都城一步，则城中别有主矣，吏卒皆北人，家在都下，将归事其主，谁肯送陛下者，金陵亦不可到也。”准又喜过望，曰：“琼知此，何不为上驾？”琼乃大呼逍遥子，准掖上以升，遂渡河，幸澶渊之北门。远近望见黄盖，诸军皆踊跃呼万岁，声闻数十里。契丹气夺，来薄城，射杀其帅顺国王挞览，敌惧，遂请和。</p>
+<p>　　金主亮南侵，王权师溃昭关，帝命杨存中就陈康伯议，欲航海避敌。康伯延之入，解衣置酒。帝闻之，已自宽。明日康伯入奏曰：“闻有劝陛下幸海趋闽者，审尔，大事去矣!盍静以待之？”一日，帝忽降手诏曰：“如敌未退，散百官。”康伯焚诏而后奏曰：“百官散，主势孤矣。”帝意始坚。康伯乃劝帝亲征。</p>
+<p>　　〔评〕是役，准先奏请，乘契丹兵未逼镇、定，先起定州军马三万南来镇州，又令河东兵出土门路会合，渐至邢、詺，使大名有恃，然后圣驾顺动。又遣将向东旁城塞牵拽，又募强壮入虏界，扰其乡村，俾虏有内顾之忧。又檄令州县坚壁，乡村入保，金币自随，谷不徙者，随在瘗藏。寇至勿战，故虏虽深入而无得。方破德清一城，而得不补失，未战而困。若无许多经略，则渡河真孤注矣。</p>
+<p>　　迟魏之帝者，一周瑜也；保宋之帝者，一寇准也；延宋之帝者，一陈康伯也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6359.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6361.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5323" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+新唐书·志·卷五·礼乐五_古诗文网
+</title>
+<meta content="礼乐五皇后岁祀一。季春，吉，巳享先蚕，遂以亲桑。散斋三日于后殿；致斋一日于 正寝，一日于正殿。前一日，尚舍设御幄于正殿西序及室中，俱东向。致斋之日， 昼漏上水一刻，尚仪版奏“请中严" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_7661.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>志·卷五·礼乐五</b></span>
+<a href="javascript:PlayBookv(7661)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv7661" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay7661" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%ac%a7%e9%98%b3%e4%bf%ae%e3%80%81%e5%ae%8b%e7%a5%81%e7%ad%89">欧阳修、宋祁等</a></p>
+<div class="contson">
+<p>　　礼乐五</p>
+<p>　　皇后岁祀一。季春，吉，巳享先蚕，遂以亲桑。散斋三日于后殿；致斋一日于 正寝，一日于正殿。前一日，尚舍设御幄于正殿西序及室中，俱东向。致斋之日， 昼漏上水一刻，尚仪版奏“请中严”。尚服帅司仗布侍卫，司宾引内命妇陪位。六 尚以下，各服其服，诣后殿奉迎。尚仪版奏“外办”。上水二刻，皇后服钿钗礼衣， 结珮，乘舆出自西房，华盖警跸。皇后即御座，六尚以下侍卫。一刻顷，尚仪前跪 奏称：“尚仪妾姓言，请降就斋室。”皇后降座，乘舆入室。散斋之日，内侍帅内 命妇之吉者，使蚕于蚕室，诸预享者皆斋。 </p>
+<p>　　前享三日，尚舍直长设大次于外壝东门之内道北，南向；内命妇及六尚以下次 于其后，俱南向。守宫设外命妇次，大长公主、长公主、公主以下于南壝之外道西， 三公夫人以下在其南，重行异位，东向北上。陈馔幔于内壝东门之外道南，北向。 </p>
+<p>　　前享二日，太乐令设宫县之乐于坛南内壝之内，诸女工各位于县后。右校为采 桑坛于坛南二十步所，方三丈，高五尺，四出陛。尚舍量施帷障于外壝之外，四面 开门，其东门足容厌翟车。 </p>
+<p>　　前享一日，内谒者设御位于坛之东南，西向；望瘗位于西南，当瘗臽，西向。 亚献、终献位于内壝东门之内道南，执事者位于其后，重行异位，西向北上。典正 位于坛下，一位于东南，西向；一位于西南、东向。女史各陪其后。司赞位于乐县 东北，掌赞二人在南，差退，西面。又设司赞、掌赞位于埋臽西南，东面南上； 典乐举麾位于坛上南陛之西，东向；司乐位于北县之间，当坛北向。内命妇位于终 献之南，绝位，重行异位，西向北上；外命妇位于中壝南门之外，大长公主以下于 道东，西向，当内命妇，差退；太夫人以下于道西，去道远近如公主，重行异位， 相向北上。又设御采桑位于坛上，东向；内命妇采桑位于坛下，当御位东南，北向 西上；执御钩、筐者位于内命妇之西少南，西上；内外命妇执钩、筐者位各于其采 桑位之后。设门外位：享官于东壝之外道南，从享内命妇于享官之东，北面西上； 从享外命妇于南壝之外道西，如设次。设酒尊之位于坛上东南隅，北向西上；御洗 于坛南陛东南，亚献之洗又于东南，俱北向；币筐于坛上尊坫之所。晡后，内谒者 帅其属以尊坫、罍洗、篚冪入，设于位。升坛者自东陛。 </p>
+<p>　　享日，未明十五刻，太官令帅宰人以鸾刀割牲，祝史以豆取毛血置于馔所，遂 烹牲。五刻，司设升，设先蚕氏神座于坛上北方，南向。 </p>
+<p>　　前享一日，金吾奏：“请外命妇等应集坛所者听夜行，其应采桑者四人，各有 女侍者进筐、钩载之而行。”其日未明四刻，捶一鼓为一严；二刻，捶二鼓为再严。 尚仪版奏“请中严”。一刻，捶三鼓为三严。司宾引内命妇入，立于庭，重行，西 面北上。六尚以下诣室奉迎。尚服负宝，内仆进厌翟车于阁外，尚仪版奏“外办”。 驭者执辔，皇后服鞠衣，乘舆以出，华盖、侍卫、警跸，内命妇从。出门，皇后升 车，尚功进钩，司制进筐，载之。内命妇及六尚等乘车从，诸翊驾之官皆乘马。驾 动，警跸，不鸣鼓角。内命妇、宫人以次从。 </p>
+<p>　　其日三刻，尚仪及司愬帅其属入，实尊罍及币，太官令实诸笾、豆、簠、簋俎 等，内谒者帅其属诣厨奉馔入，设于馔幔内。驾将至，女相者引享官，内典引引外 命妇，俱就门外位。驾至大次门外，回车南向，尚仪进车前跪奏称：“尚仪妾姓言， 请降车。”皇后降车，乘舆之大次，华盖、繖、扇。尚仪以祝版进，御署，出奠于 坫。尚功、司制进受钩、筐以退，典赞引亚献及从享内命妇俱就门外位。司赞帅掌 赞先入就位，女相者引尚仪、典正及女史、祝史与女执尊罍筐冪者入自东门，当坛 南，北向西上。司赞曰：“再拜。”掌赞承传，尚仪以下皆再拜，就位。司乐帅女 工人入，典赞引亚献、终献，女相者引执事者、司宾引内命妇、内典引引外命妇入， 就位。皇后停大次半刻顷，司言引尚宫立于大次门外，当门北向。尚仪版奏“外办”。 皇后出次，入自东门，至版位，西向立。尚宫曰：“再拜。”皇后再拜。司赞曰： “众官再拜。”在位者皆再拜。尚宫曰：“有司谨具，请行事。”乐三成。尚宫曰： “再拜。”皇后再拜。司赞曰：“众官再拜。”在位者皆再拜，坛上尚仪跪取币于 篚，兴，立于尊所。皇后自坛南陛升，北面立，尚仪奉币东向进，皇后受币，进， 北向，跪奠于神座，少退，再拜，降自南陛，复于位。初，内外命妇拜讫，女祝史 奉毛血之豆立于内壝东门之外，皇后已奠币，乃奉毛血入，升自南陛，尚仪迎引于 坛上，进，跪奠于神座前。皇后既升奠币，司膳出，帅女进馔者奉馔陈于内壝东门 之外。皇后既降，复位。司膳引馔入，至阶。女祝史跪彻毛血之豆，降自东陛以出。 馔升自南陛，尚仪迎引于坛上，设于神座前。皇后诣罍洗，尚仪跪取匜，兴，沃水； 司言跪取盘，兴，承水。皇后盥。司言跪取巾于篚，进以帨，受巾，跪奠于篚。乃 取爵于篚，兴，进，受爵。尚仪酌罍水，司言奉盘，皇后洗爵，司言授巾，皆如初。 皇后升自坛南陛，诣酒尊。尚仪赞酌醴齐，进先蚕氏神座前，北向跪，奠爵，兴， 少退，立。尚仪持版进于神座之右，东面跪读祝文。皇后再拜，尚仪以爵酌上尊福 酒，西向进。皇后再拜受爵，跪，祭酒，啐酒，奠爵，兴。尚仪帅女进馔者持笾、 俎进神前，三牲胙肉各置一俎，又以笾取稷、黍饭共置一笾。尚仪以饭笾、胙俎西 向以次进，皇后每受以授左右。乃跪取爵，遂饮，卒爵，兴，再拜，降自南陛，复 于位。 </p>
+<p>　　初，皇后献将毕，典赞引贵妃诣罍洗，盥手，洗爵，自东陛升坛，酌盎齐于象 尊，进神座前，北向跪，奠爵，兴，少退，再拜。尚仪以爵酌福酒进，贵妃再拜受 爵，跪祭，遂饮，卒爵，再拜，降自东陛，复位。昭仪终献如亚献。尚仪进神座前， 跪彻豆。司赞曰：“赐胙。”掌唱曰：“众官再拜。”在位者皆再拜。尚宫曰： “再拜。”皇后再拜，司赞曰：“众官再拜。”在位者皆再拜。尚宫请就望瘗位， 司赞帅掌赞就瘗臽。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_7660.aspx">上一章</a>
+<a href="/guwen/book_93.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_7662.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

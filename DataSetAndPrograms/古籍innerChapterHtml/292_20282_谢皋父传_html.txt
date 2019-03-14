@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+伯牙琴·谢皋父传_古诗文网
+</title>
+<meta content="谢君名翱，字皋父，延平人。蚤事科举，学有志当世。中遭兵火，室家散亡，购得一子，军伍中相与，竭力生产仅自给，属繇役繁兴，不堪迫辱，日益愤懑成疾。以子初达时务，委而出遊，过严陵故旧，馆" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20282.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>谢皋父传</b></span>
+<a href="javascript:PlayBookv(20282)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20282" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20282" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%82%93%e7%89%a7">邓牧</a></p>
+<div class="contson">
+<p>　　谢君名翱，字皋父，延平人。蚤事科举，学有志当世。中遭兵火，室家散亡，购得一子，军伍中相与，竭力生产仅自给，属繇役繁兴，不堪迫辱，日益愤懑成疾。以子初达时务，委而出遊，过严陵故旧，馆焉，因娶某氏。其地与婺接，故常往来两州间，积十四五年，指授馆下。生粲然进于文学，性耿介，不以贫累。人所居产薪若炭，率秋暮载至杭易米，卒岁少裕，则资游江海，访前代故实，着家史，补唐诗人无传者三十余篇，传近世隐逸数篇。岁甲午，与杭人邓牧相遇会稽，结为方外友。牧罕读古人著述，谓文章当出胸臆自成一家，而君记问优赡，必欲中古人绳墨乃已。所见不合，日夜论辩，互相诋。及见牧所为文，乃起谢曰：君不肯区区有所模拟，然法度高古，殆天才也。牧因为言杭大都会，文士辈出，余知若干人，盍往见之？旬日别去，逮牧归杭，君巳挈家钱唐江上，问所从游，皆前所闻者。其笃信好学也。巳未秋，牧薄游山水问君病笃，望牧不至，怀以诗曰：谢豹花开桑叶齐，戴胜芊生药草肥，九锁山人归未归。盖绝笔于此，故同姓善之，新与君交最厚，哭其舍累日，为着哀辞，东西州故人门生不远数百里来吊，咸哭尽哀奉丧去。先是君买地钓台下，将葬朋友无归者，至是君葬焉。君生不得志，闲居常有忧色，语声甚微，郁积不平之气壹宣于文，读之使人凄怆，知其弗寿也。妇茕然无依，子远在二千里外，存亡不相闻，可谓穷巳。严陵士风厚，将有集君遗藁以传后者，志且不没。牧归，悲惋不已，诔之曰：上世之士，以文取显耀，而君穷于文。痛哉，皋父！痛哉皋父！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20281.aspx">上一章</a>
+<a href="/guwen/book_292.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20283.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

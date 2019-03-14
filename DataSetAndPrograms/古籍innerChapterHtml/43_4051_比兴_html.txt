@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·比兴_古诗文网
+</title>
+<meta content="《诗》文宏奥，包韫六义；毛公述《传》，独标“兴体”，岂不以“风”通而“赋”同，“比”显而“兴”隐哉？故比者，附也；兴者，起也。附理者切类以指事，起情者依微以拟议。起情故兴体以立，附" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4051.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2645" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>比兴</b></span>
+<a href="javascript:PlayBookv(4051)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4051" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2645)" id="leftbtn2645" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4051" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　《诗》文宏奥，包韫六义；毛公述《传》，独标“兴体”，岂不以“风”通而“赋”同，“比”显而“兴”隐哉？故比者，附也；兴者，起也。附理者切类以指事，起情者依微以拟议。起情故兴体以立，附理故比例以生。比则畜愤以斥言，兴则环譬以托讽。盖随时之义不一，故诗人之志有二也。</p>
+<p>　　观夫兴之托谕，婉而成章，称名也小，取类也大。关雎有别，故后妃方德；尸鸠贞一，故夫人象义。义取其贞，无疑于夷禽；德贵其别，不嫌于鸷鸟；明而未融，故发注而后见也。且何谓为比？盖写物以附意，飏言以切事者也。故金锡以喻明德，珪璋以譬秀民，螟蛉以类教诲，蜩螗以写号呼，浣衣以拟心忧，席卷以方志固：凡斯切象，皆比义也。至如“麻衣如雪”，“两骖如舞”，若斯之类，皆比类者也。楚襄信谗，而三闾忠烈，依《诗》制《骚》，讽兼“比”、“兴”。炎汉虽盛，而辞人夸毗，诗刺道丧，故兴义销亡。于是赋颂先鸣，故比体云构，纷纭杂遝，倍旧章矣。</p>
+<p>　　夫比之为义，取类不常∶或喻于声，或方于貌，或拟于心，或譬于事。宋玉《高唐》云∶“纤条悲鸣，声似竽籁”，此比声之类也；枚乘《菟园》云∶“焱焱纷纷，若尘埃之间白云”，此则比貌之类也；贾生《鵩赋》云∶“祸之与福，何异纠纆”，此以物比理者也；王褒《洞箫》云∶“优柔温润，如慈父之畜子也”，此以声比心者也；马融《长笛》云∶“繁缛络绎，范蔡之说也”，此以响比辩者也；张衡《南都》云∶“起郑舞，茧曳绪”，此以容比物者也。若斯之类，辞赋所先，日用乎比，月忘乎兴，习小而弃大，所以文谢于周人也。至于扬班之伦，曹刘以下，图状山川，影写云物，莫不织综比义，以敷其华，惊听回视，资此效绩。又安仁《萤赋》云“流金在沙”，季鹰《杂诗》云“青条若总翠”，皆其义者也。故比类虽繁，以切至为贵，若刻鹄类鹜，则无所取焉。</p>
+<p>　　赞曰∶</p>
+<p>　　诗人比兴，触物圆览。物虽胡越，合则肝胆。</p>
+<p>　　拟容取心，断辞必敢。攒杂咏歌，如川之澹。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4050.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4052.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2645" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

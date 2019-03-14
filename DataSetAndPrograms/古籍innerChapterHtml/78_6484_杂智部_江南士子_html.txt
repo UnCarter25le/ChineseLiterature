@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·杂智部·江南士子_古诗文网
+</title>
+<meta content="【原文】江南有文科者，衣冠之族，性奸巧，好以术困人而取其资。有房一所，货于徽人。业经改造久矣，科执原直取赎，不可，乃售计于奴，使其夫妇往投徽人为仆，徽人不疑也。两月余，此仆夫妇潜窜" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6484.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5467" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>杂智部·江南士子</b></span>
+<a href="javascript:PlayBookv(6484)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6484" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5467)" id="leftbtn5467" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6484" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　江南有文科者，衣冠之族，性奸巧，好以术困人而取其资。有房一所，货于徽人。业经改造久矣，科执原直取赎，不可，乃售计于奴，使其夫妇往投徽人为仆，徽人不疑也。两月余，此仆夫妇潜窜还家，科即使他奴数辈谓徽人曰：“吾家有逃奴某，闻靠汝家，今安在？”徽人曰：“某来投，实有之，初不知为贵仆，昨已逸去矣。”奴辈曰：“吾家昨始缉知在宅，岂有逸去之事？必汝家匿之耳，吾当搜之!”徽人自信不欺，乃屏家眷于一室，而纵诸奴入视，诸奴搜至酒房，见有土松处，佯疑，取锄发之，得死人腿一只，乃哄曰：“汝谋害吾家人矣!不然，此腿从何而来？当执此讼官耳。”徽人惧，乃倩人居间，科曰：“还吾屋契，当寝其事耳。”徽人不得已，与之期而迁去。向酒房之人腿，则前投靠之奴所埋也。</p>
+<p>　　科尝为人居间公事。其人约于公所封物，正较量次，有一跛丐，右持杖，左携竹篮，篮内有破衣，捱入乞赏。科拈零星与之，丐嫌少，科佯怒，取元宝一锭掷篮中，叱曰：“汝欲此耶？”丐悚惧，曰：“财主不添则已，何必怒？”双手捧宝置几上而去。后事不谐，其人启封，则元宝乃伪物，为向丐者易去矣，丐者，即科党所假也。</p>
+<p>　　〔评〕苏城四方辐凑之地；骗局甚多。曾记万历季年，有徽人叔侄争坟事，结讼数年矣，其侄先有人通郡司理，欲于抚台准一词发之。忽有某公子寓阊门外，云是抚公年侄，衣冠甚伟，仆从亦都。徽侄往拜，因邀之饮。偶谈及此事，公子一力承当。遂封物为质，及期，公子公服，取讼词纳袖中，径人抚台之门，徽侄从外伺之，忽公事已毕而门闭矣，意抚公留公子餐也。询门役，俱莫知，乃晚衙，公子从人丛中酒容而出，意气扬扬，云：“抚公相待颇厚，所请已谐。”抵徽寓，出官封袖中，印识宛然。徽侄大喜，复饮食之，公子索酬如议而去，明日徽侄以文书付驿卒，此公子私从驿卒索文书自投，驿卒不与，公子言是伪封不可投。驿卒大惊，还责徽侄，急访公子，故在寓也，反叱徽人用假批假印，欲行出首。徽人惧，复出数十金赂之始免。后访知此棍惯假宦、假公子为骗局。时有春元谒见抚院，彼乘闹混入，潜匿于土地堂中，众不及察，遂掩门。渠预藏酒糕以烧酒制糕，食之醉饱，啗之，晚衙复乘闹出，封筒印识皆预造藏于袖中者，小人行险侥幸至此，亦可谓神棍矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6483.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6485.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5467" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

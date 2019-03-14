@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·明智部·王琼_古诗文网
+</title>
+<meta content="【原文】嘉靖初年，北虏尝寇陕西，犯花马池，镇巡惶遽，请兵策应。事下九卿会议，本兵王宪以为必当发，否恐失事。众不敢异。王琼时为冢宰，独不肯，曰：“我自有疏。”即奏云：“花马池是臣在边" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6312.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5271" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>明智部·王琼</b></span>
+<a href="javascript:PlayBookv(6312)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6312" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5271)" id="leftbtn5271" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6312" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　嘉靖初年，北虏尝寇陕西，犯花马池，镇巡惶遽，请兵策应。事下九卿会议，本兵王宪以为必当发，否恐失事。众不敢异。王琼时为冢宰，独不肯，曰：“我自有疏。”即奏云：“花马池是臣在边时所区画，防守颇严，虏必不能入；纵入，亦不过掳掠；彼处自足防御，不久自退。若遣京军远涉边境，道路疲劳，未必可用，而沿途骚扰，害亦不细，倘至彼而虏已退，则徒劳往返耳。臣以为不发兵便。”然兵议实本兵主之，竟发六千人，命二游击将之以往。（边批：只是不深知晋溪故。）至彰德，未渡河，已报虏出境矣。</p>
+<p>　　〔评〕按晋溪在西北，修筑花马池一带边墙，命二指挥董其役。二指挥甚效力，边墙极坚，且功役亦不甚费，有羡银二千余，持以白晋溪。晋溪曰：“此一带城墙，实西北要害去处，汝能尽心了此一事，此琐琐之物何足问，即以赏汝。”后北虏犯边，即遣二指挥提兵御之，二人争先陷阵，其一竟死于敌。晋溪筹边智略类如此。</p>
+<p>　　又晋溪总制三边时，每一巡边，虽中火亦费百金，未尝折干，到处皆要供具，烧羊亦数头，凡物称是。晋溪不数脔，尽撤去，散于从官，虽下吏亦沾及。故西北一有警，则人人效命。当时法网疏阔，故豪杰得行其意；使在今日，则台谏即时论罢矣。</p>
+<p>　　梅衡湘任播州监军，行时请帑金三千备犒赏之需，及事定，所费仅四百金，登籍报部，无分毫妄用。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6311.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6313.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5271" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

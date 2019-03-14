@@ -1,0 +1,161 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·脾脏方·脾虚实第二_古诗文网
+</title>
+<meta content="（论一首 方二十三首 脉四首 灸法一首）脾实热　　右手关上脉阴实者，足太阴经者，病苦足寒胫热，腹胀满，烦扰不得卧，名曰脾实热也泻热汤　　治舌本强直，或梦歌乐而体重不能行方。前胡 茯" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12745.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>脾脏方·脾虚实第二</b></span>
+<a href="javascript:PlayBookv(12745)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12745" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12745" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　<span style="font-family:FangSong_GB2312;">　（论一首 方二十三首 脉四首 灸法一首）</span></p>
+<p>　　<strong>脾实热<br/></strong>　　右手关上脉阴实者，足太阴经者，病苦足寒胫热，腹胀满，烦扰不得卧，名曰脾实热也</p>
+<p>　　<strong>泻热汤<br/></strong>　　<strong>治舌本强直，或梦歌乐而体重不能行方。</strong></p>
+<p>　　前胡 茯苓 龙胆 细辛 芒硝（各三两） 杏仁（四两） 元参 大青（各二两） 苦竹叶 （切 ?</p>
+<p>　　上九味 咀，以水九升煮取三升，分三服，食后服。</p>
+<p>　　<strong>射干煎方<br/></strong>　　主治同前。</p>
+<p>　　射干（八两） 大青（三两） 石膏（十两，一作一升） 赤蜜（一升）</p>
+<p>　　上四味 咀，以水五升煮取一升五合，去滓，下蜜煎取二升，分三服。</p>
+<p>　　治脾热面黄目赤季胁痛满方半夏 母姜（各八两） 枳实 栀子 茯苓 芒硝（各三两） 细辛（五两） 白术 杏仁（各四两） 生地黄 淡竹叶（切，各一升）</p>
+<p>　　上十一味 咀，以水九升煮取三升，去滓，下芒硝，分三服。</p>
+<p>　　治脾横方若赤黑发如瓜大，煎羊脂摩之。</p>
+<p>　　<strong>又方</strong> 赤小豆末和鸡子白敷之。</p>
+<p>　　四肢寒热腰痛不得俯仰，身黄腹满食呕，舌根直，灸第十一椎及左右各一寸五分，三处各七壮。</p>
+<p>　　脾胃俱实<br/>　　右手关上脉阴阳俱实者，足太阴与阳明经俱实也。病苦脾胀腹坚，抢胁下痛，胃气不转，大便难，时反泄利，腹中痛，上冲肺肝，动五脏，立喘鸣，多惊，身热汗不出，喉痹精少，名</p>
+<p>　　<strong>三黄泻热汤方<br/></strong>　　大黄 麻黄 黄芩（各四两） 杏仁 赤茯苓 甘草 橘皮 芒硝 泽泻</p>
+<p>　　上九味 咀，以水九升煮取三升，绞去滓，纳大黄，煮两沸去滓，下芒硝，分三服。</p>
+<p>　　<strong>大黄泻热汤<br/>　　治脾脉厥逆大腹中热切痛，舌强腹胀，身重食不下，心注脾急痛方。</strong></p>
+<p>　　大黄（切，水一升半，渍一宿） 甘草（各三两） 泽泻 茯苓 黄芩 细辛 芒硝 橘皮（各上八味 咀，以水七升煮取三升三合，去滓，下大黄更煎二沸，去滓，下芒硝，分三服。</p>
+<p>　　治脾热胁痛，热满不歇，目赤不止，口唇干裂方∶</p>
+<p>　　石膏（一斤，碎） 生地黄汁 赤蜜（各一升） 竹叶（切、五升）</p>
+<p>　　上四味先以水一斗二升煮竹叶，取七升，去滓，澄清，下石膏，煮取一升五合，去滓，下地黄汁煮两沸，次下蜜煎取三升，细细服之。</p>
+<p>　　<strong>治脾热偏一边痛，胸满胁偏胀方∶</strong></p>
+<p>　　茯苓 橘皮 泽泻（各三两） 芍药 白术（各四两） 桂心 人参（各三两） 石膏（八两） 半夏（六两） 生姜（切） 桑根白皮（各一升）</p>
+<p>　　上十一味 咀，以水一斗二升煮取三升，去滓，分三服。若须利下，加芒硝二两佳。</p>
+<p>　　脾虚冷右手关上脉阴虚者，足太阴经也。病苦泄注，腹满气逆，霍乱、呕吐、黄胆，心烦不得卧，肠鸣，名曰脾虚冷也。</p>
+<p>　　<strong>治虚胀胁痛肩息有时发作悉补之方∶</strong></p>
+<p>　　五加根皮 丹参 橘皮（各一斤） 地骨皮 干姜 白术（各八两） 干地黄 芎 附子（各五两） 猪椒根皮（二斤） 桂心 桔梗（各四两） 甘草（三两） 大枣（五十枚）</p>
+<p>　　上十四味 咀，以酒四斗渍五七日，服七八合加至一升，日再服。</p>
+<p>　　<strong>槟榔散<br/>　　治脾寒饮食不消，劳倦气胀，噫满忧恚不乐方。</strong></p>
+<p>　　槟榔（八枚，皮子并用） 人参 茯苓 陈曲 麦 浓朴 白术 吴茱萸（各二两）</p>
+<p>　　上八味治，下筛，食后酒服二方寸匕，日再服。（一方用橘皮一两半。</p>
+<p><strong>　　温脾丸<br/>　　治久病虚羸脾气弱，食不消喜噫方。</strong></p>
+<p>　　黄柏 大麦 吴茱萸 桂心 干姜 细辛 附子 当归 曲 大黄 黄连（各一两）</p>
+<p>　　上十一味为末，蜜丸如梧子大，每服十五丸，空腹酒服，日三。</p>
+<p>　　<strong>麻豆散<br/>　　主脾气弱不下食饵，此以当食方。</strong></p>
+<p>　　大豆黄卷（二升） 大麻子（三升，熬令香）</p>
+<p>　　上二味治，下筛，饮和服一合，日四五，任意多少。</p>
+<p><strong>　　脾胃俱虚<br/></strong>　　右手关上脉阴阳俱虚者，足太阴与阳明经俱虚也。病苦胃中如空状，少气不足以息，四逆寒泄注不已，名曰脾胃俱虚也。</p>
+<p>　　<strong>治腹胀善噫食则欲呕，泄 溏下，口干，四肢重，好怒不欲闻人声，忘误，喉痹，补之方∶</strong></p>
+<p>　　黄连（一两） 禹余粮（二两） 白术 干姜（各三两） 大麻子（五两） 桑白皮（八两） 大枣（二十枚）</p>
+<p>　　上七味 咀，以水一斗二升煮取三升，分四次服。</p>
+<p>　<strong>　治脾胃俱虚苦饥寒痛方∶</strong></p>
+<p>　　人参 当归 桂心 茯苓 桔梗 芎 （各五两） 浓朴 甘草 橘皮 吴茱萸（各二两）白术（五两） 麦 （一升）</p>
+<p>　　上十二味 咀，以水一斗二升煮取三升，分三服。</p>
+<p>　　<strong>白术散<br/>　　治脾胃俱虚冷方。</strong></p>
+<p>　　白术 浓朴 人参 吴茱萸 茯苓 麦 曲 芎 （各三两）</p>
+<p>　　上八味治，下筛，酒服方寸匕，食后服，日三。（一方加大腹、橘皮。</p>
+<p>　<strong>　平胃丸<br/>　　凡身重不得食，食无味，心下虚满，时时欲下，喜卧者，皆针胃脘，太仓宜，服建中汤及此方。</strong></p>
+<p>　　杏仁（五十枚） 丹参（三两） 苦参 元参 葶苈（各二两） 芎 桂心（各一两）</p>
+<p>　　上七味为末，蜜丸如梧子大，酒服五丸，日三，以知为度。</p>
+<p>　　<strong>又方</strong> 治丈夫小儿食实不消，胃气不调，或温壮热结，大小便不利者，有病冷者服露宿丸，热药后当进此丸调胃方，（露宿丸见后十六卷胃腑痼冷积热门）。</p>
+<p>　　大黄（二两） 小草 甘草 芍药 芎 葶苈（各一两） 杏仁（五十枚）</p>
+<p>　　上七味为末，蜜丸如梧子，饮服五丸，日三。一岁小儿二丸，渐加之。（《翼方》无杏仁，有菖蒲、当归、干姜、茯苓、麦门冬、细辛，为十三味）。</p>
+<p>　　论曰∶凡病宿食在上脘，当吐之，脉数而滑者实也。有宿食不消，下之愈。胃中有 食冷物，即痛不能食，有热物即欲食。大腹有宿食，寒栗发热如疟状。宿食在小腹者，当暮发热，明旦复止。寸脉紧即头痛风寒，或腹中宿食不化。寸口脉紧者，如转索左右无常。脾胃中有宿食不消，寸口脉浮而大，按之反涩，尺中微而涩，故知宿食。</p>
+<p><strong>　　大曲丸<br/>　　主消谷断下温和又寒冷者，常服不患霍乱方。</strong></p>
+<p>　　大麦 曲（各一升） 附子 干姜 当归 人参（各三两） 赤石脂（一两） 桔梗 女萎（各二两） 吴茱萸 皂荚（各五两） 蜀椒（二两半） 乌梅（五十枚）</p>
+<p>　　上十三味为末，蜜酢中半渍梅一宿，蒸三斗米下，去核捣如泥，和药蜜，和捣二千杵，服十丸，日三。下甚者，加龙骨、阿胶、艾各三两。</p>
+<p>　　<strong>消食断下丸<br/>　　寒冷者常服之方。</strong></p>
+<p>　　曲 大麦 （各一升） 吴茱萸（四两）</p>
+<p>　　上三味为末，蜜和，服十五丸如梧子，日三服。</p>
+<p>　　<strong>干姜散<br/>　　治不能食，心意冥然忘食方。</strong></p>
+<p>　　干姜 法曲 蜀椒 豉 大麦 （各一升）</p>
+<p>　　上五味合治，下筛，食后服三方寸匕，日三，以能食为度。</p>
+<p>　<strong>　消食丸<br/>　　治数年不能食方。</strong></p>
+<p>　　小麦 曲（各一升） 干姜 乌梅（各四两）</p>
+<p>　　上四味为末蜜和服十五丸，日再加至四十丸。寒在胸中及反胃翻心者皆瘥。</p>
+<p>　　<strong>曲丸<br/>　　主消谷能食，除肠中水气胪胀方。</strong></p>
+<p>　　法曲 麦 杏仁（各五两）</p>
+<p>　　上三味治，下筛，食后酒服一合，日三。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12744.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12746.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

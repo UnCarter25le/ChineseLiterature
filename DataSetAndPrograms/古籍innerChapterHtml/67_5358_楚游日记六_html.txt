@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+徐霞客游记·楚游日记六_古诗文网
+</title>
+<meta content="二十三日　碧空晴朗，欲出南郊，先出铁楼门。过艾行可家，登堂见其母，则行可尸已觅得两日矣，盖在遇难之地下流十里之云集潭也。其母言：“昨亲至其地，抚尸一呼，忽眼中血迸而溅我。”呜呼，死" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5358.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4483" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>楚游日记六</b></span>
+<a href="javascript:PlayBookv(5358)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5358" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4483)" id="leftbtn4483" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5358" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%bc%98%e7%a5%96">徐弘祖</a></p>
+<div class="contson">
+<p>　　二十三日　碧空晴朗，欲出南郊，先出铁楼门。过艾行可家，登堂见其母，则行可尸已觅得两日矣，盖在遇难之地下流十里之云集潭也。其母言：“昨亲至其地，抚尸一呼，忽眼中血迸而溅我。”呜呼，死者犹若此，生何以堪！询其所伤，云“面有两枪”。盖实为阳侯助虐，所云支解为四，皆讹传也。时其棺停于城南洪君鉴山房之侧。洪乃其友，并其亲。毕君甫适挟青乌至，盖将营葬也，遂与偕行。循回雁西麓，南越冈坞，四里而至其地。其处乱冈缭绕，间有掩关习梵之室，亦如桃花冲然，不能如其连扉接趾，而嫱寂过之。洪君之室，绿竹当前。危冈环后，内有三楹，中置佛像，左为读书之所，右为僧爂cuān之处，而前后俱有轩可憩，庭中盆花纷列，亦幽栖净界也。艾棺停于岭侧，亟同静闻披荆拜之。余诵“同是天涯遇难人，一生何堪对一死”之句，洪、毕皆为拭泪。返抵回雁之南，有宫翼然于湘江之上，乃水府殿也。先是艾行可之弟为予言，始求兄尸不得，依其签而获之云集潭，闻之心动。至是乃入谒之，以从荆、从粤两道请决于神，而从粤大吉。时余欲从粤西入滇，被劫后，措资无所，或劝从荆州，求资于奎之叔者。时奎之为荆州别驾，从此至荆州，亦须半月程，而时事不可知，故决之神。以两处贷金请决于神，而皆不能全。两处谓金与刘。余益钦服神鉴。盖此殿亦藩府新构，其神极灵也。乃觅道者，俱录其词以藏之。复北登回雁峰，饭于千手观音阁东寮，即从阁西小径下，复西入花药寺，再同觉空饭于方丈。薄暮，由南门入。是日风和日丽，为入春第一日云。 </p>
+<p>　　二十四日　在金寓，觉空来顾。下午独出柴埠门，市蒸酥，由铁楼入。是夜二鼓，闻城上遥呐声，明晨知盗穴西城，几被逾入，得巡者喊救集众，始散去。 </p>
+<p>　　二十五日　出小西门，观西城被穴处。盖衡城甚卑，而西尤敝甚，其东城则河街市房俱就城架柱，可攀而入，不待穴也。乃绕西华门，循王墙后门后宰门外肆，有白石三块欲售。其一三峰尖削如指，长二尺，洁白可爱；其一方竟尺，中有沟池田塍可畜水，但少假人工，次之；其一亦峰乳也，又次之。返金寓。 </p>
+<p>　　是时衡郡有倡为神农之言者，谓神农、黄帝当出世，小民翕xī和顺然信之，初犹以法轮寺为窟，后遂家传而户奉之。以是日下界，察民善恶，民皆市纸焚献，一时腾哄，市为之空。愚民之易惑如此。 </p>
+<p>　　二十六日　金祥甫初为予措资，展转不就。是日忽阄jiǖ会一种民间集资方法，得百余金，予在寓知之，金难再辞，许假二十金，予以田租二十亩立券付之。 </p>
+<p>　　二十七、二十八、二十九日　俱在金寓候银，不出。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5357.aspx">上一章</a>
+<a href="/guwen/book_67.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5359.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4483" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

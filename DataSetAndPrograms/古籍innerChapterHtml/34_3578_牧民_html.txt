@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+管子·牧民_古诗文网
+</title>
+<meta content="国颂凡有地牧民者，务在四时，守在仓廪。国多财，则远者来，地辟举，则民留处；仓廪实，则知礼节；衣食足，则知荣辱；上服度，则六亲固。四维张，则君令行。故省刑之要，在禁文巧，守国之度，在" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3578.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2235" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>牧民</b></span>
+<a href="javascript:PlayBookv(3578)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3578" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2235)" id="leftbtn2235" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3578" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ae%a1%e4%bb%b2%e5%8f%8a%e9%97%a8%e5%be%92">管仲及门徒</a></p>
+<div class="contson">
+<p>　　国颂</p>
+<p>　　凡有地牧民者，务在四时，守在仓廪。国多财，则远者来，地辟举，则民留处；仓廪实，则知礼节；衣食足，则知荣辱；上服度，则六亲固。四维张，则君令行。故省刑之要，在禁文巧，守国之度，在饰四维，顺民之经，在明鬼神，只山川，敬宗庙，恭祖旧。不务天时，则财不生；不务地利，则仓廪不盈；野芜旷，则民乃菅，上无量，则民乃妄。文巧不禁，则民乃淫，不璋两原，则刑乃繁。不明鬼神，则陋民不悟；不只山川，则威令不闻；不敬宗庙，则民乃上校；不恭祖旧，则孝悌不备；四维不张，国乃灭亡。</p>
+<p>　　四维</p>
+<p>　　国有四维，一维绝则倾，二维绝则危，三维绝则覆，四维绝则灭。倾可正也，危可安也，覆可起也，灭不可复错也。何谓四维？一曰礼、二曰义、三曰廉、四曰耻。礼不踰节，义不自进。廉不蔽恶，耻不从枉。故不踰节，则上位安；不自进，则民无巧轴；不蔽恶，则行自全；不从枉，则邪事不生。</p>
+<p>　　四顺</p>
+<p>　　政之所兴，在顺民心。政之所废，在逆民心。民恶忧劳，我佚乐之。民恶贫贱，我富贵之，民恶危坠，我存安之。民恶灭绝，我生育之。能佚乐之，则民为之忧劳。能富贵之，则民为之贫贱。能存安之，则民为之危坠。能生育之，则民为之灭绝。故刑罚不足以畏其意，杀戮不足以服其心。故刑罚繁而意不恐，则令不行矣。杀戮众而心不服，则上位危矣。故从其四欲，则远者自亲；行其四恶，则近者叛之，故知“予之为取者，政之宝也”。</p>
+<p>　　十一经</p>
+<p>　　错国于不倾之地，积于不涸之仓，藏于不竭之府，下令于流水之原，使民于不争之官，明必死之路，开必得之门。不为不可成，不求不可得，不处不可久，不行不可复。错国于不倾之地者，授有德也；积于不涸之仓者，务五谷也；藏于不竭之府者，养桑麻育六畜也；下令于流水之原者，令顺民心也；使民于不争之官者，使各为其所长也；明必死之路者，严刑罚也；开必得之门者，信庆赏也；不为不可成者，量民力也；不求不可得者，不彊民以其所恶也；不处不可久者，不偷取一世也；不行不可复者，不欺其民也；故授有德，则国安；务五谷，则食足；养桑麻，育六畜，则民富；令顺民心，则威令行；使民各为其所长，则用备；严刑罚，则民远邪；信庆赏，则民轻难；量民力，则事无不成；不彊民以其所恶，则轴伪不生；不偷取一世，则民无怨心；不欺其民，则下亲其上。</p>
+<p>　　六亲五法</p>
+<p>　　以家为乡，乡不可为也。以乡为国，国不可为也。以国为天下，天下不可为也。以家为家，以乡为乡，以国为国，以天下为天下。毋曰不同生，远者不听。毋曰不同乡，远者不行。毋曰不同国，远者不从。如地如天，何私何亲？如月如日，唯君之节。御民之辔，在上之所贵。道民之门，在上之所先。召民之路，在上之所好恶。故君求之，则臣得之。君嗜之，则臣食之。君好之，则臣服之。君恶之，则臣匿之。毋蔽汝恶，毋异汝度，贤者将不汝助。言室满室，言堂满堂，是谓圣王。城郭沟渠，不足以固守；兵甲彊力，不足以应敌；博地多财，不足以有众。惟有道者，能备患于未形也，故祸不萌。天下不患无臣，患无君以使之。天下不患无财，患无人以分之。故知时者，可立以为长。无私者，可置以为政。审于时而察于用，而能备官者，可奉以为君也。缓者后于事。吝于财者失所亲，信小人者失士。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_34.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3579.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2235" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

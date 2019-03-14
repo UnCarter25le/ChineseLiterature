@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·先德类·卷一_古诗文网
+</title>
+<meta content="◎范文肃厚德范文肃公文程，为宋忠宣公裔，清初仗剑谒军门，太祖曰：“名臣后，宜厚待之。”遵化四城之役，公守滦州，独得保全阖郡生灵。大兵入关时，公参决帏幄，劝睿忠王秋毫无犯，为明帝发丧" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16191.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>先德类·卷一</b></span>
+<a href="javascript:PlayBookv(16191)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16191" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16191" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎范文肃厚德</p>
+<p>　　范文肃公文程，为宋忠宣公裔，清初仗剑谒军门，太祖曰：“名臣后，宜厚待之。”遵化四城之役，公守滦州，独得保全阖郡生灵。大兵入关时，公参决帏幄，劝睿忠王秋毫无犯，为明帝发丧，并护送倪文贞公灵柩南归，凡忠义之士皆褒奖之。时定赋税，有司欲以明末练饷诸苛政为殿最，公曰：“明之亡，由于酷苛小民，激成流寇之变，岂可复蹈其所为！”因以万历中征册为准，岁减数百万两，民赖以苏。故其簪组鼎盛，为八旗巨室云。</p>
+<p>　　◎昆山徐氏先德</p>
+<p>　　昆山徐建庵司寇之祖赠公某，于明时尝为常熟严文靖公记室，时三吴大水，赠公代具疏草请赈，文靖犹豫未决，筮之，因嘱卜者第曰吉，乃请于朝，全活无算。生子开法，于鼎革时有镇将某，寇掠妇女数百人，锁闭徐氏空宅大楼，严命开法监守。开法悉纵之，送还其家，遂将空宅焚烧。及某来索取，曰：“不戒于火，俱焚死矣。”某默然而去。开法连举三子，元文中顺治己亥状元，乾学中康熙庚戌探花，秉义中康熙癸丑探花。</p>
+<p>　　昆山徐氏乾学等，以同胞昆弟三人先后得鼎甲、跻无仕，洵为科名盛事。相传徐之父坦庵，母顾夫人，当明末兵乱，有武将俘妇女数十人扃徐别室，顾设计纵火出之。及三子登第，人谓阴德之报，婿申オ亦举顺天庚子江南解元，联捷成进士，逮后科第绵长。曾记其厅事一联云：“祖孙父子兄弟叔侄，加以外甥宅相，女婿门楣，人人得第；子午卯酉辰戌丑未，兼于丁巳乡闱，己亥会试，岁岁登科。”诚足传也。</p>
+<p>　　◎三别号</p>
+<p>　　嘉善柯光禄岸初先生，常言昆山徐氏三昆季，皆世间伟人，其别号建庵、果亭、立斋，各道性情，无不极似。余从游日久，信其知言。相国面方口大，双眸有光，寡于言笑，与客饮至酒深，或述往事，间发谐语，乃始微哂，庄坐移晷无倦容。盛暑必肃衣冠，虽门生故吏不以亵见。小时嗜弈及叶子戏，自晋秩大司成，遂绝不为。昔李九我为南祭酒亦然，盖先后贤亦同揆也。司寇温厚凝重，短视而善鉴人，凡受其赏识者，次第尽掇巍科。吐握之勤，农夕靡暇，常至口酬辨问，手缮简笺，耳受陈禀，兼施并给，曾不阙误。宾退而后，辄事铅椠，即饮阑寝倦，从无释卷之时。宫詹性恬荣进，称疾家居。筑室山南曰“耘圃”，榱桷朴素，列贮缥缃，竹坞萧森，莲池淡荡，游其门者然有遗世之思。年五十有二始举一子，遂命地师相地。客有问者曰：“相地何用？”</p>
+<p>　　宫詹自指曰：“将以藏此躯耳。”时司寇与相国尚无恙，而宫詹方在盛年，遽为此语，亦足以见达天之致矣。不数载而司寇与相国相继谢世，果亭先生特膺宠命，荐陟宫詹。嗟乎！达天者其得天独厚哉。</p>
+<p>　　◎青龙盘柱</p>
+<p>　　昆山徐翁，醇谨朴诚，乡里目为长者。负郭田百亩，佃于农而收其租，家道恒足，称小康焉。一夕，梦有青龙盘旋堂柱，觉而异之。诘旦，有佃人来偿租，携十龄余幼女同至翁家。女服青布衫裤，性憨跳，以两手抱堂柱，攀援欲上，旋转而堕者再。翁顿忆昨梦，以酒食款佃人，询其女犹未字。翁曰：“而女吾所爱，吾有子年相若，以婿汝何如？”</p>
+<p>　　佃人惶恐谢曰：“郎君当婚巨室，某贫薄女又村陋，奚敢附高门乎？”翁曰：“我固欲之，不汝嫌也。”因强与订盟，以钗钿数事为聘，厚馈而遣之。迨女既长，归徐，生三子。长元文，状元及第；次乾学，次秉义，俱探花及第。龙盘之梦，洵贵征也。初女年幼，常梦小遗，既长亦然，多方疗之终不治，问之则曰：“睡梦中见有红灯两盏至前，遂遗，亦不自觉也。”后以子贵，迎养京邸。尝祝皇太后万寿，赐宴宫中，酒阑将私，宫嫔以红纱灯导至厕所，始悟前梦之奇验如此。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16190.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16192.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

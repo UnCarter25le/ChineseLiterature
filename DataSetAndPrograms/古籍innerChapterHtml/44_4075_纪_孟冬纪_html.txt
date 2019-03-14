@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+吕氏春秋·纪·孟冬纪_古诗文网
+</title>
+<meta content="【孟冬】一曰：孟冬之月，日在尾，昏危中，旦七星中。其日壬癸，其帝颛顼，其神玄冥，其虫介，其音羽，律中应钟。其数六，其味咸，其臭朽，其祀行，祭先肾。水始冰，地始冻，雉入大水为蜃。虹藏" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4075.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2670" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>纪·孟冬纪</b></span>
+<a href="javascript:PlayBookv(4075)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4075" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2670)" id="leftbtn2670" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4075" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%95%e4%b8%8d%e9%9f%a6+%e4%b8%bb%e7%bc%96">吕不韦 主编</a></p>
+<div class="contson">
+<p>　　【孟冬】</p>
+<p>　　一曰：孟冬之月，日在尾，昏危中，旦七星中。其日壬癸，其帝颛顼，其神玄冥，其虫介，其音羽，律中应钟。其数六，其味咸，其臭朽，其祀行，祭先肾。水始冰，地始冻，雉入大水为蜃。虹藏不见。天子居玄堂左个，乘玄辂，驾铁骊，载玄旗，衣黑衣，服玄玉，食黍与彘，其器宏以弇。是月也，以立冬。先立冬三日，太史谒之天子曰：“某日立冬，盛德在水。”天子乃斋。立冬之日，天子亲率三公九卿大夫，以迎冬於北郊。还，乃赏死事，恤孤寡。是月也，命太卜祷祠龟策，占兆审卦吉凶。於是察阿上乱法者则罪之，无有揜蔽。是月也，天子始裘，命有司曰：“天气上腾，地气下降，天地不通，闭而成冬。”命百官谨盖藏。命司徒循行积聚，无有不敛；附城郭，戒门闾，修楗闭，慎关龠，固封玺，备边境，完要塞，谨关梁，塞蹊径，饬丧纪，辨衣裳，审棺椁之厚薄，营丘垄之小大、高卑、薄厚之度，贵贱之等级。是月也，工师效功，陈祭器，按度程，无或作为淫巧，以荡上心，必功致为上。物勒工名，以考其诚；工有不当，必行其罪，以穷其情。是月也，大饮蒸，天子乃祈来年于天宗。大割，祠于公社及门闾，飨先祖五祀，劳农夫以休息之。天子乃命将率讲武，肄射御、角力。是月也，乃命水虞渔师收水泉池泽之赋，无或敢侵削众庶兆民，以为天子取怨于下，其有若此者，行罪无赦。孟冬行春令，则冻闭不密，地气发泄，民多流亡。行夏令，则国多暴风，方冬不寒，蛰虫复出。行秋令，则雪霜不时，小兵时起，土地侵削。</p>
+<p>　　【节丧】</p>
+<p>　　二曰：审知生，圣人之要也；审知死，圣人之极也。知生也者，不以害生，养生之谓也；知死也者，不以害死，安死之谓也。此二者，圣人之所独决也。凡生於天地之间，其必有死，所不免也。孝子之重其亲也，慈亲之爱其子也，痛於肌骨，性也。所重所爱，死而弃之沟壑，人之情不忍为也，故有葬死之义。葬也者，藏也，慈亲孝子之所慎也。慎之者，以生人之心虑。以生人之心为死者虑也，莫如无动，莫如无发。无发无动，莫如无有可利，则此之谓重闭。古之人有藏於广野深山而安者矣，非珠玉国宝之谓也，葬不可不藏也。葬浅则狐狸抇之，深则及於水泉。故凡葬必於高陵之上，以避狐狸之患、水泉之湿。此则善矣，而忘奸邪、盗贼、寇乱之难，岂不惑哉？譬之若瞽师之避柱也，避柱而疾触杙也。狐狸、水泉、奸邪、盗贼、寇乱之患，此杙之大者也。慈亲孝子避之者，得葬之情矣。善棺椁，所以避蝼蚁蛇虫也。今世俗大乱，之主愈侈其葬，则心非为乎死者虑也，生者以相矜尚也。侈靡者以为荣，俭节者以为陋，不以便死为故，而徒以生者之诽誉为务。此非慈亲孝子之心也。父虽死，孝子之重之不怠；子虽死，慈亲之爱之不懈。夫葬所爱所重，而以生者之所甚欲，其以安之也，若之何哉？民之於利也，犯流矢，蹈白刃，涉血抽肝以求之。野人之无闻者，忍亲戚、兄弟、知交以求利。今无此之危，无此之丑，其为利甚厚，乘车食肉，泽及子孙。虽圣人犹不能禁，而况於乱？国弥大，家弥富，葬弥厚。含珠鳞施，玩好货宝，锺鼎壶滥，舆马衣被戈剑，不可胜其数。诸养生之具，无不从者。题凑之室，棺椁数袭，积石积炭，以环其外。奸人闻之，传以相告。上虽以严威重罪禁之，犹不可止。且死者弥久，生者弥疏；生者弥疏，则守者弥怠；守者弥怠而葬器如故，其势固不安矣。世俗之行丧，载之以大輴，羽旄旌旗、如云偻翣以督之，珠玉以佩之，黼黻文章以饬之，引绋者左右万人以行之，以军制立之然後可。以此观世，则美矣，侈矣；以此为死，则不可也。苟便於死，则虽贫国劳民，若慈亲孝子者之所不辞为也。</p>
+<p>　　【安死】</p>
+<p>　　三曰：世之为丘垄也，其高大若山，其树之若林，其设阙庭、为宫室、造宾阼也若都邑。以此观世示富则可矣，以此为死则不可也。夫死，其视万岁犹一瞬也。人之寿，久之不过百，中寿不过六十。以百与六十为无穷者之虑，其情必不相当矣。以无穷为死者之虑，则得之矣。今有人於此，为石铭置之垄上，曰： “此其中之物，具珠玉、玩好、财物、宝器甚多，不可不抇，抇之必大富，世世乘车食肉。”人必相与笑之，以为大惑。世之厚葬也，有似於此。自古及今，未有不亡之国也；无不亡之国者，是无不抇之墓也。以耳目所闻见，齐、荆、燕尝亡矣，宋、中山已亡矣，赵、魏、韩皆亡矣，其皆故国矣。自此以上者，亡国不可胜数，是故大墓无不抇也。而世皆争为之，岂不悲哉？君之不令民，父之不孝子，兄之不悌弟，皆乡里之所釜&lt;鬲瓦&gt;者而逐之。惮耕稼采薪之劳，不肯官人事，而祈美衣侈食之乐，智巧穷屈，无以为之，於是乎聚群多之徒，以深山广泽林薮，扑击遏夺，又视名丘大墓葬之厚者，求舍便居，以微抇之，日夜不休，必得所利，相与分之。夫有所爱所重，而令奸邪、盗贼、寇乱之人卒必辱之，此孝子、忠臣、亲父、交友之大事。尧葬於谷林，通树之；舜葬於纪市，不变其肆，禹葬於会稽，不变人徒。是故先王以俭节葬死也，非爱其费也，非恶其劳也，为死者虑也。先王之所恶，惟死者之辱也。发则必辱，俭则不发。故先王之葬，以必俭。必合，必同。何谓合？何谓同？葬於山林则合乎山林，葬於阪隰则同乎阪隰。此之谓爱人。夫爱人者众，知爱人者寡。故宋未亡而东冢抇，齐未亡而庄公冢抇。国安宁而犹若此，又况百世之後而国已亡乎？故孝子、忠臣、亲父、交友不可不察於此也。夫爱之而反危之，其此之谓乎！《诗》曰：“不敢暴虎，不敢冯河。人知其一，莫知其他。”此言不知邻类也。故反以相非，反以相是。其所非方其所是也，其所是方其所非也。是非未定，而喜怒斗争反为用矣。吾不非斗，不非争，而非所以斗，非所以争。故凡斗争者，是非已定之用也。今多不先定其是非，而先疾斗争，此惑之大者也。鲁季孙有丧，孔子往吊之。入门而左，从客也。主人以玙璠收，孔子径庭而趋，历级而上，曰：“以宝玉收，譬之犹暴骸中原也。”径庭历级，非礼也；虽然，以救过也。</p>
+<p>　　【异宝】</p>
+<p>　　四曰：古之人非无宝也，其所宝者异也。孙叔敖疾，将死，戒其子曰：“王数封我矣，吾不受也。为我死，王则封汝，必无受利地。楚、越之间有寝之丘者，此其地不利，而名甚恶。荆人畏鬼，而越人信禨。可长有者，其唯此也。”孙叔敖死，王果以美地封其子，而子辞，请寝之丘，故至今不失。孙敖叔之知，知不以利为利矣。知以人之所恶为己之所喜，此有道者之所以异乎俗也。五员亡，荆急求之，登太行而望郑曰：“盖是国也，地险而民多知；其主，俗主也，不足与举。”去郑而之许，见许公而问所之。许公不应，东南向而唾。五员载拜受赐，曰：“知所之矣。”因如吴。过於荆，至江上，欲涉，见一丈人，刺小船，方将渔，从而请焉。丈人度之，绝江。问其名族，则不肯告，解其剑以予丈人，曰： “此千金之剑也，愿献之丈人。”丈人不肯受，曰：“荆国之法，得五员者，爵执圭，禄万檐，金千镒。昔者子胥过，吾犹不取，今我何以子之千金剑为乎？” 五员过於吴，使人求之江上，则不能得也。每食必祭之，祝曰：“江上之丈人！” 天地至大矣，至众矣，将奚不有为也？而无以为。为矣，而无以为之。名不可得而闻，身不可得而见，其惟江上之丈人乎！宋之野人耕而得玉，献之司城子罕，子罕不受。野人请曰：“此野人之宝也，愿相国为之赐而受之也。”子罕曰： “子以玉为宝，我以不受为宝。”故宋国之长者曰：“子罕非无宝也，所宝者异也。”今以百金与抟黍以示儿子，儿子必取抟黍矣；以和氏之璧与百金以示鄙人，鄙人必取百金矣；以和氏之璧、道德之至言以示贤者，贤者必取至言矣。其知弥精，其所取弥精；其知弥粗，其所取弥粗。</p>
+<p>　　【异用】</p>
+<p>　　五曰：万物不同，而用之於人异也，此治乱、存亡、死生之原。故国广巨，兵强富，未必安也；尊贵高大，未必显也：在於用之。桀、纣用其材而以成其亡，汤、武用其材而以成其王。汤见祝网者，置四面，其祝曰：“从天坠者，从地出者，从四方来者，皆离吾网。”汤曰：“嘻！尽之矣。非桀，其孰为此也？”汤收其三面，置其一面，更教祝曰：“昔蛛蝥作网罟，今之人学纾。欲左者左，欲右者右，欲高者高，欲下者下，吾取其犯命者。”汉南之国闻之曰：“汤之德及禽兽矣。”四十国归之。人置四面，未必得鸟；汤去其三面，置其一面，以网其四十国，非徒网鸟也。周文王使人抇池，得死人之骸。吏以闻於文王，文王曰： “更葬之。”吏曰：“此无主矣。”文王曰：“有天下者，天下之主也；有一国者，一国之主也。今我非其主也？”遂令吏以衣棺更葬之。天下闻之曰：“文王贤矣！泽及髊骨，又况於人乎？”或得宝以危其国，文王得朽骨以喻其意，故圣人於物也无不材。孔子之弟子从远方来者，孔子荷杖而问之曰：“子之公不有恙乎？”搏杖而揖之，问曰：“子之父母不有恙乎？”置杖而问曰：“子之兄弟不有恙乎？”戈步而倍之，问曰：“子之妻子不有恙乎？”故孔子以六尺之杖，谕贵贱之等，辨疏亲之义，又况於以尊位厚禄乎？古之人贵能射也，以长幼养老也。今之人贵能射也，以攻战侵夺也。其细者以劫弱暴寡也，以遏夺为务也。仁人之得饴，以养疾侍老也。跖与企足得饴，以开闭取楗也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4074.aspx">上一章</a>
+<a href="/guwen/book_44.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4076.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2670" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

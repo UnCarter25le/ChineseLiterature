@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+周礼·春官宗伯·大卜/诅祝_古诗文网
+</title>
+<meta content="大卜掌三兆之法，一曰玉兆，二曰瓦兆，三曰原兆。其经兆之体，皆百有二十，其颂皆千有二百。掌三易之法，一曰连山，二日归藏，三曰周易。其经卦皆八，其别皆六十有四。掌三梦之法，一曰致梦，二" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3215.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1745" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>春官宗伯·大卜/诅祝</b></span>
+<a href="javascript:PlayBookv(3215)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3215" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1745)" id="leftbtn1745" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3215" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%91%a8%e5%85%ac%e6%97%a6">周公旦</a></p>
+<div class="contson">
+<p>　　大卜掌三兆之法，一曰玉兆，二曰瓦兆，三曰原兆。其经兆之体，皆百有二十，其颂皆千有二百。掌三易之法，一曰连山，二日归藏，三曰周易。其经卦皆八，其别皆六十有四。掌三梦之法，一曰致梦，二曰觭梦，三曰咸陟。其经运十，其别九十，以邦事作龟之八命，一曰征，二曰象，三曰与，四曰谋，五曰果，六曰至，七曰雨，八曰廖。以八命者赞三兆、三易、三梦之占，以观国家之吉凶，以诏救政。凡国大贞，卜立君，卜大封，则眡高作龟。大祭祀，则眡高命龟。凡小事，莅卜。国大迁、大师，则贞龟。凡旅，陈龟。凡丧事，命龟。</p>
+<p>　　卜师掌开龟之四兆，一曰方兆，二曰功兆，三曰义兆，四曰弓光。凡卜事，眡高，扬火以作龟，致其墨。凡卜，辨龟之上下、左右、阴阳，以授命龟者而诏相之。</p>
+<p>　　龟人掌六龟之属。各有名物。天龟曰灵属，地龟曰绎属，东龟曰果属，西龟曰雷属，南龟曰猎属，北龟曰若属，各以其方之色与其体辨之。凡取龟用，秋时；攻龟用，春时，各以其物，入于龟室。上春衅龟，祭祀先卜。若有祭事，则奉龟以往。旅，亦如之。丧，亦如之。</p>
+<p>　　菙氏掌共燋契，以待卜事。凡卜，以明火热燋，遂龠其焌契，以授卜师，遂役之。</p>
+<p>　　占人掌占龟。以八筮占八颂，以八卦占筮之八故，以眡吉凶。凡卜筮，君占体，大夫占色，史占墨，卜人占坼。凡卜筮，既事，则系币，以比其命。岁终，则计其占之中否。</p>
+<p>　　筮人掌三易。以辨九筮之名，一曰连山，二曰归藏，三曰周易。九筮之名。一曰巫更，二曰巫咸，三曰巫式，四曰巫目，五曰巫易，六曰巫比，七曰巫祠，八曰巫参，九曰巫环，以辨吉凶。凡国之大事，先筮而后卜。上春。相筮。凡国事，共筮。</p>
+<p>　　占梦掌其岁时观天地之会，辨阴阳之气。以日、月、星、辰占六梦之吉凶。一曰正梦，二曰恶梦，三曰思梦，四曰寤梦，五曰喜梦，六曰惧梦。季冬，聘王梦，献吉梦于王，王拜而受之，乃舍萌于四方，以赠恶梦，遂令始难，驱疫。</p>
+<p>　　眡祲掌十煇之法，以观妖祥，辨吉凶。一曰祲，二曰象，三曰镌，四曰监，五曰暗，六曰瞢，七曰弥，八曰叙，九曰隮，十曰想，掌安宅叙降。正岁，则行事；岁终，则弊其事。</p>
+<p>　　大祝掌六祸之辞，以事鬼神示，祈福祥，求永贞。一曰顺祝，二曰年祝，三曰吉祝，四曰化祝，五曰瑞祝，六曰筴祝。掌六祈以同鬼神示，一曰类，二曰造，三曰禬，四曰禜，五曰攻，六曰说。作六辞以通上下亲疏远近，一曰祠，二曰命，三曰诰，四曰会，五曰祷，六曰诔。辨六号，一曰神号，二曰鬼号，三曰示号，四曰牲号，五曰齍号，六曰币号。辨九祭，一曰命祭，二曰衍祭，三曰炮祭，四曰周祭，五曰振祭，六曰擩祭，七曰绝祭，八曰缭祭，九曰共祭。辨九拜，一曰稽首，二曰顿首，三曰空首，四曰振动，五曰吉拜，六曰凶拜，七曰奇拜，八曰褒拜，九日肃拜，以享右、祭祀。凡大禋祀、肆享、祭示，则执明火、水而号祝。隋衅，逆牲，逆尸，令钟鼓；右，亦如之。来瞽，令皋舞；相尸礼。既祭，令彻。大丧始崩，以肆鬯渳尸，相饭，赞敛。彻奠，言甸人读祷，付练祥。掌国事，国有大故、天灾，弥祀社稷，祷祠。大师，宜于社，造于祖。设军社，类上帝。国将有事于四望，及军归献于社，则前祝。大会同，造于庙，宜于社。遇大山川，则用事焉；反行，舍奠。建邦国，先告后土用牲币，禁督逆祀命者，颁祭号于邦国都鄙。</p>
+<p>　　小祝掌小祭祀将事、侯、禳、祷、祠之祝号，以祈福祥，顺丰年，逆时雨，宁风旱，弥灾兵，远皋疾。大祭祀，逆齍盛，送逆尸，沃尸盥，赞隋，赞彻，赞奠。凡事，佐大祝。大丧，赞渳，设熬，置铭。及葬，设道赍之奠，分祷五祀。大师，掌衅祈号祝。有寇戎之事，则保郊祀于社。凡外内小祭祀、小丧纪、小会同、小军旅、掌事焉。</p>
+<p>　　丧祝掌大丧劝防之事。及辟，令启；及朝，御，乃奠；及祖，饰棺，乃载，遂御。及葬，御，出宫，乃代。及圹，说载，除饰。小丧，亦如之，掌丧祭祝号。王吊，则与巫前，掌胜国邑之社稷之祝号，以祭祀祷祠焉。凡卿大夫之丧，掌事，而敛，饰棺焉。</p>
+<p>　　甸祝掌四时之田表貉之祝号。舍奠于祖庙，弥亦如之。师甸，致禽于虞中，乃属禽。及郊，馌兽，舍奠于祖弥，乃敛禽，禂牲禂马，皆掌其祝号。 诅祝掌盟、诅、类、造、攻、说、禬、禜之祝号。作盟诅之载辞，以叙国之信用，以质邦国之剂信。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3214.aspx">上一章</a>
+<a href="/guwen/book_24.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3216.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1745" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

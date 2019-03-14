@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷二·论冲击_古诗文网
+</title>
+<meta content="地支取七位为冲，犹天干取七位为煞之义。如子午对冲，子至午七数，甲逢庚为煞，甲至庚七数。数中六则合，七则过，故相冲击为煞也。相冲者，十二支战击之神，大概为凶。然有为福之甚者，乃冲处相" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16371.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·论冲击</b></span>
+<a href="javascript:PlayBookv(16371)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16371" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16371" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　地支取七位为冲，犹天干取七位为煞之义。如子午对冲，子至午七数，甲逢庚为煞，甲至庚七数。数中六则合，七则过，故相冲击为煞也。相冲者，十二支战击之神，大概为凶。然有为福之甚者，乃冲处相生。如辛巳金见癸亥水之类，主声望播流，高明出众，科甲峥嵘；若冲处相克，如壬申金见庚寅木之类，主人神情貌俊，襟韵脱俗，轩昂洒落，上视仰面而行；若生旺主人神刚貌肃胆气壮，倜傥敢为多成败；死绝则寒酸鄙薄，形容乖劣，动招凶辱，多夭折。若戌丑辰未四库所藏为十干财官、印绶等物，尤喜冲激；若寅申巳亥金，子午卯酉金，反成大格，不以冲击论。若同类相冲，如甲子见甲午，己卯见己酉之类，主多破祖业，平生心不闲，刚明有断，假令禄高名重，终有一失。</p>
+<p>　　凡遇一七煞，命吉则冲发，命凶则为祸。如祸聚之地有他位来冲，谓之破祸成福；如福聚之地他位来冲，则破福成祸；如犯空亡，有他位来冲，亦为破祸成福，年月日时值此，必作食禄之人。若月冲日时，时冲年，名仇，主与人无恩，多得憎嫌，或长病，或暴卒；带劫煞、亡神相冲，主犯刑。若在死绝处，主病多疾。带贵煞入局，有秀气科名者，多入台谏，终恶疾而死；带元辰、空亡相冲，不下贱则贫寒。</p>
+<p>　　沈芝云：“破印破财并破禄，破马少曾为我福；更加破合日时冲，疾非手足即头目。破印者，如木人带癸未，内有乙丑金之类；破财者，如金人以寅卯为财、见申酉之类；破禄者，如甲禄在寅见申字之类；破马者，如马在巳见亥字之类；破合者，乃干合被支破，如甲午人见己亥，或见巳字，即破己亥，逢子破甲午合之类。诗云：相冲还是自相生，集来帝座位无刑；更得华盖兼权煞，为官清显统雄兵”。</p>
+<p>　　可见冲破有吉有凶，不可概论。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16370.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16372.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

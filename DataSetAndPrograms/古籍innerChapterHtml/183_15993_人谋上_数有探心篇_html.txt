@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·人谋上·数有探心篇_古诗文网
+</title>
+<meta content="经曰：古者，邻国烽烟相望，鸡犬相闻，而足迹不接於诸侯之境，车轨不结於千里之外，以道存生，以德安形，人乐其居。後世浇风起而淳朴散，权智用而谲诈生，邻国往来用间谍；纵横之事，用檃括之人" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_15993.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>人谋上·数有探心篇</b></span>
+<a href="javascript:PlayBookv(15993)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv15993" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay15993" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　经曰：古者，邻国烽烟相望，鸡犬相闻，而足迹不接於诸侯之境，车轨不结於千里之外，以道存生，以德安形，人乐其居。後世浇风起而淳朴散，权智用而谲诈生，邻国往来用间谍；纵横之事，用檃括之人矣。</p>
+<p>　　徐守仁义，社稷邱墟。鲁尊儒墨，宗庙泯灭。非达奥知微，不能御敌；不劳心苦思，不能原事；不悉见情伪，不能成名；材智不明，不能用兵；忠实不真，不能知人。是以，鬼谷先生述〈捭阖 、〈揣摩 、〈飞箝 、〈抵巇 之篇，以教苏秦、张仪游说於六国而探诸侯之心，於是术行焉！夫用探心之术者，先以道德、仁义、礼乐、忠信、诗书、经传、子史、谋略、成败浑而杂说，包而罗之，澄其心，静其志，伺人之情，有所爱恶、去就，从欲而攻之，阴虑阳发，此虚言而往，彼实心而来，因其心，察其容，听其声，考其辞。言不合者，反而求之，其应必出，既得其心，反射其意，符应不失，契合无二，胶而漆之，无使反覆，如养由之操弓、逢蒙之挟矢，百发无不中正，犹设罝罘，以罹鱼兔，张其会，磔其腰，胁其虚，必冲纲而挂目，亦奚有孑遗哉！</p>
+<p>　　夫探仁人之心，必以信，勿以财；探勇士之心，必以义，勿以惧；探智士之心，必以忠，勿以欺；探愚人之心，必以蔽，勿以明；探不肖之心，必以惧，勿以常；探好财之心，必以贿，勿以廉。夫与智者言，依於博，智有涯而博无涯，则智不可以测博；与博者言，依於辨，博师古而辨应，今则不可以应辨。与贵者言，依於势，贵位高而势制高，则位不可以禁势。与富者言，依於物，富积财而物可宝，则财不足以易宝。与贫者言，依於利，贫匮乏而利丰赡，则乏不可以賙丰。与贱者言，依於谦，贱人下而谦降下，则贱不可以语谦。与勇者言，依於敢，勇不惧而敢刚毅，则勇不可以慑刚。与愚者言，依於锐，愚质朴而锐聪明，则朴不可以察聪。此八者，皆本同其道，而末异其表。同其道，人所欲听；异其表，听而不晓。如此，则不测浅、不测深，吾得出无间、入无朕，独往而独来，或纵而或横；如偃枯草，使东而东，使西而西；如引停水决之则流；壅之则止，谋何患乎不从哉！</p>
+<p>　　夫道贵制人、不贵制於人。制人者，握权；制於人者，遵命也。制人之术，避人之长，攻人之短；见己之所长，蔽己之所短。故兽之动，必先爪牙；禽之动，必先觜距；螫虫之动，必以毒；介虫之动，必以甲。夫鸟兽虫豸，尚用所长以制物，况其智者乎！夫人好说道德者，必以仁义折之；好言儒墨者，必以纵横御之；好谈法律者，必以权术挫之。必乘其始、合其终、摧其牙、落其角，无使出吾之右。徐以庆吊之言，忧喜其心，使其神不得为心之主。长生、安乐、富贵、尊荣、声色、喜说，庆言也；死亡、忧患、贫贱、苦辱、刑戮、诛罚，吊言也。与贵者谈，言吊则悲；与贱者谈，言庆则悦。将其心，迎其意，或庆或吊，以惑其志，情变於内者，形变於外，常以所见而观其所隐，所谓测隐探心之术也。虽有先王之道，圣智之术而无此者，不足以成伯王之业也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_15992.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_15994.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+列女传·辩通传·楚处庄侄_古诗文网
+</title>
+<meta content="楚处庄侄者，楚顷襄王之夫人，县邑之女也。初，顷襄王好台榭，出入不时，行年四十，不立太子，谏者蔽塞，屈原放逐，国既殆矣。秦欲袭其国，乃使张仪间之，使其左右谓王曰：“南游于唐，五百里有" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14480.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>辩通传·楚处庄侄</b></span>
+<a href="javascript:PlayBookv(14480)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14480" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14480" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　楚处庄侄者，楚顷襄王之夫人，县邑之女也。初，顷襄王好台榭，出入不时，行年四十，不立太子，谏者蔽塞，屈原放逐，国既殆矣。秦欲袭其国，乃使张仪间之，使其左右谓王曰：“南游于唐，五百里有乐焉。”王将往。是时庄侄年十二，谓其母曰：“王好淫乐，出入不时。春秋既盛，不立太子。今秦又使人重赂左右，以惑我王，使游五百里之外，以观其势。王已出，奸臣必倚敌国而发谋，王必不得反国。侄愿往谏之。”其母曰：“汝婴儿也，安知谏？”不遣，侄乃逃。以缇竿为帜，侄持帜伏南郊道旁，王车至，侄举其帜，王见之而止，使人往问之，使者报曰：“有一女童伏于帜下，愿有谒于王。”王曰：“召之。”侄至，王曰：“女何为者也？”侄对曰：“妾县邑之女也，欲言隐事于王，恐壅阏蔽塞，而不得见闻。大王出游五百里，因以帜见。”王曰：“子何以戒寡人？”侄对曰：“大鱼失水，有龙无尾。墙欲内崩，而王不视。”王曰：“不知也。”侄对曰：“大鱼失水者，王离国五百里也，乐之于前，不思祸之起于后也。有龙无尾者，年既四十，无太子也。国无强辅，必且殆也。墙欲内崩而王不视者，祸乱且成而王不改也。”王曰：“何谓也？”侄曰：“王好台榭，不恤众庶，出入不时，耳目不聪明。春秋四十不立太子，国无强辅，外内崩坏。强秦使人内间王左右，使王不改，日以滋甚，今祸且构。王游于五百里之外，王必遂往，国非王之国也。”王曰：“何也？”侄曰：“王之致此三难也以五患。”王曰：“何谓五患？”侄曰：“宫室相望，城郭阔达，一患也。宫垣衣绣，民人无褐，二患也。奢侈无度，国且虚竭，三患也。百姓饥饿，马有余秣，四患也。邪臣在侧，贤者不达，五患也。王有五患，故及三难。”王曰：“善。”命后车载之，立还反国，门已闭，反者已定，王乃发鄢郢之师以击之，仅能胜之。乃立侄为夫人，位在郑子袖之右，为王陈节俭爱民之事，楚国复强。君子谓庄侄虽违于礼，而终守以正。诗云：“北风其喈，雨雪霏霏，惠而好我，携手同。”归此之谓也。</p>
+<p>　　颂曰：楚处庄侄，虽为女童，以帜见王，陈国祸凶，设王三难，五患累重，王载以归，终卒有功。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14479.aspx">上一章</a>
+<a href="/guwen/book_166.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14481.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

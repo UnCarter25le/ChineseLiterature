@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百战奇略·第五卷·害战_古诗文网
+</title>
+<meta content="凡与敌各守疆界，若敌人寇抄我境，以扰边民，可于要害处设伏兵，或筑障塞以邀之，敌必不敢轻犯。法曰：「能使敌人不得至者，害之也。」唐时，朔方军总管沙矺忠义为突厥所败，诏张仁愿摄御史大夫" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4293.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2947" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第五卷·害战</b></span>
+<a href="javascript:PlayBookv(4293)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4293" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2947)" id="leftbtn2947" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4293" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%9f%ba">刘基</a></p>
+<div class="contson">
+<p>　　凡与敌各守疆界，若敌人寇抄我境，以扰边民，可于要害处设伏兵，或筑障塞以邀之，敌必不敢轻犯。法曰：「能使敌人不得至者，害之也。」</p>
+<p>　　唐时，朔方军总管沙矺忠义为突厥所败，诏张仁愿摄御史大夫代之。既至，贼已出，率兵蹑击，夜掩其营，破之。始，朔方军与突厥以河为界，北崖有拂云祠，突厥每犯边，必先谒祠祷祀，然后引兵渡而南。时默啜悉兵西击突骑施，张仁愿请乘虚取漠南，于河北筑三受降城，绝虏南寇路。唐休璟以为：「西汉以来，皆南守河，今筑城虏腹中，终为所有。」仁愿固请，中宗许之。表留岁满镇兵以助其功，时咸阳兵二百人逃归，仁愿擒之，尽斩城下，军中股栗，役者尽力，六旬而三城就。以拂云为中城，南直朔方；西城南直灵武，东城南直榆林。三垒相距各四百余里，其北皆大碛也，斥地三百里远。又于牛头朝那山北置烽候千八百所。自是突厥不敢逾山牧马，朔方复无寇。岁省费亿计，减镇兵数万。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4292.aspx">上一章</a>
+<a href="/guwen/book_52.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4294.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2947" style="width:580px; display:none;"></div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

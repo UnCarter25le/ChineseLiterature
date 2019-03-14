@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+公羊传·僖公·四年_古诗文网
+</title>
+<meta content="一、四年，春王正月，公会齐侯、宋公、陈侯、卫侯、郑伯、许男、曹伯侵蔡，蔡溃。遂伐楚，次于陉。溃者何？下叛上也。国曰溃，邑曰叛。其言次于陉何？有俟也。孰俟？俟屈完也。二、夏，许男新臣" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13202.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>僖公·四年</b></span>
+<a href="javascript:PlayBookv(13202)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13202" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13202" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%85%ac%e7%be%8a%e9%ab%98">公羊高</a></p>
+<div class="contson">
+<p>　　一、四年，春王正月，公会齐侯、宋公、陈侯、卫侯、郑伯、许男、曹伯侵蔡，蔡溃。遂伐楚，次于陉。</p>
+<p>　　溃者何？下叛上也。国曰溃，邑曰叛。其言次于陉何？有俟也。孰俟？俟屈完也。</p>
+<p>　　二、夏，许男新臣卒。</p>
+<p>　　三、楚屈完来盟于师，盟于召陵。</p>
+<p>　　屈完者何？楚大夫也。何以不称使？尊屈完也。曷为尊屈完？以当桓公也。其言盟于师、盟于召陵何？师在召陵也。师在召陵，则曷为再言盟？喜服楚也。何言乎喜服楚？楚有王者则后服，无王者则先叛。夷狄也，而亟病中国，南夷与北狄交。中国不绝若线，桓公救中国，而攘夷狄，卒怗荆，以此为王者之事也。其言来何？与桓为主也。前此者有事矣，后此者有事矣，则曷为独于此焉？与桓公为主，序绩也。</p>
+<p>　　四、齐人执陈袁涛涂。</p>
+<p>　　涛涂之罪何？辟军之道也。其辟军之道奈何？涛涂谓桓公曰：“君既服南夷矣，何不还师滨海而东，服东夷且归。”桓公曰：“诺。”于是还师滨海而东，大陷于沛泽之中。顾而执涛涂。执者曷为或称侯？或称人？称侯而执者，伯讨也。称人而执者，非伯讨也。此执有罪，何以不得为伯讨？古者周公东征则西国怨，西征则东国怨。桓公假涂于陈而伐楚，则陈人不欲其反由己者，师不正故也。不修其师而执涛涂，古人之讨，则不然也。</p>
+<p>　　五、秋，及江人、黄人伐陈。</p>
+<p>　　六、八月，公至自伐楚。</p>
+<p>　　楚已服矣，何以致伐楚？叛盟也。</p>
+<p>　　七、葬许缪公。</p>
+<p>　　八、冬十有二月，公孙慈帅师会齐人、宋人、卫人、郑人、许人、曹人侵陈。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13201.aspx">上一章</a>
+<a href="/guwen/book_143.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13203.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

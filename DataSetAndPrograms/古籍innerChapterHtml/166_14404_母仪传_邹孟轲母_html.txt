@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+列女传·母仪传·邹孟轲母_古诗文网
+</title>
+<meta content="邹孟轲之母也。号孟母。其舍近墓。孟子之少也，嬉游为墓间之事，踊跃筑埋。孟母曰：“此非吾所以居处子也。”乃去舍市傍。其嬉戏为贾人衒卖之事。孟母又曰：“此非吾所以居处子也。”复徙舍学宫" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14404.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>母仪传·邹孟轲母</b></span>
+<a href="javascript:PlayBookv(14404)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14404" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14404" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　邹孟轲之母也。号孟母。其舍近墓。孟子之少也，嬉游为墓间之事，踊跃筑埋。孟母曰：“此非吾所以居处子也。”乃去舍市傍。其嬉戏为贾人衒卖之事。孟母又曰：“此非吾所以居处子也。”复徙舍学宫之傍。其嬉游乃设俎豆揖让进退。孟母曰：“真可以居吾子矣。”遂居之。及孟子长，学六艺，卒成大儒之名。君子谓孟母善以渐化。诗云：“彼姝者子，何以予之？”此之谓也。孟子之少也，既学而归，孟母方绩，问曰：“学何所至矣？”孟子曰：“自若也。”孟母以刀断其织。孟子惧而问其故，孟母曰：“子之废学，若吾断斯织也。夫君子学以立名，问则广知，是以居则安宁，动则远害。今而废之，是不免于厮役，而无以离于祸患也。何以异于织绩而食，中道废而不为，宁能衣其夫子，而长不乏粮食哉！女则废其所食，男则堕于修德，不为窃盗，则为虏役矣。”孟子惧，旦夕勤学不息，师事子思，遂成天下之名儒。君子谓孟母知为人母之道矣。诗云：“彼姝者子，何以告之？”此之谓也。孟子既娶，将入私室，其妇袒而在内，孟子不悦，遂去不入。妇辞孟母而求去，曰：“妾闻夫妇之道，私室不与焉。今者妾窃堕在室，而夫子见妾，勃然不悦，是客妾也。妇人之义，盖不客宿。请归父母。于是孟母召孟子而谓之曰：“夫礼，将入门，问孰存，所以致敬也。将上堂，声必扬，所以戒人也。将入户，视必下，恐见人过也。今子不察于礼，而责礼于人，不亦远乎！”孟子谢，遂留其妇。君子谓孟母知礼，而明于姑母之道。孟子处齐，而有忧色。孟母见之曰：“子若有忧色，何也？”孟子曰：“不敏。”异日闲居，拥楹而叹。孟母见之曰：“乡见子有忧色，曰不也，今拥楹而叹，何也？”孟子对曰：“轲闻之：君子称身而就位，不为苟得而受赏，不贪荣禄。诸侯不听，则不达其上。听而不用，则不践其朝。”今道不用于齐，愿行而母老，是以忧也。”孟母曰：“夫婦人之禮，精五飯，酒漿，養舅姑，縫衣裳而已矣。故有闺内之修，而无境外之志。易曰：‘在中馈，攸遂。’诗曰：‘无非无仪，惟酒食是议。’以言妇人无擅制之义，而有三从之道也。故年少则从乎父母，出嫁则从乎夫，夫死则从乎子，礼也。今子成人也，而我老矣。子行乎子义，吾行乎吾礼。”君子谓孟母知妇道。诗云：“载色载笑，匪怒匪教。”此之谓也。</p>
+<p>　　颂曰：孟子之母，教化列分，处子择艺，使从大伦，子学不进，断机示焉，子遂成德，为当世冠。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14403.aspx">上一章</a>
+<a href="/guwen/book_166.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14405.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

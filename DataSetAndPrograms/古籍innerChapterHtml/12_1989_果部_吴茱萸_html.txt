@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·果部·吴茱萸_古诗文网
+</title>
+<meta content="气味辛、温、有小毒。主治中风（口角偏斜，不能语言）。用茱萸一升、姜豉三升、清酒五程式，合煎开数次，冷后每服半升。一天服三次。微汗即愈。全身发痒。用茱萸一升，加酒五升，煮成一升半，乘" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1989.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>果部·吴茱萸</b></span>
+<a href="javascript:PlayBookv(1989)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1989" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1989" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>气味</strong><br/>辛、温、有小毒。</p>
+<p><strong>主治</strong><br/>中风（口角偏斜，不能语言）。用茱萸一升、姜豉三升、清酒五程式，合煎开数次，冷后每服半升。一天服三次。微汗即愈。<br/>全身发痒。用茱萸一升，加酒五升，煮成一升半，乘温擦洗，痒即停止。<br/>冬月感寒。用吴茱萸五钱煎汤服，以出汗为度。<br/>呕吐、胸满、头痛。用茱萸一升、枣二十枚、生姜一两、人参一两，加水五升煎成三升，每服七合，一天服二次，此方名“吴茱萸汤”。<br/>心腹冷痛。用吴茱萸五合，加酒三升煮开，分三次服。<br/>小肠疝气（偏坠疼痛，睾丸肿硬，阴部湿痒）。用吴茱萸（去梗）一斤，分作四份。四两泡酒，四两泡醋，四两泡开水，四两泡童便。经一夜后，都取出焙干，加泽泻二两，共研为末，以酒和粉调成丸子，如梧子大。每服五十丸，空心服，盐汤或酒送下。此方名“夺命丹”，亦名“星斗丸”。<br/>妇女阴寒，久不受孕。用吴茱萸、川椒各一升，共研为末，加炼蜜做丸子，如弹子大。裹棉肉纳入阴道中，令子宫开即可受孕。<br/>胃气虚冷，口吐酸水。用吴茱萸在开水中泡七次，取出焙干，加干姜（炮），等分为末。每服一钱，热汤送下。<br/>转筋入腹。用茱萸（炒）二两，加酒二碗，煎成一碗，分二次服。得泻即愈。<br/>老人多年水泄。用吴 茱萸三钱，泡过，取出，加水煎嗔，放一点盐后服下。<br/>赤白痢（脾胃受湿，下痢腹痛，米谷不化）。用吴茱萸、黄连、白芍药各一两，同炒为末，加蒸饼做成丸子，如梧子大。每服二、三十丸，米汤送下。此方名“戊己丸”。又方：用川黄连二峡谷、吴茱萸二两（汤沁七次），同炒香，分别研为末，各与粟米饭做成丸子，如梧子大，收存备用。每服三十丸。赤痢，以甘草汤送服黄连丸；白痢，以干姜汤送服茱萸丸；赤白痢，两丸各用十五粒，米汤送下。此方名“变通丸”。又方：用吴茱萸二两、黄连二两，同炒香，各自为末。以百草霜二两，加饭同黄连做成丸子；以白芍药末二两，加饭同茱萸做成丸子，各如梧子大，收存备用。每服五十丸。赤痢，以乌梅汤送服连霜丸；白痢，以米汤送服茱芍丸；赤白痢，两种药丸各服二十五粒。此方名“二色丸”。<br/>腹中积块。用茱萸一升捣烂，和酒同煮，取出包软布中熨积块处，冷则炒热再熨。块如移动，熨也移动，直至积块消除。<br/>牙齿疼痛。用茱萸煎酒含漱。<br/>老小风疹。用茱萸煎酒涂搽。<br/>痈疽发背。用吴茱萸一升捣为末，加苦酒调涂布上贴患处。<br/>寒热怪病（发寒发热不止，几天后四肢坚硬如石，敲起来发铜器声，日渐瘦弱）。用茱萸、木香等分，煎激发服。</p>
+<p><strong>附方</strong><br/>吴茱萸的功效是温中、散寒、下气、开郁。近年来临床实际上践，亦用本品治蛲虫病。临床实践学认为吴茱萸有明显的止痛、止呕作用。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1988.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1990.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

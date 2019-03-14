@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+韩非子·诡使_古诗文网
+</title>
+<meta content="圣人之所以为治道者三：一曰“利”，二曰“威”，三曰“名”。夫利者，所以得民也；威者，所以行令也；名者，上下之所同道也。非此三者，虽有不急矣。今利非无有也，而民不化上；威非不存也" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3538.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2145" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>诡使</b></span>
+<a href="javascript:PlayBookv(3538)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3538" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2145)" id="leftbtn2145" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3538" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%9f%a9%e9%9d%9e">韩非</a></p>
+<div class="contson">
+<p>　　圣人之所以为治道者三：一曰“利”，二曰“威”，三曰“名”。夫利者，所以得民也；威者，所以行令也；名者，上下之所同道也。非此三者，虽有不急矣。今利非无有也，而民不化上；威非不存也，而下不听从；官非无法也，而治不当名。三者非不存也，而世一治一乱者，何也？夫上之所贵与其所以为治相反也。</p>
+<p>　　夫立名号，所以为尊也；今有贱名轻实者，世谓“高”。设爵位，所以为贱贵基也；而简上不求见者，谓之“贤”。威利，所以行令也；而无利轻威者，世谓之“重”。法令，所以为治也；而不从法令为私善者，世谓之“忠”。官爵，所以劝民也；而好名义不进仕者，世谓之“烈士”。刑罚，所以擅威也；而轻法不避刑戮死亡之罪者，世谓之“勇夫”。民之急名也，甚其求利也；如此，则士之饥饿乏绝者，焉得无岩居苦身以争名于天下哉？故世之所以不治者，非下之罪，上失其道也。常贵其所以乱，而贱其所以治，是故下之所欲，常与上之所以为治相诡也。</p>
+<p>　　今下而听其上，上之所争也。而惇悫纯信，用心怯言，则谓之“窭”。守法固，听令审，则谓之“愚”。敬上畏罪，则谓之“怯”。言时节，行中适，则谓之“不肖”。无二心私学吏，听吏从教者，则谓之“陋”。</p>
+<p>　　难致，谓之“正”。难予，谓之“廉”。难禁，谓之“齐”。有令不听从，谓之“勇”。无利于上，谓之“愿”。少欲、宽惠、行德，谓之“仁”。重厚自尊，谓之“长者”。私学成群，谓之“师徒”。闲静安居，谓之“有思”。损仁逐利，谓之“疾”。险躁佻反覆，谓之“智”。先为人而后自为，类名号，言泛爱天下，谓之“圣”。言大本，称而不可用，行而乘于世者，谓之“大人”。贱爵禄，不挠上者，谓之“杰”。下渐行如此，入则乱民，出则不便也。上宜禁其欲，灭其迹，而不止也，又从而尊之，是教下乱上以为治也。</p>
+<p>　　凡所治者，刑罚也；今有私行义者尊。社稷之所以立者，安静也；而躁险谗谀者任。四封之内所以听从者，信与德也；而陂知倾覆者使。令之所以行，威之所以立者，恭俭听上；而岩居非世者显。仓廪之所以实者，耕农之本务也；而綦组、锦绣、刻画为末作者富。名之所以成，城池之所以广者，战士也；今死士之孤饥饿乞于道，而优笑酒徒之属乘车衣丝。赏禄，所以尽民力易下死也；今战胜攻取之士劳而赏不霑，而卜筮、视手理、狐虫为顺辞于前者日赐。上握度量，所以擅生杀之柄也；今守度奉量之士欲以忠婴上而不得见，巧言利辞行奸轨以幸偷世者数御。据法直言，名刑相当，循绳墨，诛奸人，所以为上治也，而愈疏远；謟施顺意从欲以危世者近习。悉租税，专民力，所以备难充仓府也，而士卒之逃事伏匿、附托有威之门以避徭赋而上不得者万数。夫陈善田利宅，所以战士卒也，而断头裂腹、播骨乎平原野者，无宅容身，身死田亩；而女妹有色，大臣左右无功者，择宅而受，择田而食。赏利一从上出，所善制下也；而战介之士不得职，而闲官之士尊显。上以此为教，名安得无卑，位安得无危？夫卑名位者，必下之不从法令、有二心无私学反逆世者也；而不禁其行、不破其群以散其党，又从而尊之，用事者过矣。上世之所以立廉耻者，所以属下也；今士大夫不羞污泥丑辱而宦，女妹私义之门不待次而宦。赏赐之，所以为重也；而战斗有功之士贫贱，而便辟优徒超级。名号诚信，所以通威也；而主掩障，近习女谒并行，百官主爵迁人，用事者过矣。大臣官人，与下先谋比周，虽不法行，威利在下，则主卑而大臣重矣。</p>
+<p>　　夫立法令者，以废私也。法令行而私道废矣。私者，所以乱法也。而士有二心私学、岩居 路、托伏深虑，大者非世，细者惑下；上不禁，又从而尊之以名，化之以实，是无功而显，无劳而富也。如此，则士之有二心私学者，焉得无深虑、勉知诈与诽谤法令，以求索与世相反者也？凡乱上反世者，常士有二心私学者也。故《本言》曰：“所以治者，法也；所以乱者，私也。法立，则莫得为私矣。”故曰：道私者乱，道法者治。上无其道，则智者有私词，贤者有私意。上有私惠，下有私欲，圣智成群，造言作辞，以非法措于上。上不禁塞，又从而尊之，是教下不听上、不从法也。是以贤者显名而居，奸人赖赏而富。贤者显名而居，奸人赖赏而富，是以上不胜下也。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3537.aspx">上一章</a>
+<a href="/guwen/book_31.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3539.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2145" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

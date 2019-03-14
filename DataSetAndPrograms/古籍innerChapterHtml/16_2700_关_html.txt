@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·关_古诗文网
+</title>
+<meta content="历史来源　　一是源自颛顼帝的后裔关龙氏。颛顼帝是黄帝的孙子，有圣德，为五帝之一。帝舜时，颛顼的后裔董父为舜养龙，被赐为豢龙氏。上古时豢与关二字互相通用，所以豢龙氏又写作关龙氏。到夏" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2700.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>关</b></span>
+<a href="javascript:PlayBookv(2700)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2700" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2700" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　一是源自颛顼帝的后裔关龙氏。颛顼帝是黄帝的孙子，有圣德，为五帝之一。帝舜时，颛顼的后裔董父为舜养龙，被赐为豢龙氏。上古时豢与关二字互相通用，所以豢龙氏又写作关龙氏。到夏朝末年夏桀在位时期，荒淫无度，不理朝政。大夫关龙逢苦苦劝谏，反被杀害。后来关龙逢的后人把姓简化为关氏，并尊关龙逢为关姓的始祖。夏人的活动范围主要在河南、山西等黄河中下游地区。夏朝的国都曾设于安邑，亦即现在的山西省夏县北方。据说，关氏的始祖关龙逢，便是当时的安邑人。换言之，关氏家族的发源地也就在这里。<br/>　　二是春秋时期关尹喜的后人，以官名为氏。关尹即守关的关令。春秋时期老子见周王室衰败，欲离开周地西游，走至函谷关时，负责守函谷关的关尹喜非常景仰老子的学问，再三请求老子为其著书。老子就写了《道德经》，阐述了其哲学思想。传说喜将此书传播于世后，也随老子成仙而去。喜的后人就以其官名为氏，称关氏。据说，这一支关氏主要是繁衍于山东、江苏的交界之处。<br/>　　三是一些少数民族改姓为关。如清朝满族姓氏瓜尔佳氏和乌扎拉氏的后人有改姓为关的。如嘉庆年间延绥镇总兵关腾，为镶黄旗瓜尔佳氏。道光咸丰年间黑龙江副都统关保，为正黄旗乌扎拉氏。</p>
+<p><strong>家族名人</strong><br/>　　关羽：三国时蜀国别部司马，字云长，山西解县人。善画，爱左氏传。与张飞随刘备，恩如兄弟，下邳之战，为曹操所俘，礼之甚厚，斩颜良，诛文丑，以报曹操之恩，封汉寿亭侯，挂印封金回归刘备。后守襄阳，屡败曹仁，水淹七军，威名大震。孙权用吕蒙计，破荆州，杀关羽父子。宋以后，民间以关圣帝君祀之。关景仁：宋代治平进士、丰县知县，兴趣广泛，尤长于诗。<br/>　　至宋代末期，关姓又出了一位著名人物关汉卿，号已斋叟。约生于金末，卒于宋亡（１２７９年）之后。他是元代戏曲奠基人，伟大的现实主义作家。安国(今属河北)人，一说大都人。一生所作杂剧６０余种，现存《窦娥冤》、《救风尘》、《拜月亭》、《望江亭》等十三种。塑造了窦娥、赵盼儿、王瑞兰、谭记儿等多种妇女典型形象。这些形象流传至今而不朽。</p>
+<p><strong>迁徙分布</strong><br/>　　陇西：战国时秦昭襄王二十七年（公元前280年）置郡。相当于今甘肃省东乡、临洮一带。<br/>　　东海：有二处。汉代东海郡在今山东省郯城一带。东魏及隋唐时代的东海郡，相当于今江苏省东海县以东、淮水以北地区。<br/></p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2699.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2701.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

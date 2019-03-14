@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·定公·定公五年_古诗文网
+</title>
+<meta content="【经】五年春王三月辛亥朔，日有食之。夏，归粟于蔡。于越入吴。六月丙申，季孙意如卒。秋七月壬子，叔孙不敢卒。冬，晋士鞅帅师围鲜虞。 【传】五年春，王人杀子朝于楚。 夏，归粟于蔡，以周" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2999.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1530" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>定公·定公五年</b></span>
+<a href="javascript:PlayBookv(2999)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2999" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1530)" id="leftbtn1530" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2999" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】五年春王三月辛亥朔，日有食之。夏，归粟于蔡。于越入吴。六月丙申，季孙意如卒。秋七月壬子，叔孙不敢卒。冬，晋士鞅帅师围鲜虞。 </p>
+<p>　　【传】五年春，王人杀子朝于楚。 </p>
+<p>　　夏，归粟于蔡，以周亟，矜无资。 </p>
+<p>　　越入吴，吴在楚也。 </p>
+<p>　　六月，季平子行东野，还，未至，丙申，卒于房。阳虎将以与璠敛，仲梁怀弗与，曰：「改步改玉。」阳虎欲逐之，告公山不狃。不狃曰：「彼为君也，子何怨焉？」既葬，桓子行东野，及费。子泄为费宰，逆劳于郊，桓子敬之。劳仲梁怀，仲梁怀弗敬。子泄怒，谓阳虎：「子行之乎？」 </p>
+<p>　　申包胥以秦师至，秦子蒲、子虎帅车五百乘以救楚。子蒲曰：「吾未知吴道。」使楚人先与吴人战，而自稷会之，大败夫□王于沂。吴人获薳射于柏举，其子帅奔徒以从子西，败吴师于军祥。秋七月，子期、子蒲灭唐。 </p>
+<p>　　九月，夫□王归，自立也。以与王战而败，奔楚，为堂溪氏。吴师败楚师于雍澨，秦师又败吴师。吴师居麇，子期将焚之，子西曰：「父兄亲暴骨焉，不能收，又焚之，不可。」子期曰：「国亡矣！死者若有知也，可以歆旧祀，岂惮焚之？」焚之，而又战，吴师败。又战于公婿之溪，吴师大败，吴子乃归。囚闉舆罢，闉舆罢请先，遂逃归。叶公诸梁之弟后臧从其母于吴，不待而归。叶公终不正视。</p>
+<p>　　乙亥，阳虎囚季桓子及公父文伯，而逐仲梁怀。冬十月丁亥，杀公何藐。己丑，盟桓子于稷门之内。庚寅，大诅，逐公父歜及秦遄，皆奔齐。 </p>
+<p>　　楚子入于郢。初，斗辛闻吴人之争宫也，曰：「吾闻之：『不让则不和，不和不可以远征。』吴争于楚，必有乱。有乱则必归，焉能定楚？」王之奔随也，将涉于成臼，蓝尹亹涉其帑，不与王舟。及宁，王欲杀之。子西曰：「子常唯思旧怨以败，君何效焉？」王曰：「善。使复其所，吾以志前恶。」王赏斗辛、王孙由于、王孙圉、钟建、斗巢、申包胥、王孙贾、宋木、斗怀。子西曰：「请舍怀也。」王曰：「大德灭小怨，道也。」申包胥曰：「吾为君也，非为身也。君既定矣，又何求？且吾尤子旗，其又为诸？」遂逃赏。王将嫁季芈，季芈辞曰：「所以为女子，远丈夫也。钟建负我矣。」以妻钟建，以为乐尹。 </p>
+<p>　　王之在随也，子西为王舆服以保路，国于脾泄。闻王所在，而后从王。王使由于城麇，覆命，子西问高厚焉，弗知。子西曰：「不能，如辞。城不知高厚，小大何知？」对曰：「固辞不能，子使余也。人各有能有不能。王遇盗于云中，余受其戈，其所犹在。」袒而示之背，曰：「此余所能也。脾泄之事，余亦弗能也。」 </p>
+<p>　　晋士鞅围鲜虞，报观虎之役也。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2998.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3000.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1530" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

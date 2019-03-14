@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+逸周书·卷十·武纪解_古诗文网
+</title>
+<meta content="币帛之间，有巧言令色，事不成。车甲之间，有巧言令色，事不捷。克□事而有武色，必失其德。临权而疑，必离其灾。□□不捷，智不可□，□于不足，并于不几，则始而施，几而弗免，无功。国有三守" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5160.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3429" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·武纪解</b></span>
+<a href="javascript:PlayBookv(5160)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5160" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3429)" id="leftbtn3429" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5160" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　币帛之间，有巧言令色，事不成。车甲之间，有巧言令色，事不捷。克□事而有武色，必失其德。临权而疑，必离其灾。□□不捷，智不可□，□于不足，并于不几，则始而施，几而弗免，无功。</p>
+<p>　　国有三守，卑辞重币以服之，弱国之守也；伐服不祥，伐战危，伐险难，故善反而者不伐三守。伐国有六时、五动、四顺，间其疏薄其疑，推其危扶其弱，乘其衰，暴其约，此谓六时。扶之而不让，振之而不动，是之而不服，暴之而不革，威之而不恐，未可伐也，此谓五动。立之害，毁之利，克之易，并之能，以时伐之，此谓四顺。立之不害，毁之不利，唯克之易，并之不能，可伐也。立之害，毁之未利，克之难，并之不能，可动也。静以待众，力不与争，权弗果据，德不肆国，若是，而可毁也。地荒而不振，得衰而氏与，无苦而危矣，求之以其道，□□无不得，为之以其事，而时无不成。有利备无患，事时至而不迎，大禄乃迁。延之不道，行事乃困，不作小□，动大殃。</p>
+<p>　　谋有不足者三：仁废，则文谋不足；勇废，武谋不足；备废，则事谋不足。国有本有干，有权有伦。质有枢体，土地本也，人民干也，敌国侔交权也。政教顺，成伦质也。君臣和，□枢体也。土地未削，人民未散，国权未倾，伦质未移，虽有昏乱之君，国未亡也。国有几失，居之不可阻，体之小也。不果邻家，难复饰也。封疆侵凌，难复振也。服国从失，难复扶也。大国之无养，小国之畏事，不可以本权，失□家之交，不可以枉绳。失邻家之交，不据直以约，不亏体以阴，不可虞而夺也，不可策而服也，不可亲而侵也，不可摩而测也，不可求而循也。</p>
+<p>　　施度于体，不虑费事；利于国，不计劳。失德丧服于邻家，则不顾难矣。交体侵凌，则不顾权矣。封疆不时得其所，无为养民矣。合同不得其位，无畏患矣。百姓屈急，无藏蓄矣。挤社稷、失宗庙、离坟墓、困鬼神、残宗族，无为爱死矣。卑辞而不听，□财而无枝，计战而□足，近告而无顾，告过而不悔，请服而不得，然后绝好于闭门，循险近，说外援以天命，无为是定亡矣。</p>
+<p>　　凡有事君民，守社稷宗庙，而先衰亡者，皆失礼也。大事不法，弗可作；法而不时，弗可行；说而失礼，弗可长；得礼而无备，弗可成；举物不备，而欲□大功于天下者，未之有也。势不求周流，举而不几其成，亡。薄其事而求厚其功，亡。内无文，道外无武，迹往不复，来者有悔，而求合者，亡。不难不费，而致大功，古今未有。</p>
+<p>　　据名而不辱，应行而不困，唯礼；得之而无逆，复之而无咎，唯敬；成事而不难，序功而不费，唯时；劳而有成，费而不亡，唯当；施而不拂，成而有权，久之而能□，唯义。不知所取之量，不知所施之度，不知动静之时，不知吉凶之事，不知困达之谋，疑此五者，未可以动大事。恃名不久，恃功不立，虚愿不至，妄为不祥。太上敬而服，其次欲而得，其次夺而得，其次争而克，其下动而上资其力。凡建国君民，内事文而和。外事武而义，其形慎而杀，其政直而公，本之以礼，动之以时，正之以度，师之以法，成之以仁。此之道也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5159.aspx">上一章</a>
+<a href="/guwen/book_60.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5161.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3429" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

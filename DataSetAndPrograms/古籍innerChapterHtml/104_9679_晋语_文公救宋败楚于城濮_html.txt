@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·晋语·文公救宋败楚于城濮_古诗文网
+</title>
+<meta content="文公立四年，楚成王伐宋，公率齐、秦伐曹、卫以救宋。宋人使门尹班告急于晋，公告大夫曰：“宋人告急，舍之则宋绝，告楚则不许我。我欲击楚，齐、秦不欲，其若之何？”先轸曰：“不若使齐、秦主" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9679.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8430" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>晋语·文公救宋败楚于城濮</b></span>
+<a href="javascript:PlayBookv(9679)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9679" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8430)" id="leftbtn8430" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9679" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+文公立四年，楚成王伐宋，公率齐、秦伐曹、卫以救宋。宋人使门尹班告急于晋，公告大夫曰：“宋人告急，舍之则宋绝，告楚则不许我。我欲击楚，齐、秦不欲，其若之何？”先轸曰：“不若使齐、秦主楚怨。”公曰：“可乎？”先轸曰：“使宋舍我而赂齐、秦，藉之告楚，我分曹、卫之地以赐宋人。楚爱曹、卫，必不许齐、秦。齐、秦不得其请，必属怨焉，然后用之，蔑不欲矣。”公说，是故以曹田、卫田赐宋人。
+</p><p>　　
+令尹子玉使宛春来告曰：“请复卫侯而封曹，臣亦释宋之围。”舅犯愠曰：“子玉无礼哉！君取一，臣取二，必击之。”先轸曰：“子与之。我不许曹、卫之请，是不许释宋也。宋众无乃强乎！是楚一言而有三施，子一言而有三怨。怨已多矣，难以击人。不若私许复曹、卫以携之，执宛春以怒楚，既战而后图之。”公说，是故拘宛春于卫。
+</p><p>　　
+子玉释宋围，从晋师。楚既陈，晋师退舍，军吏请曰：“以君避臣，辱也。且楚师老矣，必败。何故退？”子犯曰：“二三子忘在楚乎？偃也闻之：战斗，直为壮，曲为老。未报楚惠而抗宋，我曲楚直，其众莫不生气，不可谓老。若我以君避臣，而不去，彼亦曲矣。”退三舍避楚。楚众欲止，子玉不肯，至于城濮，果战，楚众大败。君子曰：“善以德劝。”
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9678.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9680.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8430" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

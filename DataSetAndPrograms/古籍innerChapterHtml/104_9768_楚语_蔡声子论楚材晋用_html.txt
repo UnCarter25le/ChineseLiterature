@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·楚语·蔡声子论楚材晋用_古诗文网
+</title>
+<meta content="椒举娶于申公子牟，子牟有罪而亡，康王以为椒举遣之，椒举奔郑，将遂奔晋。蔡声子将如晋，遇之于郑，飨之以璧侑，曰：“子尚良食，二先子其皆相子，尚能事晋君以为诸侯主。”辞曰：“非所愿也。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9768.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8519" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>楚语·蔡声子论楚材晋用</b></span>
+<a href="javascript:PlayBookv(9768)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9768" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8519)" id="leftbtn8519" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9768" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+椒举娶于申公子牟，子牟有罪而亡，康王以为椒举遣之，椒举奔郑，将遂奔晋。蔡声子将如晋，遇之于郑，飨之以璧侑，曰：“子尚良食，二先子其皆相子，尚能事晋君以为诸侯主。”辞曰：“非所愿也。若得归骨于楚，死且不朽。”声子曰：“子尚良食，吾归子。”椒举降三拜，纳其乘马，声子受之。
+</p><p>　　
+还见令尹子木，子木与之语，曰：“子虽兄弟于晋，然蔡吾甥也，二国孰贤？”对曰：“晋卿不若楚，其大夫则贤，其大夫皆卿材也。若杞梓、皮革焉，楚实遗之，虽楚有材，不能用也。”子木曰：“彼有公族甥、舅，若之何其遗之材也？”对曰：“昔令尹子元之难，或谮王孙启于成王，王弗是，王孙启奔晋，晋人用之。及城濮之役，晋将遁矣，王孙启与于军事，谓先轸曰：‘是师也，唯子玉欲之，与王心违，故唯东宫与西广实来。诸侯之从者，叛者半矣，若敖氏离矣，楚师必败，何故去之！’先轸从之，大败楚师，则王孙启之为也。
+</p><p>　　
+“昔庄王方弱，申公子仪父为师，王子燮为傅，使师崇、子孔帅师以伐舒。燮及仪父施二帅而分其室。师还至，则以王如庐，庐戢黎杀二子而复王。或谮析公臣于王，王弗是，析公奔晋，晋人用之。实谗败楚，使不规东夏，则析公之为也。
+</p><p>　　
+“昔雍子之父兄谮雍子于恭王，王弗是，雍子奔晋，晋人用之。及鄢之役，晋将遁矣，雍子与于军事，谓栾书曰：‘楚师可料也，在中军王族而已。若易中下，楚必歆之。若合而臽吾中，吾上下必败其左右，则三萃以攻其王族，必大败之。’栾书从之，大败楚师，王亲面伤，则雍子之为也。
+</p><p>　　
+“昔陈公子夏为御叔娶于郑穆公，生子南。子南之母乱陈而亡之，使子南戮于诸侯。庄王既以夏氏之室赐申公巫臣，则又界之子反，卒于襄老。襄老死于邲，二子争之，未有成。恭王使巫臣聘于齐，以夏姬行，遂奔晋。晋人用之，实通吴晋。使其子狐庸为行人于吴，而教之射御，导之伐楚。至于今为患，则申公巫臣之为也。
+</p><p>　　
+“今椒举娶于子牟，子牟得罪而亡，执政弗是，谓椒举曰：‘女实遣之。’彼惧而奔郑，缅然引领南望，曰：‘庶几赦吾罪。’又不图也，乃遂奔晋，晋人又用之矣。彼若谋楚，其亦必有丰败也哉。”
+</p><p>　　
+子木愀然，曰：“夫子何如，召之其来乎？”对曰：“亡人得生，又何不来为。”子木曰：“不来，则若之何？”对曰：“夫子不居矣，春秋相事，以还轸于诸侯。若资东阳之盗使杀之，其可乎？不然，不来矣。”子木曰：“不可。我为楚卿，而赂盗以贼一夫于晋，非义也。子为我召之，吾倍其室。”乃使椒鸣召其父而复之。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9767.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9769.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8519" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

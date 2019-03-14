@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+公羊传·庄公·四年_古诗文网
+</title>
+<meta content="一、四年，春王二月，夫人姜氏飨齐侯于祝丘。二、三月，纪伯姬卒。三、夏，齐侯、陈侯、郑伯遇于垂。四、纪侯大去其国。大去者何？灭也。孰灭之？齐灭之。曷为不言齐灭之？为襄公讳也。春秋为贤" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13168.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>庄公·四年</b></span>
+<a href="javascript:PlayBookv(13168)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13168" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13168" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%85%ac%e7%be%8a%e9%ab%98">公羊高</a></p>
+<div class="contson">
+<p>　　一、四年，春王二月，夫人姜氏飨齐侯于祝丘。</p>
+<p>　　二、三月，纪伯姬卒。</p>
+<p>　　三、夏，齐侯、陈侯、郑伯遇于垂。</p>
+<p>　　四、纪侯大去其国。</p>
+<p>　　大去者何？灭也。孰灭之？齐灭之。曷为不言齐灭之？为襄公讳也。春秋为贤讳。何贤乎襄公？复雠也。何雠尔？远祖也。哀公亨乎周，纪侯谮之。以襄公之为于此焉者，事祖祢之心尽矣。尽者何？襄公将复雠乎纪，卜之曰：“师丧分焉。寡人死之，不为不吉也。”远祖者几世乎？九世矣。九世犹可以复雠乎？虽百世可也。家亦可乎？曰：不可。国何以可？国君一体也；先君之耻犹今君之耻也，今君之耻犹先君之耻也。国君何以为一体？国君以国为体，诸侯世，故国君为一体也。今纪无罪，此非怒与？曰：非也。古者有明天子，则纪侯必诛，必无纪者。纪侯之不诛，至今有纪者，犹无明天子也。古者诸侯必有会聚之事，相朝聘之道，号辞必称先君以相接，然则齐、纪无说焉，不可以并立乎天下。故将去纪侯者，不得不去纪也。有明天子，则襄公得为若行乎？曰：不得也。不得则襄公曷为为之？上无天子，下无方伯，缘恩疾者可也。</p>
+<p>　　五、六月乙丑，齐侯葬纪伯姬。</p>
+<p>　　外夫人不书葬，此何以书？隐之也。何隐尔？其国亡矣，徒葬于齐尔。此复雠也，曷为葬之？灭其可灭，葬其可葬。此其为可葬奈何？复雠者非将杀之，逐之也。以为虽遇纪侯之殡，亦将葬之也。</p>
+<p>　　六、秋七月。</p>
+<p>　　七、冬，公及齐人狩于郜。</p>
+<p>　　公曷为与微者狩？齐侯也。齐侯则其称人何？讳与雠狩也。前此者有事矣，后此者有事矣，则曷为读于此焉讥？于雠者将壹讥而已，故择其重者而讥焉，莫重乎其与雠狩也。于雠者则曷为将壹讥而已？雠者无时，焉可与通；通则为大讥，不可胜讥，故将壹讥而已，其余从同同。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13167.aspx">上一章</a>
+<a href="/guwen/book_143.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13169.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

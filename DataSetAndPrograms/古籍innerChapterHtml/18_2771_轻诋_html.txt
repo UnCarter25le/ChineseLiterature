@@ -1,0 +1,127 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+世说新语·轻诋_古诗文网
+</title>
+<meta content="王太尉问眉子：“汝叔名士，何以不相推重？”眉子曰：“何有名士终日妄语？”庾元规语周伯仁：“诸人皆以君方乐。”周曰：“何乐？谓乐毅邪？”庾曰：“不尔。乐令耳！”周曰：“何乃刻画无盐，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2771.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1587" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>轻诋</b></span>
+<a href="javascript:PlayBookv(2771)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2771" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1587)" id="leftbtn1587" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2771" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e4%b9%89%e5%ba%86">刘义庆</a></p>
+<div class="contson">
+<p>　　王太尉问眉子：“汝叔名士，何以不相推重？”眉子曰：“何有名士终日妄语？”</p>
+<p>　　庾元规语周伯仁：“诸人皆以君方乐。”周曰：“何乐？谓乐毅邪？”庾曰：“不尔。乐令耳！”周曰：“何乃刻画无盐，以唐突西子也。”</p>
+<p>　　深公云：“人谓庾元规名士，胸中柴棘三斗许。”</p>
+<p>　　庾公权重，足倾王公。庾在石头，王在冶城坐。大风扬尘，王以扇拂尘曰：“元规尘污人！”</p>
+<p>　　王右军少时甚涩讷，在大将军许，王、庾二公后来，右军便起欲去。大将军留之曰：“尔家司空、元规，复可所难？”</p>
+<p>　　王丞相轻蔡公，曰：“我与安期、千里共游洛水边，何处闻有蔡充儿？”</p>
+<p>　　褚太傅初渡江，尝入东，至金昌亭。吴中豪右，燕集亭中。褚公虽素有重名，于时造次不相识别。敕左右多与茗汁，少箸粽，汁尽辄益，使终不得食。褚公饮讫，徐举手共语云：“褚季野！”于是四座惊散，无不狼狈。</p>
+<p>　　王右军在南，丞相与书，每叹子侄不令。云：“虎(犬屯)、虎犊，还其所如。”</p>
+<p>　　褚太傅南下，孙长乐于船中视之。言次，及刘真长死，孙流涕，因讽咏曰：“人之云亡，邦国殄瘁。”褚大怒曰：“真长平生，何尝相比数，而卿今日作此面向人！”孙回泣向褚曰：“卿当念我！”时咸笑其才而性鄙。</p>
+<p>　　谢镇西书与殷扬州，为真长求会稽。殷答曰：“真长标同伐异，侠之大者。常谓使君降阶为甚，乃复为之驱驰邪？”</p>
+<p>　　桓公入洛，过淮、泗，践北境，与诸僚属登平乘楼，眺瞩中原，慨然曰：“遂使神州陆沈，百年丘墟，王夷甫诸人，不得不任其责！”袁虎率而对曰：“运自有废兴，岂必诸人之过？”桓公懔然作色，顾谓四坐曰：“诸君颇闻刘景升不？有大牛重千斤，啖刍豆十倍于常牛，负重致远，曾不若一羸牸。魏武入荆州，烹以飨士卒，于时莫不称快。”意以况袁。四坐既骇，袁亦失色。</p>
+<p>　　袁虎、伏滔同在桓公府。桓公每游燕，辄命袁、伏，袁甚耻之，恒叹曰：“公之厚意，未足以荣国士！与伏滔比肩，亦何辱如之？”</p>
+<p>　　高柔在东，甚为谢仁祖所重。既出，不为王、刘所知。仁祖曰：“近见高柔，大自敷奏，然未有所得。”真长云：“故不可在偏地居，轻在角(角弱)中，为人作议论。”高柔闻之，云：“我就伊无所求。”人有向真长学此言者，真长曰：“我寔亦无可与伊者。”然游燕犹与诸人书：“可要安固？”安固者，高柔也。</p>
+<p>　　刘尹、江虨、王叔虎、孙兴公同坐，江、王有相轻色。虨以手歙叔虎云：“酷吏！”词色甚强。刘尹顾谓：“此是瞋邪？非特是丑言声，拙视瞻。”</p>
+<p>　　孙绰作列仙商丘子赞曰：“所牧何物？殆非真猪。傥遇风云，为我龙摅。”时人多以为能。王蓝田语人云：“近见孙家儿作文，道何物、真猪也。”</p>
+<p>　　桓公欲迁都，以张拓定之业。孙长乐上表，谏此议甚有理。桓见表心服，而忿其为异，令人致意孙云：“君何不寻遂初赋，而强知人家国事？”</p>
+<p>　　孙长乐兄弟就谢公宿，言至款杂。刘夫人在壁后听之，具闻其语。谢公明日还，问：“昨客何似？”刘对曰：“亡兄门，未有如此宾客！”谢深有愧色。</p>
+<p>　　简文与许玄度共语，许云：“举君、亲以为难。”简文便不复答。许去后而言曰：“玄度故可不至于此！”</p>
+<p>　　谢万寿春败后，还，书与王右军云：“惭负宿顾。”右军推书曰：“此禹、汤之戒。”</p>
+<p>　　蔡伯喈睹睐笛椽，孙兴公听妓，振且摆折。王右军闻，大嗔曰：“三祖寿乐器，虺瓦吊，孙家儿打折。”</p>
+<p>　　王中郎与林公绝不相得。王谓林公诡辩，林公道王云：“箸腻颜帢，(糸翕)布单衣，挟左传，逐郑康成车后，问是何物尘垢囊！”</p>
+<p>　　孙长乐作王长史诔云：“余与夫子，交非势利，心犹澄水，同此玄味。”王孝伯见曰：“才士不逊，亡祖何至与此人周旋！”</p>
+<p>　　谢太傅谓子侄曰：“中郎始是独有千载！”车骑曰：“中郎衿抱未虚，复那得独有？”</p>
+<p>　　庾道季诧谢公曰：“裴郎云：‘谢安谓裴郎乃可不恶，何得为复饮酒？’裴郎又云：‘谢安目支道林，如九方皋之相马，略其玄黄，取其俊逸。’”谢公云：“都无此二语，裴自为此辞耳！”庾意甚不以为好，因陈东亭经酒垆下赋。读毕，都不下赏裁，直云：“君乃复作裴氏学！”于此语林遂废。今时有者，皆是先写，无复谢语。</p>
+<p>　　王北中郎不为林公所知，乃箸论沙门不得为高士论。大略云：“高士必在于纵心调畅，沙门虽云俗外，反更束于教，非情性自得之谓也。”</p>
+<p>　　人问顾长康：“何以不作洛生咏？”答曰：“何至作老婢声！”</p>
+<p>　　殷顗、庾恒并是谢镇西外孙。殷少而率悟，庾每不推。尝俱诣谢公，谢公熟视殷曰：“阿巢故似镇西。”于是庾下声语曰：“定何似？”谢公续复云：“巢颊似镇西。”庾复云：“颊似，足作健不？”</p>
+<p>　　旧目韩康伯：将肘无风骨。</p>
+<p>　　符宏叛来归国。谢太傅每加接引，宏自以有才，多好上人，坐上无折之者。适王子猷来，太傅使共语。子猷直孰视良久，回语太傅云：“亦复竟不异人！”宏大惭而退。</p>
+<p>　　支道林入东，见王子猷兄弟。还，人问：“见诸王何如？”答曰：“见一群白颈乌，但闻唤哑哑声。”</p>
+<p>　　王中郎举许玄度为吏部郎。郗重熙曰：“相王好事，不可使阿讷在坐。”</p>
+<p>　　王兴道谓：谢望蔡霍霍如失鹰师。</p>
+<p>　　桓南郡每见人不快，辄嗔云：“君得哀家梨，当复不烝食不？” </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2770.aspx">上一章</a>
+<a href="/guwen/book_18.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2772.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1587" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,123 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷二十·初四辛酉_古诗文网
+</title>
+<meta content="初四辛酉燕都日纪云：牛金星吉服至吏政府，同宋企郊考试举人，出题：天下归仁焉、莅中国而抚四夷也；自天佑之、吉无不利等题。搜简封门就试者约七八十人，大率本地举人居多。又有一伪示云：各省" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13693.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二十·初四辛酉</b></span>
+<a href="javascript:PlayBookv(13693)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13693" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13693" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　初四辛酉</p>
+<p>　　燕都日纪云：牛金星吉服至吏政府，同宋企郊考试举人，出题：天下归仁焉、莅中国而抚四夷也；自天佑之、吉无不利等题。搜简封门就试者约七八十人，大率本地举人居多。又有一伪示云：各省直乡试，候旨定期，即于中秋时举行。初五日，伪相府揭晓，取实授举人五十名，余俱革退。三考吏员及监生纷纷告考俱不准。一云顺天伪府尹考试童生，出天与之、及大雨数千里。考生员，出若大旱之望云霓也。次日即发案。</p>
+<p>　　初五壬戌</p>
+<p>　　山东郡县，寇贼克斥，临淄、济南尤甚，行道不通。伪将董学礼，奉权将军命，率兵南下。伪将白某往天津，一路催饷，而北直等处，皆有大小智勇果毅伪将军分驻。</p>
+<p>　　初六癸亥</p>
+<p>　　李自成召父老至武英殿，问民间疾苦。济南抚标中军梅某、推官钟性、扑杀之。甲乙史云自杀。</p>
+<p>　　初七甲子</p>
+<p>　　武定州东南市皆贼。</p>
+<p>　　初八乙丑</p>
+<p>　　滨州城外皆贼，杀人如麻，行乞不免。</p>
+<p>　　初九丙寅</p>
+<p>　　马部将庄朝梁劫单县为民所杀。</p>
+<p>　　初十丁卯</p>
+<p>　　贼盘禄米仓，并大通桥光禄寺等仓，凡积米俱见数造册。</p>
+<p>　　十一日戊辰杀勋戚大臣</p>
+<p>　　初四日，贼闻东师日进，惧甚？躬叩刘宗敏、李牟求其出御。刘、李耽乐已久，殊无斗志；逆闯乃下令，十三日亲征，至是东行之期已定。取勋戚大臣皆杀之。于是，内阁陈演、定国徐允祯等，诸戚畹官，都指挥以上，锦衣堂上官，俱死。方岳贡、邱瑜予绳自缢。以戚畹女妇配给军卒。又押诸系官，至宗敏寓前，累累坐于路侧，徐次取杀。一内官自言输银千两、金九十两，亦杀之。三鼓乃释。</p>
+<p>　　十二己巳自成东行</p>
+<p>　　李自成出正阳门，太子衣绿随后，马尾相衔，刘宗敏继后，惟留李牟、牛金星守京师。</p>
+<p>　　十四日辛未</p>
+<p>　　西长安街，有私示云：明朝天数未尽，人思效忠，于本月二十，立东宫为帝，改元义兴。初，刘宗敏尝诛私示处居民数十家，今粘贴黄墙上无所用，由是戒惧，密闻于自成。</p>
+<p>　　大事记云：山东高苑县知县苏方，秦之汉中人，颇有智略，阴养死士二百名，图南渡。方在秦两战，自成中其肋，告人以李贼不足为，又言秦缙绅士为贼辱，皆如都中云。</p>
+<p>　　十五壬申</p>
+<p>　　李自成至密云。何瑞征以望日参牛金星。金星谕讹言四起，各自谨惧，无事少出。由是降官皆生悔心，人思窃逃矣。</p>
+<p>　　大事记云：新城土贼王铭盘，以数千横行韩家树一带，道路为梗。是时韩、王、张三姓，举义合兵，得数千人，事稍迟，闻贼猝至，乃掠舟西行入海。</p>
+<p>　　十六癸酉载金入秦</p>
+<p>　　贼拘银匠数百人，凡所掠金银，俱倾成大砖，以骡马骆驼驮往陕西。旧有镇库金，积年不用者，三千七百万锭，锭皆五百两，镌有永乐字，每驮二锭，不用包裹。谈迂曰：三千七百万锭，损其奇零，即可两年加派，乃今日考成，明日搜括，海内骚然，而扃钥如故，岂先帝未睹遗籍耶？不胜追慨矣。</p>
+<p>　　予谓果有如此多金，须骡马一千八百五十万方可载之，即循环交负，亦非计月可毕，则知斯言未可信也。</p>
+<p>　　十七甲戌</p>
+<p>　　李自成至永平。总督王永吉以三十骑，戎装乘马间道南下。癸未进士王道成，山西平杨县人，城破降贼，贼授青州防御使，单骑到任，城中人皆请命，相视不敢动。时衡藩尚在城，百姓自乱，无能拥卫者。</p>
+<p>　　十九丙子</p>
+<p>　　东报益急，留守贼于京城内，大搜兵器，由是城门益严。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13692.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13694.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+管子·霸形_古诗文网
+</title>
+<meta content="桓公在位，管仲、隰朋见。立有间，有贰鸿飞而过之。桓公叹曰：“仲父，今彼鸿鹄有时而南，有时而北，有时而往，有时而来，四方无远，所欲至而至焉，非唯有羽翼之故，是以能通其意于天下乎？”管" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3599.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2254" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>霸形</b></span>
+<a href="javascript:PlayBookv(3599)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3599" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2254)" id="leftbtn2254" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3599" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ae%a1%e4%bb%b2%e5%8f%8a%e9%97%a8%e5%be%92">管仲及门徒</a></p>
+<div class="contson">
+<p>　　桓公在位，管仲、隰朋见。立有间，有贰鸿飞而过之。桓公叹曰：“仲父，今彼鸿鹄有时而南，有时而北，有时而往，有时而来，四方无远，所欲至而至焉，非唯有羽翼之故，是以能通其意于天下乎？”管仲、隰朋不对。桓公曰：“二子何故不对？”管子对曰：“君有霸王之心，而夷吾非霸王之臣也，是以不敢对。”桓公曰：“仲父胡为然？盍不当言，寡人其有乡乎？？寡人之有仲父也，犹飞鸿之有羽翼也，若济大水有舟楫也。仲父不一言教寡人，寡人之有耳，将安闻道而得度哉。”管子对曰：“君若将欲霸王举大事乎？则必从其本事矣。”桓公变躬迁席，拱手而问曰：“敢问何谓其本？”管子对曰：“齐国百姓，公之本也。人甚忧饥，而税敛重；人甚惧死，而刑政险；人甚伤劳，而上举事不时。公轻其税敛，则人不忧饥；缓其刑政，则人不惧死；举事以时，则人不伤劳。”桓公曰：“寡人闻仲父之言此三者，闻命矣，不敢擅也，将荐之先君。”于是令百官有司，削方墨笔。明日，皆朝于太庙之门朝，定令于百吏。使税者百一钟，孤幼不刑，泽梁时纵，关讥而不征，市书而不赋；近者示之以忠信，远者示之以礼义。行此数年，而民归之如流水。</p>
+<p>　　此其后，宋伐杞，狄伐邢、卫。桓公不救，裸体纫胸称疾。召管仲曰：“寡人有千岁之食，而无百岁之寿，今有疾病，姑乐乎！”管子曰：“诺。”于是令之县钟磬之榬，陈歌舞竽瑟之乐，日杀数十牛者数旬。群臣进谏曰：“宋伐杞，狄伐邢、卫，君不可不救。”桓公曰：“寡人有千岁之食，而无百岁之寿，今又疾病，姑乐乎！且彼非伐寡人之国也，伐邻国也，子无事焉。”宋已取杞，狄已拔邢、卫矣。桓公起，行笋虡之间，管子从。至大钟之西，桓公南面而立，管仲北乡对之，大钟鸣。桓公视管仲曰：“乐夫，仲父？”管子对曰：“此臣之所谓哀，非乐也。臣闻之，古者之言乐于钟磬之间者不如此。言脱于口，而令行乎天下；游钟磬之间，而无四面兵革之忧。今君之事，言脱于口，令不得行于天下；在钟磬之间，而有四面兵革之忧。此臣之所谓哀，非乐也。”桓公曰：“善。”于是伐钟磬之县，并歌舞之乐。宫中虚无人。桓公曰：“寡人以伐钟磬之县，并歌舞之乐矣，请问所始于国，将为何行？”管子对曰：“宋伐杞，狄伐邢、卫，而君之不救也，臣请以庆。臣闻之，诸侯争于强者，勿与分于强。今君何不定三君之处哉？”于是桓公曰：“诺。”因命以车百乘、卒千人，以缘陵封杞；车百乘、卒千人，以夷仪封邢；车五百乘、卒五千人，以楚丘封卫。桓公曰：“寡人以定三君之居处矣，今又将何行？”管子对曰：“臣闻诸侯贪于利，勿与分于利。君何不发虎豹之皮、文锦以使诸侯，令诸侯以缦帛鹿皮报？”桓公曰：“诺。”于是以虎豹皮、文锦使诸侯，诸侯以缦帛、鹿皮报。则令固始行于天下矣。此其后，楚人攻宋、郑。烧焫熯焚郑地，使城坏者不得复筑也，屋之烧者不得复葺也；令其人有丧雌雄，居室如鸟鼠处穴。要宋田，夹塞两川，使水不得东流，东山之西，水深灭垝，四百里而后可田也。楚欲吞宋、郑而畏齐，曰思人众兵强能害己者，必齐也。于是乎楚王号令于国中曰：“寡人之所明于人君者，莫如桓公；所贤于人臣者，莫如管仲。明其君而贤其臣，寡人愿事之。谁能为我交齐者，寡人不爱封侯之君焉。”于是楚国之贤士皆抱其重宝币帛以事齐。桓公之左右，无不受重宝币帛者。于是桓公召管仲曰：“寡人闻之，善人者人亦善之。今楚王之善寡人一甚矣，寡人不善，将拂于道。仲父何不遂交楚哉？”管子对曰：“不可。楚人攻宋、郑，烧焫熯焚郑地，使城坏者不得复筑也，屋之烧者不得复葺也，令人有丧雌雄，居室如鸟鼠处穴。要宋田，夹塞两川，使水不得东流，东山之西，水深灭垝，四百里而后可田也。楚欲吞宋。郑，思人众兵强而能害己者，必齐也。是欲以文克齐，而以武取宋、郑也，楚取宋、郑而不知禁，是失宋、郑也；禁之，则是又不信于楚也。知失于内，兵困于外，非善举也。”桓公曰：“善。然则若何？”管子对曰：“请兴兵而南存宋、郑，而令曰：‘无攻楚，言与楚王遇。’至于遇上，而以郑城与宋水为请，楚若许，则是我以文令也；楚若不许，则遂以武令焉。”桓公曰：“善。”于是遂兴兵而南存宋、郑，与楚王遇于召陵之上，而令于遇上曰：“毋贮粟，毋曲堤，无擅废嫡子，无置妾以为妻。”因以郑城与宋水为请于楚，楚人不许。遂退七十里而舍。使军人城郑南之地，立百代城焉。曰：自此而北至于河者，郑自城之，而楚不敢隳也。东发宋田，夹两川，使水复东流，而楚不敢塞也。遂南伐，及逾方城，济于汝水，望汶山，南致楚越之君，而西伐秦，北伐狄，东存晋公于南，北伐孤竹，还存燕公。兵车之会六，乘车之会三，九合诸侯，反位已霸。修钟磬而复乐。管子曰：“此臣之所谓乐也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3598.aspx">上一章</a>
+<a href="/guwen/book_34.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3600.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2254" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

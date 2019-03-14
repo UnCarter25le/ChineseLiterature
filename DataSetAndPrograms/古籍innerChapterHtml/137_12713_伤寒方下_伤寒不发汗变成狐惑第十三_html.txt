@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·伤寒方下·伤寒不发汗变成狐惑第十三_古诗文网
+</title>
+<meta content="（论一首 方三首）论曰∶狐惑之病，其气如伤寒默默然欲眠目不得闭，起卧不安。其毒在咽喉为惑病，在阴肛为狐病，狐惑之病并恶饮食闻食臭，其面目翕赤、翕白、翕黑，毒食于上者则声喝也（喝一作" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12713.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>伤寒方下·伤寒不发汗变成狐惑第十三</b></span>
+<a href="javascript:PlayBookv(12713)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12713" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12713" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p><span style="font-family:FangSong_GB2312;">　　（论一首 方三首）</span></p>
+<p>　　论曰∶狐惑之病，其气如伤寒默默然欲眠目不得闭，起卧不安。其毒在咽喉为惑病，在阴肛为狐病，狐惑之病并恶饮食闻食臭，其面目翕赤、翕白、翕黑，毒食于上者则声喝也（喝一作嗄），毒食下部者则干咽也，此由温毒瓦斯所为。食于上者泻心汤主之，食于下者苦参汤淹洗之，食于肛外者熏之，并用雄黄三片稍置瓦瓶中，炭火烧，向肛熏之并服汤也。</p>
+<p>　　<strong>治狐惑汤方∶</strong></p>
+<p>　　黄连（四两） 熏草（四两）</p>
+<p>　　上二味 咀，白酢浆一斗渍一宿，煮取二升，分三服。</p>
+<p>　<strong>　赤小豆当归散<br/></strong>　　<strong>其人脉数，无热微烦，默默但欲卧，汗出，初得之三四日目赤如鸠眼，得之七八日其四 黄黑，能食者脓已成也，治之之方。</strong></p>
+<p>　　以赤小豆三升渍之，令生牙足，乃复干之，加当归三两为末，浆水服方寸匕，日三，即愈。</p>
+<p>　<strong>　泻心汤<br/></strong>　　其病形不可攻，不可灸。因火为邪，血散脉中，伤脉尚可，伤脏则剧，井输益肿黄汁出，经合外烂，肉腐为痈脓，此为火疽，医所伤也。夫脉数者不可灸，因火为邪，即为烦，因虚逐实血走脉中，火气虽微，内攻有力，焦骨伤筋血难复也，应在泻心。泻心汤兼治下痢不止，腹中 坚而呕吐，肠鸣者方。</p>
+<p>　　半夏（半升） 黄芩 人参 干姜（各三两） 黄连（一两） 甘草（三两） 大枣（十二枚）</p>
+<p>　　上七味 咀，以水一斗煮取六升，分服一升，日三。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12712.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12714.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+历代兵制·王莽_古诗文网
+</title>
+<meta content="莽夺民田为王田，仿古井牧，置五威将帅七十二人分镇天下，而命十二将帅偏裨以下百八十人专事北伐。又以七公六卿兼号将军填名都，中郎将、绣衣执法各五十五人分填边郡，而内置司命军正，外设军监" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20019.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>王莽</b></span>
+<a href="javascript:PlayBookv(20019)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20019" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20019" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%88%e5%82%85%e8%89%af">陈傅良</a></p>
+<div class="contson">
+<p>　　莽夺民田为王田，仿古井牧，置五威将帅七十二人分镇天下，而命十二将帅偏裨以下百八十人专事北伐。又以七公六卿兼号将军填名都，中郎将、绣衣执法各五十五人分填边郡，而内置司命军正，外设军监十二人。又依《周官》之文，分六乡、六尉、六郊、六队（音遂），乡一帅，尉一大夫，郊一州长，队一大夫、属正。又内置大夫，外置大司马五人。将军至吏士，凡七十三万八千九百人。仍赐州牧及县宰皆兼将军、偏裨、校尉之号，又有猪突、狶勇、锐卒、虎牙、五威兵、竟（音境）尉、九虎将军、捕盗都尉之属，置辄不罢，盖不可胜数。</p>
+<p>　　（按：）三代国容不入军，军容不入国。《仪礼》：吉、凶、宾、嘉，达于天下，而军礼独载于大司马法。若国有师田之事，则县师始受法于司马，以作民。六官亦惟小司马职掌不悉书，而军司马、舆司马、行司马皆不备官，有事斯置。其不欲观兵盖如是。自秦以战马为爵，卒已自毙，而王莽又滋彰焉。凡公卿至于守宰，皆兼将校之称。一切募兵，号为猪狶，征天下明兵士六十三家数百人，以备军吏。所以示民，无非逆德凶器。顾方疑天下之轧，已重弩铠之禁。吝虎符之发，求以为安，而绿林、新市群盗已起，海内豪杰皆杀其牧守，自称将军。旬月之间，遍于天下，败亡之祸，速于暴秦，可不戒哉！</p>
+<p>　　莽兵大抵因汉，而纷更其制，不一统属，民不堪扰。又务自揽权，虽遣将不与兵符，必请而后动。其伐边乃欲同时俱出，至久屯者数年，常二十余万人仰给县官，野有暴骨。而京师卫卒，亦三岁不得更代。由是民怨益作，莽遂大败。</p>
+<p>　　案：莽昆阳之战，州郡各选精兵，牧守自将定会者四十二万人，余在道者千里不绝，其它拥众累数十万者通天下。盖汉自武帝征伐之后，数世涵育，不见烟火之警。迨及始、元之间，民户一千三百二十三万有奇，是以郡国甲士所在而足。及寻邑大败，尽弃山东之众，北军精兵号九虎者尚数万人，亦可以见汉家养民强国之制。然自莽俶扰，干戈竞作。至于光武还定郡县，或空置守长。中元末年，方才四百二十七万，十余一二，无复曩时之盛矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20018.aspx">上一章</a>
+<a href="/guwen/book_272.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20020.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

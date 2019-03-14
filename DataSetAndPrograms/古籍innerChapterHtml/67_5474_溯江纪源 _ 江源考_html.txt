@@ -1,0 +1,113 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+徐霞客游记·溯江纪源 / 江源考_古诗文网
+</title>
+<meta content="江、河（指长江、黄河）为南北二经流主要河流，以其特达于海也。而余邑正当大江入海之冲，邑以江名，亦以江之势至此而大且尽也。生长其地者，望洋击楫，知其大，不知其远；溯流穷源，知其远者，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5474.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4885" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>溯江纪源 / 江源考</b></span>
+<a href="javascript:PlayBookv(5474)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5474" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4885)" id="leftbtn4885" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5474" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%bc%98%e7%a5%96">徐弘祖</a></p>
+<div class="contson">
+<p>　　江、河（指长江、黄河）为南北二经流主要河流，以其特达于海也。而余邑正当大江入海之冲，邑以江名，亦以江之势至此而大且尽也。</p>
+<p>　　生长其地者，望洋击楫，知其大，不知其远；溯流穷源，知其远者，亦以为发源岷山而已。余初考纪籍，见大河即黄河自积石入中国。</p>
+<p>　　溯其源者，前有博望之乘槎ｃｈá筏子，后有都实之佩金虎符。其言不一，皆云在昆仑之北，计其地，去岷山西北万余里，何江源短而河源长也？岂河之大更倍于江乎？</p>
+<p>　　迨逾淮涉汴，而后睹河流如带，其阔不及江三之一，岂江之大，其所入之水，不及于河乎？迨北历三秦（甘肃，陕西交界处），南极五岭，西出石门、金沙，而后知中国入河之水为省五，陕西、山西、河南、山东、南直隶。入江之水为省十一。</p>
+<p>　　西北自陕西、四川、河南、湖广、南直，西南自云南、贵州、广西、广东、福建、浙江。计其吐纳，江既倍于河，其大固宜也。</p>
+<p>　　按其发源，河自昆仑之北，江亦自昆仑之南，其远亦同也。</p>
+<p>　　发于北者曰星宿海，佛经谓之徙多河。北流经积石，始东折入宁夏，为河套，又南曲为龙门大河，而与渭渭河合。发于南者曰犁牛石，佛经谓之殑伽河。</p>
+<p>　　南流经石门关，始东折而入丽江，为金沙江，又北曲为叙州大江，与岷山之江合。余按岷江经成都至叙今之宜宾，不及千里，金沙江经丽江、云南、乌蒙至叙，共二千余里，舍远而宗近，岂其源独与河异乎？</p>
+<p>　　非也！</p>
+<p>　　河源屡经寻讨，故始得其远；江源从无问津，故仅宗其近。其实岷之入江，与渭之入河，皆中国之支流，而岷江为舟楫所通，金沙江盘折蛮僚谿峒间，水陆俱莫能溯。</p>
+<p>　　在叙州者，只知其水出于马湖、乌蒙，而不知上流之由云南、丽江；在云南、丽江者，知其为金沙江而不知下流之出叙为江源。云南亦有二金沙江：一南流北转，即此江，乃佛经所谓殑伽河也；一南流下海，即王靖远征麓川，缅人恃以为险者，乃佛经所谓信度河也。云南诸志，俱不载其出入之异，互相疑溷同“混”，尚不悉其是一是二，分北分南，又何由辨其为源与否也。既不悉其孰远孰近，第见《禹贡》“岷山导江”之文，遂以江源归之，而不知禹之导，乃其为害于中国之始，非其滥觞发脉之始也。导河自积石，而河源不始于积石；导江自岷山，而江源亦不出于岷山。</p>
+<p>　　岷流入江，而未始为江源，正如渭流入河，而未始为河源也。</p>
+<p>　　不第此也，岷流之南，又有大渡河，西自吐蕾，经黎、雅与岷江合，在金沙江西北，其源亦长于岷而不及金沙，故推江源者，必当以金沙为首。</p>
+<p>　　不第此也：宋儒谓中国三大龙，而南龙之脉，亦自岷山，濒大江南岸而下，东渡城陵、湖口而抵金陵，此亦不审大渡、金沙之界断其中也。不第此也：并不审城陵矶、湖口县为洞庭、鄱阳二巨浸入江之口。洞庭之西源自沅，发于贵州之谷芒关；南源自湘，发于粤西之釜山、龙庙。鄱阳之南源自赣，发于粤东之浰头、平远；东源自信丰，发于闽之渔梁山、浙之仙霞南岭。是南龙盘曲去江之南且三千里，而谓南龙濒江乎？不第此也：不审龙脉，所以不辨江源。今详三龙大势，北龙夹河之北，南龙抱江之南，而中龙中界之，特短。</p>
+<p>　　北龙亦只南向半支入中国。</p>
+<p>　　俱另有说。</p>
+<p>　　惟南龙磅礴半宇内，而其脉亦发于昆仑，与金沙江相持南下，经石门丽江，东金沙，西澜沧，二水夹之。环滇池之南，由普定度贵竺、都黎南界，以趋五岭。龙远江亦远，脉长源亦长，此江之所以大于河也。</p>
+<p>　　不第此也：南龙自五岭东趋闽之渔梁，南散为闽省之鼓山，东分为浙之台、宕。正脉北转为小筸岭，闽浙界。度草坪驿，江浙界。峙为浙岭、徽浙界。黄山，徽宁界。而东抵丛山关，绩溪、建平界。</p>
+<p>　　东分为天目、武林。正脉北度东坝，而峙为句曲，于是回龙西结金陵，余脉东趋余邑。是余邑不特为大江尽处，亦南龙尽处也。龙与江同发于昆仑，同尽于余邑，屹为江海锁钥，以奠金陵，拥护留都千载不拔之基以此。岂若大河下流，昔曲而北趋碣石，今徙而南夺淮、泗，漫无锁钥耶？然则江之大于河者，不第其源之共远，亦以其龙之交会矣。</p>
+<p>　　故不探江源，不知其大于河；不与河相提而论，不知其源之远。谈经流者，先南而次北可也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5473.aspx">上一章</a>
+<a href="/guwen/book_67.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4885" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+圆觉经·普贤菩萨_古诗文网
+</title>
+<meta content="于是，普贤菩萨在大众中，即从座起，顶礼佛足，右绕三匝，长跪叉手，而白佛言：“大悲世尊，愿为此会诸菩萨众，及为末世一切众生修大乘者，闻此圆觉清净境界，云何修行？世尊，若彼众生知如幻者" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13953.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>普贤菩萨</b></span>
+<a href="javascript:PlayBookv(13953)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13953" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13953" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9b%e9%99%80%e5%a4%9a%e7%bd%97%e8%af%91">佛陀多罗译</a></p>
+<div class="contson">
+<p>　　于是，普贤菩萨在大众中，即从座起，顶礼佛足，右绕三匝，长跪叉手，而白佛言：“大悲世尊，愿为此会诸菩萨众，及为末世一切众生修大乘者，闻此圆觉清净境界，云何修行？世尊，若彼众生知如幻者，身心亦幻，云何以幻还修于幻？若诸幻性一切尽灭，则无有心，谁为修行？云何复说修行如幻？若诸众生本不修行，于生死中常居幻化，曾不了知如幻境界，令妄想心云何解脱？愿为末世一切众生，作何方便，渐次修习，令诸众生永离诸幻？”作是语已，五体投地，如是三请，终而复始。 </p>
+<p>　　尔时，世尊告普贤菩萨言：“善哉！善哉！善男子，汝等乃能为诸菩萨及末世众生，修习菩萨如幻三昧，方便渐次，令诸众生得离诸幻。汝今谛听，当为汝说。”时普贤菩萨奉教欢喜，及诸大众默然而听。 </p>
+<p>　　“善男子，一切众生种种幻化，皆生如来圆觉妙心。犹如空华从空而有，幻华虽灭，空性不坏；众生幻心还依幻灭，诸幻尽灭，觉心不动。依幻说觉，亦名为幻；若说有觉，犹未离幻；说无觉者，亦复如是。是故幻灭，名为不动。 </p>
+<p>　　“善男子，一切菩萨及末世众生，应当远离一切幻化虚妄境界。由坚执持远离心故，心如幻者，亦复远离；远离为幻，亦复远离；离远离幻，亦复远离。得无所离，即除诸幻。譬如钻火，两木相因，火出木尽，灰飞烟灭；以幻修幻，亦复如是。诸幻虽尽，不入断灭。 </p>
+<p>　　“善男子，知幻即离，不作方便；离幻即觉，亦无渐次。一切菩萨及末世众生，依此修行，如是乃能永离诸幻。” </p>
+<p>　　尔时，世尊欲重宣此义，而说偈言： </p>
+<p>　　“普贤汝当知： 一切诸众生，<br/>　　无始幻无明， 皆从诸如来， <br/>　　圆觉心建立。 犹如虚空华， <br/>　　依空而有相， 空华若复灭， <br/>　　虚空本不动； 幻从诸觉生， <br/>　　幻灭觉圆满， 觉心不动故。 <br/>　　若彼诸菩萨， 及末世众生， <br/>　　常应远离幻， 诸幻悉皆离。 <br/>　　如木中生火， 木尽火还灭， <br/>　　觉则无渐次， 方便亦如是。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13952.aspx">上一章</a>
+<a href="/guwen/book_156.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13954.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

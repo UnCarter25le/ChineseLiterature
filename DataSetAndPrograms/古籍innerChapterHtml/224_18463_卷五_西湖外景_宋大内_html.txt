@@ -1,0 +1,126 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷五·西湖外景·宋大内_古诗文网
+</title>
+<meta content="《宋元拾遗记》：高宗好耽山水，于大内中更造别院，曰小西湖。自逊位后，退居是地，奇花异卉，金碧辉煌，妇寺宫娥充斥其内，享年八十有一。按钱武肃王年亦八十一，而高宗与之同寿，或曰高宗即武" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18463.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·西湖外景·宋大内</b></span>
+<a href="javascript:PlayBookv(18463)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18463" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18463" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　《宋元拾遗记》：高宗好耽山水，于大内中更造别院，曰小西湖。自逊位后，退居是地，奇花异卉，金碧辉煌，妇寺宫娥充斥其内，享年八十有一。按钱武肃王年亦八十一，而高宗与之同寿，或曰高宗即武肃后身也。《南渡史》又云：徽宗在汴时，梦钱王索还其地，是日即生高宗，后果南渡，钱王所辖之地，尽属版图。畴昔之梦，盖不爽矣。元兴，杨琏真伽坏大内以建五寺，曰报国，曰兴元，曰般若，曰仙林，曰尊胜，皆元时所建。按志，报国寺即垂拱殿，兴元即芙蓉殿，般若即和宁门，仙林即延和殿，尊胜即福宁殿。雕梁画栋，尚有存者。白塔计高二百丈，内藏佛经数十万卷，佛像数千，整饰华靡。取宋南渡诸宗骨殖，杂以牛马之骼，压于塔下，名以镇南。未几，为雷所击，张士诚寻毁之。</p>
+<p>　　谢皋羽《吊宋内》诗：</p>
+<p>　　复道垂杨草乱交，武林无树是前朝。</p>
+<p>　　野猿引子移来宿，搅尽花间翡翠巢。</p>
+<p>　　隔江风雨动诸陵，无主园林草自春。</p>
+<p>　　闻说光尧皆堕泪，女官犹是旧宫人。</p>
+<p>　　紫宫楼阁逼流霞，今日凄凉佛子家。</p>
+<p>　　寒照下山花雾散，万年枝上挂袈裟。</p>
+<p>　　禾黍何人为守阍，落花台殿暗销魂。</p>
+<p>　　朝元阁下归来燕，不见当时鹦鹉言。</p>
+<p>　　黄晋卿《吊宋内》诗：</p>
+<p>　　沧海桑田事渺茫，行逢遗老叹荒凉。</p>
+<p>　　为言故国游麋鹿，漫指空山号凤凰。</p>
+<p>　　春尽绿莎迷辇道，雨多苍翠上宫墙。</p>
+<p>　　遥知汴水东流畔，更有平芜与夕阳。</p>
+<p>　　赵孟《宋内》诗：</p>
+<p>　　东南都会帝王州，三月莺花非旧游。</p>
+<p>　　故国金人愁别汉，当年玉马去朝周。</p>
+<p>　　湖山靡靡今犹在，江水茫茫只自流。</p>
+<p>　　千古兴亡尽如此，春风麦秀使人愁。</p>
+<p>　　刘基《宋大内》诗：</p>
+<p>　　泽国繁华地，前朝此建都。青山弥百粤，白水入三吴。</p>
+<p>　　艮岳销王气，坤灵肇帝图。两宫千里恨，九子一身孤。</p>
+<p>　　设险凭天堑，偷安负海隅。云霞行殿起，荆棘寝园芜。</p>
+<p>　　币帛敦和议，弓刀抑武夫。但闻当伫奏，不见立廷呼。</p>
+<p>　　鬼蜮昭华衮，忠良赐属镂。何劳问社稷，且自作欢娱。</p>
+<p>　　亢稻来吴会，龟鼋出巨区。至尊巍北阙，多士乐西湖。</p>
+<p>　　?首驰文舫，龙鳞舞绣襦。暖波摇襞积，凉月浸氍毹。</p>
+<p>　　紫桂秋风老，红莲晓露濡。巨螯擎拥剑，香饭漉雕胡。</p>
+<p>　　蜗角乾坤大，鳌头气势殊。秦庭迷指鹿，周室叹瞻乌。</p>
+<p>　　玉马违京辇，铜驼掷路衢。含容天地广，养育羽毛俱。</p>
+<p>　　橘柚驰包贡，涂泥赋上腴。断犀埋越棘，照乘走隋珠。</p>
+<p>　　吊古江山在，怀今岁月逾。鲸鲵空渤?，歌咏已唐虞。</p>
+<p>　　鸱革愁何极，羊裘钓不迂。征鸿暮南去，回首忆莼鲈。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18462.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18464.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

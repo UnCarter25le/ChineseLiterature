@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷二·论支元六合_古诗文网
+</title>
+<meta content="夫合者，和也，乃阴阳相和，其气自合。子寅辰午申戌六者为阳，丑卯已未酉亥六者为阴，是以一阴一阳和而谓之合。子合丑，寅合亥，却不子合亥，寅合丑，夫何故？造物中虽是阴阳为合，气数中要占阳" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16365.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·论支元六合</b></span>
+<a href="javascript:PlayBookv(16365)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16365" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16365" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　夫合者，和也，乃阴阳相和，其气自合。子寅辰午申戌六者为阳，丑卯已未酉亥六者为阴，是以一阴一阳和而谓之合。子合丑，寅合亥，却不子合亥，寅合丑，夫何故？造物中虽是阴阳为合，气数中要占阳气为尊，子为一阳，丑为二阴，一二成三数；寅为三阳，亥是六阴，三六成九数；卯为四阳，戌是五阴，四五得九数；辰为五阳，酉为四阴，五四得九数；巳为六阳，申为三阴，六三得九数；午为一阳，未为二阴，一二得三数。子丑午未各得三者，三生万物，余皆得九者，乃阳数极也。</p>
+<p>　　夫合有合禄、合马、合贵之说。珞录子云：是从无而立有，谓见不见之形也。从无立有，喻如甲生人以寅为禄，不见寅而见亥，谓之合禄；寅生人以申为马，不见申而见巳，谓之合马；甲戌庚人以丑未为贵，不见丑未而见子午，谓之合贵。经云：明合不如暗合，拱实不拱虚。此之谓也。《天元变化书》云：子合丑福轻，丑合子福盛；寅合亥福清，亥合寅福慢；戌合卯福虚，卯合戌福厚；辰合酉福弱，酉合辰大利；午合未福慢，未合午大利；已合申福慢，申合巳官气盛。如甲午辛未只是身旺，却命禄弱，如乙未壬午虽禄弱粗得。又曰：男子忌合绝，女人忌合贵。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16364.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16366.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

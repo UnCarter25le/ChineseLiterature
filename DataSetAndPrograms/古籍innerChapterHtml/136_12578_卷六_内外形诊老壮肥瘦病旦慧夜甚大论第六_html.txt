@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷六·内外形诊老壮肥瘦病旦慧夜甚大论第六_古诗文网
+</title>
+<meta content="黄帝问曰∶人之生也，有刚有柔，有弱有强，有短有长，有阴有阳，愿闻其方？岐伯对曰∶阴中有阳，阳中有阴，审知阴阳，刺之有方，得病所始，刺之有理，谨度病端，与时相应，内合于五脏六腑，外合" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12578.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·内外形诊老壮肥瘦病旦慧夜甚大论第六</b></span>
+<a href="javascript:PlayBookv(12578)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12578" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12578" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　黄帝问曰∶人之生也，有刚有柔，有弱有强，有短有长，有阴有阳，愿闻其方？岐伯对曰∶阴中有阳，阳中有阴，审知阴阳，刺之有方，得病所始，刺之有理，谨度病端，与时相应，内合于五脏六腑，外合于筋骨皮肤。是故内有阴阳，外有阴阳。在内者，五脏为阴，六腑为阳；在外者，筋骨为阴，皮肤为阳。故曰病在阴之阴者，刺阴之荥俞；病在阳之阳者，刺阳之合；病在阳之阴者，刺阴之经；病在阴之阳者，刺阳之络。病在阳者名曰风，病在阴者名曰痹，阴阳俱病名曰风痹。病有形而不痛者，阳之类；无形而痛者，阴之类。</p>
+<p>　　无形而痛者，其阳完（《九墟》完作缓，下同）而阴伤，急治其阳。无攻其阴（《九墟》作急治其阴，无攻其阳）；有形而不痛者，其阴完而阳伤，急治其阴，无攻其阳（《九墟》作急治其阳，无攻其阴）。阴阳俱动，乍有乍无，加以烦心，名曰阴胜其阳，此谓不表不里，其形不久也。曰∶形气病之先后，内外之应奈何？曰∶风寒伤形，忧恐忿怒伤气。气伤脏，乃病脏；寒伤形，乃应形；风伤筋脉，筋脉乃应。此形气内外之相应也。曰∶刺之奈何？曰∶病九日者，三刺而已。病一月者，十刺而已。多少远近，以此衰之。久痹不去身者，视其血络，尽去其血。曰∶外内之病，难易之治奈何？曰∶形先病而未入脏者，刺之半其日；脏先病而形乃应者，刺之倍其日，此外内难易之应也。</p>
+<p>　　曰∶何以知其皮肉血气筋骨之病也？曰∶色起两眉间薄泽者，病在皮。唇色青黄赤白黑者，病在肌肉。营气濡然者，病在血气（《千金翼》方作脉）目色青黄赤白黑者，病在筋。耳焦枯受尘垢者，病在骨。曰∶形病何如，取之奈何？曰∶皮有部，肉有柱，气血有俞（《千金翼》下有筋有结），骨有属。皮之部俞在于四末。肉之柱在臂 诸阳肉分间，与足少阴分间。气血之俞在于诸络脉，气血留居，则盛而起。筋部无阴无阳，无左无右，候病所在。骨之属者骨空之所以受液而溢脑髓者也。曰∶取之奈何？曰夫病之变化，浮沉浅深，不可胜穷，各在其处。病间者浅之，甚者深之，间者少之，甚者众之。随变而调气，故曰上工也。曰∶人之肥瘦小大寒温，有老壮少小之别奈何？曰∶人年五十以上为老，三十以上为壮，十八以上为少，六岁以上为小。曰∶何以度其肥瘦？曰∶人有脂，有膏，有肉。曰∶别此奈何？曰∶ 肉坚，皮满者，脂。 肉不坚，皮缓者，膏。皮肉不相离者，肉。曰∶身之寒温何如？曰∶膏者其肉淖，而粗理者身寒，细理者身热。脂者其肉坚，细理者和（《灵》作热），粗理者，寒。（少肉者寒温之症未详）曰∶其肥瘦大小奈何？曰∶膏者，多气而皮纵缓，故能纵腹垂腴。肉者，身体容大。脂者，其身收小。曰∶三者之气血多少何如？曰∶膏者多气，多气者热，热者耐寒也。肉者多血，多血者则形充，形充者则平也。脂者，其血清，气滑少，故不能大。此别于众人也。曰∶众人如何？曰∶众人之皮肉脂膏不能相加也，血与气不能相多也，故其形不小不大，各自称其身，名曰众人。曰∶治之奈何？曰∶必先别其五形，血之多少，气之清浊，而后调之，治无失常经。是故膏人者纵腹垂腴，肉人者上下容大，脂人者虽脂不能大。曰∶病者多以旦慧昼安，夕加夜甚者，何也？曰∶春生夏长，秋收冬藏，是气之常也人。亦应之，以一日一夜分为四时之气，朝为春，日中为夏，日入为秋，夜为冬。朝则人气始生，病气衰，故旦慧；日中则人气长，长则胜邪，故安；夕则人气始衰，邪气始生，故加；夜半人气入脏，邪气独居于身，故甚。曰∶其时有反者何也？曰∶是不应四时之气，脏独主其病者，是必以脏气之所不胜时者甚，以其所胜时者起也。曰∶治之奈何？曰∶顺天之时，而病可与期。顺者为工，逆者为粗也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12577.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12579.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·伤寒方下·百合第十二_古诗文网
+</title>
+<meta content="（论二首 方七首）论曰∶百合病者，谓无经络百脉一宗悉致病也。皆因伤寒虚劳，大病已后不平复，变成斯病。其状恶寒而呕者，病在上焦也，二十三日当愈。其状腹满、微喘、大便坚，三四日一大便，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12712.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>伤寒方下·百合第十二</b></span>
+<a href="javascript:PlayBookv(12712)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12712" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12712" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（论二首 方七首）</span></p>
+<p>　　论曰∶百合病者，谓无经络百脉一宗悉致病也。皆因伤寒虚劳，大病已后不平复，变成斯病。其状恶寒而呕者，病在上焦也，二十三日当愈。其状腹满、微喘、大便坚，三四日一大便，时复小溏者，病在中焦也，六十三日当愈。其状小便淋沥难者，病在下焦也，三十三日当愈。各随其证以治之。百合之为病令人意欲食，复不能食，或有美时，或有不用闻饮食臭时，如有寒其实无寒，如有热其实无热，常默默欲卧复不得眠，至朝口苦小便赤涩，欲行复不能行，诸药不能治，治之即剧吐利，如有神灵所为也。百合病身形如和其脉微数，其候每溺时即觉头痛者，六十日乃愈。百合病候之溺时头不觉痛，淅淅然寒者四十日愈。百合病候之溺时觉快，然但觉头眩者二十日愈。百合病证，其人或未病而预见其候者，或已病四五日而出，或一月二十日后见其候者，治之善误也，根据证治之。</p>
+<p>　　论曰∶百合病见在于阴而攻其阳，则阴不得解也，复发其汗为逆也。见在于阳而攻其阴，则阳不能解也，复下之其病不愈。（《要略》云，见于阳者以阳法救之，见于阴者以阴法解之。见阳攻阴复发其汗，此为逆其病，难治。见阴攻阳乃复下之，此亦为逆其病难治。）</p>
+<p>　　<strong>百合知母汤<br/>　　治百合病已经发汗后更发之方。</strong></p>
+<p>　　百合（七枚，擘） 知母（三两）</p>
+<p>　　上二味，以泉水先洗渍百合一宿，当沫出水中，明旦去水。取百合更以泉水二升煮取一升置之。复取知母切，以泉水二升煮取一升，汁合和百合汁中，复煮取一升半，分再服，不瘥更根据法合服。</p>
+<p>　<strong>　百合滑石代赭汤<br/>　　治百合病下后更发者方。</strong></p>
+<p>　　百合（七枚，擘） 滑石（三两） 代赭（一两）</p>
+<p>　　上三味，先以泉水渍百合一宿，明旦去水，更以泉水二升煮百合取一升，去滓。又以水二升煮余二味，取一升，纳百合汁，如前法复煎取一升半，分再服。</p>
+<p>　　<strong>百合鸡子汤<br/>　　治百合病已经吐后更发者方。</strong></p>
+<p>　　以百合七枚擘渍一宿去汁，以泉水二升煮取一升，取鸡子黄一枚纳汁中，搅令调，分再</p>
+<p>　　<strong>百合地黄汤<br/>　　治百合病始不经发汗吐下，其病如初者方。</strong></p>
+<p>　　以百合七枚擘，渍一宿去汁，以泉水二升煮取一升，纳生地黄汁一升，复煎取一升半，分再服，大盒饭去恶沫为验也。</p>
+<p>　　<strong>治百合病经月不解变成渴者方∶</strong></p>
+<p>　　百合根一升，以水一斗渍一宿，以汁先洗病患身，后食白汤饼，勿与盐豉也，渴不瘥，可用栝蒌根并牡蛎等分为散，饮服方寸匕，日三。</p>
+<p>　　<strong>治百合病变而发热者方∶</strong></p>
+<p>　　百合根（一两，干） 滑石（三两）</p>
+<p>　　上二味治，下筛，饮服方寸匕，日三，当微利，利止勿复服，热即除。（一本云治百合病</p>
+<p>　　<strong>治百合病变腹中满痛者方∶</strong></p>
+<p>　　但取百合根随多少，熬令黄色，捣筛为散，饮服方寸匕，日三，满消痛止。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12711.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12713.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

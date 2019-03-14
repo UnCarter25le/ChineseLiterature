@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+搜神记·卷九_古诗文网
+</title>
+<meta content="后汉中兴初，汝南有应枢者，生四子，而尽见神光照社。枢见光，以问卜人。卜人曰：“此天祥也。子孙其兴乎！”乃探得黄金。自是子孙宦学，并有才名。至玚，七世通显。车骑将军巴郡冯绲，字鸿卿，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4212.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2812" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九</b></span>
+<a href="javascript:PlayBookv(4212)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4212" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2812)" id="leftbtn2812" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4212" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b9%b2%e5%ae%9d">干宝</a></p>
+<div class="contson">
+<p>　　后汉中兴初，汝南有应枢者，生四子，而尽见神光照社。枢见光，以问卜人。卜人曰：“此天祥也。子孙其兴乎！”乃探得黄金。自是子孙宦学，并有才名。至玚，七世通显。</p>
+<p>　　车骑将军巴郡冯绲，字鸿卿，初为议郎，发绶笥，有二赤蛇，可长二尺，分南北走。大用忧怖。许季山孙宪，字宁方，得其先人秘要，绲请使卜。云：“此吉祥也。君后三岁，当为边将，东北四五里，官以东为名。”后五年，从大将军南征，居无何，拜尚书郎，辽东太守，南征将军。常山张颢为梁州牧，天新雨后，有鸟如山鹊，飞翔入市，忽然坠地。人争取之，化为圆石。颢椎破之，得一金印，文曰：“忠孝侯印。”颢以上闻，藏之秘府。后议郎汝南樊衡夷上言：“尧舜时旧有此官。今天降印，宜可复置。”颢后官至太尉。</p>
+<p>　　京兆长安有张氏，独处一室，有鸠自外入，止于床。张氏祝曰：“鸠来，为我祸也，飞上承尘；为我福也，即入我怀。”鸠飞入怀。以手探之，则不知鸠之所在，而得一金钩。遂宝之。自是子孙渐富，资财万倍。蜀贾至长安，闻之，乃厚赂婢，婢窃钩与贾。张氏既失钩，渐渐衰耗！而蜀贾亦数罹穷厄，不为己利。或告之曰：“天命也。不可力求。”于是赉钩以反张氏，张氏复昌。故关西称张氏传钩云。</p>
+<p>　　汉征和三年三月，天大雨，何比干在家，日中，梦贵客车骑满门。觉，以语妻。语未巳，而门有老妪，可八十余，头白，求寄避雨，雨甚，而衣不沾渍。雨止，送至门，乃谓比干曰：“公有阴德，今天锡君策，以广公之子孙。”因出怀中符策，状如简，长九寸，凡九百九十枚，以授比干，曰：“子孙佩印绶者，当如此算。”魏舒，字阳元，任城樊人也。少孤，尝诣野王，主人妻夜产，俄而闻车马之声，相问曰：“男也？女也？”曰：“男。”书之。“十五，以兵死。”复问：“寝者为谁？”曰：“魏公舒，”后十五载，诣主人，问所生童何在？曰：“因条桑，为斧伤而死。”舒自知当为公矣。</p>
+<p>　　贾谊为长沙王太傅，四月庚子日，有鹏鸟飞入其舍，止于坐隅，良久，乃去。谊发书占之，曰：“野鸟入室，主人将去。”谊忌之，故作鵩鸟赋，齐死生而等祸福，以致命定志焉。</p>
+<p>　　王莽居摄，东郡太守翟义，知其将篡汉，谋举义兵。兄宣，教授诸生，满堂。群鹅雁数十在中庭，有狗从外入，啮之，皆死。惊救之，皆断头。狗走出门，求，不知处。宣大恶之。数日，莽夷其三族。</p>
+<p>　　魏司马太傅懿平公孙渊，斩渊父子。先时，渊家数有怪：一犬着冠帻，绛衣，上屋。欻有一儿，蒸死甑中。襄平北市，生肉，长围各数尺，有头、目、口、喙，无手、足，而动摇。占者曰：“有形不成，有体无声，其国灭亡。”吴诸葛恪征淮南，归，将朝会之夜，精爽扰动，通夕不寐。严毕趋出，犬衔引其衣。恪曰：“犬不欲我行耶？”出，仍入坐，少顷，复起，犬又衔衣。恪令从者逐之。及入，果被杀。其妻在室，语使婢曰：“尔何故血臭？”婢曰：“不也。”有顷，愈剧。又问婢曰：“汝眼目瞻视，何以不常？”婢蹶然起跃，头至于栋，攘臂切齿而言曰：“诸葛公乃为孙峻所杀。”于是大小知恪死矣。而吏兵寻至。吴戍将邓喜杀猪祠神，治毕，悬之，忽见一人头，往食肉。喜引弓射中之，咋咋作声，绕屋三日。后人白喜谋叛，合门被诛。</p>
+<p>　　贾充伐吴时，常屯项城，军中忽失充所在。充帐下都督周勤时昼寝，梦见百余人，录充引入一径。勤惊觉，闻失充，乃出寻索。忽睹所梦之道，遂往求之。果见充行至一府舍，侍卫甚盛，府公南面坐，声色甚厉，谓充曰：“将乱吾家事者，必尔与荀勖。既惑吾子，又乱吾孙，间使任恺黜汝而不去，又使庾纯詈汝而不改。今吴寇当平，汝方表斩张华。汝之暗戆，皆此类也。若不悛慎，当旦夕加诛。”充叩头流血。府公曰：“汝所以延日月而名器若此者，是卫府之勋耳。终当使系嗣死于钟虞之间，大子毙于金酒之中，小子困于枯木之下。荀勖亦宜同然。其先德小浓，故在汝后。数世之外，国嗣亦替。”言毕命去。充忽然得还营，颜色憔悴，性理昏错，经日乃复。至后，谧死于钟下，贾后服金酒而死，贾午考竟用大杖终。皆如所言。</p>
+<p>　　庾亮，字文康，鄢陵人，镇荆州，豋厕，忽见厕中一物，如“方相，”两眼尽赤，身有光耀，渐渐从土中出。乃攘臂，以拳击之。应手有声，缩入地。因而寝疾。术士戴洋曰：“昔苏峻事公，于白石祠中祈福，许赛其牛。从来未解。故为此鬼所考，不可救也。”明年，亮果亡。东阳刘宠字道弘，居于湖熟，每夜，门庭自有血数升，不知所从来。如此三四。后宠为折冲将军，见遣北征，将行，而炊(食卞)尽变为虫。其家人蒸炒，亦变为虫。其火愈猛，其虫愈壮。宠遂北征，军败于坛邱，为徐龛所杀。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4211.aspx">上一章</a>
+<a href="/guwen/book_49.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4213.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2812" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

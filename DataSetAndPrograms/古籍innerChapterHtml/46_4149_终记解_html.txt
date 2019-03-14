@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·终记解_古诗文网
+</title>
+<meta content="孔子蚤晨作，負手曳杖，逍遙於門，而歌曰：「泰山其頹乎！梁木其壞乎！喆人其萎乎！」既歌而入，當戶而坐．子貢聞之曰：「泰山其頹，則吾將安仰；梁木其壞，吾將安杖；喆人其萎，吾將安放．夫子" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4149.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2749" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>终记解</b></span>
+<a href="javascript:PlayBookv(4149)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4149" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2749)" id="leftbtn2749" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4149" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　孔子蚤晨作，負手曳杖，逍遙於門，而歌曰：「泰山其頹乎！梁木其壞乎！喆人其萎乎！」既歌而入，當戶而坐．子貢聞之曰：「泰山其頹，則吾將安仰；梁木其壞，吾將安杖；喆人其萎，吾將安放．夫子殆將病也．」遂趨而入．夫子歎而言曰：「賜，汝來何遲．予疇昔夢坐奠於兩楹之間，夏后氏殯於東階之上，則猶在阼，殷人殯於兩楹之間，即與賓主夾之，殯於西階之上，則猶賓之，而丘也即殷人，夫明王不興，則天下其孰能宗余，余逮將死．」遂寢病，七日而終，時年七十二矣．哀公誄曰：「昊天不弔，不憖遺一老，俾屏余一人以在位，煢煢余在疚，於乎哀哉！尼父無自律．」子貢曰：「公其不沒於魯乎？夫子有言曰『禮失則昏，名失則愆，失志為昏，失所為愆，生不能用，死而誄之，非禮也．稱一人非名，君兩失之矣．』」既卒，門人所以服夫子者，子貢曰：「昔夫子之喪顏回也，若喪其子而無服，喪子路亦然，今請喪夫子如喪父而無服．」於是弟子皆弔服而加麻，出有所之，則由絰．子夏曰：「入宜絰可居，出則不絰．」子游曰：「吾聞諸夫子喪朋友，居則絰，出則否，喪所尊雖絰，而出可也．」孔子之喪，公西掌殯葬焉，唅以疏米三貝，襲衣十有一稱，加朝服一，冠章甫之冠，珮象環，徑五寸而綨組綬，桐棺四寸，柏棺五寸，飭廟置翣，設披周也，設崇殷也，綢練設旐夏也，兼用三王禮，所以尊師且備古也，葬於魯城北泗水上，藏入地，不及泉而封，為偃斧之形，高四尺，樹松柏為志焉．弟子皆家于墓，行心喪之禮．既葬，有自燕來觀者，舍於子夏氏，子貢謂之曰：「吾亦人之葬，聖人非聖人之葬，人子奚觀焉．昔夫子言曰：『見吾封若夏屋者，見若斧矣，從若斧者也，馬｛髟葛｝，封之謂也．』今徒一日三斬板而以封，尚行夫子之志而已，何觀乎哉？」二三子三年喪畢，或留或去，惟子貢廬於墓六年．自後群弟子及魯人處於墓如家者百有餘家，因名其居曰孔里焉．</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4148.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4150.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2749" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

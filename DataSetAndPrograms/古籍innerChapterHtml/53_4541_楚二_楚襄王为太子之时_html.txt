@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·楚二·楚襄王为太子之时_古诗文网
+</title>
+<meta content="楚襄王为太子之时，质于齐。怀王薨，太子辞于齐王而归。齐王隘之：“予我东地五百里，乃归子。子不予我，不得归。”太子曰：“臣有傅，请追而问傅。”傅慎子曰：“献之地，所以为身也。爱地不送" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4541.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3352" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>楚二·楚襄王为太子之时</b></span>
+<a href="javascript:PlayBookv(4541)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4541" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3352)" id="leftbtn3352" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4541" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　楚襄王为太子之时，质于齐。怀王薨，太子辞于齐王而归。齐王隘之：“予我东地五百里，乃归子。子不予我，不得归。”太子曰：“臣有傅，请追而问傅。”傅慎子曰：“献之地，所以为身也。爱地不送死父，不义。臣故曰献之便。”太子入，致命齐王曰：“敬献地五百里。”齐王归楚太子。</p>
+<p>　　太子归，即位为王。齐使车五十乘，来取东地于楚。楚王告慎子曰：“齐使来求东地，为之奈何?”慎子曰：“王明日朝群臣，皆令献其计。”</p>
+<p>　　上柱国子良入见。王曰 ：“寡人之得求反，王坟墓复群臣、归社稷也，以东地五百里许齐。齐令使来求地，为之奈何?”子良曰：“王不可不与也。王身出玉声，许强万乘之齐而不与，则不信。后不可以约结诸侯。请与而复攻之。与之信，攻之武，臣故曰与之。 ”</p>
+<p>　　子良出，昭常入见。王曰：“齐使来求东地五百里，为之奈何?”昭常曰：“不可与也。万乘者，以地大为万乘。今去东地五百里，是去战国之半也，有万乘之号，而无千乘之用也，不可。臣故曰勿与。常请守之。”</p>
+<p>　　昭常出，景鲤入见。王曰：“齐使来求东地五百里，为之奈何?”景鲤曰：“不可与也。虽然，楚不能独守。王身出玉声，许万乘之强齐也而不与，负不义于天下，楚亦不能独守。臣请西索救于秦。”</p>
+<p>　　景鲤出，慎子入。王以三大夫计告慎子曰：“子良见寡人曰：‘不可不与也，与而复攻之。’常见寡人曰：‘不可与也，常请守之。’鲤见寡人曰：‘不可与也，虽然，楚不能独守也，臣请索救于秦。’寡人谁用于三子之计?”慎子对曰：“王皆用之！”王怫然作色曰：“何谓也?”慎子曰：“臣请效其说，而王且见其诚然也。王发上柱国子良车五十乘，而北献地五百里于齐。发子良之明日，遣昭常为大司马，令往守东地。遣昭常之明日，遣景鲤车五十乘，西索救于秦。”王曰：“善。”乃遣子良北献地于齐。遣子良之明日，立昭常为大司马，使守东地。又遣景鲤西索救于秦。</p>
+<p>　　子良至齐，齐使人以甲受东地。昭常应齐使曰：“我典主东地，且与死生。悉五尺至六十，三十余万弊甲钝兵，愿承下尘。”齐王谓子良曰：“大夫来献地，今常守之何如?”子良曰：“臣身受弊邑之王，是常矫也。王攻之。”齐王大兴兵，攻东地，伐昭常。未涉疆，秦以五十万临齐右壤。曰：“夫隘楚太子弗出，不仁；又欲夺之东地五百里，不义。其缩甲则可，不然，则愿待战。”齐王恐焉，乃请子良南道楚，西使秦，解齐患。士卒不用，东地复全。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4540.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4542.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3352" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

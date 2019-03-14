@@ -1,0 +1,151 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+格言联璧·从政类_古诗文网
+</title>
+<meta content="眼前百姓即儿孙，莫谓百姓可欺，且留下儿孙地步；堂上一官称父母，漫道一官好做，须尽些父母恩情。善体黎庶情，此谓民之父母；广行阴骘事，以能保我子孙。封赠父祖易得也，无使人唾骂，父祖难得" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18971.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>从政类</b></span>
+<a href="javascript:PlayBookv(18971)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18971" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18971" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%87%91%e7%bc%a8">金缨</a></p>
+<div class="contson">
+<p>　　眼前百姓即儿孙，莫谓百姓可欺，且留下儿孙地步；堂上一官称父母，漫道一官好做，须尽些父母恩情。</p>
+<p>　　善体黎庶情，此谓民之父母；广行阴骘事，以能保我子孙。</p>
+<p>　　封赠父祖易得也，无使人唾骂，父祖难得也。恩荫子孙易得也，无使我毒害，子孙难得也。</p>
+<p>　　洁己方能不失己，爱民所重在亲民。</p>
+<p>　　国家立法，不可不严。有司行法，不可不恕。</p>
+<p>　　严以驭役而宽以恤民，极于扬善而勇于去奸，缓于催科而勤于抚字。</p>
+<p>　　催科不扰，催科中抚字；刑罚不差，刑罚中教化。</p>
+<p>　　刑罚当宽处即宽，黎庶皆上天儿女。财用可省时便省，丝毫皆下民脂膏。</p>
+<p>　　居家为妇女们爱怜，朋友必多怒色。做官为左右人欢喜，百姓定有怨声。</p>
+<p>　　官不必尊显，期于无负国法。道不必博施，要在有裨民物。</p>
+<p>　　禄岂须多，防满则退。年不待暮，有疾便辞。</p>
+<p>　　天非私富一人，托以众贫者之命；天非私贵一人，托以众贱者之身。</p>
+<p>　　在世一日要做一日好人，为官一日要行一日好事。</p>
+<p>　　贫贱人栉风沐雨，万苦千辛，自家血汗自家消受，天之鉴察犹恕；富贵人衣税食租，担爵受禄，万民血汗一人消受，天之督责更严。</p>
+<p>　　平日诚以治民而民信之，则凡有事于民，无不应矣；平日诚以事天而天信之，则凡有祷于天，无不应矣。</p>
+<p>　　平民肯种德施惠，便是无位底卿相；士夫徒贪权希宠，竟成有爵底乞儿。</p>
+<p>　　无功而食，雀鼠是已；肆害而食，虎狼是已。</p>
+<p>　　毋矜清而傲浊，毋慎大而忽小，毋勤始而怠终。</p>
+<p>　　勤能补拙，俭以养廉。</p>
+<p>　　居官廉，人以为百姓受福，予以为钖福于子孙者不浅也，曾见有约己裕民者后代不昌大耶？！居官浊，人以为百姓受害，予以为贻害于子孙者不浅也，曾见有瘠众肥家者历世得久长耶？！</p>
+<p>　　以林皋安乐懒散心做官，未有不荒怠者；以在家治生营产心做官，未有不贪鄙者。</p>
+<p>　　念念用之民生，则为吉士；念念用之套数，则为俗吏；念念用之身家。则为贼臣。</p>
+<p>　　古之从仕者养人，今之从仕者养己。</p>
+<p>　　古之居官也，在下民身上做工夫；今之居官也，在上官眼底做工夫。</p>
+<p>　　在家者不知有官，方能守分；在官者不知有家，方能尽分。</p>
+<p>　　君子当官任职，不计难易，而志在济人，故动辄成功；小人苟禄营私，只任便安，而意在利己，故动多败事。</p>
+<p>　　职业是当然底，每日做他不尽，莫要认作假。权势是偶然底，有日还他主者，莫要认作真。</p>
+<p>　　一切人为恶，犹可言也，惟读书人不可为恶；读书人为恶，更无教化之人矣！一切人犯法，犹可言也，惟做官人不可犯法；做官人犯法，更无禁治之人矣！</p>
+<p>　　士大夫济人利物，宜居其实，不宜居其名，居其名则德损。士大夫忧国为民，当有其心，不当有其语，有其语则毁来。</p>
+<p>　　以处女之自爱者爱身，以严父之教子者教士。</p>
+<p>　　执法如山，守身如玉，爱民如子，去蠹如仇。</p>
+<p>　　陷一无辜，与操刀杀人者何别？释一大憝，与纵虎伤人者无殊！</p>
+<p>　　针芒剌手，茨棘伤足，举体痛楚；刑惨百倍于此，可以喜怒施之乎？虎豹在前，坑阱在后，百般呼号；狱犴何异于此，可使无辜坐之乎？</p>
+<p>　　官虽至尊，决不可以人之生命，佐己之喜怒。官虽至卑，决不可以己之名节，佐人之喜怒。</p>
+<p>　　听断之官，成心必不可有；任事之官，成算必不可无。</p>
+<p>　　无关紧要之票，概不标判，则吏胥无权。不相交涉之人，概不往来，则关防自密。</p>
+<p>　　无辜牵累难堪，非紧要，祗须两造对质，保全多少身家。疑案转移甚大，无确据，便当末减从宽，休养几人性命。</p>
+<p>　　呆子之患，深于浪子，以其终无转智。昏官之害，甚于贪官，以其狼籍及人。</p>
+<p>　　官肯着意一分，民受十分之惠。上能吃苦一点，民沾万点之恩。</p>
+<p>　　礼繁则难行，卒成废阁之书。法繁则易犯，更其灭裂之祸。</p>
+<p>　　善启迪人心者，当因其所明而渐通之，毋强开其所闭。善移易风俗者，当因其所易而渐反之，毋强矫其所难。</p>
+<p>　　非甚不便于民，且莫妄更；非大有益于民，则莫轻举。</p>
+<p>　　情有可通，旧有者不必过裁抑，免生寡恩之怨；事在得已，旧无者不必妄增设，免开多事之门。</p>
+<p>　　为前人者，无干誉矫情，立一切不可常之法，以难后人。为后人者，无矜能露迹，为一朝即改革之政，以暴前人。</p>
+<p>　　事在当因，不为后人开无故之端；事在当革，毋使后人长不救之祸。</p>
+<p>　　利在一身勿谋也，利在天下者谋之；利在一时勿谋也，利在万世者谋之。</p>
+<p>　　莫为婴儿之态而有大人之器，莫为一身之谋而有天下之志，莫为终身之计而有后世之虑。</p>
+<p>　　用三代以前见识，而不失之迂；就三代以后家数，而不邻于俗。</p>
+<p>　　大智兴邦，不过集众思；大愚误国，只为好自用。</p>
+<p>　　吾爵益高，吾志益下；吾官益大，吾心益小；吾禄益厚，吾施益博。</p>
+<p>　　安民者何？无求于民，则民安矣。察吏者何？无求于吏，则吏察矣。</p>
+<p>　　不可假公法以报私仇，不可假公法以报私德。</p>
+<p>　　天德只是个无我，王道只是个爱人。</p>
+<p>　　惟有主，则天地万物自我而立；必无私，斯上下四旁咸得其平。</p>
+<p>　　治道之要在知人，君德之要在体仁，御臣之要在推诚，用人之要在择言，理财之要在经制，足用之要在薄敛，除寇之要在安民。</p>
+<p>　　未用兵时，全要虚心用人；既用兵时，全要实心活人。</p>
+<p>　　天下不可一日无君，故夷齐非汤武明臣道也，不然，则乱臣接踵而难为君。天下不可一日无民，故孔孟是汤武明君道也，不然，则暴君接踵而难为民。</p>
+<p>　　庙堂之上，以养正气为先；海宇之内，以养元气为本。</p>
+<p>　　政令之所重者人才，国家之所重者元气。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18970.aspx">上一章</a>
+<a href="/guwen/book_231.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18972.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

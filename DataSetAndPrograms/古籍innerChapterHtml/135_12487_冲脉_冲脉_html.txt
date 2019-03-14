@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+奇经八脉考·冲脉·冲脉_古诗文网
+</title>
+<meta content="冲为经脉之海，又曰血海，其脉与任脉，皆起于少腹之内胞中。其浮而外者，起于气冲。（一名气街，在少腹毛中两旁各二寸，横骨两端，动脉宛宛中，足阳明穴也）并足阳明、少阴二经之间，循腹上行至" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12487.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>冲脉·冲脉</b></span>
+<a href="javascript:PlayBookv(12487)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12487" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12487" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p>　　冲为经脉之海，又曰血海，其脉与任脉，皆起于少腹之内胞中。其浮而外者，起于气冲。（一名气街，在少腹毛中两旁各二寸，横骨两端，动脉宛宛中，足阳明穴也）并足阳明、少阴二经之间，循腹上行至横骨。（足阳明去腹中行二寸，少阴去腹中行五分，冲脉行于二经之间也。横骨在阴上横骨中，宛如偃月，去腹中行一寸半）</p>
+<p>　　挟脐左右各五分，上行历大赫、（横骨上一寸，去腹中行一寸半）气穴、（即胞门一名子户、大赫上一寸，去腹中行一寸半，少阴、冲脉之会）四满、（气穴上一寸）中注、（四满上一寸）肓 、（中注上一寸）商曲、（肓上二寸）石关、（商曲上一寸）阴都、（石关上一寸）通谷、（阴都上一寸）幽门，（通谷上一寸，夹巨阙两旁，各五分陷中）至胸中而散，凡二十四穴。</p>
+<p>　　灵枢经曰∶冲、任皆起于胞中，上循背里，为经络之海。其浮而外者，循腹右上行，会于咽喉，别而络唇口。血气盛则充肤热肉，血独盛则淡渗皮肤，生毫毛。妇人有余于气，不足于血，月下数脱血，任冲并伤，脉不荣其口唇，故髭须不生。宦者去其宗筋，伤其冲任，血泻不复，皮肤内结，唇口不荣，故须亦不生。天宦不脱于血，而任冲不盛，宗筋不强，有气无血，唇口不荣，故须亦不生。</p>
+<p>　　素问水热穴论曰∶三阴之所交，结于脚也。踝上各一行者，此肾脉之下行也。名曰太冲。</p>
+<p>　　王启玄曰∶肾脉与冲脉并下行循足，合而盛大，故曰太冲。一云冲脉起于气冲，冲直而通，故谓之冲。</p>
+<p>　　素问阴阳离合论曰∶圣人南面而立，前曰广明，后曰太冲。太冲之地，名曰少阴，其冲在下，名曰太阴。</p>
+<p>　　启玄曰∶心脏在南，故前曰广明，冲脉在北，故后曰太冲。足少阴肾脉与冲脉合而盛大，故曰太冲。两脉相合为表里也。冲脉在脾之下，故曰其冲在下，名曰太阴。</p>
+<p>　　灵枢经曰∶帝曰∶少阴之脉独下行。何也？岐伯曰∶不然。夫冲脉者，五脏六腑之海也。其上者出于颃颡，渗诸阳，灌诸精。其下者注于少阴之大络，起于肾下，出于气街，循阴股内廉，斜入 中，伏行骨内廉，并少阴之经，下入内踝之后，入足下；其别者并于少阴，渗三阴，斜入踝，伏行出属跗，属下，循跗上，入大指之间，渗诸络而温足胫肌肉。故其脉常动，别络结则跗上不动，不动则厥，厥则寒矣。</p>
+<p>　　王海脏曰∶手少阳三焦相火为一腑，右肾命门为相火，心包主亦名相火，其脉同诊。肾为生气之门，出而治脐下，分三歧，上冲夹脐过天枢，上至膻中两乳间，元气所系焉。又足太阳之别，并足太阳正路入络膀胱，约下焉。三焦者，从头至心、心至脐、脐至足，为上中下三焦，其实真元一气也。故曰有脏无腑。脉诀云∶三焦无状空有名，寄在胸中膈相应。一云∶其腑在气街中。上焦在胃上口，治在膻中；中焦在胃管，治在脐旁；下焦在脐下膀胱上口，治在脐。</p>
+<p>　　经曰∶原气者，三焦之别使也。肾间动气者，真元一气，分为三路，人之生命也，十二经之根本也。</p>
+<p>　　李濒湖曰∶三焦即命门之用。与冲、任、督相通者，故附着于此。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12486.aspx">上一章</a>
+<a href="/guwen/book_135.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12488.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

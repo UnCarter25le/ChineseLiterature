@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷三·论三奇_古诗文网
+</title>
+<meta content="《珞录子》曰：“奇为贵也；奇者，异也。”谓物以贵为奇也。乙丙丁出于贵人干德配支之妙，阴贵甲德起子，则乙德在丑，丙德在寅，丁德在卯，三干相连而无间。阴贵甲德起申、乙在未，丙在午，丁" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16377.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·论三奇</b></span>
+<a href="javascript:PlayBookv(16377)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16377" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16377" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　《珞录子》曰：“奇为贵也；奇者，异也。”谓物以贵为奇也。乙丙丁出于贵人干德配支之妙，阴贵甲德起子，则乙德在丑，丙德在寅，丁德在卯，三干相连而无间。阴贵甲德起申、乙在未，丙在午，丁在已，三间相连而无间，以其随贵人在天，故曰“天上三奇”，十干惟此为异，余则或间罗网，或间天空，或不重临，又不相联，不可以为奇。《玉霄宝鉴》谓古人以正月为岁之始，日出于乙，故以乙为日奇；老人星见为瑞，见于丁位，故以丁为星奇；月照夜到丙位而天下明，故以丙为月奇。若甲戊庚亦以为天上三奇，以甲戊庚俱临丑未，乃贵人家在斗牛之次，出乎井鬼之舍，先后天起贵而三干适临之，与别干不同，其理亦通。《三车一览》以甲为阳木之魁，戊为阳土之君，庚为阳金之精，地有此三物为奇，谓之地之奇，其说太凿，《太乙经》以辛壬癸为水奇，谓之人间三奇，其说无据，但辛壬癸天干连珠，谓之三台，亦为难得。《紫虚局》又有四奇之说。夫奇，奇数也，四则偶矣，谓之奇，可乎？三奇要顺布，不欲倒乱，如乙丙丁、甲戊庚，天干年月日时顺布为吉。《广录》又以乙人丙月丁时，是乙生丙丁，秀气下降，主平常。若乙时丙日丁年，是秀气上达，反为贵，似又不论顺逆。甲戊庚却以顺者为贵，逆者福慢，乱者不寿，气清则贵，气浊则富。经曰：五行各有奇仪，须分逆顺。若日月倒乱，得顺三奇，亦不谓倒命。有三奇，要得体得地，不欲失时。如乙丙丁夜生，甲戊庚昼生，得体；乙丙丁柱有亥，则三光有所依附，甲戊庚柱有申，则三物有所凭籍；或乙丙丁得丑寅卯未午巳，甲戊庚得丑未金，皆为得地。三奇再遇三合，如乙丙丁得金水局，甲戊庚得水火局。又遇六仪，甲子旬戊，甲戌旬己，甲申旬庚，甲午旬辛，甲辰旬壬，甲寅旬癸，俱吉。《珞录子》云：“重犯奇仪，蕴藉抱出群之器。”《遁甲》曰：“顺布三奇，逆六仪。”如命出甲子、甲申二旬遇甲戊庚，是重犯奇仪也。</p>
+<p>　　凡命遇三奇，主人精神异常，襟怀卓越，好奇尚大，博学多能。带天乙贵者，勋业超群；带天月二德者，凶灾不犯。带六仪者，才智出类。带三合入局者，国家柱石，带官符劫煞者，器识宏远。带空亡生旺者，脱尘离俗，富贵不淫；威武不屈，值元辰、咸池、冲破、天罗地网者，为无用。论三奇，太岁不带而月日时带着，孤独。诗曰：“顺十干神乙丙丁，神童及第播声名；日时禄马公卿煞，换武除文佐圣明。”又曰：“顺十干神甲戊庚，兼得长生丙府名；若然无禄兼无马，只是财中蓄积人。”又曰：“三奇须是重逢贵，方是荣华福寿人；只有空奇无贵地，贫穷下贱被欺凌。”又曰：“乙丙丁、甲戊庚，上局相生生复生，不是蓬莱三岛客，也应金殿玉阶行。”又曰：“欲识岩廊官赫奕，名仙多诞癸壬辛，三奇玉藉传消息，轻薄时师莫与评。”合诸诗观三奇，喜忌见矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16376.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16378.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

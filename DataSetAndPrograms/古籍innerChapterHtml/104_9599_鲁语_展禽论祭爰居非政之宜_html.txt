@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·鲁语·展禽论祭爰居非政之宜_古诗文网
+</title>
+<meta content="海鸟曰“爰居”，止于鲁东门之外三日，臧文仲使国人祭之。展禽曰：“越哉，臧孙之为政也！夫祀，国之大节也；而节，政之所成也。故慎制祀以为国典。今无故而加典，非政之宜也。“夫圣王之制祀也" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9599.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8350" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>鲁语·展禽论祭爰居非政之宜</b></span>
+<a href="javascript:PlayBookv(9599)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9599" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8350)" id="leftbtn8350" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9599" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+海鸟曰“爰居”，止于鲁东门之外三日，臧文仲使国人祭之。展禽曰：“越哉，臧孙之为政也！夫祀，国之大节也；而节，政之所成也。故慎制祀以为国典。今无故而加典，非政之宜也。
+</p><p>　　
+“夫圣王之制祀也，法施于民则祀之，以死勤事则祀之，以劳定国则祀之，能御大灾则祀之，能扞大患则祀之。非是族也，不在祀典。昔烈山氏之有天下也，其子曰柱，能殖百谷百蔬；夏之兴也，周弃继之，故祀以为稷。共工氏之伯九有也，其子曰后土，能平九土，故祀以为社。黄帝能成命百物，以明民共财，颛顼能修之。帝喾能序三辰以固民，尧能单均刑法以仪民，舜勤民事而野死，鮌鄣洪水而殛死，禹能以德修鮌之功，契为司徒而民辑，冥勤其官而水死，汤以宽治民而除其邪，稷勤百谷而山死，文王以文昭，武王去民之秽。故有虞氏禘黄帝而祖颛顼，郊尧而宗舜；夏后氏禘黄帝而祖颛顼，郊鮌而宗禹；商人禘舜而祖契，郊冥而宗汤；周人禘喾而郊稷，祖文王而宗武王，幕，能帅颛顼者也，有虞氏报焉；杼，能帅禹者也，夏后氏报焉，上甲微，能帅契者也，商人报焉；高圉、大王，能帅稷者也，周人报焉。凡禘、郊、祖、宗、报，此五者国之典祀也。
+</p><p>　　
+“加之以社稷山川之神，皆有功烈于民者也；及前哲令德之人，所以为明质也；及天之三辰，民所以瞻仰也；及地之五行，所以生殖也；及九州名山川泽，所以出财用也。非是不在祀典。
+</p><p>　　
+“今海鸟至，己不知而祀之，以为国典，难以为仁且智矣。夫仁者讲功，而智者处物。无功而祀之，非仁也；不知而不能问，非智也。今兹海其有灾乎？夫广川之鸟兽，恒知避其灾也。”
+</p><p>　　
+是岁也，海多大风，冬煖。文仲闻柳下季之言，曰：“信吾过也，季子之言不可不法也。”使书以为三。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9598.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9600.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8350" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

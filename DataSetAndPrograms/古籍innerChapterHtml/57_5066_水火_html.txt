@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+反经·水火_古诗文网
+</title>
+<meta content="《经》曰：“以水佐攻者强，以火佐攻者明。”是知水火者，兵之助也。 故火攻有五：一曰火人(敌旁近草，因风烧之。)，二曰火积(烧其积蓄)，三曰火辎(烧其缁重)，四曰火库(当使间人之敌营" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5066.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3242" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>水火</b></span>
+<a href="javascript:PlayBookv(5066)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5066" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3242)" id="leftbtn3242" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5066" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b5%b5%e8%95%a4">赵蕤</a></p>
+<div class="contson">
+<p>　　《经》曰：“以水佐攻者强，以火佐攻者明。”是知水火者，兵之助也。 </p>
+<p>　　故火攻有五：一曰火人(敌旁近草，因风烧之。)，二曰火积(烧其积蓄)，三曰火辎(烧其缁重)，四曰火库(当使间人之敌营，烧其兵库。)，五曰火燧(燧，堕也。以火堕敌人营中也。火头之法，以铁盈火，着箭头，强弩射敌之营中，烧绝粮道也。)。 </p>
+<p>　　行火必有因(因奸人也)，烟火素具。发火有时，起火有日。时者，天之燥也；日者，宿在箕、壁、参、轸也，凡此四宿者，风起之日也。 </p>
+<p>　　(萧世诚云：“春丙丁、夏戊己、秋壬癸、冬甲乙，此日有疾风猛雨也。居勘太乙，中有飞鸟十精，如风雨期，五子元运式，各候其时，可用火。”故曰：“以火佐攻者明。” </p>
+<p>　　何以言之？昔扬[王延]与桂阳贼相会，[王延]以皮作大排囊，以石灰内囊中，置车上，作火燧，系马尾，因从上风，鼓排囊吹灰，群贼眯目，因烧马尾，奔突贼阵，众贼奔溃，此用火之势也。殷浩北伐，长史江逌取数百鸡，以长绳连之，脚皆系火。一时驱放，群鸡飞散羌营，营皆燃，因击之，姚襄退走，此用火之势。李陵在大泽草中，虏从上风纵火，陵从下风纵火，以此火解火势也。吾闻敌烧门，恐火灭门开，当更积薪助火，使火势不灭，亦解火之法也)。 </p>
+<p>　　太公曰：“强弩长兵，所以逾水战。”孙子曰：“水可以绝。”谓灌城也。又曰：“绝水，必远水(引敌使渡也)。客绝水而来，迎之于水内，令敌半渡而击之，利。欲战，无附于水而迎客也，谓处水上之军。”故曰：“以水佐攻者强。” </p>
+<p>　　何以言之？昔韩信定临淄、走齐王田广，楚使龙且来救齐。齐王广、龙且并并，与信合战(人或说龙且曰：“汉兵远斗穷战，其锋不可当，齐楚自居其地战，兵易败散。不如深壁，令齐王使其信臣，招所亡城，城闻其王在，楚来救，必反汉。汉兵二千里客居，齐城皆反之，其势无所得食，可无战而降也。”龙且曰：“吾平生知韩信为人，易与耳。且夫不战而降之，吾何功？”遂战，败。吾闻：“古之所谓善战者胜，易胜者败。善者之胜也，无知名，无勇功。故其战胜不武，不武者，其所错胜，胜已败者也。”龙且不用客之计，欲求赫赫之功，昧矣。)。夹潍(音唯)水阵，韩信乃夜令人为万余囊，盛沙壅水上流，引军半渡，击龙且，佯不胜，还走。龙且果喜曰：“固知信怯也。”乘追信渡水，信使决壅囊，水大至。龙且军太半不得渡，即急击之，杀龙且。龙且水军东散走。此反半渡之势。 </p>
+<p>　　(吾闻兵法：绝水，必远水。令敌半渡而击之，利。韩信半渡，军佯入害地，令龙且击之，然后决壅水。此所谓：“杂于利而务可伸，杂于害而患可解也。”皆反兵而用兵法。微哉！微哉！) </p>
+<p>　　卢绾佐彭越攻，下梁地十余城。项羽闻之，谓其大司马曹咎曰：“谨守城皋，即汉挑战，慎勿与战。”汉果挑楚军，楚军不出，使人辱之(孙子曰：“廉洁，可辱也。”)大司马怒，渡汜水(音凡)。卒半渡，汉击，大破之。此欲战无附于水势也。 </p>
+<p>　　故知水火之变，可以制胜，其来久矣。秦人毒泾上流，晋军多死；荆王烧楚积聚，项氏以擒；曹公决泗于下邳，吕布就戮；黄盖火攻于赤壁，魏祖奔衄。此将之至任，盖军中尤急者矣，不可不察。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5065.aspx">上一章</a>
+<a href="/guwen/book_57.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5067.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3242" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

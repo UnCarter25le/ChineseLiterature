@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·东_古诗文网
+</title>
+<meta content="历史来源　　1、出自舜有七友东不訾之后为东氏。据《集韵》载，舜帝七友之一东不訾之后。七友为：雄陶、方回、续牙、伯阳、东不訾（一作东不识）、秦不虚、灵甫。《尸子》云：“舜士友有东不识" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2666.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>东</b></span>
+<a href="javascript:PlayBookv(2666)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2666" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2666" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自舜有七友东不訾之后为东氏。据《集韵》载，舜帝七友之一东不訾之后。七友为：雄陶、方回、续牙、伯阳、东不訾（一作东不识）、秦不虚、灵甫。《尸子》云：“舜士友有东不识，《广韵》作东不訾。”东不訾的后代，有的就用“东”作为自己的姓氏，遂成东姓。<br/>　　2、出自风姓，太昊伏羲之后有改姓东氏。据《路史》载，伏羲氏之后东蒙氏之后人有居于东方者，以居地为氏，后改东氏。<br/>　　3、汉复姓十三氏中有东宫、东郭、东门、东野、东田、东陵、东蒙、东莱、东邱、东乡、东里、东关、东闾等复姓，后有改东氏者。</p>
+<p><strong>家族名人</strong><br/>　　东 郊：明朝官御史，巡按应天，行部过常州，会武宗南巡，时遇江彬纵其党，横行州郡。推官张曰韬上书于东郊，东郊命登己舟，在危急时救护了明武宗。<br/>　　东良会：元朝巩昌人，个性耿直，事亲孝顺，教子爱国。任商州总兵时，遇红巾军作乱，他让长子携眷属前往华州居住，次子携眷属前往朝色居住，临行前对两个儿子说：“国家把土地交由我管理，义当死守。”红巾军攻城时，他指挥全城将士奋勇死守，直至战死。部属在他忠勇的感召下，个个奋不顾身，虽死伤众多但城未失守，保住了全城人民的生命财产，为州郡地方官员树立了榜样。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）东姓在大陆和台湾都没有列入百家姓前一百位。相传伏羲氏为东方部族的首领，而他的部落的发展最为迅速，生产方式最先进，伏羲的部落在华夏发展史上有不可磨灭的伟绩，他的后代中就以东为姓，借以纪念他在东方部落的贡献。而在先帝舜时，他有七友，其中之一名为东不识（或东不訾），他的后代都用东为姓。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2665.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2667.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

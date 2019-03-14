@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·俞叟_古诗文网
+</title>
+<meta content="尚书王公潜节度荆南时，有吕氏子，衣敝举策，有饥寒之色，投刺来谒。公不为礼，甚怏怏。因寓于逆旅。月余，穷乏益甚，遂鬻所乘驴于荆州市。有市门监俞叟者，召吕生而语，且问其所由。吕生曰：“" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19334.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>俞叟</b></span>
+<a href="javascript:PlayBookv(19334)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19334" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19334" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　尚书王公潜节度荆南时，有吕氏子，衣敝举策，有饥寒之色，投刺来谒。公不为礼，甚怏怏。因寓于逆旅。月余，穷乏益甚，遂鬻所乘驴于荆州市。有市门监俞叟者，召吕生而语，且问其所由。吕生曰：“吾家于渭北。家贫，亲老无以给旨甘之养。府帅公，吾之重表丈也。吾不远而来，冀哀吾贫而周之。入谒，而公不一顾。岂非命也！”叟曰：“某虽贫，无资食以周吾子之急，然向者见吾子有饥寒色，甚不平。今夕为吾子具食，幸宿我宇下，生无以辞焉。”吕生许诺，于是延入一室。湫隘卑陋，摧檐坏垣，无床榻茵褥。致敝席于地，与吕生坐。语久命食，以陶器进脱栗饭而已。食讫，夜既深，谓吕生曰：“吾早年好道，常隐居四明山，従道士学却老之术。有志未就，自晦迹于此，仅十年，而荆人未有知者。以吾子困于羁旅，得无动于心耶令夕为吾子设一小术，以致归路裹粮之资，不亦可乎？”吕生虽疑诞妄，然甚觉其异。叟因取一缶合于地。仅食顷，举而视之，见一人长五寸计，紫绶金腰带，挽而拱焉。俞叟指曰：“此乃尚书王公之魂也。”吕生熟视其状貌，果类王公，心默而异之。因戒曰：“吕乃汝之表侄也。家苦贫，无以给旦夕之赡，故自渭北不远而来。汝宜厚给馆谷，尽亲亲之道。汝何自矜，曾不一顾，岂人心哉今不罪汝，宜厚赀之，无使为留滞之客。”紫衣偻而揖，若受教之状。叟又曰：“吕生无仆马，可致一匹一仆，缣二百匹，以遗之。”紫衣又偻而揖。于是却以缶合于上，有顷再启之，已无见矣。明旦，天将晓，叟谓吕生曰：“子司疾去，王公旦夕召子矣。”及归逆旅，王公果使召之。方见且谢曰：“吾子不远见访，属军府务殷，未果一日接言，深用为愧，幸吾子察之。”是日始馆吕生驿亭，与宴游累日。吕生告去，王公赠仆马及缣二百。吕生益奇之，然不敢言。及归渭北，后数年，因与友人数辈会宿，语及灵怪，始以其事说于人也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19333.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19335.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

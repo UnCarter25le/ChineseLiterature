@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+墨子·10章 尚贤(下)_古诗文网
+</title>
+<meta content="子墨子言曰：天下之王公大人皆欲其国家之富也，人民之众也，刑法之治也。然而不识以尚贤为政其国家百姓，王公大人本失尚贤为政之本也。若苟王公大人本失尚贤为政之本也，则不能毋举物示之乎？今" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3400.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1951" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>10章 尚贤(下)</b></span>
+<a href="javascript:PlayBookv(3400)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3400" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1951)" id="leftbtn1951" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3400" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　子墨子言曰：天下之王公大人皆欲其国家之富也，人民之众也，刑法之治也。然而不识以尚贤为政其国家百姓，王公大人本失尚贤为政之本也。若苟王公大人本失尚贤为政之本也，则不能毋举物示之乎？</p>
+<p>　　今若有一诸侯于此，为政其国家也，曰：“凡我国能射御之士，我将赏贵之；不能射御之士，我将罪贱之。”问于若国之士，孰喜孰惧？我以为必能射御之士喜，不能射御之士惧。我赏因而诱之矣，曰：“凡我国之忠信之士，我将赏贵之；不忠信之士，我将罪贱之。”问于若国之士，孰喜孰惧？我以为必忠信之士喜，不忠信之士惧。今惟毋以尚贤为政其国家百姓，使国为善者劝，为暴者沮，大以为政于天下，使天下之为善者劝，为暴者沮，然昔吾所以贵尧舜禹汤文武之道者，何故以哉？以其唯毋临众发政而治民，使天下之为善者可而劝也，为暴者可而沮也。然则此尚贤者也，与尧舜禹汤文武之道同矣。</p>
+<p>　　而今天下之士君子，居处言语皆尚贤；逮至其临众发政而治民，莫知尚贤而使能。我以此知天下之士君子，明于小而不明于大也。何以知其然乎？今王公大人有一牛羊之财不能杀，必索良宰；有一衣裳之财不能制，必索良工，当王公大人之于此也，虽有骨肉之亲，无故富贵，面目美好者，实知其不能也，不使之也。是何故？恐其败财也。当王公大人之于此也，则不失尚贤而使能。王公大人，有一罢马不能治，必索良医；有一危弓不能张，必索良工。当王公大人之于此也，虽有骨肉之亲，无故富贵、面目美好者，实知其不能也，必不使。是何故？恐其败财也。当王公大人之于此也，则不失尚贤而使能。逮至其国家则不然，王公大人骨肉之亲，无故富贵、面目美好者则举之，则王公大人之亲其国家也，不若亲其一危弓、罢马、衣裳、牛羊之财与？我以此知天下之士君子，皆明于小而不明于大也。此譬犹喑者而使为行人，聋者而使为乐师。是故古之圣王之治天下也，其所富，其所贵，未必王公大人骨肉之亲，无故富贵，面目美好者也。</p>
+<p>　　是故昔者舜耕于历山，陶于河濒，渔于雷泽，灰于常阳。尧得之服泽之阳，立为天子。使接天下之政，而治天下之民。昔伊尹为莘氏女师仆，使为庖人。汤得而举之，立为三公，使接天下之政，治天下之民。昔者傅说居北海之洲，圜土之上，衣褐带索，庸筑于傅岩之城。武丁得而举之，立为三公，使之接天下之政，而治天下之民。是故昔者尧之举舜也，汤之举伊尹也，武丁之举傅说也，岂以为骨肉之亲，无故富贵，面目美好者哉？惟法其言，用其谋，行其道，上可而利天，中可而利鬼，下可而利人。是故推而上之。</p>
+<p>　　古者圣王既审尚贤，欲以为政。故书之竹帛，琢之盘盂，传以遗后世子孙。于先王之书《吕刑》之书然：王曰：“于！来！有国有土，告女讼刑，在今而安百姓，女何择言人？何敬不刑？何度不及？”能择人而敬为刑，尧舜禹汤文武之道可及也。是何也？则以尚贤及之。于先王之书、竖年之言然，曰：“晞夫圣武知人，以屏辅而耳。”此言先王之治天下也，必选择贤者，以为其群属辅佐。</p>
+<p>　　曰：今也天下之士君子，皆欲富贵而恶贫贱。曰然女何为而得富贵而辟贫贱？莫若为贤，为贤之道将奈何？曰：有力者疾以助人，有财者勉以分人，有道者劝以教人。若此，则饥者得食，寒者得衣，乱者得治。若饥则得食，寒则得衣，乱则得治，此安生生。</p>
+<p>　　今王公大人，其所富，其所贵，皆王公大人骨肉之亲、无故富贵、面目美好者也。今王公大人骨肉之亲、无故富贵、面目美好者，焉故必知哉？若不知，使治其国家，则其国家之乱，可得而知也。</p>
+<p>　　今天下之士君子，皆欲富贵而恶贫贱，然女何为而得富贵而辟贫贱哉？曰：莫若为王公大人骨肉之亲、无故富贵、面目美好者。王公大人骨肉之亲、无故富贵、面目美好者，此非可学能者也。使不知辩，德行之厚，若禹汤文武，不加得也；王公大人，骨肉之亲，躄喑聋暴为桀纣，不加失也。是故以赏不当贤，罚不当暴。其所赏者，已无故矣；其所罚者。亦无罪。是以使百姓皆攸心解体，沮以为善，垂其股肱之力，而不相劳来也；腐臭余财，而不相分资也；隐匿良道，而不相教诲也。若此则饥者不得食，寒者不得衣，乱者不得治。</p>
+<p>　　推而上之以，是故昔者尧有舜，舜有禹，禹有皋陶，汤有小臣，武王有闳夭，泰颠，南宫括，散宜生，而天下和，庶民阜。是以近者安之，远者归之。日月之所照，舟车之所及，雨露之所渐，粒食之所养，得此莫不劝誉。且今天下之王公大人士君子，中实将欲为仁义，求为上士，上欲中圣王之道，下欲中国家百姓之利，故尚贤之为说，而不可不察此者也。尚贤者，天、鬼、百姓之利而政事之本也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3399.aspx">上一章</a>
+<a href="/guwen/book_29.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3401.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1951" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

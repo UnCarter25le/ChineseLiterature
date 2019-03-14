@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·木部·槐_古诗文网
+</title>
+<meta content="气味槐实：（按：亦称槐角）苦、寒、无毒。槐花：苦、平、无毒。槐叶：苦、平、无毒。主治木皮、根白皮：中风身直，有能转动。用槐皮（黄白者）切细，加酒或水六升，煮成二升，分次服。风虫牙痛" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2013.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>木部·槐</b></span>
+<a href="javascript:PlayBookv(2013)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2013" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2013" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>气味</strong><br/>槐实：（按：亦称槐角）苦、寒、无毒。<br/>槐花：苦、平、无毒。<br/>槐叶：苦、平、无毒。</p>
+<p><strong>主治</strong><br/>木皮、根白皮：<br/>中风身直，有能转动。用槐皮（黄白者）切细，加酒或水六升，煮成二升，分次服。<br/>风虫牙痛。用槐树白皮一把，切细，加酪一升煮过，去渣，放一点盐，含漱。<br/>蠼螋恶疮。用槐白皮浸醋中半日后洗患处。<br/>槐叶：<br/>肠风痔疾。用槐叶一斤，蒸熟晒干，研为末，煎饮代茶。久服还能明目。<br/>鼻气窒塞。水煮槐叶，五升煮成三升，加入葱，豉调和，有煎饮。<br/>槐枝：<br/>风热牙痛。用槐枝烧，烙痛处。<br/>血崩、白带。用槐枝烧灰，每服一匙，饭前服，酒送下。一天服二次。<br/>阴疮湿痒。用槐枝煎水热洗。<br/>槐花：<br/>鼻血不止。用槐花、乌贼骨等分，半生半炒，研为末，吹入鼻内。<br/>吐血不止。用槐花烧存性，加麝香少许，研匀，糯米汤送服三钱。<br/>咯血、唾血。用槐花炒过、研细，每服三钱，糯米汤送下。服药后须静卧一、二小时。<br/>尿血。用槐花（炒）、郁金（煨）各一两，共研为末。每服二钱，淡豉汤送下。立效。<br/>屙血。用槐花、荆芥穗，等分为末，酒送服一匙。又方：用柏叶三钱，槐花六钱，每日煎汤服。又方：用槐花、枳壳等分，炒存性，研为末，水送服二钱。<br/>妇女漏血。用槐花烧存性。研为末。每服二、三钱，饭前服，温酒送下。<br/>中风失音。炒槐花，三更后仰卧嚼咽。<br/>痈疽发背（凡中热毒，眼花头晕，口干舌甘，心惊背热，四肢麻木，觉有红晕在背部）。用槐花一堆，炒成褐色，泡好酒一碗中，乘热饮酒，汗出即愈，如未退，再炒一服。必愈。<br/>疔疮肿毒。用槐花微炒，核桃仁二两，放入酒一碗中煎开多次，热服。疮未成者二、三服，疮已成者一、二服，即可见效。<br/>白带不止。用槐花（炒）、牡蛎（煅），等分为末。每服三钱，酒送下。<br/>槐实：<br/>肠风泻血。用槐角（去梗，炒）一两，地榆、当归（酒焙）、防风、黄芩、枳壳（麸炒）各半两，共研为末，加酒、糊做成丸子，如梧子大。每服五十丸，米汤送下。此方名“槐角丸”。<br/>大肠脱肛。用槐实、槐花等分，炒为末，蘸羊血炙熟吃（用猪肾去皮蘸末炙熟吃亦可），以酒关下。<br/>内痔、外痔。用槐角一半，捣成汁，捣成汁，晒，浓，取地胆为末，同煎成丸，如梧子大。每服十丸，水送下。作丸时，也作成挺子，纳肛门内。地胆末可用苦参末代替。<br/>目热昏暗。用槐角、黄连各二两，共研为末，加蜜做成丸子，如梧子大。每服二十丸，浆水送下。每天二次。<br/>大热心闷。用槐角烧为末，酒送服一匙。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2012.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2014.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+辽史·列传·卷四_古诗文网
+</title>
+<meta content="耶律敌剌 萧痕笃 康默记(延寿) 韩延徽(德枢　绍勋 绍芳 资让)韩知古(匡嗣 德源 德凝)耶律敌剌，字合鲁隐，遥辇鲜质可汗之子。太祖践阼，与敞稳海里同心辅政。太祖知其忠实，命掌礼" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_8666.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left7519" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>列传·卷四</b></span>
+<a href="javascript:PlayBookv(8666)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv8666" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(7519)" id="leftbtn7519" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay8666" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%84%b1%e8%84%b1%e7%ad%89">脱脱等</a></p>
+<div class="contson">
+<p>　　耶律敌剌 萧痕笃 康默记(延寿) 韩延徽(德枢　绍勋 绍芳 资让)韩知古(匡嗣 德源 德凝)</p>
+<p>　　耶律敌剌，字合鲁隐，遥辇鲜质可汗之子。太祖践阼，与敞稳海里同心辅政。太祖知其忠实，命掌礼仪，且诿以军事。后以平内乱功，代辖里为奚六部吐里，卒。敌剌善骑射，颇好礼文。</p>
+<p>　　萧痕笃，字兀里轸，迭剌部人。其先相遥辇氏。痕笃少慷慨，以才能自任。早隶太祖帐下，数从征讨。既践阼，除北府宰相。痕笃事亲孝，为政尚宽简。</p>
+<p>　　康默记，本名照。少为蓟州衙校，太祖侵蓟州得之，爱其材，隶麾下。一切番、汉相涉事，属默记折衷之，悉合上意。时诸部新附，文法未备，默记推析律意，论决重轻，不差毫厘。罹禁网者，人人自以为不冤。顷之，拜左尚书。神册三年，始建都，默记董役，人咸劝趋，百日而讫事。五年，为皇都夷离毕。会太祖出师居庸关，命默记将汉军进逼长芦水寨，俘馘甚众。天赞四年，亲征渤海，默记与韩知古从。后大諲歙叛，命诸将攻之。默记分薄东门，率骁勇先登。既拔，与韩延徽下长岭府。军还，已下城邑多叛，默记与阿古只平之。既破回跋城，归营太祖山陵毕，卒。佐命功臣其一也。</p>
+<p>　　孙延寿，字胤昌，少倜傥，谓其所亲：“大丈夫为将，当效节边垂，马革裹尸。”景宗特授千牛卫大将军。宋人攻南京，诸将既成列，延寿独奋击阵前，敌遂大溃。以功遥授保大军节度使。乾亨三年卒。</p>
+<p>　　韩延徽，字藏明，幽州安次人。父梦殷，累官蓟、儒、顺三州刺史。延徽少英，燕帅刘仁恭奇之，召为幽都府文学、平州录事参军，同冯道祗候院，授幽州观察度支使。后守光为帅，延徽来聘，太祖怒其不屈，留之。述律后谏曰：“彼秉节弗挠，贤者也，奈何困辱之？”太祖召与语，合上意，立命参军事。攻党项、室韦，服诸部落，延徽之筹居多。乃请树城郭，分市里，以居汉人之降者。又为定配偶，教垦艺，以生养之。以故逃亡者少。</p>
+<p>　　居久之，慨然怀其乡里，赋诗见意，遂亡归唐。已而与他将王缄有隙，惧及难，乃省亲幽州，匿故人王德明舍。德明问所适，延徽曰：“吾将复走契丹。”德明不以为然。延徽笑曰：“彼失我如失左右手，其见我必喜。”既至，太祖问故。延徽曰：“忘亲非孝，弃君非忠。臣虽挺身逃，臣心在陛下。臣是以复来。”上大悦，赐名曰匣列。“匣列”，辽言复来也。即命为守政事令、崇文馆大学士，中外事悉令参决。</p>
+<p>　　天赞四年，从征渤海，大諲歙乞降。既而复叛，与诸将破其城，以功拜左仆射。又与康默记攻长岭府，拔之。师还，太祖崩，哀动左右。太宗朝，封鲁国公，仍为政事令。使晋还，改南京三司使。世宗朝，迁南府宰相，建政事省，设张理具，称尽力吏。天禄五年六月，河东使请行册礼，帝诏延徽定其制，延徽奏一遵太宗册晋帝礼，从之。应历中，致仕。子德枢镇东平，诏许每岁东归省。九年卒，年七十八。上闻震悼，赠尚书令，葬幽州之鲁郭，世为崇文令公。</p>
+<p>　　初，延徽南奔，太祖梦白鹤自帐中出；比还，复入帐中。诘旦，谓侍臣曰：“延徽至矣。”已而果然。太祖初元，庶事草创，凡营都邑，建宫殿，正君臣定，名分，法度井井，延徽力也。为佐命功臣之一。子德枢。</p>
+<p>　　德枢年甫十五，太宗见之，谓延徽曰：“是儿卿家之福，朕国之宝，真英物也！”未冠，守左羽林大将军，迁特进太尉。时汉人降与转徙者，多寓东平。丁岁灾，饥馑疾疠。德枢请往抚字之，授辽兴军节度使。下车整纷剔蠹，恩煦信孚，劝农桑，兴教化，期月民获苏息。入为南院宣徽使，遥授天平军节度使，平、滦、营三州管内观察处置等使，门下平章事。已而加开府仪同三司、行侍中，封赵国公。保宁元年卒。孙绍勋、绍芳。</p>
+<p>　　绍勋，仕至东京户部使。会大延琳叛，被执，辞不屈，贼以锯解之，愤骂至死。</p>
+<p>　　绍芳，重熙间参知政事，加兼侍中。时延议征李元昊，力谏不听，出为广德军节度使。　闻败，呕血卒。</p>
+<p>　　孙资让，寿隆初拜中书侍郎、平章事。会宋徽宗嗣位，遣使来报，有司按籍，有“登宝位”文，坐是出为崇义军节度使。改镇辽兴，卒。</p>
+<p>　　韩知古，蓟州玉田人，善谋有识量。太祖平蓟时，知古六岁，为淳钦皇后兄欲稳所得。后来嫔，知古从焉，未得省见。久之，负其有，怏怏不得志，挺身逃庸保，以供资用。其子匡嗣得亲近太祖，因间言。太祖召见与语，贤之，命参谋议。神册初，遥授彰武军节度使。久之，信任益笃，总知汉儿司事，兼主诸国礼仪。时仪法疏阔，知古援据故典，参酌国俗，与汉仪杂就之，使国人易知而行。顷之，拜左仆射，与康默记将汉军征渤海有功，迁中书令。天显中卒，为佐命功臣之一。子匡嗣。</p>
+<p>　　匡嗣以善医，直长乐宫，皇后视之犹子。应历十年，为太祖庙详稳。后宋王喜隐谋叛，辞引匡嗣，上置不问。初，景宗在藩邸，善匡嗣。即位，拜上京留守。顷之，王燕，改南京留守。保宁末，以留守摄枢密使。时耶律虎古使宋还，言宋人必取河东，合先事以为备。匡嗣诋之曰：“宁有是！”已而宋人果取太原，乘胜逼燕。匡嗣与南府宰相沙、惕隐休哥侵宋，军于满城。方阵，宋人请降。匡嗣欲纳之，休哥曰：“彼军气甚锐，疑诱我也。可整顿士卒以御。”匡嗣不听。俄而宋军鼓噪薄我，众蹙践，尘起涨天。匡嗣仓卒谕诸将，无当其锋。众既奔，遇伏兵扼要路，匡嗣弃旗鼓遁，其众走易州山，独休哥收所弃兵械，全军还。帝怒匡嗣，数之曰：“尔违众谋，深入敌境，尔罪一也；号令不肃，行伍不整，尔罪二也；弃我师旅，挺身鼠窜，尔罪三也；侦候失机，守御弗备，尔罪四也；捐弃旗鼓，损威辱国，尔罪五也。”促令诛之。皇后引诸内戚徐为开解，上重违其请。良久，威稍霁，乃杖而免之。既而遥授晋昌军节度使。乾亨三年，改西南面招讨使，卒。睿智皇后闻之，遣使临吊，赙赠甚厚，后追赠尚书令。五子：德源，德让，后赐名隆运，德威，德崇，德凝。德源、德凝附传，余各有传。</p>
+<p>　　德源，性愚而贪，早侍景宗邸。及即位，列近侍。保宁间，官崇义、兴国二军节度使，加检校太师。以贿名，德让贻书谏之，终不悛。以故论者少之。后加同政事门下平章事，遥摄保宁军节度使。乾亨初卒。</p>
+<p>　　德凝，廉逊谦谨。保宁中，迁护军司徒。开泰中，累迁护卫太保、都宫使、崇义军节度使。移镇广德，秩满，部民请留，从之。改西南面招讨使，党项隆益答叛，平之。迁大同军节度使，卒于官。</p>
+<p>　　子郭三，终天德军节度使。孙高家奴，终南院宣徽使；高十，终辽兴军节度使。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_8665.aspx">上一章</a>
+<a href="/guwen/book_97.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_8667.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right7519" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

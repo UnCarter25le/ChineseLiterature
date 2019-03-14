@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·魏三·秦将伐魏_古诗文网
+</title>
+<meta content="秦将伐魏。魏王闻之，夜见孟尝君，告之曰：“秦且攻魏，子为寡人谋，奈何?”孟尝君曰：“有诸侯之救，则国可存也。”王曰：“寡人愿子之行也。”重为之约车百乘。孟尝君之赵，谓赵王曰：“文愿" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4684.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4074" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>魏三·秦将伐魏</b></span>
+<a href="javascript:PlayBookv(4684)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4684" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4074)" id="leftbtn4074" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4684" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　秦将伐魏。魏王闻之，夜见孟尝君，告之曰：“秦且攻魏，子为寡人谋，奈何?”孟尝君曰：“有诸侯之救，则国可存也。”王曰：“寡人愿子之行也。”重为之约车百乘。</p>
+<p>　　孟尝君之赵，谓赵王曰：“文愿借兵以救魏。”赵王曰：“寡人不能。”孟尝君曰：“夫敢借兵者，以忠王也。”王曰：“可得闻乎?”孟尝君曰：“夫赵之兵，非能强于魏之兵；魏之兵，非能弱于赵也。然而赵之地不岁危而民不岁死，而魏之地岁危而民岁死者，何也?以其西为赵蔽也。今赵不救魏，魏歃盟于秦，是赵与强秦为界也，地亦且岁危，民亦且岁死矣。此文之所以忠于大王也。”赵王许诺，为赵兵十万，车三百乘。</p>
+<p>　　又北见燕王曰；“先日公子常约两王之交矣。今秦且攻魏，愿大王之救之。”燕王曰：“吾岁不熟二年矣，今又行数千里而以助魏，且奈何?”田文曰：“夫行数千里而救人者，此国之利也。今魏王出国门而望见军，虽欲行数千里而助人，可得乎?”燕王尚未许也。田文曰：“臣效便计于王，王不用臣之忠计，文请行矣。恐天下将有大变也。”王曰：“大变可得闻乎?”曰：“秦攻魏未能克之也，而台已燔，游已夺矣。而燕不救魏，魏王折节割地，以国之半与秦，秦必去矣。秦已去魏，魏王悉韩、魏之兵，又西借秦兵，以因赵之众，以四国攻燕，王且何利?利行数千里而助人乎?利出燕南门而望见军乎?则道里近而输又易矣，王何利?”燕王曰：“子行矣，寡人听子。”乃为之起兵八万，车二百乘，以从田文。</p>
+<p>　　魏王大说，曰：“君得燕、赵之兵甚众且亟矣。”秦王大恐，割地请讲于魏。因归燕、赵之兵，而封田文。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4683.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4685.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4074" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

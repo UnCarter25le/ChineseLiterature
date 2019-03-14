@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·养_古诗文网
+</title>
+<meta content="历史来源　　1、出自姬姓，是古公禀父（周太王）的后代，以邑名为氏。太王之子秦入吴，其后建立吴国。春秋时期，吴国公子掩佘、烛庸叛吴逃到楚国，楚王把他们封在养邑（今河南省沈丘县东南）。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2695.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>养</b></span>
+<a href="javascript:PlayBookv(2695)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2695" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2695" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自姬姓，是古公禀父（周太王）的后代，以邑名为氏。太王之子秦入吴，其后建立吴国。春秋时期，吴国公子掩佘、烛庸叛吴逃到楚国，楚王把他们封在养邑（今河南省沈丘县东南）。这两个公子的后代遂在养邑定居，以封地名“养”为姓，称养姓。<br/>　　2、源于春秋，是神射手养由基的后代。周代有养国，后来被楚国灭掉，春秋时为楚大夫神射手养由基的封邑。他的后代子孙有养氏和养由氏。养由基能在百步之外射穿作标记的柳叶，并曾一箭射穿七层铠甲。晋楚鄢陵之战中，楚共王左眼被晋将魏锜射中，共王叫来养由基，给他两支利箭，命他复仇，养由基一箭射死魏锜，拿着剩下的一支箭向共王复命。因此，时人称他为“养一箭”。</p>
+<p><strong>家族名人</strong><br/>　　养奋：东汉郁林人，字叔高，博通古籍，为一时名儒，以布衣举方正。方正是指汉代不须考试而是被选举的功名，要选品行端方，行为正直，学问又好的人。和帝时，因天气不正常，或涝或旱，策问他时，他则说：“天有阴阳，阴阳有四时，四时有政令。春夏则予惠布施宽仁，秋冬则刚猛盛威行刑。赏罚杀生各应其时，则阴阳和，四时调，风雨时，五谷升。今则不然，长吏多不奉行时令，为政举事干逆天气，上不恤下，下不忠上，百姓困乏而不恤哀，众怨郁积，故阴阳不和，风雨不时，灾害缘类。水者阴盛，小人居位，依公营私，谗言诵上。雨漫溢者，五谷有不升而赋税不为减，百姓虚竭，家有愁心也。”所说多直率，切中时弊，一时称为“名儒”。<br/>　　养由基：春秋时楚国名将，是我国古代著名的神射手。当时，还有一个善射箭的人，名叫潘党，能每箭射中箭靶的红心。养由基对他说：“这还不算本事，要能在百步之外射中杨柳叶子，才算差不多了。”潘党不服，当即选定柳树上的三片叶子，并标明号数，叫养由基退到百步之外，顺序射去。养由基连射三箭，果然第一箭中一号叶，第二箭中二号叶，第三箭中三号叶，箭镞全都正中叶心。这就是古代“百步穿杨”或“百发百中”成语典故的由来。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）养姓在大陆和台湾都没有列入百家姓前一百位。周朝曾有养国（今河南省沈丘县东南），后为楚所灭，但当时的养国国民仍有部分以养为姓。春秋时期，楚国大夫名由基，被封在养，叫作养由基，他的后代就以封邑为姓氏，称为养氏。而养由基是著名伪神箭手，成语“百步穿杨”就是形容他的。邓大夫养甥之后以养为姓，后人随之为养氏。养姓望族居于山阳郡，即现在的山东省金乡县西北。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2694.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2696.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

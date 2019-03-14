@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷二·审微_古诗文网
+</title>
+<meta content="善不可谓小而无益，不善不可谓小而无伤，非以小善为一足以利天下，小不善为一足以乱国家也。当夫轻始而傲微，则其流必至于大乱也，是故子民者谨焉。彼人也，登高则望，临深则窥，人之性，非窥且" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18599.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·审微</b></span>
+<a href="javascript:PlayBookv(18599)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18599" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18599" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　善不可谓小而无益，不善不可谓小而无伤，非以小善为一足以利天下，小不善为一足以乱国家也。当夫轻始而傲微，则其流必至于大乱也，是故子民者谨焉。</p>
+<p>　　彼人也，登高则望，临深则窥，人之性，非窥且望也，势使然也。夫事有逐奸，势有召祸。老?曰：“为之于未有，治之于未乱。”管仲曰：“备患于未形”，上也。语曰：“焰焰弗灭，炎炎柰何，萌芽不伐，且折斧柯。”智禁于微，次也。事之适乱，如地形之惑人也，机渐而往，俄而东西易面，人不自知也。故墨子见衢路而哭之，悲一跬而缪千里也。</p>
+<p>　　昔者卫侯朝于周，周行问其名，曰：“卫侯辟强。”周行还之曰：“启强、辟强，天子之号也，诸侯弗得用。”卫侯更其名曰毁，然后受之。故善守上下之分者，虽空名弗使踰焉。</p>
+<p>　　古者周礼，天子葬用隧，诸侯县下。周襄王出逃伯斗，晋文公率师诛贼，定周国之乱，复襄王之位。于是襄王赏以南阳之地，文公辞南阳，即死得以隧下，襄王弗听，曰：“周国虽微，未之或代也。天子用隧，伯父用隧，是二天子也。以地为少，余请益之。”文公乃退。</p>
+<p>　　礼，天子之乐，宫县；诸侯之乐，轩县；大夫直县；士有琴瑟。叔孙于奚者，卫之大夫也。曲县者，卫君之乐体也。繁缨者，君之驾饰也。齐人攻卫，叔孙于奚率师逆之，大败齐师，卫于是赏以温。叔孙于奚辞温，而请曲县繁缨以朝，卫君许之。孔子闻之曰：“惜乎！不如多与之邑。夫乐者，所以载国；国者，所以载君。彼乐亡而礼从之，礼亡而政从之，政亡而国从之，国亡而君从之。惜乎！不如多予之邑。”</p>
+<p>　　宓子治亶父，于是齐人攻鲁，道亶父。始父老请曰：“麦已熟矣，今迫齐寇，民人出自艾傅郭者，归可以益食，且不资寇。”三请，宓子弗听，俄而麦毕资乎齐寇。季孙闻之，怒，使人让宓子曰：“岂不可哀哉！民乎，寒耕热耘，曾弗得食也。弗知犹可，闻或以告，而夫子弗听。”宓子蹴然曰：“今年无麦，明年可树，令不耕者得获，是乐有寇也。且一岁之麦，于鲁不加强，丧之不加弱。令民有自取之心，其创必数年不息。”季孙闻之，惭，曰：“使穴可入，吾岂忍见宓子哉！”</p>
+<p>　　故明者之感奸由也蚤，其除乱谋也远，故邪不前达。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18598.aspx">上一章</a>
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18600.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·儒行解_古诗文网
+</title>
+<meta content="孔子在衛，冉求言於季孫曰：「國有聖人而不能用，欲以求治，是猶卻步而欲求及前人，不可得已．今孔子在衛，衛將用之．己有才而以資鄰國，難以言智也，請以重幣迎之．季孫以告哀公，公從之．孔子" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4114.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2714" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>儒行解</b></span>
+<a href="javascript:PlayBookv(4114)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4114" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2714)" id="leftbtn2714" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4114" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　孔子在衛，冉求言於季孫曰：「國有聖人而不能用，欲以求治，是猶卻步而欲求及前人，不可得已．今孔子在衛，衛將用之．己有才而以資鄰國，難以言智也，請以重幣迎之．季孫以告哀公，公從之．孔子既至，舍哀公館焉．公自阼階，孔子賓階升堂立侍．公曰：「夫子之服，其儒服與？」孔子對曰：「丘少居魯，衣逢掖之衣．長居宋，冠章甫之冠．丘聞之，君子之學也，博其服以鄉，丘未知其為儒服也．」公曰：「敢問儒行？」孔子曰：「略言之則不能終其物，悉數之則留僕未可以對．」哀公命席，孔子侍坐曰：「儒有席上之珍以待聘，夙夜強學以待問，懷忠信以待舉，力行以待取，其自立有如此者．儒有衣冠，中動作順，其大讓如慢，小讓如偽，大則如威，小則如媿，難進而易退，粥粥若無能也，其容貌有如此者．儒有居處齊難，其起坐恭敬，言必誠信，行必忠正，道塗不爭險易之利，冬夏不爭陰陽之和；愛其死以有待也，養其身以有為也，其備預有如此者．儒有不寶金玉，而忠信以為寶，不祈土地，而仁義以為土地；不求多積多文以為富；難得而易祿也，易祿而難畜也；非時不見，不亦難得乎？非義不合，不亦難畜乎？先勞而後祿，不亦易祿乎？其近人情，有如此者．儒有委之以財貨而不貪，淹之以樂好而不淫，劫之以眾而不懼，阻之以兵而不懾；見利不虧其義，見死不更其守；徃者不悔，來者不豫；過言不再，流言不極；不斷其威，不習其謀；其特立有如此者．儒有可親而不可劫，可近而不可迫，可殺而不可辱；其居處不過，其飲食不溽；其過失可徵辯，而不可面數也；其剛毅有如此者．儒有忠信以為甲冑，禮義以為干櫓；戴仁而行，抱德而處；雖有暴政，不更其所；其自立有如此者．儒有一畝之宮，環堵之室，蓽門圭窬，蓬戶甕牖，易衣而出，并日而食；上答之，不敢以疑，上不答之，不敢以諂；其為士有如此者．儒有今人以居，古人以｛尤旨｝，今世行之，後世以為楷，若不逢世，上所不受，下所不推；詭諂之民，有比黨而危之，身可危也，其志，不可奪也；雖危起居，猶竟信其志，乃不忘百姓之病也；其憂思有如此者．儒有博學而不窮，篤行而不倦，幽居而不淫，上通而不困；禮必以和，優游以法；慕賢而容眾，毀方而瓦合；其寬裕有如此者．儒有內稱不避親，外舉不避怨；程功積事，不求厚祿，推賢達能，不望其報；君得其志，民賴其德，苟利國家，不求富貴；其舉賢援能，有如此者．儒有澡身浴德，陳言而伏；靜言而正之，而上下不知也；默而翹之，又不急為也；不臨深而為高，不加少而為多；世治不輕，世亂不沮；同己不與，異己不非；其特立獨行，有如此者．儒有上不臣天子，下不事諸侯，慎靜尚寬，底厲廉隅，強毅以與人，博學以知服；雖以分國，視之如錙銖，弗肯臣仕；其規為有如此者．儒有合志同方，營道同術，並立則樂，相下不厭；久別則聞，流言不信，義同而進，不同而退，其交有如此者．夫溫良者，仁之本也；慎敬者，仁之地也；寬裕者，仁之作也；遜接者，仁之能也；禮節者，仁之貌也；言談者，仁之文也；歌樂者，仁之和也；分散者，仁之施也；儒皆兼此而有之，猶且不敢言仁也；其尊讓有如此者．儒有不隕穫於貧賤，不充詘於富貴；不溷君王，不累長上，不閔有司，故曰儒．今人之名儒也，忘常以儒相詬疾．」哀公既得聞此言也，言加信，行加敬．曰：「終歿吾世，弗敢復以儒為戲矣．」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4113.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4115.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2714" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,111 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·楚语·叶公子高论白公胜必乱楚国_古诗文网
+</title>
+<meta content="子西使人召王孙胜，沈诸梁闻之，见子西曰：“闻子召王孙胜，信乎？”曰：“然。”子高曰：“将焉用之？”曰：“吾闻之，胜直而刚，欲置之境。”子高曰：“不可。其为人也，展而不信，爱而不仁，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9782.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8533" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>楚语·叶公子高论白公胜必乱楚国</b></span>
+<a href="javascript:PlayBookv(9782)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9782" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8533)" id="leftbtn8533" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9782" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+子西使人召王孙胜，沈诸梁闻之，见子西曰：“闻子召王孙胜，信乎？”曰：“然。”子高曰：“将焉用之？”曰：“吾闻之，胜直而刚，欲置之境。”
+</p><p>　　
+子高曰：“不可。其为人也，展而不信，爱而不仁，诈而不智，毅而不勇，直而不衷，周而不淑。复言而不谋身，展也；爱而不谋长，不仁也；以谋盖人，诈也；强忍犯义，毅也；直而不顾，不衷也；周言弃德，不淑也。是六德者，皆有其华而不实者也，将焉用之。
+</p><p>　　
+“彼其父为戮于楚，其心又狷而不洁。若其狷也，不忘旧怨，而不以洁悛德，思报怨而已。则其爱也足以得人，其展也足以复之，其诈也足以谋之，其直也足以帅之，其周也足以盖之，其不洁也足以行之，而加之以不仁，奉之以不义，蔑不克矣。
+</p><p>　　
+“夫造胜之怨者，皆不在矣。若来而无宠，速其怒也。若其宠之，毅贪无厌，既能得入，而耀之以大利，不仁以长之，思旧怨以修其心，苟国有衅，必不居矣。非子职之，其谁乎？彼将思旧怨而欲大宠，动而得人，怨而有术，若果用之，害可待也。余爱子与司马，故不敢不言。”
+</p><p>　　
+子西曰：“德其忘怨乎！余善之，夫乃其宁。”子高曰：“不然。吾闻之，唯仁者可好也，可恶也，可高也，可下也。好之不偪，恶之不怨，高之不骄，下之不惧。不仁者则不然。人好之则偪，恶之则怨，高之则骄，下之则惧。骄有欲焉，惧有恶焉，欲恶怨偪，所以生诈谋也。子将若何？若召而下之，将戚而惧；为之上者，将怒而怨。诈谋之心，无所靖矣。有一不义，犹败国家，今壹五六，而必欲用之，不亦难乎？吾闻国家将败，必用奸人，而嗜其疾味，其子之谓乎？
+</p><p>　　
+“夫谁无疾眚！能者早除之。旧怨灭宗，国之疾眚也，为之关蘥蕃篱而远备闲之，犹恐其至也，是之为日惕。若召而近之，死无日矣。人有言曰：‘狼子野心，怨贼之人也。’其又何善乎？若子不我信，盍求若敖氏与子干、子皙之族而近之？安用胜也，其能几何？
+</p><p>　　
+“昔齐驺马以胡公入于具水，邴歜、阎职戕懿公于囿竹，晋长鱼矫杀三郤于榭，鲁圉人荦杀子般于次，夫是谁之故也，非唯旧怨乎？是皆子之所闻也。人求多闻善败，以监戒也。今子闻而弃之，犹蒙耳也。吾语子何益，吾知逃也已。”
+</p><p>　　
+子西笑曰：“子之尚胜也。”不从，遂使为白公。子高以疾闲居于蔡。及白公之乱，子西、子期死。叶公闻之，曰：“吾怨其弃吾言，而德其治楚国，楚国之能平均以复先王之业者，夫子也。以小怨置大德，吾不义也，将入杀之。”帅方城之外以入，杀白公而定王室，葬二子之族。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9781.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9783.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8533" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

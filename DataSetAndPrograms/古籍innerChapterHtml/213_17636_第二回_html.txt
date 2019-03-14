@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+小五义·第二回_古诗文网
+</title>
+<meta content="智化夜深铜网阵　玉堂涉险盗盟单且说智化行至王府后身，将百宝囊中飞抓百练索取出，如意钩搭住墙头，揪绳而上。至墙头，起飞抓，绕绒绳，收入囊内。取问路石打于地上，一无人声，二无犬吠，飘身" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17636.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第二回</b></span>
+<a href="javascript:PlayBookv(17636)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17636" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17636" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　<strong>智化夜深铜网阵　玉堂涉险盗盟单</strong></p>
+<p>　　且说智化行至王府后身，将百宝囊中飞抓百练索取出，如意钩搭住墙头，揪绳而上。至墙头，起飞抓，绕绒绳，收入囊内。取问路石打于地上，一无人声，二无犬吠，飘身脚站实地看了看，黑夜之间，星斗之下，空落落杳无人声。垫双人字步，弓（骨可）膝盖，鹿伏鹤行，瞻前顾后，瞧左看右，不住频频回头。忽然间抬头一看，黑威威、高耸耸木板连环八卦连环堡。智爷一瞧，西北方向木板墙极其高大，听张华所言，不能依墙头而入，上有冲天弩，若依墙头而入，被毒弩射着，溃烂身死。下有大门两扇，按八方八门。大门内各套七个小门，按的是八八六十四卦，三百八十四爻，内分凶卦吉卦，六合 六冲，归魂游魂。走吉卦则吉，无忧利涉大川。走凶卦内有翻板，从地道中出人，使进阵人首尾不能相顾，使招架人的兵刃。足下斜万字势，总要踏在当中，如若一歪，登在滚板之上坠落 下去，坑内有犁刀、窝刀、毒弩、药箭，立刻倾生。故此智爷到木板连环八卦连环堡外瞧了又瞧，看了又看，心中转侧。回手拉刀，点于大门之上，里面并无横闩立锁，一点即开。果然内有连环七个小门，斜棱掉角。自己寻思，大门乃乾为天，天风垢、天山遁、天地否、风地观、山地剥、火地晋、火天大有。智爷看的明白，未敢进去。扑奔正北，也是两扇大门。用刀点开，也是小门。智爷一瞧，大门乃是北方坎为水，七个小门是：水泽节、水雷屯、水火既济、泽火革、雷火丰、地火明夷、地水师。智爷乃是精细之人，仍然扑奔东北，刀点双门，乃艮为山，小门山火贲、山天大畜、山泽损、火泽睽、天泽履、风泽中孚、风山渐。智爷仍不肯进去。行至正东，刀点双门，大门乃震为雷，小门雷地豫、雷水解、雷风恒、地风升、水风井、泽风大过、泽雷随。智爷行至东南，不用开门，知是巽为风，风天小畜、风火家人、风雷益、天雷无妄、火雷噬嗑、山雷颐、山风蛊。正南，离为火，火山旅、火风鼎、火水未济、山水蒙、风水涣、天水讼、天人同人。西南，坤为地，地雷复、地泽临、地天泰、雷天大壮、泽天夬、水天需、水地比。智爷行至正西，刀点双门，用意细看，乃兑为泽，泽水困、泽地萃、泽山咸、水山蹇、地山谦、雷山小过、雷泽归妹。心中忖度，由地山谦而入。按卦爻说，逢谦而吉，遇泰而昌。</p>
+<p>　　入地山谦，数了又数，算了又算，可见智爷是“胆愈大而心愈小，智愈圆而行愈方”。智爷来到此处，皆是生发着自己。由西方而入，西方庚辛金，金能生水，智爷穿一身夜行衣靠，尽是黑色，属水；北方壬癸水，金能生水，生发着自己；又入的是地山谦吉卦，又是生发着自己，故此吉祥。脚着万字势当中，心神念看定，不偏也不歪。行至当中，见正北高耸耸冲霄楼三层。下有五行栏杆，左有石象，上驼宝瓶；右有石（豸孔），上驼聚宝盆。宝瓶、聚宝盆两物当中，有两条毛连铁链，当中交 搭十字架，两边挂于三层楼瓦檐之上。此楼三层，按三才；下面栏杆，按五行。外有八卦连环堡，位列上中下，才分天地人。五行，生父子；八卦，定君臣。前有两个圆亭，左为日升，右为月恒。铜网阵在于楼下。智爷看明，意欲扑奔楼去：“尽三层的上面，现有王爷 大众的盟单。吾今既然到此，何不将盟单盗将下来？明日见了五弟之时，说王府的利害，他倘若不信，现有盟单为证。”</p>
+<p>　　智爷意欲向前，忽然听东南“飕”的一声，由风火家人进来一条黑影。智爷吃惊，伏身细看，原来是一人也奔中央而来，一身夜行衣靠，白脸面，背插单刀，行似猿猴，脚着万字势当中，轻而且快，疑是五弟到了。智爷收刀击掌两下。对面言：“二哥因何到此？”智爷方知果是白五弟。智爷知晓陷空岛弟兄五人的暗令，每遇黑夜见面，大爷去一下，二爷击两下，按次序击掌，故此假充二义士韩章。</p>
+<p>　　原来五爷跟随大人入上院衙，大人升堂，五爷与公孙先生站班，所有襄陽的文武鱼贯而入，细细盘察为官的来历，再问襄陽王的好歹。若有王爷 的保举，不是削去前程，就是明升暗降。故此耽延时刻，夤夜方散。五爷抽身告便，换便服出上院衙，至王府前后踩道，以备晚间至王府窥探虚实。回至上院衙，与大人同桌而食。颜大人再三嘱咐，不许只身夜晚入襄陽王府。五爷遂满口应承，心中早有准备，劝大人安歇后，自己换好夜行衣靠，嘱咐手下从人张祥儿：“大人若问，不许说出。”自己施展夜行术，出上院衙，至王府，飞抓百练索搭墙，掏问路石问路，并无人声犬吠。下墙至木板连环八卦连环堡，一看乾、坎、艮、震四大门皆开，各套七个小门，自己早已明白，就知道乾为天，天风垢、天山遁、天地否、风地观、山地剥、火地晋、火天大有。坎为水，水泽节、水雷屯、水火既济、泽火革、雷火丰、地火明夷、地水师；艮为山，山火贲、山天大畜、山泽损、火泽睽、天泽履、风泽中孚、风山渐；震为雷，雷地豫、雷水解、雷风恒、地风升、水风井、泽风大过、泽雷随。行至东南，巽为风，五爷一笑，刀点双门，心中忖度：“可惜襄陽王不知听了什么人的蛊惑，作此无用之物，难道说还是个阵势不成么？据我一看，除非是三岁的顽童不晓，但要稍知生克治化之理，如踏平地一般。”此乃巽为风，吉卦，走风火家人，脚踏万字势当中。</p>
+<p>　　忽然听前边击掌两下，知是二哥在此，倒觉吃惊：十二哥不懂的消息。“身临切近，原是智兄在此。见礼，智爷搀住。智爷言道：“你好大胆量！”五爷勃然大怒：“智兄！怎么说小弟好大胆量？你莫非比小弟胆量还大不成？”智爷深知五爷的性情，好高骛远，妄自尊大，只知有己，不知有人，藐视天下的能人。智爷满脸陪笑说：“五弟莫怒，劣兄非是胆大到此，因有王府人泄机，方敢前来。五弟听何人所说此阵？”五爷大笑：“小小的八卦，何足道哉！不是小弟说句大话，我们陷空岛七窟四岛，三峰六岭，三窍二十五孔，各处全都是西洋八宝螺丝转弦的法子，全是小弟所造。这个小小的连环堡，玩艺一般。”智爷吃惊不小：“五弟，既然你明白，我问问你：这个楼，叫什么楼？这个栏杆，怎么讲？这两个亭子，何用外头的木板？咱们走的道路，是什么消息？”五爷大笑说：“智兄你好愚！这个楼，他喜叫什么楼，就是什么楼，横竖我知道他的用意。三层，必是三才；栏杆，必是五行；好合外面的木板，是八卦；两个圆亭，必是阵眼；脚下所走之地，明显万字势，走当中，两边必是滚板，坠落 下去，轻者带伤，重者废命；八卦者，走吉卦则吉，走凶卦则凶，不是有人，就是弩箭齐发。”话言未了，智爷连连点头，甘心佩服，名不虚传，也就不必往下再问。焉知晓净说了上头，没说底下铜网阵之事。智爷言道：“你我二人既入宝山，焉肯空返，何不将冲霄楼上王爷 的盟单盗来，拿获王爷 时以作干证。”五爷点头：“待小弟上楼，兄与小弟巡风。”</p>
+<p>　　将至楼下，二人说话声音太高，早被看阵人听见，在石象、石（豸孔）两旁边地板一起，上来一人，形如怪鬼，手持利刃，杀奔前来。要问二位的生死，且听下回分解。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17635.aspx">上一章</a>
+<a href="/guwen/book_213.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17637.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

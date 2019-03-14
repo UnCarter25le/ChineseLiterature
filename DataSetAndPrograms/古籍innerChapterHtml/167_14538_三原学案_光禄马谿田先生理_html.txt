@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·三原学案·光禄马谿田先生理_古诗文网
+</title>
+<meta content="马理字伯循，号谿田，陕之三原人。为孝廉时，游太学，与吕泾野、崔后渠交相劘，名震都下。高丽使人亦知慕之，录其文以归。父母连丧，不与会试者两科。安南贡使问礼部主事黄清曰：“关中马理先生" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14538.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>三原学案·光禄马谿田先生理</b></span>
+<a href="javascript:PlayBookv(14538)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14538" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14538" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　马理字伯循，号谿田，陕之三原人。为孝廉时，游太学，与吕泾野、崔后渠交相劘，名震都下。高丽使人亦知慕之，录其文以归。父母连丧，不与会试者两科。安南贡使问礼部主事黄清曰：“关中马理先生何尚未登仕籍？”其名重外夷如此。登正德甲戌进士第。时以《大学衍义》为问，先生对曰：“《大学》之书，乃尧、舜、禹、汤、文、武之道也。《传》有‘克明峻德，汤之盘铭，尧、舜帅天下以仁’之语，真氏所衍唐、汉、宋之事，非《大学》本旨也。真氏所衍，止於齐家，不知治国平天下皆本於慎独工夫。宋儒所造，大率未精。”以此失问者之意，故欲填首甲而降之。授稽勋主事，改文选，与郎中不合，引疾告归者三年。戊寅，值武庙将南巡，与黄伯固等伏阙极谏，杖於廷。未几送嫡母还乡，乃设教於武安王祠。藩臬为建嵯峨精舍以居生徒。嫡母丧毕，起员外郎，议大礼，复杖於廷。寻转考功郎中。丙戌，例当考察外官，内阁塚宰各挟私忿，欲去广东、河南、陕西三省提学。先生昌言曰：“魏校、萧鸣凤、唐龙，今有数人物，若欲去此三人，请先去理。”由是获免。丁亥陞南通政。过河池驿，见其丞貌类黄伯固，问之，乃其弟叔开也。时伯固已死，先生泫然泣下，作诗赠之云：“六年复见先生面，为过河池见叔开。”戊子，引疾归。辛卯，起光禄卿。莅事未几，又归林下者十年。癸卯，复起南光禄，至即引年致仕，隐於商山书院。又十年而卒，嘉靖乙卯十二月也，年八十二。</p>
+<p>　　先生师事王康僖，又得泾野、后渠以为之友，墨守主敬穷理之传。尝谓“见行可之仕，唯孔子可以当之，学圣人者当自量力。”故每出不一二年即归，归必十数年而后起，绰绰然於进退之间。后渠称其“爱道甚於爱官”，真不虚也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14537.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14539.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

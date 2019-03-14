@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·看命口诀八_古诗文网
+</title>
+<meta content="凡命怕同类相破如：己未见甲辰，甲辰见己丑，己丑见甲戌，甲戌见己未。凡在四冲之地，纳音同类，逐两位逆数之。寅申巳亥，子午卯酉亦以此取，主平生不足，多不成器。道经云：井栏互破，无药可医" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16644.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·看命口诀八</b></span>
+<a href="javascript:PlayBookv(16644)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16644" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16644" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　凡命怕同类相破如：</p>
+<p>　　己未见甲辰，甲辰见己丑，己丑见甲戌，甲戌见己未。</p>
+<p>　　凡在四冲之地，纳音同类，逐两位逆数之。</p>
+<p>　　寅申巳亥，子午卯酉亦以此取，主平生不足，多不成器。</p>
+<p>　　道经云：井栏互破，无药可医，遇空亡庶几，岁运亦忌之。</p>
+<p>　　凡命主本逢岁运不可遇死地，如丙寅火畏乙卯木，辛已金畏丁酉火，甲申水畏己卯土，</p>
+<p>　　戊申土畏壬午木，己亥木畏甲子金。与人生怕死同义。主本生死同途则不忌。</p>
+<p>　　凡命最怕鬼克而窠鬼最毒，如丙子水见庚子土，丁丑水见辛丑土之类。</p>
+<p>　　窠中就位相克所以最毒，有墓中鬼，如壬辰水见丙辰土，丙辰土见戊辰木之类。</p>
+<p>　　有隔壁鬼，如庚子土见癸丑木之类。有空亡鬼，如甲戌见甲申乙酉之类。皆主为害。</p>
+<p>　　内墓鬼轻于窠鬼，璧鬼轻于墓鬼，空鬼轻于璧鬼。</p>
+<p>　　若木命人得火月金日时之类，有火克金，金不得伤木是御鬼也。</p>
+<p>　　鬼不为害，如水命人四柱有火，上土克水，火又生土是助鬼也。其鬼尤凶。</p>
+<p>　　干支通出，纳音最紧，御鬼则立身于艰难。助鬼则骨肉多，生平破斗。</p>
+<p>　　若鬼中有鬼谓之鬼啸，如土人生木月金日时之类，以木克土金克木根基劣弱则凶。</p>
+<p>　　主本强健不忌，如王某己未、乙亥、丙寅、辛卯逢三合生，更遇寅卯，为己入官乡，丙与辛合大贵。奈己阴土逢乙木作鬼，又遇辛作乙木之鬼，变寅卯之官作己土鬼。在亥卯未三合位，通是鬼克，犯鬼啸也。故主恶死。经曰：五行切忌下贼上，平生不足事相萦。</p>
+<p>　　又曰：鬼啸分明格局恶，更加刑煞祸不差，纵使以前逢富贵，定知日后厌年华。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16643.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16645.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

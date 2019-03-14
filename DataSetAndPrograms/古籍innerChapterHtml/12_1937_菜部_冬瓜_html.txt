@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·菜部·冬瓜_古诗文网
+</title>
+<meta content="释名白瓜、水芝、地芝。气味白冬瓜：甘、微寒、无毒。瓜练：甘、平、无毒。白瓜子：甘、平、无毒。主治白冬瓜：1、消渴不止。冬瓜一枚，削皮，埋湿地中一日，取出破开，饮其汁水。或将瓜烧熟，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1937.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>菜部·冬瓜</b></span>
+<a href="javascript:PlayBookv(1937)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1937" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1937" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>白瓜、水芝、地芝。</p>
+<p><strong>气味</strong><br/>白冬瓜：甘、微寒、无毒。<br/>瓜练：甘、平、无毒。<br/>白瓜子：甘、平、无毒。</p>
+<p><strong>主治</strong><br/>白冬瓜：<br/>1、消渴不止。冬瓜一枚，削皮，埋湿地中一日，取出破开，饮其汁水。或将瓜烧熟，绞汁饮服亦可。 2、浮肿喘满。用大冬瓜一枚，切盖去瓤，填入赤小豆，加盖封固，晒干、埋糯糠中火煨，火尽后，取瓜切片，同豆焙干为末，加水、糊做成丸子，如梧子大。每服七十丸，煎冬瓜子汤送下。一天服三次，以小便畅通为度 3、痔疮肿痛。用冬瓜煎汤洗。 4、热毒、痱子。用冬瓜切片摩涂。<br/>瓜练（瓜瓤）：<br/>1、消渴烦乱。用干冬瓜瓤一两煎水服。 2、水肿，小便少。用冬瓜瓤煎水服。<br/>白瓜子（冬瓜仁）：<br/>1、补肝明目。用冬瓜仁七程式，包布袋内，投主沸汤中几次，取出晒干，再在清酒中泡两晚。晒干研为末。每天服一匙。又方：取瓜子三、五升，去皮为丸，每日空心服十丸。 2、男子白浊。用陈冬瓜仁（炒）研为末。每服五钱，空心服，米汤送下。 3、女子白带。治方同上。<br/>瓜皮：<br/>1、跌打损伤。用干冬瓜皮一两、真牛皮胶一两，锉入锅内，炒存性，研为末。每服五钱，好酒热后送下。服药后厚盖静卧，有微汗，痛即减。 2、腰闪痛。用冬瓜皮烧研，酒送服一钱。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1936.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1938.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

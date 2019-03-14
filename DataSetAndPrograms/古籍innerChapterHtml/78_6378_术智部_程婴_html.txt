@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·术智部·程婴_古诗文网
+</title>
+<meta content="【原文】屠岸贾攻赵氏于下宫，杀赵朔、赵同、赵括、赵婴齐，皆灭其族。赵朔妻，成公姊也，有遗腹，走公宫匿，赵朔客曰公孙杵臼。杵臼谓朔友人程婴曰：“胡不死？”程婴曰：“朔之妇有遗腹。若幸" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6378.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5341" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>术智部·程婴</b></span>
+<a href="javascript:PlayBookv(6378)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6378" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5341)" id="leftbtn5341" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6378" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　屠岸贾攻赵氏于下宫，杀赵朔、赵同、赵括、赵婴齐，皆灭其族。赵朔妻，成公姊也，有遗腹，走公宫匿，赵朔客曰公孙杵臼。杵臼谓朔友人程婴曰：“胡不死？”程婴曰：“朔之妇有遗腹。若幸而生男，吾奉之；即女也。吾徐死耳。”居无何，而朔妇娩身生男，屠岸贾闻之，索于宫中，夫人置儿裤中，祝曰：“赵宗灭乎，若号；即不灭，若无声。”及索儿，竟无声，已脱。程婴谓公孙杵臼曰：“今一索不得，后必且复索之，奈何？”公孙杵臼曰：“立孤与死孰难？”（边批：只一问，便定了局。）程婴曰：“死易，立孤难耳。”公孙杵臼曰：“赵氏先君遇子厚，子强为其难者。吾为其易者，请先死。”乃谋取他人婴儿负之，衣以文葆，匿山中。（边批：妙计。）程婴出，谬谓诸将军曰：“婴不肖，不能立赵孤，谁能与我千金，我告赵氏孤处。”（边批：更妙。）诸将军皆喜，许之。发师随程婴攻公孙杵臼，杵臼谬曰：“小人哉程婴!昔下宫之难不能死，与我谋匿赵氏孤儿，今又卖我，纵不能立，而忍卖之乎？”抱儿呼曰：“天乎!天乎!赵氏孤儿何罪？请活之，独杀杵臼可也!”诸将不许，遂杀杵臼与孤儿。诸将以为赵氏孤儿良已死，皆喜。然赵氏真孤乃反在，程婴卒与俱匿山中。居十五年，晋景公疾，卜之：“大业之后不遂者为祟。”（边批：安知非赂卜者使为此言。）景公问韩厥，厥知赵孤在，（边批：妙人。）乃以赵氏对，景公问：“赵尚有后子孙乎？”厥具以实告。于是景公乃与韩厥谋立赵孤儿，召而匿之宫中。诸将入问疾，景公因韩厥之众以胁诸将而见赵孤，赵孤名曰武。诸将不得已，皆委罪于屠岸贾，于是武、婴遍拜诸将，相与攻岸贾，灭其族。复与赵武田邑如故。及武既冠成人，婴曰：“吾将下报公孙杵臼。”遂自杀。</p>
+<p>　　〔评〕赵氏知人，能得死士力，所以蹶而复起，卒有晋国。后世缙绅门下，不以利投，则以谀合，一旦有事，孰为婴、杵？</p>
+<p>　　鲁武公与其二子括与戏朝周，宣王爱戏，立为鲁世子。武公薨，戏立，是为懿公。时公子称最少，其保母臧寡妇与其子俱入宫养公子称。括死，而其子伯御与鲁人作乱，攻杀懿公而自立，求公子称，将杀之。臧闻之，乃衣其子以称之衣，卧于称处，伯御杀之。臧遂抱称以出，遂与称舅同匿之。十一年，鲁大夫知称在，于是请于周而杀伯御，立称，是为孝公。时呼臧为“孝义保”。事在婴、杵前，婴、杵盖袭其智也。然婴之首孤，杵之责婴，假装酷似，不唯仇人不疑，而举国皆不知，其术更神矣，其心更苦矣!</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6377.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6379.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5341" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

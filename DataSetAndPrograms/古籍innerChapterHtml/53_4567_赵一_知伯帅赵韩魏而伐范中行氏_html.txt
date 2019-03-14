@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·赵一·知伯帅赵韩魏而伐范中行氏_古诗文网
+</title>
+<meta content="知伯帅赵、韩、魏而伐范中行氏，灭之。休数年，使人请地于韩。韩康子欲勿与，段规谏曰：“不可。夫知伯之为人也，好利而鸷复，来请地不与，必加兵于韩矣。君其与之。与之彼狃，又将请地于他国，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4567.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3850" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>赵一·知伯帅赵韩魏而伐范中行氏</b></span>
+<a href="javascript:PlayBookv(4567)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4567" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3850)" id="leftbtn3850" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4567" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　知伯帅赵、韩、魏而伐范中行氏，灭之。休数年，使人请地于韩。韩康子欲勿与，段规谏曰：“不可。夫知伯之为人也，好利而鸷复，来请地不与，必加兵于韩矣。君其与之。与之彼狃，又将请地于他国，他国不听，必乡之以兵；然则韩可以免于患难，而待事之变。”康子曰：“善。”使使者致万家之邑一于知伯。知伯说，又使人请地于魏，魏宣子欲勿与。赵葭谏曰：“彼请地于韩，韩与之。请地于魏，魏弗与，则是魏内自强，而外怒知伯也。然则其错兵于魏必矣!不如与之。”宣子曰：“诺。”因使人致万家之邑一于知伯。知伯说，又使人之赵，请蔡、皋狼之地，赵襄子弗与。知伯因阴结韩、魏，将以伐赵。</p>
+<p>　　赵襄子召张孟谈而告之曰：“夫知伯之为人，阳亲而阴疏，三使韩、魏，而寡人弗与焉，其移兵寡人必矣。今吾安居而可?”张孟谈曰：“夫董阏安于，简主之才臣也，世治晋阳，而尹泽循之，其余政教犹存，君其定居晋阳。”君曰：“诺。”乃使延陵王将车骑先之晋阳，君因从之。至，行城郭，案府库，视仓廪，召张孟谈曰：“吾城郭之完，府库足用，仓廪实矣，无矢奈何?”张孟谈曰：“臣闻董子之治晋阳也，公宫之垣，皆以狄蒿苫楚廧之，其高至丈余，君发而用之。”于是发而试之，其坚则箘簬之劲不能过也。君曰：“足矣，吾铜少若何?”张孟谈曰：“臣闻董子之治晋阳也，公宫之室，皆以炼铜为柱质，请发而用之，则有余铜矣。”君曰：“善。”号令以定，备守以具。</p>
+<p>　　三国之兵乘晋阳城，遂战。三月不能拔，因舒军而围之，决晋水而灌之。围晋阳三年，城中巢居而处，悬釜而炊，财食将尽，士卒病羸。襄子谓张孟谈曰：“粮食匮，城力尽，士大夫病，吾不能守矣。欲以城下，何如?”张孟谈曰：“臣闻之，亡不能存，危不能安，则无为贵知士也。君释此计，勿复言也。臣请见韩、魏之君。”襄子曰：“诺。”</p>
+<p>　　张孟谈于是阴见韩、魏之君曰：“臣闻唇亡则齿寒，今知伯帅二国之君伐赵，赵将亡矣，亡则二君为之次矣。”二君曰：“我知其然。夫知伯为人也，麁中而少亲，我谋未遂而知，则其祸必至，为之奈何?”张孟谈曰：“谋出二君之口，入臣之耳，人莫之知也。”二君即与张孟谈阴约三军，与之期日，夜，遣入晋阳。张孟谈以报襄子，襄子再拜之。</p>
+<p>　　张孟谈因朝知伯而出，遇知过辕门之外。知过入见知伯曰：“二主殆将有变。”君曰：“何如?”对曰：“臣遇张孟谈于辕门之外，其志矜，其行高。”知伯曰：“不然。吾与二主约谨矣，破赵三分其地，寡人所亲之，必不欺也。子释之，勿出于口。”知过出见二主，入说知伯曰：“二主色动而意变，必背君，不如令杀之。”知伯曰：“兵箸晋阳三年矣，旦暮当拔之而飨其利，乃有他心?不可，子慎勿复言。”知过曰：“不杀则遂亲之。”知伯曰：“亲之奈何?”知过曰：“魏宣子之谋臣曰赵葭，康子之谋臣曰段规，是皆能移其君之计。君其与二君约，破赵则封二子者各万家之县一，如是则二主之心可不变，而君得其所欲矣。”知伯曰：“破赵而三分其地，又封二子者各万之县一，则吾所得者少，不可。”知过见君之不用也，言之不听，出，更其姓为辅氏，遂去不见。</p>
+<p>　　张孟谈闻之，入见襄子曰：“臣遇知过于辕门之外，其视有疑臣之心，入见知伯，出更其姓。今暮不击，必后之矣。”襄子曰：“诺。”使张孟谈见韩、魏之君曰：“夜期杀守堤之吏，而决水灌知伯军。”知伯军救水而乱，韩、魏翼而击之，襄子将卒犯其前，大败知伯军而禽知伯。</p>
+<p>　　知伯身死，国亡地分，为天下笑，此贪欲无厌也。夫不听知过，亦所以亡也。知氏尽灭，唯辅氏存焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4566.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4568.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3850" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

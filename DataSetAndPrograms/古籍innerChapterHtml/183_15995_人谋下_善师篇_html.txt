@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·人谋下·善师篇_古诗文网
+</title>
+<meta content="经曰：兵非道德仁义者，虽伯有天下，君子不取。周德既衰，诸侯自作礼乐，专征伐 ，始於鲁隐公，齐以技击强，魏以武卒奋，秦以锐士胜。说者以孙、吴为宗，唯荀卿明於 王道而非之。谓：齐之技击" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_15995.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>人谋下·善师篇</b></span>
+<a href="javascript:PlayBookv(15995)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv15995" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay15995" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　经曰：兵非道德仁义者，虽伯有天下，君子不取。周德既衰，诸侯自作礼乐，专征伐 ，始於鲁隐公，齐以技击强，魏以武卒奋，秦以锐士胜。说者以孙、吴为宗，唯荀卿明於 王道而非之。谓：齐之技击是亡国之兵，魏之武卒是危国之兵，秦之锐士是干赏蹈利之兵 。至於齐桓、晋文之师，可谓入其域而有节制矣。故齐之技击，不可遇魏之武卒；魏之武 卒，不可敌秦之锐士；秦之锐士，不可当桓文之节制；桓文之节制，不可当汤武之仁义。 故曰：「善师者不阵，善阵者不战，善战者不败，善败者不亡。」</p>
+<p>　　黄帝独立於中央而胜四帝，所谓善师者不阵也。汤武征伐，陈师誓众，放桀擒纣，所谓善阵者不战也。齐桓南服强楚，使贡周室；北伐山戎，为燕开路，所谓善战者不败也。楚昭王遭阖闾之祸，国灭出亡，父兄相与奔秦请救，秦人出兵，楚王反国，所谓善败者不亡也。凡兵，所以存亡继绝、救乱除害，故伊、吕之将，子孙有国，与殷周并，下至末代，苟任诈力贪残，孙、吴、韩、白之徒，皆身被诛戮，子孙不传於嗣。盖兵者，凶器；战者，危事。阴谋逆德，好用凶器，非道德、忠信不能以兵定天下之灾、除兆民之害也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_15994.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_15996.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

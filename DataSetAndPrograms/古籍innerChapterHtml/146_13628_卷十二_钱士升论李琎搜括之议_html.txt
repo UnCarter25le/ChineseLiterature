@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷十二·钱士升论李琎搜括之议_古诗文网
+</title>
+<meta content="四月，武生李琎奏致治在足国，请搜括臣宰助饷，大学士钱士升拟下之法司，不听。士升上言：比者，借端幸进，实繁有徒。而李琎者，乃倡为缙绅豪右，报名输官，欲行手实籍没之法。此皆衰世乱政，而" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13628.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十二·钱士升论李琎搜括之议</b></span>
+<a href="javascript:PlayBookv(13628)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13628" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13628" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　四月，武生李琎奏致治在足国，请搜括臣宰助饷，大学士钱士升拟下之法司，不听。士升上言：比者，借端幸进，实繁有徒。而李琎者，乃倡为缙绅豪右，报名输官，欲行手实籍没之法。此皆衰世乱政，而敢陈于圣人之前。小人无忌惮，一至于此。且所恶于富者，兼并小民耳。郡邑之有富家，亦贫民衣食之源也。以兵荒之故，归罪富家，而籍没之。此秦始皇所不行于巴清，汉武帝所不行于卜式者也。此议一倡，亡命无类之徒，相率而与富家为难，大乱自此始矣。已而温体仁以上欲通言路，竟改拟，上仍切责士升，以密勿大臣即欲要誉，放之已足，毋庸汲汲。时福建右卫经历吴化鲲，讦奏士升弟士晋，体仁亦拟严旨，士升遂乞罢，许之。</p>
+<p>　　詹尔选救钱士升</p>
+<p>　　御史詹尔选上言：大学士钱士升，引咎回籍，明于辅臣以执争去也。皇上宜鼓舞之不暇，顾以为要誉耶？人臣而沽名义，所不敢也。乃人主不以名义鼓天下，使其臣为尸禄保宠，习为寡廉鲜耻之世，又岂国家所利哉？天下明知一切苟且之政，拊心愧恨，有难殚述辅臣不过偶因一事，代天下请命耳。而竟郁志以去，所日与皇上处者，惟此刻薄不识大体之徒，毁成法而酿隐忧，天下事尚可言哉？上召见廷臣于英武殿，怒詹尔选诘之。声色俱厉。尔选从容奏对，不为诎。上问如何为苟且，对曰：即捐助一事，亦苟且也。反覆数百言，且曰：臣死不足惜，皇上幸听臣事尚可为，即不听臣，亦可留为他日之思。上益怒。欲下之狱，阁臣申救良久，命项系直庐，下都御史论罪。</p>
+<p>　　倪元璐论参荐</p>
+<p>　　四月，国子监祭酒倪元璐上言：昨见黄安县学生邹华，妄行荐举，列及臣名，不胜惊异。陛下求贤若渴，本期宣幽烛隐，而宵人于进，薄孔孟为秕糠，继簪缨为桃李。吴化鲲，部民也，参及抚按；邹华，下土也，荐及朝绅。如是而望朝廷之上昂首舒眉，岂可得乎？上是之。七月元璐罢。诚意刘伯孔昭参其以妾冒妻封也。有旨，冠带闲住。</p>
+<p>　　刘宗周罢</p>
+<p>　　四月，大学士温体仁等，各捐俸市马，从关宁太监高起潜之请也。刘宗周上言：一岁之间，助陵工、助城工，又助马价，亦何报称乎万一。而时奉急公之旨，诸臣于，此毋乃沽沽有市心乎！惟皇上罢得已之役，停不急之务，节省爱养，不徒为一切旦夕之计，亦何事屑屑以利为言乎？不听。宗周寻报罢。</p>
+<p>　　文场兼武</p>
+<p>　　四月，命乡会试二三场，兼武经书算。放榜后习骑射。</p>
+<p>　　此制科一变也，然是秋舅氏举孝廉，次年联捷，乡会两场，俱未闻试武。及十三年庚辰魏藻德榜，始有习射之事。岂令始于丙子，而行于庚辰耶？</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13627.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13629.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

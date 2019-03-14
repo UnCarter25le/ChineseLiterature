@@ -1,0 +1,142 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平广记·卷四百七十二·水族九（龟）_古诗文网
+</title>
+<meta content="龟陶唐氏　禹　葛洪　张广定　赣县吏　郗了　孟彦晖　营陵　兴业寺唐太宗　刘彦回　吴兴渔者　唐明皇帝　宁晋民　史论　徐仲　高崇文汴河贾客　南人　阎居敬　池州民　李宗陶唐氏　　陶唐之世，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11271.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left9212" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四百七十二·水族九（龟）</b></span>
+<a href="javascript:PlayBookv(11271)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11271" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(9212)" id="leftbtn9212" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay11271" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89%e3%80%81%e6%89%88%e8%92%99%e3%80%81%e5%be%90%e9%93%89%e7%ad%89">李昉、扈蒙、徐铉等</a></p>
+<div class="contson">
+<p>　　龟</p>
+<p>　　陶唐氏　禹　葛洪　张广定　赣县吏　郗了　孟彦晖　营陵　兴业寺</p>
+<p>　　唐太宗　刘彦回　吴兴渔者　唐明皇帝　宁晋民　史论　徐仲　高崇文</p>
+<p>　　汴河贾客　南人　阎居敬　池州民　李宗</p>
+<p>　　陶唐氏　　</p>
+<p>　　陶唐之世，赵裳国献千岁神龟，方三尺余，背上有文，皆科斗书，记开辟以来，帝命录之龟历，伏滔述帝功德铭曰：“朱书龟历之文。”（出《述异记》）</p>
+<p>　　禹　　</p>
+<p>　　禹尽力渠沟，导川夷岳，黄龙曳尾于前，玄龟负青泥于后。玄龟，河精之使者也。龟颔下有印文，皆古言，作九州山水之字。禹所穿凿之处，皆以青泥封记其所，使玄龟印其上。今人聚土为界，此之遗像也。（出王子年《拾遗记》）</p>
+<p>　　葛洪　　</p>
+<p>　　葛洪云：“千岁灵龟，五色具焉。其雄，额上两骨起，似角。以未朱浴之，乃剔取其甲，火炙，捣服。方寸七日三，尽一具，寿千岁。（出《抱朴子》）</p>
+<p>　　张广定　　</p>
+<p>　　陈仲弓《异闻记》曰，张广定遭乱避地，有一女四岁，不能步，又不忍弃之，乃县笼于古冢中，冀他日得收其骨。及三年，归取之，见其尚活。问之，女答曰：“食尽即馁，见其傍有一物，引颈呼吸，效之，故能活。”广定入冢视之，乃一龟也。陈实之言，固不妄矣。（出《独异志》）</p>
+<p>　　赣县吏　　</p>
+<p>　　晋义熙中，范寅为南康郡。时赣县吏说，先入山采薪，得二龟，皆如二尺盘大。薪未足，遇有两树骈生，吏以龟侧置树间，复行采伐。去龟处稍远，天雨，懒复取。后经十二年，复入山，见先龟，一者甲已枯，一者尚生，极长。树木夹（“夹”原作“所”，据明抄本改。）处，可厚四寸许，两头厚尺余，如马鞍状。（出《幽明录》）</p>
+<p>　　郗世了　　</p>
+<p>　　郗世了在会稽造墓，其地多石，后破大石，得一龟，长尺二寸许，在石中，石了无孔也，得非龟石俱生乎？既破出之，龟行动如常龟无异。石受龟，如人刻安之。（出《灵鬼志》）</p>
+<p>　　孟彦晖　　</p>
+<p>　　武成三年庚午，六月五日癸亥，广汉太守孟彦晖奏，西湖有金龟径寸，游于荷叶之上，画图以上闻。（出《录异记》）</p>
+<p>　　营陵　　</p>
+<p>　　道州营陵中鼍，甲长八尺，下自然有文字，前后四足，各踏一龟。踏龟有时行，或逾山越水，俗莫敢犯。（出《录异记》）</p>
+<p>　　兴业寺　　</p>
+<p>　　九曲灵龟池，在襄阳县东北三里遍学寺东。古城旧有兴业寺，今并入遍学寺。唐景龙元年有陈留阮氏，寓居襄阳，舍财，于此寺东院。创造堂宇，时岁旱池涸，即掘广深之，急暴雨池溢，乃是一大龟，高数尺，如半张床大，岸侧而行。众即惊呼，龟遂跃入池中。寺僧灵岫云，院有折碑，云兴业寺碑。碑文梁散骑常侍庾元威撰，其文可传者云，此寺有灵龟一头，长三尺五寸，冬潜春现，多历年所；随众上堂，应时而食。刺史安陆王照频遇此龟，其坏碑因即扶竖，今在遍学寺东院。阮氏所修寺堂，庭中浮屠前，池见在，深五尺，方二十步。（出《襄淝记》）</p>
+<p>　　唐太宗　　</p>
+<p>　　唐武德末，太宗欲平内难，苑池内有白龟，游于荷叶之上。太宗取之，化为白石，莹洁如玉，登极之后，降制曰：“皇天眷祐，锡以宝龟。”（出《录异记》）</p>
+<p>　　刘彦回　　</p>
+<p>　　唐刘彦回父为湖州刺史，有下寮于银坑得一龟，长一尺，持献刺史。群官毕贺云：“得此龟食，（“食”原作“人”，据明抄本改。）寿一千岁。”使君谢己非其人，故自骑马，送龟即至坑所。其后十余年，刺史亡。彦回为房州司士，将家属之官，属山水泛溢，平地尽没，一家惶惧，不知所适。俄有大龟来引其路，彦回与家人谋曰：“龟乃灵物，今来相导，状若神。”三十余口随龟而行，悉是浅处，历十余里，乃至平地，得免水难，举家惊喜，亦不知其由。至此夕，彦回梦龟云：“己昔在银坑，蒙先使君之惠，故此报恩。”（出《广异记》）</p>
+<p>　　吴兴渔者　　</p>
+<p>　　唐开元中，吴兴渔者，于苕溪上每见大龟，四足各踏一龟而行。渔者知是灵龟，持石投之，中而获焉。久之，以献州从事裴。裴召龟人，龟人云：“此王者龟，不可以卜小事，所卜之物必死。”裴素狂妄，时庭中有鹊，其雏尚珗，乃验志之，令卜者钻龟焉。数日，大风损鹊巢，鹊雏皆死。寻又命卜其婢，所怀娠是儿女，兆云：“当生儿。”儿生，寻亦死。裴后竟进此龟也。（出《广异记》）</p>
+<p>　　唐明皇帝　　</p>
+<p>　　唐明皇帝尝有方士献一小龟，径寸而金色可爱，云：“此龟神明而不食，可置之枕笥之中，辟巨蛇之毒。”上常贮巾箱中，有小黄门恩渥方深，而坐亲累，将窜南徼，不欲屈法免之，密授此龟曰：“南荒多巨蟒，常以龟置于侧，可以无苦。”阉者拜受之。及象郡之属邑，里市馆舍，悄然无一人，投宿于旅馆。是夜，月明如昼，而有风雨之声，其势渐近。因出此龟，置于阶上，良久，神龟伸颈吐气，其火如綖，直上高三四尺，徐徐散去。已而龟游息如常，向之风雨声，亦已绝矣。及明，驿吏稍稍而至，罗拜庭下曰：“昨知天使将至，合备迎奉，适缘行旅误杀一蛇。众知报冤蛇必此夕为害，侧近居人，皆出三五十里外，避其毒气。某等不敢远出，止在近山岩穴之中，伏而待旦。今则天使无恙，乃神明所祐，非人力也。”久之，行人渐至，云当道有巨蛇十数，皆已糜烂。自此无复报冤之物，人莫测其由。逾年，黄门召归长安，复以金龟进上，泣而谢曰：“不独臣之性命，赖此生全，南方之人，永祛毒类。所全人命，不知纪极。实圣德所及，神龟之力也。”（出《录异记》）</p>
+<p>　　宁晋民　　</p>
+<p>　　唐建中四年，赵州宁晋县沙河北，有大棠梨，百姓常祈祷。忽有群蛇数千，自东南来，渡北岸，集棠梨树下为二积，留南岸者为一积，俄见三龟径寸，才绕行，积蛇尽死。乃各登积，视蛇腹悉有疮，若矢所中。刺史康日知图甘棠梨三龟来献。（出《酉阳杂俎》）</p>
+<p>　　史论　　</p>
+<p>　　唐史论作将军时，忽觉妻所居房中有光，异之，因与妻索房中，且无所见。一日，妻早妆开奁，奁中忽有金色龟，如钱，吐五色气，弥满一室。后常养之。（原缺出处，明抄本、陈校本作出《酉阳杂俎》）</p>
+<p>　　徐 仲</p>
+<p>　　福州，唐贞元末，有村人卖一笼龟，其数十三。贩药人徐仲以五锾获之，村人云：“此圣龟，不可杀。”徐置庭中，一龟藉龟而行，八龟为导，悉大六寸。徐遂放于乾元寺后林中，一夕而失。（出《酉陽杂俎》）</p>
+<p>　　高崇文　　</p>
+<p>　　唐赞皇公李德裕曰：“蜀传张仪筑成都城，屡有颓坏。时有龟周行旋走，至是一龟行路筑之，既而城果就。予未至郡日，尝闻龟壳犹在城内，昨询访意旧，有军资库官宇文遇者，言比常在库中。元和初，节度使高崇文知之，命工人截为腰带胯具。”自张仪至崇文千余载，龟壳尚在，而武臣毁之，深可惜也。（出《戎幕闲谈》）</p>
+<p>　　汴河贾客　　</p>
+<p>　　唐有贾客维舟汴河上，获了一巨龟，于灶火中煨之。是夕，忘出之，明日取视，壳已焦矣。拂拭去灰，置于食床上，欲食。良久，伸颈足动，徐行床上，其生如常，众共异之，投于水中，游泳而去。（出《录异记》）</p>
+<p>　　南人　　</p>
+<p>　　南人采龟溺，以其性妒而与蛇交。或雌蛇至，有相趁斗噬，力小致毙者。采时，取雄龟置瓷碗及小盘中，于龟后，以镜照之，既见镜中龟，即淫发而失溺。又以纸炷火上焰热，点其尻，亦致失溺，然不及镜照也。得于道士陈钊。又海上人云，龙生三卵，一为吉吊也。其吉吊上岸与鹿交，或于水边遗精，流槎遇之，粘裹木枝，如蒲桃焉。色微青黄，复似灰色，号紫稍花，益阳道，别有方说。（出《北梦琐言》）</p>
+<p>　　阎居敬　　</p>
+<p>　　新安人阎居敬，所居为山水所浸，恐屋坏，移榻于户外而寝。梦一乌人曰：“君避水在此，我亦避水至此，于君何害？而迫迮我如是，不快甚矣？”居敬寤，不测其故。尔夕三梦，居敬曰：“岂吾不当止此耶？”因命移床，乃床脚斜压一龟于户限外，放之乃去。（出《稽神录》）</p>
+<p>　　池州民　　</p>
+<p>　　池州民杨氏以卖鲊为业，尝烹鲤鱼十头，令儿守之。将熟，忽闻釜中乞命者数四，儿惊惧，走告其亲。共往视之，釜中无复一鱼，求之不得。期年，所畜犬恒窥户限下而吠，数日，其家人曰：“去年鲤鱼，得非在此耶？”即撒户视之，得龟十头，送之水中，家亦无恙。（出《稽神录》）</p>
+<p>　　李宗　　</p>
+<p>　　李宗为楚州刺史，郡中有尼方行于市，忽据地而坐，不可推挽，不食不语者累日。所由司以告宗，命武士扶起，掘其地，得大龟长数尺，送之水中，其尼乃愈。（出《稽神录》）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11270.aspx">上一章</a>
+<a href="/guwen/book_119.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11272.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right9212" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

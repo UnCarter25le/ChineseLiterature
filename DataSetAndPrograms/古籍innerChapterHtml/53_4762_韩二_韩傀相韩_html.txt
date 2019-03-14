@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·韩二·韩傀相韩_古诗文网
+</title>
+<meta content="韩傀相韩，严遂重于君，二人相害也。严遂政议直指，举韩傀之过。韩傀以之叱之于朝。严遂拔剑趋之，以救解。于是严遂惧诛，亡去游，求人可以报韩傀者。至齐，齐人或言：“軹深井里聂政，勇敢士也" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4762.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3578" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>韩二·韩傀相韩</b></span>
+<a href="javascript:PlayBookv(4762)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4762" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3578)" id="leftbtn3578" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4762" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　韩傀相韩，严遂重于君，二人相害也。严遂政议直指，举韩傀之过。韩傀以之叱之于朝。严遂拔剑趋之，以救解。于是严遂惧诛，亡去游，求人可以报韩傀者。</p>
+<p>　　至齐，齐人或言：“軹深井里聂政，勇敢士也，避仇隐于屠者之间。”严遂阴交于聂政，以意厚之。聂政问曰：“子欲安用我乎?”严遂曰：“吾得为役之日浅，事今薄，奚敢有请?”于是严遂乃具酒，觞聂政母前。仲子奉黄金百镒，前为聂政母寿。聂政惊，愈怪其厚，固谢严仲子。仲子固进，而聂政谢曰：“臣有老母，家贫，客游以为狗屠，可旦夕得甘脆以养亲。亲供养备，义不敢当仲子之赐。”严仲子辟人，因为聂政语曰：“臣有仇，而行游诸侯众矣。然至齐，闻足下义甚高，故直进百金者，特以为夫人粗粝之费，以交足下之欢，岂敢以有求邪?”聂政曰：“臣所以降志辱身，居市井者，徒幸而养老母。老母在，政身未敢以许人也。”严仲子固让，聂政竟不肯受。然仲子卒备宾主之礼而去。</p>
+<p>　　久之，聂政母死，既葬，除服。聂政曰：“嗟乎!政乃市井之人，鼓刀以屠，而严仲子乃诸侯卿相也，不远千里，枉车骑而交臣，臣之所以待之至浅鲜矣，未有大功可以称者，而严仲子举百金为亲寿，我虽不受，然是深知政也。夫贤者以感忿睚眦之意，而亲信穷僻之人，而政独安可嘿然而止乎?且前日要政，政徒以老母。老母今以天年终，政将为知已者用。”</p>
+<p>　　遂西至濮阳，见严仲子曰：“前所以不许仲子者，徒以亲在。今亲不幸，仲子所欲报仇者为谁?”严仲子具告曰：“臣之仇韩相傀。傀又韩君之季父也，宗族盛，兵卫设，臣使人刺之，终莫能就。今足下幸而不弃，请益具车骑壮士，以为羽翼。”政曰：“韩与卫，中间不远，今杀人之相，相又国君之亲，此其势不可以多人。多人不能无生得失，生得失则语泄，语泄则韩举国而与仲子为雠也，岂不殆哉!”遂谢车骑人徒，辞，独行仗剑至韩。</p>
+<p>　　韩适有东孟之会，韩王及相皆在焉，持兵戟而卫者甚众。聂政直入，上阶刺韩傀。韩傀走而抱哀侯，聂政刺之，兼中哀侯，左右大乱。聂政大呼，所杀者数十人。因自皮面抉眼，自屠出肠，遂以死。韩取聂政尸于市，县购之千金。久之莫知谁子。</p>
+<p>　　政姊闻之，曰：“弟至贤，不可爱妾之躯，灭吾弟之名，非弟意也。”乃之韩。视之曰：“勇哉!气矜之隆。是其轶贲、育⑧而高成荆矣。今死而无名，父母既殁矣，兄弟无有，此为我故也。夫爱身不扬弟之名，吾不忍也。”乃抱尸而哭之曰：“此吾弟轵深井里聂政也。”亦自杀于尸下。</p>
+<p>　　晋、楚、齐、卫闻之曰：“非独政之能，乃其姊者，亦列女也。”聂政之所以名施于后世者，其姊不避菹醢之诛，以扬其名也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4761.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4763.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3578" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

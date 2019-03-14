@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+南齐书·列传·卷二十_古诗文网
+</title>
+<meta content="皇后六宫位号，汉、魏以来，因袭增置，世不同矣。建元元年，有司奏置贵嫔、夫人、贵人为三夫人，修华、修仪、修容、淑妃、淑媛、淑仪、婕妤、容华、充华为九嫔，美人、中才人、才人为散职。永明" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6826.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left6196" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>列传·卷二十</b></span>
+<a href="javascript:PlayBookv(6826)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6826" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(6196)" id="leftbtn6196" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6826" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%90%a7%e5%ad%90%e6%98%be">萧子显</a></p>
+<div class="contson">
+<p>　　皇后</p>
+<p>　　六宫位号，汉、魏以来，因袭增置，世不同矣。建元元年，有司奏置贵嫔、夫人、贵人为三夫人，修华、修仪、修容、淑妃、淑媛、淑仪、婕妤、容华、充华为九嫔，美人、中才人、才人为散职。永明元年，有司奏贵妃、淑妃并加金章紫绶，佩于窴玉。淑妃旧拟九棘，以淑为温恭之称，妃为亚后之名，进同贵妃，以比三司。夫人之号，不殊蕃国。降淑媛以比九卿。七年，复置昭容，位在九嫔。建元三年，太子宫置三内职，良娣比开国侯，保林比五等侯，才人比驸马都尉。</p>
+<p>　　宣孝陈皇后，讳道正，临淮东阳人，魏司徒陈矫後。父肇之，郡孝廉。后少家贫，勤织作。家人矜其劳，或止之，后终不改。嫁于宣帝，庶生衡阳元王道度、始安贞王道生，后生太祖。太祖年二岁，乳人乏乳，后梦人以两瓯麻粥与之，觉而乳大出，异而说之。宣帝从仕在外，后常留家治事教子孙。有相者谓后曰：“夫人有贵子而不见也。”后叹曰：“我三儿谁当应之！”呼太祖小字曰：“正应是汝耳。”宣帝殂后，后亲自执勤，婢使有过误，恕不问也。太祖虽从官，而家业本贫，为建康令时，高宗等冬月犹无缣纩，而奉膳甚厚。后每撤去兼肉，曰：“于我过足矣。”殂于县舍，年七十三。升明三年，追赠竟陵公国太夫人，蜜印，画青绶，祠以太牢；建元元年，追尊孝皇后。赠外祖父肇之金紫光禄大夫，谥曰敬侯。后母胡氏为永昌县靖君。</p>
+<p>　　高昭刘皇后，讳智容，广陵人也。祖玄之，父寿之，并员外郎。后母桓氏梦吞玉胜生后，时有紫光满室，以告寿之，寿之曰：“恨非是男。”桓曰：“虽女，亦足兴家矣。”后母寝卧，家人常见上如有云气焉。年十余岁，归太祖，严正有礼法，家庭肃然。宋泰豫元年殂，年五十。归葬宣帝墓侧，今泰安陵也。门生王清与墓工始下锸，有白兔跳起，寻之不得，及坟成，兔还栖其上。升明二年，赠竟陵公国夫人；三年，赠齐国妃；印绶如太妃。建元元年，尊谥昭皇后。三年，赠后父金紫光禄大夫，母桓氏上虞都乡君；寿之子兴道司徒属，文蔚豫章内史，义徽光禄大夫，义伦通直郎。</p>
+<p>　　武穆裴皇后，讳惠昭，河东闻喜人也。祖朴之，给事中。父玑之，左军参军。后少与豫章王妃庾氏为娣姒，庾氏勤女工，奉事太祖、昭后恭谨不倦，后不能及，故不为舅姑所重，世祖家好亦薄焉。性刚严，竟陵王子良妃袁氏布衣时有过，后加训罚。升明三年，为齐世子妃。建元元年，为皇太子妃。三年，后薨。谥穆妃，葬休安陵。世祖即位，追尊皇后。赠玑之金紫光禄大夫，后母檀氏余杭广昌乡元君。</p>
+<p>　　旧显阳、昭阳殿，太后、皇后所居也。永明中无太后、皇后，羊贵嫔居昭阳殿西，范贵妃居昭阳殿东，宠姬荀昭华居凤华柏殿。宫内御所居寿昌画殿南阁，置白鹭鼓吹二部，乾光殿东西头，置钟磬两厢，皆宴乐处也。上数游幸诸苑囿，载宫人从後车。宫内深隐，不闻端门鼓漏声，置钟于景阳楼上，宫人闻钟声，早起装饰。至今此钟唯应五鼓及三鼓也。车驾数幸琅邪城，宫人常从，早发至湖北埭，鸡始鸣。</p>
+<p>　　吴郡韩兰英，妇人有文辞。宋孝武世，献《中兴赋》，被赏入宫。宋明帝世，用为宫中职僚。世祖以为博士，教六宫书学，以其年老多识，呼为“韩公”。</p>
+<p>　　文安王皇后，讳宝明，琅邪临沂人也。祖韶之，吴兴太守，父晔之，太宰祭酒。宋世，太祖为文惠太子纳后，桂阳贼至，太祖在新亭，传言已没，宅复为人所抄掠，文惠太子、竟陵王子良奉穆后、庾妃及后挺身送后兄昺之家，事平乃出。建元元年，为南郡王妃。四年，为皇太子妃，无宠。太子为宫人制新丽衣裳及首饰，而后床帷陈设故旧，钗镊十余枚。永明十一年，为皇太孙太妃。郁林即位，尊为皇太后，称宣德宫。赠后父金紫光禄大夫，母桓氏丰安县君。其年十二月，备法驾谒太庙，高宗即位，出居鄱阳王故第，为宣德宫。永元三年，梁王定京邑，迎后入宫称制，至禅位。天监十一年，薨，年五十八。葬崇安陵。谥曰安后。兄晃义兴太守。</p>
+<p>　　郁林王何妃，名婧英，庐江灊人，抚军将军戢之女也。永明二年，纳为南郡王妃。十一年，为皇太孙妃。郁林王即位，为皇后。嫡母刘氏为高昌县都乡君，所生母宋氏，为余杭广昌乡君。将拜，镜在床无故堕地。其冬，与太后同日谒太庙。后禀性淫乱，为妃时，便与外人奸通。在后宫，复通帝左右杨珉之，与同寝处如伉俪。珉之又与帝相爱亵，故帝恣之。迎后亲戚入宫，赏赐人百数十万。以世祖耀灵殿处后家属。帝被废，后贬为王妃。</p>
+<p>　　海陵王王妃，名韶明，琅邪临沂人，太常慈女也。永明八年，纳为临汝公夫人。郁林即位，为新安王妃。延兴元年，为皇后。其年，降为海陵王妃。</p>
+<p>　　明敬刘皇后，讳惠端，彭城人，光禄大夫道弘孙也。太祖为高宗纳之。建元三年，除西昌侯夫人。永明七年，卒，葬江乘县张山。延兴元年，赠宣城王妃；高宗即位，追尊为敬皇后。赠父通直郎景猷金紫光禄大夫，母王氏平阳乡君。永泰元年，高宗崩，改葬，祔于兴安陵。</p>
+<p>　　东昏褚皇后，名令璩，河南阳翟人，太常澄女也。建武二年，纳为皇太子妃。明年，谒敬后庙。东昏即位，为皇后。帝宠潘妃，后不被遇。黄淑仪生太子诵，东昏废，并为庶人。</p>
+<p>　　和帝王皇后，名蕣华，琅邪临沂人，太尉俭孙也。初为随王妃。中兴元年，为皇后。帝禅位，后降为妃。</p>
+<p>　　史臣曰：后妃之德，著自风谣，义起闺房，而道化天下。缲盆献种，罔非耕织，佩管晨兴，与子同事，可以光熙阃业，作俪公侯。孝、昭二后，并有贤明之训，不得母临万国。宝命方昌，椒庭虚位，有妇人焉，空慕周兴，祯符显瑞，徒萃徽名。若使掖作同休，阴教远燮，则马、邓风流，复存乎此。太祖创命，宫禁贬约，毁宋明之紫极，革前代之逾奢，衣不文绣，色无红采，永巷贫空，有同素室。世祖嗣位，运藉休平，寿昌前兴，凤华晚构，香柏文柽，花梁绣柱，雕金镂宝，颇用房帷，赵瑟《吴趋》，承闲奏曲，岁费傍恩，足使充牣，事由私蓄，无损国储。高宗仗数矫情，外行俭陋，内奉宫业，曾莫云改。东昏丧道，侈风大扇，销糜海内，以赡浮饰，哲妇倾城，同符殷、夏。呜呼！所以垂戒于方来也。</p>
+<p>　　赞曰：宣武孝则，识有先知。高昭诞武，世载母仪。裴穆储阃，位亦从隳。明敬典册，配在宗枝。秋宫亦遽，轩景前亏。文安废主，百忧已离。中兴秉制，揖让弘规。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6825.aspx">上一章</a>
+<a href="/guwen/book_83.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6827.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right6196" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

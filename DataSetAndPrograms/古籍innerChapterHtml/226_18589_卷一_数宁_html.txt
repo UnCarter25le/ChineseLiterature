@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷一·数宁_古诗文网
+</title>
+<meta content="臣窃惟事势，可痛惜者一，可为流涕者二，可为长大息者六。若其它倍理而伤道者，难遍以疏举。进言者皆曰：“天下已安矣。”臣独曰：“未安。”或者曰：“天下已治矣。”臣独曰：“未治。”恐逆意" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18589.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·数宁</b></span>
+<a href="javascript:PlayBookv(18589)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18589" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18589" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　臣窃惟事势，可痛惜者一，可为流涕者二，可为长大息者六。若其它倍理而伤道者，难遍以疏举。进言者皆曰：“天下已安矣。”臣独曰：“未安。”或者曰：“天下已治矣。”臣独曰：“未治。”恐逆意触死罪，虽然，诚不安，诚不治。故不敢顾身，敢不昧死以闻。夫曰天下安且治者，非至愚无知，固谀者耳，皆非事实，知治乱之体者也。夫抱火措之积薪之下，而寝其上，火未及?，因谓之安，偷安者也。方今之势，何以异此？夫本末舛逆，首尾横决，国制抢攘，非有纪也，胡可谓治？陛下何不一令臣得熟数之于前，因陈治安之策，陛下试择焉。</p>
+<p>　　射猎之娱，与安危之机，孰急也？臣闻之：自禹已下五百岁而汤起，自汤已下五百余年而武王起，故圣王之起，大以五百为纪。自武王已下，过五百岁矣，圣王不起，何慅矣。及秦始皇帝，似是而卒非也，终于无状。及今天下集于陛下，臣观宽大知通，窃曰：是以掺乱业，握危势，若今之贤也，明通以足天纪，又当天宜，请陛下为之矣。然又未也者，又将谁须也？使为治，劳知虑，苦身体，乏驰骋钟鼓之乐，勿为可也，乐与今同耳。因加以常安，四望无患，因诸侯附亲轨道，致忠而信上耳；因上不疑其臣，无族罪，兵革不动，民长保首领耳；因德穷至远，近者匈奴，远者四荒，苟人迹之所能及，皆乡风慕义，乐为臣子耳；因天下富足，资财有余，人及十年之食耳；因民素朴，顺而乐从令耳；因官事甚约，狱讼盗贼可令?有耳。大数既得，则天下顺治，海内之气，清和咸理，则万生遂茂。晏子曰：“唯以政顺乎神为可以益寿。”发子曰：“至治之极，父无死子，兄无死弟，涂无襁褓之葬，各以其顺终。谷食之法，固百以是，则至尊之寿，轻百年耳，古者五帝，皆踰百岁。”以此言信之，因生为明帝，没则为明神，名誉之美，垂无穷耳。礼：祖有功，宗有德，始取天下为功，始治天下为德。因观成之庙，为天下太宗，承太祖，与天下汉长亡极耳。因卑不疑尊，贱不踰贵，尊卑贵贱，明若白黑，则天下之众不疑眩耳。因经纪本于天地，政法倚于四时，后世无变故，无易常，袭迹而长久耳。臣窃以为建久安之势，成长治之业，以承祖庙，以奉六亲，至孝也；以宰天下，以治群生，神民咸亿，社稷久飨，至仁也；立经陈纪，轻重周得，后可以为万世法，以后虽有愚幼不肖之嗣，犹得蒙业而安，至明也。寿并五帝，泽施至远，于陛下何损哉！以陛下之明通，因使少知治体者，得佐下风，致此治非有难也，陛下何不一为之？其具可素陈于前，愿幸无忽。臣谨稽之天地，验之往古，案之当时之务，日夜念此至孰也，虽使禹舜生而为陛下计，无以易此。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18588.aspx">上一章</a>
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18590.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·屠_古诗文网
+</title>
+<meta content="历史来源　　1、出自九黎族，是蚩尤的后代。相传，上古时代，黄帝与炎帝两个部族联合起来，在涿鹿与九黎族大战，擒杀了九黎族的首领蚩尤。遂将其部族人收入自己的部落。其中一部分人愿意归顺的" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2585.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>屠</b></span>
+<a href="javascript:PlayBookv(2585)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2585" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2585" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自九黎族，是蚩尤的后代。相传，上古时代，黄帝与炎帝两个部族联合起来，在涿鹿与九黎族大战，擒杀了九黎族的首领蚩尤。遂将其部族人收入自己的部落。其中一部分人愿意归顺的，就迁到邹、屠两地定居，形成邹、屠二姓，均以居住地名为姓。邹、屠二地均在今山东境内。<br/>　　2、出自子姓，是商朝王族的后裔。商朝建立之后，分封同姓诸侯，其中一支封于弦国。弦国灭亡后，其族人遂以国名命姓，为弦姓，后来又去邑为屠，称屠氏。<br/>　　3、以职业技术命姓。古人有屠宰为业者，其后便姓屠，称屠氏。</p>
+<p><strong>家族名人</strong><br/>　　屠迁：晋代，安定人，字清介。自幼好学聪慧，日诵百言，过目不忘，稍长博籍经典、礼乐、为河徽间通判，为官清廉，风节凝峻，狱讼破剖决如流，民无有叫冤者，百姓深敬之，公务余闲时以吟诵自得其乐。<br/>　　屠隆：明代戏曲家，鄞县人，字长卿，号赤水。万历进士。曾任青浦知县、礼部郎中。有传奇《昙花记》等。能诗能文，有多部诗文集留世。<br/>　　屠本畯：明大山子，字田叔，以荫树明间任历太常典、辰州知府。生平博览群书，至老，书仍不离手。别人讲他：“老矣，为何还如此辛苦也”。本畯曰：“吾以书饥时当食，渴以当饮，欠介以当枕席，愁寂以当鼓吹，未尝苦也”。著有《太常典录》、《田叔诗草》。<br/>　　屠庸：明代浙江鄞县人，字朝宗。成化进士，任御史，巡按四川、湖广，清廉自律，勤于政事，皆留有惠绩。晋升为吏部尚书，办事公正无私，尤其爱惜人才。清宁宫落成，下诏请番僧入宫庆贺，他再次上书谏止。武宗登极，加太子傅，兼管掌院事。<br/>　　屠勋：明朝平湖人，字元勋。成化进士，历任刑部郎中，有疑狱或事关权贵，谨慎审理剖决无滞，治无冤狱。弘治初为大理少卿，漳州温文进作乱，勋往逾之，惩其首犯，吓从者不闻，一方遂平安。晋升副都御史，巡抚顺天。整顿苏州边防，政绩卓著。武宗即位后，进刑部尚书。有《太和堂集》留世。<br/>　　屠仁守：清代，孝感人，字梅君。同治进士，官至御史，时醇王当国，政局动乱，屡对天文算学深研究，尤精于性理研究。品格端庄，时人敬之。</p>
+<p><strong>迁徙分布</strong><br/>　　堂号：书斋堂；陈留堂。汉朝，隐留郡（今河南省开封县）。<br/>　　望族：居广平（河南鸡泽县东20里）、陈留（今河南开封陈留镇）。<br/>　　广平郡：汉景帝置。在今河北省南部永年县一带。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2584.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2586.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

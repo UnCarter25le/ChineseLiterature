@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+尚书·虞书·舜典_古诗文网
+</title>
+<meta content="虞舜侧微，尧闻之聪明，将使嗣位，历试诸难，作《舜典》。曰若稽古帝舜，曰重华协于帝。浚咨文明，温恭允塞，玄德升闻，乃命以位。慎徽五典，五典克从；纳于百揆，百揆时叙；宾于四门，四门穆穆" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3082.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1683" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>虞书·舜典</b></span>
+<a href="javascript:PlayBookv(3082)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3082" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1683)" id="leftbtn1683" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3082" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　虞舜侧微，尧闻之聪明，将使嗣位，历试诸难，作《舜典》。</p>
+<p>　　曰若稽古帝舜，曰重华协于帝。浚咨文明，温恭允塞，玄德升闻，乃命以位。慎徽五典，五典克从；纳于百揆，百揆时叙；宾于四门，四门穆穆；纳于大麓，烈风雷雨弗迷。帝曰：「格！汝舜。询事考言，乃言底可绩，三载。汝陟帝位。」</p>
+<p>　　舜让于德，弗嗣。正月上日，受终于文祖。在璿玑玉衡，以齐七政。肆类于上帝，禋于六宗，望于山川，遍于群神。辑五瑞。既月乃日，觐四岳群牧，班瑞于群后。 岁二月，东巡守，至于岱宗，柴。望秩于山川，肆觐东后。协时月正日，同律度量衡。修五礼、五玉、三帛、二生、一死贽。如五器，卒乃复。五月南巡守，至于南岳，如岱礼。八月西巡守，至于西岳，如初。十有一月朔巡守，至于北岳，如西礼。归，格于艺祖，用特。五载一巡守，群后四朝。敷奏以言，明试以功，车服以庸。</p>
+<p>　　肇十有二州，封十有二山，浚川。 象以典刑，流宥五刑，鞭作官刑，扑作教刑，金作赎刑。眚灾肆赦，怙终贼刑。钦哉，钦哉，惟刑之恤哉！ 流共工于幽州，放欢兜于崇山，窜三苗于三危，殛鲧于羽山，四罪而天下咸服。</p>
+<p>　　二十有八载，帝乃殂落。百姓如丧考妣，三载，四海遏密八音。</p>
+<p>　　月正元日，舜格于文祖，询于四岳，辟四门，明四目，达四聪。「咨，十有二牧！」曰，「食哉惟时！柔远能迩，惇德允元，而难任人，蛮夷率服。」 <br/>　　舜曰：「咨，四岳！有能奋庸熙帝之载，使宅百揆亮采，惠畴？」<br/>　　佥曰：「伯禹作司空。」<br/>　　帝曰：「俞，咨！禹，汝平水土，惟时懋哉！」<br/>　　禹拜稽首，让于稷、契暨皋陶。<br/>　　帝曰：「俞，汝往哉！」 <br/>　　帝曰：「弃，黎民阻饥，汝后稷，播时百谷。」 <br/>　　帝曰：「契，百姓不亲，五品不逊。汝作司徒，敬敷五教，在宽。」 <br/>　　帝曰：「皋陶，蛮夷猾夏，寇贼奸宄。汝作士，五刑有服，五服三就。五流有宅，五宅三居。惟明克允！」 <br/>　　帝曰：「畴若予工？」<br/>　　佥曰：「垂哉！」<br/>　　帝曰：「俞，咨！垂，汝共工。」<br/>　　垂拜稽首，让于殳斨暨伯与。」<br/>　　帝曰：「俞，往哉！汝谐。」 <br/>　　帝曰：「畴若予上下草木鸟兽？」<br/>　　佥曰：「益哉！」<br/>　　帝曰：「俞，咨！益，汝作朕虞。」<br/>　　益拜稽首，让于朱虎、熊罴。<br/>　　帝曰：「俞，往哉！汝谐。」 <br/>　　帝曰：「咨！四岳，有能典朕三礼？』<br/>　　佥曰：「伯夷！」<br/>　　帝曰：「俞，咨！伯，汝作秩宗。夙夜惟寅，直哉惟清。」<br/>　　伯拜稽首，让于夔、龙。<br/>　　帝曰：「俞，往，钦哉！」</p>
+<p>　　帝曰：「夔！命汝典乐，教胄子，直而温，宽而栗，刚而无虐，简而无傲。诗言志，歌永言，声依永，律和声。八音克谐，无相夺伦，神人以和。」<br/>　　夔曰：「于！予击石拊石，百兽率舞。」</p>
+<p>　　帝曰：「龙，朕{即土}谗说殄行，震惊联师。命汝作纳言，夙夜出纳朕命，惟允！」 <br/>　　帝曰：「咨！汝二十有二人，钦哉！惟时亮天功。」<br/>　　三载考绩，三考，黜陟幽明，庶绩咸熙。分北三苗。 舜生三十征，庸三十，在位五十载，陟方乃死。 <br/>　　【汩作 九共 槀饫】 </p>
+<p>　　帝厘下土，方设居方，别生分类。作《汩作》、《九共》九篇、《槀饫》。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3081.aspx">上一章</a>
+<a href="/guwen/book_22.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3083.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1683" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

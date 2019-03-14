@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+列女传·孽嬖传·献骊姬_古诗文网
+</title>
+<meta content="骊姬者，骊戎之女，晋献公之夫人也。初，献公娶于齐，生秦穆夫人及太子申生，又娶二女于戎，生公子重耳、夷吾。献公伐骊戎，克之，获骊姬以归，生奚齐、卓子。骊姬嬖于献公，齐姜先死，公乃立骊" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14489.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>孽嬖传·献骊姬</b></span>
+<a href="javascript:PlayBookv(14489)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14489" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14489" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　骊姬者，骊戎之女，晋献公之夫人也。初，献公娶于齐，生秦穆夫人及太子申生，又娶二女于戎，生公子重耳、夷吾。献公伐骊戎，克之，获骊姬以归，生奚齐、卓子。骊姬嬖于献公，齐姜先死，公乃立骊姬以为夫人。骊姬欲立奚齐，乃与弟谋曰：“一朝不朝，其闲用刀，逐太子与二公子而可闲也。”于是骊姬乃说公曰：“曲沃，君之宗邑也；蒲与二屈，君之境也。不可以无主。宗邑无主，则民不畏边境；无主，则开寇心。夫寇生其心，民嫚其政，国之患也。若使太子主曲沃，二公子主蒲与二屈，则可以威民而惧寇矣。”遂使太子居曲沃，重耳居蒲，夷吾居二屈。□□骊姬既远太子，乃夜泣，公问其故，对曰：“吾闻申生为人，甚好仁而强，甚宽惠而慈于民，今谓君惑于我，必乱国，无乃以国民之故，行强于君，君未终命而殁，君其柰何？胡不杀我，无以一妾乱百姓。”公曰：“惠其民而不惠其父乎？”骊姬曰：“为民与为父异。夫杀君利民，民孰不戴。苟父利而得宠，除乱而众说，孰不欲焉。虽其爱君，欲不胜也。若纣有良子，而先杀纣，毋章其恶，钧死也，毋必假手于武王以废其祀。自吾先君武公兼翼，而楚穆弒成。此皆为民而不顾亲，君不早图，祸且及矣。”公惧曰：“柰何而可？”骊姬曰：“君何不老而授之政。彼得政而治之，殆将释君乎？”公曰：“不可，吾将图之。”由此疑太子。骊姬乃使人以公命告太子曰：“君梦见齐姜，亟往祀焉。”申生祭于曲沃，归福于绛，公田不在，骊姬受福，乃寘鸩于酒，施毒于脯。公至，召申生将胙，骊姬曰：“食自外来，不可不试也。”覆酒于地，地坟，申生恐而出。骊姬与犬，犬死，饮小臣，小臣死之。骊姬乃仰天叩心而泣，见申生哭曰：“嗟乎！国，子之国，子何迟为君？有父恩忍之，况国人乎！弒父以求利，人孰利之？”献公使人谓太子曰：“尔其图之。”太傅里克曰：“太子入自明可以生，不则不可以生。”太子曰：“吾君老矣。若入而自明，则骊姬死，吾君不安。”遂自经于新城庙。公遂杀少傅杜原款。使阉楚刺重耳，重耳奔狄。使贾华刺夷吾，夷吾奔梁。尽逐群公子，乃立奚齐。献公卒，奚齐立，里克杀之。卓子立，又杀之。乃戮骊姬，鞭而杀之。于是秦立夷吾，是为惠公。惠公死，子圉立，是为怀公。晋人杀怀公于高梁，立重耳，是为文公。乱及五世然后定。诗曰：“妇有长舌，惟厉之阶。”又曰：“哲妇倾城。”此之谓也。</p>
+<p>　　颂曰：骊姬继母，惑乱晋献，谋谮太子，毒酒为权，果弒申生，公子出奔，身又伏辜，五世乱昏。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14488.aspx">上一章</a>
+<a href="/guwen/book_166.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14490.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

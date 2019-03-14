@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·吴语·吴晋争长未成勾践袭吴_古诗文网
+</title>
+<meta content="吴王夫差既杀申胥，不稔于岁，乃起师北征。阙为深沟，通于商、鲁之间，北属之沂，西属之济，以会晋公午于黄池。于是越王勾践乃命范蠡、舌庸，率师沿海溯淮以绝吴路。败王子友于姑熊夷。越王勾践" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9788.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8539" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>吴语·吴晋争长未成勾践袭吴</b></span>
+<a href="javascript:PlayBookv(9788)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9788" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8539)" id="leftbtn8539" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9788" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+吴王夫差既杀申胥，不稔于岁，乃起师北征。阙为深沟，通于商、鲁之间，北属之沂，西属之济，以会晋公午于黄池。
+</p><p>　　
+于是越王勾践乃命范蠡、舌庸，率师沿海溯淮以绝吴路。败王子友于姑熊夷。越王勾践乃率中军溯江以袭吴，入其郛，焚其姑苏，徙其大舟。
+</p><p>　　
+吴、晋争长未成，边遽乃至，以越乱告。吴王惧，乃合大夫而谋曰：“越为不道，背其齐盟。今吾道路修远，无会而归，与会而先晋，孰利？”王孙雒曰：“夫危事不齿，洛敢先对。二者莫利。无会而归，越闻章矣，民惧而走，远无正就。齐、宋、徐、夷曰：‘吴既败矣！’将夹沟而■我，我无生命矣。会而先晋，晋既执诸侯之柄以临我，将成其志以见天子。吾须之不能，去之不忍。若越闻愈章，吾民恐叛。必会而先之。”
+</p><p>　　
+王乃步就王孙雒曰：“先之，图之将若何？”王孙雒曰：“王其无疑，吾道路悠远，必无有二命，焉可以济事。”王孙雒进，顾揖诸大夫曰：“危事不可以为安，死事不可以为生，则无为贵智矣。民之恶死而欲富贵以长没也，与我同。虽然，彼近其国，有迁；我绝虑，无迁。彼岂能与我行此危事也哉？事君勇谋，于此用之。今夕必挑战，以广民心。请王励士，以奋其朋势，劝之以高位重畜，备刑戮以辱其不励者，令各轻其死。彼将不战而先我，我既执诸侯之柄，以岁之不获也，无有诛焉，而先罢之，诸侯必说。既而皆入其地，王安挺志，一日惕，一日留，以安步王志。必设以此民也，封于江、淮之间，乃能至于吴。”吴王许诺。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9787.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9789.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8539" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

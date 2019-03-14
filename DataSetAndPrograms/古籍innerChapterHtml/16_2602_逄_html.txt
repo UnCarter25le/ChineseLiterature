@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·逄_古诗文网
+</title>
+<meta content="历史来源　　1、出自姜姓，上古炎帝的后裔，以国名为氏。炎帝子有人名叫陵，商初受封于逄（今所在地不详），建立了逄国。也称为逄伯陵。到了西周武王的时候，逄国灭亡，改其地为齐，改封给姜太" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2602.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>逄</b></span>
+<a href="javascript:PlayBookv(2602)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2602" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2602" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自姜姓，上古炎帝的后裔，以国名为氏。炎帝子有人名叫陵，商初受封于逄（今所在地不详），建立了逄国。也称为逄伯陵。到了西周武王的时候，逄国灭亡，改其地为齐，改封给姜太公，逄国的后人以原来的国名作为姓氏，成为逄氏。<br/>　　2、起源于夏朝，是有名的弓箭手逄蒙的后代。唐代的学者颜师古说，逄姓的起源和逢姓相同，都是逄蒙的后代。夏朝的时候，有一个出名的弓箭手叫逄蒙，曾经拜后羿为师。他的后代也随着他姓逄，称为逄氏。<br/>　　3、起源于春秋时期，春秋时的齐国君主有车左官名逄丑父，他的后代也称逄氏。成为逄氏的又一支。<br/>　　逄姓始祖：逄伯陵。逄姓出自姜姓，起源于6000年前，炎帝之子逄伯陵，以国名为氏。据《万姓统谱》记载，炎帝有子名叫陵，商朝初年受封于逄（今山东省临朐县石门山），建立了逄国，为伯爵，世称逄伯陵。后来周武王灭掉了逄国，该国的后世子孙便以原国名作为姓氏，这样就有了逄姓，故逄氏后人奉逄伯陵为逄姓的始祖。</p>
+<p><strong>家族名人</strong><br/>　　逄安：东汉时期大司马。<br/>　　逄滑：春秋时期晋国大夫。<br/>　　逄同：周代越国人。越王勾践从吴国回来，想报亡国之仇。大夫逄同建议说：“吴国现在德少功多，必定很骄傲。我们要是想灭吴雪耻，必须结交齐国，放弃楚国，跟邻近的国家友好，表面上对吴国友好。这样一来，吴国必然麻痹大意，我们利用它这个弱点，才能灭亡它。”勾践采用了逄同的计策，果然恢复了越国的强盛，灭亡了吴国。<br/>　　逄丑父：据《春秋谷梁传》和《左传》记载：鲁国的季孙行父秃，晋国大将却克眇，卫国的孙良夫跛，曹国公子首偻，他们于公元前590年冬十月，同时被齐国邀请去做客。当他们到齐国后，每人都由齐国派使的侍者，季孙行父由齐国的秃顶侍者招待，却克眇由齐国的独眼侍奉，孙良夫有齐国的踮腐者陪同，曹公子有齐国的佝偻侍伴，齐国国君齐顷公之母肖太后同叔子在高处观看笑而讥之，客人非常不高兴的回国。晋国大将却克认为这是齐国有意侮辱诸国，也是他本人的奇耻大辱，为雪此恨，次年（公元前589年），联合鲁、卫、曹三国军队，集战车八百乘，步兵六万，战于鞍(北马鞍山)，这就是历史上著名的“齐晋鞍之战”。经过一场鏖战，“齐师败绩，逐之，三周华不注”。齐顷公乘坐的战车被树干绊住，骖乘逄丑父与齐君换装易位，晋国大将韩厥赶至，行臣礼，逄丑父“令”齐君去华泉取饮，齐顷公借机而逃。</p>
+<p><strong>迁徙分布</strong><br/>　　逄氏望族居住在谯郡（今天的安徽省毫县）、北海（今天的山东省昌东县）。<br/>　　谯郡：东汉时期置郡。在今天的安徽、河南两省之间的地区。<br/>　　北海郡：汉景帝中元二年（公元前148年）置郡，相当于今天的山东省境内。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2601.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2603.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

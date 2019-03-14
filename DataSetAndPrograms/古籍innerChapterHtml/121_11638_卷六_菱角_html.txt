@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷六·菱角_古诗文网
+</title>
+<meta content="胡大成，楚人，其母素奉佛。成从塾师读，道由菱角观音祠，母嘱过必入叩。一日至祠，有少女挽儿邀戏其中，发裁掩颈，而风致娟然。时成年十四，心好之。问其姓氏，女笑云：“我是祠西焦画工女菱角" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11638.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·菱角</b></span>
+<a href="javascript:PlayBookv(11638)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11638" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11638" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　胡大成，楚人，其母素奉佛。成从塾师读，道由菱角观音祠，母嘱过必入叩。一日至祠，有少女挽儿邀戏其中，发裁掩颈，而风致娟然。时成年十四，心好之。问其姓氏，女笑云：“我是祠西焦画工女菱角也。问将何为？”成又问：“有婿家否？”女酡然曰：“无也。”成曰：“我为若婿，好否？”女惭云：“我不能自主。”而眉目澄澄，上下睨成，意似欣属焉。成乃出。女追而遥告曰：“崔尔诚，吾父所善，用为媒无不谐。”成曰：“诺。”因念其慧而多情，益倾慕之。归，向母实白心愿。母止此儿，恐拂其意，遂浼崔作冰。焦责聘财奢，事几不就。崔极言成清族美才，焦始许之。</p>
+<p>　　成有伯父，老而无子，授教职于湖北。妻卒任所，母遣成往奔其丧。数月将归，伯又病卒。淹留既久，适大寇据湖南，家耗遂隔。成窜民间，吊影孤惶。一日，有媪年四十八九，萦回村中，日昃不去。自言：“乱无归，将以自鬻。”或问其价，曰：“不屑为人奴，亦不愿为人妇，但有母我者则从之，不较直。”闻者皆笑。成往视之，面目间有一二颇肖其母，触怀大悲。自念只身无缝纫者，遂邀归，执子礼焉。媪喜，便为炊饭织屦，勉劳若母。拂意辄谴之；少有疾苦，则濡煦过于所生。</p>
+<p>　　忽谓曰：“此处太平，幸可无虞。然儿长矣，虽在羁旅，大伦不可废。三两日，当为儿娶之。”成泣曰：“儿自有妇，但间阻南北耳。”媪曰：“大乱时，人事翻覆，何可株待？”成又泣曰：“无论结发之盟不可背，且谁以娇女付萍梗人？”媪不答，但为治帘幌衾枕，甚周备，亦不识所自来。一日，日既夕，戒成曰：“独坐勿寐，我往视新妇来也未。”遂出门去。三更既尽，媪不返，心大疑。俄闻门外喧哗，出视，则一女子坐庭中，篷首啜泣。惊问：“何人？”亦不语。良久，乃言曰：“娶我来，即亦非福，但有死耳！”成大惊，不知其故。女曰：“我少受聘于胡大成，不意湖北去，音信断绝。父母强以我归汝家。身可致，志不可夺也！”成闻而哭曰：“我便即是胡某。卿菱角耶？”女收涕而骇，不信。相将入室，就灯审顾，曰：“得无梦耶？”乃转悲为喜，相道离苦。先是乱后，湖南百里，涤地无类。焦移家窜长沙之东，又受周生聘。乱中不能成礼。期是夕送诸其家。女泣不盥栉，家中强置车上。途次，女颠堕其下。遂有四人荷肩舆至，云是周家迎女者，即扶升舆，疾行若飞，至是始停。一老姥曳入，曰：“此汝夫家，但入勿哭。汝家婆婆，旦晚将至矣。”乃去，成诘知情事，始悟媪神人也。夫妻焚香共祷，愿得母子复聚。母自戎马戒严，同俦人妇奔伏涧谷。一夜，噪言寇至，即并张皇四匿。有童子以骑授母，母急不暇问，扶肩而上，轻迅剽遬，瞬息至湖上。马踏水奔腾，蹄下不波。无何，扶下，指一户云：“此中可居。”母将启谢。回视其马，化为金毛犼，高丈余，童子超乘而去。母以手挝门，豁然启扉。有人出问，怪其音熟，视之，成也。母子抱哭。妇亦惊起，一门欢慰。疑媪是观音大士现身，由此持观音经咒益虔。遂流寓湖北，治田庐焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11637.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11639.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,116 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·杂仪类·誓众军令篇_古诗文网
+</title>
+<meta content="经曰：陶唐氏，以人戒於国中，欲人强其命也。有虞氏，以农教战渔猎简习，故人体之。夏后氏，誓众於军中，欲人先其虑也。殷人，誓众於军门之外，欲人先意以待事也。周人，将交白刃而誓之，以致人" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16017.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>杂仪类·誓众军令篇</b></span>
+<a href="javascript:PlayBookv(16017)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16017" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16017" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　经曰：陶唐氏，以人戒於国中，欲人强其命也。有虞氏，以农教战渔猎简习，故人体之。夏后氏，誓众於军中，欲人先其虑也。殷人，誓众於军门之外，欲人先意以待事也。周人，将交白刃而誓之，以致人意也。夏赏於朝，赏善也；殷戮於市，戮不善也。周赏於朝，戮於市，兼质文心也。夫人，以心定言，以言出令，故须振雄略、出劲辞、锐铁石之心，凛风霜之气，发挥号令，申明军法。「誓众文」：</p>
+<p>　　某将军某乙告尔六军将吏士伍等。圣人弦木为弧，剡木为矢，弧矢之利，以威不庭。兼弱攻昧，取乱侮亡。今戎夷不庭式，干王命，皇帝授我斧钺，肃将天威，有进死之荣，无退生之辱，用命赏于祖，不用命戮于社。军无二令，将无二言，勉尔，乃诚，以从王事，无干典刑。「军令」：</p>
+<p>　　经曰：师众，以顺为武，有死无犯为恭，故穰苴斩庄贾，魏绦戮杨干，而名闻诸侯，威震邻国。令之不行，不可以称兵。三令而不如法者，吏士之罪也；申明而不如法者，将之过也。先甲三日，悬令於军门，付之军正，使执本宣於六军之众。有犯命者，命军正准令按理而後行刑，使六军知禁而不敢违也。</p>
+<p>　　一漏军事者，斩；漏泄军中阴谋及告事者，皆死。</p>
+<p>　　一背军走者，斩；在道及营临阵同。</p>
+<p>　　一不战而降敌者，斩；背顺归逆同。</p>
+<p>　　一不当日时後期者，斩；诈事会战同。阻雨雪水火不坐。</p>
+<p>　　一与敌人私交通者，斩；籍没其家言语书疏同。</p>
+<p>　　一失主将者，斩；随从则不坐。</p>
+<p>　　一失旌旗节钺者，连队斩；与敌人所取同。</p>
+<p>　　一临难不相救者，斩；为敌所急不相救者同。</p>
+<p>　　一诳惑讹言妄说阴阳卜筮者，斩；妄说鬼神灾祥，以动众者同。</p>
+<p>　　一无故惊军者，斩；呼[口斗]奔走妄言烟尘者同。</p>
+<p>　　一遗弃五兵军装者，斩；不谨固检察者同。</p>
+<p>　　一自相窃盗者，斩；不计多少。</p>
+<p>　　一将吏守职不平藏情相容者，斩；理事曲法者同。</p>
+<p>　　一以强凌弱，樗蒲忿争，酗酒喧竞，恶骂无礼，於理不顺者，斩；因公宴集醉者，不坐。</p>
+<p>　　一军中奔走军马者，斩；将军已下，并步入营乘骑者同。</p>
+<p>　　一破敌先掳掠者，斩；入敌境亦同。</p>
+<p>　　一更铺失候犯夜失号擅宿他火者，斩；恐奸得计。</p>
+<p>　　一守围不固者，斩；罪一火主吏。</p>
+<p>　　一不伏差遣及主吏役使不平者，斩；有私及强梁者同。</p>
+<p>　　一侵欺百姓奸居人子女及将妇人入营者，斩；恐伤人军中，慎子女气。</p>
+<p>　　一违将军一时一命皆斩。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16016.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16018.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

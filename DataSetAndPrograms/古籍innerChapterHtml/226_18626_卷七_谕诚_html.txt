@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷七·谕诚_古诗文网
+</title>
+<meta content="汤见设网者四面张，祝曰：“自天下者，自地出者，自四方至者，皆罹我网。”汤曰：“嘻！尽之矣。非桀，其孰能如此？”令去三面，舍一面，而教之祝曰：“蛛蝥作网，今之人循绪。欲左者左，欲右者" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18626.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·谕诚</b></span>
+<a href="javascript:PlayBookv(18626)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18626" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18626" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　汤见设网者四面张，祝曰：“自天下者，自地出者，自四方至者，皆罹我网。”汤曰：“嘻！尽之矣。非桀，其孰能如此？”令去三面，舍一面，而教之祝曰：“蛛蝥作网，今之人循绪。欲左者左，欲右者右，欲高者高，欲下者下，吾请受其犯命者。”士民闻之曰：“汤之德及禽兽矣。而况我乎！”于是下亲其上。</p>
+<p>　　楚昭王当房而立，愀然有寒色，曰：“寡人朝饥时酒二觛，重裘而立，犹憯然有寒气，将柰我元元之百姓何？”是日也，出府之裘，以衣寒者；出仓之粟，以振饥者。居二年，阖闾袭郢，昭王奔隋。诸当房之赐者，请还致死于寇。阖闾一夕而五徙卧，不能赖楚，曳师而去，昭王乃复。当房之德也。</p>
+<p>　　昔楚昭王与吴人战，楚军败，昭王走，屦决，眦而行，失之。行三十步，复旋取屦。及至于隋，左右问曰：“王何曾惜一踦屦乎？”昭王曰：“楚国虽贫，岂爱一踦屦哉！思与偕反也。”自是之后，楚国之俗无相弃者。</p>
+<p>　　文王昼卧，梦人登城而呼己曰：“我东北陬之槁骨也，速以王礼葬我。”文王曰：“诺。”觉，召吏视之，信有焉。文王曰：“速以人君礼葬之。”吏曰：“此无主矣，请以五大夫。”文王曰：“吾梦中已许之矣，柰何其倍之也。”士民闻之曰：“我君不以梦之故而倍槁骨，况于生人乎！”于是下信其上。</p>
+<p>　　豫让事中行之君，智伯灭中行氏，豫让徙事智伯。及赵襄子破智伯，豫让剂面而变容，吞炭而为噎，乞其妻所，而妻弗识。乃伏刺襄子，五起而弗中。襄子患之，食不甘味，一夕而五易卧，见不全身。人谓豫让曰：“子不死中行，而反事其雠，何无耻之甚也！今必碎身麋躯，以为智伯，何其与前异也？”豫让曰：“我事中行之君，与帷而衣之，与关而枕之。夫众人畜我，我故众人事之。及智伯分吾以衣服，馅吾以鼎实，举被而为礼，大夫国士遇我，我固国士为之报。”故曰：“士为知己者死，女为悦己者容。”非?言也，故在主而已。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18625.aspx">上一章</a>
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18627.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

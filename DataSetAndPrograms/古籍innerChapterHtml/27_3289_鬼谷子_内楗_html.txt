@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+鬼谷子·鬼谷子·内楗_古诗文网
+</title>
+<meta content="君臣上下之事，有远而亲，近而疏；就之不用，去之反求；日进前而 不御，遥闻声而相思。事皆有内楗，素结本始。或结以道德，或结以党友，或结以财货，或结以采色。用其意，欲入则入，欲出则出；" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3289.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1825" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>鬼谷子·内楗</b></span>
+<a href="javascript:PlayBookv(3289)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3289" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1825)" id="leftbtn1825" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3289" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　君臣上下之事，有远而亲，近而疏；就之不用，去之反求；日进前而 不御，遥闻声而相思。</p>
+<p>　　事皆有内楗，素结本始。或结以道德，或结以党友，或结以财货，或结以采色。用其意，欲入则入，欲出则出；欲亲则亲，欲疏则疏；欲 就则就；欲去则去；欲求则求，欲思则思。若蚨母之从子也；出无间 ，入无朕。独往独来，莫之能止。</p>
+<p>　　内者，进说辞也。楗者，楗所谋也。欲说者务稳度，计事者务循顺。 阴虑可否，明言得失，以御其志。方来应时，以和其谋。详思来楗， 往应时当也。夫内有不合者，不可施行也。乃揣切时宜，从便所为， 以求其变。以变求内者，若管取楗。言往者，先顺辞也；说来者，以 变言也。善变者审知地势，乃通于天，以化四时，使鬼神，合于阴阳 ，而牧人民。</p>
+<p>　　见其谋事，知其志意。事有不合者，有所未知也。合而不结者，阳亲 而阴疏。事有不合者，圣人不为谋也。</p>
+<p>　　故远而亲者，有阴德也。近而疏者，志不合也。就而不用者，策不得 也。去而反求者，事中来也。日进前而不御者，施不合也。遥闻声而 相思者，合于谋待决事也。</p>
+<p>　　故曰：不见其类而为之者，见逆。不得其情而说之者，见非。得其情 乃制其术，此用可出可入，可楗可开。故圣人立事，以此先知而楗万 物。</p>
+<p>　　由夫道德仁义，礼乐忠信计谋，先取诗书，混说损益，议论去就。欲 合者用内，欲去者用外。外内者，必明道数。揣策来事，见疑决之。 策无失计，立功建德，治名入产业，曰楗而内合。上暗不治，下乱不窹，楗而反之。内自得而外不留，说而飞之，若命自来，己迎而御之 。若欲去之，因危与之。环转因化，莫知所为，退为大仪。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3288.aspx">上一章</a>
+<a href="/guwen/book_27.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3290.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1825" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

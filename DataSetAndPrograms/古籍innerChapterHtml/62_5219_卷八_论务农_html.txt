@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贞观政要·卷八·论务农_古诗文网
+</title>
+<meta content="贞观二年，太宗谓侍臣曰：“凡事皆须务本。国以人为本，人以衣食为本，凡营衣食，以不失时为本。夫不失时者，在人君简静乃可致耳。若兵戈屡动，土木不息，而欲不夺农时，其可得乎？”王珪曰：“" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5219.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3488" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·论务农</b></span>
+<a href="javascript:PlayBookv(5219)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5219" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3488)" id="leftbtn3488" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5219" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%a2">吴兢</a></p>
+<div class="contson">
+<p>　　贞观二年，太宗谓侍臣曰：“凡事皆须务本。国以人为本，人以衣食为本，凡营衣食，以不失时为本。夫不失时者，在人君简静乃可致耳。若兵戈屡动，土木不息，而欲不夺农时，其可得乎？”王珪曰：“昔秦皇、汉武，外则穷极兵戈，内则崇侈宫室，人力既竭，祸难遂兴。彼岂不欲安人乎？失所以安人之道也。亡隋之辙，殷鉴不远，陛下亲承其弊，知所以易之。然在初则易，终之实难。伏愿慎终如始，方尽其美。”太宗曰：“公言是也。夫安人宁国，惟在于君。君无为则人乐，君多欲则人苦。朕所以抑情损欲，克己自励耳。”</p>
+<p>　　贞观二年，京师旱，蝗虫大起。太宗入苑视禾，见蝗虫，掇数枚而咒曰：“人以谷为命，而汝食之，是害于百姓。百姓有过，在予一人，尔其有灵，但当蚀我心，无害百姓。”将吞之，左右遽谏曰：“恐成疾，不可。”太宗曰：“所冀移灾朕躬，何疾之避？”遂吞之。自是蝗不复为灾。</p>
+<p>　　贞观五年，有司上书言：“皇太子将行冠礼，宜用二月为吉，请追兵以备仪注。”太宗曰：“今东作方兴，恐妨农事。”令改用十月。太子少保萧瑀奏言：“准阴阳家，用二月为胜。”太宗曰：“阴阳拘忌，朕所不行。若动静必依阴阳，不顾理义，欲求福祐，其可得乎？若所行皆遵正道，自然常与吉会。且吉凶在人，岂假阴阳拘忌？农时甚要，不可暂失。”</p>
+<p>　　贞观十六年，太宗以天下粟价率计斗值五钱，其尤贱处，计斗值三钱，因谓侍臣曰：“国以民为本，人以食为命。若禾黍不登，则兆庶非国家所有。既属丰稔若斯，朕为亿兆人父母，唯欲躬务俭约，必不辄为奢侈。朕常欲赐天下之人，皆使富贵，今省徭赋，不夺其时，使比屋之人恣其耕稼，此则富矣。敦行礼让，使乡闾之间，少敬长，妻敬夫，此则贵矣。但令天下皆然，朕不听管弦，不从畋猎，乐在其中矣！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5218.aspx">上一章</a>
+<a href="/guwen/book_62.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5220.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3488" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

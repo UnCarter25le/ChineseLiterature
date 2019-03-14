@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷二·奇经八脉第二_古诗文网
+</title>
+<meta content="黄帝问曰∶脉行之逆顺奈何？岐伯对曰∶手之三阴，从脏走手。手之三阳，从手走头。足之三阳，从头走足。足之三阴，从足走腹。曰∶少阴之脉独下行何也？曰∶冲脉者，五脏六腑之海也，五脏六腑皆禀" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12518.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·奇经八脉第二</b></span>
+<a href="javascript:PlayBookv(12518)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12518" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12518" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　黄帝问曰∶脉行之逆顺奈何？岐伯对曰∶手之三阴，从脏走手。手之三阳，从手走头。足之三阳，从头走足。足之三阴，从足走腹。曰∶少阴之脉独下行何也？曰∶冲脉者，五脏六腑之海也，五脏六腑皆禀焉。其上者出于颃颡，渗诸阳，灌诸阴。其下者注少阴之大络，出于气冲，循阴股内廉，斜入 中，伏行髀骨内，下至内踝之后属而别。其下者，至于少阴之经，渗三阴。其前者，伏行出属跗，下循跗入大指间，渗诸络而温肌肉。故别络结则跗上不动，不动则厥，厥则寒矣。曰∶何以明之？曰∶以言道之，切而验之，其非必动，然后可以明逆顺之行也。</p>
+<p>　　冲脉任脉者，皆起于胞中，上循脊里，为经络之海。其浮而外者，循腹上（一作右）行，会于咽喉，别而络唇口。血气盛则充肤热肉，血独盛则渗灌皮肤，生毫毛。妇人有余于气，不足于血，以其月水下，数脱血，任冲并伤故也。任冲之交，脉不营其唇，故髭须不生焉。任脉者，起于中极之上，以下毛际，循腹里，上关元，至咽喉，上颐循面入目。冲脉者，起于气冲，并少阴之经侠脐上行，至胸中而散（其言冲脉与《九卷》异）。任脉为病，男子内结七疝，女子带下瘕聚。冲脉为病，逆气里急。督脉为病，脊强反折（亦与《九卷》互相发也。）</p>
+<p>　　曰∶人有伤于阴，阴气绝而不起，阴不为用，髭须不去，宦者独去，何也？曰∶宦者去其宗筋，伤其冲脉，血泻不复，皮肤内结，唇口不营，故无髭须。夫宦者，其任冲之脉不盛，宗筋不成，有气无血，口唇不营，故髭须不生。（督脉者经缺不具，见于营气，曰上额循巅，下项中，循脊入 ，是督脉也。）</p>
+<p>　　《素问》曰∶督脉者，起于少腹以下骨中央，女子入系廷孔，其孔溺孔之端也，其络循阴器，合纂间，绕纂后，别绕臀至少阴，与巨阳中络者，合少阴上股内后廉，贯脊属肾。与太阳起于目内 ，上额交巅，上入络脑，还出别下项，循肩膊内，侠脊抵腰中，入循膂络肾。其男子循茎下至纂，与女子等，其小腹直上者，贯脐中央，上贯心，入喉，上颐环唇，上系两目之中。此生病从小腹上冲心而痛，不得前后，为冲疝。其女子不孕，癃痔遗溺嗌干。督脉生病，治督脉。</p>
+<p>　　《难经》曰∶督脉者，起于下极之俞，并于脊里，上至风府，入属于脑，上巅循额，至鼻柱，阳脉之海也。（《九卷》言营气之行于督脉，故从上下。《难经》言其脉之所起，故从下上。所以互相发也。《素问》言督脉似谓在冲，多闻阙疑，故并载以贻后之长者云。）</p>
+<p>　　曰∶跷脉安起安止，何气营也？曰∶跷脉者，少阴之别，起于然骨之后，上内踝之上，直上循阴股，入阴，上循胸里入缺盆，上循人迎之前，上入鼽（《灵枢》作 字），属目内，合于太阳阳跷而上行，气相并相还，则为濡（一作深）目，气不营则目不合也。</p>
+<p>　　曰∶气独行五脏，不营六腑何也？曰∶气之不行无行也，如水之流，如日月之行不休，故阴脉营其脏，阳脉营其腑，如环之无端，莫知其纪，终而复始。其流溢之气，内溉脏腑外濡腠理。</p>
+<p>　　曰∶跷脉有阴阳，何者当其数？曰∶男子数其阳，女子数其阴；其阴（一本无此二字）当数者为经，不当数者为络也。</p>
+<p>　　难经曰∶阳跷脉者起于跟中，循外踝上行，入风池。阴跷脉者，亦起于跟中，循内踝上行，入喉咙，交贯冲脉。此所以互相发明也。又曰∶阳维阴维者，维络于身，溢蓄不能环流溉灌也。故阳维起于诸阳会，阴维起于诸阴交也。又曰∶带脉起于季胁，回身一周。（自冲脉以下是谓奇经八脉）。又曰∶阴跷为病，阳缓而阴急。阳跷为病，阴缓而阳急。阳维维于阳，阴维维于阴。阴阳不能相维，为病腰腹纵容，如囊水之状（一云腹满腰溶溶如坐水中状）。此八脉之诊也。（维脉带脉皆见如此，详《素问》痿论及见于《九卷》）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12517.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12519.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+墨子·20章 节用(上)_古诗文网
+</title>
+<meta content="圣人为政一国，一国可倍也；大之为政天下，天下可倍也。其倍之，非外取地也，因其国家去其无用之费，足以倍之。圣王为政，其发令、兴事、使民、用财也，无不加用而为者。是故用财不费，民德不劳" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3410.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1961" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>20章 节用(上)</b></span>
+<a href="javascript:PlayBookv(3410)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3410" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1961)" id="leftbtn1961" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3410" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　圣人为政一国，一国可倍也；大之为政天下，天下可倍也。其倍之，非外取地也，因其国家去其无用之费，足以倍之。圣王为政，其发令、兴事、使民、用财也，无不加用而为者。是故用财不费，民德不劳，其兴利多矣。</p>
+<p>　　其为衣裘何？以为冬以圉寒，夏以圉暑。凡为衣裳之道，冬加温、夏加凊者芊[鱼且]，不加者，去之。其为宫室何以为？冬以圉风寒，夏以圉暑雨。有盗贼加固者，芊[鱼且]；不加者，去之。其为甲盾五兵何以为？以圉寇乱盗贼，若有寇乱盗贼，有甲盾五兵者胜，无者不胜。是故圣人作为甲盾五兵。凡为甲届五兵，加轻以利，坚而难折者，芊[鱼且]；不加者，去之。其为舟车何以为？车以行陵陆，舟以行川谷，以通四方之利。凡为舟车之道，加轻以利者，芊[鱼且]；不加者，去之。凡其为此物也，无不加用而为者。是故用财不费，民德不劳，其兴利多矣。有去大人之好聚珠玉、鸟兽、犬马，以益衣裳、宫室、甲盾、五兵、舟车之数，于数倍乎，若则不难。故孰为难倍？唯人为难倍；然人有可倍也。昔者圣王为法，曰：“丈夫年二十，毋敢不处家，女子年十五，毋敢不事人。”此圣王之法也。圣王既没，于民次也，其欲蚤处家者，有所二十年处家；其欲晚处家者，有所四十年处家。以其蚤与其晚相践，后圣王之法十年。若纯三年而字，子生可以二三年矣。此不惟使民蚤处家，而可以倍与？且不然已！</p>
+<p>　　今天下为政者，其所以寡人之道多。其使民劳，其籍敛厚，民财不足，冻饿死者，不可胜数也。且大人惟毋兴师，以攻伐邻国，久者终年，速者数月，男女久不相见，此所以寡人之道也。与居处不安，饮食不时，作疾病死者，有与侵就援橐，攻城野战死者，不可胜数。此不令为政者所以寡人之道、数术而起与？圣人为政特无此，不圣人为政，其所以众人之道，亦数术而起与？</p>
+<p>　　故子墨子曰:“去无用之费，圣王之道，天下之大利也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3409.aspx">上一章</a>
+<a href="/guwen/book_29.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3411.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1961" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷三·汪士秀_古诗文网
+</title>
+<meta content="汪士秀，庐州人，刚勇有力，能举石舂，父子善蹴鞠。父四十余，过钱塘没焉。积八九年，汪以故诣湖南，夜泊洞庭，时望月东升，澄江如练。方眺瞩间，忽有五人自湖中出，携大席平铺水面，略可半亩。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11505.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·汪士秀</b></span>
+<a href="javascript:PlayBookv(11505)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11505" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11505" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　汪士秀，庐州人，刚勇有力，能举石舂，父子善蹴鞠。父四十余，过钱塘没焉。</p>
+<p>　　积八九年，汪以故诣湖南，夜泊洞庭，时望月东升，澄江如练。方眺瞩间，忽有五人自湖中出，携大席平铺水面，略可半亩。纷陈酒馔，馔器磨触作响，然声温厚不类陶瓦。已而三人践席坐，二人侍饮。坐者一衣黄，二衣白。头上巾皆皂色，峨峨然下连肩背，制绝奇古，而月色微茫，不甚可晰。侍者俱褐衣，其一似童，其一似叟也。但闻黄衣人曰：“今夜月色大佳，足供快饮。”白衣者曰：“此夕风景，大似广利王宴梨花岛时。”三人互劝，引釂竞浮白。但语略小即不可闻，舟人隐伏不敢动息。汪细审侍者叟酷类父，而听其言又非父声。</p>
+<p>　　二漏将残，忽一人曰：“趁此明月，宜一击球为乐。”即见僮汲水中取一圆出，大可盈抱，中如水银满贮，表里通明。坐者尽起。黄衣人呼叟共蹴之。蹴起丈余，光摇摇射人眼。俄而訇然远起，飞堕舟中。汪技痒，极力踏去，觉异常轻软。踏猛似破，腾寻丈，中有漏光下射如虹，蚩然疾落。又如经天之彗直投水中，滚滚作沸泡声而灭。席中共怒曰：“何物生人败我清兴！”叟笑曰：“不恶不恶，此吾家流星拐也。”白衣人嗔其语戏，怒曰：“都方厌恼，老奴何得作欢？便同小乌皮捉得狂子来，不然，胫股当有椎吃也！”汪计无所逃，即亦不畏，捉刀立舟中。倏见僮叟操兵来，汪注视真其父也，疾呼：“阿翁！儿在此！”叟大骇，相顾凄断。</p>
+<p>　　僮即反身去。叟曰：“儿急作匿。不然都死矣！”言未已三人忽已登舟，面皆漆黑，睛大于榴，攫叟出。汪力与夺，摇舟断缆。汪以刀截其臂落，黄衣者乃逃。一白衣人奔汪，汪剁其颅，堕水有声，哄然俱没，方谋夜渡，旋见巨喙出水面深若井，四面湖水奔注，砰砰作响。俄一喷涌，则浪接星斗，万舟簸荡。湖人大恐。舟上有石鼓二皆重百斤，汪举一以投，激水雷鸣，浪渐消。又投其一，风波悉平。汪疑父为鬼，叟曰：“我固未尝死也。溺江者十九人，皆为妖物所食，我以蹋圆得全。物得罪于钱塘君，故移避洞庭耳。三人鱼精，所蹴鱼胞也。”父子聚喜，中夜击棹而去。天明，见舟中有鱼翅径四五尺许，乃悟是夜间所断臂也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11504.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11506.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

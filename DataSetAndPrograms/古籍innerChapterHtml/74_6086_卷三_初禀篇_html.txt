@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+论衡·卷三·初禀篇_古诗文网
+</title>
+<meta content="人生性命当富贵者，初禀自然之气，养育长大，富贵之命效矣。文王得赤雀，武王得白鱼赤乌。儒者论之，以为雀则文王受命，鱼乌则武王受命；文、武受命於天，天用雀与鱼乌命授之也。天用赤雀命文王" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6086.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4744" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·初禀篇</b></span>
+<a href="javascript:PlayBookv(6086)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6086" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4744)" id="leftbtn4744" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6086" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e5%85%85">王充</a></p>
+<div class="contson">
+<p>　　人生性命当富贵者，初禀自然之气，养育长大，富贵之命效矣。文王得赤雀，武王得白鱼赤乌。儒者论之，以为雀则文王受命，鱼乌则武王受命；文、武受命於天，天用雀与鱼乌命授之也。天用赤雀命文王，文王不受，天复用鱼乌命武王也。若此者，谓本无命於天，修己行善，善行闻天，天乃授以帝王之命也，故雀与鱼乌，天使为王之命也。王所奉以行诛者也。如实论之，非命也。命，谓初所禀得而生也。人生受性，则受命矣。性命俱禀，同时并得，非先禀性，後乃受命也。何以明之？弃事尧为司马，居稷官，故为后稷。曾孙公刘居邰，後徙居邠。後孙古公亶甫三子：太伯、仲雍、季历，季历生文王昌。昌在襁褓之中，圣瑞见矣。故古公曰：“我世当有兴者，其在昌乎！”於是太伯知之，乃辞之吴，文身断发，以让王季。文王受命，谓此时也，天命在人本矣，太王古公见之早也。此犹为未，文王在母身之中已受命也。王者一受命，内以为性，外以为体。体者，面辅骨法，生而禀之。 </p>
+<p>　　吏秩百石以上，王侯以下，郎将大夫，以至元士，外及刺史太守，居禄秩之吏，禀富贵之命，生而有表见於面，故许负、姑布子卿辄见其验。仕者随秩迁转，迁转之人，或至公卿，命禄尊贵，位望高大。王者尊贵之率，高大之最也。生有高大之命，其时身有尊贵之奇，古公知之，见四乳之怪也。夫四乳，圣人证也，在母身中，禀天圣命，岂长大之後，修行道德，四乳乃生？以四乳论望羊，亦知为胎之时已受之矣。刘媪息於大泽，梦与神遇，遂生高祖，此时已受命也。光武生於济阳宫，夜半无火，内中光明。军下卒苏永谓公曹史充兰曰：“此吉事也，毋多言！”此时已受命。独谓文王、武王得赤雀、鱼乌乃受命，非也。上天壹命，王者乃兴，不复更命也。得富贵大命，自起王矣。何以验之？富家之翁，资累千金。生有富骨，治生积货，至於年老，成为富翁矣。夫王者，天下之翁也，禀命定於身中，犹鸟之别雄雌於卵壳之中也。卵壳孕而雌雄生，日月至而骨节强，强则雄，自率将雌。雄非生长之後，或教使为雄，然後乃敢将雌，此气性刚强自为之矣。夫王者，天下之雄也，其命当王。王命定於怀妊，犹富贵骨生，鸟雄卵成也。非唯人，鸟也，万物皆然。草木生於实核，出土为栽蘖，稍生茎叶，成为长短巨细，皆有实核。王者，长巨之最也。硃草之茎如针，紫芝之栽如豆，成为瑞矣。王者禀气而生，亦犹此也。 </p>
+<p>　　或曰：“王者生禀天命，及其将王，天复命之。犹公卿以下，诏书封拜，乃敢即位。赤雀鱼乌，上天封拜之命也。天道人事，有相命使之义。”自然无为，天之道也。命文以赤雀，武以白鱼，是有为也。管仲与鲍叔分财取多，鲍叔不与，管仲不求。内有以相知，视彼犹我，取之不疑。圣人起王，犹管之取财也。朋友彼我无有授与之义，上天自然，有命使之验，是则天道有为，朋友自然也。当汉祖斩大蛇之时，谁使斩者？岂有天道先至，而乃敢斩之哉？勇气奋发，性自然也。夫斩大蛇，诛秦杀项，同一实也。周之文、武命伐殷，亦一义也。高祖不受命使之将，独谓文、武受雀鱼之命，误矣。难曰：《康王之诰》曰：“冒闻於上帝，帝休，天乃大命文王。”如无命史，经何为言天乃大命文王？所谓大命者，非天乃命文王也，圣人动作，天命之意也，与天合同，若天使之矣。《书》方激劝康叔，勉使为善，故言文王行道，上闻於天，天乃大命之也。《诗》曰：“乃眷西顾，此惟予度。”与此同义。天无头面，眷顾如何？人有顾睨，以人效天，事易见，故曰眷顾。天乃大命文王，眷顾之义，实天之命也。何以验之？“夫大人与天地合其德，与日月合其明，与四时合其序，与鬼神合其吉凶，先天而天不违，後天而奉天时。”如必须天有命，乃以从事，安得先天而後天乎？以其不待天命，直以心发，故有先天後天之勤。言合天时，故有不违奉天之文。《论语》曰：“大哉！尧之为君！唯天为大，唯尧则之。”王者则天不违，奉天之义也。推自然之性，与天合同，是则所谓“大命文王”也，自文王意，文王自为，非天驱赤雀，使告文王，云当为王，乃敢起也。然则文王赤雀，及武王白鱼，非天之命，昌炽佑也。吉人举事，无不利者。人徒不召而至，瑞物不招而来，黯然谐合，若或使之。出门闻吉，顾睨见善，自然道也。文王当兴，赤雀适来；鱼跃乌飞，武王偶见：非天使雀至、白鱼来也，吉物动飞，而圣遇也。白鱼入於王舟，王阳曰：“偶适也。”光禄大夫刘琨，前为弘农太守，虎渡何。光武皇帝曰：“偶适自然，非或使之也。”故夫王阳之言“适”，光武之曰“偶”，可谓合於自然也。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6085.aspx">上一章</a>
+<a href="/guwen/book_74.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6087.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4744" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

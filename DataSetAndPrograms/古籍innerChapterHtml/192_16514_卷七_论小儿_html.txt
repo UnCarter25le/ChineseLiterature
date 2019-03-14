@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷七·论小儿_古诗文网
+</title>
+<meta content="夫观小儿之命，如种花木之法。善培养者，则根苗茂盛，花果兴隆；不善培养者反是。何以言之？凡人种花木，必以土栽培其根，根实则苗盛；必以水浇灌其体，体壮则花茂；赖阳火温照其花，花实则果成" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16514.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·论小儿</b></span>
+<a href="javascript:PlayBookv(16514)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16514" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16514" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　夫观小儿之命，如种花木之法。善培养者，则根苗茂盛，花果兴隆；不善培养者反是。何以言之？凡人种花木，必以土栽培其根，根实则苗盛；必以水浇灌其体，体壮则花茂；赖阳火温照其花，花实则果成；假金刃修伐其枝，枝清则本固。设若土虚根浅，水少苗枯，日暴花焦，风摧果落，是皆失中和培养之气，其花木安有不枯之理乎？人之八字，以年为根，月为苗，日为花，时为果，其理皆然。故推小儿之命，要日干有气，月令生扶，年上栽根，印绶无伤，财官有制，七煞得化，伤官遇合，气禀中和，不值刑冲破害，此则易养长寿之命。如煞重身轻，财多身弱，伤官叠遇，食神重逢，日干或旺甚无依，或太柔少印，气失中和，柱中有刑冲破害，此则难养促寿之命。二者类如栽培之法。</p>
+<p>　　又曰：小儿之命，当论时辰为正，先看关煞，次看格局。日主强财官旺，有关无煞，日主弱财官少，常病易养；日干弱财官多，有煞有关，难养。夫关者何也？即偏官为关，偏财为煞。专以日干为主，取生成之数断之。关者，譬如今之关隘，乃险阻之地。人至关，非明文不敢私渡，违者必致其祸。小儿命犯此关，则为不利。柱中日干强健，制伏纯粹，印绶无伤，如有明文之类，通达顺遂，易养长寿。反之则否。</p>
+<p>　　子平之关只以煞论。假如初生小儿甲日者，庚为关，柱有戊土党煞，此为关重无财。日主健旺得印生解化者，关轻无害。甲日见庚九岁关，丁见癸为六岁关，戊见甲为三岁关，丙见壬为一岁关，壬见戊为五岁关，癸见己为半岁关。</p>
+<p>　　古有占男女生时之日阴阳贵贱法。如金命，天阴生，主官贵相；昏暗贫贱；不问大小风起，不长寿；有雨雪，主心善孝顺。木命，天阴生，大富；晴朗，有官，长寿；天昏，衣食平微，短命；有雪雨，身贵孝顺。水命，天阴生，心恶，倘来衣食；明朗，大贵；昏暗，短命，贫贱；有风起，久后贵人提携。火命，天阴生，大富；晴朗，虽富寿夭；昏暗，有官分；不问大小风起，有衣食；大雪，短命；微雪雨，年至五十左右，有病。土命，天阴，不过十五岁死；微雨，不过三十岁，大富；昏暗，富贵，有官分，寿却夭；大风忤逆，短命；雨雪，有外财；晴朗，富贵久远。</p>
+<p>　　凡小儿生时是辰戌丑未，又四柱中多墓，主过房；带午未多者，名执拗煞，主为性执拗。戌多者亦然；带子亥多，主疝气偏坠，是子时者无不应，壬子、丙子尤紧；生时与胎同在辰上者亦然；带火多，主少年浓血之灾；带丁午多，有未字者，主头大，害疮疖，或疤痕，或秃疮，大人脑疽。四孟月上带金火相克，多疮疖惊疾；金水火相克制，主剥皮疮灾；金水多主晚语见木主早语。五行全者，主少便清俊伶俐，是夙有灵骨。五行自生月至时上以次求生旺少刑冲者吉，主长寿，成器人也。反是则夭，纵使福神多有救，少年当十生九死，及至成人，亦非上寿。益禀五行生旺则气实，气实则寿长；五行死绝则气薄，气薄则短夭。</p>
+<p>　　凡月日时支干支错乱而重见太岁，曰重元星，主过房寄生螟蛉之子。初生或食神重叠，或偏印太旺，皆主无乳。犯五重羊刃，名曰满盘刃。多养不成，更时带刑害者，决死。女儿差慢，终不免产厄而死。生时见官符，父有公讼，母有惊恐；咸池重合，不得亲父母养育，或非嫡母所生；重叠见空亡，主惊颠失坠，克父母。生时犯空亡及自死绝者，七岁前赢疾，七岁后徒肥。凡俗推小儿正否，命见孤辰、寡宿，多隔房异宅，势不行气不转，幼离父母。如庚辰金见己巳火，金气转于十二支，则有火截，所以气不转。余依此推。</p>
+<p>　　或问：偶然同产一母，所生何以别贵贱荣枯？答曰，凡一时有八刻十二分，故有浅深、前后、吉凶不同。其有同时同母所生，须分浅深及日时之阴阳。如阳日时，兄胜；阴日时，弟胜。浅则占先时之气，深则占后时之气。古歌云：双生之法有奇门，欲验荣枯视日辰；阴日弟强兄必弱，阳时兄贵弟必贫。</p>
+<p>　　又一说：一时分方向，如木命向东方者受生气，向西方者受克生，贵贱寿夭以是别之。余闻三河王氏兄弟双生，弟先中，兄后中，功名寿夭，大率相似，而兄竟不如弟。颖州李氏兄弟双生，因差一时，故弟登甲科，兄只秀才。考其八字，果如前说。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16513.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16515.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷九·取灸心气法；取灸痔漏法；灸小肠疝气穴法；灸肠风下血法_古诗文网
+</title>
+<meta content="取灸心气法先将长草一条，比男左女右手掌内大拇指根横纹量起。至甲内止，以墨点记；次比盐指、中指、四指、小指五指皆比如前法；再加同身寸一寸点定，别用秆草一条，与前所量草般齐，至再加一寸" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18936.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·取灸心气法；取灸痔漏法；灸小肠疝气穴法；灸肠风下血法</b></span>
+<a href="javascript:PlayBookv(18936)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18936" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18936" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　<strong>取灸心气法</strong></p>
+<p>　　先将长草一条，比男左女右手掌内大拇指根横纹量起。至甲内止，以墨点记；次比盐指、中指、四指、小指五指皆比如前法；再加同身寸一寸点定，别用秆草一条，与前所量草般齐，至再加一寸墨上，共结一磊；却令病人正坐，脱去衣，以草分开，加于颈上，以指按定，磊于天突骨上，两边垂向背后，以两条草取般齐，垂下脊中尽处是穴，灸七壮效。</p>
+<p>　　<strong>取灸痔漏法</strong></p>
+<p>　　痔疾未深，止灸长强甚效。如年深者，可用槐枝、马蓝菜根一握，煎汤取水三碗。用一碗半，乘热以小口瓶熏洗，令肿退，于原生鼠奶根上灸之，尖头灸不效。或用药水盆洗肿微退，然后灸，觉一团火气通入肠至胸，乃效。灸至二十余壮。更忌毒物，永愈。随以竹片护火气，勿伤两边好肉。</p>
+<p>　　<strong>灸小肠疝气穴法</strong></p>
+<p>　　若卒患小肠疝气，一切冷气，连脐腹结痛，小便遗溺。大敦二穴，在足大趾之端，去爪甲韭叶许，及三毛丛中是穴。灸三壮。</p>
+<p>　　若小肠卒疝，脐腹疼痛，四肢不举，小便涩滞，身重足痿。三阴交二穴，在足内踝骨上三寸是穴，宜针三分，灸三壮，极妙。</p>
+<p>　　<strong>灸肠风下血法</strong></p>
+<p>　　取男左女右手中指为准，于尾闾骨尖头，从中倒比，上至腰脊骨一指尽处，是第一穴也。又以第二指，于中穴取中一字分开指头各一穴，灸七壮。以上加至壮数多为效。患深，次年更灸，但以中指一指为准，临时更揣摸之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18935.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18937.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

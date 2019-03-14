@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·为政篇·致诸弟·详述办理巨盗及公议粮饷事_古诗文网
+</title>
+<meta content="澄候温甫子植季洪四位老弟足下：八月十七日接到家信，欣悉一荨，左光八为吾乡巨盗，能除其根株，扫其巢穴，则我境长享其利，自是莫阴功，第湖南会匪，所在勾结，往往牵一发而全身皆动，现在刺军" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18280.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>为政篇·致诸弟·详述办理巨盗及公议粮饷事</b></span>
+<a href="javascript:PlayBookv(18280)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18280" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18280" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　澄候温甫子植季洪四位老弟足下：</p>
+<p>　　八月十七日接到家信，欣悉一荨，左光八为吾乡巨盗，能除其根株，扫其巢穴，则我境长享其利，自是莫阴功，第湖南会匪，所在勾结，往往牵一发而全身皆动，现在刺军程公，将至湖南，即是奉旨查办此事，盖恐粤西匪徒穷窜，一入湖南境内，则楚之会匪，因而窃发也，左光八一伙，想尚非巨伙入会者流，然我境办之，不可过激而生变，现闻其请正绅保举，改行为良，且可捉贼自效，此是一好机会，万一不然，亦须相机图之，不可用力太猛，易发难收也。</p>
+<p>　　公义粮饷一事，果出通邑之愿，则造福无量，至于帮钱垫官之亏空，则我家万不可出力，盖亏空万六千两项大钱三万余千，每都畿须派千串，现在为此说者，不过数大绅士一时豪气，为此急公好义之言，将来各处分派，仍是巧者强者少出，而讨好于官之前，拙者弱者多出，而不免受人之勒，穷乡殷实小户，必有怨声载道者，且此风一开，则下次他官来此，既引师令之借钱办公为证，又引来朱公之民帮垫亏为证，或亦分派民间出钱帮他，反觉无辞以谢，若相援为例，来一官，帮一官，吾邑自此无安息之日，凡行公事，须深谋远虑，此事若各绅有意，吾家不必拦阻，若吾家倡议，万万不可。</p>
+<p>　　且官之补缺，皆有保法，何缺出轮何班补，虽抚藩不能稍为变动，澄弟在外多年，岂此等亦未知耶？朱公若不轮到班，则虽帮垫亏空，这邑挽留，而格于成例，亦不可行，若已轮到班。则虽不垫亏空，亦自不能不补缺，间有特为变通者，督抚专折奏请亦不敢大建成例，季弟来书，若以朱公之实授与否，全视乎亏空之能垫与否，恐亦不尽然也，曾仪斋若纱革职，早不复能空补子，若系大计休致，则尚可穿。</p>
+<p>　　季弟有志于道义身心之学，余间其书，不胜欣喜！凡人无不可为圣贤，绝不系乎读书之多，吾弟诚有志于此，须熟读《小学》及五种《遗规》二书，睇外各书，能读固佳，不读亦初无所捐，可以为天地之完人，可以为父母之肖子，不必因读书而后有所加于毫末也，匪但四大古诗，可以不看，即古文为吾弟所愿学者，而不看亦是无妨，但守《小学》《遗规》二书，行一句，算一句，行十句，算十句，贤于记诵词章之学万万矣。</p>
+<p>　　季弟又言愿尽孝道，惟亲命是听，此尤足补我之缺憾，我在京十余年，定省有阙，色笑远违，寸心之疚，无刻或释，着诸弟在家，能婉愉孝养，视无形，听无声，则余能尽忠，弟能尽孝，岂非一门之详瑞哉？愿诸弟坚持此志，日日勿忘，则兄之志可以稍释，幸甚幸甚！书不上一，余俟续具，国藩手草。（咸丰元年八月十九日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18279.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18281.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

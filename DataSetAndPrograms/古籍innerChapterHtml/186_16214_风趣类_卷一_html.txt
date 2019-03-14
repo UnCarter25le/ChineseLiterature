@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·风趣类·卷一_古诗文网
+</title>
+<meta content="◎郑板桥受骗扬州郑进士板桥，善书画，体兼篆隶，尤工兰竹，人争重之。性奇怪，嗜食狗肉，谓其味特美。贩夫牧竖，有烹狗肉以进者，辄作小幅以报之。富商大贾，虽饵以千金，不顾也。时扬有一盐商" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16214.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>风趣类·卷一</b></span>
+<a href="javascript:PlayBookv(16214)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16214" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16214" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎郑板桥受骗</p>
+<p>　　扬州郑进士板桥，善书画，体兼篆隶，尤工兰竹，人争重之。性奇怪，嗜食狗肉，谓其味特美。贩夫牧竖，有烹狗肉以进者，辄作小幅以报之。富商大贾，虽饵以千金，不顾也。时扬有一盐商，求板桥书不得，虽辗转购得数幅，终以无上款不光，乃思得一策。一日，板桥出游稍远，闻琴声甚美，循声寻之，则竹林中一大院落，颇雅洁。入门，见一人须眉甚古，危坐鼓琴，一童子烹狗肉方熟。板桥大喜，骤语老人曰：“汝亦喜食狗肉乎？”老人曰：“百味惟此最佳。子亦知味者，请尝一脔。”</p>
+<p>　　两人未通姓名，并坐大嚼。板桥见其素壁，询其何以无字画，老人曰：“无佳者。此间郑板桥，虽颇有名，然老夫未尝见其书画，不知其果佳否？”板桥笑曰：“汝亦知郑板桥乎？我即是也。请为子书画可乎？”老人曰：“善。”遂出纸若干，板桥一一挥毫竟。老人曰：“贱字某某，可为落款。”板桥曰：“此某盐商之名，汝亦何为名此。”老人曰：“老夫取此名时，某商尚未出世也。同名何伤？清者清、浊者浊耳。”板桥即署款而别。</p>
+<p>　　次日盐商宴客，丐知交务请板桥一临，至则四壁皆悬己书画，视之皆己昨日为老人所作，始知老人乃盐商所使，而己则受老人之骗，然已无可如何矣。</p>
+<p>　　◎郑板桥嫁女</p>
+<p>　　板桥先生之淡宕风流，夫人知之矣。其玩世不恭，直有可友竹林而师柳下者，世多未之传也。予尝闻诸父老曰：“先生有女，笃爱之，井臼针黹无一能，而工画工诗，颇得其父意。先生欲嫁之而难其偶，适有友而鳏者，所学所好与之同。先生相之，喜曰：‘吾婿无逾此者。’遂约焉。归则诡谓其女曰：‘明日携汝佳处游，当不负也。’女喜从之友所，友酌之。已，先生命女曰：‘此汝家也，其安之。’女喻父意，遂不去。而所谓问名纳采诸缛礼，概无有焉。先生曰：‘非吾不能有此也，非此女不能嫁此夫也。’其荡佚礼法有如此。”</p>
+<p>　　◎顾栋高裸体读经</p>
+<p>　　顾栋高先生复初，清康熙辛丑进士，性倨慢不合时，仅三载即归田。深于经学，自幼至老未尝一日不读书，于五经皆有发明。掌教淮阳时，夏月坚闭重门，解衣裸体，寸丝不挂，手执一卷，高读不辍。客至，自门隙窥之，大笑，先生仓皇著衣而出。谈者传为笑柄云。</p>
+<p>　　◎励自牧典客裘</p>
+<p>　　励太史自牧，以世家子官词林，落魄不羁，索逋人常满户外。一日，天气甚寒，设盛馔宴客，客皆衣紫貂海龙而来。室中多设火炉，劝酒甚挚，客皆汗出，解衣畅饮，先生潜令家人取赴质库。酒罢，始以情告，众皆无可如何，次日各送还质券而已。</p>
+<p>　　◎孙人龙蜂腰之憾</p>
+<p>　　纪文达会试时，出孙端人宫允人龙门下，孙豪于酒，尝憾文达不能饮，戏之曰：“东坡长处学之可也，何并其短处，亦刻画求似？”及公典试，得葛临溪太史正华，酒量冠一世，公亟以书报孙，孙复札云：“吾再传而得此君，闻之起舞，但终憾君是蜂腰耳。”承平士大夫，诗场酒社，谐谑风流，令人慨慕。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16213.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16215.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

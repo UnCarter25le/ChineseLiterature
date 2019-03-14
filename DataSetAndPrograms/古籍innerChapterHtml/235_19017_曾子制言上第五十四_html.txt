@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+大戴礼记·曾子制言上第五十四_古诗文网
+</title>
+<meta content="曾子曰：“夫行也者，行礼之谓也。夫礼，贵者敬焉，老者孝焉，幼者慈焉，少者友焉，贱者惠焉。此礼也，行之则行也，立之则义也。今之所谓行者，犯其上，危其下，衡道而强立之，天下无道，故若天" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19017.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>曾子制言上第五十四</b></span>
+<a href="javascript:PlayBookv(19017)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19017" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19017" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%88%b4%e5%be%b7">戴德</a></p>
+<div class="contson">
+<p>　　曾子曰：“夫行也者，行礼之谓也。夫礼，贵者敬焉，老者孝焉，幼者慈焉，少者友焉，贱者惠焉。此礼也，行之则行也，立之则义也。今之所谓行者，犯其上，危其下，衡道而强立之，天下无道，故若天下有道，则有司之所求也。 </p>
+<p>　　故君子不贵兴道之士，而贵有耻之士也；若由富贵兴道者与？贫贱，吾恐其或失也；若由贫贱兴道者与？富贵，吾恐其赢骄也。夫有耻之士，富而不以道则耻之，贫而不以道则耻之。 </p>
+<p>　　弟子！无曰不我知也，鄙夫鄙妇相会于廧阴，可谓密矣，明日则或扬其言矣；故士执仁与义而明行之，未笃故也，胡为其莫之闻也。杀六畜不当，及亲，吾信之矣；使民不时，失国，吾信之矣。 </p>
+<p>　　蓬生麻中，不扶自直，白沙在泥，与之皆黑；是故人之相与也，譬如舟车然，相济达也，己先则援之，彼先则推之；是故，人非人不济，马非马不走，土非土不高，水非水不流。 </p>
+<p>　　君子之为弟也，行则为人负，无席则寝其趾，使之为夫人则否。近世无贾，在田无野，行无据旅，苟若此，则夫杖可因笃焉。 </p>
+<p>　　富以苟，不如贫以誉；生以辱，不如死以荣。辱可避，避之而已矣；及其不可避也，君子视死若归。父母之雠，不与同生；兄弟之雠，不与聚国，朋友之雠，不与聚乡，族人之雠，不与聚邻；良贾深藏若虚，君子有盛教如无。” </p>
+<p>　　弟子问于曾子曰：“夫士，何如则可以为达矣？”曾子曰：“不能则学，疑则问，欲行则比贤，虽有险道，循行达矣。今之弟子，病下人不知事贤，耻不知而又不问，欲作则其知不足，是以惑闇，惑闇，终其世而已矣，是谓穷民也。” </p>
+<p>　　曾子门弟子或将之晋，曰：“吾无知焉。”曾子曰：“何必然，往矣！有知焉，谓之友；无知焉，谓之主。且夫君子执仁立志，先行后言，千里之外，皆为兄弟，苟是之不为，则虽汝亲，庸孰能亲汝乎？”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19016.aspx">上一章</a>
+<a href="/guwen/book_235.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19018.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

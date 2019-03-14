@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+茶经·五之煮_古诗文网
+</title>
+<meta content="凡炙茶，慎勿于风烬间炙，熛焰如钻，使凉炎不均。特以逼火，屡其翻正，候炮出培塿状蟆背，然后去火五寸。卷而舒，则本其始，又炙之。若火干者，以气熟止；日干者，以柔止。其始，若茶之至嫩者，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13783.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>五之煮</b></span>
+<a href="javascript:PlayBookv(13783)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13783" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13783" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%86%e7%be%bd">陆羽</a></p>
+<div class="contson">
+<p>　　凡炙茶，慎勿于风烬间炙，熛焰如钻，使凉炎不均。特以逼火，屡其翻正，候炮出培塿状蟆背，然后去火五寸。卷而舒，则本其始，又炙之。若火干者，以气熟止；日干者，以柔止。</p>
+<p>　　其始，若茶之至嫩者，蒸罢热捣，叶烂而芽笋存焉。假以力者，持千钧杵亦不之烂，如漆科珠，壮士接之，不能驻其指。及就，则似无穰骨也。炙之，则其节若倪倪如婴儿之臂耳。既而，承热用纸囊贮之，精华之气无所散越，候寒末之。[原注：末之上者，其屑如细米；末之下者，其屑如菱角。]</p>
+<p>　　其火，用炭，次用劲薪。[原注：谓桑、槐、桐、枥之类也。]其炭曾经燔炙为膻腻所及，及膏木、败器，不用之。[原注：膏木，谓柏、松、桧也。败器，谓朽废器也。]古人有劳薪之味，信哉！</p>
+<p>　　其水，用山水上，江水中，井水下。[原注：《荈赋》所谓“水则岷方之注，挹彼清流。”]其山水拣乳泉、石池漫流者上；其瀑涌湍漱，勿食之。久食，令人有颈疾。又水流于山谷者，澄浸不泄，自火天至霜郊以前，或潜龙蓄毒于其间，饮者可决之，以流其恶，使新泉涓涓然，酌之。其江水，取去人远者。井，取汲多者。</p>
+<p>　　其沸，如鱼目，微有声，为一沸；缘边如涌泉连珠，为二沸；腾波鼓浪，为三沸，已上，水老，不可食也。初沸，则水合量，调之以盐味，谓弃其啜余，[原注：啜，尝也，市税反，又市悦反。]无乃[卤舀][卤监]而钟其一味乎，[原注：[卤舀]，古暂反。[卤监]，吐滥反。无味也。]第二沸，出水一瓢，以竹环激汤心，则量末当中心而下。有顷，势若奔涛溅沫，以所出水止之，而育其华也。</p>
+<p>　　凡酌至诸碗，令沫饽均。[原注：字书并《本草》：“沫、饽,均茗沫也。”饽蒲笏反。]沫饽，汤之华也。华之薄者曰沫，厚者曰饽，轻细者曰花，花，如枣花漂漂然于环池之上；又如回潭曲渚青萍之始生；又如晴天爽朗，有浮云鳞然。其沫者，若绿钱浮于水湄；又如菊英堕于樽俎之中。饽者，以滓煮之，及沸，则重华累沫，皤皤然若积雪耳。《荈赋》所谓“焕如积雪，烨若春[莆方攵]，有之。</p>
+<p>　　第一煮沸水，弃其上有水膜如黑云母，饮之则其味不正。其第一者为隽永，[原注：徐县、全县二反。至美者曰隽永。隽，味也。永，长也。史长曰隽永，《汉书》蒯通著《隽永》二十篇也。]或留熟盂以贮之，以备育华救沸之用，诸第一与第二、第三碗次之，第四、第五碗外，非渴甚莫之饮。凡煮水一升，酌分五碗，[原注：碗数少至三，多至五；若人多至十，加两炉。]乘热连饮之。以重浊凝其下，精英浮其上。如冷，则精英随气而竭，饮啜不消亦然矣。</p>
+<p>　　茶性俭，不宜广，广则其味黯澹。且如一满碗，啜半而味寡，况其广乎！其色缃也，其馨[上必下土右欠] 也，[原注：香至美曰[上必下土右欠]。[上必下土右欠] ，音备。]其味甘，槚 也；不甘而苦，荈 也；啜苦咽甘，茶也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13782.aspx">上一章</a>
+<a href="/guwen/book_150.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13784.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

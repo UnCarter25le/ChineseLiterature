@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·针灸下·瘿瘤第六_古诗文网
+</title>
+<meta content="瘿瘤病　　天府 会 气舍 主瘿瘤气咽肿。（《甲乙》云∶天府作天窗。） 脑户 通天 消泺 天突主颈有大气。 通天 主瘿灸五十壮。 胸堂 羊尿灸一百壮。痔病　　飞扬 主痔篡伤痛。 绝骨" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12863.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>针灸下·瘿瘤第六</b></span>
+<a href="javascript:PlayBookv(12863)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12863" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12863" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p><strong>　　瘿瘤病<br/></strong>　　天府 会 气舍 主瘿瘤气咽肿。（《甲乙》云∶天府作天窗。） 脑户 通天 消泺 天突主颈有大气。 通天 主瘿灸五十壮。 胸堂 羊尿灸一百壮。</p>
+<p><strong>　　痔病<br/></strong>　　飞扬 主痔篡伤痛。 绝骨 主 马刀腋肿。 天突 章门 天池 支沟 主漏。（又云∶支沟，章门主马刀肿 。） 商丘 复溜 主痔血泄后重。（又云∶商丘主痔骨蚀喜魇梦。）</p>
+<p>　　天窗 天突 主漏颈痛。 劳宫 主热痔。 承筋 承扶 委中 阳谷 主痔痛腋下肿。 会阴主痔与阴相通者死。 侠溪 阳辅太冲 主腋下肿马刀 。 窍阴 主痈疽头痛如锥刺，不可以动，动则烦心。 大陵 支沟 阳谷 后溪 主痂疥。</p>
+<p>　<strong>　疝病<br/></strong>　　曲泉 主 疝阴跳痛引脐中，不尿阴痿。（又云∶痛引茎中。） 关元 主 疝。（又云主暴疝痛。） 中都 主 疝崩中。中脘 主冲疝冒死不知人。 合阳 中 主 疝崩中，腹上下痛及肠 ，阴暴败痛。 照海 主四肢淫泺，身闷阴暴起疝。 太溪 主胞中有大疝瘕积聚，与阴相引痛。 商丘 主阴股内痛气痈，狐疝走上下引小腹痛，不可以俯仰。 肩井，傍肩解与臂相接处 主偏 。 巨阙 主狐疝。 四满主脐下疝积。（《甲乙》云∶主胞中有血。） 脐中 石门 天枢 气海 主小腹疝气，游行五脏，绕脐痛，冲胸不得息。（《甲乙》云∶脐疝绕脐痛。冲胸不得息，灸脐中、石门、天枢主之。） 大敦主卒暴疝痛，阴跳上入腹，寒疝阴挺出偏大肿，脐腹中悒悒不乐，小便难而痛。灸刺之立已。左取右，右取左。</p>
+<p>　　（《甲乙》云∶照海主之。） 冲门 太阴 主疝瘕阴疝。 天枢 主气疝呕。 大巨 主疝偏枯。 交信 主气癃 疝阴急，股枢膊内廉痛。 中封 主 疝癃暴痛，痿厥身体不仁。</p>
+<p>　　气冲 主 阴肿痛，阳痿茎中痛，两丸骞痛不可仰卧。 少府 主阴痛，实时挺长寒热，阴暴痛遗尿，偏虚则暴痒气逆，卒疝小便不利。 大赫 然谷 主精溢，阴上缩。 中极 主失精。 阴市 主寒疝下至腹腠，膝腰痛如清水，小腹诸疝，按之下至膝上伏兔中寒，疝痛腹满痿少气。 五枢 主阴疝两丸上下，小腹痛。 太冲 中封 地机 主 疝精不足。（又云∶太冲主狐疝呕厥。） 鱼际 主阴湿，腹中余疾。 阴交 石门 主两丸骞。（又云∶石门主腹满疝积。） 太冲 主两丸骞缩，腹坚不得卧。 阴谷 主阴痿不用，小腹急引阴内廉痛。 会阴 主阴头寒。行间 主茎中痛。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12862.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12864.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

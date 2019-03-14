@@ -1,0 +1,120 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·选举部·制科_古诗文网
+</title>
+<meta content="宾兴《周礼·地官·大司徒》：以乡三物教万民而宾兴之。一曰六德：智、仁、圣、义、忠、和；二曰六行：孝、友、睦、姻、任、恤；三曰六艺：礼、乐、射、御、书、数。槐花黄" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19203.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>选举部·制科</b></span>
+<a href="javascript:PlayBookv(19203)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19203" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19203" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>宾兴</strong></p>
+<p>　　《周礼·地官·大司徒》：以乡三物教万民而宾兴之。一曰六德：智、仁、圣、义、忠、和；二曰六行：孝、友、睦、姻、任、恤；三曰六艺：礼、乐、射、御、书、数。</p>
+<p>　　<strong>槐花黄</strong></p>
+<p>　　科举年，举子至八月皆赴科场。时人语曰：“槐花黄，举子忙。”</p>
+<p>　　<strong>棘围</strong></p>
+<p>　　《通典》：礼部阅试之日，严设兵卫，（扌弃）棘围之，以防假滥。五代和凝知贡举时，进士喜为喧哗以动主司。主司每放榜，则围之以棘，闭省门，绝人出入。凝撤棘围，开省门，而士皆肃然无哗。所取皆一时英彦，称为得人。</p>
+<p>　　<strong>乡贡进士</strong></p>
+<p>　　唐《选举志》：唐制取士之科，多因隋旧。其大略有二：由学校曰生徒，由州县曰乡贡，皆升于有司而进退之。其科目，有秀才，有明经，有进士。</p>
+<p>　　<strong>观国之光</strong></p>
+<p>　　《易经·观》：卦六四爻，观国之光。利用宾于王象，曰观国之光，尚宾也。</p>
+<p>　　<strong>试士沿革</strong></p>
+<p>　　汉文帝始取士以策，武帝加问经疑，左雄加章奏。武帝始取士以词赋，唐太宗加律判及射。玄宗取士以诗赋，德宗加论及诏诰。宋仁宗始加试经义，时王安石始去声律对偶。哲宗始诏专习经义，始废诗赋。</p>
+<p>　　唐太宗始制乡试会试。宋始定秋乡试，春礼部会试。唐玄宗始移贡举礼部典试。唐初郎官试。宋真宗始诏礼部三年一贡试。</p>
+<p>　　唐中宗始设三场。汉文帝始亲策士。唐武后策问贡士于洛城殿，始殿试。宋太祖始御殿复试。先是武后复试，崔沔后间行之。宋太宗始临轩，宰臣读卷。仁宗始殿试贡士，不黜落。</p>
+<p>　　宋孝宗始进士引射，有陛甲。唐武后始制武举。宋始印给试题。唐高祖始贡院设兵卫，搜衣服，稽察出入棘围。武后始弥封，始糊名。宋真宗始席舍。后唐始禁怀挟。唐玄宗始严乡贯，禁举人冒籍。萧何试学童，诵九千字以上为史。左雄奏年十五经为童子科，始制童科。汉文帝始纳粟。宋仁宋始置太学三舍。汉武帝始制补博士弟子，称秀才。元魏始制生员。唐高祖始制秀才，州县类考。后魏令公卿子弟入学。唐睿宗令举人下第听入学。宋开宝六年，因徐士廉诉知举不公，帝御讲武殿复试，亲试自此始。及第人赐绿袍、靴、笏，赐宴赐诗，自兴国二年吕蒙正榜始。分甲次，赐同进士出身，自兴国八年宋白、王世则榜始。唱名自雍熙二年梁灏榜始。封印试卷，自咸平三年始。置誊录、弥封、复考、编排，皆自祥符八年始。</p>
+<p>　　唐制：礼部试举人，夜以三鼓为限。宋率由白昼，不复继烛。</p>
+<p>　　<strong>关节</strong></p>
+<p>　　士子行贿，请求试官，曰关节。明朝杨士奇主试，有柱联曰：“场列东西，两道文光齐射斗；帘分内外，一毫关节不通风。”</p>
+<p>　　<strong>甲乙科</strong></p>
+<p>　　汉平帝时，岁课甲科四十人为郎中，乙科二十人为太子舍人，丙科四十人补文学掌故。</p>
+<p>　　<strong>通籍</strong></p>
+<p>　　举子登科后，禁门中皆有名籍，可恣意出入也。</p>
+<p>　　<strong>正奏特奏</strong></p>
+<p>　　科甲为正奏，恩贡为特奏。</p>
+<p>　　<strong>金榜题名</strong></p>
+<p>　　崔实暴卒复生，见冥司列榜，将相金榜，其次银榜，州县小官并是铁榜。今人得第，谓之金榜题名。</p>
+<p>　　<strong>银袍鹄立</strong></p>
+<p>　　隋唐间试举人，皆以白衣卿相称之，又曰白袍子。试日，引于院中，谓银袍鹄立。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19202.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19204.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

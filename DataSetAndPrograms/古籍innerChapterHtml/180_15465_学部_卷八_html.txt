@@ -1,0 +1,155 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平御览·学部·卷八_古诗文网
+</title>
+<meta content='○幼学《礼记·学记》曰：幼者听而不问，学不躐等也。又《曲礼》曰：十年曰幼学。《论语·为政》曰：子曰："吾十有五而志於学，三十而立。"《汉书》' name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_15465.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>学部·卷八</b></span>
+<a href="javascript:PlayBookv(15465)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv15465" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay15465" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89">李昉</a></p>
+<div class="contson">
+<p>　　○幼学</p>
+<p>　　《礼记·学记》曰：幼者听而不问，学不躐等也。</p>
+<p>　　又《曲礼》曰：十年曰幼学。</p>
+<p>　　《论语·为政》曰：子曰："吾十有五而志於学，三十而立。"</p>
+<p>　　《汉书》曰：东方朔十三学书，三冬，文史足用；十五学击剑；十六学《诗》《书》，诵二十二万言；十九学《孙吴兵法》，钲鼓之教，亦诵二十万言。时莫之比。</p>
+<p>　　司马彪《续汉书》曰：荀悦十二能读《春秋》，贫无书，每至市间阅篇牍，一见多能诵记。</p>
+<p>　　《后汉书》曰：张堪早孤，让先父馀财数百万与兄子。年十六，受业长安，志美行厉，诸儒号曰"圣童"。</p>
+<p>　　《魏志》曰：锺会母性矜严，勤见规诲。四岁授《孝经》，七岁诵《论语》，八岁诵《诗》，十岁诵《尚书》，十一诵《易》，十二诵《春秋左氏》、《国语》，十三诵《周礼》，十四诵成侯《易记》，十五便入太学，问四方奇文异训。谓会曰："学猥则倦，倦则意怠，故以渐训汝。今可以独学矣。"</p>
+<p>　　西晋赵至字景真。年十四，随人入太学观书。时嵇康於学写石经古文异事讫，去，遂逐车问。康异而语之，为诸生。</p>
+<p>　　《宋书》曰：王俭幼笃学，手不释卷，宾客或相称美。僧虔曰："我不患此儿无名，正恐名太盛耳！"乃手书崔子玉座右铭以贻之。丹阳尹袁粲闻其名，及见之，曰："宰相之门，栝柏豫章虽小，已有栋梁气矣。"</p>
+<p>　　《南史》曰：虞荔字山披，会稽馀姚人也。幼聪敏，有志操。年九岁，随从伯阐侯太常陆倕，问五经十事，荔对无遗失，倕甚异之。太守衡阳王辟为主簿，荔又辞以年小，不就。</p>
+<p>　　《后魏书》曰：祖莹字元珍，范阳人。年八岁能诵《诗》、《书》，十二为中书。博学耽书，以昼继夜。父母恐其成疾，禁之，不能止。常密於灰中藏火，驱逐僮仆，父母寝睡后燃火读书，以衣被蔽窗户，恐漏光明，为人所觉。内外亲属呼为"圣小儿"。</p>
+<p>　　又曰：任城王澄子顺字子和。年九岁，师事乐安陈丰，初书王羲之《小学篇》数千言，昼书夜诵，旬有五日，一皆通利。丰奇之，白澄曰："丰十五从师，迄於白首，耳目所经，未见此比。江夏黄童，不得无双也。"澄笑曰："蓝田生玉，何容不尔？"十六通《杜氏春秋》，恒集门生，讨论同异。</p>
+<p>　　《三国典略》曰：齐王纮字师罗，太安狄那人，北豫州刺史基之子也。年十三，扬州刺史郭元贞抚其背曰："汝读何书？"对曰："诵《孝经》。"元贞曰："《孝经》云何？"曰："在上不骄，为下不乱。"元贞曰："吾作刺史，岂其骄乎？"纮曰："虽不骄，君子防未萌，亦愿留意。"</p>
+<p>　　《梁书》曰：西阳王大钧性厚重，不妄戏弄。年七岁，武帝问读何书，对曰："学《诗》。"因令讽诵，即诵《周南》，音韵清雅。帝重之，因赐王羲之书一卷。</p>
+<p>　　《三国典略》曰：梁孝元字世诚。初，年五岁，梁武问曰："读何书？"对曰："能读《曲礼》。"梁武曰："汝试言之。"孝元即诵上篇，左右莫不惊叹。及长，精神爽俊。</p>
+<p>　　殷兴《通语》曰：殷礼字往嗣，幼而乡里异之。七岁就官学书，在师未尝戏弄。讽诵恒不为声，潜识而已。师杀鸡诣礼父颖曰："贺此子能兴君门。"行在舟车，手不释卷。从曲阿往返，遂不知堤渎广狭，及行旅喧闹，未尝视之。时人语曰"奇才强记"。殷往嗣后与张温使蜀，至荆州虎牙遭水，众人失色，往嗣见之无异。诸葛亮见之，叹曰："东吴菰芦中乃有此奇伟。"</p>
+<p>　　○晚学</p>
+<p>　　《国语》曰：晋文公问元帅於赵衰，(元帅，上卿。)对曰："郗縠可。行年五十矣。(縠，晋大夫。)守学弥惇。夫先王之法，德义之府也。德义，生民之本也。能惇笃者，不忘百姓也。请使郗縠。"公从之。</p>
+<p>　　《说苑》曰：晋平公问师旷曰："吾年七十，欲学，恐晚，如何？"对曰："少年学如日出之光，二十而学如日中之光，老学如炳烛之明。孰与夜行乎？"公曰："善哉！"</p>
+<p>　　《后汉书》曰：献帝诏曰："孔子叹学之不讲，(讲者，习也。)不讲则所识日忘。今耆儒年逾六十，去离本土，营求粮资，不得专业。结童入学，白首空归，长委农野，永绝荣望，朕甚愍焉。其依科罢者，听为太子舍人。"(刘艾《献帝纪》曰：时长安中谣曰："头白皓然，食不充粮，裹衣褰裳，当返故乡。圣王悯念，悉用补郎。舍是布衣，被服玄黄。")</p>
+<p>　　《齐书》曰：张充字延符。少好逸游。父绪尝告归至吴，始入西郭，逢充猎，右臂鹰，左牵狗。遇船至，便放绁脱韝，拜於水次。父绪曰："一身两役，无乃劳乎？"充曰："充闻三十而立，今充二十九矣，请至来年。"绪曰："过而能改，颜氏子焉。"延明年便改，多所该通。</p>
+<p>　　《唐书姚元崇传》曰：玄宗猎於渭滨，上曰："卿颇知猎乎？"元崇曰："臣少居广城大泽，不知书，惟以射猎为事。年四十，方遇张憬藏，谓臣当以文学备位将相，无为自弃。尔来折节读书，今虽官位过忝，至於驰射，老而犹能。"於是乎驱於犬，迟速称旨。上大悦，曰："久不见卿，思有顾问。卿可於宰相行中。"行常后，上纵辔久顾之，曰："卿行何后？"公曰："臣官疏贱，不合参宰相行。"上曰："可兵部尚书平章事。"</p>
+<p>　　桓子《新论》曰：高君孟颇知律令，常自伏写书。署郎哀其老，欲代之，不肯，云："我躬自写，乃当十遍读。"</p>
+<p>　　魏应璩《答韩文宪书》曰：昔公孙弘皓首入学，颜涿聚五十始涉师门，"朝闻道，夕殒"，圣人所贵。足下之年，甫在不惑，加以学艺，何晚之有？若能上迨南荣忘食之乐，下踵宁子黑夜之勤，穷文尽义，无微不综，规富贵之荣，取金紫之爵，是夏侯胜拾芥之谓也。</p>
+<p>　　○好学</p>
+<p>　　《论语》曰：子曰："十室之邑，必有忠信如丘者焉，不如丘之好学也已矣。"</p>
+<p>　　又曰：有颜渊者，好学，不迁怒，不贰过，不幸短命死矣。今也则亡，未闻好学者也。</p>
+<p>　　又曰：孔文子何以谓之文也？子曰："敏而好学，不耻下问，是以谓之文。"</p>
+<p>　　又曰：我非生而知之者，好古，敏以求之也。</p>
+<p>　　又曰：子夏曰："日知其所亡，月无亡其所能，可谓好学也已。"</p>
+<p>　　《礼记·檀弓上》曰：孔子与门人立，拱而尚右，二三子亦皆尚右。孔子曰："二三子之嗜学，我则有姊之丧故也。"二三子皆尚左。</p>
+<p>　　《新序》曰：叶公诣梁问乐王鲋曰："晋大夫赵文子为人若何？"对曰："好学而受规谏，仁也。江出岷山，其源若瓮口，至楚国，其广十里，无它故，其下流多也。好学受规谏，宜乎立哉。"</p>
+<p>　　《汉书》曰：陈平少时家贫，好读书，治黄帝老子之术，兄伯常耕田纵平游学。</p>
+<p>　　《东观汉记》曰：冯豹字仲文。好儒学，以诗传教授。乡里为之语曰："道德斌斌冯仲文。"</p>
+<p>　　又曰：和熹邓后七岁读《论语》，志在书传，母常非之，曰："当习女工，今不是务，宁当学博士耶？"后重违母意，昼则缝纫，夜私买脂烛读经传。宗族外内皆号曰："诸生"。</p>
+<p>　　范晔《后汉书》曰：荀爽幼好学，太尉杜乔见而称之曰："可为人师。"爽遂耽思经书，庆吊不行，征命不应。</p>
+<p>　　张璠《汉记》曰：朱穆字公叔。好学，专精。每一思至，中食失餐，行坠坑坎，亡失冠履。其父常言："穆大专，几不知马之几足。"</p>
+<p>　　《后汉书》曰：张霸就樊儵受严氏《公羊春秋》，遂博览五经。诸生孙綝、刘固等慕之，各市宅其傍以就学耶。</p>
+<p>　　《魏书》曰：吉茂字叔畅。好书，不耻恶衣恶食，而耻一物之不知。建安初，与扶风苏则共入武功南山，精思数岁。</p>
+<p>　　《北齐书》曰：刘逖字子长。少而聪敏，在游宴之中，卷不离手。值有文籍所未见者，则终日讽诵，或通夜不归。其好学如此也。</p>
+<p>　　《文士传》曰：李庸字萧远。笃志好学，善属文，词藻清美，常燃柴草，火以读之。</p>
+<p>　　《南史》曰：梁刘峻字孝标，平原人也。永明中，从桑乾还，自谓所见不博，更求异书。闻有异书，必往祈借。清河崔慰祖谓之"书淫"。</p>
+<p>　　《北史》曰：隋刘臻为仪同。性恍忽，耽经史。经日覃思，至於世事多所遗记。有刘讷者，亦任仪同，俱为太子学士，情好甚密。臻住城南，讷住城东，臻尝欲寻讷，谓从者曰："汝知刘仪同家乎？"从者不知寻讷，谓还家，因答曰："知。"於是引之而去。既叩门，臻尚未悟，谓至讷家，乃据鞍大呼曰："刘仪同可出矣。"其子迎门，臻惊曰："汝亦来耶？"其子答曰："是大人家。"於是顾盼久之，乃悟。叱从者曰："汝大无意，吾欲造刘讷耳。"</p>
+<p>　　杜预《自叙》曰：少而好学，在官则勤於吏治，在家则滋味典籍。</p>
+<p>　　《玄晏春秋》曰：余家素贫窘，昼则务作于劳，夜则甘疲寐。及二时之务，书卷生尘，箧不解缄。惟季冬裁得一旬学，或兼夜寐，或戏独否，或对食忘餐，或不觉日夕，是以游出之事，吉凶略绝。富阳男数以全生之道诲予，方之好色，号予为"书帙"。</p>
+<p>　　○废学</p>
+<p>　　《毛诗·缁衣》曰：《子衿》，刺学校废也。世乱则学校不修焉。青青子衿，悠悠我心，纵我不往，子宁不嗣音。</p>
+<p>　　《尚书》曰：不学墙面，莅事惟烦。</p>
+<p>　　《论语》曰：德之不修，学之不讲，是吾忧也。</p>
+<p>　　《左传》曰：学者植也，不学将落也。</p>
+<p>　　《史记》曰：周道既废，焚烧《诗》、《书》，故明堂石室金匮玉板图籍散乱也。</p>
+<p>　　又曰：始皇，诸生到者拜为郎，七百人。密种瓜於骊山。山温成实，令诸生就视说之，人人不同。乃为伏机，方难未定，机发，从上土填之。其坑在咸阳西南三望里，今为闵儒卿也。</p>
+<p>　　又曰：秦始皇令天下有藏《诗》、《书》百家语者，悉诣守尉杂烧之，敢偶语《诗》、《书》者弃市，以古非今者族。</p>
+<p>　　《汉书》曰：夫子没而微言绝，七十子终而大义乖。</p>
+<p>　　《前汉书》曰：绛侯不好文学，每召诸生，东向坐而责之，不以宾主之礼相接。</p>
+<p>　　《东观汉记》曰：班超字仲升。家贫，为官佣写书。辍书叹曰："丈夫当效傅介子、张骞，立功异域，以取封侯，安能久事笔砚乎？"</p>
+<p>　　《三国典略》曰：齐许惇无学术，与邢劭、魏收等同列。诸人谈说经史，惇隐几而睡，深为胜流所轻。</p>
+<p>　　《梁书》曰：柳津字元举。性强直，乏风华。或劝之聚书，津曰："吾尝令道士上章驱鬼，安用此鬼名耶？"</p>
+<p>　　《隋书》曰：宇文庆沉深有器局，少以聪敏见知。周初，受业东观，颇涉经史。既而谓人曰："书，足记姓名而已，安能久事笔砚，为腐儒之业？"於时文州民夷相聚为乱，庆应募从征。贼保据岩谷，径路悬绝。庆束马而进，袭破之，以功授都督。</p>
+<p>　　《唐书》曰：马燧少尝与诸兄读书，乃辍卷叹曰："天下将有事矣，丈夫当立功征伐，以济四海，安能矻矻为一儒也？"</p>
+<p>　　《西京杂记》曰：傅介子年十四，好学书，尝弃觚而叹曰："大丈夫当立功绝域，何能坐为散儒？"卒斩匈奴使者，还拜中郎将。后复斩楼兰王首，封仪阳侯。</p>
+<p>　　《金楼子》曰：曹子文少善射御，力格猛兽，不避险阻。数从征伐，志意慷慨，魏武常抑之，曰："汝不念读书而好乘马击剑，此一夫之用，何足贵也？"</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_15464.aspx">上一章</a>
+<a href="/guwen/book_180.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_15466.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

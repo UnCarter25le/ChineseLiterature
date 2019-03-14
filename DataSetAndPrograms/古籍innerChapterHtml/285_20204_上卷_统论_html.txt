@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+撼龙经·上卷·统论_古诗文网
+</title>
+<meta content="须猕山是天地骨，中镇天地为巨物。如人背脊与项梁。生出四肢龙突兀。四肢分出四世界，南北西东为四派。西北崆峒数万程，东入三帏为杳冥。惟有南龙入中国，胎宗孕祖来奇特。黄河九曲为大肠，川江" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20204.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上卷·统论</b></span>
+<a href="javascript:PlayBookv(20204)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20204" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20204" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%ad%a0%e6%9d%be">杨筠松</a></p>
+<div class="contson">
+<p>　　须猕山是天地骨，中镇天地为巨物。如人背脊与项梁。生出四肢龙突兀。</p>
+<p>　　四肢分出四世界，南北西东为四派。西北崆峒数万程，东入三帏为杳冥。</p>
+<p>　　惟有南龙入中国，胎宗孕祖来奇特。黄河九曲为大肠，川江屈曲为膀胱。</p>
+<p>　　分枝劈脉纵横去，气血钩连逢水住。大为都邑帝王州，小为郡县居公侯。</p>
+<p>　　其次偏方小镇市，亦有富贵居其地。大率行龙有真星，星峰磊落是音身。</p>
+<p>　　高山须认星峰起，平地龙行别有名。峰以星名取其类，星辰下照山成形。</p>
+<p>　　龙神二字寻山诀，神是精神龙是质。莫道高山方有龙，却来平地失真踪。</p>
+<p>　　平地龙从高脉发，高起星峰低落穴。高山即认星峰起，平地两旁寻水势。</p>
+<p>　　两水夹处是真龙，枝叶周回踪者是。莫令山反枝叶散，山若反兮水散漫。</p>
+<p>　　外山百里作罗城，此是平洋龙局段。星峰顿伏落平去，外山隔水来相顾。</p>
+<p>　　平中仰掌似回巢，隐隐微微立邱阜。便从邱阜觅回巢，或有钩夹如旋螺。</p>
+<p>　　钩夹是砂螺是穴，水注明堂聚气多。四旁绕护入城裹，水绕山环聚一窝。</p>
+<p>　　霜降水枯寻不见，春夏水高龙脊现。此是平洋看龙法，过处如丝或如线。</p>
+<p>　　高水一寸即是山，低土一寸水回环。水缠便是山缠样，缠得真龙如仰掌。</p>
+<p>　　窠心掌里或乳头，端然有穴明天象。山缠水绕在平坡，远有围山近有河。</p>
+<p>　　只爱山来抱身体，不爱水反去从他。水抱应如山来抱，水不抱兮山不到。</p>
+<p>　　莫道高山龙易识，行到平洋失踪迹。藕断丝连正好寻，退却愈多愈有力。</p>
+<p>　　高龙多下低处藏，四没神机便寻得。祖宗父母数程远，误得时师皆不识。</p>
+<p>　　龙到平洋莫问踨，只观水绕是真龙。念得龙经无眼力，万卷藏真也是空。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_285.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20205.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

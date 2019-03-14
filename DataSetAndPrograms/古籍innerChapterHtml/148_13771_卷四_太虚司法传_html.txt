@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+剪灯新话·卷四·太虚司法传_古诗文网
+</title>
+<meta content="冯大异，名奇，吴、楚之狂士也。恃才傲物，不信鬼神，凡依草附木之妖，惊世而骇俗者，必攘臂当之，至则凌慢毁辱而后巳，或火其祠，或沉其像，勇往不顾，以是人亦以胆气许之。至元丁丑，侨居上蔡" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13771.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·太虚司法传</b></span>
+<a href="javascript:PlayBookv(13771)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13771" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13771" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9e%bf%e4%bd%91">瞿佑</a></p>
+<div class="contson">
+<p>　　冯大异，名奇，吴、楚之狂士也。恃才傲物，不信鬼神，凡依草附木之妖，惊世而骇俗者，必攘臂当之，至则凌慢毁辱而后巳，或火其祠，或沉其像，勇往不顾，以是人亦以胆气许之。</p>
+<p>　　至元丁丑，侨居上蔡之东门有故之近村，时兵燹之后，荡无人居，黄沙白骨，一望极目。未至而斜日西沉，愁云四起，既无旅店，何以安泊。道旁有一古柏林，即投身而入，倚树少憩。鸺鹬鸣其前，豺狐嗥其后。顷之，有群鸦接翅而下，或跂一足而啼，或鼓双翼而舞，叫噪怪恶，循环作阵。复有八九死尸，僵卧左右，阴凤飒飒，飞雨骤至，疾雷一声，群尸环起，见大异在树下，踊跃趋附。大异急攀缘上树以避之，群尸环绕其下，或啸或詈，或坐或立，相与大言曰：“今夜必取此人！不然，吾属将有咎”已而云收雨止，月光穿漏，见一夜叉自远而至，头有二角，举体青色，大呼阔步，径至林下，以手撮死尸，摘其头而食之，如啖瓜之状；食讫，饱卧，鼾睡之声动地。大异度不可久留，乘其熟寐，下树迸逸，行不百步，则夜叉已在后矣，舍命而奔，几为所及。遇一废寺，急入投之，东西廊皆倾倒，惟殴上有佛像一躯，其状甚伟。见佛背有一穴，大异计穷，窜身入穴，潜于腹中，自渭得所托，可无虞矣。忽闻佛像鼓腹而笑曰：“彼求之而不得，吾不求而自至，今夜好顿点心，不用食斋也！”即振迅而起，其行甚重，将十步许，为门限所碍。蹴然仆地，土木狼籍，胎骨糜碎矣。大异得出，犹太言曰：“胡鬼弄汝公，反自掇其祸矣！”即出寺而行。遥望野中，灯烛荧煌，诸人揖让而坐。喜甚，弛往赴之。及至，则皆无头者也，有头者则无一臂，或缺一足。大异不顾而走。诸鬼怒曰：“吾辈方此酣畅，此人大胆，敢来冲突！正当执之以为脯胾耳。”即踉蹡哮吼，或搏牛粪而掷，或攫人骨而投，无头者则提头以趁之。前阻一永，大异乱流而渡，诸鬼至永。则不敢越。蓦及半里，大异回顾，犹闻喧哗之声，靡靡不已。须臾，月堕，不辨蹊径，失足坠一坑中，其深无底，乃鬼谷也。寒沙眯目，阴气彻骨，群鬼萃焉。有赤发而双角者，绿毛而两翼者，鸟喙而獠牙者，牛头而兽面者，皆身如蓝靛，口吐火焰，见大异至，相贺曰：“仇人至矣！”即以铁纽系其颈，皮繂拴其腰，驱至鬼王之座下，告曰：“此即在世不信鬼神，凌辱吾徒之狂土也。”鬼玉怒责之曰：“汝具五体而有知识。岂不闻鬼神之德其盛矣乎？孔子圣人也，犹曰敬而远之。大《易》所谓载鬼一车，《小雅》听谓为鬼为蜮。他如《左传》所纪，晋景之梦，伯有之事，皆是物也。汝为河人，犹言其无？吾受汝侮久矣！今幸相遇，吾乌得而甘心焉。”即命众鬼卸其冠裳，加以棰楚，流血淋漓，求死不得。鬼王乃谓之曰：“汝欲调泥成酱乎？汝欲身长三丈乎？”大异念泥岂可为酱，因愿身长三丈。众鬼即捽之于石床之上，如搓粉之状，众手反复而按摩之，不觉渐长，已而扶起，果三丈矣，袅袅如竹竿焉。众笑辱之，呼为长竿怪。王又谓之曰：“汝欲煮右成汁乎？汝欲身矮一尺乎？”大异方苦其长，不能自立。即愿身矮一尺。众鬼又驱至石床上，如按面之状，极力一捺，骨节磔磔有声，乃拥支起，果一尺矣，团圞如巨蟹焉。众又笑辱之，呼为蟛蜞怪。大异蹒跚于地，不胜其苦。旁有一老鬼，抚掌大笑曰：“足下平日不信鬼怪，今日何故作此形骸？”乃请于众曰：“彼虽无礼，毖遭辱亦甚矣，可怜许，请宥之！”即以两手提挈大异而抖擞之，须曳复故。大异求还，诸鬼曰：“汝既到此，不可徒返，吾等各有一物相赠，所贵人间知有我辈耳。”老鬼曰：“然则，以何物赠之？”一鬼曰：“吾赠以拨云之角。”即以两角置于大异之额，岌然相向。一鬼曰：“吾赠以哨风之嘴。”即以一铁嘴加于其唇，尖锐如鸟喙焉。一鬼曰：“吾赠以朱华之发。”即以赤水染其发，皆鬅鬙而上指，其色如火。一鬼曰：“吾赠以碧光之睛。”即以二青珠嵌于其目，湛湛而碧色矣。老鬼遂送之出坑曰：“善自珍重，向者群小溷渎，幸勿记怀也。”大异虽得出，然而顶拨云之角，戴哨风之嘴，被朱华之发，含碧光之睛，俨然成一奇鬼。到家，妻孥不敢认；出市，众共聚观。以为怪物，小儿则惊啼而逃避。遂闭户不食，愤懑而死。临死，谓其家曰：“我为诸鬼所困，今其死矣！可多以纸笔置柩中，我将讼之于天。数日之内，蔡州有一奇事，是我得理之时也，可沥酒而贺我矣。”言讫而逝。过三日，白昼风雨大作，去雾四塞，雷霆霹雳，声振寰宇，屋瓦皆飞，大木尽拔，经宿始霁。则所堕之坑，陷为一巨泽，弥漫数里，其水皆赤。忽闻柩中作语曰：“讼已得理！诸鬼皆夷灭无遗！无府以吾正直，命为太虚殿司法，职任隆重，不复再来人世矣。”其家祭而葬之，肸蠁之间，如有灵焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13770.aspx">上一章</a>
+<a href="/guwen/book_148.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13772.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

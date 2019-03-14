@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+梦溪笔谈·谬误谲诈附_古诗文网
+</title>
+<meta content="东南之美，有会稽之竹箭。竹为竹，箭为箭，盖二物也。今采箭以为矢，而通谓矢为箭者，因其箭名之也。至于用木为笴，而谓之箭，则谬矣。丁晋公之逐，土大夫远嫌，莫敢与之通声问。一日，忽有一书" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2297.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1265" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>谬误谲诈附</b></span>
+<a href="javascript:PlayBookv(2297)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2297" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1265)" id="leftbtn1265" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2297" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b2%88%e6%8b%ac">沈括</a></p>
+<div class="contson">
+<p>　　东南之美，有会稽之竹箭。竹为竹，箭为箭，盖二物也。今采箭以为矢，而通谓矢为箭者，因其箭名之也。至于用木为笴，而谓之箭，则谬矣。</p>
+<p>　　丁晋公之逐，土大夫远嫌，莫敢与之通声问。一日，忽有一书与执政。执政得之，不敢发，立具上闻。洎发之，乃表也，深自叙致，词颇哀切。其间两句曰：“虽迁陵之罪大，念立主之功多。”遂有北还之命。谓多智变，以流人无因达章秦，遂托为执政书。度以上闻，因蒙宽宥。</p>
+<p>　　尝有人自负才名，后为进士状首，扬历贵近。曾谪官知海州，有笔工善画水，召使画便厅掩障，自为之记，自书丁壁间。后人以其时名，至今严护之。其间叙画水之因曰：“设于听事，以代反坫。”人莫不怪之。余窃意其心，以谓“邦君屏塞门，管氏亦屏塞门；邦君为两君之好，有反坫，管氏亦有反坫。”其文相属，故缪以屏为反坫耳。　　段成式《酉阳杂俎》记事多诞。其间叙草木异物，尤多谬妄。率记异国所出，欲无根柢。如云“一木五香：根旃檀，节沉香，花鸡舌，叶藿，胶薰陆。”此尤谬。旃檀与沉香，两木元异。鸡舌即今丁香耳，今药品中所用者亦非。藿香自是草叶，南方至多。薰陆，小木而大叶，海南亦有薰陆，乃其胶也，今谓之乳头香。五物迥殊，元非同类。</p>
+<p>　　丁晋公从车驾巡幸，礼成，有诏赐辅臣玉带。时辅臣八人，行在祗侯库止有七带。尚衣有带，谓之比玉，价直数百万，上欲以赐辅臣，以足其数。晋公心欲之，而位在七人之下，度必不及已。乃谕有司，不须发尚衣带，自有小私带，且可服之以谢，候还京别赐可也。有司具以此闻。既各受赐，而晋公一带仅如指阔。上顾谓近侍曰：“丁谓带与同列大殊，速求一带易之。”有司奏“唯有尚衣御带”，遂以赐之。其带熙宁中復归内府。</p>
+<p>　　黄宗旦晚年病目。每奏事，先具奏目，成诵于口。至上前，展奏目诵之，其实不见也。同列害之。密以他书易其奏目，宗旦不知也。至上前，所诵与奏目不同，归乃觉之。遂乞致仕。　　京师卖卜者，唯利举场时举人占得失。取之各有术：有求目下之利者，凡有人问，皆日“必得。”士人乐得所欲，竟往问之。有邀以后之利者，凡有人问，悉日“不得”。下第者常过十分之七，皆以谓术精而言直，后举倍获。有因此著名。终身飨利者。</p>
+<p>　　包孝肃尹京，号为明察。有编民犯法，当杖脊。吏受赇，与之约曰：“今见尹，必付我责状。汝第呼号自辩，我与汝分此罪。汝决杖，我亦决杖。”既而包引囚问毕，果付吏责状。囚如吏言，分辩不已。吏大声诃之曰：“但受脊杖出去，何用多言！”包谓其市权，捽吏于庭，杖之十七。特宽囚罪，止从杖坐，以抑吏势。不知乃为所卖，卒如素约。小人为奸，固难防也。孝肃天性峭严，未尝有笑容，人谓“包希仁笑比黄河清”。</p>
+<p>　　李溥为江、淮发运使，每歳奏计，则以大船载东南美货，结纳当途，莫知纪极。章献太后垂帘时，溥因奏事，盛称浙茶之美，云：“自来进御，唯建州饼茶，而浙茶未尝修贡。本司以羡余钱买到数千斤，乞进入内。”自国门挽船而入，称进奉茶纲，有司不敢问。所贡余者，悉入私室。溥晚年以贿败，窜谪海州。然自此遂为发运司歳例，每发运使入奏，舳舻蔽川，自泗州七日至京。余出使淮南时，见有重载入汴者，求得其籍，言两浙笺纸三暖船，他物称是。</p>
+<p>　　崔融为《瓦松赋》云：“谓之木也，访山客而未详；谓之草也，验农皇而罕记。”段成式难之曰：“崔公博学，无不该悉，岂不知瓦松已有著说？”引梁简文诗：“依檐映昔耶。”成式以昔耶为瓦松，殊不知昔耶乃是垣衣，瓦松自名昨叶，保成式亦自不识？</p>
+<p>　　江南陈彭年，博学书史，于礼文尤所详练。归朝列于侍从，朝廷郊庙礼仪，多委彭年裁定，援引故事，颇为详洽。尝摄太常卿，导驾，误行黄道上。有司止之，彭年正色回顾曰：“自有典故。”礼曹素畏其该洽，不復敢诘问。　　海物有车渠，蛤属也，大者如箕，背有渠垄，如蚶壳，故以为器，致如白玉。生南海。《尚书大传》曰：“文王囚于羑里，散宜生得大贝，如车渠以献纣。”郑康成乃解之曰：“渠，车罔也。”盖康成不识车渠，谬解之耳。</p>
+<p>　　李献臣好为雅言。曾知郑州，时孙次公为陕漕罢赴阙，先遣一使臣入京。所遣乃献臣故吏，到郑庭参，献臣甚喜，欲令左右延饭，乃问之曰：“餐来未？”使臣误意“餐”者谓次公也，遽对曰：“离长安日，都运待制已治装。”献臣曰：“不问孙待制，官人餐来未？”其人惭沮而言曰：“不敢仰昧，为三司军将日，曾吃却十三。”盖鄙语谓遭杖为餐。献臣掩口曰：“官人误也。问曾与未曾餐饭，欲奉留一食耳”。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2296.aspx">上一章</a>
+<a href="/guwen/book_14.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2298.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1265" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

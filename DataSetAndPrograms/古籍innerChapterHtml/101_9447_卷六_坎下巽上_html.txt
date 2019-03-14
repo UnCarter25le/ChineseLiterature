@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷六·坎下巽上_古诗文网
+</title>
+<meta content="渙，亨。王假有廟，利渉大川，利貞。彖曰：渙亨，剛來而不窮。柔得位乎外，而上同。王假有廟，王乃在中也。利渉大川，乗木有功也。剛下濟而行不窮，柔得位於外，而輔剛，剛志行而遂通，上下相資" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9447.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·坎下巽上</b></span>
+<a href="javascript:PlayBookv(9447)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9447" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9447" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　渙，亨。王假有廟，利渉大川，利貞。彖曰：渙亨，剛來而不窮。柔得位乎外，而上同。王假有廟，王乃在中也。利渉大川，乗木有功也。</p>
+<p>　　剛下濟而行不窮，柔得位於外，而輔剛，剛志行而遂通，上下相資，而不相待，雖行散動人自為治，渙也。五之為主，不以形約，不以武禁，通其志而天下自治，豈人臣之為乎。乃王之命也。當以無為可以至於有廟致亨矣。木之乗則無險矣。不勞而致重於不通，上乘下之能也。施逺而濟其散，治乎中正，而利貞者也。</p>
+<p>　　象曰：風行水上，渙。先王以享于帝立廟。</p>
+<p>　　風行水上，無擁限也。上以發令，不疾而速，逺而承治者也。當其無事也。先王享于上帝，配之祖考，用禮樂之道，致享而已。</p>
+<p>　　初六，用拯馬壯吉。象曰：初六之吉，順也。</p>
+<p>　　渙之初，可以散動也。二能濟而巳附之，故顯而行之無畏忌也。壯馬馳騁而得其吉。</p>
+<p>　　九二，渙奔其机，悔亡。象曰：渙奔其机，得願也。</p>
+<p>　　剛能治也，來而不窮，據初相與得願馳騁，何往不至。兼固於三，貪其多，有失渙之道，未之悔也。</p>
+<p>　　六三，渙其躬，无悔。象曰：渙其躬，志在外也。</p>
+<p>　　渙者散，而隨適可也。雖乗於剛，非其位也。自應於上，可以往而遂其志矣。散志適時，何悔之有。</p>
+<p>　　六四，渙其羣，元吉。渙有丘，匪夷所思。象曰：渙其羣，元吉。光大也。</p>
+<p>　　以柔順而上乗至尊，行大人之令者也。羣者，衆之務公之事也。渙衆之公，大吉而光也。若以私也，則丘墟不移，咎歸於巳，巳亦思之不夷矣。可不慎乎。</p>
+<p>　　九五，渙汗其大號，渙王居，无咎。象曰：王居无咎，正位也。</p>
+<p>　　渙之尊而大號其令，物致其適，散其汗發其濡也。渙王居，大散也。憂在節王者制天下之務，故正其位，行其道，乃無咎也。</p>
+<p>　　上九，渙其血，去逖，出無咎。象曰：渙其血，逺害也。</p>
+<p>　　應獨者多至於争，此易之常情也。上獨有應而逺於傷害者，當其渙，得行其志，從其道也。故血去害逺而無咎也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9446.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9448.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

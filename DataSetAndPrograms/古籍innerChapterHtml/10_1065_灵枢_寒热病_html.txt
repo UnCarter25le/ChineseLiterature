@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·寒热病_古诗文网
+</title>
+<meta content="皮寒热者，不可附席，毛发焦，鼻槁腊，不得汗，取之三阳之络，以补手太阴。肌寒热者，肌痛，毛发焦而唇槁腊，不得汗取三阳于下，以去其血者，补足太阴以出其汗。骨寒热者病无所安，汗注不休。齿" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1065.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left889" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·寒热病</b></span>
+<a href="javascript:PlayBookv(1065)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1065" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(889)" id="leftbtn889" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1065" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　皮寒热者，不可附席，毛发焦，鼻槁腊，不得汗，取之三阳之络，以补手太阴。肌寒热者，肌痛，毛发焦而唇槁腊，不得汗取三阳于下，以去其血者，补足太阴以出其汗。</p>
+<p>　　骨寒热者病无所安，汗注不休。齿未槁，取其少阴于阴股之络；齿已槁，死不治。骨厥亦然。骨痹，举节不用而痛，汗注烦心，取三阴之经补之。</p>
+<p>　　身有所伤，血出多及中风寒，苦有所堕坠，四支懈惰不收，名曰体惰，取其小腹脐下三结交。三结交者，阳明、太阴也，脐下三寸关元也。厥痹者，厥气上及腹，取阴阳之络，视主病也，泻阳补阴经也。</p>
+<p>　　颈侧之动脉人迎。人迎，足阳明也，在婴筋之前。婴筋之后，手阳明也，名曰扶突。次脉，足少阳脉也，名曰天牖，次脉，足太阳也，名曰天柱。腋下动脉臂太阴也，名曰天府。</p>
+<p>　　阳迎头痛，胸满不得息，取之人迎。暴喑气□，取扶突与舌本出血。暴聋气蒙，耳目不明，取天牖。暴挛痫眩，足不任身，取天柱。暴瘅内逆，肝肺相搏，血溢鼻口，取天府。此为天牖五部。</p>
+<p>　　臂阳明有入□齿者名曰大迎，下齿龋取之臂，恶寒补之，不恶寒泻之。足太阳有入頄□齿者，名曰角孙，上齿龋取之，在鼻与頄前，方病之时其脉盛，盛则泻之虚则补之。一曰取之出鼻外。</p>
+<p>　　足阳明有挟鼻入于面者，名曰悬颅，属口，对入系目本，视有过者取之，损有余，益不足，反者益其。足太阳有通项入于脑者，正属目本，名曰眼系，头目苦痛取之，在项中两筋间，入脑乃别。阴跷阳跷，阴阳相交，阳入阴，阴出阳，交于目锐眦。阳气盛则瞋目，阴气盛则瞑目。</p>
+<p>　　热厥取足太阴、少阳，皆留之；寒厥取足阳明、少阴于足，皆留之。舌纵涎下，烦悗，取足少阴。振寒洒洒鼓颔，不得汗出，腹胀烦悗，取手太阴。刺虚者，刺其去也；刺实者，刺其来也。</p>
+<p>　　春取络脉，夏取分腠，秋取气口，冬取经输，凡此四时，各以时为齐。络脉治皮肤，分腠治肌肉，气口治筋脉，经输治骨髓。五藏身有五部：伏兔一；腓二，腓者，□也；背三；五藏之腧四；项五。此五部有痈疽者死。</p>
+<p>　　病始手臂者，先取手阳明、太阴而汗出；病始头首者，先取项太阳而汗出；病始足胫者，先取足阳明而汗出；臂太阴可汗出，足阳明可汗出。故取阴而汗出甚者，止之于阳；取阳而汗出甚者，止之于阴。凡刺之害，中而不去则精泄，不中而去则致气；精泄则病甚而恇，致气则生为痈疽也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1064.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1066.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right889" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

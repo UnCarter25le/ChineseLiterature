@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷五·震下震上_古诗文网
+</title>
+<meta content="震，亨，震來虩虩，笑言啞啞，震驚百里，不喪匕鬯。彖曰：震，亨。震來虩虩，恐致福也。笑言啞啞，後有則也。震驚百里，驚逺而懼邇也。出可以守宗廟社稷，以為祭主也。震，亨。因其震而自震也。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9439.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·震下震上</b></span>
+<a href="javascript:PlayBookv(9439)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9439" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9439" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　震，亨，震來虩虩，笑言啞啞，震驚百里，不喪匕鬯。彖曰：震，亨。震來虩虩，恐致福也。笑言啞啞，後有則也。震驚百里，驚逺而懼邇也。出可以守宗廟社稷，以為祭主也。</p>
+<p>　　震，亨。因其震而自震也。微而震之，保其終也。雷者天之震也。君子變其容，號令者，上之震也，保其終也。雷來類震者，外一動也。君子省諸内，見外猶驚之，況於自動乎。動者吉，凶悔，吝之所生也。事之來驚，而虩虩然，後獲其笑語也，福之生後之則也。震始生之，陽長子者也。長者能震，是震其初也。有其長子，則能驚其逺而懼邇也。君子可以守宗廟祭祀，則匕鬯不缺而保其社稷也。皆初震而有其後者也。</p>
+<p>　　象曰：洊雷震，君子以恐懼，修省。</p>
+<p>　　重雷震而不已也。君子修已而履省之，恐懼之至，患无由及也。</p>
+<p>　　初九，震來虩虩，後笑言啞啞。吉。象曰：震來虩虩，恐致福也。笑言啞啞，後有則也。</p>
+<p>　　剛能制斷，辨物也。動之於初，震其始恐懼其初，後有則，得震之義也。</p>
+<p>　　六二，震來厲，億喪貝，躋于九陵，勿逐，七日得。象曰：震來厲，乘剛也。</p>
+<p>　　剛初而震之，保其吉也。二而已震，失其義也。乘剛震位，危喪資也。則度其喪而上升矣，兩震不相應也。何所來乎，雖懼而不失中，可以自省，終固其所，勿逐之矣。七日而得其所喪也。七日者，極六爻而反下也。剛斯易矣。</p>
+<p>　　六三，震蘇蘇，震行无眚。象曰：震蘇蘇，位不當也。</p>
+<p>　　弱而无當，蘇蘇也。居不安矣。行乃无眚也。</p>
+<p>　　九四，震遂泥。象曰：震遂泥，未光也。</p>
+<p>　　光可震也。而屈於柔，安於衆陰之中，已泥者也。失其震首，省不能致後之福，雖得所奉，豈足光哉。</p>
+<p>　　六五，震往來厲，億无?。有事。象曰：震往來厲，危行也。</p>
+<p>　　其事在中，大无喪也。懼而往也。尊行何安，其反來也。剛以為疾，故皆危也。則以度而居矣，位得大中，事之主也。剛從而依，而不敢遂逼矣，懐懼而已，无所喪也。</p>
+<p>　　上六，震索索，視矍矍，征凶。震不于其躬，于其鄰，无咎。婚媾有言。象曰：震索索，中未得也。雖凶无咎，畏鄰戒也。</p>
+<p>　　索索而驚，矍矍而視，重震之極而中心不自得也。君子安其身而後動也。極懼也，何所容哉。内外震懼，身之危，征之凶矣。震不以躬，懼鄰而驚，則无咎也。兩震者，動而自省，則行之有終，陽之和，象之純故也。自震而戒，則可兩震求合，則乖也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9438.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9440.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

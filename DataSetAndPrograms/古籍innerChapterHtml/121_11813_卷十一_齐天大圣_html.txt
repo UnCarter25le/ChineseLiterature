@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十一·齐天大圣_古诗文网
+</title>
+<meta content="许盛，兖人。从兄成贾于闽，货未居积。客言大圣灵著，将祷诸祠。盛未知大圣何神，与兄俱往。至则殿阁连蔓，穷极弘丽。入殿瞻仰，神猴首人身，盖齐天大圣孙悟空云。诸客肃然起敬，无敢有惰容。盛" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11813.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十一·齐天大圣</b></span>
+<a href="javascript:PlayBookv(11813)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11813" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11813" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　许盛，兖人。从兄成贾于闽，货未居积。客言大圣灵著，将祷诸祠。盛未知大圣何神，与兄俱往。至则殿阁连蔓，穷极弘丽。入殿瞻仰，神猴首人身，盖齐天大圣孙悟空云。诸客肃然起敬，无敢有惰容。盛素刚直，窃笑世俗之陋。众焚奠叩祝，盛潜去之。既归，兄责其慢。盛曰：“孙悟空乃丘翁之寓言，何遂诚信如此？如其有神，刀槊雷霆，余自受之！”逆旅主人闻呼大圣名，皆摇手失色，若恐大圣闻。盛见其状，益哗辨之，听者皆掩耳而走。</p>
+<p>　　至夜盛果病，头痛大作。或劝诣祠谢，盛不听。未几头小愈，股又痛，竟夜生巨疽，连足尽肿，寝食俱废。兄代祷迄无验；或言：神谴须自祝，盛卒不信。月余疮渐敛，而又一疽生，其痛倍苦。医来，以刀割腐肉，血溢盈碗；恐人神其词，故忍而不呻。又月余始就平复。而兄又大病。盛曰：“何如矣！敬神者亦复如是，足征余之疾非由悟空也。”兄闻其言，益恚，谓神迁怒，责弟不为代祷。盛曰：“兄弟犹手足。前日支体糜烂而不之祷；今岂以手足之病，而易吾守乎？”但为延医锉药，而不从其祷。药下，兄暴毙。</p>
+<p>　　盛惨痛结于心腹，买棺殓兄已，投祠指神而数之曰：“兄病，谓汝迁怒，使我不能自白。倘尔有神，当今死者复生。余即北面称弟子，不敢有异词；不然，当以汝处三清之法，还处汝身，亦以破吾兄地下之惑。”至夜梦一人招之去，入大圣祠，仰见大圣有怒色，责之曰：“因汝无状，以菩萨刀穿汝胫股；犹不自悔，啧有烦言。本宜送拔舌狱，念汝一念刚鲠，姑置宥赦。汝兄病，乃汝以庸医夭其寿数，与人何尤？今不少施法力，益令狂妄者引为口实。”乃命青衣使请命于阎罗。青衣曰：“三日后鬼籍已报天庭，恐难为力。”神取方版，命笔不知何词，使青衣执之而去。良久乃返。成与俱来，并跪堂上。神问：“何迟？”青衣曰：“阎魔不敢擅专，又持大圣旨上咨斗宿，是以来迟。”盛趋上拜谢神恩。神曰：“可速与兄俱去。若能向善，当为汝福。”兄弟悲喜，相将俱归。醒而异之。急起，启材视之，兄果已苏，扶出，极感大圣力。盛由此诚服信奉，更倍于流俗。而兄弟资本，病中已耗其半；兄又未健，相对长愁。</p>
+<p>　　一日偶游郊郭，忽一褐衣人相之曰：“子何忧也？”盛方苦无所诉，因而备述其遭。褐衣人曰：“有一佳境，暂往瞻瞩，亦足破闷。”问：“何所？”但云：“不远。”从之。出郭半里许，褐衣人曰：“予有小术，顷刻可到。”因命以两手抱腰，略一点头，遂觉云生足下，腾踔而上，不知几百由旬。盛大惧，闭目不敢少启。顷之曰：“至矣。”忽见琉璃世界，光明异色，讶问：“何处？”曰：“天宫也。”信步而行，上上益高。遥见一臾，喜曰：“适遇此老，子之福也！”举手相揖。臾邀过诣其所，烹茗献客；止两盏，殊不及盛。褐衣人曰：“此吾弟子，千里行贾，敬造仙署，求少赠馈。”臾命僮出白石一柈，状类雀卵，莹澈如冰，使盛自取之。盛念携归可作酒枚，遂取其六。褐衣人以为过廉，代取六枚付盛并裹之。嘱纳腰橐，拱手曰：“足矣。”辞臾出，仍令附体而下，俄顷及地。盛稽首请示仙号，笑曰：“适即所谓斤斗云也。”盛恍然悟为大圣，又求祐护。曰：“适所会财星，赐利十二分，何须多求。”盛又拜之，起视已渺。</p>
+<p>　　既归，喜而告兄。解取共视，则融入腰橐矣。后辇货而归，其利倍蓰。自此屡至闽必祷大圣。他人之祷时不甚验，盛所求无不应者。</p>
+<p>　　异史氏曰：“昔士人过寺，画琵琶于壁而去；比返，则其灵大著，香火相属焉。天下事固不必实有其人，人灵之则既灵焉矣。何以故？人心所聚，而物或托焉耳。若盛之方鲠，固宜得神明之祐，岂真耳内绣针，毫毛能变，足下觔斗，碧落可升哉！卒为邪惑，亦其见之不真也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11812.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11814.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

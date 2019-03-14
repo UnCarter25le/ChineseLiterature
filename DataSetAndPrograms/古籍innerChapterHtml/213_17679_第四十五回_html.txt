@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+小五义·第四十五回_古诗文网
+</title>
+<meta content="见大人见刑具魂飞魄散　看油锅看刀山胆战心惊且说智爷、柳青出来时，听见蒋爷被拿。柳爷要回去救去，智爷说：“不用。我教君山拿住，尚且无妨，何况他是人家的恩公？我们两个人嘴一转动，就不怕" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17679.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第四十五回</b></span>
+<a href="javascript:PlayBookv(17679)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17679" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17679" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　<strong>见大人见刑具魂飞魄散　看油锅看刀山胆战心惊</strong></p>
+<p>　　且说智爷、柳青出来时，听见蒋爷被拿。柳爷要回去救去，智爷说：“不用。我教君山拿住，尚且无妨，何况他是人家的恩公？我们两个人嘴一转动，就不怕。咱们回去。”二人回庙，蹿墙下去，开门点灯，换衣服。到五鼓，蒋爷回来。智爷说：“怎样？我说不怕。”蒋爷换上衣服，就把被捉的事说了一遍。柳青说：“咱们歇歇罢。”</p>
+<p>　　次日天明，收拾小车，给了庙中的香资，搭上小车，和尚送出：“阿弥陀佛！再会罢。”奔城门而来。出了城，奔下关，到了杨树林，早见展爷在那里等着。会在一处，展爷打听蒋四爷的事情。蒋爷又学说一回。展爷暗笑，叫上院衙的从人回去，把小车上东西全搬在太平车上。几位爷换迭着坐，坐车归晨起望路上而来。每遇早晚，给彭启一点米汤饮，就不至于死。一路无词。</p>
+<p>　　到了晨起望，正是飞叉太保钟雄在晨起望，就把彭启搭将下来，车上的东西尽都拿将下来，把车夫打发回襄陽，赏了些银子。所有的众人见礼，打听盗彭启的缘故，把一五一十的从头到尾，学说了一遍。沙员外把他迷魂 药饼起下来，问他铜网阵的消息。钟雄说：“且慢。逢强智取，遇弱活擒。遇文王说礼义，遇桀纣动干戈。此人若起了迷魂 药饼儿，问他一个不说，他把死置之于度外，他一个不肯说，那时节可就不好办了。总要先把主意拿好。”蒋爷说：“诚哉，是言也。就让寨主哥哥你给出个主意罢。”钟雄说：“总是四老爷与我智贤弟，你们高见，我如何行得了？”智爷说：“不用太谦了。咱们一人不过二人智，三人一块定好计，谁也不用推辞。”本来智爷与蒋四爷到一处就可以，这又添上了个飞叉太保，这三个人你出一个主意，我说一个道儿，他使一个招儿，这就算铁桶相似。</p>
+<p>　　彭启就由受薰香，本是鸡鸣五鼓返魂，这个魂灵老返不回来，是有迷魂 药饼儿闭住七窍，也不知道有多少日限了。这日忽然气脉通畅，睁开二眸，旁边站着两个青衣人，上面坐着瘦弱枯干的一位老爷，身不满五尺，箭袖袍，丝鸾带，薄底靴子，青铜磨额，其貌不扬。彭启纳闷：“什么所在？这是什么人？”自己回思在屋中打坐，教雷英诓蒋似水的生日，没见回信；晚间又一占算，来了许多人，可不知是谁；后来闻见一阵香气，就渺渺茫茫，这也不知是什么所在。对面那人一笑说：“彭老先生，你认的我不认的？”彭启说：“不认识。”说：“我就是蒋似水。我可不叫似水，我实对你说罢，我叫蒋平，匪号人称翻江 鼠，奉按院大人之谕拿你。我就是原办的差官，头次探道，教你算出来了；二次办你，同着众位老爷们，也教你算出来了。你有托天的本事，可惜先生你用错了。你既打算修道，当找一个山谷幽密的所在，人烟罕到的地方。似你这个能耐，不至于不懂天道循环，国家的气运兴衰，为什么助纣为虐，帮着襄陽王摆铜网阵，打死白护卫？大人要拿摆铜网阵的人，与五爷报仇，我才将你拿在此处。咱两个说句私话，你只要把铜网阵里边的消息说明，我们大家去破了铜网阵，这就算是你的奇功一件。你要愿意为官，我给你求求大人，奏闻万岁，保你为官。凭你这个能耐，称的起国家栋梁之材。如若不愿为官，找仙山，觅古洞，作一个隐士，虽不能成佛作祖，修一个寿与天齐。”彭启听了这套言语，自己暗忖：“自己所作之事，焉有不知之理？”问道：“四老爷，实在我不明，我怎么会到了这里头？我怎么昏昏沉沉的，是什么缘故？”蒋爷说：“我明人不作暗事，我是用薰香把你熏过去了。我劝你是好意，我照实说罢，你今年九十几了？”彭启说：“今年九十二岁了。”心中暗忖：“说出来就是剐罪。任凭怎么夹打，三推六问，我也不肯吐露实言。”问道：“蒋四老爷，我是老而无能的人，方才怎么说铜网阵是我摆的？但不知大人听何人所说？”蒋爷笑道：“我无非是多说；我就管把你办了来，别的事也不应例我管。我无非看着你那点道学，怪可惜的，一时半时那里就能炼到。先一见就明了，可别耽误了自己的正事。”</p>
+<p>　　外边有人嚷道：“大人升了堂咧！带彭启！”蒋爷说：“就到。怎么样？你要一点头，可就不用带你见大人去了。”彭启说：“我一概不知，一概不晓。”说：“来呀！把他锁上见大人去。”官人往前一趋，索练往脖颈一带，头上击了一掌，就觉渺渺茫茫，睁开二目一看，已到大堂。</p>
+<p>　　大人升了虎位，居中落坐，两边官人伺候。蒋平手中拉定铁练，即回道：“禀大人得知，将彭启带到，面见大人叩头，请大人审讯。”大人吩咐叫挑去铁练，问道：“彭启摆铜网阵，害死我五弟，快些招来，免得三推六问。”彭启说：“大人冤枉冤哉！什么叫铜网阵？我是一概不知，一概不晓。”大人说：“那怕你是铜打铁炼，用上刑你也得吐露实言。”彭启说：“实在不知，实在不晓。”大人说：“拉下去，重打四十。”官人过来，往下一拉，褪去中衣，把大板往上一扬。彭启吓的是浑身乱抖。大人问：“快些招将出来，免动刑具。”彭启说：“冤枉冤哉！”说：“打！”大人复又问道：“我看你若大年纪，我劝你不如招了罢。”彭启说：“无招。”大人微微冷笑：“四十板你不至于禁受不住，看夹棍！”官人答应，将三根无情木“咣啷”一声，放在堂口。彭启将中衣提上，爬伏在地，脊背上骑着个人，头颅上用五尺白布拧住，怕头晕死过去。夹棍套在连接骨上，有两个官人背着两根皮绳，两下里一拉，听大人吩咐用几分刑，拉到什么地方。已把刑具套上，教招，仍是不招。蒋爷在旁劝解：“大人暂息雷霆，彭启寿己老耄，倘若刑下毙命，无有清供，难以破阵。不如卑职把他带将下去，苦苦相劝，他倒可以吐露实言。”大人说：“倘若不说，岂不往返无益？”蒋爷说：“他倘若不说，拿卑职是问。”大人说：“你敢承当此事？若要问不出来，由你担当。松刑！”官人将刑具撤下，带上铁练。往下带的时节，头颅击了一掌，睁开二眸，已然拉到屋门口了。</p>
+<p>　　进了屋子，蒋爷说：“彭先生请坐。方才在堂口之上，你可曾听见了？我方才若不劝解大人，你这阵也就早死多时了。我这个人心最软，我老可怜人，老没人可怜我。你只当可怜可怜我，把铜网阵这个事，咱两个袖里来袖里去，我绝不告诉别人。再不行，我给你下一跪磕个头，这还不行么？”彭启道：“要是我摆的，绝不支持到这时候。四老爷一定说是我摆的，什么人说是我摆的，教他质对于你。”蒋爷说：“质对你的人固然是有，若实在挤的我没了路，我可就把质对人带来了。我且问你，方才堂口我在大人跟前说下了大话，问不出你的清供，请大人奏参，你可听见了没有？”彭启说：“我俱都听明白了。”蒋四爷说：“你这是好歹全不说。陽世三间，咱们两个说不清；到陰曹，我把老五找着，教质对你，我们当初一拜之时，说过同生同死，我这活着，就是多馀，为破铜网阵多活几日。你不泄机，铜网阵不能破，我活着无味，咱们阎王殿前办理。”彭启说：“唔呀！我不去。”再瞧蒋爷，已然把带子拴在窗棂，磴上，叫：“彭启！你这里等着！”脖子一套。彭启嚷：“不好！四老爷上了吊了！”官人进来，在彭启头上一掌，再睁眼看，众人围着蒋爷的死尸，说：“活不了哩！”众人走，说：“回大人去，剩两个人看着他。”</p>
+<p>　　到三鼓时，二人全睡了，灯光发暗，听见风声响，满地火球乱滚，进来四个鬼——一个吊客，一个地里鬼，一个地方鬼，一个大鬼，说：“吾乃五路都鬼魂是也。奉阎罗天子钧旨，捉拿彭启的陽魂，阎罗天子台前听审。兄弟们！”小鬼答应：“呜！”“带了他走！”小鬼答应“呜”，在他头上击了一掌。自觉一个冷战。再一睁眼，进了鬼门关，见一个大牌楼，看见森罗殿有刀山，有油锅，吓的他心惊肉跳。不知怎样对词，且听下回分解。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17678.aspx">上一章</a>
+<a href="/guwen/book_213.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17680.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

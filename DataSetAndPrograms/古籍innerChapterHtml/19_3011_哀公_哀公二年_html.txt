@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·哀公·哀公二年_古诗文网
+</title>
+<meta content="【经】二年春王二月，季孙斯、叔孙州仇、仲孙何忌帅师伐邾，取漷东田及沂西田。癸巳，叔孙州仇、仲孙何忌及邾子盟于句绎。夏四月丙子，卫侯元卒。滕子来朝。晋赵鞅帅师纳卫世子蒯聩于戚。秋八月" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3011.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1542" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>哀公·哀公二年</b></span>
+<a href="javascript:PlayBookv(3011)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3011" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1542)" id="leftbtn1542" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3011" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】二年春王二月，季孙斯、叔孙州仇、仲孙何忌帅师伐邾，取漷东田及沂西田。癸巳，叔孙州仇、仲孙何忌及邾子盟于句绎。夏四月丙子，卫侯元卒。滕子来朝。晋赵鞅帅师纳卫世子蒯聩于戚。秋八月甲戌，晋赵鞅帅师及郑罕达帅师战于铁，郑师败绩。冬十月，葬卫灵公。十有一月，蔡迁于州来。蔡杀其大夫公子驷。 </p>
+<p>　　【传】二年春，伐邾，将伐绞。邾人爱其土，故赂以淳阜、沂之田而受盟。 </p>
+<p>　　初，卫侯游于郊，子南仆。公曰：「余无子，将立女。」不对。他日，又谓之。对曰：「郢不足以辱社稷，君其改图。君夫人在堂，三揖在下。君命只辱。」</p>
+<p>　　夏，卫灵公卒。夫人曰：「命公子郢为大子，君命也。」对曰：「郢异于他子。且君没于吾手，若有之，郢必闻之。且亡人之子辄在。」乃立辄。 </p>
+<p>　　六月乙酉，晋赵鞅纳卫大子于戚。宵迷，阳虎曰：「右河而南，必至焉。」使大子絻，八人衰絰，伪自卫逆者。告于门，哭而入，遂居之。 </p>
+<p>　　秋八月，齐人输范氏粟，郑子姚、子般送之。士吉射逆之，赵鞅御之，遇于戚。阳虎曰：「吾车少，以兵车之旆，与罕、驷兵车先陈。罕、驷自后随而从之，彼见吾貌，必有惧心。于是乎会之，必大败之。」从之。卜战，龟焦。乐丁曰：「《诗》曰：『爰始爰谋，爰契我龟。』谋协，以故兆询可也。」简子誓曰：「范氏、中行氏，反易天明，斩艾百姓，欲擅晋国而灭其君。寡君恃郑而保焉。今郑为不道，弃君助臣，二三子顺天明，从君命，经德义，除诟耻，在此行也。克敌者，上大夫受县，下大夫受郡，士田十万，庶人工商遂，人臣隶圉免。志父无罪，君实图之。若其有罪，绞缢以戮，桐棺三寸，不设属辟，素车朴马，无入于兆，下卿之罚也。」甲戌，将战，邮无恤御简子，卫太子为右。登铁上，望见郑师众，大子惧，自投于车下。子良授大子绥而乘之，曰：「妇人也。」简子巡列，曰：「毕万，匹夫也。七战皆获，有马百乘，死于牖下。群子勉之，死不在寇。」繁羽御赵罗，宋勇为右。罗无勇，麇之。吏诘之，御对曰：「痁作而伏。」卫大子祷曰：「会孙蒯聩敢昭告皇祖文王、烈祖康叔、文祖襄公：郑胜乱从，晋午在难，不能治乱，使鞅讨之。蒯聩不敢自佚，备持矛焉。敢告无绝筋，无折骨，无面伤，以集大事，无作三祖羞。大命不敢请，佩玉不敢爱。」</p>
+<p>　　郑人击简子中肩，毙于车中，获其峰旗。大子救之以戈，郑师北，获温大夫赵罗。大子复伐之，郑师大败，获齐粟千车。赵孟喜曰：「可矣。」傅叟曰：「虽克郑，犹有知在，忧未艾也。」 </p>
+<p>　　初，周人与范氏田，公孙尨税焉。赵氏得而献之，吏请杀之。赵孟曰：「为其主也，何罪？」止而与之田。及铁之战，以徒五百人宵攻郑师，取峰旗于子姚之幕下，献曰：「请报主德。」</p>
+<p>　　追郑师。姚、般、公孙林殿而射，前列多死。赵孟曰：「国无小。」既战，简子曰：「吾伏弢呕血，鼓音不衰，今日我上也。」大子曰：「吾救主于车，退敌于下，我，右之上也。」邮良曰：「我两靷将绝，吾能止之，我，御之上也。」驾而乘材，两靷皆绝。 </p>
+<p>　　吴泄庸如蔡纳聘，而稍纳师。师毕入，众知之。蔡侯告大夫，杀公子驷以说，哭而迁墓。冬，蔡迁于州来。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3010.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3012.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1542" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

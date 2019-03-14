@@ -1,0 +1,127 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·玉井奥诀一_古诗文网
+</title>
+<meta content="凡推造化之理，其法以日为主。单提作体，要认为主者之端。为化气为本体，入门便要通变。识得主干有本象有化象，方可消详。如甲即本像是木，化像是土。坐下支神先求其意，月气深浅何者主权。乃日" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16657.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·玉井奥诀一</b></span>
+<a href="javascript:PlayBookv(16657)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16657" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16657" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　凡推造化之理，其法以日为主。</p>
+<p>　　单提作体，要认为主者之端。为化气为本体，入门便要通变。识得主干有本象有化象，方可消详。如甲即本像是木，化像是土。</p>
+<p>　　坐下支神先求其意，月气深浅何者主权。</p>
+<p>　　乃日干坐下，首先看此地支，与月支一位，时支一位，年支一位，刑冲破害，生克比和何如。</p>
+<p>　　主干喜忌何物得来，不可视为泛常。不可顾盼。</p>
+<p>　　月气浅深。何者主权。</p>
+<p>　　月建之下，气候浅深。五行之气，是何干神。</p>
+<p>　　正当此日天时之令。五日一侯之气。一云（德秀有无）</p>
+<p>　　地支至切。党盛为强。</p>
+<p>　　地支乃四位支神，至切者，视天干为尤切也。</p>
+<p>　　要看何者为主干之宅舍，何者为用神之基业。何者力轻，何者力重。宅舍即得地之方，支神即乘贵之所。</p>
+<p>　　一看其力势冲起，是何支神。</p>
+<p>　　二看其力势拱起，是何支神。</p>
+<p>　　三看其力势刑起，是何支神。</p>
+<p>　　四看其力势合起，是何支神。</p>
+<p>　　五看地支统摄。此法是空中立有者也。</p>
+<p>　　论地支，冲拱刑合四件，极切门庭。一法，只拿日干作主取用。中间或吉神有刑冲，凶煞有拱合。其生旺休废，交差不一，难下手脚。不如只详四个地支基址，五气中何物最重。将来品量，却能耗散何神，能生扶何神，能冲合何神，能变化何神。</p>
+<p>　　然后却看日干属何五气，与其最重之气统摄何如。便拿财官等物，用神之气，共前五气引于时座，参较其物。何者轻，何者重，义理调顺为详瑞，反则即为乖戾矣。</p>
+<p>　　如此已立定，然后看其支气，各有所喜所忌之端，不可不详。五气谓如木火土金水五者，须要各各记住题目。若五气中，何者党多为重。如支干内外，明暗木多，则木气党盛矣。其喜忌已论于前五行中。</p>
+<p>　　专执用神。切详喜忌。</p>
+<p>　　专执一位用神位为尊长，为权神，为号令，为本领，为倚托。此非小可，执而推之，未敢纵求其意。</p>
+<p>　　外取用神，或财或官、或刃或煞、或食或贵、或印或禄马等件。各类例取，原无定法。其用神最忌损犯，兼怕分窃，不宜太过与不及。</p>
+<p>　　如太过之物，本不好了，或岁运又来生扶，即是倾覆坏了。如木则折、水则倾、土则崩、火则一发而灭、金则折损。如不及之物，本不好了。或岁运又来克窃，坏尽此物，岂独有祸。</p>
+<p>　　用神喜忌，至元至妙，后篇别详，务要得中和为贵。</p>
+<p>　　气气切穷其理，物物至极转关。</p>
+<p>　　金木水火土五气，一阴一阳，共有十般消息。</p>
+<p>　　一件件要看衰旺、轻重、明晦、广狭，穷则究理尽处。生何神，克何神，刑何神，合何神之类。</p>
+<p>　　被坏之物，得生之物，主系何事。物物推将去，须要有依倚下落。至无可奈何处，便是转关。入何格调，极处一转，即是建功，圆活参透。却要定见下落，断成器不成器何如。</p>
+<p>　　有气者急，有情者切。</p>
+<p>　　有气乃当时也，看八字内外明暗干支。</p>
+<p>　　如六月中气，大暑节，土金旺相，有气之类。此为至急，余则否。</p>
+<p>　　有情乃合气也，如甲见己，丙见辛，丁见壬之类。</p>
+<p>　　中间干支明暗，有合皆取，此为最切也。</p>
+<p>　　一说非特合气有情，吉神生我克我，亦为有情。</p>
+<p>　　虚拱贵气，生我、克我、刑我、合我。亦无异也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16656.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16658.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

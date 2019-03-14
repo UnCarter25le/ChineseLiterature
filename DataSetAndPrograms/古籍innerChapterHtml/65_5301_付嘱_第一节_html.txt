@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+六祖坛经·付嘱·第一节_古诗文网
+</title>
+<meta content="师一日唤门人法海、志诚、法达、神会、智常、智通、志彻、志道、法珍、法如等，曰：“汝等不同馀人，吾灭度后，各为一方师，吾今教汝说法，不失本宗。先须举三科法门，动用三十六对，出没即离两" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5301.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3640" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>付嘱·第一节</b></span>
+<a href="javascript:PlayBookv(5301)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5301" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3640)" id="leftbtn3640" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5301" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　师一日唤门人法海、志诚、法达、神会、智常、智通、志彻、志道、法珍、法如等，曰：“汝等不同馀人，吾灭度后，各为一方师，吾今教汝说法，不失本宗。先须举三科法门，动用三十六对，出没即离两边，说一切法，莫离自性。忽有人问汝法，出语尽双，皆取对法，来去相因，究竟二法尽除，更无去处。”“三科法门者，阴、界、入也。阴是五阴，色受想行识是也。入是十二入，外六尘色声香味触法、内六门眼耳鼻舌身意是也。界是十八界，六尘六门六识是也。自性能含万法，名含藏识。若起思量，即是转识。生六识，出六门，见六尘，如是一十八界，皆从自性起用。自性若邪，起十八邪；自性若正，起十八正。若恶用即众生用，善用即佛用。用由何等？由自性有。”“对法外境，无情五对：天与地对，日与月对，明与暗对，阴与阳对，水与火对，此是五对也。法相语言十二对：语与法对，有与无对，有色与无色对，有相与无相对，有漏与无漏对，色与空对，动与静对，清与浊对，凡与圣对，僧与俗对，老与少对，大与小对，此是十二对也。自性起用十九对：长与短对，邪与正对，痴与慧对，愚与智对，乱与定对，慈与毒对，戒与非对，直与曲对，实与虚对，险与平对，烦恼与菩提对，常与无常对，悲与害对，喜与嗔对，舍与悭对，进与退对，生与灭对，法身与色身对，化身与报身对，此是十九对也。”师言此三十六对法，若解用，即道贯一切经法，出入即离两边。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5300.aspx">上一章</a>
+<a href="/guwen/book_65.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5302.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3640" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

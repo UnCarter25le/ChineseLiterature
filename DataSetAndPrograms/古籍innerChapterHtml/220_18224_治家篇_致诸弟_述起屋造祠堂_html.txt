@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·治家篇·致诸弟·述起屋造祠堂_古诗文网
+</title>
+<meta content="澄侯沅甫季洪三弟左右：王四等来，得知叔父大人病势稍加，得十三日优恤之旨，不知何如？项又接十九日来函，知叔父病已略愈，欣慰欣慰！然温弟灵枢到家之时，我家祖宗有灵，能保得叔父不添病，六" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18224.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>治家篇·致诸弟·述起屋造祠堂</b></span>
+<a href="javascript:PlayBookv(18224)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18224" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18224" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　澄侯沅甫季洪三弟左右：</p>
+<p>　　王四等来，得知叔父大人病势稍加，得十三日优恤之旨，不知何如？项又接十九日来函，知叔父病已略愈，欣慰欣慰！然温弟灵枢到家之时，我家祖宗有灵，能保得叔父不添病，六弟妇不过节裂，犹为不幸中之一幸耳。</p>
+<p>　　此间兵事，凯章在景德镇相持如故，所添调之平江三营，宝勇一营，均已到防，或可隐扎浚川在南康之多城墟，打一胜仗，夺伪印四十三颗，伪旗五百余面，皆帜至建昌，甚为快慰！惟石达开尚在南安一带；悍贼亦多，不知究竟扫荡否？吉中营以后常不离余左右，沅弟尽可放心。</p>
+<p>　　起屋造祠堂，沅弟言外问訾议，沅弟自任之。余则谓外间之訾议不足畏，而乱世之兵变，不可不虑，如江西近岁，凡富贵大屋，无一不焚，可为殷鉴。吾乡僻陋，眼界甚浅，稍有修造，已骇听闻，右太闳丽，则传播招尤，苟为一方首屈一指，则乱世恐难幸免。望弟再斟酌于丰俭之间，妥善行之。</p>
+<p>　　改葬先人之事，将求富求贵之念，消除净尽，但求免水蚁，以妥先灵，史凶煞，以安后嗣而已。若存一丝求富求贵之念，则必为造物鬼神所忌，以吾所见所闻，凡已发之家，未有续灵得大地者。沅弟主持此事，务望将此意拿得稳，把得定，至要至要！</p>
+<p>　　纪泽姻事，以古礼言之，则大祥后可以成婚，以吾乡旧俗言之，则除灵道场后可以成婚。吾困近日贼势尚旺，时事难测，颇有早办之意。纪泽前两禀，请心壶抄奏折，尽可行之。吾每月送修金二两，应抄之奏，不知家中有底稿否？抄一篇，可寄目录来一查，注明月日。</p>
+<p>　　纪泽之字，较之七年二三月间，远不能逮。大约握笔宜高，能握至管顶者为上，握至管顶之下寸许者次之，握至毫以上寸许者，亦尚可习。若握近毫根。则难写好字，亦不久必退，且断不能写好字。吾验之于已身，验之于朋友，皆历历可验。纪泽以后宜握管略高，从低亦须隔毫根寸余，又须用油纸摹帖，较之临帖胜十倍。</p>
+<p>　　沅弟之字，不可抛荒。温弟哀辞墓志，及王考批妣神道碑之类，余作就后均须沅弟认真书写。宾兴堂记首段未惬，待日内改就，亦须沅弟写之。沅弟虽忧危忙乱之中，不可废习字工夫。亲戚中虽有漱六云仙善书，余因家中碑板，不拟请外人书也。（咸丰九年正月十一日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18223.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18225.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

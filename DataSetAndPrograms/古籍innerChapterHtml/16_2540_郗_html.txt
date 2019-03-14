@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·郗_古诗文网
+</title>
+<meta content="历史来源　　郗（Chī，Xī）姓源流纯正，源出有一：　　出自姬姓，是黄帝的后裔，以邑名为氏。黄帝之子玄嚣，其后代有叫苏忿生的，周武王时官至司寇，负责诉讼事宜，有清正之声。苏忿生支庶" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2540.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>郗</b></span>
+<a href="javascript:PlayBookv(2540)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2540" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2540" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　郗（Chī，Xī）姓源流纯正，源出有一：<br/>　　出自姬姓，是黄帝的后裔，以邑名为氏。黄帝之子玄嚣，其后代有叫苏忿生的，周武王时官至司寇，负责诉讼事宜，有清正之声。苏忿生支庶子受封于郗邑（今河南省泌阳县），其后人遂以封邑命姓，称为郗姓。</p>
+<p><strong>家族名人</strong><br/>　　郗 鉴<br/>　　字道徽，古山阳金乡人。晋书载：少孤贫，博览经籍，躬耕陇亩，吟咏不倦，以孺雅著名，不应州命。时逢饥荒，州中之士因平日佩服他的人品德性，于是就给予资助。郗鉴就把这些朋友赠送的东西，分给乡亲孤老，有很多人因得到他这样的接济而活了过来。元帝初，诏为龙骧将军、兖州刺史。明帝初,拜安西将军、兖州刺史，都督扬州江西诸军,镇合肥。随后迁车骑将军,都督徐(州)兖(州)青(州)三州军事、兖州刺史。咸和初，领徐州刺史,时逢祖约、苏峻反叛, 一时威胁社稷存亡，郗鉴率军平定,遂官至太尉，封南昌县公。死后葬于微山湖东岸郗山。<br/>　　郗 超<br/>　　字景兴（336-377），一字嘉宾，高平金乡（今山东省）人，东晋大臣。郗超的祖父是东晋名臣郗鉴，父亲是郗愔，郗超是郗愔的确良长子。自幼 “卓荦不羁，有旷世之度，交游士林，每存胜拔，善谈论，义理精微。”（晋书·郗超传》）郗愔信道教，而郗超则信佛。郗愔好聚敛,积钱数千万，曾开库任郗超所取。郗超生性好施予，一日之内，将钱全部散与亲故。早期在抚军大将军会稽王司马昱拜任抚军掾。后被桓温召为“征西大将军掾”。公元371年，郗超帮助桓温策划，扶持司马昱即晋简文帝，升为中书侍郎，执掌朝廷机要。<br/>　　郗 虑<br/>　　三国时高平人，曾任光禄勋、御史大夫，因受学于郑玄，故学识过人。<br/>　　郗士美<br/>　　唐代节度使。性聪敏，12岁时，能背诵《五经》、《史记》、《汉书》。他父亲的好友萧颖士、颜真卿等人都赞为奇才。20岁任阳翟丞，累官工部、刑部尚书，后升昭义，忠武等军节度使。为官廉洁，尤重然诺。<br/>　　郗德育<br/>　　艺名麻子红。近现代秦腔表演艺术家。<br/>　　此外，郗姓名人还有：晋代车骑将军郗将军郗览、司空郗音、中书侍郎郗绍、郗 、郗夔等，都是当朝的郗名人。唐德宗时的郗纯以及工、邢二部尚书郗士美父子，高风亮节，为时人所称颂……等。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）郗氏是在2000年前由苏氏分支出来的。根据《元和姓纂》的记载，郗姓出姬姓，是高阳氏的后代，苏忿生的支子被封于郗邑，后代因而以此为氏，望族出于高平。而根据《路氏》上说，苏氏的儿子被封于郗，以郗为姓，称为郗氏。周朝时郗邑的位置，就是今河南省的泌阳县。姓郗中国人的最早发祥地，就在沁阳，后来他们却在山东的高平繁衍成为当地的望族，留在河南老家的子孙比较少。望族居于高平郡，就是现在的山东金乡县西北。当今，郗姓在大陆和台湾都没有列入百家姓前一百位。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2539.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2541.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

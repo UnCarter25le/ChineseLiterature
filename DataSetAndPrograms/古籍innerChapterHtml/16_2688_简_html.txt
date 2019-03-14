@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·简_古诗文网
+</title>
+<meta content="历史来源　　1、出自姬姓，是周文王姬昌的后代，以谥号为姓。春秋时，晋国有大夫狐鞫居，他的祖先是唐叔虞（周武王之子，武王为文王之子）的支裔，因曾经居住在犬戎部落，所以姓狐。狐鞫居的族" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2688.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>简</b></span>
+<a href="javascript:PlayBookv(2688)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2688" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2688" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自姬姓，是周文王姬昌的后代，以谥号为姓。春秋时，晋国有大夫狐鞫居，他的祖先是唐叔虞（周武王之子，武王为文王之子）的支裔，因曾经居住在犬戎部落，所以姓狐。狐鞫居的族人狐射姑与太傅阳处父不和，鞫居为他刺杀阳处父，结果被赵盾处死。狐鞫居的封邑在续，死后谥为续简子，世称续简伯，他的子孙后代便以其谥号为姓，称简姓。<br/>　　2、出自耿姓，为三国时蜀国简雍之后所改。简雍本姓耿，幽州人读“耿”与“简”同音，遂变为简姓。<br/>　　3、出自检姓所改。汉代时有句章尉检其明，因避讳而改姓简。</p>
+<p><strong>家族名人<br/></strong>　　简雍：字宪和，三国时蜀国人。他自少年时就与刘备交好，后来刘备围攻成都，他入城劝刘璋归顺，于是被刘备拜为昭德将军。<br/>　　简芳：字德馨，明代上高人。弘治年间进士,历官南京刑部主事、兵部郎中。性情耿直，执法严明而公正，名重一时。<br/>　　简正理：宋代御史。居官廉介，以儒术饬吏治，时誉翕然。<br/>　　简而廉：明代孝子。通五经，举孝行，以明经任临利训导，著有《孝经解》。<br/>　　简文会：南汉尚书右丞。南汉是五代十国时的政权，君主叫刘龑。简文会自幼聪颖，勤奋读书，精通经史，善于作诗。刘龑初开进士科，简文会参考中了第一名，成为中国历史上第一个状元。<br/>　　简大狮：清朝未年台湾抗日民军首领，台湾省台北人。他对日军侵占台湾十分愤慨，并在台北聚众起义，多次给予日军以沉重的打击。后日本政府勾结清朝官吏将他杀害。</p>
+<p><strong>迁徙分布</strong><br/>　　简姓在大陆没有列入百家姓前一百位，在台湾排名三十二位。简氏出自姬姓。春秋时期，鲁国的简叔，他的后代就有以他的名字为姓的。东汉时，句章尉检其明，因避讳而改为简姓。简氏是春秋时代晋国大夫续简伯的后裔，一向以河北的范阳和涿郡为繁衍中心。如果稍加留意，当可发现自己家族的堂名不是“范阳”，就是“涿郡”。春秋时代的晋国，是传自周武王的儿子唐叔虞，跟当时的周天子是同姓之国。简氏的始祖既然出身于晋国的公族，追本究源，他们当然也是周文王的姬姓子孙，黄帝的苗裔了。据《姓纂》指出：“左传晋大夫狐鞠居，食采续邑，因号续简伯，汉有简卿”；《范阳简氏家谱》指出：“晋大夫狐鞠居，食邑于续，谥曰简伯。子孙因以为氏焉。考狐氏之先，出自周武王之子，成王之弟唐叔也”。大夫续简伯之后，晋与周为姬姓，盖后稷之子孙，而黄帝之苗裔也。其后或在范阳，或在涿郡。”不过，简氏也跟大多数著名姓氏一样，并非仅仅只有春秋时代晋国公族的一支。另外，依照《姓范》的考证，在这个家族的众多子孙之中，也有一小部分是过去从检氏改姓而来的。《姓范》是这样说的：“有检氏避讳改为简氏者。”检氏，读音与简氏完全相同，其得姓的途径，据清代学者张澍的说法，是“当以检察得姓”，也就是他们的祖先由于曾经担任过“检察”的官，所以才“以官为氏”姓了检。至于这个姓的改姓为简，则是汉朝时候的事。当时，有一位叫作检明的人，为了避讳而改姓了音同字异的简氏，并且自此世世代代相沿相袭下去，使得简氏家族的声势为之壮大不少。关于2000多年以来简氏的播迁情形，也已经被考证。《简氏祖先考》曰：“在涿郡者，汉时有简卿，其在范阳者，三国时有简雍。晋统一天下后，简氏因离乱南迁，散居南海、靖安、新喻、东管、马平、四川等处。宋时南渡，避乱于福建宁化，后游南剑州，建宁府。乾道二年（1166年）迁上杭。三世祖迁太平里洪源村（先为洪源开基祖）。九世德润，于六至六六年（1280年）入赘南靖张家。是为张窖开基祖；子三、二世贵祯，自南靖移居广东，子孙分播潮阳、番禺等县。”据《简氏姓族考》曰：“三国时，简雍为中郎。时天下大乱，家人从之，有在邵阳，有在远安，有在江西新喻，靖安，蜀之巴县。五季后梁时，契丹寇北方，涿州无日不忧兵，其宗有宦游岭外者，乃留焉不归。若黎涌系一山，则自涿州逾河涉江，而先入粤者，后晋割北方十六州贿契丹，而涿在其中，简姓宗族因而至岭外者渐众，分居粤东诸邑。”从这两项文献，可以知道简氏是在五代之前，就已经逐渐向南播迁的。他们有的直接徙入广东，有的由赣入闽，再分支至广东，后来就在广东繁衍成为一个大的家族。台湾简姓族人，很多是从福建省南靖迁居的。简氏望族居范阳郡（今河北省涿县）。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2687.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2689.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

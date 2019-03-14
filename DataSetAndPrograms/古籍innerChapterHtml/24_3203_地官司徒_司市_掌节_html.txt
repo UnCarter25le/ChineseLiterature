@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+周礼·地官司徒·司市/掌节_古诗文网
+</title>
+<meta content="司市掌市之治教、政刑、量度禁令。以次叙分地而经市，以陈肆辨物而平市，以政令禁物靡而均市，以商贾阜货而行市。以量度成贾而征价，以质剂结信而止讼，以贾民禁伪而除诈，以刑罚禁虣而去盗；以" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3203.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1733" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>地官司徒·司市/掌节</b></span>
+<a href="javascript:PlayBookv(3203)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3203" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1733)" id="leftbtn1733" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3203" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%91%a8%e5%85%ac%e6%97%a6">周公旦</a></p>
+<div class="contson">
+<p>　　司市掌市之治教、政刑、量度禁令。以次叙分地而经市，以陈肆辨物而平市，以政令禁物靡而均市，以商贾阜货而行市。以量度成贾而征价，以质剂结信而止讼，以贾民禁伪而除诈，以刑罚禁虣而去盗；以泉府同货而敛赊。大市，日而市，百族为主；朝市朝时而市，商贾为主；夕市夕时而市；贩夫贩妇为主。凡市入，则胥执鞭度守门，市之群吏，平肆、展成、奠贾，上旌于思次以令市。市师莅焉，而听大治大讼；胥师贾师莅于介次，而听小治小讼。凡万民之期于市者，辟布者、量度者、刑戮者各于其地之叙。凡得货贿六畜者，亦如之，三日而举之。凡治市之货贿六畜珍异，亡者使有，利者使阜，害者使亡，靡者使微。凡通货贿。以玺节出入之，国凶荒札丧，则市无征而作布。凡市伪饰之禁，在民者十有二，在商者十有二，在贾者十有二，在工者十有二。市刑、小刑宪罚，中刑徇罚，大刑扑罚，其附于刑者，归于士。国君过市，则刑人赦；夫人过市，罚一幕；世子过市，罚一帟；命夫过市，罚一盖；命妇过市，罚一帷。凡会同、师役，市司帅贾师而従，治其市政，掌其卖儥之事。</p>
+<p>　　质人掌成市之货贿、人民、牛马、兵器、车辇、珍异。凡卖儥者质剂焉，大市以质，小市以剂。掌稽市之书契，同其度量，壹其淳制，巡而考之。犯禁者，举而罚之。凡治质剂者，国中一旬，郊二旬，野三旬，都三月，邦国期。期内听，期外不听。</p>
+<p>　　廛人掌敛市絘布、緫、质布、罚布、廛布，而入于泉府。凡屠者，敛其皮、角、筋、骨，入于玉府。凡珍异之有滞者，敛而入于膳府。</p>
+<p>　　胥师各掌其次之政令；而平其货贿，宪刑禁焉。察其诈伪、饰行、儥慝者，而诛罚之，听其小治小讼而断之。</p>
+<p>　　贾师各掌其次之货贿之治，辨其物而均平之。展其成而奠其贾，然后令市。凡天患，禁贵儥者，使有恒贾。四时之珍异，亦如之。凡国之卖儥，各帅其属而嗣掌其月。凡师役、会同，亦如之。</p>
+<p>　　司虣掌宪市之禁令。禁其斗嚣者，与其虣乱者，出入相陵犯者，以属游饮食于市者。若不可禁，则搏而戮之。</p>
+<p>　　司稽掌巡市。而察其犯禁者，与其不物者而搏之。掌执市之盗贼以徇，且刑之。</p>
+<p>　　胥各掌其所治之政，执鞭度而巡其前，掌其坐作出入之禁令，袭其不正者。凡有罪者，挞戮而罚之。 肆长各掌其肆之政令。陈其货贿，名相近者相远也，实相近者相尔也，而平正之。敛其緫布，掌其戒禁。 泉府掌以市之征布。敛市之不售，货之滞于民用者，以其贾买之，物楬而书之，以待不时而买者。买者各従其抵，都鄙従其主，国人郊人従其有司，然后予之。凡赊者，祭祀无过旬日，丧纪无过三月。凡民之贷者，与其有司辨而授之，以国服为之息。凡国事之财用取具焉。岁终，则会其出入而纳其余。</p>
+<p>　　司门掌授管、键，以启闭国门。几出入不物者，正其货贿凡财物。犯禁者，举之，以其财养死政之老与其孤。祭祀之牛牲系焉，监门养之。凡岁时之门，受其余。凡四方之宾客造焉，则以告。</p>
+<p>　　司关掌国货之节以联门市。司货贿之出入者，掌其治禁与其征廛。凡货不出於关者，举其货，罚其人。凡所达货贿者，则以节传出之。国凶札；则无关门之征，犹几。凡四方之宾客关，则为之告。有外内之送令，则以节传出内之。</p>
+<p>　　掌节掌守邦节而辨其用，以辅王命。守邦国者用玉节，守都鄙者用角节，凡邦国之使节，山国用虎节，土国用人节，泽国用龙节，皆金也。以英荡辅之，门关用符节，货贿用玺节，道路用旌节，皆有期以反节。凡通达於天下者必有节，以传辅之。无节者，有几则不达。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3202.aspx">上一章</a>
+<a href="/guwen/book_24.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3204.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1733" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

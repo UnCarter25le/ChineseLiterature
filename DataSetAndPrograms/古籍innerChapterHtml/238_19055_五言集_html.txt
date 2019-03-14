@@ -1,0 +1,159 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明贤集·五言集_古诗文网
+</title>
+<meta content="黄金浮世在，白发故人稀。多金非为贵，安乐值钱多。休争三寸气，白了少年头。百年随时过，万事转头空。耕牛无宿草，仓鼠有余粮。万事分已定，浮生空自忙。结有德之朋，绝无义之友。常怀克已心，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19055.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>五言集</b></span>
+<a href="javascript:PlayBookv(19055)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19055" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19055" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄金浮世在，白发故人稀。</p>
+<p>　　多金非为贵，安乐值钱多。</p>
+<p>　　休争三寸气，白了少年头。</p>
+<p>　　百年随时过，万事转头空。</p>
+<p>　　耕牛无宿草，仓鼠有余粮。</p>
+<p>　　万事分已定，浮生空自忙。</p>
+<p>　　结有德之朋，绝无义之友。</p>
+<p>　　常怀克已心，法度要谨守。</p>
+<p>　　君子坦荡荡，小人常戚戚。</p>
+<p>　　见事知长短，人面识高低。</p>
+<p>　　心高遮甚事，地高偃水流。</p>
+<p>　　水深流去慢，贵人语话迟。</p>
+<p>　　道高龙虎伏，德重鬼神钦。</p>
+<p>　　人高谈今古，物高价出头。</p>
+<p>　　休依时来势，提防时去年。</p>
+<p>　　藤萝绕树生，树倒藤萝死。</p>
+<p>　　官满如花谢，势败奴欺主。</p>
+<p>　　命强人欺鬼，运衰鬼弄人。</p>
+<p>　　人无千日好，花无百日红。</p>
+<p>　　人有十年壮，鬼神不敢傍。</p>
+<p>　　厨中有剩饭，路上有饥人。</p>
+<p>　　饶人不是痴，过后得便宜。</p>
+<p>　　量小非君子，无度不丈夫。</p>
+<p>　　路遥知马力，日久见人心。</p>
+<p>　　长存君子道，须有称心时。</p>
+<p>　　雁飞不到处，人被名利牵。</p>
+<p>　　地有三江水，人无四海心。</p>
+<p>　　有钱便使用，死后一场空。</p>
+<p>　　为仁不富矣，为富不仁矣。</p>
+<p>　　君子喻于义，小人喻于利。</p>
+<p>　　贫而无怨难，富而无骄易。</p>
+<p>　　百年全在命，半点不由人。</p>
+<p>　　在家敬父母，何须远烧香？</p>
+<p>　　家和贫也好，不义富如何？</p>
+<p>　　晴干开水道，须防暴雨时。</p>
+<p>　　寒门生贵子，白屋出公卿。</p>
+<p>　　将相本无种，男儿当自强。</p>
+<p>　　欲要夫子行，无可一日清。</p>
+<p>　　三千徒众立，七十二贤人。</p>
+<p>　　成人不自在，自在不成人。</p>
+<p>　　国正天心顺，官清民自安。</p>
+<p>　　妻贤夫祸少，子孝父心宽。</p>
+<p>　　白云朝朝过，青天日日闲。</p>
+<p>　　自家无运至，却怨世界难。</p>
+<p>　　有钱能解语，无钱语不听。</p>
+<p>　　时间风火性，烧了岁寒衣。</p>
+<p>　　人生不满百，常怀千岁忧。</p>
+<p>　　常说是非者，便是是非人。</p>
+<p>　　积善有善报，积恶有恶报。</p>
+<p>　　报应有早晚，祸福自不错。</p>
+<p>　　花无重开日，人无常少年。</p>
+<p>　　人无害虎心，虎有伤人意。</p>
+<p>　　上山擒虎易，开口告人难。</p>
+<p>　　忠臣不怕死，怕死不忠臣。</p>
+<p>　　从前多少事，过去一场空。</p>
+<p>　　满怀心腹事，尽在不言中。</p>
+<p>　　既在矮檐下，怎敢不低头。</p>
+<p>　　家贫知孝子，国乱识忠臣。</p>
+<p>　　但是登途者，都是福薄人。</p>
+<p>　　家贫君子拙，时来小儿强。</p>
+<p>　　命好心也好，富贵直到老；</p>
+<p>　　命好心不好，中途夭折了；</p>
+<p>　　心命都不好，穷苦直到老。</p>
+<p>　　年老心未老，人穷志不穷。</p>
+<p>　　自古皆有死，民无信不立。</p>
+<p>　　乖汉瞒痴汉，痴汉总不知。</p>
+<p>　　乖汉做驴子，却被痴汉骑。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19054.aspx">上一章</a>
+<a href="/guwen/book_238.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19056.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

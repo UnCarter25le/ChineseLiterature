@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+万历野获编·续编小引_古诗文网
+</title>
+<meta content="今上御极已垂五十年。德符幸生尧舜之世，虽困处菰芦，然咏歌太平，无非圣朝佳话。间有稍关时事者，其泾渭自明。藿食者，但能粗忆梗概而已。至于风气之转移，俗尚之改革，又渐与往年稍不同。盖自" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20308.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>续编小引</b></span>
+<a href="javascript:PlayBookv(20308)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20308" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20308" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b2%88%e5%be%b7%e7%ac%a6">沈德符</a></p>
+<div class="contson">
+<p>　　今上御极已垂五十年。德符幸生尧舜之世，虽困处菰芦，然咏歌太平，无非圣朝佳话。间有稍关时事者，其泾渭自明。</p>
+<p>　　藿食者，但能粗忆梗概而已。至于风气之转移，俗尚之改革，又渐与往年稍不同。盖自丙午、丁未间。有《万历野获编》共卅卷，弃置废簏中，且辍笔已十余年而往矣。壮岁已去，记性日颓；诸所见闻，又有出往事外者。胸臆旧贮，遗忘未尽。恐久而并未尽者失之，邃不问新旧，辄随意录写，亦复成帙，绪成前稿，名曰“续编“，仍冠以万历。其事亦有不尽属今上时者，然耳剽目睹，皆德符有生来所亲得也。昔吾家存中，身处北扉，淹该绝世，故《笔谈》一书传诵至今。吾家石田，虽高逸出存中上，终以布衣老死吴下，故所著《客座新闻》，时有牴牾。德符少生京国，长游辟雍，较存中甚贱。而所交士大夫及四方名流聚辇下者，或稍过石田，因妄为此笔。总之，书生语言，疵误不少，姑存之以待后人之斥正。或比于《玄怪》、《潇湘》诸录，差为不妄。今圣人在宥，当如纪年所称万数，与天罔极，野之所获，正不胜书也。万历四十七年己未岁新秋，题于敝帚齐。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20307.aspx">上一章</a>
+<a href="/guwen/book_294.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20309.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

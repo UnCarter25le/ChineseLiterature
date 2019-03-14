@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+墨子·36章 非命(中)_古诗文网
+</title>
+<meta content="子墨子言曰：凡出言谈、由文学之为道也，则不可而不先立义法。若言而无义，譬犹立朝夕于员钧之上也，则虽有巧工，必不能得正焉。然今天下之情伪，未可得而识也。故使言有三法。三法者何也？有本" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3426.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1971" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>36章 非命(中)</b></span>
+<a href="javascript:PlayBookv(3426)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3426" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1971)" id="leftbtn1971" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3426" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　子墨子言曰：凡出言谈、由文学之为道也，则不可而不先立义法。若言而无义，譬犹立朝夕于员钧之上也，则虽有巧工，必不能得正焉。然今天下之情伪，未可得而识也。故使言有三法。三法者何也？有本之者，有原之者，有用之者。于其本之也？考天鬼之志，圣王之事；于其原之也？徵以先王之书；用之奈何？发而为刑。此言之三法也。</p>
+<p>　　今天下之士君子，或以命为忘。我所以知命之有与亡者，以众人耳目之情，知有与亡。有闻之，有见之，谓之有；莫之闻，莫之见，谓之亡。然胡不尝考之百姓之情？自古以及今，生民以来者，亦尝见命之物、闻命之声者乎？则未赏有也。若以百姓为愚不肖，耳目之情，不足因而为法；然则胡不尝考之诸侯之传言流语乎？自古以及今，生民以来者，亦尝有闻命之声，见命之体者乎？则未尝有也。</p>
+<p>　　然胡不尝考之圣王之事？古之圣王，举孝子而劝之事亲，尊贤良而劝之为善，发宪布令以教诲，明赏罚以劝阻。若此，则乱者可使治，而危者可使安矣。若以为不然，昔者桀之所乱，汤治之；纣之所乱，武王治之。此世不渝而民不改，上变政而民易教，其在汤、武则治，其在桀、纣则乱。安危治乱，在上之发政也，则岂可谓有命哉！夫曰有命云者，亦不然矣。</p>
+<p>　　今夫有命者言曰：我非作之后世也，自昔三代有若言以傅流矣，今故先生对之？曰：夫有命者，不志昔也三代之圣、善人与？意亡昔三代之暴、不肖人也？何以知之？初之列士桀大夫，慎言知行，此上有以规谏其君长，下有以教顺其百姓。故上得其君长之赏，下得其百姓之誉。列士桀大夫，声闻不废，流传至今，而天下皆曰其力也，必不能曰我见命焉。是故昔者三代之暴王，不缪其耳目之淫，不慎其心志之辟，外之驱骋田猎毕弋，内沈于酒乐，而不顾其国家百姓之政，繁为无用，暴逆百姓，使下不亲其上，是故国为虚厉，身在刑（人＋谬的右半）之中，不肯曰我罢不肖，我为刑政不善，必曰我命故且亡。虽昔也三代之穷民，亦由此也，内之不能善事其亲戚，外不能善事其君长，恶恭俭而好简易，贪饮食而惰从事，衣食之财不足，使身至有饥寒冻馁之忧，必不能曰我罢不肖，我从事不疾，必曰我命固且穷。虽昔也三代之伪民，亦犹此也，繁饰有命，以教众愚朴人。</p>
+<p>　　久矣！圣王之患此也，故书之竹帛，琢之金石。于先王之书《仲虺之告》曰：“我闻有夏人矫天命，布命于下，帝式是恶，用阙师。”此语夏王桀之执有命也，汤与仲虺共非之。先王之书《太誓》之言然，曰：“纣夷之居，而不肯事上帝、弃阙其先神而不祀也，曰：'我民有命。'毋（人＋谬的右半）其务，天不亦弃纵而不葆。”此言纣之执有命也，武王以《太誓》非之。有于三代不国有之，曰：“女毋崇天之有命也。”命三不国亦言命之无也。于召公之《执令》于然：“且！政哉，无天命！维予二人，而无造言，不自降天之哉得之。”在于商、夏之《诗》、《书》曰：“命者，暴王作之。”</p>
+<p>　　且今天下之士君子，将欲辩是非、利害之故，当天有命者，不可不疾非也。执有命者，此天下之厚害也，是故子墨子非也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3425.aspx">上一章</a>
+<a href="/guwen/book_29.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3427.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1971" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·先德类·卷六_古诗文网
+</title>
+<meta content="◎方恪敏之种德方恪敏公观承，子襄勤公维甸，两世为尚书、直隶总督，皆有名绩。恪敏五十未有子，抚浙时使人于江宁买一女子，公女兄弟送至杭州，将筮日纳室中矣。公至女兄弟所，见诗册有故友名，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16196.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>先德类·卷六</b></span>
+<a href="javascript:PlayBookv(16196)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16196" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16196" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎方恪敏之种德</p>
+<p>　　方恪敏公观承，子襄勤公维甸，两世为尚书、直隶总督，皆有名绩。恪敏五十未有子，抚浙时使人于江宁买一女子，公女兄弟送至杭州，将筮日纳室中矣。公至女兄弟所，见诗册有故友名，询之，知此女携其祖父作也。公曰：“吾少时与此君联诗社，安得纳其孙女乎？”还其家，助资嫁之。公年六十一矣，吴太夫人旋生子，即襄勤也。</p>
+<p>　　◎稽封翁</p>
+<p>　　吾乡稽涤圃先生承志，尝为河东河道总督，父子两世奇遇。其封翁某，少无赖，置身赌博场，贫益甚，乃就食于叔父文敏公曾筠河东官署。文敏甚恶之，恐其滋事，训戒綦严，不许出署。</p>
+<p>　　公抑郁无聊，遂逃出，充作河标兵，拔百夫长。后文敏薨，文恭公璜又邀圣眷最隆。乾隆三十四年，文恭奉命勘南河工程，时封翁正在标下，捧茶一杯，打跧以进，文恭为之起立，诸大吏皆见之，疑而不敢问也。至公事毕，有某公从容窃问，文恭答曰：“此余族兄也。”乃大惊。自此屡次拔擢，至瓜州守备，而涤圃亦中乡榜，历官至长芦都转运使，遂引族归。一日偶与如夫人戏曰：“吾不欲做显官耳。若出山，珊瑚顶、孔雀翎，有何难哉！”如夫人曰：“妾不敢信，主公若得赤顶翠翎，妾愿作绿珠、红拂，以事主公。”交相拍手，自此出山，已而果然。</p>
+<p>　　◎季封翁</p>
+<p>　　江阴季仙九尚书芝昌，以进士第三人及第，官至闽浙总督。哲嗣念贻，亦以进士入翰林，家门鼎盛。而其赠公则以知县遣戍新疆，卒于口外者也。初赠公官直隶巨鹿县知县，地方传言有教匪事，公方严拿，总督遽飞章入告。及上命重臣来查办，公业将首犯擒获，并搜得名册二本，细为访问，非青莲、白莲等比，不过以鬼神祸福，恐吓愚民，为敛钱计耳，并无谋叛情事。及阅名册，则绅衿富户，几居其半。公筹思数日，至郡见太守曰：“此等人名为教匪，实非教匪，而册内共有二千数百户，俱是良民，一时无知，惑于祸福之说，与之往还，册上即列其名，并非从之为匪者也。星使到时，若将名册上呈，势必将各户拿问，总得原情释放，而二千数百人家已破矣。”太守曰：“子将若何？”</p>
+<p>　　对曰：“以某之愚，欲将名册焚之，只办为首者数人而已矣。”太守曰：“此举甚善，然子且获大咎，咎不止于褫职，盍再思之。”公曰：“某思之已熟，一己获罪而能保数千户无恙，亦何惮而不为？”太守曰：“子愿则好为之，毋令后人笑子拙也。”公还，即举名册投之火，合署人皆大惊，既已无可奈何。星使至，将首犯审明后，即饬取名册，公曰：“某已查明，所列之人俱系良民，留之恐拖累，已焚之矣。”</p>
+<p>　　星使大怒，顾亦无可奈何，只据实严参。褫公职，发新疆效力赎罪，公怡然就道。人或怜之、或嗤之，然此数干户实良民，虽漏网，地方亦卒无事，而公竟殁于戍所。公殁后不十年，尚书即探花及第，孙曾鼎贵。噫！孰谓天道无知，而报施果不足凭耶？</p>
+<p>　　◎红豆书庄</p>
+<p>　　东吴惠氏红豆书庄，在苏城东南冷香溪之北。先是东禅寺有红豆树，相传白鸽禅师所种，老而朽，复萌新枝。周惕移一枝植阶前，生意郁然，因自号“红豆主人”。僧目存为绘红豆新居图，主人自题五绝句，又赋红豆词十首，属和者二百余家，过吴门必停舟瞻赏。传至子孙，数十年来铁干霜皮，遂有参天之势矣。惠氏三世研经，蔚然为东南耆硕，余事作诗，复风流照曜如此，洵令人追慕不置也。</p>
+<p>　　◎传是楼</p>
+<p>　　昆山徐健庵先生《宋元经解》之刻，实足津逮来贤、肇起熙朝朴学。其私家藏书曰“传是楼”，向不得其解，后阅汪钝翁《传是楼记》云：“先生召诸子登楼而诏之曰：‘吾何以传汝曹哉！尝慨为人父祖者，每欲传其土田、货财，而子孙未必能世富也；欲传其金玉、珍玩、鼎彝、尊斝之物，而又未必能世宝也；欲传其园池、台榭、歌舞、舆马之具，而又未必能世享娱乐也。吾方鉴此，则吾何以传汝曹哉？’因指书而欣然笑曰：‘所传者惟是矣。’遂名其楼为‘传是’。”</p>
+<p>　　◎郝善人</p>
+<p>　　道光间蓟州郝氏七世同居，食指千计，男耕女织，家法严整。士子读书应考，入学中举人，不赴礼部试，恐入仕也。出游不得越二十里外，京外官奉使其地，咸主其家，备供顿，不纤悉累地方官吏。四民之往来，则具酒醴刍秣无虚日。其余睦姻任恤，事不胜书，人皆称“郝善人”云。穷乡编户，有此驯良孝友之家，贞不绝俗，善不近名，古来独行传中，实所罕觏。详列于此，俾采风者有述焉。</p>
+<p>　　◎曾文正家书</p>
+<p>　　曾文正公致其弟威毅伯书云：“闻林文忠三子分家，各得六千串。督抚二十年，家私如此，真不可及。吾辈当以为法。”读此见文忠之清操，亦见文正兄弟之志趣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16195.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16197.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·魏一·陈轸为秦使于齐_古诗文网
+</title>
+<meta content="陈轸为秦使于齐，过魏，求见犀首。犀首谢陈轸。陈轸曰：“轸之所以来者，事也。公不见轸，轸且行，不得待异日矣。”犀首乃见之。陈轸曰：“公恶事乎?何为饮食而无事?无事必来。”犀首曰：“衍" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4645.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4043" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>魏一·陈轸为秦使于齐</b></span>
+<a href="javascript:PlayBookv(4645)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4645" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4043)" id="leftbtn4043" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4645" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　陈轸为秦使于齐，过魏，求见犀首。犀首谢陈轸。陈轸曰：“轸之所以来者，事也。公不见轸，轸且行，不得待异日矣。”犀首乃见之。陈轸曰：“公恶事乎?何为饮食而无事?无事必来。”犀首曰：“衍不肖，不能得事焉，何敢恶事?”陈轸曰：“请移天下之事于公。”犀首曰：“奈何?”陈轸曰：“魏王使李从以车百乘使于楚，公可以居其中而疑之。公谓魏王曰：‘臣与燕、赵故矣，数令人召臣也，曰无事必来。今臣无事，请谒而往。无久，旬、五之期。’王必无辞以止公。公得行，因自言于廷曰：‘臣急使燕、赵，急约车为行具。’”犀首曰：“诺。”谒魏王，王许之，即明言使燕、赵。</p>
+<p>　　诸侯客闻之，皆使人告其王曰：“李从以车百乘使楚，犀首又以车三十乘使燕、赵。”齐王闻之，恐后天下得魏，以事属犀首，犀首受齐事。魏王止其行使。燕、赵闻之，亦以事属犀首。楚王闻之，曰：“李从约寡人，今燕、齐、赵皆以事因犀首，犀首必欲寡人，寡人欲之。”乃倍李从，而以事因犀首。魏王曰：“所以不使犀首者，以为不可。令四国属以事。寡人亦以事因焉。”犀首遂主天下之事，复相魏。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4644.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4646.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4043" style="width:580px; display:none;"></div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

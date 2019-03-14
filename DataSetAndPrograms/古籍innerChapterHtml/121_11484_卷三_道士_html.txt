@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷三·道士_古诗文网
+</title>
+<meta content="韩生，世家也。好客，同村徐氏常饮于其座。会宴集，有道士托钵门外，家人投钱及粟皆不受，亦不去，家人怒归不顾。韩闻击剥之声甚久，询之家人，以情告。言未已，道士竟入，韩招之坐。道士向主客" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11484.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·道士</b></span>
+<a href="javascript:PlayBookv(11484)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11484" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11484" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　韩生，世家也。好客，同村徐氏常饮于其座。会宴集，有道士托钵门外，家人投钱及粟皆不受，亦不去，家人怒归不顾。韩闻击剥之声甚久，询之家人，以情告。言未已，道士竟入，韩招之坐。道士向主客皆一举手，即坐。略致研诘，始知其初居村东破庙中。韩曰：“何日栖鹤东观，竟不闻知，殊缺地主之礼。”答曰：“野人新至无交游，闻居士挥霍，深愿求饮焉。”韩命举觞。道士能豪饮。徐见其衣服垢敝，颇偃蹇，不甚为礼。韩亦海客遇之。道士倾饮二十余杯，乃辞而去。自是每宴会道士辄至，遇食则食，遇饮则饮，韩亦稍厌其频。饮次，徐嘲之曰：“道长日为客，宁不一作主？”道士笑曰：“道人与居士等，惟双肩承一喙耳。”徐渐不能对。道士曰：“虽然，道人怀诚久矣，会当竭力作杯水之酬。”饮毕，嘱曰：“翌午幸赐光宠。”次日相邀同往，疑其不设。行去，道士已候于途，且语且步，已至庙门。入门，则院落一新，连阁云蔓。大奇之，曰：“久不至此，创建何时？”道士答：“峻工未久。”比入其室，陈设华丽，世家所无。二人肃然起敬。甫坐，行酒下食，皆二八狡童，锦衣朱履。酒馔芳美，备极丰渥。饭已，另有小进。珍果多不可名，贮以水晶玉石之器，光照几榻。酸以玻璃盏，围尺许。道士曰：“唤石家姊妹来。”童去少时，二美人入，一细长如弱柳，一身短，齿最稚；媚曼双绝。道士即使歌以侑酒。少者拍板而歌，和者和以洞箫，其声清细。既阕，道士悬爵促釂，又命遍酌。顾问：“美人久不舞，尚能之否？”遂有僮仆展氍毹于筵下，两女对舞，长衣乱拂，香尘四散。舞罢，斜倚画屏。韩、徐二人心旷神飞，不觉醺醉。道士亦不顾客，举杯饮尽，起谓客曰：“姑烦自酌，我稍憩，即复来。”即去。南屋壁下，设一螺钿之床，女子为施锦裀，扶道士卧。道士乃曳长者共寝，命少者立床下为之爬搔。韩、徐睹此状颇不平。徐乃大呼：“道士不得无礼”往将挠之，道士急起而遁。见少女犹立床下，乘醉拉向北榻，公然拥卧。视床上美人，尚眠绣榻。顾韩曰：“君何太迂？”韩乃径登南榻，欲与狎亵，而美人睡去，拨之不转；因抱与俱寝。天明酒梦俱醒，觉怀中冷物冰人，视之，则抱长石卧青阶下。急视徐，徐尚未醒，见其枕遗屙之石，酣寝败厕中。蹴起，互相骇异。四顾，则一庭荒草，两间破屋而已。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11483.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11485.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

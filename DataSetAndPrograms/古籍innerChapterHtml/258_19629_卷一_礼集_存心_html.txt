@@ -1,0 +1,115 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+呻吟语·卷一·礼集·存心_古诗文网
+</title>
+<meta content="心要如天平，称物时，物忙而衡不忙；物去时，即悬空在此。只恁静虚中正，何等自在！收放心，休要如追放豚，既入笠了，便要使他从容闲畅，无拘迫懊憹之状。若恨他难收，一向束缚在此，与放失同，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19629.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·礼集·存心</b></span>
+<a href="javascript:PlayBookv(19629)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19629" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19629" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%95%e5%9d%a4">吕坤</a></p>
+<div class="contson">
+<p>　　心要如天平，称物时，物忙而衡不忙；物去时，即悬空在此。只恁静虚中正，何等自在！</p>
+<p>　　收放心，休要如追放豚，既入笠了，便要使他从容闲畅，无拘迫懊憹之状。若恨他难收，一向束缚在此，与放失同，何者？同归于无得也。故再放便奔逸不可收拾。君子之心，如习鹰驯雉，搏击飞腾，主人略不防闲，及上臂归庭，却恁忘机自得，略不惊畏。</p>
+<p>　　学者只事事留心，一毫不肯苟且，德业之进也，如流水矣。</p>
+<p>　　不动气，事事好。</p>
+<p>　　心放不放，要在邪正上说，不在出入上说。且如高卧山林，游心廊庙；身处衰世，梦想唐虞。游子思亲，贞妇怀夫，这是个放心否？若不论邪正，只较出入，却是禅定之学。</p>
+<p>　　或问：“放心如何收？”余曰：“只君此问，便是收了。这放收甚容易，才昏昏便出去，才惺惺便在此。”</p>
+<p>　　常使精神在心目间，便有主而不眩；于客感之交，只一昏昏，便是胡乱应酬。岂无偶合？终非心上经历过，竟无长进，譬之梦食，岂能饱哉？</p>
+<p>　　防欲如挽逆水之舟，才歇力便下流；力善如缘无枝之树，才住脚便下坠。是以君子之心，无时而不敬畏也。</p>
+<p>　　一善念发，未说到扩充，且先执持住，此万善之囤也。若随来随去，更不操存此心，如驿传然，终身无主人住矣。</p>
+<p>　　千日集义，禁不得一刻不慊于心，是以君子瞬存息养，无一刻不在道义上。其防不义也，如千金之子之防盗，惧馁之，故也。</p>
+<p>　　无屋漏工夫，做不得宇宙事业。</p>
+<p>　　君子口中无惯语，存心故也。故曰：“修辞立其诚。”不诚，何以修辞？</p>
+<p>　　一念收敛，则万善来同；一念放恣，则百邪乘衅。</p>
+<p>　　得罪于法，尚可逃避；得罪于理，更没处存身。只我的心便放不过我。是故君子畏理甚于畏法。</p>
+<p>　　或问：“鸡鸣而起，若未接物，如何为善？”程子曰：“只主于敬便是善。”愚谓：惟圣人未接物时何思何虑？贤人以下，睡觉时，合下便动个念头，或昨日已行事，或今日当行事，便来心上。只看这念头如何，如一念向好处想，便是舜边人；若一念向不好处想，便是跖边人。若念中是善，而本意却有所为，这又是舜中跖，渐来渐去，还向跖边去矣。此是务头工夫。此时克己更觉容易，点检更觉精明，所谓“去恶在纤微，持善在根本”也。</p>
+<p>　　目中有花，则视万物皆妄见也；耳中有声，则听万物皆妄闻也；心中有物，则处万物皆妄意也。是故此心贵虚。</p>
+<p>　　忘是无心之病，助长是有心之病。心要从容自在，活泼于有无之间。</p>
+<p>　　静之一字，十二时离不了，一刻才离便乱了。门尽日开阖，枢常静；妍蚩尽日往来，镜常静；人尽日应酬，心常静。惟静也，故能张主得动，若逐动而去，应事定不分晓。便是睡时此念不静，作个梦儿也胡乱。</p>
+<p>　　把意念沉潜得下，何理不可得？把志气奋发得起，何事不可做？今之学者，将个浮躁心观理，将个委靡心临事，只模糊过了一生。</p>
+<p>　　心平气和，此四字非涵养不能做，工夫只在个定火。火定则百物兼照，万事得理。水明而火昏。静属水，动属火，故病人火动则躁扰狂越，及其苏定，浑不能记。苏定者，水澄清而火熄也。故人非火不生，非火不死；事非火不济，非火不败。惟君子善处火，故身安而德滋。</p>
+<p>　　当可怨、可怒、可辩、可诉、可喜、可愕之际，其气甚平，这是多大涵养。</p>
+<p>　　天地间真滋味，惟静者能尝得出；天地间真机括，惟静者能看得透；天地间真情景，惟静者能题得破。作热闹人，说孟浪语，岂无一得？皆偶合也。</p>
+<p>　　未有甘心快意而不殃身者。惟理义之悦我心，却步步是安乐境。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19628.aspx">上一章</a>
+<a href="/guwen/book_258.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19630.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

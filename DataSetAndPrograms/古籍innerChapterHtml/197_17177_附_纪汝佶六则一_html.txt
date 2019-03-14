@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+阅微草堂笔记·附·纪汝佶六则一_古诗文网
+</title>
+<meta content="亡儿汝佶以乾隆甲子生，幼颇聪慧，读书未多，即能作八比。乙酉举于乡，始稍稍治诗古文，尚未识门径也。会余从军西域，乃自从诗社才士游，遂误从公安竟陵两派入，后依朱子颖于泰安，见聊斋志异抄" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17177.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>附·纪汝佶六则一</b></span>
+<a href="javascript:PlayBookv(17177)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17177" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17177" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ba%aa%e6%98%80">纪昀</a></p>
+<div class="contson">
+<p>　　亡儿汝佶以乾隆甲子生，幼颇聪慧，读书未多，即能作八比。乙酉举于乡，始稍稍治诗古文，尚未识门径也。会余从军西域，乃自从诗社才士游，遂误从公安竟陵两派入，后依朱子颖于泰安，见聊斋志异抄本，时是书尚未刻，又误堕其窠臼，竟沈沦不返，以讫于亡故。其遗诗遗文，仅付孙树庭等，存乃父手泽，余未一为编次也。惟所作杂记，尚未成书，其间琐事，时或可采，因为简择数条，附此磜之末，以不没其篝灯呵冻之劳。又惜其一归彼法，百事无成，徒以此无关著述之词，存其名字也。</p>
+<p>　　花隐老人居平陵城之东，鹊华桥之西，不知何许人，亦不自道真姓字，所居有亭台水石，而莳花尤多，居常不与人交 接，然有看花人来，则无弗纳。曳杖伛偻前导，手无停指，口无停语，惟恐人之不及知，不及见也。园无隙地，殊香异色，纷纷拂拂，一往无际，而兰与菊与竹，尤擅天下之奇。兰有红有素，菊有墨有绿，又有丹竹纯赤，玉竹纯白，其他若方若斑，若紫若百节，虽非目所习 见，尚为耳所习 闻也。异哉物之聚于所好，固如是哉。</p>
+<p>　　士人某，寓岱庙之环咏亭，时已深冬，北风甚劲，拥炉夜坐，冷不可支。乃息烛就寝，既觉，见承尘纸破处有光，异之，披衣潜起，就破处审视，见一美妇，长不满二尺，紫衣青衿，著红履，纤瘦如指，髻作时世妆。方艺火炊饭，灶旁一短足几，几上锡檠荧然。因念此必狐也，正凝视间，忽然一嚏，妇惊，触几灯覆，遂无所见。晓起，破承尘视之，黄泥小灶，光洁异常，铁釜大如碗，饭犹未熟也，小锡檠倒置几下，油痕狼籍，惟蒸火处纸不燃，殊可怪耳。</p>
+<p>　　徂徕山有巨蟒二，形不类蟒，顶有角如牛，赤黑色，望之有光，其身长约三四丈，蜿蜒深涧中，涧广可一亩，长可半里，两山夹之中，一隙仅三尺许，游人登其巅，对隙俯窥，则蟒可见。相传数百年前颇为人害，有异僧禁制，遂不得出。夫深山大泽，实生龙蛇，似此亦无足怪，独怪其蜷伏数百年，而能不饥渴也。</p>
+<p>　　泰安韩生名鸣歧，旧家子，业医，尝夤夜骑马赴人家，忽见数武之外，有巨人长十余丈。生胆素豪，摇磝径过，相去咫尺，即挥鞭击之，顿缩至三四尺，短发蓬瞏，状极丑怪，唇吻翕辟，格格有声。生下马执鞭逐之，其行缓止，蹒跚地上，意颇窘，既而身缩至一尺，而首大如瓮，似不胜载，殆欲颠仆。生且行且逐，至病者 家，乃不见。不知何怪也。汶陽范灼亭说。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17176.aspx">上一章</a>
+<a href="/guwen/book_197.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17178.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

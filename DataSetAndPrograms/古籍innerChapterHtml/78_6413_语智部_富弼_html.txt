@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·语智部·富弼_古诗文网
+</title>
+<meta content="【原文】契丹乘朝廷有西夏之忧，遣使来言关南之地。地是石晋所割，后为周世宗所取。富弼奉使，往见契丹主曰：“两朝继好，垂四十年，一旦求割地，何也？”契丹主曰：“南朝违约，塞雁门，增塘水" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6413.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5392" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>语智部·富弼</b></span>
+<a href="javascript:PlayBookv(6413)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6413" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5392)" id="leftbtn5392" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6413" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　契丹乘朝廷有西夏之忧，遣使来言关南之地。地是石晋所割，后为周世宗所取。富弼奉使，往见契丹主曰：“两朝继好，垂四十年，一旦求割地，何也？”契丹主曰：“南朝违约，塞雁门，增塘水，治城隍，籍民兵，将以何为？群臣请举兵而南，吾谓不若遣使求地，求而不获，举兵未晚。”弼曰：“北朝忘章圣皇帝之大德乎？澶渊之役，苟从诸将言，北兵无得脱者。且北朝与富弼中国通好，则人主专其利，而臣下无所获；若用兵，则利归臣下，而人主任其祸。故劝用兵者，皆为身谋耳。今中国提封万里，精兵百万，北朝欲用兵，能保必胜乎？就使其胜，所亡士马，群臣当之与，抑人主当之与？若通好不绝，岁币尽归人主，群臣何利焉？”契丹主大悟，首肯者久之。弼又曰：“雁门者，备元昊也。塘水始于何承矩，事在通好前。城隍修旧，民兵亦补阙，非违约也。”契丹主曰：“虽然，吾祖宗故地，当见还耳。”弼曰：“晋以卢龙赂契丹，周世宗复取关南地，皆异代事，若各求地，岂北朝之利哉。”（边批：占上风。）既退，刘六符曰：“吾主耻受金币，坚欲十县，何如？”弼曰：“本朝皇帝言：‘为祖宗守国，岂敢望以土地与人？北朝所欲，不过租赋耳，朕不忍多杀两朝赤子，故屈地增币以代之。’（边批：占上风。）若必欲得地，是志在败盟，假此为辞耳。”明日契丹主召弼同猎，引弼马自近，谓曰：“得地则欢好可久。”弼曰：“北朝既以得地为荣，南朝必以失地为辱，兄弟之国，岂可一荣一辱哉？”猎罢，六符曰：“吾主闻公荣辱之言，意甚感悟，今唯结姻可议耳。”弼曰：“婚姻易生嫌隙，本朝长公主出嫁，赍送不过十万缗，岂若岁币无穷之利哉。”弼还报，帝许增币。契丹主曰：“南朝既增我币，辞当曰‘献’。”弼曰：“南朝为兄，岂有兄献于弟乎？”（边批：占上风。）契丹主曰：“然则为‘纳’。”，弼亦不可，契丹主曰：“南朝既以厚币遗我，是惧我矣，于二字何有？若我拥兵而南，得无悔乎？”弼曰：“本朝兼爱南北，（边批：占上风。）故不惮更成，何名为惧？或不得已而至于用兵，则当以曲直为胜负，非使臣之所知也。”契丹主曰：“卿勿固执，古有之矣。”弼曰：“自古唯唐高祖借兵突厥。当时赠遗，或称献纳，其后颉利为太宗所擒。（边批：占上风。）岂复有此哉？”契丹主知不可夺，自遣人来议。帝用晏殊议，竟以“纳”字与之。（边批：可恨。）</p>
+<p>　　〔评〕富郑公与契丹主往复再四，句句占上风，而语气又和婉，使人可听。此可与李邺侯参看，说辞之最善也。弼始受命往，闻一女卒，再往，闻一男生，皆不顾。得家书，未尝发，辄焚之，曰：“徒乱人意。”有此一片精诚，自然不辱君命。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6412.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6414.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5392" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

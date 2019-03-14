@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第四十四回_古诗文网
+</title>
+<meta content="湘子设筵和好却说铁拐诸仙，专候钟离消息，忽仙姑至。铁拐问曰：“汝探钟离、洞宾之事如何？”仙姑曰：“钟离已自收伏洞宾，今皆回矣。”铁拐曰：“洞宾虽归，理不可纵，必须面责其非，今自谢罪" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17399.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第四十四回</b></span>
+<a href="javascript:PlayBookv(17399)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17399" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17399" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>湘子设筵和好</strong></p>
+<p>　　却说铁拐诸仙，专候钟离消息，忽仙姑至。铁拐问曰：“汝探钟离、洞宾之事如何？”</p>
+<p>　　仙姑曰：“钟离已自收伏洞宾，今皆回矣。”</p>
+<p>　　铁拐曰：“洞宾虽归，理不可纵，必须面责其非，今自谢罪，庶几长幼之分不紊，仙家之礼不乱。不然，彼将以天下事，皆可玩弄矣。”</p>
+<p>　　果老曰：“老仙之言，正合吾意。”</p>
+<p>　　言犹未了，钟、吕皆到。</p>
+<p>　　铁拐正色谓洞宾曰：“嗜酒贪花，皆汝事实。钟离言及于此，于汝何伤？汝乃逞能挟仇，播弄大祸，以今观之，果能逆气数以逞才能乎。无知小子，犯分欺天，若非众友解劝，奏汝天庭，永坠尘凡，不得超生矣！”</p>
+<p>　　洞宾曰：“非是我抗师父之言，但因椿精凡同作孽，欲往收之。及至今见此阵纷纭，一时技痒，聊试阵法于军中，不意利害至此！”</p>
+<p>　　铁拐大怒曰：“椿精本汝所使，欲逆气数，是汝本心。今乃借此为言，迷众耳目，利口奸心，全不可与入道矣。此匹夫，留此必为云为雨。”乃拂抽而起。众皆向前劝住。铁拐大骂不休。</p>
+<p>　　果老谓洞宾曰：“汝既作事轻狂，便当小心领罪，乃饰辞掩护，安得老仙不怒？可听吾言，向前谢罪。”</p>
+<p>　　果老乃引洞宾于铁拐、钟离之前，下拜请罪。众复为之告兔。湘子乃为开筵把盏，铁拐怒气乃息，然后和好如初。</p>
+<p>　　于是开怀畅饮，酒至半酣，铁拐曰：“上界八洞诸仙，而今七人于此。但再得一人，可配足矣！诸友何不推举一人，以足其数。”</p>
+<p>　　众言见曹后有弟一人，真是仙骨，异日当成正果，可引入班。钟离曰：“另日待我亲往试之，如有道行，引之不难。”众皆曰：“可。”至是铁拐离席，劝勉洞宾数杯，众仙各相酬饮，大醉而罢。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17398.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17400.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

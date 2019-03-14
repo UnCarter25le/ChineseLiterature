@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷四·论金_古诗文网
+</title>
+<meta content="春日之金，木旺火相。非金得气时也，绝寅胎养于卯辰者，盖造化无终极之理也。是以春令之金，晴明吉。阴雨则滞。正宜遇土以生之，谓其将绝而有生意耳。正月之金，见木为财，木神太旺，仅足衣资。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16401.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·论金</b></span>
+<a href="javascript:PlayBookv(16401)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16401" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16401" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　春日之金，木旺火相。非金得气时也，绝寅胎养于卯辰者，盖造化无终极之理也。是以春令之金，晴明吉。阴雨则滞。正宜遇土以生之，谓其将绝而有生意耳。</p>
+<p>　　正月之金，见木为财，木神太旺，仅足衣资。土气尚寒，未能生助，艺术显名而巳。火若问躔，男女重婚重嫁。见火遇土，富贵非常，逢水泄之，孤寒懦弱。</p>
+<p>　　二、三月之金，见土则生，生之意无穷，主人富贵而寿。逢水泄其元气，亦主贫薄无情。见火则囚，金遇鬼，贫夭无疑。土生水制为吉。见木而有困滞之灾，盖春木盛旺，以微弱之金而欲制之，是犹以婴儿而御强敌，其不格也明矣，犯此者必有求荣反辱之虞，官讼争攘之事，谓其仁义相刑故也，荆、梁、豫人逢之主富。徐、扬人干支土多者，贵显，气运土乡最吉，金乡次之。</p>
+<p>　　夏月火盛，金至柔也，晴则日烁金流，雨则水滋金润，故夏令之金，俱宜见土，主人有出将入相之权，金马玉堂之贵。见火则火炎金烁，贫夭居多，虽富而夭淫贱。见木为财，荆、梁、豫人多主富贵。遇水孤寒，盖弱金不能生水故也，若与火土同行，则富贵康宁。运喜土金木火，最忌秋金肃杀、万物凋零，苟纵而不抑，则生生之意绝矣，晴则火煅金坚，雨则水润金明故也。</p>
+<p>　　七、八月之金得令，其性刚强，仗火以制其威，则有玉带金鱼之贵，盖顽金无火不能成器故也。见水泄其旺气，金白水清，多主词林清贵。水火俱无，则主夭折。见木为财，徐、扬人富而且贵。遇土则隐彩埋光，虽有财而不发，孤者多，经云：秋金埋土而反旺也。逢木而贵，徐、扬、兖、青人见之尤佳。九月生者，金气稍退，遇火夜生为奇，昼生少利。逢木则克，反应骨肉参商。见水济之，冀、雍人不免冷退，徐、扬人又何忌焉？逢土亦晦，兖、青人富贵居多，豫人困滞。运喜东南，西北忌之。</p>
+<p>　　冬月天气严肃，金伏藏之时也，盖金之生也，胎于春生于夏旺于秋至冬而死者，谓其畏寒无生意也。晴明则金清水秀，雨雪则水冷金寒，所以冬月之金，得火融之，然后可以夺其寒气，则富贵非常矣。</p>
+<p>　　初冬之金，见火则为伤残、徐、扬人干支无土日生者贫夭。夜生者孤寒。遇土则衣禄丰足。见水木，俱不利矣。</p>
+<p>　　子、丑月生者，亦喜火以温之，徐、扬人无火亦喜遇土得火为贵，冀、雍人有土无火者，孤贫，盖寒土非生金之资也。见水则寒，西北人贱贫疾夭。徐、扬人干支有火土者，福寿康宁也。遇木为财，主富，享闲中之福，兖、青人则有妻孥犯分之事，盖衰金不能制木故也，荆、梁、豫人则吉。运喜东南，西北最忌。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16400.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16402.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

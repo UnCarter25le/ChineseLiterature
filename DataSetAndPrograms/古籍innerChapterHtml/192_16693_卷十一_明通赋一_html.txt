@@ -1,0 +1,137 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十一·明通赋一_古诗文网
+</title>
+<meta content="内有杂气财官相兼，偏正两印，同宫禄马，号为内外三奇。此正指神煞相绊，乃八字中有财有官、有偏正二印，或同宫，或异位，或包藏，或透出，相绊难论吉凶，要轻重较量用之，故曰，内有三奇。歌曰" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16693.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十一·明通赋一</b></span>
+<a href="javascript:PlayBookv(16693)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16693" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16693" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　内有杂气财官相兼，偏正两印，同宫禄马，号为内外三奇。</p>
+<p>　　此正指神煞相绊，乃八字中有财有官、有偏正二印，或同宫，或异位，或包藏，或透出，相绊难论吉凶，要轻重较量用之，故曰，内有三奇。歌曰：</p>
+<p>　　寅午戌酉是三奇，兔蛇随猴不可移。</p>
+<p>　　巳酉丑中逢子妙，马猴见猪好光辉。</p>
+<p>　　辰巳子逢即奇处，午亥见寅是贵墀。</p>
+<p>　　猪来赶兔马当欢，寅酉见巳喜相宜。</p>
+<p>　　猪逐马儿蛇後援，水鼠未人火龟池。又曰：</p>
+<p>　　神禄飞来就马骑，资财官职两相宜。</p>
+<p>　　旺中更得本元助，上格荣华第一奇。</p>
+<p>　　如己丑、丁卯、壬午、癸卯，</p>
+<p>　　壬用己为官，丁为财，丁己归禄於午，是此格也，故主大责。</p>
+<p>　　真官时遇命强，早受金紫之封。</p>
+<p>　　此月令正官格也。以下详言格局。</p>
+<p>　　如戊申、甲寅、己丑、丙寅，翁仲益进士。</p>
+<p>　　良马月乘时健，末迁银青之职。</p>
+<p>　　此月令正财格也。财官二格，官当取贵，财当取富。</p>
+<p>　　今俱以贵言，是从日干取得月内支干之财，无所冲克者言之。其福与正官同。诗云：</p>
+<p>　　日干爱取月支财，金玉家藏看积堆。</p>
+<p>　　更看天干财为贵，纷纷金帛自天来。是也。</p>
+<p>　　月印附日无财气，为黄榜招贤。</p>
+<p>　　此月令正印格也。</p>
+<p>　　《喜忌篇》云：月生日干无天财，乃印绶之名。</p>
+<p>　　又云：印绶生月岁时，忌见财星。运入财乡，却宜退身避职。印绶畏财，须天干岁时无财方取。又，月印难得十全。</p>
+<p>　　如甲日亥月透出癸字，变偏为正。方为十全，主招恩宠遇贵。又得祖父之财，然亦不免先遭耻辱，或偏生，以贱至贵，以贫至富，自婢为妇，以吏为官，以卒补将，皆偏印之所致也。</p>
+<p>　　偏正俱有，又有浅灾，或重拜父母，或僧俗相杂，或过房寄养，或偏生正养，或正生偏养，又忌比肩争宠分恩，羊刃多或合去，或印微，遇而不遇，虽有荐举，亦不能拔萃超群。《赋》云：“印旺官生，必掌钧衡之任”是也。</p>
+<p>　　日禄归时没官星，号青云得路。</p>
+<p>　　此日归禄时格也。</p>
+<p>　　大抵印绶，第一最好行伤官食神，财运方发。忌官刑冲羊刃。以上真官真财真印真禄，皆十干天地阴阳正气，生克至理。惟月分得之无破，准经文。有破坏者，随轻重言之。</p>
+<p>　　时得发福较晚，然皆自救，可以创业垂统。</p>
+<p>　　归禄一格，只喜时上见之，若月支重见，名为建禄不富。</p>
+<p>　　月单见，时上却喜财食见官，是别格论。</p>
+<p>　　月令七煞，而煞身俱强，当为黑头宰相。</p>
+<p>　　此月令七煞格也。大抵月令煞，要身煞两强，方主大贵。</p>
+<p>　　若身强煞浅，须财以生。煞强身弱，须印以助，或羊刃合之，皆为贵命。若印合与制星相攻，身弱必夭，不然残疾。</p>
+<p>　　如癸卯、乙卯、己巳、乙丑。癸卯、丁巳、壬寅、甲辰。</p>
+<p>　　壬寅、乙巳、庚寅、丙子，俱身强煞旺有制，所以大贵。</p>
+<p>　　《喜忌篇》云：</p>
+<p>　　五行遇月支偏官，岁时中亦宜制伏，所以救赋之偏也。</p>
+<p>　　时上偏财，而财命并旺，须出白屋公卿。</p>
+<p>　　此时上偏财格也。</p>
+<p>　　只一位为吉，见合不为福，忌比肩兄弟争夺，刑冲克被。</p>
+<p>　　如丙戌、戊戌、戊子、壬子，</p>
+<p>　　戊克癸为正财，重有子字，壬字，为偏财透露。</p>
+<p>　　又如，丁亥、戊申、壬申、丙午，</p>
+<p>　　虽年有丁火，喜有合制，又阴火能夺阳火权，故贵。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16692.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16694.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

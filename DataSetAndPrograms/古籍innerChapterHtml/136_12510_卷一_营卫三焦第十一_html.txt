@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷一·营卫三焦第十一_古诗文网
+</title>
+<meta content="黄帝问曰∶人焉受气，阴阳焉会，何气为营，何气为卫，营安从生，卫安从会，老壮不同气，阴阳异位，愿闻其会？岐伯对曰∶人受气于谷，谷入于胃，气传于肺，五脏六腑皆以受气。其清者为营，浊者为" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12510.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·营卫三焦第十一</b></span>
+<a href="javascript:PlayBookv(12510)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12510" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12510" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　黄帝问曰∶人焉受气，阴阳焉会，何气为营，何气为卫，营安从生，卫安从会，老壮不同气，阴阳异位，愿闻其会？岐伯对曰∶人受气于谷，谷入于胃，气传于肺，五脏六腑皆以受气。其清者为营，浊者为卫，营行脉中，卫行脉外，营周不休，五十而复大会。阴阳相贯，如环无端，卫气行于阴二十五度，行于阳亦二十五度，分为昼夜。故至阳而起，至阴而止。故日中而阳陇（一作袭，下同）为重阳，夜半而阴陇为重阴。故太阴主内，太阳主外，各行二十衰，日入阳尽而阴受气。夜半而大会，万民皆卧，名曰合阴。平旦阴尽而阳受气。如是无已，与天地同纪。</p>
+<p>　　曰∶老人不夜瞑，少壮不夜寤者，何气使然？曰∶壮者之气血盛，其肌肉滑，气道利，营卫之行不失其常，故昼精而夜瞑。老者之气血减，其肌肉枯，气道涩，五脏之气相搏，营气衰少而卫气内伐，故昼不精而夜不得瞑。</p>
+<p>　　曰∶愿闻营卫之所行，何道从始？曰∶营出于中焦，卫出于下焦。上焦出于胃口，并咽以上贯膈而布胸中，走腋，循手太阴之分而行，还注手阳明，上至舌，下注足阳明，常与营俱行于阴阳各二十五度为一周，故日夜五十周而复始，大会于手太阴。</p>
+<p>　　曰∶人有热饮食下胃，其气未定，则汗出于面，或出于背，或出于身半，其不循卫气之道而出何也？曰∶此外伤于风，内开腠理，毛蒸理泄，卫气走之，固不得循其道，此气悍滑疾见开而出，故不得从其道，名曰漏泄。中焦亦并于胃口，出上焦之后，此所以受气，泌糟粕，蒸津液，化其精微，上注于肺，乃化而为血，以奉生身，莫贵于此，故独得行于经隧，命曰营。</p>
+<p>　　曰∶血之与气，异名同类何也？曰∶营卫者精气也，血者神气也，故血之与气，异名同类也。故夺血者无汗，夺汗者无血，故人有两死而无两生也。下焦者，别于回肠，注于膀胱而渗入焉。故水谷者，常并居于胃中，成糟粕而俱下于大肠，而为下焦，渗而俱下，渗泄别汁，循下焦而渗入膀胱也。</p>
+<p>　　曰∶人饮酒，酒亦入胃，米未熟而小便独先下者何也？曰∶酒者熟谷之液也，其气悍以滑（一作清），故后谷而入，先谷而液出也。故曰上焦如雾，中焦如沤，下焦如渎，此之谓也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12509.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12511.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

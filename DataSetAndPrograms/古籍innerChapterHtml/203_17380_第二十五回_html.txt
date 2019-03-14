@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第二十五回_古诗文网
+</title>
+<meta content="钟吕鹤岭传道却说洞宾在岭问曰：“仙可为乎？”钟离曰：“修之则为仙，不修则为鬼，顾仙有五等，功有三成，在人修持何如耳。”吕曰：“何为三成五等？”曰：“凡行法有三成者，小成、中成、大成" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17380.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第二十五回</b></span>
+<a href="javascript:PlayBookv(17380)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17380" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17380" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>钟吕鹤岭传道</strong></p>
+<p>　　却说洞宾在岭问曰：“仙可为乎？”钟离曰：“修之则为仙，不修则为鬼，顾仙有五等，功有三成，在人修持何如耳。”</p>
+<p>　　吕曰：“何为三成五等？”曰：“凡行法有三成者，小成、中成、大成之不同也。仙有五等者，鬼仙、人仙、地仙、神仙、天仙也。”</p>
+<p>　　吕曰：“何谓鬼仙。”钟曰：“鬼仙者，五行之下，阴中超脱，神象不明，鬼间无性，三山无名，虽不入轮回，亦难如蓬岛。终无所归，止于投胎就舍而已。”</p>
+<p>　　吕曰：“鬼仙有何术何功而至？”钟曰：“修持之人，始也不悟大道，而但求速成，形如槁木，色若死灰。神识内守，一志不散，定中以出阴神，乃清灵之鬼，非纯阳之仙。以真一志阴灵不散，故曰鬼仙。”</p>
+<p>　　吕曰：“何谓人仙？”钟曰：“修真之士，不悟上乘大道，道中得一法，法中得一术，信心苦志，终世不改，神气日清，形骸日固，人间之疫不能为害，乃曰人仙。”</p>
+<p>　　吕曰：“何谓地仙？”钟曰：“始也，法天地升降之理，取日月生成之数，身中用年月，日中用时刻，先识龙虎，次配坎离，辨水源清浊，分气候早晚，察二仪，判三元，分四象，判五行，定六气，聚七宝，序八卦，行九五，炼形注世，而得长生，故曰地仙。”</p>
+<p>　　吕曰：“何谓神仙？”钟曰：“神仙者，以地仙厌居尘世，用功不已，而精金炼质，玉液还丹，炼形成气，而五气朝元，三阳聚顶，功满形忘。入仙自化，阴尽阳纯，身外有身，脱质升仙，趔凡入圣，灭绝尘俗，以返三山，乃曰神仙。”</p>
+<p>　　吕曰：“何谓天仙？”钟曰：“神仙厌居三岛，而传道人间，道德有功，而入道有行，功行满足，受天书以往三十六洞天，而返八十一阳；天在八十二阳，天而返三清虚无自然之界。故曰天仙。”</p>
+<p>　　吕曰：“鬼侧不求，天仙亦不敢望也。地仙、人仙、神仙之法，可得闻乎？”钟曰：“凡人仙不出小成法，凡地仙不出中成法，凡神仙不出大成法，此是三成之数，其实一也。用汝求道，人固不难，以道求仙，仙不出远。”</p>
+<p>　　二人相语，累日不倦。钟于是悉传以上真秘诀。</p>
+<p>　　有郑思远者，善律历，晚师葛孝先受诸经，并丹法，居乌迹山中。山有虎生二子，虎母为人杀，虎父惊逸，虎子号，郑思远持归养之。后虎父来至思远家，跪谢之，即依思远不去。后思远每出行，即骑虎父，虎子负其医书。有友人许亿患牙痛，因请思远来医，欲远以虎须数条置牙间，则思远为授之，虎伏不动。后仙去为丹阳真人，是时同太上施真人由东南远虚而至，相揖而坐。施真人曰：“侍者何人？”云房曰：“海州吕谊之子。”因命洞宾拜二仙。思远曰：“形清神在，目秀精全，真心学道也。”</p>
+<p>　　去后，云房谓曰：“吾朝元有期，当奏汝功行于仙籍。汝亦不久居于此，后十年洞庭湖相见。吾门金简玉符，及金丹数粒，传授于汝。”少间，有一仙奉金简玉符，语云房曰：“上帝用汝为九重金阙上仙，当即行。”云房谓洞宾曰：“吾赴帝诏，汝好在人间修真功德，他时亦当如我。”洞宾再拜曰：“吕之志异于先生，必须度尽天下众生，方愿上界也。”于是云房乘云冉冉而去。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17379.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17381.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

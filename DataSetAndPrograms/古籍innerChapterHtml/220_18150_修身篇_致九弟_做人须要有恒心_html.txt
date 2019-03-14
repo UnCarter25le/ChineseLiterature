@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·修身篇·致九弟·做人须要有恒心_古诗文网
+</title>
+<meta content="沅甫九弟左右：十二日正七、有十归，接弟信，备悉一切。定湘营既至三曲滩，其营官成章鉴亦武弁中之不可多得者，弟可与之款接。来书谓“意趣不在此，则兴会索然”，此却大不可。凡人作一事，便须" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18150.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>修身篇·致九弟·做人须要有恒心</b></span>
+<a href="javascript:PlayBookv(18150)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18150" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18150" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　沅甫九弟左右：</p>
+<p>　　十二日正七、有十归，接弟信，备悉一切。定湘营既至三曲滩，其营官成章鉴亦武弁中之不可多得者，弟可与之款接。来书谓“意趣不在此，则兴会索然”，此却大不可。凡人作一事，便须全副精神往在此一事，首尾不懈。不可见异思迁，做这样想那样，坐这山望那山。人而无恒，终身一无所成，我生平坐犯无恒的弊病，实在受害不校当翰林时，应留心诗字，则好涉猎他书，以纷其志；读性理书时，则杂以诗文各集，以歧其趋。在六部时，又不甚实力讲求公事。在外带兵，又不能竭力专治军事，或读书写字以乱其志意。坐是垂老而百无一成，即水军一事，亦掘井九仞而不及泉弟当以为鉴戒。</p>
+<p>　　现在带勇，即埋头尽力以求带勇之法，早夜孽孽，日所思，夜所梦，舍带勇以外则一概不管。不可又想读书，又想中举，又想作州县，纷纷扰扰，干头万绪，将来又蹈我之覆辙，百无一成，悔之晚矣。</p>
+<p>　　带勇之法，以体察人才为第一，整顿营规、讲求战守次之，《得胜歌》中各条，一一皆宜详求。至于口粮一事，不宜过于忧虑，不可时常发禀。弟章既得楚局每月六千，又得江局月二三千，便是极好境遇。李希庵十二来家，言迪庵意欲帮弟饷万金。又余有浙盐赢馀万五千两在江省，昨盐局专丁前来禀沟，余嘱其解交藩库充饷，将来此款或可酌解弟营，但弟不宜指请耳。</p>
+<p>　　饷项既不劳心，全剧精神讲求前者数事，行有馀力则联络各营，款接绅士。身体虽弱，却不宜过于爱惜。精神愈用则愈出，阳气愈提则愈盛。每日作事愈多，则夜间临睡愈快活。若存一爱惜精神的意思，将前将却，奄奄无气，决难成事——凡此，皆因弟兴会索然之言而切戒之者也。</p>
+<p>　　弟宜以李迪庵为法，不慌不忙，盈科后进，到八九个月后，必有一番回甘滋味出来。余生平坐无恒流弊极大，今老矣，不能不教诫吾弟吾子。</p>
+<p>　　邓先生品学极好，甲三八股文有长进，亦山先生亦请邓改文。亦山教书严肃，学生甚为畏惮。吾家戏言戏动积习，明年喜在家，当与两先生尽改之。</p>
+<p>　　下游镇江、瓜洲同日克夏，金陵指日可克。厚庵放闽中提督，已赴金陵会剿，准其专招奏事。九江亦即日可复。大约军事在吉安、抚、建等府结局，贤弟勉之。</p>
+<p>　　吾为其始，弟善其终，实有厚望。若稍参以客气，将以鼓志，则不能为我增气也。</p>
+<p>　　营中哨队请人气尚完固否？下次祈书及。（咸丰七年十二月十四日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18149.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18151.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

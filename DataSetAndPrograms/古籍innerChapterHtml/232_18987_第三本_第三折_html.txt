@@ -1,0 +1,116 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西厢记·第三本·第三折_古诗文网
+</title>
+<meta content="﻿　　[红上云]今日小姐着我寄书与张生，当面偌多般假意儿，原来诗内暗约着他来。小姐也不对我说，我也不瞧破他，则请他烧香。今夜晚妆处比每日较别，我看他到其间怎的瞒我？[红唤科]姐姐，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18987.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第三本·第三折</b></span>
+<a href="javascript:PlayBookv(18987)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18987" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18987" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e5%ae%9e%e7%94%ab">王实甫</a></p>
+<div class="contson">
+<p>﻿　　[红上云]今日小姐着我寄书与张生，当面偌多般假意儿，原来诗内暗约着他来。小姐也不对我说，我也不瞧破他，则请他烧香。今夜晚妆处比每日较别，我看他到其间怎的瞒我？[红唤科]姐姐，咱烧香去来。[旦上云]花阴重叠香风细，庭院深沉淡月明。[红云]今夜月明风清，好一派景致也呵！</p>
+<p>　　[双调][新水令]晚风寒峭透窗纱，控金钩绣帘不挂。门阑凝暮霭，楼角敛残霞。恰对菱花，楼上晚妆罢。</p>
+<p>　　[驻马听]不近喧哗，嫩绿池溏藏睡鸭；自然幽雅，淡黄杨柳带栖鸦。金莲蹴损牡丹芽，玉簪抓住荼蘼架。夜凉苔径滑，露珠儿湿透了凌波袜。</p>
+<p>　　我看那生和俺小姐巴不得到晚。</p>
+<p>　　[乔牌儿]自从那日初时想月华，捱一刻似一夏；见柳梢斜日迟迟下，早道“好教贤圣打”。</p>
+<p>　　[搅筝琶]打扮的身子儿诈，准备着云雨会巫峡。只为这燕侣莺俦，锁不住心猿意马。不则俺那姐姐害，那生呵！二三日来水米不粘牙。因姐姐闭月羞花，真假、这其间性儿难按纳，一地里胡拿。</p>
+<p>　　姐姐这湖山下立地，我开了寺里角门儿。怕有人听俺说话，我且看一看。[做意了]偌早晚傻角却不来，赫赫赤赤，来。[末云]这其间正好去也，赫赫赤赤。[红云]那鸟来了。</p>
+<p>　　[沉醉东风]我则道槐影风摇暮鸦，原来是玉人帽侧乌纱。一个潜身在曲槛边，一个背立在湖山下；那里叙寒温，并不曾打话。[红云]赫赫赤赤，那鸟来了。[末云]小姐，你来也。[搂住红科][红云]禽兽，是我，你看得好仔细着，若是夫人怎了。[末云]小生害得眼花，搂得慌了些儿，不知是谁，望乞恕罪！[红唱]便做道搂得慌呵，你好索觑咱，多管是饿得你个穷神眼花。</p>
+<p>　　[末云]小姐在那里？[红云]在湖山下，我问你咱。真个着你来哩？[末云]小生猜诗谜社家，风流隋何，浪子陆贾，准定扢扎帮便倒地。[红云]你休从门里去，则道我使你来。你跳过这墙去，今夜这一弄助你两个成亲。我说与你，依着我者。</p>
+<p>　　[乔牌儿]你看那淡云笼月华，似红纸护银蜡；柳丝花朵垂帘下，绿莎茵铺着绣榻。</p>
+<p>　　[甜水令]良夜迢迢，闲庭寂静，花枝低亚。他是个女孩儿家，你索将性儿温存，话儿摩弄，意儿谦洽；休猜做败柳残花。</p>
+<p>　　[折桂令]他是个娇滴滴美玉无瑕，粉脸生春，云鬓堆鸦。恁的般受怕担惊，又不图甚浪酒闲茶。则你那夹被儿时当奋发，指头儿告了消乏；打叠起嗟呀，毕罢了牵挂，收拾了忧愁，准备着撑达。</p>
+<p>　　[末做跳墙搂旦科][旦云]是谁？[末云]是小生。[旦怒云]张生，你是何等之人！我在这里烧香，你无故至此；若夫人闻知，有何理说！[末云]呀，变了卦也！[红唱]</p>
+<p>　　[锦上花]为甚媒人，心无惊怕；赤紧的夫妻每，意不争差。我这里蹑足潜踪，悄地听咱：一个羞惭，一个怒发。</p>
+<p>　　[幺篇]张生无一言，呀，莺莺变了卦。一个悄悄冥冥，一个絮絮答答。却早禁住隋何，迸住陆贾，叉手躬身，妆聋做哑。</p>
+<p>　　张生背地里嘴那里去了？向前搂住丢翻，告到官司，怕羞了你！</p>
+<p>　　[清江引]没人处则会闲嗑牙，就里空奸诈。怎想湖山边，不记“西厢下”。香美娘处分破花木瓜。</p>
+<p>　　[旦]红娘，有贼。[红云]是谁？[末云]是小生。[红云]张生，你来这里有甚么勾当？[旦云]扯到夫人那里去！[红云]到夫人那里，怕坏了他行止。我与姐姐处分他一场。张生，你过来跪着！你既读孔圣之书，必达周公之礼，夤夜来此何干？</p>
+<p>　　[雁儿落]不是俺一家儿乔作衙，说几句衷肠话。我则道你文学海样深，谁知你色胆有天来大？</p>
+<p>　　[红云]你知罪么？[末云]小生不知罪。[红唱]</p>
+<p>　　[得胜令]谁着你夤夜入人家，非奸做贼拿。你本是个折桂客，做了偷花汉；不想去跳龙门，学骗马。姐姐，且看红娘面饶过这生者！[旦云]若不看红娘面，扯你到夫人那里去，看你有何面目见江东父老？起来！[红唱]谢小姐贤达，看我面遂情罢。若到官司详察，“你既是秀才，只合苦志于寒窗之下，谁教你夤夜辄入人家花园，做得个非奸即盗。”先生呵，准备精皮肤吃顿打。</p>
+<p>　　[旦云]先生虽有活人之恩，恩则当报。既为兄妹，何生此心？万一夫人知之，先生何以自安？今后再勿如此，若更为之，与足下决无干休。[下][末朝鬼门道云]你着我来，却怎么有偌多说话！[红扳过末云]羞也，羞也，却不“风流隋何，浪子陆贾”？[末云]得罪波“社家”，今日便早则死心塌地。[红唱]</p>
+<p>　　[离亭宴带歇指煞]再休题“春宵一刻千金阶”，准备着“寒窗更守十年寡”。猜诗谜的社家，拍了“迎风户半开”，山障了“隔墙花影动”，绿惨了“待月西厢下”。你将何郎粉面搽，他自把张敞眉儿画。强风情措大，晴干了尤云滞雨心，悔过了窃玉偷香胆，删抹了倚翠偎红话。[末云]小生再写一简，烦小娘子将去，以尽衷情如何？[红唱]淫词儿早则休，简帖儿从今罢。犹古自参不透风流调法。从今后悔罪也卓文君，你与我游学去波汉司马。[下]</p>
+<p>　　[末云]你这小姐送了人也！此一念小生再不敢举，奈有病体日笃，将如之奈何？夜来得简方喜，今日强扶至此，又值这一场怨气，眼见得休也。只索回书房中纳闷去。桂子闲中落，槐花病里看。[下]</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18986.aspx">上一章</a>
+<a href="/guwen/book_232.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18988.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

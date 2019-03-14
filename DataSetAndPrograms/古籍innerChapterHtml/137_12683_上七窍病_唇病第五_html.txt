@@ -1,0 +1,138 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·上七窍病·唇病第五_古诗文网
+</title>
+<meta content="（甲煎法二首，方二十首，灸法二首）润脾膏　　治脾热唇焦枯无润方。生地黄汁（一升） 生麦门冬（四两） 生天门冬（切一升） 葳蕤（四两） 细辛 甘草 川芎白术（各二两） 黄 升麻（各三" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12683.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上七窍病·唇病第五</b></span>
+<a href="javascript:PlayBookv(12683)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12683" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12683" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（甲煎法二首，方二十首，灸法二首）</span></p>
+<p>　　<strong>润脾膏<br/></strong>　　<strong>治脾热唇焦枯无润方</strong>。</p>
+<p>　　生地黄汁（一升） 生麦门冬（四两） 生天门冬（切一升） 葳蕤（四两） 细辛 甘草 川芎白术（各二两） 黄 升麻（各三两） 猪膏（三升）</p>
+<p>　　上十一味 咀，诸药苦酒淹一宿，绵裹药，临煎下生地黄汁，与猪膏共煎取膏鸣，水气尽去滓，取细细含之。</p>
+<p>　　<strong>甲煎唇脂<br/>　　治唇裂口臭方。</strong></p>
+<p>　　先以麻捣泥，泥两口好瓷瓶，容一斗以上，各浓半寸曝令干。</p>
+<p>　　甘松香（五两） 艾纳香 苜蓿香 茅香（各一两） 藿香（三两） 零陵香（四两）</p>
+<p>　　上六味先以酒一升，水五升相和作汤，洗香令净，切之，又以酒水各一升浸一宿，明旦纳于一斗五升乌麻油中，微火煎之，三上三下，去滓，纳上件一口瓶中，令少许不满，然后取∶</p>
+<p>　　？两） 丁香（一两） 麝香（一两） 甲香（一两）</p>
+<p>　　上八味，先酒水相和作汤，洗香令净，各别捣碎，不用绝细，以蜜二升、酒一升和香，纳上件瓷瓶中令实满，以绵裹瓶口，又以竹篾交横约之，勿令香出。先掘地埋上件油瓶，令口与地平，以香瓶合覆油瓶上，令两口相当，以麻捣泥泥两瓶口际，令牢密，可浓半寸许，用糠壅瓶上，浓五寸，烧之，火欲尽，即加糠，三日三夜，勿令火绝，计糠十二石讫，停三日，令冷出之。别炼蜡八斤，煮数沸，纳紫草十二两煎之，数十沸，取一茎紫草向爪甲上研看紫草骨白，出之。又以绵滤过与前煎相和，令调，乃纳朱砂粉六两，搅令相得，少冷未凝之间，倾竹筒中纸裹筒上麻缠之，待凝冷解之，任意用之，计此可得五十挺。</p>
+<p>　　<strong>甲煎口脂，治唇白无血色及口臭方。</strong></p>
+<p>　　<strong>烧香泽法</strong></p>
+<p>　　沉香 甲香 丁香 麝香 檀香 苏合香 薰陆香 零陵香 白胶香 藿香 甘松香 泽兰上十二味各六两，胡麻油五升，先煎油令熟，乃下白胶、藿香、甘松、泽兰，少时下火，绵滤纳瓷瓶中，余八种香捣作末，以蜜和，勿过湿，纳着一小瓷瓶中令满，以绵幕口，竹十字络之。以小瓶覆大瓶上，两口相合，密泥泥之。乃掘地埋油瓶，令口与地平，乃聚干牛粪烧之，七日七夜不须急，满十二日烧之弥佳，待冷出之即成。其瓶并须熟泥匀浓一寸，曝干，乃可用，（一方用糠火烧之。</p>
+<p>　　<strong>炼蜡合甲煎法</strong></p>
+<p>　　蜡（二两） 紫草（二两）</p>
+<p>　　上先炼蜡，令消，乃纳紫草煮之，少时候看，以紫草于指甲上研之，紫草心白即出之，下蜡，勿令凝，即倾弱一合甲煎于蜡中，均搅之讫，灌筒中，则勿触动之，冷凝乃取之，便成好口脂也。敷口面，日三。</p>
+<p>　　<strong>治紧唇方。</strong></p>
+<p>　　缠白布作大灯炷如指，安斧刃上，燃炷令刃汗出，拭以敷唇上，日二三度，故青布亦佳，并治沈唇。</p>
+<p>　　<strong>又方</strong> 青布灰以酒服之，亦可脂和涂。</p>
+<p>　　<strong>又方</strong> 以蛇皮拭之，烧为灰，敷之。</p>
+<p>　　<strong>又方</strong> 水服蛴螬灰，良。</p>
+<p>　　<strong>又方</strong> 自死蝼蛄灰敷之。</p>
+<p>　　<strong>又方</strong> 又火炙蜡贴唇上，瘥。</p>
+<p>　　<strong>又方</strong> 炙松脂粘贴，瘥。</p>
+<p>　　紧唇，灸虎口，男左女右。</p>
+<p>　　又灸承浆三壮。</p>
+<p>　　治沈唇方。</p>
+<p>　　以干蛴螬烧末和猪脂，临卧敷之。</p>
+<p>　　<strong>又方</strong> 烧鳖甲及头，令烟尽，末敷之，日三。</p>
+<p>　　治唇生疮方。</p>
+<p>　　以头垢敷之，日三。</p>
+<p>　　<strong>又方</strong> 以胡粉敷之。</p>
+<p>　　治唇边生疮，连年不瘥方。</p>
+<p>　　以八月蓝叶十斤绞取汁洗，不过三日瘥。</p>
+<p>　　<strong>治唇生核方。</strong></p>
+<p>　　猪屎平量一升，以水投，绞取汁，温服之。</p>
+<p>　　<strong>治唇舌忽生疮方。</strong></p>
+<p>　　烧鸡屎白末，以布裹着病上，含之。</p>
+<p>　　治唇黑肿、痛痒不可忍方。</p>
+<p>　　取大钱四文于石上，以腊月猪脂磨取汁，涂之。</p>
+<p>　　<strong>又方</strong> 以竹弓弹之，出其恶血，瘥。</p>
+<p>　　<strong>又方</strong>∶烧乱发及蜂房、六畜毛，作灰，猪脂和敷之，亦治沈唇。</p>
+<p>　　<strong>治冬月唇干坼、血出方。</strong></p>
+<p>　　捣桃仁，以猪脂和，敷之。</p>
+<p>　　治远行唇口面皴裂方。</p>
+<p>　　熟煎猪脂，将行夜，常敷面卧，行万里，野宿不损。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12682.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12684.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

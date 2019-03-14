@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·赵三·秦攻赵于长平_古诗文网
+</title>
+<meta content="秦攻赵于长平，大破之，引兵而归。因使人索六城于赵而讲。赵计未定，楼缓新从秦来，赵王与楼缓计之曰：“与秦城何如?不与何如?”楼缓辞让曰：“此非人臣之所能知也。”王曰：“虽然，试言公之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4599.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3875" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>赵三·秦攻赵于长平</b></span>
+<a href="javascript:PlayBookv(4599)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4599" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3875)" id="leftbtn3875" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4599" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　秦攻赵于长平，大破之，引兵而归。因使人索六城于赵而讲。赵计未定，楼缓新从秦来，赵王与楼缓计之曰：“与秦城何如?不与何如?”楼缓辞让曰：“此非人臣之所能知也。”王曰：“虽然，试言公之私。”楼缓曰：”王亦闻夫公甫文伯母乎?公甫文伯官于鲁，病死。妇人为之自杀于房中者二人。其母闻之，不肯哭也。相室曰：‘焉有子死而不哭者乎?’其母曰：‘孔子，贤人也，逐于鲁，是人不随。今死，而妇人为死者十六人。若是者，其于长者薄，而于妇人厚?’故从母言之，之为贤母也；从妇言之，必不免为妒妇也。故其言一也，言者异，则人心变矣。今臣新从秦来，而言勿与，则非计也；言与之，则恐王以臣之为秦也。故不敢对。使臣得为王计之，不如予之。”王曰：“诺。”</p>
+<p>　　虞卿闻之，入见王，王以楼缓言告之。虞卿曰：“此饰说也。”秦既解邯郸之围，而赵王入朝，使赵郝约事于秦，割六县而讲。王曰：“何谓也?”虞卿曰：“秦之攻赵也，倦而归乎?王以其力尚能进，爱王而不攻乎？”王曰：“秦之攻我也，不遗余力矣，必以倦而归也。”虞卿曰：“秦以其力攻其所不能取，倦而归。王又以其力之所不能攻以资之，是助秦自攻也。来年秦复攻王，王无以救矣。”</p>
+<p>　　王又以虞卿之言告楼缓。楼缓曰：“虞卿能尽知秦力之所至乎？诚知秦力之不至，此弹丸之地，犹不予也，令秦来年复攻王，得无割其内而媾乎?”王曰：“诚听子割矣，子能必来年秦之不复攻我乎?”楼缓对曰：“此非臣之所敢任也。昔者三晋之交于秦，相善也，今秦释韩、魏而独攻王，王之所以事秦必不如韩、魏也。今臣为足下解负亲之攻，启关通敝，齐交韩、魏。至来年而王独不取于秦，王之所以事秦者，必在韩、魏之后也。此非臣之所敢任也。”</p>
+<p>　　王以楼缓之言告。虞卿曰：“楼缓言不媾，来年秦复攻王，得无更割其内而媾。今媾，楼缓又不能必秦之不复攻也，虽割何益?来年复攻，又割其力之所不能取而媾也，此自尽之术也。不如无媾。秦虽善攻，不能取六城；赵虽不能守，而不至失六城。秦倦而归，兵必罢。我以五城收天下以攻罢秦，是我失之于天下，而取偿于秦也，吾国尚利，孰与坐而割地，自弱以强秦?今楼缓曰：‘秦善韩、魏而攻赵者，必王之事秦不如韩、魏也。’是使王岁以六城事秦也，即坐而地尽矣。来年秦复求割地，王将予之乎?不与，则是弃前贵而挑秦祸也；与之，则无地而给之。语曰：‘强者善攻，而弱者不能自守。’今坐而听秦，秦兵不敝而多得地，是强秦而弱赵也。以益愈强之秦，而割愈弱之赵，其计固不止矣。且秦虎狼之国也，无礼义之心。其求无已，而王之地有尽。以有尽之地给无已之求，其势必无赵矣。故曰：此饰说也。王必勿与。”王曰：“诺。”</p>
+<p>　　楼缓闻之，入见于王，王又以虞卿言告之。楼缓曰：“不然。虞卿得其一，未知其二也。夫秦、赵构难，而天下皆说，何也?曰：‘我将因强而乘弱。’今赵兵困于秦，天下之贺战者，则必尽在于秦矣。故不若亟割地求和，以疑天下，慰秦心。不然，天下将因秦之怒，秦赵之敝而瓜分之，赵且亡，何秦之图?王以此断之，勿复计也。”</p>
+<p>　　虞卿闻之，又入见王曰：“危矣，楼子之为秦也!夫赵兵困于秦，又割地求和，是愈疑天下，而何慰秦心哉?是不亦大示天下弱乎?且臣曰勿予者，非固勿予而已也。秦索六城于王，王以五城赂齐。齐，秦之深仇也，得王五城，并力而西击秦也，齐之听王，不待辞之毕也。是王失于齐而取偿于秦，一举结三国之亲，而与秦易道也。”赵王曰：“善!”因发虞卿东见齐王，与之谋秦。</p>
+<p>　　虞卿未反，秦之使者已在赵矣。楼缓闻之，逃去。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4598.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4600.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3875" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

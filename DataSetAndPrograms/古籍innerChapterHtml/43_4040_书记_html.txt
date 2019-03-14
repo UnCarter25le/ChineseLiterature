@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·书记_古诗文网
+</title>
+<meta content="大舜云∶“书用识哉！”所以记时事也。盖圣贤言辞，总为之书，书之为体，主言者也。扬雄曰∶“言，心声也；书，心画也。声画形，君子小人见矣。”故书者，舒也。舒布其言，陈之简牍，取象于夬，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4040.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2634" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>书记</b></span>
+<a href="javascript:PlayBookv(4040)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4040" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2634)" id="leftbtn2634" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4040" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　大舜云∶“书用识哉！”所以记时事也。盖圣贤言辞，总为之书，书之为体，主言者也。扬雄曰∶“言，心声也；书，心画也。声画形，君子小人见矣。”故书者，舒也。舒布其言，陈之简牍，取象于夬，贵在明决而已。</p>
+<p>　　三代政暇，文翰颇疏。春秋聘繁，书介弥盛。绕朝赠士会以策，子家与赵宣以书，巫臣之遗子反，子产之谏范宣，详观四书，辞若对面。又子叔敬叔进吊书于滕君，固知行人挈辞，多被翰墨矣。及七国献书，诡丽辐辏；汉来笔札，辞气纷纭。观史迁之《报任安》，东方之《谒公孙》，杨恽之《酬会宗》，子云之《答刘歆》，志气槃桓，各含殊采；并杼轴乎尺素，抑扬乎寸心。逮后汉书记，则崔瑗尤善。魏之元瑜，号称翩翩；文举属章，半简必录；休琏好事，留意词翰，抑其次也。嵇康《绝交》，实志高而文伟矣；赵至叙离，乃少年之激切也。至如陈遵占辞，百封各意；弥衡代书，亲疏得宜：斯又尺牍之偏才也。</p>
+<p>　　详总书体，本在尽言，言所以散郁陶，托风采，故宜条畅以任气，优柔以怿怀；文明从容，亦心声之献酬也。若夫尊贵差序，则肃以节文。战国以前，君臣同书，秦汉立仪，始有表奏，王公国内，亦称奏书，张敞奏书于胶后，其义美矣。迄至后汉，稍有名品，公府奏记，而郡将奉笺。记之言志，进己志也。笺者，表也，表识其情也。崔寔奏记于公府，则崇让之德音矣；黄香奏笺于江夏，亦肃恭之遗式矣。公幹笺记，丽而规益，子桓弗论，故世所共遗。若略名取实，则有美于为诗矣。刘廙谢恩，喻切以至，陆机自理，情周而巧，笺之为美者也。原笺记之为式，既上窥乎表，亦下睨乎书，使敬而不慑，简而无傲，清美以惠其才，彪蔚以文其响，盖笺记之分也。</p>
+<p>　　夫书记广大，衣被事体，笔札杂名，古今多品。是以总领黎庶，则有谱籍簿录；医历星筮，则有方术占式；申宪述兵，则有律令法制；朝市征信，则有符契券疏；百官询事，则有关刺解牒；万民达志，则有状列辞谚：并述理于心，著言于翰，虽艺文之末品，而政事之先务也。</p>
+<p>　　故谓谱者，普也。注序世统，事资周普，郑氏谱《诗》，盖取乎此。籍者，借也。岁借民力，条之于版，春秋司籍，即其事也。簿者，圃也。草木区别，文书类聚，张汤、李广，为吏所簿，别情伪也。录者，领也。古史《世本》，编以简策，领其名数，故曰录也。方者，隅也。医药攻病，各有所主，专精一隅，故药术称方。术者，路也。算历极数，见路乃明，《九章》积微，故以为术，《淮南》、《万毕》，皆其类也。占者，觇也。星辰飞伏，伺候乃见，登观书云，故曰占也。式者，则也。阴阳盈虚，五行消息，变虽不常，而稽之有则也。律者，中也。黄钟调起，五音以正，法律驭民，八刑克平，以律为名，取中正也。令者，命也。出命申禁，有若自天，管仲下令如流水，使民从也。法者，象也。兵谋无方，而奇正有象，故曰法也。制者，裁也。上行于下，如匠之制器也。符者，孚也。征召防伪，事资中孚。三代玉瑞，汉世金竹，末代从省，易以书翰矣。契者，结也。上古纯质，结绳执契，今羌胡征数，负贩记缗，其遗风欤！券者，束也。明白约束，以备情伪，字形半分，故周称判书。古有铁券，以坚信誓；王褒髯奴，则券之谐也。疏者，布也。布置物类，撮题近意，故小券短书，号为疏也。关者，闭也。出入由门，关闭当审；庶务在政，通塞应详。韩非云∶“孙亶回，圣相也，而关于州部。”盖谓此也。刺者，达也。诗人讽刺，周礼三刺，事叙相达，若针之通结矣。解者，释也。解释结滞，征事以对也。牒者，叶也。短简编牒，如叶在枝，温舒截蒲，即其事也。议政未定，故短牒咨谋。牒之尤密，谓之为签。签者，纤密者也。状者，貌也。体貌本原，取其事实，先贤表谥，并有行状，状之大者也。列者，陈也。陈列事情，昭然可见也。辞者，舌端之文，通己于人。子产有辞，诸侯所赖，不可已也。谚者，直语也。丧言亦不及文，故吊亦称谚。廛路浅言，有实无华。邹穆公云“囊漏储中”，皆其类也。《牧誓》曰∶“古人有言，牝鸡无晨。”《大雅》云“人亦有言”、“惟忧用老”，并上古遗谚，《诗》《书》所引者也。至于陈琳谏辞，称“掩目捕雀”，潘岳哀辞，称“掌珠”、“伉俪”，并引俗说而为文辞者也。夫文辞鄙俚，莫过于谚，而圣贤《诗》《书》，采以为谈，况逾于此，岂可忽哉！</p>
+<p>　　观此众条，并书记所总∶或事本相通，而文意各异，或全任质素，或杂用文绮，随事立体，贵乎精要；意少一字则义阙，句长一言则辞妨，并有司之实务，而浮藻之所忽也。然才冠鸿笔，多疏尺牍，譬九方堙之识骏足，而不知毛色牝牡也。言既身文，信亦邦瑞，翰林之士，思理实焉。</p>
+<p>　　赞曰∶</p>
+<p>　　文藻条流，托在笔札。既驰金相，亦运木讷。</p>
+<p>　　万古声荐，千里应拔。庶务纷纶，因书乃察。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4039.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4041.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2634" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

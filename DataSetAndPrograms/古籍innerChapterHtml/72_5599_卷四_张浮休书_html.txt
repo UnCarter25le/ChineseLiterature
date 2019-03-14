@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+容斋随笔·卷四·张浮休书_古诗文网
+</title>
+<meta content="张芸叟《与石司理书》云：“顷游京师，求谒先达之门，每听欧阳文忠公、司马温公、王荆公之论，于行义文史为多，唯欧阳公多谈吏事。既久之，不免有请：‘大凡学者之见先生，莫不以道德文章为欲闻" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5599.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3976" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·张浮休书</b></span>
+<a href="javascript:PlayBookv(5599)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5599" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3976)" id="leftbtn3976" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5599" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b4%aa%e8%bf%88">洪迈</a></p>
+<div class="contson">
+<p>　　张芸叟《与石司理书》云：“顷游京师，求谒先达之门，每听欧阳文忠公、司马温公、王荆公之论，于行义文史为多，唯欧阳公多谈吏事。既久之，不免有请：‘大凡学者之见先生，莫不以道德文章为欲闻者，今先生多教人以吏事，所未谕也。’公曰：‘不然。吾子皆时才，异日临事，当自知之。大抵文学止于润身，政事可以及物。吾昔贬官夷陵，方壮年，未厌学，欲求《史》、《汉》一观，公私无有也。无以遣日，因取架阁陈年公案，反覆观之，见其枉直乖错不可胜数，以无为有，以枉为直，违法徇情，灭亲害义，无所不有。且夷陵荒远褊小，尚如此，天下固可知也。当时仰天誓心曰：自尔遇事不敢忽也。’是时苏明允父子亦在焉，尝闻此语。”又有答孙子发书，多论《资治通鉴》，其略云：“温公尝曰：“吾作此书，唯王胜之尝阅之终篇，自余君子求乞欲观，读未终纸，已欠伸思睡矣。书十九年方成，中间受了人多少语言陵藉’”云云。此两事，士大夫罕言之，《浮休集》百卷，无此二篇。今豫章所刊者，附之集后。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5598.aspx">上一章</a>
+<a href="/guwen/book_72.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5600.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3976" style="width:580px; display:none;"></div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

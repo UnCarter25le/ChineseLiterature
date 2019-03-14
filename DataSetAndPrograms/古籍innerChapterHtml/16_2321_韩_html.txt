@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·韩_古诗文网
+</title>
+<meta content="历史来源「韩」源出 ;一 ; 出自「姬」姓。以邑为氏。据《通志。氏族略》所载，周成王分封其第叔虞于唐邑 (山西翼城 )。因邻晋水，叔虞之子燮( 音 谢 )继位后，称为晋侯。晋穆侯之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2321.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>韩</b></span>
+<a href="javascript:PlayBookv(2321)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2321" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2321" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong></p>
+<p>　　「韩」源出 ;</p>
+<p>　　一 ; 出自「姬」姓。以邑为氏。据《通志。氏族略》所载，周成王分封其第叔虞于唐邑 (山西翼城 )。因邻晋水，叔虞之子燮( 音 谢 )继位后，称为晋侯。晋穆侯之孙毕万受封于韩原 ( 陜西韩城 )，其后逐有韩氏。</p>
+<p>　　二 ; 以国为氏。战国七雄之一有韩国，三家分晋以后，于前403年由周威烈王承认为诸侯，建都阳翟 ( 今河南新郑县 )。前 230 年，韩国被秦国攻灭。国族后人有的以「韩」为氏。</p>
+<p>　　三 ; 据《魏书．官氏志》所载，北魏有代北三字姓「出大汗」氏，后改为汉字单姓「韩」氏。</p>
+<p><strong>家族名人</strong></p>
+<p>　　韩非 （？～前234)</p>
+<p>　　战国时韩国的诸公子之一。喜刑名法术之学，而归本于黄老，为人口吃而不能流利地辩说，与李斯同受业于荀卿。曾以书谏韩王而不见用，于是发愤著书五十余篇，号为韩非子。文章峻严峭深，集法家之大成。后秦王攻韩，韩王遣非使秦，为李斯所谮，下狱而死。</p>
+<p>　　韩信 (？～前196）</p>
+<p>　　淮阴人，年轻时曾忍少年胯下之辱，后助汉高祖伐魏、举赵、降燕、破齐，封为齐王，后徙封楚王，高祖疑其背叛，伪作云梦之会，擒置咸阳，降封淮阴侯，终为吕后所杀。</p>
+<p>　　韩愈 （768～824）</p>
+<p>　　字退之，唐河阳人。通六经百家之学，崇儒辟佛老，文章自成一家，为后世治古文者所取法。官至吏部侍郎。祖先世居昌黎，因此自称为昌黎韩愈。卒谥文，宋代元丰年间追封为昌黎伯，世称为「韩昌黎」。门人编次其诗文为昌黎先生集。</p>
+<p>　　韩湘子</p>
+<p>　　唐朝韩愈的侄子。生性放荡不拘，不好读书，世传其学道成仙，为八仙之一。尝于初冬季节令牡丹开花数色，又尝令聚盆覆土，顷刻开花。见唐˙段成式˙酉阳杂俎˙卷十九˙广动植之四。或称为「韩湘」。</p>
+<p>　　韩世忠 （1089～1151）</p>
+<p>　　字良臣，宋延安人。高宗时，平苗傅、刘正彦之乱，破金兀朮于黄天荡，名重当时，称为中兴第一功臣。后以秦桧主和，罢其兵柄，乃口不谈兵，隐居西湖，自号清凉居士。卒谥忠武，孝宗追封蕲王。</p>
+<p>　　韩侂冑 （1151～1207）</p>
+<p>　　字节夫，宋安阳人，韩琦的曾孙。宁宗时专权十余年，官至平章军国事。专横恣肆，斥理学为伪学，使朱熹等人均获罪。后欲立功以自固，乃北伐金人，终兵败被斩首。</p>
+<p><strong>地望分布</strong></p>
+<p>　　江西豫章郡。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2320.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2322.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

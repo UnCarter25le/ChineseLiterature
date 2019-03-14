@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·战具类·火攻具篇_古诗文网
+</title>
+<meta content="经曰：以火佐攻者，明。因天时燥旱，营舍茅竹积刍穗军粮於枯草宿莽之中，月在箕、壁、翼、轸之夕，设五火之具，因南风而焚之。推月宿法，周天三百六十五度四分度之一，二十八宿四方分之月二十八" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16022.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>战具类·火攻具篇</b></span>
+<a href="javascript:PlayBookv(16022)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16022" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16022" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　经曰：以火佐攻者，明。因天时燥旱，营舍茅竹积刍穗军粮於枯草宿莽之中，月在箕、壁、翼、轸之夕，设五火之具，因南风而焚之。</p>
+<p>　　推月宿法，周天三百六十五度四分度之一，二十八宿四方分之月二十八日夜一周天行二十八宿，一日一夜行一十三度少强，皆以月中气，日月合为宿首，角十二度，亢九度，氐十五度，房五度，心五度，尾十八度，箕十一度。东方七宿，共七十五度。斗二十六度，牛八度，女十二度，虚十度，危十七度，营室十六度，东壁九度。北方七宿，共九十八度。奎十六度，娄十二度，胃十四度，昂十一度，毕十六度，觜二度，参九度。西方七宿，共八十度，东井三十三度，舆鬼四度，柳十五度，星七度，张十八度，翼十八度，轸十七度。南方七宿，共一百一十二度。</p>
+<p>　　雨水正月中，日月合宿，营室八度於辰，在亥为娵訾，於野卫分并州，於将登明。</p>
+<p>　　春分二月中，日月合宿，奎十四度於辰，在戍为降娄，於野鲁分徐州，於将河魁。</p>
+<p>　　谷雨三月中，日月合宿，昂三度於辰，在酉为大梁，於野赵分冀州，於将为从魁。</p>
+<p>　　小满四月中，日月合宿，参四度於辰，在申为实沈，於野魏分益州，於将为传送。</p>
+<p>　　夏至五月中，日月合宿，东井二十五度於辰，在未为鹑首，於野秦分雍州，於将为小吉。</p>
+<p>　　大暑六月中，日月合宿，星四度於辰，在午为鹑火，於野周分三河，於将为胜光。</p>
+<p>　　处暑七月中，日月合宿，翼九度於辰，在巳为鹑尾，於野楚分荆州，於将为太乙。</p>
+<p>　　秋分八月中，日月合宿，角四度於辰，在辰为寿星，於野郑分兖州，於将为天罡。</p>
+<p>　　霜降九月中，日月合宿，氐十四度於辰，在卯为大火，於野宋分豫州，於将为太冲。</p>
+<p>　　小雪十月中，日月合宿，箕二度於辰，在寅为析木，於野燕分幽州，於将为功曹。</p>
+<p>　　冬至十一月中，日月合宿，斗二十一度於辰，在丑为星纪，於野吴越分扬州，於将为大吉。</p>
+<p>　　大寒十二月中，日月合宿，虚五度於辰，在子为玄枵，於野齐分青州，於将为神后。</p>
+<p>　　假如正月雨水一日夜半月在营室八度，至後二日夜半行十三度少强，即至东壁五度，至後三日夜半行十三度少强，即至奎九度。顺行二十八宿，每日夜行十三度少强，二十八日一周天，其晦朔二日不见，他皆仿此。《玉门经》曰：倍月加日，从营室顺数，即知月宿所在，假令正月五日，倍月成二加五成七，从营室顺数七宿至毕，他皆仿此。然东井三十三度，觜二度，恐将不定，故为通算以决之，而用五火之具。</p>
+<p>　　火兵，以骁骑夜衔枚，缚马口，人负束薪稿草藏火，直抵贼营，一时举火，营中惊乱，急而乘之，彼静不乱，弃而勿攻。</p>
+<p>　　火兽，以艾蕴火，置瓢中，开四孔，系猪[上鹿下章]鹿项下，燃其尾端，望敌营而纵饮，使奔彼草中，器败火发。</p>
+<p>　　火禽，以胡桃剖令空，开两孔实艾，以火系野鸡足，针其尾而纵之，飞入草中，器败火发。</p>
+<p>　　火盗，选一人勇捷，语言服饰与敌同者，窃号逐便，怀火偷入营中，焚其积聚，火发，乘乱而出。</p>
+<p>　　火矢，以臂张射及三百步者，以瓢盛火冠矢端，以数百端候中夜，齐射入敌营中，焚其积聚，火发，挥乱乘便急攻。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16021.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16023.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

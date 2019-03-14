@@ -1,0 +1,114 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷三·西湖中路·十锦塘_古诗文网
+</title>
+<meta content="十锦塘，一名孙堤，在断桥下。司礼太监孙隆于万历十七年修筑。堤阔二丈，遍植桃柳，一如苏堤。岁月既多，树皆合抱。行其下者，枝叶扶苏，漏下月光，碎如残雪。意向言断桥残雪，或言月影也。苏堤" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18433.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·西湖中路·十锦塘</b></span>
+<a href="javascript:PlayBookv(18433)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18433" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18433" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　十锦塘，一名孙堤，在断桥下。司礼太监孙隆于万历十七年修筑。堤阔二丈，遍植桃柳，一如苏堤。岁月既多，树皆合抱。行其下者，枝叶扶苏，漏下月光，碎如残雪。意向言断桥残雪，或言月影也。苏堤离城远，为清波孔道，行旅甚稀。孙堤直达西泠，车马游人，往来如织。兼以西湖光艳，十里荷香，如入山阴道上，使人应接不暇。湖船小者，可入里湖，大者缘堤倚徙，由锦带桥循至望湖亭，亭在十锦塘之尽。渐近孤山，湖面宽厂。孙东瀛修葺华丽，增筑露台，可风可月，兼可肆筵设席。笙歌剧戏，无日无之。今改作龙王堂，旁缀数楹，咽塞离披，旧景尽失。再去，则孙太监生祠，背山面湖，颇极壮丽。近为卢太监舍以供佛，改名卢舍庵，而以孙东瀛像置之佛龛之后。孙太监以数十万金钱装塑西湖，其功不在苏学士之下，乃使其遗像不得一见湖光山色，幽囚面壁，见之大为鲠闷。</p>
+<p>　　袁宏道《断桥望湖亭小记》：</p>
+<p>　　湖上由断桥至苏公堤一带，绿烟红雾，弥漫二十余里。歌吹为风，粉汗为雨，罗绔之盛，多于堤畔之柳，艳冶极矣。然杭人游湖，止午、未、申三时，其实湖光染翠之工，山岚设色之妙，全在朝日始出、夕舂未下，始极其浓媚。月景尤为清艳，花态柳情，山容水意，别是一种趣味。此乐留与山僧游客受用，安可为俗士道哉！望湖亭即断桥一带，堤甚工致，比苏公堤犹美。夹道种绯桃、垂柳、芙蓉、山茶之属二十余种。堤边白石砌如玉，布地皆软沙如茵。杭人曰：“此内使孙公所修饰也。”此公大是西湖功德主。自昭庆、天竺、净慈、龙井及山中庵院之属，所施不下数十万。余谓白、苏二公，西湖开山古佛，此公异日伽蓝也。“腐儒，几败乃公事！”可厌！可厌！</p>
+<p>　　张京元《断桥小记》：</p>
+<p>　　西湖之胜，在近；湖之易穷，亦在近。朝车暮舫，徒行缓步，人人可游，时时可游。而酒多于水，肉高于山，春时肩摩趾错，男女杂沓，以挨簇为乐。无论意不在山水，即桃容柳眼，自与东风相倚，游者何曾一着眸子也。</p>
+<p>　　李流芳《断桥春望图题词》：</p>
+<p>　　往时至湖上，从断桥一望，便魂消欲死。还谓所知，湖之潋滟熹微，大约如晨光之着树，明月之入庐。盖山水映发，他处即有澄波巨浸，不及也。壬子正月，以访旧重至湖上，辄独往断桥，裴回终日，翌日为杨谶西题扇云：“十里西湖意，都来到断桥。寒生梅萼小，春入柳丝娇。乍见应疑梦，重来不待招。故人知我否，吟望正萧条。”又明日作此图。小春四月，同孟?、子与夜话，题此。</p>
+<p>　　谭元春《湖霜草序》：</p>
+<p>　　予以己未九月五日至西湖，不寓楼阁，不舍庵刹，而以琴尊书札，托一小舟。而舟居之妙，在五善焉。舟人无酬答，一善也。昏晓不爽其候，二善也。访客登山，恣意所如，三善也。入断桥，出西泠，午眠夕兴，四善也。残客可避，时时移棹，五善也。挟此五善，以长于湖。僧上凫下，觞止茗生，篙楫因风，渔?聚火。盖以朝山夕水，临涧对松，岸柳池莲，藏身接友，早放孤山，晚依宝石，足了吾生，足济吾事矣。</p>
+<p>　　王叔杲《十锦塘》诗：</p>
+<p>　　横截平湖十里天，锦桥春接六桥烟。</p>
+<p>　　芳林花发霞千树，断岸光分月两川。</p>
+<p>　　几度觞飞堤外景，一清棹发镜中船。</p>
+<p>　　奇观妆点知谁力，应有歌声被管弦。</p>
+<p>　　白居易《望湖楼》诗：</p>
+<p>　　尽日湖亭卧，心闲事亦稀。起因残醉醒，坐待晚凉归。</p>
+<p>　　松雨飘苏帽，江风透葛衣。柳堤行不厌，沙软絮霏霏。</p>
+<p>　　徐渭《望湖亭》诗：</p>
+<p>　　亭上望湖水，晶光淡不流。镜宽万影落，玉湛一矶浮。</p>
+<p>　　寒入沙芦断，烟生野鹜投。若从湖上望，翻羡此亭幽。</p>
+<p>　　张岱《西湖七月半记》：</p>
+<p>　　西湖七月半，一无可看，止可看看七月半之人。看七月半之人，以五类看之。其一，楼船箫鼓，峨冠盛筵，灯火优?，声光相乱，名为看月而实不见月者，看之。其一，亦船亦楼，名娃闺秀，携及童娈，笑啼杂之，环坐露台，左右盼望，身在月下而实不看月者，看之。其一，亦船亦声歌，名妓闲僧，浅酌低唱，弱管轻丝，竹肉相发，亦在月下，亦看月，而欲人看其看月者，看之。其一，不舟不车，不衫不帻，酒醉饭饱，呼群三五，挤入人丛，昭庆、断桥，?枭呼嘈杂，装假醉，唱无腔曲，月亦看，看月者亦看，不看月者亦看，而实无一看者，看之。其一，小船轻幌，净几暖炉，茶铛旋煮，素瓷静递，好友佳人，邀月同坐，或匿影树下，或逃嚣里湖，看月而人不见其看月之态，亦不作意看月者，看之。杭人游湖，巳出酉归，避月如仇，是夕好名，逐队争出，多犒门军酒钱，轿夫擎燎，列俟岸上。一入舟，速舟子急放断桥，赶入胜会。以故二鼓以前，人声鼓吹，如沸如撼，如魇如呓，如聋如哑，大船小船一齐凑岸，一无所见，止见篙击篙，舟触舟，肩摩肩，面看面而已。少刻兴尽，官府席散，皂隶喝道去，轿夫叫船上人，怖以关门，灯笼火把如列星，一一簇拥而去。岸上人亦逐队赶门，渐稀渐薄，顷刻散尽矣。吾辈始舣舟近岸，断桥石磴始凉，席其上，呼客纵饮。此时，月如镜新磨，山复整妆，湖复?面。向之浅斟低唱者出，匿影树下者亦出，吾辈往通声气，拉与同坐。韵友来，名妓至，杯箸安，竹肉发。月色苍凉，东方将白，客方散去。吾辈纵舟，酣睡于十里荷花之中，香气拍人，清梦甚惬。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18432.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18434.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

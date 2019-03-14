@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷六·杂病解中·泄利根原_古诗文网
+</title>
+<meta content="泄利者，肝脾之陷下也。谷入于胃，脾阳升磨，精华归于五藏而化气血，糟粕传于大肠而为大便。水入于胃，脾阳消克，化为雾气，上归于肺，肺气降洒，化而为水，注于膀胱而为小便。水入膀胱而不入大" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18551.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·杂病解中·泄利根原</b></span>
+<a href="javascript:PlayBookv(18551)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18551" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18551" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　泄利者，肝脾之陷下也。谷入于胃，脾阳升磨，精华归于五藏而化气血，糟粕传于大肠而为大便。水入于胃，脾阳消克，化为雾气，上归于肺，肺气降洒，化而为水，注于膀胱而为小便。水入膀胱而不入大肠，而后糟粕之后传者，不至于滑泄。水之消化，较难于谷，阳衰土湿，脾阳陷败，不能蒸水化气，则水谷混合，下趋二肠，而为泄利。</p>
+<p>　　谷贮于大肠，水渗于膀胱，而其疏泄之权，则在于肝。今水入二肠而不入膀胱，则乙木疏泄之令，不行于膀胱而行于大肠，是以泄而不藏也。盖木生于水而长于土，水寒则生气不旺，而湿土郁陷，又复遏其发育之机，生长之意不遂，怒而生风，愈欲疏泄。膀胱空虚，既无可泄之物，大肠盈满，水谷停积，故乙木后泄而为下利。缘木气抑遏，郁极而发，为湿土所限，不能上达，势必下行，行则水谷摧注而下故也。其发之过激，冲突脏腑，则生疼痛。奔冲抵触，而不得上达，盘郁结塞，则生胀满。其一切诸证，皆缘土败而木贼也。</p>
+<p>　　苓蔻人参汤</p>
+<p>　　人参二钱　甘草二钱　白术三钱　干姜三钱　茯苓三钱　肉蔻一钱，煨，研　桂枝三钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　大便寒滑不收，小便热涩不利，加石脂以固大肠，粳米以通水道。</p>
+<p>　　泄利缘肠胃寒滑，法以仲景理中为主，而加茯苓燥土，肉蔻敛肠，桂枝疏木，泄利自止。若滑泄不禁，则用桃花汤，干姜温其湿寒，石脂固其滑脱，粳米益其中气而通水道，无有不愈也。</p>
+<p>　　泄利之原，率因脾肾寒湿，法宜温燥。间有木郁而生风热者，投以温燥，泄利愈加。然乙木虽为风热，而己土则是湿寒，宜清润其肝而温燥其脾。仲景乌梅丸方，连、柏与椒、姜、桂、附并用，治蛔厥而兼久利，最善之方也。</p>
+<p>　　《伤寒》：太阳与少阳合病，自下利者，与黄芩汤。若呕者，与黄芩半夏生姜汤。以少阳甲木从相火化气，其经本随阳明下降，甲木不降，上逆而克戊土，戊土壅遏，水谷盛满莫容，于是吐利皆作。胆胃郁迫，相火升炎而生燥热。此黄芩汤证也。</p>
+<p>　　《伤寒》：厥阴之为病，消渴，气上冲心，心中疼热，饥而不欲食，食则吐蛔，下之利不止。缘厥阴之经，木郁风动，津液耗损，故见消渴。风木郁冲，故心中疼热。下泄脾阳，乙木愈郁，己土被贼，故下利不止。此乌梅丸证也。</p>
+<p>　　少阳之利，但有上热，故第用芩、芍以清胆火；厥阴之利，兼有下寒，故以连、柏清上，而并以姜、附温下。此虽伤寒之病，而亦杂证所时有，凡泄利之不受温燥者，皆此证也。杂证湿寒者多，燥热者少，千百之中，偶尔见之，不得与伤寒少阳之利同法治也。</p>
+<p>　　泄利之家，肝脾下陷，则肺胃必上逆。胃逆不能降摄甲木，肺逆不能收敛相火，相火上炎，多生上热。久泄不已，相火郁升，往往喉舌生疮。疮愈则利作，利止则疮发。口疮者，胆胃之逆甚，下利者，肝脾之陷剧也，迭为盛衰，累年不愈。是宜温燥水土，驱其湿寒，下利既瘳，口疮亦平。庸工见其口疮而清上热，则脾阳益泄，利愈加而疮愈增矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18550.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18552.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

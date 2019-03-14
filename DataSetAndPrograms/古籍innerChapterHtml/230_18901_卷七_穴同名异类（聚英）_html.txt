@@ -1,0 +1,148 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷七·穴同名异类（聚英）_古诗文网
+</title>
+<meta content="一穴二名：后顶：一名交冲。强间：一名大羽。窍阴：一名枕骨。脑户：一名合颅。曲鬓：一名曲发。脑空：一名颞颥。颅囟：一名颅息。听宫：一名多所闻。瘈脉：一名资脉。素髎：一名面正。水沟：一" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18901.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·穴同名异类（聚英）</b></span>
+<a href="javascript:PlayBookv(18901)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18901" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18901" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　一穴二名：</p>
+<p>　　后顶：一名交冲。强间：一名大羽。窍阴：一名枕骨。脑户：一名合颅。</p>
+<p>　　曲鬓：一名曲发。脑空：一名颞颥。颅囟：一名颅息。听宫：一名多所闻。</p>
+<p>　　瘈脉：一名资脉。素髎：一名面正。水沟：一名人中。承浆：一名悬浆。</p>
+<p>　　廉泉：一名舌本。风府：一名舌本。上星：一名神堂。丝竹空：一名目髎。</p>
+<p>　　睛明：一名泪孔。巨髎：一名巨窌。肩井：一名膊井。渊液：一名泉液。</p>
+<p>　　臑会：一名臑髎。大椎：一名百劳。命门：一名属累。风门：一名热府。</p>
+<p>　　巨阙：一名心募。期门：一名肝募。督俞：一名高盖。</p>
+<p>　　中膂俞：一名脊内俞。天窗：一名窗笼。天鼎：一名天项。</p>
+<p>　　天突：一名天瞿。扶突：一名水穴。天池：一名天会。人迎：一名五会。</p>
+<p>　　缺盆：一名天盖。俞府：一名输府。玉堂：一名玉英。神阙：一名气舍。</p>
+<p>　　四满：一名髓府。腹结：一名肠窟。冲门：一名上慈宫。气冲：一名气街。</p>
+<p>　　横骨：一名曲骨端。辄筋：一名神光。阳辅：一名分肉。阴都：一名食宫。</p>
+<p>　　水突：一名水门。水分：一名分水。会阴：一名屏翳。会阳：一名利机。</p>
+<p>　　太渊：一名太泉。商阳：一名绝阳。二间：一名间谷。三间：一名少谷。</p>
+<p>　　合谷：一名虎口。阳溪：一名中魁。三里：一名手三里。少冲：一名经始。</p>
+<p>　　少海：一名曲节。少泽：一名小吉。天泉：一名天湿。阳池：一名别阳。</p>
+<p>　　支沟：一名飞虎。蠡沟：一名交仪。中封：一名悬泉。中都：一名中郄。</p>
+<p>　　三阳络：一名通门。阴包：一名阴胞。阴交：一名横户。委中：一名血郄。</p>
+<p>　　悬钟：一名绝骨。漏谷：一名太阴络。地机：一名脾舍。</p>
+<p>　　血海：一名百虫窠。上廉：一名上巨虚。下廉：一名下巨虚。</p>
+<p>　　阴市：一名阴门。伏兔：一名外勾。太溪：一名吕细。照海：一名阴蹻。</p>
+<p>　　金门：一名梁关。昆仑：一名下昆仑。飞扬：一名厥阳。附阳：一名付阳。</p>
+<p>　　仆参：一名安邪。环跳：一名膑骨。申脉：一名阳蹻。涌泉：一名地冲。</p>
+<p>　　一穴三名：</p>
+<p>　　络却：一名强阳，一名脑盖。禾髎：一名长顪，一名禾窌。</p>
+<p>　　客主人：一名上关，一名客主。瞳子髎：一名前关，一名太阳。</p>
+<p>　　颊车：一名机关，一名曲牙。听会：一名听河，一名后关。</p>
+<p>　　肩髃：一名中肩，一名偏肩。脊中：一名神宗，一名脊俞。</p>
+<p>　　膻中：一名亶中，一名元见。鸠尾：一名尾翳，一名?骭。</p>
+<p>　　上脘：一名上管，一名胃脘。中脘：一名太仓，一名胃募。</p>
+<p>　　气海：一名脖胦，一名下肓。气穴：一名胞门，一名子户。</p>
+<p>　　中府：一名府中俞，一名肺募。劳宫：一名五里，一名掌中。</p>
+<p>　　大赫：一名阴维，一名阴关。长强：一名气郄，一名橛骨。</p>
+<p>　　日月：一名神光，一名胆募。承筋：一名腨肠，一名直肠。</p>
+<p>　　温溜：一名池头，一名逆注。复溜：一名昌阳，一名伏白。</p>
+<p>　　阳关：一名阳陵，一名关陵。阳交：一名别阳，一名足窌。</p>
+<p>　　神门：一名锐中，一名中都。然谷：一名然骨，一名龙渊。</p>
+<p>　　一穴四名：</p>
+<p>　　哑门：一名喑门，一名舌横，一名舌厌。</p>
+<p>　　攒竹：一名始光，一名光明，一名员柱。</p>
+<p>　　关元：一名丹田，一名大中极，一名小肠募。</p>
+<p>　　中极：一名玉泉，一名气原，一名膀胱募。</p>
+<p>　　天枢：一名长溪，一名谷门，一名大肠募。</p>
+<p>　　京门：一名气俞，一名气府，一名肾募。</p>
+<p>　　承山：一名鱼腹，一名内柱，一名肠山。</p>
+<p>　　承扶：一名肉郄，一名阴关，一名皮部。</p>
+<p>　　一穴五名：</p>
+<p>　　百会：一名三阳，一名五会，一名巅上，一名天满。</p>
+<p>　　章门：一名长平，一名季胁，一名胁髎，一名脾募。</p>
+<p>　　一穴六名：</p>
+<p>　　腰俞：一名背解，一名腰户，一名髓孔，一名腰柱，一名髓府。</p>
+<p>　　石门：一名利机，一名丹田，一名精露，一名命门，一名三焦募。</p>
+<p>　　名同穴异类：</p>
+<p>　　头临泣，足临泣；头窍阴，足窍阴；腹通谷，足通谷；背阳关，足阳关；</p>
+<p>　　手三里，足三里；手五里，足五里。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18900.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18902.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

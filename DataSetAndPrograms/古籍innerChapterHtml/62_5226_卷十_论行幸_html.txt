@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贞观政要·卷十·论行幸_古诗文网
+</title>
+<meta content="贞观初，太宗谓侍臣曰：“隋炀帝广造宫室，以肆行幸。自西京至东都，离宫别馆，相望道次，乃至并州、涿郡，无不悉然。驰道皆广数百步，种树以饰其傍。人力不堪，相聚为贼。逮至末年，尺土一人，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5226.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3495" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·论行幸</b></span>
+<a href="javascript:PlayBookv(5226)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5226" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3495)" id="leftbtn3495" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5226" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%a2">吴兢</a></p>
+<div class="contson">
+<p>　　贞观初，太宗谓侍臣曰：“隋炀帝广造宫室，以肆行幸。自西京至东都，离宫别馆，相望道次，乃至并州、涿郡，无不悉然。驰道皆广数百步，种树以饰其傍。人力不堪，相聚为贼。逮至末年，尺土一人，非复己有。以此观之，广宫室，好行幸，竟有何益？此皆朕耳所闻，目所见，深以自诫。故不敢轻用人力，惟令百姓安静，不有怨叛而已。”</p>
+<p>　　贞观十一年，太宗幸洛阳宫，泛舟于积翠池，顾谓侍臣曰：“此宫观台沼并炀帝所为，所谓驱役生民，穷此雕丽，复不能守此一都，以万民为虑。好行幸不息，民所不堪。昔诗人云：‘何草不黄？何日不行？’‘小东大东，杼轴其空。’正谓此也。遂使天下怨叛，身死国灭，今其宫苑尽为我有。隋氏倾覆者，岂惟其君无道，亦由股肱无良。如宇文述、虞世基、裴蕴之徒，居高官，食厚禄，受人委任，惟行谄佞，蔽塞聪明，欲令其国无危，不可得也。”司空长孙无忌奏言：“隋氏之亡，其君则杜塞忠谠之言，臣则苟欲自全，左右有过，初不纠举，寇盗滋蔓，亦不实陈。据此，即不惟天道，实由君臣不相匡弼。”太宗曰：“朕与卿等承其余弊，惟须弘道移风，使万世永赖矣。”</p>
+<p>　　贞观十三年，太宗谓魏征等曰：“隋炀帝承文帝余业，海内殷阜，若能常处关中，岂有倾败？遂不顾百姓，行幸无期，径往江都，不纳董纯、崔象等谏诤，身戮国灭，为天下笑。虽复帝祚长短，委以玄天，而福善祸淫，亦由人事。朕每思之，若欲君臣长久，国无危败，君有违失，臣须极言。朕闻卿等规谏，纵不能当时即从，再三思审，必择善而用之。”</p>
+<p>　　贞观十二年，太宗东巡狩，将入洛，次于显仁宫，宫苑官司多被责罚。侍中魏征进言曰：“陛下今幸洛州，为是旧征行处，庶其安定，故欲加恩故老。城郭之民未蒙德惠，官司苑监多及罪辜，或以供奉之物不精，又以不为献食。此则不思止足，志在奢靡，既乖行幸本心，何以副百姓所望？隋主先命在下多作献食，献食不多，则有威罚。上之所好，下必有甚，竞为无限，遂至灭亡。此非载籍所闻，陛下目所亲见。为其无道，故天命陛下代之。当战战栗栗，每事省约，参踪前列，昭训子孙，奈何今日欲在人之下？陛下若以为足，今日不啻足矣；若以为不足，万倍于此，亦不足也。”太宗大惊曰：“非公，朕不闻此言。自今已后，庶几无如此事。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5225.aspx">上一章</a>
+<a href="/guwen/book_62.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5227.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3495" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

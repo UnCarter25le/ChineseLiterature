@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷九·六壬日庚子时断_古诗文网
+</title>
+<meta content="六壬日生时庚子，子上明庚暗损伤；火土月中仍主吉，不通凶狠只平常。壬日庚子时，刃旺身强。壬以庚为倒食，癸为羊刃，时上明庚癸旺，若通火土月气，制伏庚癸，大贵；不通，凶狠平常。通运亦贵。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16613.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·六壬日庚子时断</b></span>
+<a href="javascript:PlayBookv(16613)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16613" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16613" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　六壬日生时庚子，子上明庚暗损伤；</p>
+<p>　　火土月中仍主吉，不通凶狠只平常。</p>
+<p>　　壬日庚子时，刃旺身强。壬以庚为倒食，癸为羊刃，时上明庚癸旺，若通火土月气，制伏庚癸，大贵；不通，凶狠平常。通运亦贵。</p>
+<p>　　壬子日庚子时，辰戌丑未月，杂气财官；巳申酉丑，印绶，居土厚分野，俱贵。寅月，金水运，近侍金紫。午月，行西运，六品，子运败凶。若纯壬子羊刃，贫凶。一云，少年富，三十五后艰辛，末大富。忌辛巳月凶恶死，辛亥月大凶，甲子月刑。</p>
+<p>　　壬寅日庚子时，贵而刑。辰戌丑未月，杂气财官；巳申酉月，印绶，俱贵。忌乙巳月受刑，丁酉月大破，祖恶死，乙亥月刑。</p>
+<p>　　壬辰日庚子时，若寅午月生，财星旺；辰戌丑未，官旺，俱吉。纯辰，透庚壬，作壬骑龙背格，大贵。忌丙辰月，夭死，尸不全；丁未月破祖，孤；辛丑月大破，刑。</p>
+<p>　　壬午日庚子时，时日并冲，女多男少。丑未月，行南运，富贵。余年月，观诸贵命可见。忌甲午月自刑，多是非；癸酉月大破，失乡恶死；辛亥月恶死。</p>
+<p>　　壬申日庚子时，贫、刑。未月，杂气财官，行财旺运贵显，先难后易。辰，会水太旺，须行火土运，吉。丑、戌，财官印绶，俱吉。春冬平常，秋夏吉庆。忌乙巳月受刑，夭；丁酉，夭；乙亥月孤，自刑。</p>
+<p>　　壬戌日庚子时，夭。丑月金火运，辰未财官格，俱贵。寅酉，行西北运，贵。申子辰，行东南运，极品。忌巳酉月，孤单凶；丁亥月，凶刑恶死；辛丑月，刑。</p>
+<p>　　天干壬日时庚子，枭日由来遇劫财；</p>
+<p>　　运弱妻儿防克害，运强财禄自天来。</p>
+<p>　　壬日时逢庚子，劫财倒食流连，运行比劫事忧煎，财禄不能通显。</p>
+<p>　　雁侣双亲失意，妻儿迟则团圆，财官运步福滔然，祖业从新改变。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16612.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16614.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

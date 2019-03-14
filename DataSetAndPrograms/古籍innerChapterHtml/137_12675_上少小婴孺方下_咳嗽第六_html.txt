@@ -1,0 +1,130 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·上少小婴孺方下·咳嗽第六_古诗文网
+</title>
+<meta content="（方十四首）小儿出胎二百许日，头身患小小疮，治护小瘥，复发，五月中忽小小咳嗽，微温和治之，因变痫，一日二十过发，四肢缩动，背脊KT KT ，眼反，须臾气绝，良久复苏，已与常治痫汤，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12675.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上少小婴孺方下·咳嗽第六</b></span>
+<a href="javascript:PlayBookv(12675)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12675" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12675" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（方十四首）</span></p>
+<p>　　小儿出胎二百许日，头身患小小疮，治护小瘥，复发，五月中忽小小咳嗽，微温和治之，因变痫，一日二十过发，四肢缩动，背脊KT KT ，眼反，须臾气绝，良久复苏，已与常治痫汤，得快吐下，经日不间，尔后单与竹沥汁，稍进，一日一夕中合进一升许，发时小疏，明日与此竹沥汤，得吐下，发便大折，其间犹稍稍与竹沥汁。</p>
+<p>　　<strong>竹沥汤方<br/></strong>　　竹沥（五合） 黄芩（三十铢） 木防己 羚羊角 白术（各六铢，一作白藓） 大黄（二两）茵芋（三铢） 麻黄 白薇 桑寄生 萆 （一方无） 甘草（各半两）</p>
+<p>　　上十二味 咀，以水二升半，煮取药减半，纳竹沥，煎取一升，分服二合，相去一食久。进一服。</p>
+<p>　　<strong>紫菀汤<br/></strong>　　治小儿中冷及伤寒暴嗽，或上气咽喉鸣气逆，或鼻塞清水出方。</p>
+<p>　　紫菀 杏仁 黄芩 当归 甘草 橘皮 青木香 麻黄 桂心（各六铢） 大黄（一两）</p>
+<p>　　上十味 咀，以水三升，煮取九合，去滓，六十日至百日儿一服二合半，一百日至二百日儿一服三合。</p>
+<p>　　<strong>五味子汤<br/></strong>　　治小儿风冷入肺，上气气逆，面青，喘迫咳嗽，昼夜不息，食则吐不下方。</p>
+<p>　　五味子 当归（各半两） 麻黄 干姜 桂心 人参 紫菀 甘草（各一两） 款冬花 细辛（各三铢）大黄（一两半）</p>
+<p>　　上十一味 咀，以水二升半，煮取九合，去滓，儿六十日至百日一服二合半，一百日至二百日一服三合，其大黄别浸一宿下。（一方无款冬花、大黄，有大枣三枚。</p>
+<p>　　<strong>治小儿大人咳逆短气，胸中吸吸，呵出涕唾，嗽出臭脓方∶ </strong></p>
+<p>　　烧淡竹沥，煮二十沸，小儿一服一合，日五服。大人一升，亦日五服。不妨食，息乳哺治小儿寒热咳逆，膈中有乳癖，若吐不欲食方∶ </p>
+<p>　　干地黄（四两） 麦冬 五味子 蜜（各半斤） 大黄 硝石（各一两）</p>
+<p>　　上六味 咀，以水三升，煮取一升，去滓，纳硝石、蜜，煮令沸，服二合，日三，胸中当有宿乳汁一升许出。大者服五合。</p>
+<p>　　<strong>射干汤<br/></strong>　　<strong>治小儿咳逆，喘息如水鸡声方。</strong></p>
+<p>　　射干 麻黄 紫菀 甘草 生姜（各一两） 半夏（五枚） 桂心（五寸） 大枣（二十枚）</p>
+<p>　　上八味 咀，以水七升，煮取一升五合，去滓，纳蜜五合，煎一沸，分温服二合，日三</p>
+<p>　　又方 半夏（四两） 紫菀 桂心 生姜 细辛 阿胶 甘草（各二两） 蜜（一合） 款冬花（二？）</p>
+<p>　　上九味 咀，以水一斗，煮半夏取六升，去滓，纳诸药煮取二升五合，五岁儿服一升，二岁儿服六合，量儿大小多少加减之。</p>
+<p>　　<strong>杏仁丸<br/>　　治大人小儿咳逆上气方。</strong></p>
+<p>　　杏三升，熟捣如膏，蜜一升为三份，以一份纳杏仁捣，令强，更纳一份捣之如膏，又纳一份捣熟止，先食已含咽之，多少自在，日三，每服不得过半方寸匕，则利。</p>
+<p>　　<strong>又方</strong> 半夏（二斤去皮，河水洗六七度完用） 甘草（四两） 白矾（一斤研末） 丁香 缩砂 草蔻 川升麻（各四两）</p>
+<p>　　上七味，以好酒一斗与半夏拌，和匀同浸，春冬三七日，夏秋七日，密封口，日足取出，用冷水急洗，风吹干，每服一粒，嚼破，用姜汤下，或干吃，候六十日干方得服。（疑非孙思邈方。）</p>
+<p>　　<strong>八味生姜煎<br/>　　治少小嗽方。</strong></p>
+<p>　　生姜（七两） 干姜（四两） 桂心（二两） 甘草 款冬花 紫菀（各三两） 杏仁 蜜（各一斤）</p>
+<p>　　上合诸药为末，微火上，煎取如饴 。量其大小多少与儿含咽之，百日小儿如枣核许，日四五服，甚有验。</p>
+<p>　　<strong>四物款冬丸<br/></strong>　　<strong>治小儿嗽，昼瘥夜甚，初不得息，不能复啼方。</strong></p>
+<p>　　款冬花 紫菀（各一两半） 桂心（半两） 伏龙肝（六铢）</p>
+<p>　　上为末，蜜和如泥，取如枣核大 敷乳头令儿饮之，日三敷之，渐渐令儿饮之。</p>
+<p>　　<strong>菖蒲丸<br/></strong>　　<strong>治小儿暴冷嗽，及积风冷嗽，兼气逆鸣方。</strong></p>
+<p>　　菖蒲 乌头 杏仁 矾石 细辛 皂荚（各六铢） 款冬花 干姜 桂心 紫菀（各十八铢）川椒（五铢） 吴茱萸（六合）</p>
+<p>　　上十二味为末，蜜丸如梧子，三岁儿饮服五丸，加至十丸，日三。儿小以意减之，儿大以意加之。暴嗽数服便瘥。</p>
+<p>　　<strong>桂枝汤<br/></strong>　　<strong>治少小十日以上至五十日，卒得謦咳，吐乳，呕逆，暴嗽，昼夜不得息方。</strong></p>
+<p>　　桂枝（半两） 甘草（二两半） 紫菀（十八铢） 麦冬（一两十八铢）</p>
+<p>　　上四味 咀，以水二升，煮取半升，以绵着汤中，捉绵滴儿口中，昼夜四五过与之。节乳哺。</p>
+<p>　　治少小卒肩息上气，不得安，此恶风入肺方。</p>
+<p>　　<strong>麻黄汤<br/></strong>　　麻黄（四两） 甘草（一两） 桂心（五寸） 五味子（半斤） 半夏 生姜（各二两）</p>
+<p>　　上六味 咀，以水五升，煮取二升，百日儿服一合，大小节度服之，便愈。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12674.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12676.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

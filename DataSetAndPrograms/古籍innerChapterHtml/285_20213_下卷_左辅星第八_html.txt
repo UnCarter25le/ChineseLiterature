@@ -1,0 +1,140 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+撼龙经·下卷·左辅星第八_古诗文网
+</title>
+<meta content="左辅正形如幞头，前高后低大小球。伸舒腰长如杖鼓，后大前小驼峰侔。一有两脚平行去，或在武曲左右游。此龙如何近武曲，自是分宗为伯叔。分宗定做两贵龙，此与他星事不同。武曲两傍必生辅，不使" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20213.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>下卷·左辅星第八</b></span>
+<a href="javascript:PlayBookv(20213)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20213" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20213" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%ad%a0%e6%9d%be">杨筠松</a></p>
+<div class="contson">
+<p>　　左辅正形如幞头，前高后低大小球。伸舒腰长如杖鼓，后大前小驼峰侔。</p>
+<p>　　一有两脚平行去，或在武曲左右游。此龙如何近武曲，自是分宗为伯叔。</p>
+<p>　　分宗定做两贵龙，此与他星事不同。武曲两傍必生辅，不使他星变形去。</p>
+<p>　　左辅自有左辅形，方峰之下如卓釜。此是武曲辅星形，若是真辅不如此。</p>
+<p>　　真辅自作贵龙身，幞头横眠高低去。高顶高峰园落峰，低处低落肩项园。</p>
+<p>　　忽然堆起如螺卵，又如梨栗堆簇繁。岭上累累山结顶，断定前头深如垣。</p>
+<p>　　要知此星名侍卫，如到垣中最为贵。东华西华门水横，水外四围列峰位。</p>
+<p>　　此是垣前执法星，却分左右为兵卫。方正之垣号大微，垣有四门号天市。</p>
+<p>　　紫微垣外前后门，华盖三台前后卫。中有过水名御沟，抱城屈曲中间流。</p>
+<p>　　紫薇垣内星辰足，天市大微少全局。朝迎未必皆真形，朝海拱辰势如簇。</p>
+<p>　　千山万水皆大朝，入到怀中九回曲。入垣辅弼形微细，隐隐微微在平地。</p>
+<p>　　右卫左卫星傍罗，辅在垣中为近侍。右弼一星本无形，是以名为隐曜星。</p>
+<p>　　随龙剥换隐迹去，脉迹便是隐曜行。只缘飞宫有九曜，因此强名右弼星。</p>
+<p>　　天下寻辅知几处，河北河南只三四。更有终南泰华龙，出没为垣尽如此。</p>
+<p>　　南来莫错认南岳，虽有辅星垣气弱。却有回龙辅大江，水口三峰卓如削。</p>
+<p>　　北冀燕云多辅星，又随寨垣入沙漠。两京嵩山最难寻，已被前人曾妄作。</p>
+<p>　　东西垣局并长江，中有黄河入水长。后山屏障如负扆，不瞰秦淮枕水乡。</p>
+<p>　　辅弼隐曜入大梁，却是英雄古战场。大河九曲曲中有，辅弼九曲分入首。</p>
+<p>　　夫人识得左辅星，识得之时莫开口。如何识得左辅星，次第生峰无杂形。</p>
+<p>　　天门上头生宝殿，宝殿引出龙楼横。楼上千万寻池水，水是真龙楼上气。</p>
+<p>　　两池夹出龙脊高，池若倾崩非大地。池中石是辅弼星，无迹便是隐曜行。</p>
+<p>　　纵然不大也节钺，巨浪重重不堪说。巨浪有帐帐有杠，杠曲生峰巧如玦。</p>
+<p>　　杠星便是华盖柄，曲处生峰来作证。证出贪巨禄文廉，武破周而复始定。</p>
+<p>　　天门直指破军路，此是天门龙出序。若出天门是正龙，不出天门形不具。</p>
+<p>　　一形不具便减力，次第排来君莫误。自贪至破为次第，颠倒乱行名失序。</p>
+<p>　　一剥一换寻断处，断处两傍生拥护。旌幢行有盖天旗，旗似破军或斜去。</p>
+<p>　　看他横带入巨浪，浪滚一峰名出帐。帐中过处中央行，不出中央不入相。</p>
+<p>　　星辰具备入垣时，怪怪奇奇合天象。我到京师验前说，帝垣果有星罗列。</p>
+<p>　　南北虽短东西长，东华水绕西华冈。水从阙口复来朝，九曲九回朝帝阙。</p>
+<p>　　前星俨若在南上，周召到此观天象。上了南冈望北冈，圣人卜宅分阴阳。</p>
+<p>　　北冈峙立天门上，分作长垣在两傍。垣上两边分九个，两垣夹带帝中央。</p>
+<p>　　要识垣上有帝星，皇都坐定甚分明。君若要识左辅宿，凡入皇都辩垣局。</p>
+<p>　　重重围绕八九重，九重之外尤重复。重山复岭看辅星，高山顶上幞头横。</p>
+<p>　　低处恰似千官入，戴弁横班如覆笠。仔细观来真不同，应是为垣皆富局。</p>
+<p>　　辅为上相弼次相，破禄宿卫廉次将。文曲分明是后宫，巨门贪狼帝星样。</p>
+<p>　　更有武曲最尊贵，唤作极星事非诳。三垣各有垣内星，凡是星峰皆内向。</p>
+<p>　　垣星本不许人知，若不明言恐世迷。只到京师君便识，重重外卫内垣平。</p>
+<p>　　此龙不许时人识，留与 皇朝镇家国。请从九曜寻剥龙，剥尽粗龙寻细迹。</p>
+<p>　　要识真龙真辅相，只看高低幞头样。若是辅星自作龙，隐行不识真气象。</p>
+<p>　　若还三吉去作龙，随龙变形却不同。贪狼厌尖品字立，武曲方圆三个峰。</p>
+<p>　　三峰节节随身转，中有一峰是正面。两傍夹者是辅弼，大小尖园要君辩。</p>
+<p>　　此龙初发在高山，高处生峰亦生瓣。有瓣须明似幞头，滚滚低来是辊球。</p>
+<p>　　平行鲤鲫露脊背，有脚横排入覆笠。若是降楼并下殿，节节入楼下剥换。</p>
+<p>　　贪下剥换入抛球，尖处带脚如龟浮。此是下岭方如此，上岭逆行推覆舟。</p>
+<p>　　尖园若是品字立，世人误作三台求。禄存剥换蜈蚣节，微微短脚身边列。</p>
+<p>　　文曲梭中带线行，曲曲飞梭巧藏迹。廉下变为梳齿形，梳齿中央引龙出。</p>
+<p>　　武曲幞头无改换，行到平中断复断。破军之下夹两枪，若作天戈如走电。</p>
+<p>　　乱行失序出头来，又似虎狼行带箭。缠多便作吉龙断，若是无缠为道院。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20212.aspx">上一章</a>
+<a href="/guwen/book_285.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20214.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

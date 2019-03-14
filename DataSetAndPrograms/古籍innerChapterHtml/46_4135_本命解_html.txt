@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·本命解_古诗文网
+</title>
+<meta content="魯哀公問於孔子曰：「人之命與性何謂也？」孔子對曰：「分於道謂之命，形於一謂之性，化於陰陽，象形而發謂之生，化窮數盡謂之死．故命者，性之始也，死者，生之終也，有始則必有終矣．人始生而" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4135.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2735" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>本命解</b></span>
+<a href="javascript:PlayBookv(4135)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4135" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2735)" id="leftbtn2735" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4135" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　魯哀公問於孔子曰：「人之命與性何謂也？」孔子對曰：「分於道謂之命，形於一謂之性，化於陰陽，象形而發謂之生，化窮數盡謂之死．故命者，性之始也，死者，生之終也，有始則必有終矣．人始生而有不具者五焉，目無見、不能食、不能行、不能言、不能化．及生三月而微煦，然後有見，八月生齒，然後能食，三年顋合，然後能言，十有六而精通，然後能化．陰窮反陽，故陰以陽變，陽窮反陰，故陽以陰化．是以男子八月生齒，八歲而齔，女子七月生齒，七歲而齔，十有四而化，一陽一陰，奇偶相配，然後道合化成，性命之端，形於此也．」公曰：「男子十六精通，女子十四而化，是則可以生民矣．而禮男子三十而有室，女子二十而有夫也，豈不晚哉？」孔子曰：「夫禮言其極，不是過也．男子二十而冠，有為人父之端，女子十五許嫁，有適人之道，於此而徃，則自婚矣．群生閑藏乎陰，而為化育之始，故聖人因時以合偶，男子窮天數也．極霜降而婦功成，嫁娶者行焉．冰泮而農桑起，婚禮而殺於此．男子者，任天道而長萬物者也，知可為，知不可為，知可言，知不可言，知可行，知不可行者，是故審其倫而明其別謂之知，所以效匹夫之聽也．女子者，順男子之教而長其理者也，是故無專制之義，而有三從之道，幼從父兄，既嫁從夫，夫死從子，言無再醮之端，教令不出於閨門，事在供酒食而已，無閫外之非儀也，不越境而奔喪，事無擅為，行無獨成，參知而後動，可驗而後言，晝不遊庭，夜行以火，所以效匹婦之德也．」孔子遂言曰：「女有五不取：逆家子者，亂家子者，世有刑人子者，有惡疾子者，喪父長子．婦有七出，三不去．七出者：不順父母出者，無子者，淫僻者，嫉妒者，惡疾者，多口舌者，竊盜者；三不去者：謂有所取無所歸，與共更三年之喪，先貧賤，後富貴．凡此聖人所以順男女之際，重婚姻之始也．」</p>
+<p>　　孔子曰：「禮之所以象五行也，其義四時也，故喪禮有舉焉，有恩有義，有節有權．其恩厚者其服重，故為父母斬衰三年，以恩制者也；門內之治恩掩義，門外之治義掩恩，資於事父以事君而敬同，尊尊貴貴，義之大也，故為君亦服衰三年，以義制者也；三日而食，三月而沐，期而練，毀不滅性，不以死傷生，喪不過三年，齊衰不補，墳墓不修，除服之日，鼓素琴，示民有終也，凡此以節制者也；資於事父以事母而愛同，天無二日，國無二君，家無二尊，以治之，故父在為母齊衰期者，見無二尊也；百官備，百物具，不言而事行者，扶而起，言而後事行者，杖而起，身自執事行者，面垢而已，此以權制者也．親始死三日不怠，三月不懈，期悲號，三年憂哀之殺也，聖人因殺以制節也．」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4134.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4136.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2735" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

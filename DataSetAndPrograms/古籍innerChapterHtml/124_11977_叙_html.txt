@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+喻世明言·叙_古诗文网
+</title>
+<meta content="史统散而小说兴。始乎周季，盛于唐，而浸淫至于宁，韩非、列御寇诸人，小说之祖也。《吴越春秋》等书，虽出炎汉，然秦火之青，著述犹希。迨开元以降、而文人乏笔横矣。若通俗演义．不知何昉？按" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11977.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>叙</b></span>
+<a href="javascript:PlayBookv(11977)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11977" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11977" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　史统散而小说兴。始乎周季，盛于唐，而浸淫至于宁，韩非、列御寇诸人，小说之祖也。《吴越春秋》等书，虽出炎汉，然秦火之青，著述犹希。迨开元以降、而文人乏笔横矣。若通俗演义．不知何昉？按南宋供奉局，有说话人，如今说书之流。其文必通俗。其作者莫可专。泥马倦勒，以太上享天下之养，仁寿清暇，喜阅话本，命内珰日进一帙，当意，则以金钱厚酬。于是内珰辈广求先代奇迹及闾里新闻，倩人敷演进御，以怡天颜。然一览辄置，卒多浮沉内庭，其传布民间者，什不一二耳。然如《沅江楼》、《双鱼坠记》等类．又皆鄙俚浅薄，齿于弗馨焉。暨施、罗两公，鼓吹胡天．而《三国志》、《水浒》、《平妖》诸传，遂成巨观。要以韫玉违时，销熔岁月，非龙见之日所暇也。</p>
+<p>　　皇明文治既郁，靡流不波，即演义一斑，往往有远过宋人者。而或以为恨乏唐人风致，谬矣。食桃者不费杏、絺縠谗锦。唯时所适，以唐说律宋，将有以汉说律唐，以春秋战国说律汉，不至于尽扫羲圣之一画不止！可若何？太抵唐人选言，入于文心；宋人通谷，谐于里耳。天下之文心少而里耳多，则小说之资于选言者少，而多资于通俗者多。试今说话人当场描写，可喜可愕，可悲可涕，可歌可舞；再欲捉刀，再欲下拜，再欲决脰，再欲捐金。怯者勇，淫者贞，薄者敦、顽钝者汗下。虽小诵《孝经》、《论语》，其感人未必如是之捷且深也。噫！不通俗而能之乎？茂苑野史氏，家藏古今通俗小说甚富，因贾人之请，抽其可以嘉惠里耳者，凡四十种，畀为一刻。余顾而乐之，因索笔而弁其首。</p>
+<p>　　绿天馆主人题 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_124.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11978.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

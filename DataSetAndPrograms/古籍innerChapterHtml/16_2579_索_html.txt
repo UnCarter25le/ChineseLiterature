@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·索_古诗文网
+</title>
+<meta content="历史来源　　1、出自子姓，商殷七公族之一，是汤王的后代。据《元和姓纂》载，商朝的王公贵族有七支，形成七姓公族。商朝灭亡后，周朝建立。周武王把周公旦的长子伯禽封在鲁（今天的山东省境内" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2579.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>索</b></span>
+<a href="javascript:PlayBookv(2579)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2579" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2579" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自子姓，商殷七公族之一，是汤王的后代。据《元和姓纂》载，商朝的王公贵族有七支，形成七姓公族。商朝灭亡后，周朝建立。周武王把周公旦的长子伯禽封在鲁（今天的山东省境内），建立了鲁国，并且把殷商七族中的六族迁徙到鲁国，这六姓分别为徐姓、条姓、萧姓、索姓、长勺姓和尾勺姓。周武王灭纣索氏出了不少力，后来定居在鲁国成为名门望族。<br/>　　2、他姓所改。南北朝时期，大批的胡人入居中原，其中也有人改姓。</p>
+<p><strong>家族名人</strong><br/>　　索靖：西晋书法家，敦煌（今属甘肃省）人。是位出类拔萃的贤士，能文能武，擅长草书，得到大书法家张芝亲传，且又加以发展，变其形迹，骨势峻迈，富有笔力。他不但以一手“银钩虿尾”的草书而享誉后世，其为晋王室建立的功业，也足以在史册上大书一笔。《晋书》记载国，惠帝时，索靖曾平定西戎，讨伐赵王伦及孙秀，又于河间王禺举兵陷洛阳时，大战而破之，自己也受了伤，后来挽救无效死去。终年59岁。谥号庄靖。著作有《章书状》传世。<br/>　　索湘：字巨川，宋朝时期盐山人。开宝年间进士，后来官至参军。当时有一个大狱的案子。一连逮捕了1500余人，不能决断。后来他亲自审理，终于真相大白。平反了冤狱，没有放过一个坏人，也没有冤枉一个好人。真宗时担任河北转运使。他善于吏治，出入军旅间，能力得到公众的认可。<br/>　　索敞：后魏中书博士，字巨振，补为扶风太守，在位的时候清贫乐道，京师贵族的子弟，有好多跟从他学习的。<br/>　　索元礼：唐初酷吏，武后时游击将军。以告密起家，曾杀害数千人。他刑讯时，以木椽枷住被刑人的手足，反转用刑，痛楚难忍，名之曰“凤凰晒翅”。又有令被刑人双手捧枷，枷上层层垒砖，名之曰“仙人献果”。更有甚者，悬人脚于梁上，头垂于下，坠巨石于头发；还有以铁笼（圈）套在被刑人头上，四周打入木楔。这酷刑不但奇痛难耐，常常使骨裂脑崩。索元礼以酷刑杀人，终于激起民愤，武则天遂将他也收入狱中。受理索元礼案的法官，原是索元礼的部下，初时，索元礼多方抵赖，不肯服罪。那法官遂厉声说：“请把索公用的铁笼取来１只此一名话，索元礼立即顿首认罪了。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）索姓在大陆和台湾都没有列入百家姓前一百位。上古时候，周武王打败纣王，消灭了商朝，建立西周。在商朝的遗族中，有著名的七大望族，他们是商朝时候形成的七个有名的贵族，其中有很多贤能的人，而索姓就是这六族中的一个。周武王对他们很敬重，但是又害怕他们成为商朝死灰复燃的力量。后来发生了武庚之乱，周公旦平定叛乱之后，决定把其中六族迁居到鲁国去，并封周公长子伯禽去作鲁国的王，这样一方面可以让商朝六大望族安居乐业，一方面又可以监视他们。据《元和姓纂》上说，我国的索氏家族，是殷商时代的七个大族之一，索氏的后代，望族出于敦煌、武威。敦煌是索氏家族的老家和祖宗发源之地，而武威后来又成为索氏的一个望族。索氏的得姓，至今已有4000年的左右的历史。望族居于武威郡，就是现在的甘肃省武威县一带。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2578.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2580.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

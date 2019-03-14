@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷二·十干分配天文_古诗文网
+</title>
+<meta content="甲木为雷。雷者，阳气之嘘也，甲木属阳，故取象于雷焉。稽诸月令，仲春之月，雷乃发声，甲木旺，即其验也，况雷奋于地，木生于地，其理又无不同者。甲木至申而遂绝，以雷声至申而渐收也。凡命属" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16348.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·十干分配天文</b></span>
+<a href="javascript:PlayBookv(16348)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16348" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16348" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　甲木为雷。雷者，阳气之嘘也，甲木属阳，故取象于雷焉。稽诸月令，仲春之月，雷乃发声，甲木旺，即其验也，况雷奋于地，木生于地，其理又无不同者。甲木至申而遂绝，以雷声至申而渐收也。凡命属甲日，主喜值春天，或类象，或趋乾，或遥巳，或拱贵，俱大吉；运不喜西方。经云：木在春生，处世安然，必寿。</p>
+<p>　　乙木为风。乙木长生在午，败在巳。在午而生者，盖乙为山林活木，至夏来而畅茂，诗所谓千章夏木青是也；其败巳云何？巳乃巽地，巽为风，木盛风生也，风生于木而反摧木，犹之火生于木而反焚木，其取败也固宜，所谓乙木为风者，木其所自生云尔。如人乙日建生者，在秋令大吉，秋令金旺，乙木能化能从而盘根错节，非利器无所裁成；逢亥必死，其落叶归根之时耶？</p>
+<p>　　丙为日。《说卦传》日：离为火为日，日与火皆文明之象，是以丙火为日之名不易焉。太阳朝出而夕入，阳火寅生而酉死，而又何异乎？凡六丙生冬夏，不如春秋，春日有暄万物之功，秋阳有燥万物之用，冬则阴晦，夏则炎蒸，宜细堆之。</p>
+<p>　　丁火为星。丙火死而丁火遂从生焉，在天之日薄而星回也。类如此星象唯入夜故灿烂，阴火唯近晦故辉煌，丁不谓之星而何？凡丁日生人喜遇夜，喜遇秋，如星光之得时也；又喜行身弱地，如石里所藏属丁火，石虽在水，即时取击，亦自有火；其丁巳一日，多克父兄妻子，盖财忌比劫，兄屈弟下，巳中有戊土，伤官也。</p>
+<p>　　戊土为霞。土无专气，依火而生，霞无定体，借日以现，知丙火之为日，则知戊土之为霞矣。是霞者，日之余也，日尽而霞将灭没，火熄则土无生意，故谓之霞也。如戊土日主爱四柱带水则为上格，霞水相辉而成文彩也；更喜年月干见癸，癸则为雨，雨后霞现而睹文明也。</p>
+<p>　　己土为云。己土生居酉，酉，兑方也，其象为泽。先正曰：“天降时雨，山川出云。”然则云者，山泽之气也，己虽属土，以此论之，则其谓之云也亦宜。故甲己合而化土，其气上升而云施；云雷交而作雨，其泽下究而土润。此造化之至妙者与！凡身主属己土，贵坐酉，贵春生，贵见印，坐亥者不可见乙木，云升天，遇风则狼籍而不禁也。</p>
+<p>　　庚金为月。庚乃酉方阳金，何以知其配月乎？曰：五行之有庚，犹四时之有月也；庚不待秋而长生，然必秋而始盛；月不待秋而后月，然必秋而益明。以色言，月固白也，其色同矣；以气言，金生水也，潮应月也，其气同矣。经云：金沉在子。见其与月沉波也，三日月见庚方见，月初生与庚为位也，故曰庚金为月。如人庚日生者，四柱有乙巳字出，谓之月白风清，秋为上，冬次之，春夏无取。</p>
+<p>　　辛金为霜。八月，辛金建禄之地，是月也天气肃杀，白露为霜，草木黄落而衰，故五行阴木绝在此地，若木经斧斤之斩伐，未有所生焉者也。斧斤以时入山林，严霜以时杀草木，揆之天道，参之人事，信乎辛金之为霜矣。如辛人坐卯，未透乙，大富，坐亥透丙则贵。爱冬生。</p>
+<p>　　壬水为秋露。春亦有露，何独拟之以秋？盖春露、雨露既濡之露，秋露、霜露既降之露也，露一也，春主生，秋主杀，功用不同有如此，然吾以壬为秋露也，盖露属水，而壬水生于申，水本能生木者，水既然在此而生，木何由于此而绝？故知壬之为露，秋露也。如壬日生秋，见丁火最显，丁为星河，壬为秋露，一洗炎蒸，象纬昭然矣。</p>
+<p>　　癸水为春霖。癸水生卯月，号曰春霖。盖阴木得雨而发生也，然至申则死，七、八月多干旱也。且卯前一位是辰，辰，龙宫也，卯近龙宫而水生，龙一奋遂化为雨焉；卯为雷门，雷一震而龙必兴焉，观此则癸水其春霖矣。如癸卯日透出己字者，有云行雨施之象，其人必有经济才也。春夏吉，秋冬不吉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16347.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16349.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

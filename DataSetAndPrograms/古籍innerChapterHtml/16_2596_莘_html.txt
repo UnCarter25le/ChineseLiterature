@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·莘_古诗文网
+</title>
+<meta content="历史来源　　1、莘氏即是辛氏,因为他们的发音相近。　　2、出自姒姓，以封国名为氏。夏朝的初期，夏王启封高辛氏的儿子挚于莘（还有说封启的儿子于莘的），建立了莘国，它的望地在今天的陕西" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2596.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>莘</b></span>
+<a href="javascript:PlayBookv(2596)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2596" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2596" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、莘氏即是辛氏,因为他们的发音相近。<br/>　　2、出自姒姓，以封国名为氏。夏朝的初期，夏王启封高辛氏的儿子挚于莘（还有说封启的儿子于莘的），建立了莘国，它的望地在今天的陕西省合阳县东南，后来莘国灭亡以后，他的后代就以国名作为自己的姓氏。称做莘氏。<br/>　　3、亦出自姒姓，以国名为氏。据《史记·夏本记》记载，是有莘氏之女，古代的时候有莘国，商汤就娶了有莘氏的女儿，其后代就以“莘”作为自己的姓氏。<br/>　　4、出自古帝祝融的后代。据《潜夫论》记载道：“祝融之子分为八姓：己、秃、彭、姜、曹、斯、莘等。莘就是其中的一个姓。2000年以来，莘氏不及辛氏活跃。望族居于天水郡，即现在的甘肃通渭县一带。</p>
+<p><strong>家族名人</strong><br/>　　莘氏女：据《史记·周本记》载：“帝纣囚西伯于里闳夭之徒患之，乃求有莘氏美女……因殷嬖臣而献之纣。纣大悦，曰：‘此一物足以释西伯，况其多乎／及赦西伯。”<br/>　　此外，莘氏的名人，宋有莘融；明洪武年间，归安（今浙江省湖州市）人莘野，曾任枣强知县，因勤政爱民，被称为“贤令”；清归安人莘开，擅长书画篆刻。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）莘姓在大陆和台湾都没有列入百家姓前一百位。莘姓出自拟姓。上古时候的炎帝是著名的氏族部落首领。他的后代中有一位杰出的部落首领叫祝融，传说他最先发明使用火从而结束了人们茹毛饮血的历史，所以被尊为火神。祝融的后代分为八个大姓，莘就是其中之一。大禹治水有功，受到人们的拥戴，于是舜将氏族首领的位置禅让给了大禹。后来大禹将王位传给自己的儿子启，启后来建立了夏朝，称为夏启。夏启又把自己的一个庶子挚封到莘（今陕西省合阳县东南），挚的后代就以封地名作为姓氏，称为莘氏，是今天莘姓的又一个起源。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2595.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2597.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

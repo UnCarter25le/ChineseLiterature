@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+圆觉经·圆觉菩萨_古诗文网
+</title>
+<meta content="于是，圆觉菩萨在大众中，即从座起，顶礼佛足，右绕三匝，长跪叉手，而白佛言：“大悲世尊，为我等辈广说净觉种种方便，令末世众生有大增益。世尊，我等今者已得开悟。若佛灭后，末世众生未得悟" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13962.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>圆觉菩萨</b></span>
+<a href="javascript:PlayBookv(13962)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13962" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13962" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9b%e9%99%80%e5%a4%9a%e7%bd%97%e8%af%91">佛陀多罗译</a></p>
+<div class="contson">
+<p>　　于是，圆觉菩萨在大众中，即从座起，顶礼佛足，右绕三匝，长跪叉手，而白佛言：“大悲世尊，为我等辈广说净觉种种方便，令末世众生有大增益。世尊，我等今者已得开悟。若佛灭后，末世众生未得悟者，云何安居修此圆觉清净境界？此圆觉中三种净观，以何为首？唯愿大悲，为诸大众及末世众生，施大饶益。”作是语已，五体投地，如是三请，终而复始。 </p>
+<p>　　尔时，世尊告圆觉菩萨言：“善哉！善哉！善男子，汝等乃能问于如来如是方便，以大饶益施诸众生。汝今谛听，当为汝说。”时圆觉菩萨奉教欢喜，及诸大众默然而听。 </p>
+<p>　　“善男子，一切众生，若佛住世、若佛灭后、若法末时，有诸众生具大乘性，信佛秘密大圆觉心欲修行者，若在伽蓝，安处徒众，有缘事故，随分思察，如我已说。若复无有他事因缘，即建道场，当立期限。若立长期百二十日，中期百日，下期八十日，安置净居。若佛现在，当正思惟。若佛灭后，施设形像，心存目想，生正忆念，还同如来常住之日。悬诸幡华，经三七日，稽首十方诸佛名字，求哀忏悔，遇善境界得心轻安；过三七日，一向摄念。若经夏首三月安居，当为清净菩萨止住，心离声闻，不假徒众。至安居日，即于佛前作如是言：‘我比丘、比丘尼、优婆塞、优婆夷某甲，踞菩萨乘，修寂灭行，同入清净实相住持，以大圆觉为我伽蓝，身心安居平等性智，涅槃自性无系属故，今我敬请不依声闻，当与十方如来及大菩萨三月安居，为修菩萨无上妙觉大因缘故不系徒众。’善男子，此名菩萨示现安居，过三期日随往无碍。善男子，若彼末世修行众生，求菩萨道入三期者，非彼所闻一切境界终不可取。 </p>
+<p>　　“善男子，若诸众生修奢摩他，先取至静，不起思念，静极便觉。如是初静，从于一身至一世界觉亦如是。善男子，若觉遍满一世界者，一世界中有一众生起一念者皆悉能知，百千世界亦复如是。非彼所闻一切境界终不可取。 </p>
+<p>　　“善男子，若诸众生修三摩钵提，先当忆想十方如来、十方世界一切菩萨，依种种门渐次修行勤苦三昧，广发大愿，自熏成种。非彼所闻一切境界终不可取。 </p>
+<p>　　“善男子，若诸众生修于禅那，先取数门，心中了知生住灭念分齐头数，如是周遍四威仪中分别念数无不了知，渐次增进，乃至得知百千世界一滴之雨，犹如目睹所受用物。非彼所闻一切境界终不可取。 </p>
+<p>　　“是名三观初首方便。若诸众生遍修三种，勤行精进，即名如来出现于世。若后末世钝根众生，心欲求道不得成就，由昔业障，当勤忏悔，常起希望，先断憎爱、嫉妒、谄曲、求胜上心，三种净观随学一事，此观不得，复习彼观，心不放舍，渐次求证。” </p>
+<p>　　尔时，世尊欲重宣此义，而说偈言： </p>
+<p>　　“圆觉汝当知： 一切诸众生，<br/>　　欲求无上道， 先当结三期，<br/>　　忏悔无始业。 经于三七日，<br/>　　然后正思惟， 非彼所闻境，<br/>　　毕竟不可取。 奢摩他至静，<br/>　　三摩正忆持， 禅那明数门，<br/>　　是名三净观。 若能勤修习，<br/>　　是名佛出世。 钝根未成者，<br/>　　常当勤心忏， 无始一切罪，<br/>　　诸障若消灭， 佛境便现前。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13961.aspx">上一章</a>
+<a href="/guwen/book_156.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13963.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

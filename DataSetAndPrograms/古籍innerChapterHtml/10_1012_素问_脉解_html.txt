@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·脉解_古诗文网
+</title>
+<meta content="太阳所谓肿腰（月隹）痛者，正月太阳寅，寅太阳也，正月阳气出在上，而阴气盛，阳未得自次也，故肿腰（月隹）痛也。病偏虚为跛者，正月阳气冻解地气而出也，所谓偏虚者，冬寒颇有不足者，故偏虚" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1012.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left831" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·脉解</b></span>
+<a href="javascript:PlayBookv(1012)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1012" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(831)" id="leftbtn831" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1012" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　太阳所谓肿腰（月隹）痛者，正月太阳寅，寅太阳也，正月阳气出在上，而阴气盛，阳未得自次也，故肿腰（月隹）痛也。病偏虚为跛者，正月阳气冻解地气而出也，所谓偏虚者，冬寒颇有不足者，故偏虚为跛也。所谓强上引背者，阳气大上而争，故强上也。所谓耳鸣者，阳气万物盛上而跃，故耳鸣也。所谓甚则狂巅疾者，阳尽在上，而阴气从下，下虚上实，故狂巅疾也，所谓浮为聋者，皆在气也。所谓入中为瘖者，阳盛已衰，故为瘖也。内夺而厥，则为瘖俳，此肾虚也。少阴不至者，厥也。</p>
+<p>　　少阳谓心胁痛者，言少阳盛也，盛者心之所表也。九月阳气尽而阴气盛，故心胁痛也。所谓不可反侧者，阴气藏物也，物藏则不动，故不可反侧也。所谓甚则跃者，九月万物尽衰，草木毕落而堕，则气去阳而之阴，气盛而阳之下长，故谓跃。</p>
+<p>　　阳明所谓洒洒振寒者，阳明者午也，五月盛阳之阴也，阳盛而阴气加之，故洒洒振寒也。所谓胫肿而股不收者，是五月盛阳之阴也，阳者衰于五月，而一阴气上，与阳始争，故胫肿而股不收也。所谓上喘而为水者，阴气下而复上，上则邪客于藏府间，故为水也。所谓胸痛少气者，水气在藏府也，水者，阴气也，阴气在中，故胸痛少气也。所谓甚则厥，恶人与火，闻木音则惕然而惊者，阳气与阴气相薄，水火相恶，故惕然而惊也。所谓欲独闭户牖而处者，阴阳相薄也，阳尽而阴盛，故欲独闭户牖而居。所谓病至则欲乘高而歌，弃衣而走者，阴阳复争，而外并于阳，故使之弃衣而走也。所谓客孙脉则头痛鼻鼽腹肿者，阳明并于上，上者则其孙络太阴也，故头痛鼻鼽腹肿也。</p>
+<p>　　太阴所谓病胀者，太阴子也，十一月万物气皆藏于中，故曰病胀；所谓上走心为噫者，阴盛而上走于阳明，阳明络属心，故曰上走心为噫也；所谓食则呕者，物盛满而上溢，故呕也；所谓得后与气则快然如衰者，十二月阴气下衰，而阳气且出，故曰得后与气则快然如衰也。</p>
+<p>　　少阴所谓腰痛者，少阴者，肾也，十月万物阳气皆伤，故腰痛也。所谓呕咳上气喘者，阴气在下，阳气在上，诸阳气浮，无所依从，故呕咳上气喘也。所谓色色不能久立久坐，起则目（目巟）（目巟）无所见者，万物阴阳不定未有主也，秋气始至，微霜始下，而方杀万物，阴阳内夺，故目（目巟）（目巟）无所见也。所谓少气善怒者，阳气不治，阳气不治，则阳气不得出，肝气当治而未得，故善怒，善怒者，名曰煎厥。所谓恐如人将捕之者，秋气万物未有毕去，阴气少，阳气入，阴阳相薄，故恐也。所谓恶闻食臭者，胃无气，故恶闻食臭也。所谓面黑如地色者，秋气内夺，故变于色也。所谓咳则有血者，阳脉伤也，阳气未盛于上而脉满，满则咳，故血见于鼻也。</p>
+<p>　　厥阴所谓颓疝，妇人少腹肿者，厥阴者辰也，三月阳中之阴，邪在中，故曰颓疝少腹肿也。所谓腰脊痛不可以俯仰者，三月一振荣华，万物一俯而不仰也。所谓颓癃疝肤胀者，曰阴亦盛而脉胀不通，故曰颓癃疝也。所谓甚则嗌干热中者，阴阳相薄而热，故嗌干也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1011.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1013.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right831" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

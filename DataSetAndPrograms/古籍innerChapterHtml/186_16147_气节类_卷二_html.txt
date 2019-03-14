@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·气节类·卷二_古诗文网
+</title>
+<meta content="◎甘庄恪甘庄恪汝来，吴江人，少任涞水令，有德政。时有御前侍卫某往放御鹰，蹂躏田苗，公即命锁至庭，大杖数十。大吏闻之惊曰：“某令疯耶！”因共劾之。圣祖笑曰：“不畏强梁，真民父母也。”" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16147.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>气节类·卷二</b></span>
+<a href="javascript:PlayBookv(16147)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16147" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16147" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎甘庄恪</p>
+<p>　　甘庄恪汝来，吴江人，少任涞水令，有德政。时有御前侍卫某往放御鹰，蹂躏田苗，公即命锁至庭，大杖数十。大吏闻之惊曰：“某令疯耶！”因共劾之。圣祖笑曰：“不畏强梁，真民父母也。”因擢其官，后迁至吏部尚书。乾隆初，纯皇坚意复三年丧，诸臣莫详其制，公时任礼部，依据经注，参定大礼，繁俭常理，后皆遵之。后暴薨于署，同事者为相公讷亲，因亲送其丧归。讷先入，见老妪缝纫于庭，讷误以为奴婢，因呼曰：“传语夫人，相公暴薨于署矣。”妇愕然曰：“汝为谁？”讷备告其故，老妇汪然大泣，始知即夫人也。讷因问有余赀否，夫人曰：“有。”启囊出银八金，曰：“此志书馆月课俸也。俸本十六金，相公俭，计日以用，此所余半月费也。”讷因感泣，代以衣衾殓之。归奏于上，上亦感动，命内务府代理其丧，入贤良祠。</p>
+<p>　　◎施青天</p>
+<p>　　施漕帅世纶，有权术，任京兆尹时，金吾帅公和诺以宠幸冠一时，轿前常拥八驺。施遇诸途，乃拱立道旁，长揖以俟之。惊骇下轿问之，施忽厉声曰：“国制，非王公不设驺马。吾以为诸王至此，拱立以俟，孰意其为汝也！”欲立劾之，讫谢之乃已。同时于襄勤公成龙，二公皆名盛一时，俗呼曰“施青天”云。</p>
+<p>　　◎陆清献值丁祭</p>
+<p>　　陆清献公稼书作宰时，值丁祭，先期斋戒，恪遵礼经，躬自洒扫庙廷，洗涤祭器，品物丰洁，俎豆维新，升降献酢，必诚必敬，忽香烟凝结不散，篆成“使仲由来享”五字，真不爽哉！</p>
+<p>　　◎陈鹏年</p>
+<p>　　沧州陈公鹏年，康熙辛未进士，以大学士张鹏翮荐，出知江宁府。四十二年，圣祖南巡，总督阿山借供帐名，欲加赋税，公力争曰：“官可罢，赋不可增！”阿衔之。公尝逐群娼，建亭其上，月朔宣读圣谕，阿乃劾公大不敬，以此落职，下之狱，绝其食。狱卒怜之，私哺以饼饵。为守者李丞侦知，杖卒四十。曰：“与一勺水如之。”公自问命绝矣。适浙抚赵公申乔过之，叱狱官，得以生。</p>
+<p>　　圣祖赦其罪，命入武英殿修书，寻起知苏州府，《重游虎丘》诗云：“雪艇松龛阅岁时，廿年踪迹鸟鱼知。春风再扫生公石，落照仍衔短簿祠。雨后万松全Ш匝，云中双塔半迷离。夕佳亭上凭栏处，红叶空山绕梦思。尘鞅公余半晌闲，青鞋布袜也看山。离宫露出云霄上，法驾春留紫翠间。代谢已怜金气尽，再来偏笑石头顽。栋花风后游人歇，一任鸥盟数往还。”时总督噶礼以为诽谤，句句旁注而劾奏之，摘印下狱中。圣祖诏曰：“诗人讽咏，各有寄托，岂可有意罗织以入人。”命复其官，寻擢霸昌道，旋升江宁布政使。</p>
+<p>　　◎庄侍郎之廉鲠</p>
+<p>　　武进庄侍郎存与，性廉鲠。典浙江试，巡抚馈以金，不受；遗以二品冠，受之。及途，从者以告曰：“冠顶真珊瑚也。直千金。”公怒曰：“何不蚤白！”驰使千余里返之。为讲官日，上御文华殿，同官者将俟上起，讲仪毕矣，公忽奏讲章有舛误，臣意不谓尔也，奉书进讲，琅琅尽其旨，同官大惊，上为少留颔之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16146.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16148.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

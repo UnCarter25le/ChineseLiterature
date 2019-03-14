@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+梦溪笔谈·人事二_古诗文网
+</title>
+<meta content="蒋堂侍郎为淮南转运使日，属县例致贺冬至书，皆投书即还。有一县令使人，独不肯去，须责回书；左右谕之皆不听，以至呵逐亦不去，曰：“宁得罪；不得书，不敢回邑。”时苏子美在坐，颇骇怪，曰：" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2285.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1253" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>人事二</b></span>
+<a href="javascript:PlayBookv(2285)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2285" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1253)" id="leftbtn1253" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2285" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b2%88%e6%8b%ac">沈括</a></p>
+<div class="contson">
+<p>　　蒋堂侍郎为淮南转运使日，属县例致贺冬至书，皆投书即还。有一县令使人，独不肯去，须责回书；左右谕之皆不听，以至呵逐亦不去，曰：“宁得罪；不得书，不敢回邑。”时苏子美在坐，颇骇怪，曰：“皂隶如此野很，其令可知。”蒋曰：“不然，令必健者，能使人不敢慢其命令如此。”乃为一简答之，方去。子美归吴中月余，得蒋书曰：“县令果健者。”遂为之延誉，后卒为名臣。或云乃大章阁待制杜杞也。</p>
+<p>　　国子博士李余庆知常州，强于政事，果于去恶，凶人恶吏，畏之如神，末年得疾甚困。有州医博士，多过恶，常惧为余庆所发，因其困，进利药以毒之。服之洞泄不已。势已危，余庆察其奸；使人扶舁坐厅事，召医博士，杖杀之。然后归卧，未及席而死。葬于横山，人至今畏之，过墓者皆下。有病虐者，取墓土着床席间，辄差。其敬惮之如此。</p>
+<p>　　盛文肃为尚书右丞，知扬州，简重少所许可。时夏有章自建州司户参军授郑州推官，过扬州，文肃骤称其才雅，明日置酒召之。人有谓有章日：“盛公未尝燕过客，甚器重者方召一饭。”有章荷其意，别日为一诗谢之，至客次，先使人持诗以入。公得诗不发封，即还之，使人谢有章曰：“度已衰老，无用此诗。”不復得见。有章殊不意，往见通判刁绎，具言所以。绎亦不谕其由，曰：“府公性多忤，诗中得无激触否？”有章曰：“无，未曾发封。”又曰：“无乃笔扎不严？”曰：“有章自书，极严谨。”曰：“如此，必是将命者有所忤耳。”乃往见文肃而问之：“夏有章今日献诗何如？”公曰：“不曾读，已还之。”绎曰：“公始待有章甚厚，今乃不读其诗，何也？”公日：“始见其气韵清修，谓必远器。今封诗乃自称‘新圃田从事’，得一幕官，遂尔轻脱。君但观之，必止于此官，志已满矣。切记之，他日可验。”贾文元时为参政，与有章有旧，乃荐为馆职。有诏候到任一年召试，明年除馆阁校勘。御史发其旧事，遂寝夺，改差国子监主簿，仍带郑州推官。未几卒于京师。文肃阅人物多如此，不復挟他术。</p>
+<p>　　林逋隐居杭州孤山，常畜两鹤，纵之则飞入云霄，盘旋久之，復入笼中。逋常泛小艇，游西湖诸寺。有客至逋所居，则一童子出应门，延客坐，为开笼纵鹤。良久，逋必棹小船而归。盖尝以鹤飞为验也。逋高逸倨傲，多所学，唯不能棋。常谓人曰：“逋世间事皆能之，唯不能担粪与着棋。”　　庆历中，有近侍犯法，罪不至死，执政以其情重，请杀之；范希文独无言，退而谓同列曰：“诸公劝人主法外杀近臣，一时虽快意，不宜教手滑。”诸公默然。</p>
+<p>　　景祐中，审刑院断狱，有使臣何次公具狱。主判官方进呈，上忽问：“此人名‘次公’者何义？”主判官不能对，是时庞庄敏为殿中丞审判院详议官，从官长上殿乃越次对曰：“臣尝读《前汉书》，黄霸字次公，盖以‘霸’次‘王’也。，此人必慕黄霸之为人。”上颔之。异日復进谳，上顾知院官问曰：“前时姓庞详议官何故不来？”知院对：“任满，已出外官。”上遽指挥中书，与在京差遣，除三司检法官，俄擢三司判官，庆历中，遂入相。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2284.aspx">上一章</a>
+<a href="/guwen/book_14.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2286.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1253" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

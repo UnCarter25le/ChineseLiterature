@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+逸周书·卷七·王会解_古诗文网
+</title>
+<meta content="成周之会，墠上张赤帟阴羽，天子南面立，絻无繁露，朝服，八十物缙珽。唐叔、荀叔、周公在左，太公望在右，皆絻，亦无繁露，朝服，七十物，缙笏，旁天子而立于堂上。堂下之右，唐公虞公南面立焉" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5151.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3420" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·王会解</b></span>
+<a href="javascript:PlayBookv(5151)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5151" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3420)" id="leftbtn3420" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5151" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　成周之会，墠上张赤帟阴羽，天子南面立，絻无繁露，朝服，八十物缙珽。唐叔、荀叔、周公在左，太公望在右，皆絻，亦无繁露，朝服，七十物，缙笏，旁天子而立于堂上。</p>
+<p>　　堂下之右，唐公虞公南面立焉。堂下之左，尹公、夏公立焉，皆南面，絻有繁露，朝服，五十物，皆缙笏。为诸侯之有疾病者，阼阶之南，祝淮氏、荣氏，次之慓瓚，次之皆西面，弥宗旁之。为诸侯有疾病者之医药所居。</p>
+<p>　　相者，太史鱼、大行人，皆朝服，有繁露。堂下之东面，郭叔掌为天子菉币焉，絻有繁露。内台西面正北方，应侯、曹叔伯舅、中舅。比服次之，要服次之，荒服次之。西方东面正北方，伯父中子次之。</p>
+<p>　　方千里之内为比服，方二千里之内为要服，方三千里之内为荒服，是皆朝于内者。</p>
+<p>　　堂后东北为赤帟焉，浴盆在其中。其西天子车立马乘，六青阴羽凫旌。中台之外，其右泰士，台右弥士。受贽者八人，东面者四人，西面四人也。陈币当外台，天玄&lt;曷毛&gt;宗马十二，王元缭璧綦十二，参方玄缭璧、豹虎皮十二，四方玄缭璧琰十二。外台之四隅，张赤帟，为诸侯，欲息者皆息焉，命之曰爻闾。</p>
+<p>　　周公旦主东方，所之青马、黑&lt;葛毛&gt;，谓之母兒，其守营墙者，衣青操弓执矛。西面者，正北方，稷慎大麈。秽人前兒，前兒若弥猴，立行似小兒。良夷在子，在子□身人首，脂其腹，炙之霍，则鸣曰在子。扬州禺禺，鱼名，解隃冠，发人麃麃者，若鹿迅走。俞人虽马，青丘狐九尾，周头煇互，煇互者，羊也。黑齿白鹿白马，白民乘黄，乘黄者似骐，背有两角。东越海蛤，欧人蝉蛇，蝉蛇顺食之美。遇越纳□。姑妹珍，</p>
+<p>　　且瓯文蜃，其人玄贝，海阳大蟹。自深桂。会稽以&lt;单黾&gt;，皆面向。正北方义渠，以兹白，兹白者，若白马，锯牙食虎豹。央林以酋耳，酋耳者，身若虎豹，尾长，参其身，食虎豹。北唐以闾，闾似隃冠。渠叟以&lt;鼠勺&gt;犬，&lt;鼠勺&gt;犬者，露犬也，能飞食虎豹。楼烦以星施，星施者，珥旌。卜庐以纨牛，纨牛者，牛之小者也。区阳以鳖封，鳖封者，若彘，前后有首。规规以麟，麟者仁兽也。西申以凤鸟，凤鸟者，戴仁抱义掖信。氐羌以鸾鸟。巴人以比翼鸟。反炀以皇鸟，蜀人以文翰，文翰者，若皋鸡。方人以孔鸟，卜人以丹沙，夷用&lt;门焦&gt;木。康民以桴苡，苡者，其实如李，食之宜子。周靡费费，其形人身反踵，自笑，笑则上脣翕其目，食人，北方谓之吐喽。都郭生生，欺羽生生，若黄狗人面能言。奇干善芳，善芳者，头若雄鸡，佩之令人不昧。皆东向。</p>
+<p>　　北方台正东，高夷嗛羊，嗛羊者，羊而四角。独鹿邛邛，距虚善走也。孤竹距虚，不令支玄獏，不屠何青熊。东胡黄罴，山戎戎菽。其西般吾，白虎。屠州黑豹，禺氏騊駼。大夏兹白牛，兹白牛野兽也，牛形而象齿。犬戎文马，文马赤鬣缟身，目若黄金，名古黄之乘。数楚每牛，每牛者，牛之小者也。匈奴狡犬，狡犬者，巨身四足果。皆北向。</p>
+<p>　　权扶玉目。白州比闾，比闾者，其华若羽，伐其木以为车，终行不败。禽人菅，路人大竹，长沙鳖。其西鱼复，鼓锺，锺牛。蛮杨之翟。仓吾翡翠，翡翠者，所以取羽。其余皆可知。自古之政，南人至，众皆北向。</p>
+<p>　　伊尹朝，献商书，汤问伊尹曰：“诸侯来献，或无马牛之所生，而献远方之物事实相反不利。今吾欲因其地势，所有献之，必易得而不贵，其为四方献令。”伊殷受命，于是为四方令曰：“臣请正东，符娄、仇州、伊虑、沤深、十蛮、越沤，剪发文身，请令以鱼皮之鞞，乌鰂之酱，鲛鼥利剑为献。正南，瓯邓、桂国、损子、产里、百濮、九菌，请令以珠玑、玳瑁、象齿、文犀、翠羽、菌鹤、短狗为献。正西，昆仑、狗国、鬼亲、枳巳、闟耳贯胸、雕题、离卿、漆齿，请令以丹青、白旄、纟比罽、江历、龙角、神龟为献。正北空同、大夏、莎车、姑他、旦略、豹胡、代翟，匈奴、楼烦、月氏、韯犁、其龙、东胡，请令以橐驼、白玉、野马、騊駼、駃騠、良弓为献。”</p>
+<p>　　汤曰：“善。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5150.aspx">上一章</a>
+<a href="/guwen/book_60.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5152.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3420" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

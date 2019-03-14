@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷二·西湖西路·冷泉亭_古诗文网
+</title>
+<meta content="冷泉亭在灵隐寺山门之左。丹垣绿树，翳映阴森。亭对峭壁，一泓泠然，凄清入耳。亭后西栗十余株，大皆合抱，冷暗樾，遍体清凉。秋初栗熟，大若樱桃，破苞食之，色如蜜珀，香若莲房。天启甲子，余" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18422.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·西湖西路·冷泉亭</b></span>
+<a href="javascript:PlayBookv(18422)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18422" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18422" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　冷泉亭在灵隐寺山门之左。丹垣绿树，翳映阴森。亭对峭壁，一泓泠然，凄清入耳。亭后西栗十余株，大皆合抱，冷暗樾，遍体清凉。秋初栗熟，大若樱桃，破苞食之，色如蜜珀，香若莲房。天启甲子，余读书绚嵝山房，寺僧取作清供。余谓鸡头实无其松脆，鲜胡桃逊其甘芳也。夏月乘凉，移枕簟就亭中卧月，涧流淙淙，丝竹并作。张公亮听此水声，吟林丹山诗：“流向西湖载歌舞，回头不似在山时。”言此水声带金石，已先作歌舞矣，不入西湖安入乎！余尝谓住西湖之人，无人不带歌舞，无山不带歌舞，无水不带歌舞，脂粉纨绮，即村妇山僧，亦所不免。因忆眉公之言曰：“西湖有名山，无处士；有古刹，无高僧；有红粉，无佳人；有花朝，无月夕。”曹娥雪亦有诗嘲之曰：“烧鹅羊肉石灰汤，先到湖心次岳王。斜日未曛客未醉，齐抛明月进钱塘。”余在西湖，多在湖船作寓，夜夜见湖上之月，而今又避嚣灵隐，夜坐冷泉亭，又夜夜对山间之月，何福消受。余故谓西湖幽赏，无过东坡，亦未免遇夜入城。而深山清寂，皓月空明，枕石漱流，卧醒花影，除林和靖、李岣嵝之外，亦不见有多人矣。即慧理、宾王，亦不许其同在卧次。</p>
+<p>　　袁宏道《冷泉亭小记》：</p>
+<p>　　灵隐寺在北高峰下，寺最奇胜，门景尤好。由飞来峰至冷泉亭一带，涧水溜玉，画壁流青，是山之极胜处。亭在山门外，尝读乐天记有云：“亭在山下水中，寺西南隅，高不倍寻，广不累丈，撮奇搜胜，物无遁形。春之日，草薰木欣，可以导和纳粹；夏之日，风泠泉氵亭，可以蠲烦析醒。山树为盖，岩石为屏，云从栋生，水与阶平。坐而玩之，可濯足于床下；</p>
+<p>　　卧而狎之，可垂钓于枕上。潺?洁澈，甘粹柔滑，眼目之嚣，心舌之垢，不待盥涤，见辄除去。”观此记，亭当在水中，今依涧而立。涧阔不丈余，无可置亭者。然则冷泉之景，比旧盖减十分之七矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18421.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18423.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

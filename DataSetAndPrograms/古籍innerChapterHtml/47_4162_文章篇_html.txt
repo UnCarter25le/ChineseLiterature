@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+颜氏家训·文章篇_古诗文网
+</title>
+<meta content="阮籍无礼败俗，稽康凌物凶终，傅玄念斗免官，孙楚矜夸凌上，陆机犯顺履险，潘岳干没取危，颜延年负气摧黜，谢灵运空疏乱纪，王元长凶贼自诒，谢玄晖侮慢见及。凡此诸人，皆其翘秀者，不能悉记，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4162.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2762" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>文章篇</b></span>
+<a href="javascript:PlayBookv(4162)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4162" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2762)" id="leftbtn2762" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4162" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%a2%9c%e4%b9%8b%e6%8e%a8">颜之推</a></p>
+<div class="contson">
+<p>　　阮籍无礼败俗，稽康凌物凶终，傅玄念斗免官，孙楚矜夸凌上，陆机犯顺履险，潘岳干没取危，颜延年负气摧黜，谢灵运空疏乱纪，王元长凶贼自诒，谢玄晖侮慢见及。凡此诸人，皆其翘秀者，不能悉记，大较如此。至於帝王，亦或未免。自昔天子而有才华者，唯汉武、魏太祖、文帝、明帝、宋孝武帝，皆负世议，非懿德之君也。自子游、子夏、荀况、孟轲、枚乘、贾谊、苏武、张衡、左思之传，有盛名而免过患者，时复闻之，但其损败居多耳。每尝思之，原其所积，文章之体，标举兴会，发引性灵，使人矜伐，故忽於持操，果於进取。今世文士，此患弥切，一事惬当，一句清巧，神厉九霄，志凌千载，自吟自赏，不觉更有傍人。加以砂砾所伤，惨於矛戟，讽刺之祸，速乎风尘。深宜防虑，以保元吉。</p>
+<p>　　学问有利钝，文章有巧拙。钝学累功，不妨精熟；拙文研思，终归蚩鄙。但成学士，自足为人；必乏天才，勿强操笔。吾见世人，至无才思，自谓清华，流布丑拙，亦以众矣，江南号为“许痴符”。近在并州，有一士族，好为可笑诗赋，铫弊邢、魏诸公，众共嘲弄，虚相赞说，便击牛釃酒，招延声誉。其妻明鉴妇人也，泣而谏之，此人叹曰：“才华不为妻子所容，何况行路！”至死不觉。自见之谓明，此诚难也。</p>
+<p>　　学为文章，先谋亲友，得其评裁，知可施行，然后出手，慎勿师心自任，取笑旁人也。自古执笔为文者，何可胜言。然至於宏丽精华，不过数十篇耳。但使不失体裁，辞意可观，便称才士。要须动俗盖世，亦俟河之清乎。</p>
+<p>　　凡为文章，犹人乘骐骥，虽有逸气，当以街勒制之，勿使流乱轨躅，放意填坑岸也。</p>
+<p>　　文章当以理致为心旅，气调为筋骨，事义为皮肤，华而为冠冕。今世相承，趋末弃本，率多浮艳，辞与理竞，辞胜而理伏；事与才争，事繁而才损，放逸者流宕而忘归，穿凿者补缀而不足。</p>
+<p>　　时俗如此，安能独违，但务去泰去甚耳。必有盛才重誉，改革体裁者，实吾所希。</p>
+<p>　　古人之文，宏才逸气，体度风格，去今实远；但缉缀疏朴，未为密致耳。今世音律谐靡，章句偶对，讳避精详，贤於往昔多矣。宜以古之制裁为本，今之辞调为末，并须两存，不可偏弃也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4161.aspx">上一章</a>
+<a href="/guwen/book_47.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4163.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2762" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

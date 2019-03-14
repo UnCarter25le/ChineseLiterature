@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十一·段氏_古诗文网
+</title>
+<meta content="段瑞环，大名富翁也。四十无子。妻连氏最妒，欲买妾而不敢。私一婢，连觉之，挞婢数百，鬻诸河间栾氏之家。段日益老，诸侄朝夕乞贷，一言不相应，怒征声色。段思不能给其求，而欲嗣一侄，则群侄" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11830.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十一·段氏</b></span>
+<a href="javascript:PlayBookv(11830)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11830" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11830" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　段瑞环，大名富翁也。四十无子。妻连氏最妒，欲买妾而不敢。私一婢，连觉之，挞婢数百，鬻诸河间栾氏之家。段日益老，诸侄朝夕乞贷，一言不相应，怒征声色。段思不能给其求，而欲嗣一侄，则群侄阻挠之，连之悍亦无所施，始大悔。愤曰：“翁年六十余，安见不能生男！”遂买两妾，听夫临幸，不之问。居年余，二妾皆有身，举家皆喜。于是气息渐舒，凡诸侄有所强取，辄恶声梗拒之。无何，一妾生女，一妾生男而殇。夫妻失望。又将年余，段中风不起，诸侄益肆，牛马什物竞自取去。连诟斥之，辄反唇相稽。无所为计，朝夕呜哭。段病益剧，寻死。诸侄集柩前议析遗产，连虽痛切，然不能禁止之。但留沃墅一所，赡养老稚，侄辈不肯。连曰：“汝等寸土不留，将令老妪及呱呱者饿死耶！”日不决，惟忿哭自挝。</p>
+<p>　　忽有客入吊，直趋灵所，俯仰尽哀。哀已，便就苫次。众诘为谁，客曰：“亡者吾父也。”众益骇。客从容自陈。先是，婢嫁栾氏，逾五六月，生子怀，栾抚之等诸男。十八岁入泮。后栾卒，诸兄析产置不与堵栾齿。怀问母，始知其故，曰：“既属两姓，各有宗祏，何必在此承人百亩田哉！”乃命骑诣段，而段已死。言之凿凿，确可信据。连方忿痛，闻之大喜，直出曰：“我今亦复有儿！诸所假去牛马什物，可好自送还；不然，有讼兴也！”诸侄相顾失色，渐引去。怀乃携妻来，共居父忧。诸段不平，共谋逐怀。怀知之，曰：“栾不以为栾，段复不以为段，我安适归乎！”忿欲质官，诸戚党为之排解，群谋亦寝。</p>
+<p>　　而连以牛马故不肯已，怀劝置之，连曰：“我非为牛马也，杂气集满胸，汝父以愤死，我所以吞声忍泣者，为无儿耳。今有儿，何畏哉！前事汝不知状，待予自质审。”怀固止之，不听，具词赴宰控。宰拘诸段，审状，连气直词恻，吐陈泉涌。宰为动容，并惩诸段，追物给主。既归，其兄弟之子有不与党谋者，招之来，以所追物尽散给之。</p>
+<p>　　连七十余岁，将死，呼女及孙媳嘱曰：“汝等志之：如三十不育，便当典质钗珥，为夫纳妾。无子之情状实难堪也！”异史氏曰：“连氏虽妒，而能疾转，宜天以有后伸其气也。观其慷慨激发，吁！亦杰矣哉！”</p>
+<p>　　济南蒋稼，其妻毛氏不育而妒。嫂每劝谏，不听，曰：“宁绝嗣，不令送眼流眉者忿气人也！”年近四旬，颇以嗣续为念。欲继兄子，兄嫂俱诺，而故悠忽之。儿每至叔所，夫妻饵以甘脃，问曰：“肯来吾家乎？”儿亦应之。兄私嘱儿曰：“倘彼再问，答以不肯。如问何故不肯，答云：‘待汝死后，何愁田产不为吾有。’”一日稼出远贾，儿复来。毛又问，儿即以父言对。毛大怒曰：“妻孥在家，固日日盘算吾田产耶！其计左矣！”逐儿出，立招媒媪为夫买妾。</p>
+<p>　　及夫归，时有卖婢者其价昂，倾资不能取盈，势将难成。其兄恐迟而变悔，遂暗以金付媪，伪称为媪转贷者玉成之。毛大喜，遂买婢归。毛以情告夫，夫怒，与兄绝。年余妾生子。夫妻大喜。</p>
+<p>　　毛曰：“媪不知假贷何人，年余竟不置问，此德不可忘。今子已生，尚不偿母价也！”稼乃囊金诣媪，媪笑曰：“当大谢大官人。老身一贫如洗，谁敢贷一金者。”具以实告。稼感悟，归告其妻，相为感泣。遂治具邀兄嫂至，夫妇皆膝行，出金偿兄，兄不受，尽欢而散。后稼生三子。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11829.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11831.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

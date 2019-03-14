@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·诏策_古诗文网
+</title>
+<meta content="皇帝御宇，其言也神。渊嘿黼扆，而响盈四表，其唯诏策乎！昔轩辕唐虞，同称为“命”。命之为义，制性之本也。其在三代，事兼诰誓。誓以训戎，诰以敷政，命喻自天，故授官锡胤。《易》之《姤》象" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4034.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2628" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>诏策</b></span>
+<a href="javascript:PlayBookv(4034)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4034" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2628)" id="leftbtn2628" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4034" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　皇帝御宇，其言也神。渊嘿黼扆，而响盈四表，其唯诏策乎！昔轩辕唐虞，同称为“命”。命之为义，制性之本也。其在三代，事兼诰誓。誓以训戎，诰以敷政，命喻自天，故授官锡胤。《易》之《姤》象∶“后以施命诰四方。”诰命动民，若天下之有风矣。降及七国，并称曰“令”。令者，使也。秦并天下，改命曰制。汉初定仪则，则命有四品∶一曰策书，二曰制书，三曰诏书，四曰戒敕。敕戒州部，诏诰百官，制施赦命，策封王侯。策者，简也。制者，裁也。诏者，告也。敕者，正也。</p>
+<p>　　《诗》云“畏此简书”，《易》称“君子以制数度”，《礼》称“明神之诏”，《书》称“敕天之命”，并本经典以立名目。远诏近命，习秦制也。《记》称“丝纶”，所以应接群后。虞重纳言，周贵喉舌，故两汉诏诰，职在尚书。王言之大，动入史策，其出如綍，不反若汗。是以淮南有英才，武帝使相如视草；陇右多文士，光武加意于书辞：岂直取美当时，亦敬慎来叶矣。</p>
+<p>　　观文景以前，诏体浮杂，武帝崇儒，选言弘奥。策封三王，文同训典；劝戒渊雅，垂范后代。及制诏严助，即云∶“厌承明庐”，盖宠才之恩也。孝宣玺书，责博于陈遂，亦故旧之厚也。逮光武拨乱，留意斯文，而造次喜怒，时或偏滥。诏赐邓禹，称司徒为尧；敕责侯霸，称黄钺一下。若斯之类，实乖宪章。暨明章崇学，雅诏间出。和安政弛，礼阁鲜才，每为诏敕，假手外请。建安之末，文理代兴，潘勖九锡，典雅逸群。卫觊禅诰，符采炳耀，弗可加已。自魏晋诰策，职在中书。刘放张华，并管斯任，施令发号，洋洋盈耳。魏文帝下诏，辞义多伟。至于作威作福，其万虑之一蔽乎！晋氏中兴，唯明帝崇才，以温峤文清，故引入中书。自斯以后，体宪风流矣。</p>
+<p>　　夫王言崇秘，大观在上，所以百辟其刑，万邦作孚。故授官选贤，则义炳重离之辉；优文封策，则气含风雨之润；敕戒恒诰，则笔吐星汉之华；治戎燮伐，则声有洊雷之威；眚灾肆赦，则文有春露之滋；明罚敕法，则辞有秋霜之烈：此诏策之大略也。</p>
+<p>　　戒敕为文，实诏之切者，周穆命郊父受敕宪，此其事也。魏武称作敕戒，当指事而语，勿得依违，晓治要矣。及晋武敕戒，备告百官；敕都督以兵要，戒州牧以董司，警郡守以恤隐，勒牙门以御卫，有训典焉。</p>
+<p>　　戒者，慎也，禹称“戒之用休”。君父至尊，在三罔极。汉高祖之《敕太子》，东方朔之《戒子》，亦顾命之作也。及马援以下，各贻家戒。班姬《女戒》，足称母师矣。</p>
+<p>　　教者，效也，出言而民效也。契敷五教，故王侯称教。昔郑弘之守南阳，条教为后所述，乃事绪明也；孔融之守北海，文教丽而罕施，乃治体乖也。若诸葛孔明之详约，庾稚恭之明断，并理得而辞中，教之善也。</p>
+<p>　　自教以下，则又有命。《诗》云“有命自天”，明命为重也；《周礼》曰“师氏诏王”，明诏为轻也。今诏重而命轻者，古今之变也。</p>
+<p>　　赞曰∶</p>
+<p>　　皇王施令，寅严宗诰。我有丝言，兆民伊好。</p>
+<p>　　辉音峻举，鸿风远蹈。腾义飞辞，涣其大号。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4033.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4035.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2628" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷五·袁崇焕谋杀毛文龙_古诗文网
+</title>
+<meta content="先是，毛文龙驻皮岛以牵敌，二年三月，袁崇焕奏设东江饷司于宁远，令东江自觉华岛转饷，禁登莱商船入市。自是岛中京饷，俱着关宁经略验过，始解朝鲜贡道往宁远，不许过皮岛，商贾不通，岛中大饥" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13533.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·袁崇焕谋杀毛文龙</b></span>
+<a href="javascript:PlayBookv(13533)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13533" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13533" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　先是，毛文龙驻皮岛以牵敌，二年三月，袁崇焕奏设东江饷司于宁远，令东江自觉华岛转饷，禁登莱商船入市。自是岛中京饷，俱着关宁经略验过，始解朝鲜贡道往宁远，不许过皮岛，商贾不通，岛中大饥取野菜为粮。初，文龙称麾下兵一十余万，朝廷为治饷，兵科给事中王梦尹、翰林编修姜曰广，诣岛阅视，称十万，及登莱道王廷试复裁之，定额二万八千人。文龙大不平，上章请饷，又累奏宁远转饷不便，崇焕不听。又请自往旅顺议之。</p>
+<p>　　六月，崇焕致书文龙曰：知岛中军饥，发饷银十万，至双岛约公会议灭敌。文龙语子承禄曰：昔日彼奏减粮，今又发粮，其迹可疑。承禄曰：渠为抚臣时，已有和议疏，兹复云灭敌，必有他意，不如勿往。文龙思久之。曰：古来战守和，得机即行，原非可执。况我与彼，总为朝廷出力，不必猜疑，遂与部将二十人、家丁百人，引兵三千至双岛，进谒崇燠，慰劳甚至。且曰：辽东海外，止藉贵镇与本部院两人，同心共济方能了局。文龙曰：职在海外数年，日以东事为虑，第饷匮军饥耳。若大人展回天之力，使诸军安饱，指授方略，则功可成矣。</p>
+<p>　　次日，崇焕犒师，每人银一两、米一石、布三疋，已而文龙设宴，甫坐，忽报大清兵万余将渡河东。崇焕遣兵驰救，止留数百人，与文龙款语而罢。三日，崇焕登岛，又大犒师。谓文龙曰：今后贵镇与本部院以旅顺为界，东行贵镇印，西行本部院印。文龙从之。复报河西有警，崇焕思久之，谓文龙曰：愿借贵镇兵一往。文龙即令疾救。</p>
+<p>　　四日，崇焕命军士拢围。文龙不悟。从之入。麾下欲进，袁兵围之止，从官人围。崇焕谓众军士曰：念尔等海外劳苦，每人仅得粮五斗，一家分食，言之痛酸。尔等当受本部院一拜，今后勿忧无粮，只须为朝廷出力。语毕，即拜将士答谢，泪下。</p>
+<p>　　崇焕遂与文龙曰：本部院节制四镇，清严海禁，恐登津受腹心之患，东江粮饷由宁远过亦便，汝何必要解银登津自籴，且虚耗国家多少钱粮，并无实效，要东江何用。文龙曰：公言差矣，职以义旅九十人取镇江，不费朝廷斗米寸铁，抚集辽沈逃民九十余万，罗致各岛，以为犄角，以义取朝鲜粮饷，以信括商贾锱铢，种屯鼓铸，斩将复城，六七年来，止受国家银一百五万两，米九十余万石，犹谓无功虚冒乎？崇焕曰：与汝谈三日，谁知狼子野心，一片欺诳。若杀汝，此一块土，异日岂朝廷所有？文龙曰：督师惟恃节制，何得杀我？崇焕曰：今日非本部院意，乃是上旨。左右色变。文龙自若。乃曰：既出上旨，亦勿辨，遂西望拜曰：臣负朝廷久矣，崇焕命旗牌官张国柄，执剑杀之。</p>
+<p>　　诸将伏尸恸。崇焕曰：止斩文龙一人，余悉供职如故。命殓之，因奏文龙十二罪，并自劾。上以文龙骄悖，命崇焕安心任事，且嘉谕之。时敌警寂然，师旋，闻文龙死，皆哭。崇焕因佯祭曰：昨杀汝是朝廷法，今祭奠是本院情。遂流泪。将士俱泣。崇焕恐变，呼文龙部下曰：若等被主帅侵粮甚苦，今有十万金犒赏，各领三两，众始定。崇焕分其军为四。毛承禄，及旗鼓徐敷奏，东江将刘兴祚，与陈继盛分将之，遂回宁远。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13532.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13534.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

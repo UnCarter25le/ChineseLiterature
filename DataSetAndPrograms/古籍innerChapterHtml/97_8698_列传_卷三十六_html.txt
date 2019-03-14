@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+辽史·列传·卷三十六_古诗文网
+</title>
+<meta content="◎卓行○萧札剌 耶律官奴 萧蒲离不辽之共国任事，耶律、萧二族而已。二族之中，有退然自足，不淫于富贵，不诎于声利，可以振颓风，激薄俗，亦足嘉尚者，得三人焉。作《卓行传》。萧札剌，字虚" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_8698.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left7549" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>列传·卷三十六</b></span>
+<a href="javascript:PlayBookv(8698)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv8698" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(7549)" id="leftbtn7549" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay8698" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%84%b1%e8%84%b1%e7%ad%89">脱脱等</a></p>
+<div class="contson">
+<p>　　◎卓行</p>
+<p>　　○萧札剌 耶律官奴 萧蒲离不</p>
+<p>　　辽之共国任事，耶律、萧二族而已。二族之中，有退然自足，不淫于富贵，不诎于声利，可以振颓风，激薄俗，亦足嘉尚者，得三人焉。作《卓行传》。</p>
+<p>　　萧札剌，字虚辇，北府宰相排押之弟。性介特，不事生业。保宁间，以戚属进，累迁宁远军节度使。秩满里居，淡泊自适。统和末，召为南京马步军都指挥使。以疾求退，不听，迁夷离毕。又以疾辞，许之。遂入颉山，杜门不出。上嘉其志，不复征，札剌自是家于颉山。亲友或过之，终日言不及世务。凡宴游相邀，亦不拒。一岁山居过半，与世俗不偶。耶律资忠重之，目曰颉山老人。卒。</p>
+<p>　　耶律官奴，字奚隐，林牙斡鲁之孙。沉厚多学，详于本朝世系。嗜酒好佚。初，征为宿直将军。重熙九年，以疾去官。上以官奴属尊，欲成其志，乃许自择一路节度使。官奴辞曰：“臣愚钝，不任官使。”加归义军节度使，辄请致政。官奴与欧里部人萧哇友善，哇谓官奴曰：“仕不能致主泽民，成大功烈，何屑屑为也！吾与若居林下，以枕簟自随，觞咏自乐，虽不官，无慊焉。”官奴然之。时称“二逸”。乾统间，官奴卒。</p>
+<p>　　萧蒲离不，字桵懒，魏国王惠之四世孙。父母蚤丧，鞠于祖父兀古匿。性孝悌。年十三，兀古匿卒，自以早失怙恃，复遭祖丧，哀毁逾礼，族里嘉叹。尝谓人曰：“我于亲不得终养，今谁为训者？苟不自勉，何以报鞠育恩！”自是力学，于文艺无不精。乾统间，以兀古匿之故召之，不应。常与亲识游猎山水，奉养无长物仆隶，欣欣如也。或曰：“公胡不念以嗣先世功名？”答曰：“自度不足以继先业，年逾强仕，安能益主庇民！”累征，皆以疾辞。晚年，谢绝人事，卜居抹古山，屏远荤茹，潜心佛书，延有道者谈论弥日。人问所得何如，但曰：“有深乐！惟觉六凿不相攘，余无知者。”一日，易服，无疾而逝。</p>
+<p>　　论曰：隐固未易为也，而亦未可轻以与人。若札剌谢职不谈时务，官奴两辞节镇，蒲离不召而不赴，虽未足谓之隐，然在当时能知内外之分，甘于肥遯，不犹愈于求富贵利达而为妻妾羞者哉？故称卓行可也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_8697.aspx">上一章</a>
+<a href="/guwen/book_97.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_8699.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right7549" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

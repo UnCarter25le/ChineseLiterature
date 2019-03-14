@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·赵二·苏秦从燕之赵始合从_古诗文网
+</title>
+<meta content="苏秦从燕之赵，始合从，说赵王曰：“天下之卿相人臣，乃至布衣之士，莫不高贤大王之行义，皆愿奉教陈忠于前之日久矣。虽然，奉阳君妬，大王不得任事，是以外宾客游谈之士，无敢尽忠于前者。今奉" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4583.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3368" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>赵二·苏秦从燕之赵始合从</b></span>
+<a href="javascript:PlayBookv(4583)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4583" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3368)" id="leftbtn3368" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4583" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　苏秦从燕之赵，始合从，说赵王曰：“天下之卿相人臣，乃至布衣之士，莫不高贤大王之行义，皆愿奉教陈忠于前之日久矣。虽然，奉阳君妬，大王不得任事，是以外宾客游谈之士，无敢尽忠于前者。今奉阳君捐馆舍，大王乃今然后得与士民相亲，臣故敢献其愚，效愚忠。为大王计，莫若安民无事，请无庸有为也。安民之本，在于择交，择交而得则民安，择交不得则民终身不得安。请言外患：齐、秦为两敌，而民不得安；倚秦攻齐，而民不得安；倚齐攻秦，而民不得安。故夫谋人之主，伐人之国，常苦出辞断绝人之交，愿大王慎无出与口也。</p>
+<p>　　“请屏左右，曰言所以异，阴阳而已矣。大王诚能听臣，燕必致毡裘狗马之地，齐必致海隅鱼盐之地，楚必致桔柚云梦之地，韩、魏皆可使致封地汤沐之邑，贵戚父兄皆可以受封侯。夫割地效实，五伯之所以复军禽将而求也；封侯贵戚，汤、武之所以放杀而争也。今大王垂拱而两有之，是臣之所以为大王愿也。大王与秦，则秦必弱韩、魏；与齐，则齐必弱楚、魏。魏弱则割河外，韩弱则效宜阳。宜阳效则上郡绝，河外割则道不通。楚弱则无援。此三策者，不可不熟计也。夫秦下轵道则南阳动，劫韩包周则赵自销铄，据卫取淇则齐必入朝。秦欲已得行于山东，则必举甲而向赵。秦甲涉河逾漳，据番吾，则兵必战于邯郸之下矣。此臣之所以为大王患也。</p>
+<p>　　“当今之时，山东之建国，莫如赵强。赵地方二千里，带甲数十万，车千乘，骑万匹，粟支十年；西有常山，南有河、漳，东有清河，北有燕国。燕固弱国，不足畏也。且秦之所畏害于天下者，莫如赵。然而秦不敢举兵甲而伐赵者，何也?畏韩、魏之议其后也。然则韩、魏，赵之南蔽也。秦之攻韩、魏也，则不然。无有名山大川之限，稍稍蚕食之，傅之国都而止矣。韩、魏不能支秦，必入臣。韩、魏臣于秦，秦无韩、魏之隔，祸中于赵矣。此臣之所以为大王患也。</p>
+<p>　　“臣闻，尧无三夫之分，舜无咫尺之地，以有天下。禹无百人之聚，以王诸侯。汤、武之卒不过三千人，车不过三百乘，立为天子。诚得其道也。是故明主外料其敌国之强弱，内度其士卒之众寡、贤与不肖，不待两军相当，而胜败存亡之机节，固已见于胸中矣，岂掩于众人之言，而以冥冥决事哉!</p>
+<p>　　“臣窃以天下地图案之。诸侯之地五倍于秦，料诸侯之卒，十倍于秦。六国并力为一，西面而攻秦，秦必破矣。今见破于秦，西面而事之，见臣于秦。夫破人之与破于人也，臣人之与臣于人也，岂可同日而言之哉!夫横人者，皆欲割诸侯之地以与秦成。与秦成，则高台，美宫室，听竽瑟之音，察五味之和，前有轩辕，后有长庭，美人巧笑，卒有秦患，而不与其忧。是故横人日夜务以秦权恐猲诸侯，以求割地，愿大王之熟计之也。</p>
+<p>　　“臣闻，明王绝疑去谗，屏流言之迹，塞朋党之门，故尊主广地强兵之计，臣得陈忠于前矣。故窃本大王计，莫如一韩、魏、齐、楚、燕、赵六国从亲，以傧畔秦。令天下之将相，相与会于洹水之上，通质刑白马以盟之。约曰：‘秦攻楚，齐、魏各出锐师以佐之，韩绝食道，赵涉河、漳，燕守常山以北。秦攻韩、魏，则楚绝其后，齐出锐师以佐之，赵涉河、漳，燕守云中。秦攻齐，则楚绝其后，韩守成皋，魏塞午道，赵涉河、漳、博关，燕出锐师以佐之。秦攻燕，则赵守常山，楚军武关，齐涉渤海，韩、魏出锐师以佐之。秦攻赵，则韩军宜阳，楚军武关，魏军河外，齐涉渤海，燕出锐师以佐之。诸侯有先背约者，五国共伐之。六国从亲以摈秦，秦必不敢出兵函谷关以害山东矣。如是则伯业成矣。”</p>
+<p>　　赵王曰：“寡人年少，莅国之日浅，未尝得闻社稷之长计。今上客有意存天下，安诸侯，寡人敬以国从。”乃封苏秦为武安君，饰车百乘，黄金千镒，白璧百双，锦绣千纯，以约诸侯。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4582.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4584.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3368" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

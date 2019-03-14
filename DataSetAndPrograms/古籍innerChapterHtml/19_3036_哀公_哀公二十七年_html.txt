@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·哀公·哀公二十七年_古诗文网
+</title>
+<meta content="【传】二十七年春，越子使后庸来聘，且言邾田，封于骀上。 二月，盟于平阳，三子皆从。康子病之，言及子赣，曰：「若在此，吾不及此夫！」武伯曰：「然。何不召？」曰：「固将召之。」文子曰：" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3036.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1567" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>哀公·哀公二十七年</b></span>
+<a href="javascript:PlayBookv(3036)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3036" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1567)" id="leftbtn1567" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3036" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【传】二十七年春，越子使后庸来聘，且言邾田，封于骀上。 </p>
+<p>　　二月，盟于平阳，三子皆从。康子病之，言及子赣，曰：「若在此，吾不及此夫！」武伯曰：「然。何不召？」曰：「固将召之。」文子曰：「他日请念。」 </p>
+<p>　　夏四月己亥，季康子卒。公吊焉，降礼。</p>
+<p>　　晋荀瑶帅师伐郑，次于桐丘。郑驷弘请救于齐。齐师将兴，陈成子属孤子三日朝。设乘车两马，系五色焉。召颜涿聚之子晋，曰：「隰之役，而父死焉。以国之多难，未女恤也。今君命女以是邑也，服车而朝，毋废前劳。」乃救郑。及留舒，违谷七里，谷人不知。乃濮，雨，不涉。子思曰：「大国在敝邑之宇下，是以告急。今师不行，恐无及也。」成子衣制，杖戈，立于阪上，马不出者，助之鞭之。知伯闻之，乃还，曰：「我卜伐郑，不卜敌齐。」使谓成子曰：「大夫陈子，陈之自出。陈之不祀，郑之罪也。故寡君使瑶察陈衷焉。谓大夫其恤陈乎？若利本之颠，瑶何有焉？」成子怒曰：「多陵人者皆不在，知伯其能久乎？」中行文子告成子曰：「有自晋师告寅者，将为轻车千乘，以厌齐师之门，则可尽也。」成子曰：「寡君命恒曰：『无及寡，无畏众。』虽过千乘，敢辟之乎？将以子之命告寡君。」文子曰：「吾乃今知所以亡。君子之谋也，始衷终皆举之，而后入焉。今我三不知而入之，不亦难乎？」</p>
+<p>　　公患三桓之侈也，欲以诸侯去之。三桓亦患公之妄也，故君臣多间。公游于陵阪，遇孟武伯于孟氏之衢，曰：「请有问于子，余及死乎？」对曰：「臣无由知之。」三问，卒辞不对。公欲以越伐鲁，而去三桓。秋八月甲戌，公如公孙有陉氏，因孙于邾，乃遂如越。国人施公孙有山氏。 </p>
+<p>　　悼之四年，晋荀瑶帅师围郑。未至，郑驷弘曰：「知伯愎而好胜，早下之，则可行也。」乃先保南里以待之。知伯入南里，门于桔柣之门。郑人俘酅魁垒，赂之以知政，闭其口而死。将门，知伯谓赵孟：「入之。」对曰：「主在此。」知伯曰：「恶而无勇，何以为子？」对曰：「以能忍耻，庶无害赵宗乎！」知怕不悛，赵襄子由是惎知伯，遂丧之。知伯贪而愎，故韩、魏反而丧之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3035.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1567" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

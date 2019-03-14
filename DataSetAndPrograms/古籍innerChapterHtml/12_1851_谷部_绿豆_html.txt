@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·谷部·绿豆_古诗文网
+</title>
+<meta content="气味绿豆：甘、寒、无毒。绿豆粉：甘、凉、平、无毒。豆皮：甘、寒、无毒豆芽：甘、平、无毒。主治绿豆：小儿丹肿。用绿豆五钱、大黄二钱，共研为末，加生薄荷汁和蜜，调匀敷涂。赤痢不止。用大" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1851.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>谷部·绿豆</b></span>
+<a href="javascript:PlayBookv(1851)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1851" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1851" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>气味</strong><br/>绿豆：甘、寒、无毒。<br/>绿豆粉：甘、凉、平、无毒。<br/>豆皮：甘、寒、无毒<br/>豆芽：甘、平、无毒。</p>
+<p><strong>主治</strong><br/>绿豆：<br/>小儿丹肿。用绿豆五钱、大黄二钱，共研为末，加生薄荷汁和蜜，调匀敷涂。<br/>赤痢不止。用大麻子大水中三末滤汁，煮绿豆吃，极效。<br/>消渴。用绿豆煮粥吃。<br/>痘后痈毒。用绿豆、赤小豆、黑大豆，等分为末，醋调匀时时扫涂患处。此方名“三豆膏”。<br/>水肿。用绿豆二合半、大附子一只（去皮脐，切作两片），加水三碗，煮熟，临卧时空心食豆。次日将原附子两片又各切为二，另以绿豆二合半如前煮食。第三日照第一日，第四日照第二日食豆。水从不便下，肿自消。未消可多吃几次，忌食生冷、毒物、盐、酒。<br/>绿豆粉：<br/>霍乱吐利。用绿豆粉、白糖各二两，新汲水调服即愈。<br/>解砒毒。用绿豆粉、寒水石等分，加蓝根汁调服三至五钱。<br/>署天痱疮。用绿豆粉二两、滑石一两，调匀扑患处。药中亦可加蛤粉二两。<br/>肿毒初起。用绿豆粉炒成黄黑色，加皂荚粉一两，醋调敷。皮破者。用油调。<br/>豆皮：解热毒，退目翳。<br/>豆芽：解酒毒、热毒，利一焦。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1850.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1852.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

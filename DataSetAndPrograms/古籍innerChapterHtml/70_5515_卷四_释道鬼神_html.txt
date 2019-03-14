@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+幼学琼林·卷四·释道鬼神_古诗文网
+</title>
+<meta content="如来释迦，即是牟尼，原系成佛之祖；老聃李耳，即是道君，乃是道教之宗。鹫岭、祗园，皆属佛国；交梨、火枣，尽是仙丹。沙门称释，始于晋道安；中国有佛，始于汉明帝。籛铿即是彭祖，八百高年；" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5515.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3815" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·释道鬼神</b></span>
+<a href="javascript:PlayBookv(5515)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5515" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3815)" id="leftbtn3815" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5515" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%a8%8b%e7%99%bb%e5%90%89">程登吉</a></p>
+<div class="contson">
+<p>　　如来释迦，即是牟尼，原系成佛之祖；老聃李耳，即是道君，乃是道教之宗。鹫岭、祗园，皆属佛国；交梨、火枣，尽是仙丹。沙门称释，始于晋道安；中国有佛，始于汉明帝。</p>
+<p>　　籛铿即是彭祖，八百高年；许逊原宰旌阳，一家超举。波罗犹云彼岸，紫府即是仙宫。曰上方、曰梵刹，总是佛场；曰真宇、曰蕊珠，皆称仙境。伊蒲馔可以斋僧，青精饭亦堪供佛。香积厨，僧家所备；仙麟脯，仙子所餐。佛图澄显神通，咒莲生钵；葛仙翁作戏术，吐饭成蜂。</p>
+<p>　　达摩一苇渡江，栾巴噀酒灭火。吴猛画江成路，麻姑掷米成珠。飞锡挂锡，谓僧人之行止；导引胎息，谓道士之修持。和尚拜礼曰和南，道士拜礼曰稽首。曰圆寂、曰荼毗，皆言和尚之死；曰羽化、曰尸解，悉言道士之亡。</p>
+<p>　　女道曰巫，男道曰觋，自古攸分；男僧曰僧，女僧曰尼，从来有别。羽客黄冠，皆称道士；上人比丘，并美僧人。檀越、檀那，僧家称施主；烧丹、炼汞，道士学神仙。和尚自谦，谓之空桑子；道士诵经，谓之步虚声。</p>
+<p>　　菩者普也，萨者济也，尊称神祇，故有菩萨之誉；水行龙力大，陆行象力大，负荷佛法，故有龙象之称。儒家谓之世，释家谓之劫，道家谓之尘，俱谓俗缘之未脱；儒家曰精一，释家曰三昧，道家曰贞一，总言奥义之无穷。达摩死后，手携只履西归；王乔朝君，舄化双凫下降。</p>
+<p>　　辟谷绝粒，神仙能服气炼形；不灭不生，释氏惟明心见性。梁高僧谈经入妙，可使岩石点头，天花坠地；张虚靖炼丹既成，能令龙虎并伏，鸡犬俱升。藏世界于一粟，佛法何其大；贮乾坤于一壶，道法何其玄。妄诞之言，载鬼一车；高明之家，鬼瞰其室。</p>
+<p>　　《无鬼论》作于晋之阮瞻，《搜神记》撰于晋之干宝。颜子渊、卜子商，死为地下修文郎；韩擒虎、寇莱公，死为阴司阎罗王。至若土谷之神曰社稷，干旱之鬼曰旱魃。魑魅魍魉，山川之祟；神荼郁垒，啖鬼之神。仕途偃蹇，鬼神为之揶揄；心地光明，吉神自为之呵护。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5514.aspx">上一章</a>
+<a href="/guwen/book_70.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5516.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3815" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

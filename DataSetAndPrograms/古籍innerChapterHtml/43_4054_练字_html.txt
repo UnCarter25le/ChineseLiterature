@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·练字_古诗文网
+</title>
+<meta content="夫文爻象列而结绳移，鸟迹明而书契作，斯乃言语之体貌，而文章之宅宇也。苍颉造之，鬼哭粟飞；黄帝用之，官治民察。先王声教，书必同文，輶轩之使，纪言殊俗，所以一字体，总异音。《周礼》保氏" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4054.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2648" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>练字</b></span>
+<a href="javascript:PlayBookv(4054)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4054" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2648)" id="leftbtn2648" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4054" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　夫文爻象列而结绳移，鸟迹明而书契作，斯乃言语之体貌，而文章之宅宇也。苍颉造之，鬼哭粟飞；黄帝用之，官治民察。先王声教，书必同文，輶轩之使，纪言殊俗，所以一字体，总异音。《周礼》保氏，掌教六书。秦灭旧章，以吏为师。及李斯删籀而秦篆兴，程邈造隶而古文废。</p>
+<p>　　汉初草律，明著厥法。太史学童，教试八体。又吏民上书，字谬辄劾。是以马字缺画，而石建惧死，虽云性慎，亦时重文也。至孝武之世，则相如撰篇。及宣平二帝，征集小学，张敞以正读传业，扬雄以奇字纂训，并贯练《雅》、《颂颉》，总阅音义。鸿笔之徒，莫不洞晓。且多赋京苑，假借形声，是以前汉小学，率多玮字，非独制异，乃共晓难也。暨乎后汉，小学转疏，复文隐训，臧否亦半。</p>
+<p>　　及魏代缀藻，则字有常检，追观汉作，翻成阻奥。故陈思称∶“扬马之作，趣幽旨深，读者非师传不能析其辞，非博学不能综其理。”岂直才悬，抑亦字隐。自晋来用字，率从简易，时并习易，人谁取难？今一字诡异，则群句震惊，三人弗识，则将成字妖矣。后世所同晓者，虽难斯易，时所共废，虽易斯难，趣舍之间，不可不察。</p>
+<p>　　夫《尔雅》者，孔徒之所纂，而《诗》、《书》之襟带也；《仓颉》者，李斯之所辑，而史籀之遗体也。《雅》以渊源诂训，《颉》以苑囿奇文，异体相资，如左右肩股，该旧而知新，亦可以属文。若夫义训古今，兴废殊用，字形单复，妍媸异体。心既托声于言，言亦寄形于字，讽诵则绩在宫商，临文则能归字形矣。</p>
+<p>　　是以缀字属篇，必须拣择∶一避诡异，二省联边，三权重出，四调单复。诡异者，字体瑰怪者也。曹摅诗称∶“岂不愿斯游，褊心恶凶呶。”两字诡异，大疵美篇。况乃过此，其可观乎！联边者，半字同文者也。状貌山川，古今咸用，施于常文，则龃龉为瑕，如不获免，可至三接，三接之外，其字林乎！重出者，同字相犯者也。《诗》、《骚》适会，而近世忌同，若两字俱要，则宁在相犯。故善为文者，富于万篇，贫于一字，一字非少，相避为难也。单复者，字形肥瘠者也。瘠字累句，则纤疏而行劣；肥字积文，则黯黕而篇暗。善酌字者，参伍单复，磊落如珠矣。凡此四条，虽文不必有，而体例不无。若值而莫悟，则非精解。</p>
+<p>　　至于经典隐暧，方册纷纶，简蠹帛裂，三写易字，或以音讹，或以文变。子思弟子，“于穆不似”，音讹之异也。晋之史记，“三豕渡河”，文变之谬也。《尚书大传》有“别风淮雨”，《帝王世纪》云“列风淫雨”。“别”、“列”、“淮”、“淫”，字似潜移。“淫”、“列”义当而不奇，“淮”、“别”理乖而新异。傅毅制诔，已用“淮雨”；元长作序，亦用“别风”，固知爱奇之心，古今一也。史之阙文，圣人所慎，若依义弃奇，则可与正文字矣。</p>
+<p>　　赞曰∶</p>
+<p>　　篆隶相熔，苍雅品训。古今殊迹，妍媸异分。</p>
+<p>　　字靡易流，文阻难运。声画昭精，墨采腾奋。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4053.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4055.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2648" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

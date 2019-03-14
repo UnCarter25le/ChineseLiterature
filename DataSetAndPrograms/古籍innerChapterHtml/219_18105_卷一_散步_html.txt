@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+老老恒言·卷一·散步_古诗文网
+</title>
+<meta content="坐久则络脉滞，居常无所事，即于室内时时缓步，盘旋数十匝，使筋骸活动，络脉乃得流通。习之既久，步可渐至千百，兼增足力。步主筋，步则筋舒而四肢健；懒步则筋挛，筋挛日益加懒。偶展数武，便" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18105.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·散步</b></span>
+<a href="javascript:PlayBookv(18105)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18105" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18105" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%b9%e5%bb%b7%e6%a0%8b">曹廷栋</a></p>
+<div class="contson">
+<p>　　坐久则络脉滞，居常无所事，即于室内时时缓步，盘旋数十匝，使筋骸活动，络脉乃得流通。习之既久，步可渐至千百，兼增足力。步主筋，步则筋舒而四肢健；懒步则筋挛，筋挛日益加懒。偶展数武，便苦气管，难免久坐伤肉之弊。欲步先起立，振衣定息，以立功诸法，徐徐行一度（“立功”见二卷《导引》内）。然后从容展步，则精神足力，倍加爽健。《荀子》曰：“安燕而气血不惰，此之谓也。”</p>
+<p>　　饭后食物停胃，必缓行数百步，散其气以输于脾，则磨胃而易腐化。《蠡海集》曰：“脾与胃俱属土，土耕锄始能生殖，不动则为荒土矣，故步所以动之！”《琅环记》曰：“古之老人，饭后必散步，欲摇动其身以消食也，故后人以散步为消摇。”</p>
+<p>　　《遵生笺》曰：“凡行步时，不得与人语，欲语须住足，否则令人失气。”谓行步则动气，复开口以发之，气遂断续而失调也。虽非甚要，寝食而外，不可言语，亦须添此一节。</p>
+<p>　　散步者，散而不拘之谓。且行且立，且立且行，须得一种闲暇自如之态。卢纶诗：“白云流水如闲步”是也。《南华经》曰：“水之性不杂则清。”郁闭而不流，亦不能清，此养神之道也，散步所以养神。</p>
+<p>    偶尔步，欲少远，须自揣足力，毋勉强。更命小舟相随，步出可以舟回，或舟出而步回，随其意之所便。既回，即就便榻眠少顷，并进汤饮以和其气。元微之诗云：“僶[mǐn]俛[miǎn古同“黾勉”] 还移步，持疑又省躬。”即未免涉于勉强矣。</p>
+<p>　　春探梅、秋访菊，最是雅事。风日晴和之时，偕二三老友，支筇里许，安步亦可当车。所戒者，乘兴纵步，一时客气为主，相忘疲困，坐定始觉受伤，悔已无及。</p>
+<p>　　午后坐久微倦，不可便榻即眠，必就卧室安枕移时，或醒或寐，任其自然，欲起即起，不须留恋。《左传》医和之言曰：“晦淫惑疾。”注：寝过节则惑乱。既起，以热水洗面，则眼光倍爽；加薄绵衣暖其背，则肢体俱觉轻健。乐天诗，所谓“一觉闲眠百病消”也。三伏时或眠便榻，另设帐，窗户俱必密闭。冬月昼卧，当以薄被覆其下体，此时微阳潜长，必温暖以养之。血气本喜温而恶寒，何况冬月。如不以被覆，及起，定觉神色偃[yǎn仰面倒下]蹇[jiǎn跛]，遍体加冷，阳微弗胜阴凝也。</p>
+<p>　　长夏昼卧，醒后即进热饮，以助阳气，如得微汗亦妙。夏为阳极之候，昼宜动，而卧则反静，宣达之所以顺时。</p>
+<p>　　欧阳公曰：“介甫尝云：'夏月昼卧，方枕为佳。’”睡久气蒸枕热，则转一方冷处，老年虽不宜受冷，首为阳，不可令热。况长夏昼卧，枕虽末节，亦取所宜。</p>
+<p>　　《天禄识余》云：“李黄门以午睡为摊饭。”放翁诗：“摊饭横眠梦蝶床。”此惟年壮胃强方可，老年胃气既弱，运动尚虑停滞，必待食久既化，胸膈宽然，未倦犹弗卧；少倦及就枕，过此恐又不成寐矣。</p>
+<p>　　坐而假寐，醒时弥觉神清气爽，较之就枕而卧，更为受益；然有坐不能寐者，但使缄其口、闭其目、收摄其心神，休息片时，足当昼眠，亦堪遣日。乐天诗云：“不作午时眠，日长安可度？”此真老年闲寂之况。</p>
+<p>　　当昼即寝，既寝而起，入夜复寝，一昼夜间，寝兴分而二之。盖老年气弱，运动久则气道涩，故寝以节之。每日时至午，阳气渐消，少息所以养阳；时至子，阳气渐长，熟睡所以养阴。东坡诗云：“此身正似蚕将老，更尽春光一再眠。”若少壮阳气方盛，昼寝反令目错头重，阳亢也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18104.aspx">上一章</a>
+<a href="/guwen/book_219.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18106.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

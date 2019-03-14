@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+法华经·卷四·提婆达多品_古诗文网
+</title>
+<meta content="尔时佛告诸菩萨、及天人四众：“吾于过去无量劫中，求法华经，无有懈倦。于多劫中、常作国王，发愿求于无上菩提，心不退转。为欲满足六波罗蜜，勤行布施，心无吝惜，象、马、七珍、国、城、妻、" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13831.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·提婆达多品</b></span>
+<a href="javascript:PlayBookv(13831)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13831" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13831" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%b8%a0%e6%91%a9%e7%bd%97%e4%bb%80%e8%af%91">鸠摩罗什译</a></p>
+<div class="contson">
+<p>　　尔时佛告诸菩萨、及天人四众：“吾于过去无量劫中，求法华经，无有懈倦。于多劫中、常作国王，发愿求于无上菩提，心不退转。为欲满足六波罗蜜，勤行布施，心无吝惜，象、马、七珍、国、城、妻、子，奴婢、仆从，头、目、髓、脑，身、肉、手、足，不惜躯命。时世人民、寿命无量，为于法故，捐舍国位，委政太子，击鼓宣令、四方求法：“谁能为我说大乘者，吾当终身供给走使。”时有仙人、来白王言：“我有大乘，名妙法莲华经，若不违我，当为宣说。”王闻仙言，欢喜踊跃，即随仙人、供给所需，采果、汲水，拾薪、设食，乃至以身而为床座，身心无倦。于时奉事、经于千岁，为于法故，一精一勤给侍，令无所乏。”</p>
+<p>　　尔时世尊欲重宣此义，而说偈言：</p>
+<p>　　我念过去劫， 为求大法故， 虽作世国王， 不贪五欲乐。<br/>　　捶钟告四方， 谁有大法者， 若为我解说， 身当为奴仆。<br/>　　时有阿私仙， 来白于大王， 我有微妙法， 世间所稀有，<br/>　　若能修行者， 吾当为汝说。 时王闻仙言， 心生大喜悦，<br/>　　即便随仙人， 供给于所需。 采薪及果蓏， 随时恭敬与，<br/>　　情存妙法故， 身心无懈倦。 普为诸众生， 勤求于大法，<br/>　　亦不为己身、 及以五欲乐。 故为大国王， 勤求获此法，<br/>　　遂致得成佛， 今故为汝说。</p>
+<p>　　佛告诸比丘：“尔时王者，则我身是。时仙人者，今提婆达多是。由提婆达多善知识故，令我具足六波罗蜜，慈悲喜舍，三十二相，八十种好，紫磨金色，十力、四无所畏、四摄法、十八不共、神通道力，成等正觉，广度众生，皆因提婆达多善知识故。”</p>
+<p>　　告诸四众：“提婆达多却后过无量劫，当得成佛，号曰天王如来、应供、正遍知、明行足、善逝世间解、无上士、调御丈夫、天人师、佛、世尊。世界名天道。时天王佛、住世二十中劫，广为众生说于妙法，恒河沙众生得阿罗汉果，无量众生发缘觉心，恒河沙众生发无上道心，得无生忍，至不退转。”</p>
+<p>　　“时天王佛般涅槃后，正法住世二十中劫。全身舍利、起七宝塔，高六十由旬，纵广四十由旬，诸天人民，悉以杂华、末香、烧香、涂香，衣服、璎珞、幢幡、宝盖，伎乐、歌颂，礼拜、供养七宝妙塔。无量众生、得阿罗汉果，无量众生、悟辟支佛，不可思议众生、发菩提心，至不退转。”</p>
+<p>　　佛告诸比丘：“未来世中，若有善男子、善女人，闻妙法华经提婆达多品，净心信敬，不生疑惑者，不堕地狱、饿鬼、畜生，生十方佛前，所生之处，常闻此经。若生人天中，受胜妙乐，若在佛前，莲华化生。”</p>
+<p>　　于时下方多宝世尊、所从菩萨，名曰智积，白多宝佛：“当还本土。”释迦牟尼佛告智积曰：“善男子，且待须臾，此有菩萨、名文殊师利，可与相见，论说妙法，可还本土。”</p>
+<p>　　尔时文殊师利、坐千叶莲华，大如车轮，俱来菩萨亦坐宝莲华，从于大海娑竭罗龙宫、自然涌出，住虚空中，诣灵鹫山，从莲华下，至于佛所，头面敬礼二世尊足。修敬已毕，往智积所，共相慰问，却坐一面。</p>
+<p>　　智积菩萨问文殊师利：“仁往龙宫，所化众生，其数几何？”文殊师利言：“其数无量，不可称计，非口所宣，非心所测，且待须臾，自当证知。”所言未竟，无数菩萨、坐宝莲华，从海涌出，诣灵鹫山，住虚空中。此诸菩萨，皆是文殊师利之所化度，具菩萨行，皆共论说六波罗蜜。本声闻人、在虚空中说声闻行，今皆修行大乘空义。文殊师利谓智积曰：“于海教化，其事如是。”尔时智积菩萨，以偈赞曰：</p>
+<p>　　大智德勇健， 化度无量众， 今此诸大会、 及我皆已见。<br/>　　演畅实相义， 开阐一乘法， 广导诸众生， 令速成菩提，</p>
+<p>　　文殊师利言：“我于海中，惟常宣说妙法华经。”智积问文殊师利言：“此经甚深微妙，诸经中宝，世所稀有，颇有众生、勤加一精一进，修行此经，速得佛否？”文殊师利言：“有裟竭罗龙王女，年始八岁，智慧利根，善知众生诸根行业，得陀罗尼，诸佛所说甚深秘藏，悉能受持。深入禅定，了达诸法，于刹那顷、发菩提心，得不退转，辩才无碍。慈念众生、犹如赤子，功德具足，心念口演，微妙广大，慈悲仁让，志意和雅，能至菩提。”</p>
+<p>　　智积菩萨言：“我见释迦如来，于无量劫、难行苦行，积功累德，求菩提道，未曾止息。观三千大千世界，乃至无有如芥子许、非是菩萨舍身命处，为众生故，然后乃得成菩提道。不信此女于须臾顷、便成正觉。”言论未讫，时龙王女、忽现于前，头面礼敬，却住一面，以偈赞曰：</p>
+<p>　　深达罪福相， 遍照于十方， 微妙净法身， 具相三十二，<br/>　　以八十种好、 用庄严法身。 天人所戴仰， 龙神咸恭敬，<br/>　　一切众生类， 无不宗奉者。 又闻成菩提， 唯佛当证知，<br/>　　我阐大乘教， 度脱苦众生。</p>
+<p>　　时舍利弗语龙女言：“汝谓不久得无上道，是事难信。所以者何。女身垢秽，非是法器，云何能得无上菩提。佛道悬旷，经无量劫、勤苦积行，具修诸度，然后乃成。又女人身、犹有五障，一者、不得作梵天王，二者、帝释，三者、魔王，四者、转轮圣王，五者、佛身，云何女身速得成佛？”</p>
+<p>　　尔时龙女有一宝珠，价值三千大千世界，持以上佛。佛即受之。龙女谓智积菩萨、尊者舍利弗言：“我献宝珠，世尊纳受，是事疾否？”答言：“甚疾。”女言：“以汝神力、观我成佛，复速于此。”当时众会，皆见龙女、忽然之间、变成男子，具菩萨行，即往南方无垢世界，坐宝莲华，成等正觉，三十二相、八十种好，普为十方一切众生、演说妙法。尔时娑婆世界、菩萨、声闻、天龙八部、人与非人，皆遥见彼龙女成佛，普为时会人天说法，心大欢喜，悉遥敬礼。无量众生、闻法解悟，得不退转，无量众生、得受道记，无垢世界、六反震动，娑婆世界、三千众生住不退地、三千众生发菩提心、而得受记。智积菩萨、及舍利弗，一切众会，默然信受。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13830.aspx">上一章</a>
+<a href="/guwen/book_153.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13832.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

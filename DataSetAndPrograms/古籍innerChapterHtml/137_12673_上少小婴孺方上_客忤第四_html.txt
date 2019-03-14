@@ -1,0 +1,158 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·上少小婴孺方上·客忤第四_古诗文网
+</title>
+<meta content="（论二首 方二十七首 灸法一首）论曰∶少小所以有客忤病者，是外人来气息忤之，一名中人，是为客忤也。虽是家人，或别房异户，虽是乳母及父母或从外还，衣服经履鬼神粗恶暴气，或牛马之气，皆" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12673.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上少小婴孺方上·客忤第四</b></span>
+<a href="javascript:PlayBookv(12673)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12673" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12673" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（论二首 方二十七首 灸法一首）</span></p>
+<p>　　论曰∶少小所以有客忤病者，是外人来气息忤之，一名中人，是为客忤也。虽是家人，或别房异户，虽是乳母及父母或从外还，衣服经履鬼神粗恶暴气，或牛马之气，皆为忤也。</p>
+<p>　　执作喘息乳气未定者，皆为客忤。其乳母遇醉或房劳，喘后乳儿最剧，能杀儿也，不可不慎。</p>
+<p>　　凡诸乘马行，得马汗气臭，未盥洗易衣装便向儿边，令儿中马客忤。儿卒见马来，及闻马鸣惊，及马上衣物马气，皆令小儿中马客忤。慎护之，特重一岁儿也。</p>
+<p>　　凡小儿衣，布帛绵中不得有头发，履中亦尔，白衣青带，青衣白带，皆令中忤。</p>
+<p>　　凡非常人及诸物从外来，亦能惊小儿至致病。欲防之法，诸有从外来人及有异物入户，当将儿避之，勿令见也，若不避者，烧牛屎，令常有烟气置户前，则善。</p>
+<p>　　小儿中客为病者，无时不有此病也。而秋初一切小儿皆病者，岂是一切小儿悉中客邪。</p>
+<p>　　夫小儿所以春冬少病，秋夏多病者，秋夏小儿阳气在外，血脉嫩弱，秋初夏末，晨夕时有暴冷，小儿嫩弱，其外则易伤，暴冷折其阳，阳结则壮热，胃冷则下痢，是故夏末秋初，小儿多壮热而下痢，未必皆是中客及魃也。若治少小法，夏末秋初常宜候天气温凉也。有暴寒卒冷者，其少小则多患壮热而下痢也，慎不可先下之，皆先杀毒后下之耳。</p>
+<p>　　《玄中记》云，天下有女鸟，名曰姑获（《肘后》、《子母秘录》作乌获），一名天帝女，一名隐飞鸟，一名夜行游女，又名钓星鬼，喜以阴雨夜过飞鸣，徘徊人村里，唤得来者是也。</p>
+<p>　　鸟纯雌无雄不产，阴气毒化生，喜落毛羽于人中庭，置儿衣中，便令儿作痫，病必死，即化为其儿也。是以小儿生至十岁，衣被不可露也，七八月尤忌。</p>
+<p>　　凡中客忤之为病，类皆吐下青黄白色，水谷解离腹痛天纠，面色变易，其候似痫，但眼不上插耳，其脉急数者是也，宜与龙胆汤下之，加人参当归，各如龙胆称分等多少也。</p>
+<p>　　小儿中客，急视其口中悬雍左右，当有青黑肿脉核如麻豆大，或赤或白或青，如此便宜用针速刺溃去之，亦可爪摘决之，并以绵缠钗头拭去血也。</p>
+<p>　　少小中客之为病，吐下青黄赤白汁，腹中痛，及反倒偃侧，喘似痫状，但目不上插少睡耳，面变五色，其脉弦急，若失时不治，小久则难治矣。欲疗之方∶</p>
+<p>　　用豉数合，水拌令湿，捣熟丸如鸡子大，以摩儿囟及手足心，各五六遍毕，以丸摩儿心及<strong>治少小中客忤，项强欲死方∶</strong> </p>
+<p>　　取衣中白鱼十枚，为末以敷母乳头上，令儿饮之，入咽立愈。（一方二枚着儿母手，掩儿脐中，儿吐下愈，亦以摩儿项及脊强处。）</p>
+<p>　　<strong>又方</strong> 吞麝香大豆许，立愈。</p>
+<p>　　<strong>治小儿卒中忤方∶ </strong></p>
+<p>　　剪取驴前膊胛上旋毛，大如弹子，以乳汁煎之，令毛消药成，着乳头饮之，下喉即愈。</p>
+<p>　　<strong>又方</strong> 烧母衣带三寸，并发合乳汁，服之。</p>
+<p>　　<strong>又方</strong> 取牛鼻津服之。或牛口沫敷乳头，饮之。</p>
+<p>　　<strong>一物猪蹄散<br/></strong>　　<strong>治小儿寒热及赤气中人方。</strong></p>
+<p>　　取猪后足悬蹄，烧末捣筛，以饮乳汁一撮，立效。</p>
+<p>　　<strong>治少小猝中客忤，不知人者方∶ </strong></p>
+<p>　　取热马屎一丸，绞取汁饮儿，下咽便愈。亦治中客忤而KT 啼，面青腹强者。</p>
+<p>　　<strong>一物马通浴汤<br/></strong>　　<strong>治少小中忤方。</strong></p>
+<p>　　马通三升，烧令烟绝，以酒一斗煮三沸去滓，浴儿即愈。</p>
+<p>　　<strong>一物猪通浴汤<br/></strong>　　治<strong>小儿中人忤，KT 啼面青腹强者方</strong>。</p>
+<p>　　猪通二升，以热汤灌之，适寒温浴儿。</p>
+<p>　　<strong>治少小客忤，二物黄土涂头方∶ </strong></p>
+<p>　　取灶中黄土、蚯蚓屎等分捣，合水和如鸡子黄大，涂儿头上及五心，良。一方云用鸡子清和如泥。</p>
+<p>　　<strong>治小儿卒客忤方∶ </strong></p>
+<p>　　铜镜鼻烧令赤，着少许酒中，大儿饮之，小儿不能饮者含与之，即愈。</p>
+<p>　　<strong>治小儿中马客忤而吐不止者方∶ </strong></p>
+<p>　　灸手心主间使大都隐白三阴交各三壮，可用粉丸如豉法，并用唾，唾而咒之，咒法如下。</p>
+<p>　　咒客忤法∶咒曰∶摩家公，摩家母，摩家子儿苦客忤，从我始，扁鹊虽良不如善唾。良咒讫，弃丸道中。</p>
+<p>　　<strong>又法</strong>∶取一刀横着灶上，解儿衣，发其心腹讫，取刀持向儿咒之唾，辄以刀向心腹，啡啡曰（音非出唾貌），煌煌日，出东方，背阴向阳，葛公葛公，不知何公，子来不视，去罔顾，过与生人忤，梁上尘，天之神，户下土，鬼所经，大刀环犀对灶君。二七唾客愈。儿惊唾啡啡如此。二七啡啡，每唾以刀拟之咒，当三遍乃毕，用豉丸如上法，五六遍讫，取此丸破视其中有毛，弃丸道中，客忤即愈矣。</p>
+<p>　　<strong>小儿魃法∶</strong> </p>
+<p>　　论曰∶凡小儿有魃病者，是妇人怀娠，有恶神导其腹中胎，妒嫉他小儿令病也。魃者，小鬼也（音奇），妊娠妇人不必悉招魃魅，人时有此耳。魃之为疾，喜微微下痢，寒热或有去来，毫毛鬓发KT 不悦，是其证也，宜服龙胆汤。凡妇人先有小儿未能行，而母又孕，使儿饮此乳，亦作 也，令儿黄瘦骨立，发落壮热，是其证也。</p>
+<p>　　<strong>治魃方</strong>∶ 炙伏翼，熟咀哺之。</p>
+<p>　　<strong>又方</strong> 烧伏翼末，饮服之。</p>
+<p>　　<strong>又方</strong> 以水二升煮 蓄、冬瓜各四两，取浴之。</p>
+<p>　<strong>　白藓皮汤<br/></strong>　　<strong>治少小客魃挟实方。</strong></p>
+<p>　　白藓皮 大黄 甘草（各一两） 芍药 茯苓 细辛 桂心（各十八铢）</p>
+<p>　　上七味 咀，以水二升，煮取九合，分三服。</p>
+<p>　　小儿夜啼∶？</p>
+<p>　　<strong>龙角丸<br/></strong>　　治小儿五惊夜啼方（崔氏名五惊丸）。</p>
+<p>　　龙角（六铢） 牡蛎（一作牡丹） 川大黄（各九铢） 黄芩（半两） 蚱蝉（二枚） 牛黄（如小豆五枚）</p>
+<p>　　上六味末，蜜丸如麻子，蓐里儿服二丸，随儿大小增减。</p>
+<p>　　<strong>川芎散<br/></strong>　　<strong>治小儿夜啼，至明即安寐方。</strong></p>
+<p>　　川芎 白术 防己（各半两）</p>
+<p>　　上三味治下筛，以乳和与儿服之，量多少，又以儿母手掩脐中，亦以摩儿头及脊，验。</p>
+<p>　　二十日儿未能服散者，以乳汁和之，服如麻子一丸。儿大能服药者，以意斟酌之。</p>
+<p>　　<strong>一物前胡丸<br/></strong>　　<strong>治少小夜啼方。</strong></p>
+<p>　　前胡随多少捣末，蜜和丸如大豆，服一丸，日三，稍加至五六丸，以瘥为度。</p>
+<p>　　<strong>千金汤<br/></strong>　　<strong>治小儿暴惊啼绝死，或有人从外来，邪气所逐，令儿得疾，众医不治方。</strong></p>
+<p>　　川椒 左顾牡蛎（各六铢碎）</p>
+<p>　　上二味以醋浆水一升，煮取五合，每服一合。</p>
+<p>　　<strong>又方</strong> 伏龙肝 交道中土（各一把）</p>
+<p>　　上二味治下筛，水和少许饮之。</p>
+<p>　　<strong>又方</strong> 取马骨烧灰，敷乳上饮，儿啼即止。<strong>治小儿夜啼不已，医所不治者方∶</strong></p>
+<p>　　取野狼屎中骨，烧灰为末，水服如黍米粒大二枚，即定。</p>
+<p>　　<strong>又方</strong> 烧 皮三寸灰，着乳头饮之。</p>
+<p>　　<strong>治小儿惊啼方∶ </strong></p>
+<p>　　取鸡屎白熬末，以乳服之，佳。</p>
+<p>　　<strong>又方</strong> 酒服乱发灰，良。</p>
+<p>　　<strong>又方</strong> 以妊娠时食饮偏有所思者物，哺儿则愈。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12672.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12674.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

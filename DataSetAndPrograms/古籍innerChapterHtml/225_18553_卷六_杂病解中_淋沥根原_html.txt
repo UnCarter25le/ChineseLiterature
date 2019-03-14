@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷六·杂病解中·淋沥根原_古诗文网
+</title>
+<meta content="淋沥者，乙木之陷于壬水也。膀胱为太阳寒水之府，少阳相火随太阳而下行，络膀胱而约下焦，实则闭癃，虚则遗溺。相火在下，逢水则藏，遇木则泄。癸水藏之，故泄而不至于遗溺；乙木泄之，故藏而不" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18553.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·杂病解中·淋沥根原</b></span>
+<a href="javascript:PlayBookv(18553)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18553" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18553" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　淋沥者，乙木之陷于壬水也。膀胱为太阳寒水之府，少阳相火随太阳而下行，络膀胱而约下焦，实则闭癃，虚则遗溺。相火在下，逢水则藏，遇木则泄。癸水藏之，故泄而不至于遗溺；乙木泄之，故藏而不至于闭癃，此水道所以调也。</p>
+<p>　　水之能藏，赖戊土之降，降则气聚也；木之能泄，赖己土之升，升则气达也。胃逆而水不能藏，是以遗溺；脾陷而木不能泄，是以闭癃。淋者，藏不能藏，既病遗溺，泄不能泄，又苦闭癃。</p>
+<p>　　水欲藏而木泄之，故频数而不收；木欲泄而水藏之，故梗涩而不利。木欲泄而不能泄，则溲溺不通；水欲藏而不能藏，则精血不秘。缘木不能泄，生气幽郁而为热，溲溺所以结涩；水不能藏，阳根泄露而生寒，精血所以流溢。</p>
+<p>　　而其寒热之机，悉由于太阴之湿。湿则土陷而木遏，疏泄不行，淋痢皆作。淋痢一理，悉由木陷，乙木后郁于谷道则为痢，前郁于水府则为淋。其法总宜燥土疏木，土燥而木达，则疏泄之令畅矣。</p>
+<p>　　桂枝苓泽汤</p>
+<p>　　茯苓三钱　泽泻三钱　甘草三钱，生　桂枝三钱　芍药三钱</p>
+<p>　　煎大半杯，热服。</p>
+<p>　　肝燥发渴，加阿胶。</p>
+<p>　　脾为湿土，凡病则湿，肝为风木，凡病则燥。淋家土湿脾陷，抑遏乙木发生之气，疏泄不畅，故病淋涩。木郁风动，津液耗损，必生消渴。其脾土全是湿邪，而其肝木则属风燥。血藏于肝，风动则血消，此木燥之原也。苓、泽、甘草，培土而泻湿，桂枝、芍药，疏木而清风，此是定法。土愈湿则木愈燥，若风木枯燥之至，芍药不能清润，必用阿胶。仲景猪苓汤善利小便，茯苓、猪苓、泽泻、滑石，利水而泻湿，阿胶清风而润燥也。</p>
+<p>　　水性蛰藏，木性疏泄。乙木生于癸水，相火封藏，癸水温暖，温气左升，则化乙木。生气畅茂，乙木发达，疏泄之令既遂，则水道清通而相火必秘。土陷木遏，疏泄不遂，而愈欲疏泄，则相火泄露而膀胱热涩。膀胱之热涩者，风木相火之双陷于膀胱也。足少阳甲木化气于相火，与手少阳三焦并温水藏。手少阳之相火泄，则下陷于膀胱而病淋；足少阳之相火泄，则上逆于胸膈而病消。其原总由于乙木之郁也。膀胱热涩之极者，加栀子、黄柏，以清三焦之陷，则水府清矣。</p>
+<p>　　乙木之温，生化君火，木郁阳陷，温气抑遏，合之膀胱沦陷之相火，故生下热。然热在肝与膀胱，而脾则是湿，肾则是寒。寒水侮土，移于脾宫，则脾不但湿，而亦且病寒。其肝与膀胱之热，不得不清，而脾土湿寒，则宜温燥，是宜并用干姜，以温己土。若过清肝热，而败脾阳，则木火增其陷泄，膀胱热涩，永无止期矣。惟温肾之药，不宜早用，恐助膀胱之热。若膀胱热退，则宜附子暖水，以补肝木发生之根也。</p>
+<p>　　肾主藏精，肝主藏血，木欲疏泄，而水莫蛰藏，则精血皆下。其精液流溢，宜薯蓣、山茱以敛之。其血块注泄，宜丹皮、桃仁以行之。</p>
+<p>　　淋家或下沙石，或下白物。砂石者，膀胱热癃，溲溺煎熬所结。水曰润下，润下作咸，溲溺之咸者，水之润下而成也。百川下流，则归于海，海水熬炼，则结盐块。膀胱即人身之海，沙石即海水之盐也。</p>
+<p>　　白物者，脾肺湿淫所化。湿旺津凝，则生痰涎，在脾则克其所胜，在肺则传其所生，皆入膀胱。膀胱湿盛，而下无泄窍，湿气淫泆，化为带浊。白物粘联，成块而下，即带浊之凝聚者也。与脾肺生痰，其理相同。淋家下见白物，上必多痰。泻湿宜重用苓、泽，若其痰多，用仲景小半夏加茯苓、橘皮以泻之。</p>
+<p>　　女子带浊崩漏，与男子白浊血淋同理，皆湿旺木郁之证。内伤百病，大率由于土湿，往往兼病淋涩，而鼓胀、噎膈、消渴、黄疸之家更甚。是缘阳虚土败，金木双郁。燥土温中，辅以清金疏木之品，淋涩自开。庸工见其下热，乃以大黄，益败脾阳，谬妄极矣！淋家下热之至，但有栀子、黄柏证，无有大黄、芒硝证，其热不在脾胃也。</p>
+<p>　　一切带浊、崩漏、鼓胀、黄疸，凡是小便淋涩，悉宜熏法。用土茯苓、茵陈蒿、栀子、泽泻、桂枝，研末布包，热熨小腹，外以手炉烘之，热气透彻，小便即行，最妙之法。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18552.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18554.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

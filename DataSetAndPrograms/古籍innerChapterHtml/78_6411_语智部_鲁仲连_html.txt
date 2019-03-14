@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·语智部·鲁仲连_古诗文网
+</title>
+<meta content="【原文】秦围赵邯郸，诸侯莫敢先救。魏王使客将军辛垣衍间入邯郸，欲与赵尊秦为帝。鲁仲连适在赵，闻之，见平原君胜。胜为介绍，而见之于辛垣衍。鲁连见辛垣衍而无言。辛垣衍曰：“吾视居此围城" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6411.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5390" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>语智部·鲁仲连</b></span>
+<a href="javascript:PlayBookv(6411)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6411" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5390)" id="leftbtn5390" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6411" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　秦围赵邯郸，诸侯莫敢先救。魏王使客将军辛垣衍间入邯郸，欲与赵尊秦为帝。鲁仲连适在赵，闻之，见平原君胜。胜为介绍，而见之于辛垣衍。鲁连见辛垣衍而无言。辛垣衍曰：“吾视居此围城之中者，皆有求于平原君者也，今观先生之玉貌，非有求于平原君者，曷为久居此围城之中而不去也？”鲁连曰：“秦弃礼义、上首功之国也，权使其士，虏使其民，彼肆然而为帝，则连有赴东海而死耳，不忍为之民也。所为见将军者，欲以助赵也。”辛垣衍曰：“助之奈何？”鲁连曰：“吾将使梁及燕助之，齐、楚固助之矣。”辛垣衍曰：“燕吾不知；若梁，则吾乃梁人也。先生恶能使梁助之耶？”鲁连曰：“梁未睹秦称帝之害故也，使睹秦称帝之害，则必助赵矣。”辛垣衍曰：“秦称帝之害奈何？”鲁连曰：“昔齐威王尝为仁义矣，率天下诸侯而朝周。周贫且微，诸侯莫朝，而齐独朝之。居岁余，周烈王崩，诸侯皆到，齐后往，周怒，赴于齐曰：‘天崩地坼，天子下席，东藩之臣田婴齐后至，则斩之!’威王勃然怒曰：‘叱嗟，鲁仲连而母婢也!’卒为天下笑。故生则朝周，死则叱之，诚不忍其求也。彼天子固然，其无足怪。”辛垣衍曰：“先生独未见夫仆乎？十人而从一人者，宁力不胜，智不若耶？畏之也!”鲁连曰：“梁之比于秦若仆耶？”（边批：激之。）辛垣衍曰：“然。”鲁连曰：“然则吾将使秦王烹醢梁王。”（边批：重激之。）辛垣衍怏然不悦，曰：“嘻，亦太甚矣，先生又恶能使秦王烹醢梁王？”鲁连曰：“固也，待吾言之。昔者鬼侯、鄂侯、文王，纣之三公也。鬼侯有子而好，故入之于纣，纣以为恶，醢鬼侯；鄂侯争之急，辩之疾，并脯鄂侯；文王闻而叹息，拘于羑里之库百日，而欲令之死。曷为与人俱称帝王，卒就脯醢之地也？齐湣王将之鲁，夷维子执策而从，谓鲁人曰：‘子将何以待吾君？’鲁人曰：‘吾将以十太牢待子之君。’夷维子曰：‘吾君，天子也。天子巡狩，诸侯避舍，纳管键，摄衽抱几，视膳于堂下，天子已食，退而听朝也。’鲁人投其钥，不果纳。将之薛，假途于邹。当是时，邹君死，湣王欲入吊，夷维子谓邹之孤曰：‘天子吊，主人必将倍殡柩，设北面于南方，然后天子南面吊也。’邹之群臣曰：‘必若此，吾将伏剑而死。’故不敢入于邹。邹、鲁之臣。生则不能事养，死则不得饭含，（边批：为齐强横故。）然且欲行天子之礼于邹、鲁之臣，不果纳。今秦万乘之国，梁亦万乘之国，交有称王之名，睹其一战而胜，欲从而帝之，是使三晋之大臣，未如邹、鲁之仆妾也。且秦无已而帝，则且变易诸侯之大臣，彼将夺其所谓不肖，而予其所谓贤，夺其所憎，而予其所爱，彼又将使其子女谗妾为诸侯妃姬，处梁之宫，梁王安得晏然而已乎？而将军又何以得故宠乎？”于是辛垣衍起，再拜谢曰：“吾乃今知先生为天下之士也，吾请去，不敢复言帝秦矣。”秦将闻之，为却军五十里。</p>
+<p>　　〔评〕苏轼曰：“仲连辩过仪、秦，气凌髡、衍，排难解纷，功成而逃，实战国一人而已。”穆文熙曰：“仲连挫帝秦之说，而秦将为之却军，此《淮南》之所谓‘庙战’也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6410.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6412.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5390" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

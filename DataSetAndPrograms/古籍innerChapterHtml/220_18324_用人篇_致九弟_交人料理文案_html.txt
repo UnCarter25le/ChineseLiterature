@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·用人篇·致九弟·交人料理文案_古诗文网
+</title>
+<meta content="沅甫九弟左右：十一月初二日，春二甲四归，接廿四夜来书，具悉一切。弟营中事要尚顺，家中大小欣慰。帅逸斋之叔号小舟者，于初二日来，携有张六琴太守书缄，具告逸斋死事之惨。余具奠金五十两，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18324.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>用人篇·致九弟·交人料理文案</b></span>
+<a href="javascript:PlayBookv(18324)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18324" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18324" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　沅甫九弟左右：</p>
+<p>　　十一月初二日，春二甲四归，接廿四夜来书，具悉一切。弟营中事要尚顺，家中大小欣慰。帅逸斋之叔号小舟者，于初二日来，携有张六琴太守书缄，具告逸斋死事之惨。余具奠金五十两，交小舟为渠赴江西之旅资。又作书寄雪琴，嘱其备战船至广西，迎护逸斋之眷口，由浙江来，又备舟至省城，迎护逸斋与其侄之灵枢于南康，会齐同出湖口，由湖口段窑至黄梅帅宅，不过数十里耳。</p>
+<p>　　前此仙舟先生墓门，被贼掘毁，余曾寄书润芝中丞，莲舫员外，筹银三四百两，为修葺之资。此次小舟归里，可一并妥为安厝，少有余资，即以赡济逸斋之眷口，然亦极薄，难以自存矣。</p>
+<p>　　东乡败挫之后，李镇军周副将均退守武阳渡。闻香中丞缄致长沙，请夏憩亭募勇数千，赴江应援，不知确否？自洪杨内乱以来，贼中大纲紊乱，石达开下顾金陵，上顾安庆，未必能再至江西。既使果来赴援，亦不过多裹乌合之卒，悍贼实已无几。我军但稍能立脚，不特吉安力能胜之，即临江萧军，亦自可胜之也。</p>
+<p>　　胡爵之将于初十日回省，家中以后不必请书启朋友。韩升告假回家，余文案尚繁，不可无一人料理，望弟饬王福于腊月初回家交代后，既令韩升回省度岁。韩子正初赴吉营，计弟处有四十日无人经营文案，既交彭椿年一手料理，决无疏失。韩升与王福二人，皆精细勤敏，无所轩轾。凌荫迁于日内赴雪琴处，若弟处再需好手，亦可令凌赴吉也。（咸丰七年十一月初五日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18323.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18325.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·大奇论_古诗文网
+</title>
+<meta content="肝满肾满肺满皆实，即为肿。肺之雍，喘而两胠满；肝雍，两胠满，卧则惊，不得小便；肾雍，脚下至少腹满，胫有大小，髀（骨行）大跛，易偏枯。心脉满大，痫瘛筋挛；肝脉小急，痫瘛筋挛；肝脉骛，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1011.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left830" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·大奇论</b></span>
+<a href="javascript:PlayBookv(1011)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1011" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(830)" id="leftbtn830" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1011" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　肝满肾满肺满皆实，即为肿。肺之雍，喘而两胠满；肝雍，两胠满，卧则惊，不得小便；肾雍，脚下至少腹满，胫有大小，髀（骨行）大跛，易偏枯。</p>
+<p>　　心脉满大，痫瘛筋挛；肝脉小急，痫瘛筋挛；肝脉骛，暴有所惊骇，脉不至若瘖，不治自已。</p>
+<p>　　肾脉小急，肝脉小急，心脉小急，不鼓皆为瘕。</p>
+<p>　　肾肝并沉为石水，并浮为风水，并虚为死，并小弦欲惊。</p>
+<p>　　肾脉大急沉，肝脉大急沉，皆为疝。</p>
+<p>　　心脉搏滑急为心疝，肺脉沉搏为肺疝。</p>
+<p>　　三阳急为瘕，三阴急为疝，二阴急为痫厥，二阳急为惊。</p>
+<p>　　脾脉外鼓，沉为肠澼，久自已。肝脉小缓为肠澼，易治。肾脉小搏沉，为肠澼下血，血温身热者死。心肝澼亦下血，二藏同病者可治。其脉小沉濇为肠澼，其身热者死，热见七日死。</p>
+<p>　　胃脉沉鼓濇，胃外鼓大，心脉小坚急，皆鬲偏枯。男子发左，女子发右，不瘖舌转，可治，三十日起，其从者，瘖，三岁起。年不满二十者，三岁死。</p>
+<p>　　脉至而搏，血衄身热者死，脉来悬钩浮为常脉。</p>
+<p>　　脉至如喘，名曰暴厥。暴厥者，不知与人言。脉至如数，使人暴惊，三四日自已。</p>
+<p>　　脉至浮合，浮合如数，一息十至以上，是经气予不足也，微见九十日死；脉至如火薪然，是心精之予夺也，草干而死；脉至如散叶，是肝气予虚也，木叶落而死；脉至如省客，省客者，脉塞而鼓，是肾气予不足也，悬去枣华而死；脉至如丸泥，是胃精予不足也，榆荚落而死；脉至如横格，是胆气予不足也，禾熟而死；脉至如弦缕，是胞精予不足也，病善言，下霜而死，不言可治；脉至如交漆，交漆者，左右傍至也，微见三十日死；脉至如涌泉，浮鼓肌中，太阳气予不足也，少气味，韭英而死；脉至如颓土之状，按之不得，是肌气予不足也，五色先见，黑白壘发死；脉至如悬雍，悬雍者，浮揣切之益大，是十二俞之予不足也，水凝而死；脉至如偃刀，偃刀者，浮之小急，按之坚大急，五藏菀熟，寒热独并于肾也，如此其人不得坐，立春而死；脉至如丸滑不直手，不直手者，按之不可得也，是大肠气予不足也，枣叶生而死；脉至如华者，令人善恐，不欲坐卧，行立常听，是小肠气予不足也，季秋而死。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1010.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1012.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right830" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

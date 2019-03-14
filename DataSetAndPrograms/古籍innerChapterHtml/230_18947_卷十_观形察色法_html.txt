@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷十·观形察色法_古诗文网
+</title>
+<meta content="凡看小儿病，先观形色，切脉次之。盖面部气色，总见五位色青者，惊积不散，欲发风候；五位色红者，痰积壅盛，惊悸不宁；五位色黄者，食积症伤，疳候痞癖；五位色白者，肺气不实，滑泄吐利；五位" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18947.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·观形察色法</b></span>
+<a href="javascript:PlayBookv(18947)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18947" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18947" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　凡看小儿病，先观形色，切脉次之。盖面部气色，总见五位色青者，惊积不散，欲发风候；五位色红者，痰积壅盛，惊悸不宁；五位色黄者，食积症伤，疳候痞癖；五位色白者，肺气不实，滑泄吐利；五位色黑者，脏腑欲绝，为疾危。面青眼青肝之病，面赤心之病，面黄脾之病，面白肺之病，面黑肾之病。先别五脏，各有所主，次探表里虚实病之由。肝病主风，实则目直大叫，项急烦闷；虚则咬牙呵欠，气热则外生，气温则内生。心病主惊，实则叫哭，发热饮水而搐，手足动摇；虚则困卧，惊悸不安。脾病主困，实则困睡，身热不思乳食；虚则吐泻生风。肺病主喘，实则喘乱喘促，有饮水者，不饮水者；虚则哽气长，出气短，喘息。肾病主虚无实，目无精光，畏明，体骨重，痘疹黑陷。以上之症，更当别其虚实症候，假如肺病，又见肝症，咬牙多呵欠者易治，肝虚不能胜肺故也。若目直大叫哭，项急烦闷难治。盖肺久病则虚冷，肝强实而胜肺也。视病之虚实，虚则补其母，实则泻其子也。</p>
+<p>　　论色歌</p>
+<p>　　眼内赤者心实热，淡红色者虚之说，青者肝热浅淡虚，黄者脾热无他说，白面混者肺热侵，目无精光肾虚诀。</p>
+<p>　　儿子人中青，多因果子生，色若人中紫，果食积为痞。人中现黄色，宿乳蓄胃成。龙角青筋起，皆因四足惊。若然虎角黑，水扑是其形。赤色印堂上，其惊必是人。眉间赤黑紫，急救莫沉吟。红赤眉毛下，分明死不生。</p>
+<p>　　认筋法歌</p>
+<p>　　囟门八字甚非常，筋透三关命必亡，初关乍入或进退，次部相侵亦何妨。赤筋只是因膈食，筋青端被水风伤，筋连大指是阴症，筋若生花定不祥（此有祸祟之筋）。筋带悬针主吐泻，筋纹关外命难当，四肢痰染腹膨胀，吐乳却因乳食伤。鱼口鸦声并气急，犬吠人諕自惊张，诸风惊症宜推早，如若推迟命必亡，神仙留下真奇法，后学能通第一强。</p>
+<p>　　凡看鼻梁上筋，直插天心一世惊。</p>
+<p>　　初生时，一关有白，谨防三朝。二关有白，谨防五日之内。三关有白，谨防一年之外。</p>
+<p>　　凡筋在坎上者即死，坎下者三年。又有四季本色之筋，虽有无害。</p>
+<p>　　青者是风，白者是水，红者是热，赤者乳食所伤。</p>
+<p>　　凡慢惊将危，不能言，先灸三阴交，二泥丸，三颊车，四少商，五少海穴，看病势大小，或三壮、五壮、一壮、至七七壮、辨男女右左，十有十活。如急惊、天吊惊，掐手上青筋，煅脐上下，掐两耳，又掐总心穴。</p>
+<p>　　内吊惊，掐天心穴。</p>
+<p>　　慢惊不省人事，亦掐总心穴。</p>
+<p>　　急惊如死，掐两手筋。</p>
+<p>　　眼闭，瞳子髎泻。</p>
+<p>　　牙关紧，颊车泻。</p>
+<p>　　口眼俱闭，迎香泻。</p>
+<p>　　以上数法，乃以手代针之神术也。亦分补泻。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18946.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18948.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

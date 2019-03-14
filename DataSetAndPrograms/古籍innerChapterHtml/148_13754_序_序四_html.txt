@@ -1,0 +1,114 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+剪灯新话·序·序四_古诗文网
+</title>
+<meta content="余观昌黎韩子作《毛颖传》，柳子厚读而奇之，谓若捕龙蛇，搏虎豹，急与之角，而力不敢暇；古之文人，其相推奖类若此。及子厚作《谪龙说》与《河间传》等，后之人亦未闻有以妄且淫病子厚者，岂前" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13754.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>序·序四</b></span>
+<a href="javascript:PlayBookv(13754)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13754" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13754" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9e%bf%e4%bd%91">瞿佑</a></p>
+<div class="contson">
+<p>　　余观昌黎韩子作《毛颖传》，柳子厚读而奇之，谓若捕龙蛇，搏虎豹，急与之角，而力不敢暇；古之文人，其相推奖类若此。及子厚作《谪龙说》与《河间传》等，后之人亦未闻有以妄且淫病子厚者，岂前辈所见，有不逮今耶？亦忠厚之志焉耳矣。余友瞿宗吉之为《剪灯新话》，其所志怪，有过于马孺子所言，而淫则无若河间之甚者。而或者犹沾沾然置噱于其间，何俗之不古也如是！盖宗吉以褒善贬恶之学，训导之间，游其耳目于词翰之场，闻见既多，积累益富。恐其久而记忆之或忘也，故取其事之尤可以感发、可以惩创者，汇次成编，藏之箧笥，以自恰悦，此宗吉之志也。余下敏，则既不知其是，亦不知其非，不知何者为可取，何者为可讥。伏而观之，但见其有文、有诗、有歇、有词、有可喜、有可悲、有可骇、有可嗤。信宗吉于文学而又有余力于他著者也。宗吉索余题，故为赋古体一首以复之云。</p>
+<p>　　山阳才人畴与侣？开口为今闔为古！</p>
+<p>　　春以桃花染性情，秋将桂子薰言语。</p>
+<p>　　感离抚遇心怦怦，道是无凭还有凭。</p>
+<p>　　沉沉帐底昼吹笛。煦煦窗前宵剪灯。</p>
+<p>　　倏而晴兮忽而雨，悲欲啼兮喜欲舞，</p>
+<p>　　玉萧倚月吹凤凰，金栅和烟锁鹦鹉。</p>
+<p>　　造化有迹尸者谁？一念才荫方寸移，</p>
+<p>　　善善恶恶苟无失，怪怪奇奇将有之。</p>
+<p>　　丈夫未达虎为狗，濯足沧浪泥数斗，</p>
+<p>　　气寒骨耸铮有声，脱帻目光如电走。</p>
+<p>　　道人青蛇天动摇，下斩寻常花月妖，</p>
+<p>　　茫茫尘海沤万点，落落云松酒半瓢。</p>
+<p>　　世间万事幻泡耳，往往有情能不死，</p>
+<p>　　十二巫山谁道深，云母屏凤薄如纸。</p>
+<p>　　莺莺宅前芳享述，燕燕楼中明月低，</p>
+<p>　　从来松柏有孤操，不独鸳鸯能并栖。</p>
+<p>　　久在钱塘江上住，厌见潮来又潮去，</p>
+<p>　　燕子衔春几度回？断梦残魂落何处？</p>
+<p>　　还君此编长啸歌，便欲酌以金叵罗，</p>
+<p>　　醉来呼枕睡一觉，高车驷马游南柯。</p>
+<p>　　洪武己巳六月六日，睦人桂衡书于紫薇深处 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13753.aspx">上一章</a>
+<a href="/guwen/book_148.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13755.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

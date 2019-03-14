@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+悟真篇·西江月一十二首_古诗文网
+</title>
+<meta content="西江月一十二首（以象十二月）内药还同外药，内通外亦须通。丹头和合类相同，温养两般作用。内有天然真火，炉中赫赫长红。外炉增减要勤功，妙绝无过真种。此药至神至圣，忧君分薄难消。调和铅汞" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14010.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>西江月一十二首</b></span>
+<a href="javascript:PlayBookv(14010)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14010" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14010" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e4%bc%af%e7%ab%af">张伯端</a></p>
+<div class="contson">
+<p>　　西江月一十二首（以象十二月）</p>
+<p>　　内药还同外药，内通外亦须通。丹头和合类相同，温养两般作用。内有天然真火，炉中赫赫长红。外炉增减要勤功，妙绝无过真种。</p>
+<p>　　此药至神至圣，忧君分薄难消。调和铅汞不终朝，早睹玄珠形兆。志士若能修炼，何妨在市居朝。工夫容易药非遥，说破人须失笑。</p>
+<p>　　白虎首经至宝，华池神水真金。故知上善利源深，不比寻常药品。若要修成九转，先须炼己持心。依时采去定浮沉，进火须防危甚。</p>
+<p>　　若要真铅留汞，亲中不离家臣。木金间隔会无因，全仗媒人勾引。木性爱金顺义，金情恋木仁慈。相吞相啖却相亲，始觉男儿有孕。</p>
+<p>　　二八谁家姹女？九三何处郎君？自称木液与金精，遇土却成三姓。更假丁公锻炼，夫妻始结欢情。河车不敢暂停留，运入昆仑峰顶。</p>
+<p>　　七返朱砂返本，九还金液还真。休将寅子数坤申，但要五行成准。本是水银一味，周游遍历诸辰。阴阳数足自通神，出入岂离玄牝。</p>
+<p>　　雄里内含雌质，负阴却抱阳精。两般和合药方成，点化魂纤魄圣。信道金丹一粒，蛇吞立变成龙，鸡餐亦乃化鸾鹏，飞入真阳清境。</p>
+<p>　　天地才交否泰，朝昏好识屯蒙。辐来辏毂水朝东，妙在抽添运用。得一万般皆毕，休分南北西东。损之又损慎前功，命宝不宜轻弄。</p>
+<p>　　冬至一阳来复，三旬增一阳爻。月中复卦朔晨潮，望罢乾终姤兆。日又别为寒暑，阳生复起中宵。午时姤象一阴朝，炼药须知昏晓。</p>
+<p>　　不辨五行四象，那分朱汞铅银。修丹火候未曾闻，早便称呼居隐。不肯自思己错，更将错路教人，误他永劫在迷津，似恁欺心安忍？</p>
+<p>　　德行修逾八百，阴功积满三千。均齐物我与亲冤，始合神仙本愿。虎儿刀兵不伤，无常火宅难牵。宝符降后去朝天，稳驾鸾车凤辇。</p>
+<p>　　牛女情缘道合，龟蛇类禀天然。蟾乌遇朔合婵娟，二气相资运转。本是乾坤妙用，谁人达此真诠？阴阳否隔即成愆，怎得天长地远！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14009.aspx">上一章</a>
+<a href="/guwen/book_159.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14011.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

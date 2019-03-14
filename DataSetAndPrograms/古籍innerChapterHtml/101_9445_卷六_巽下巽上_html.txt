@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷六·巽下巽上_古诗文网
+</title>
+<meta content="巽，小亨。利有攸往，利見大人。彖曰：重巽以申命，剛巽乎中正而志行，柔皆順乎剛，是以小亨，利有攸往，利見大人。巽剛巽柔，柔順剛也。申重也。上下皆巽，政之缺乗，其巽而重命，其治命行，則" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9445.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·巽下巽上</b></span>
+<a href="javascript:PlayBookv(9445)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9445" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9445" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　巽，小亨。利有攸往，利見大人。彖曰：重巽以申命，剛巽乎中正而志行，柔皆順乎剛，是以小亨，利有攸往，利見大人。</p>
+<p>　　巽剛巽柔，柔順剛也。申重也。上下皆巽，政之缺乗，其巽而重命，其治命行，則獲安矣。陽居於中正雖巽而志行也。柔皆上順於剛，物無逆者，可以行權而合法也。巽以申之復，其小康也。是以小亨巽而往無不利也。大人得於中正，利以見之，輔而行其制也。</p>
+<p>　　象曰：随風巽，君子以申命行事。</p>
+<p>　　風巽，風相随也。故君子申上之命，而從其事，率民以隨上，而民皆隨令也。</p>
+<p>　　初六，進退，利武人之貞。象曰：進退，志疑也。利武人之貞，志治也。</p>
+<p>　　巽柔在下，而不能果决，進退者也。巽於始，申命行事之初也。利於勇而行之則正也。非暴也，志行其治者也。</p>
+<p>　　九二，巽在牀下，用史巫，紛若吉，无咎。象曰：紛若之吉，得中也。</p>
+<p>　　巽乎下也，而又隂居牀下之巽，猶得其中。巽下通上方，於祭祀之用史巫，雖多於敬事，達其命不任於已，則吉也。</p>
+<p>　　九三，頻巽吝。象曰：頻巽之吝，志窮也。</p>
+<p>　　處卦之髙，巽於下柔，求其巽而不獲，匪其中而莫正，以至於頻蹙憂嗟也。剛不能執志，而窮於巽，可惜也巳。</p>
+<p>　　六四，悔亡，田獲三品。象曰：田獲三品，有功也。</p>
+<p>　　隂巽主也。為陽所巽，而順於陽，得位上奉而當之矣。臣而行事悔之道也。順而正之，何悔之有，故建功而田獲三品能歆其神人也。</p>
+<p>　　九五，貞吉，悔亡。无不利，无初有終，先庚三日，後庚三日，吉。象曰：九五之吉，位正中也。</p>
+<p>　　以剛而巽於中正，巽而無違，中而不過，正而得當，以是申命牧下之功，何悔之有，何往不利。始而從之，政非自我，故無初矣。後獲其治，故有終也。甲者則事之首，庚者甲之中也。申重也。事中失而重之治也，則無世無之矣。主巽於臣，臣順於主，而為功也。當其殷巽於大彭、豕韋申之也，其在周巽於齊桓、晉文申之重，而其道小通矣。夫正其失者，先原其始，察其中知其弊，故先之三日也。因其弊而反正其失，得後三日之吉也。不可以不審也。無因而為者，未之有也。</p>
+<p>　　上九，巽在牀下，喪其資斧，貞凶。象曰：巽在牀下，上窮也。喪其資斧，正乎凶也。</p>
+<p>　　以剛而居重巽之上，以巽於下，巽而極過，巽無甚焉，在牀下者也。極巽失據，無剛之用，資器皆亡之矣，身將安守哉，正其凶也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9444.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9446.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

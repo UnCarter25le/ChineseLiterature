@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·木部·柳_古诗文网
+</title>
+<meta content="释名小杨、杨柳。气味柳华：苦、寒、无毒。柳叶：苦、寒、无毒。枝及根白皮：苦、寒、无毒。主治柳华：吐血咯血。用柳絮烙过，研为末，米汤送服一钱。刀伤血出。用柳絮包敷即可。脸上脓疮。用柳" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2033.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>木部·柳</b></span>
+<a href="javascript:PlayBookv(2033)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2033" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2033" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>小杨、杨柳。</p>
+<p><strong>气味</strong><br/>柳华：苦、寒、无毒。<br/>柳叶：苦、寒、无毒。<br/>枝及根白皮：苦、寒、无毒。</p>
+<p><strong>主治</strong><br/>柳华：<br/>吐血咯血。用柳絮烙过，研为末，米汤送服一钱。<br/>刀伤血出。用柳絮包敷即可。<br/>脸上脓疮。用柳絮、腻粉等分，调灯 油涂搽。<br/>走马牙疳。用杨花烧存性，加麝香少许涂搽。<br/>大风疬。用杨花四两，捣成饼，贴壁上，干后取下，泡淘米水中一时，取出焙干，研为末，取二两，加白花蛇、乌蛇各一条（去头尾，酒浸用肉），全蝎、蜈蚣、蟾蜍、雄黄各五钱，苦参、天麻各一两，共研为末，水煎麻黄取汁，与各药同熬，做成丸子，如梧子大，朱砂为衣。每服五十丸，温酒送下。一天服三次，以愈为度。<br/>柳叶：<br/>小便白浊。用清明柳叶煎汤代茶，以愈为度。<br/>小儿丹毒。用柳叶一斤，加水一斗，煮取汁三升， 洗患处。一天宜洗七、八次。<br/>眉毛脱落。用垂柳阴干，研为末，放在铁器中加姜汁调匀，每夜涂抹眉部。<br/>无名恶疮。用柳叶或皮，水煎汁。加盐少许洗患睡。<br/>漆疮，用柳叶煎水洗。<br/>枝及根白皮：<br/>黄疸初起。用柳枝煮浓汁半升，一次服下。<br/>脾胃虚弱，食欲不振，病似反胃噎膈。取新柳枝一大把，熬汤，煮小米作饭。加酒、面所饭滚成珠子，晒干，装袋中悬挂通风处。用时，烧滚水随意下米，待米浮起查看无硬心则为米熟。一次吃完。稍久，面和米就会分散了，这样制成的米，名“络索米”。<br/>走注气痛（身上忽有一处如被人打痛，痛处游走不定，有时觉痛和极冷）。用白酒煮杨柳白皮乘热熨痛处。<br/>风毒肿痛。治方同上。<br/>项下瘿气，用柳根（水边露出者）三十斤，加水一斛。煮取一升，泡糯米三斗，加常法酿酒，每日饮服适量。<br/>齿龈肿痛。用垂柳枝、槐白皮、桑白皮、白杨皮等分，煎水，热含冷吐。又方：用柳枝、槐村、桑枝，煎水熬膏，加姜汁、细辛末、芎 末，调匀擦牙。<br/>风虫牙痛。用杨柳白皮一小声含嚼，取汁渍齿根，几次即愈。又方：用柳枝一握，锉碎，加盐少许，浆水煎含，甚效。又方：柳枝（锉细）一升、大豆一升，合炒至豆熟，加清酒三升泡三天后，含漱吐涎。<br/>耳痛有脓。把柳根切细，捣至极烂，封贴痛处，药干即换。<br/>漏疮肿痛。用柳根伸出的红须每日煎水洗。又方：用柳条在罐内烧烟熏痛处。<br/>乳痛初起。用柳根皮捣至极烂，包布中，火上烤热熨患处。布准即换。<br/>反花恶疮（肉翻出如饭粒，根深脓溃）。用柳枝叶三斤，加水五升煎至三升，再熬成糖稀状。每天涂搽三次。<br/>背起丹毒。用柳木灰加水调涂。<br/>汤火灼疮。用柳皮烧灰涂搽。亦可用根白皮煎猪油涂搽。<br/>痔疮如瓜，肿痛如火燎。用柳枝煎浓汤洗后，艾灸三、五壮，大泻脓血即愈。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2032.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2034.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

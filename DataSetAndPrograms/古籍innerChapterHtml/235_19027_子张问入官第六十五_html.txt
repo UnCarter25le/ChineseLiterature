@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+大戴礼记·子张问入官第六十五_古诗文网
+</title>
+<meta content="子张问入官于孔子，孔子曰：“安身取誉为难也。”子张曰：“安身取誉如何？”孔子曰：“有善勿专，教不能勿搢，已过勿发，失言勿踦，不善辞勿遂，行事勿留。君子入官，自行此六路者，则身安誉至" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19027.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>子张问入官第六十五</b></span>
+<a href="javascript:PlayBookv(19027)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19027" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19027" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%88%b4%e5%be%b7">戴德</a></p>
+<div class="contson">
+<p>　　子张问入官于孔子，孔子曰：“安身取誉为难也。”子张曰：“安身取誉如何？”孔子曰：“有善勿专，教不能勿搢，已过勿发，失言勿踦，不善辞勿遂，行事勿留。君子入官，自行此六路者，则身安誉至，而政从矣。 </p>
+<p>　　且夫忿数者狱之所由生也，距谏者虑之所以塞也，慢易者礼之所以失也，堕怠者时之所以后也，奢侈者财之所以不足也，专者事之所以不成也，历者狱之所由生也。君子入官，除七路者，则身安誉至，而政从矣。 </p>
+<p>　　故君子南面临官，大城而公治之，精知而略行之，合是忠信，考是大伦，存是美恶，而进是利，而除是害，而无求其报焉，而民情可得也。故临之无抗民之志，胜之无犯民之言，量之无狡民之辞，养之无扰于时，爱之勿宽于刑；言则身安誉至，而民自得也。 </p>
+<p>　　故君子南面临官，所见迩，故明不可弊也；所求迩，故不劳而得也；所以治者约，故不用众而誉至也；法象在内，故不远；源泉不竭，故天下积也；而木不寡短长，人得其量，故治而不乱。故六者贯乎心，藏乎志，形乎色，发乎声，若此则身安而誉至，而民自得也。 </p>
+<p>　　故君子南面临官；不治则乱至，乱至则争，争之至又反于乱；是故宽裕以容其民，慈爱以优柔之，而民自得也已。故躬行者政之始也，调悦者情之道也。善政行易则民不怨，言调悦则民不辨法，仁在身取民显以佚之也。财利之生征矣，贪以不得；善政必简矣，苟以乱之；善言必听矣，详以失之；规谏日至，烦以不听矣。言之善者在所日闻，行之善者在所能为。故上者民之仪也，有司执政民之表也，迩臣便辟者群臣仆之伦也。故仪不正则民失誓，表弊则百姓乱，迩臣便辟不正廉而群臣服污矣，故不可不慎乎三伦矣。故君子修身返道察说，而迩道之服存焉；是故夫工女必自择丝麻、良工必自择赍材、贤君良上必自择左右始。故佚诸取人，劳于治事；劳于取人，佚于治事。故君子欲誉则谨其所便，欲名则谨于左右。故上者辟如缘木者务高，而畏下者滋甚，六马之离必于四面之衢，民之离道必于上之佚政也。故上者尊严而绝，百姓者卑贱而神；民而爱之则存，恶之则亡也。 </p>
+<p>　　故君子南面临官：贵而不骄，富恭有本能图，修业居久而谭；情迩畅而及乎远，察一而关于多。一物治而万物不乱者，以身为本也。故君子莅民，不可以不知民之性，达诸民之情；既知其以生有习，然后民特从命也。故世举则民亲之，政均则民无怨。故君子莅民，不临以高，不道以远，不责民之所不能。今临之明王之成功，而民严而不迎也；道以数年之业，则民疾，疾者辟矣。故古者冕而前旒，所以蔽明也；统絖塞耳，所以弇聪也。故水至清则无鱼，人至察则无徒。 </p>
+<p>　　故枉而直之，使自得之；优而柔之，使自求之；揆而度之，使自索之；民有小罪，必以其善以赦其过，如死使之生，其善也，是以上下亲而不离。故惠者政之始也，政不正则不可教也，不习则民不可使也。故君子欲言之见信也者，莫若先虚其内也，欲政之速行也者，莫若以身先之也；欲民之速服也者，莫若以道御之也。故不先以身，虽行必邻矣；不以道御之，虽服必强矣。故非忠信，则无可以取亲于百姓矣；外内不相应，则无可以取信者矣。四者治民之统也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19026.aspx">上一章</a>
+<a href="/guwen/book_235.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19028.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

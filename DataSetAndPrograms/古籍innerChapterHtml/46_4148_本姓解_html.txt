@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·本姓解_古诗文网
+</title>
+<meta content="孔子之先，宋之後也，微子啟帝乙之元子，紂之庶兄，以圻內諸侯入為王卿士．微國名，子爵．初武王克殷，封紂之子武庚於朝歌，使奉湯祀．武王崩而與管蔡霍三叔作難，周公相成王東征之，二年，罪人" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4148.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2748" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>本姓解</b></span>
+<a href="javascript:PlayBookv(4148)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4148" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2748)" id="leftbtn2748" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4148" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　孔子之先，宋之後也，微子啟帝乙之元子，紂之庶兄，以圻內諸侯入為王卿士．微國名，子爵．初武王克殷，封紂之子武庚於朝歌，使奉湯祀．武王崩而與管蔡霍三叔作難，周公相成王東征之，二年，罪人斯得，乃命微子於殷．後作微子之命，由之與國于宋，徙殷之子孫，唯微子先徃仕周，故封之賢．其弟曰仲思，名衍，或名泄，嗣微之後，故號微仲，生宋公稽冑子，雖遷爵易位，而班級不及其故者，得以故官為稱，故二微雖為宋公，而猶以微之號自終，至于稽乃稱公焉．宋公生丁公申，申公生緡公共，及襄公熙，熙生弗父何，及厲公方祀，方祀以下，世為宋卿．弗父何生宋父周，周生世子勝，勝生正考甫，考甫生孔父嘉，五世親盡，別為公族，故後以孔為氏焉．一曰孔父者，生時所賜號也，是以子孫遂以氏族．孔父生子木金父，金父生睪夷，睪夷生防叔，避華氏之禍而奔魯．方叔生伯夏，伯夏生叔梁紇，曰雖有九女，是無子．其妾生孟皮，孟皮一字伯尼，有足病，於是乃求婚於顏氏．顏氏有三女，其小曰徵在，顏父問三女曰：「陬大夫雖父祖為士，然其先聖王之裔，今其人身長十尺，武力絕倫，吾甚貪之，雖年長性嚴，不足為疑，三子孰能為之妻？」二女莫對，徵在進曰：「從父所制，將何問焉．」父曰：「即爾能矣．」遂以妻之．徵在既徃廟見，以夫之年大，懼不時有勇，而私禱尼丘之山以祈焉，生孔子，故名丘，字仲尼．孔子三歲而叔梁紇卒，葬於防．至十九，娶于宋之亓官氏，一歲而生伯魚，魚之生也，魯昭公以鯉魚賜孔子，榮君之貺，故因以名曰鯉，而字伯魚，魚年五十，先孔子卒．</p>
+<p>　　齊太史子與適魯，見孔子，孔子與之言道．子與悅曰：「吾鄙人也，聞子之名，不睹子之形久矣，而求知之寶貴也，乃今而後知泰山之為高，淵海之為大，惜乎夫子之不逢明王，道德不加于民，而將垂寶以貽後世．」遂退而謂南宮敬叔曰：「今孔子先聖之嗣，自弗父何以來，世有德讓，天所祚也．成湯以武德王天下，其配在文，殷宗以下，未始有也，孔子生於衰周，先王典籍，錯亂無紀，而乃論百家之遺記，考正其義，祖述堯舜，憲章文武，刪詩述書，定禮理樂，制作春秋，讚明易道，垂訓後嗣，以為法式，其文德著矣．然凡所教誨，束脩已上，三千餘人，或者天將欲與素王之乎，夫何其盛也．」敬叔曰：「殆如吾子之言，夫物莫能兩大，吾聞聖人之後，而非繼世之統，其必有興者焉．今夫子之道至矣，乃將施之無窮，雖欲辭天之祚，故未得耳．」子貢聞之，以二子之言告孔子．子曰：「豈若是哉？亂而治之，滯而起之，自吾志，天何與焉．」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4147.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4149.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2748" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

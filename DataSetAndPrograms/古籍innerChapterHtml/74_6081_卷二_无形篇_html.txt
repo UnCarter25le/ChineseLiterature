@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+论衡·卷二·无形篇_古诗文网
+</title>
+<meta content="人禀元气於天，各受寿夭之命，以立长短之形，犹陶者用土为簋廉，冶者用铜为柈杅矣。器形已成，不可小大；人体已定，不可减增。用气为性，性成命定。体气与形骸相抱，生死与期节相须。形不可变化" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6081.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4731" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·无形篇</b></span>
+<a href="javascript:PlayBookv(6081)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6081" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4731)" id="leftbtn4731" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6081" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e5%85%85">王充</a></p>
+<div class="contson">
+<p>　　人禀元气於天，各受寿夭之命，以立长短之形，犹陶者用土为簋廉，冶者用铜为柈杅矣。器形已成，不可小大；人体已定，不可减增。用气为性，性成命定。体气与形骸相抱，生死与期节相须。形不可变化，命不可减加。以陶冶言之，人命短长，可得论也。 </p>
+<p>　　或难曰：“陶者用埴为簋廉，簋廉壹成，遂至毁败，不可复变。若夫冶者用铜为柈，杅虽已成器，犹可复烁。柈可得为尊，尊不可为簋。人禀气於天，虽各受寿夭之命，立以形体，如得善道神药，形可变化，命可加增。 </p>
+<p>　　曰：冶者变更成器，须先以火燔烁，乃可大小短长。人冀延年，欲比於铜器，宜有若炉炭之化乃易形形易寿亦可增。人何由变易其形，便如火烁铜器乎？《礼》曰：“水潦降，不献鱼鳖。”何则？雨水暴下，虫蛇变化，化为鱼鳖。离本真暂变之虫，臣子谨慎，故不敢献。人愿身之变，冀若虫蛇之化乎？夫虫蛇未化者，不若不化者。虫蛇未化，人不食也；化为鱼鳖，人则食之。食则寿命乃短，非所冀也。岁月推移，气变物类，虾蟆为鹑，雀为蜃蛤。人愿身之变，冀若鹑与蜃蛤鱼鳖之类也？人设捕蜃蛤，得者食之。虽身之不化，寿命不得长，非所冀也。鲁公牛哀寝疾，七日变而成虎。鲧殛羽山，化为黄能。愿身变者，冀牛哀之为虎，鲧之为能乎？则夫虎、能之寿，不能过人。天地之性，人最为贵。变人之形，更为禽兽，非所冀也。凡可冀者，以老翁变为婴兒，其次白发复黑，齿落复生，身气丁强，超乘不衰，乃可贵也。徒变其形，寿命不延，其何益哉？ </p>
+<p>　　且物之变，随气，若应政治，有所象为，非天所欲寿长之故，变易其形也，又非得神草珍药食之而变化也。人恆服药固寿，能增加本性，益其身年也。遭时变化，非天之正气、人所受之真性也。天地不变，日月不易，星辰不没，正也。人受正气，故体不变。时或男化为女，女化为男，由高岸为谷，深谷为陵也。应政为变，为政变，非常性也。汉兴，老父授张良书，已化为石。是以石之精，为汉兴之瑞也。犹河精为人持璧与秦使者，秦亡之征也。蚕食桑老，绩而为茧，茧又化而为蛾；蛾有两翼，变去蚕形。蛴螬化为复育，复育转而为蝉；蝉生两翼，不类蛴螬。凡诸命蠕蜚之类，多变其形，易其体。至人独不变者，禀得正也。生为婴兒，长为丈夫，老为父翁。从生至死，未尝变更者，天性然也。天性不变者，不可令复变；变者，不可不变。若夫变者之寿，不若不变者。人欲变其形，辄增益其年，可也；如徒变其形而年不增，则蝉之类也，何谓人愿之？ </p>
+<p>　　龙之为虫，一存一亡，一短一长。龙之为性也，变化斯须，辄复非常。由此言之，人，物也，受不变之形，形不可变更，年不可增减。传称高宗有桑谷之异。悔过反政，享福百年，是虚也。传言宋景公出三善言，荧惑却三舍，延年二十一载，是又虚也。又言秦缪公有明德，上帝赐之十九年，是又虚也。称赤松、王乔好道为仙，度世不死，是又虚也。假令人生立形谓之甲，终老至死，常守甲形。如好道为仙，未有使甲变为乙者也。夫形不可变更，年不可减增。何则？形、气、性，天也。形为春，气为夏。人以气为寿，形随气而动。气性不均，则於体不同。牛寿半马，马寿半人，然则牛马之形与人异矣。禀牛马之形，当自得牛马之寿；牛马之不变为人，则年寿亦短於人。世称高宗之徒，不言其身形变异。而徒言其增延年寿，故有信矣。 </p>
+<p>　　形之血气也，犹囊之贮粟米也。一石囊之高大，亦适一石。如损益粟米，囊亦增减。人以气为寿，气犹粟米，形犹囊也。增减其寿，亦当增减其身，形安得如故？如以人形与囊异，气与粟米殊，更以苞瓜喻之。苞瓜之汁，犹人之血也；其肌，犹肉也。试令人损益苞瓜之汁，令其形如故，耐为之乎？人不耐损益苞瓜之汁，天安耐增减人之年？人年不可增减，高宗之徒，谁益之者？而云增加。如言高宗之徒，形体变易，其年亦增，乃可信也。今言年增，不言其体变，未可信也。何则？人禀气於天，气成而形立，则命相须以至终死。形不可变化，年亦不可增加。以何验之？人生能行，死则僵仆，死则气减形消而坏。禀生人形，不可得变，其年安可增？人生至老，身变者，发与肤也。人少则发黑，老则发白，白久则黄。发之变，形非变也。人少则肤白，老则肤黑，黑久则黯，若有垢矣。发黄而肤为垢，故《礼》曰：“黄耇无疆。”发肤变异，故人老寿迟死，骨肉不可变更，寿极则死矣。五行之物，可变改者，唯土也。埏以为马，变以为人，是谓未入陶灶更火者也。如使成器，入灶更火，牢坚不可复变。今人以为天地所陶冶矣，形已成定，何可复更也？ </p>
+<p>　　图仙人之形，体生毛，臂变为翼，行於云则年增矣，千岁不死。此虚图也。世有虚语，亦有虚图。假使之然，蝉蛾之类，非真正人也。海外三十五国，有毛民羽民，羽则翼矣。毛羽之民土形所出，非言为道身生毛羽也。禹、益见西王母，不言有毛羽。不死之民，亦在外国，不言有毛羽。毛羽之民，不言之死；不死之民，不言毛羽。毛羽未可以效不死，仙人之有翼，安足以验长寿乎？ </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6080.aspx">上一章</a>
+<a href="/guwen/book_74.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6082.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4731" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·卢郁_古诗文网
+</title>
+<meta content="进士卢郁者，河朔人，徙家长安。尝北游燕赵，遂客于内黄，郡守馆郁于廨舍。先是，其舍无居人。及郁至，见一姥，发尽白，身庳而肥，被素衣来，谓郁曰：“妾侨居于此且久矣，故相候谒。”已而告去" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19415.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卢郁</b></span>
+<a href="javascript:PlayBookv(19415)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19415" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19415" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　进士卢郁者，河朔人，徙家长安。尝北游燕赵，遂客于内黄，郡守馆郁于廨舍。先是，其舍无居人。及郁至，见一姥，发尽白，身庳而肥，被素衣来，谓郁曰：“妾侨居于此且久矣，故相候谒。”已而告去。是夕，郁独居堂之前，夜潮寒，有风雪，其姥又至，谓郁曰：“贵客独处，何以为欢耶！”命坐语谓。姥曰：“妾姓石氏，家于华阴郡，后随吕御史者至此，且四十年。家苦贫，幸贵客见哀。”于是郁命食，而老姥卒不顾。郁问之曰：“姑何为不食？”姥曰：“妾甚饥，然不食粟，以故寿而安。”郁好奇，闻之甚善，且以为有道术者。因问曰：“姑既不食粟，何饱其腹耶岂常饵仙药乎？”姥曰：“妾家于华阴，先人好神仙，庐于太华。妾亦常隐于山中，従道士学长生法。道士教妾吞火，自是绝粒。今已年九十矣，未审一日有寒暑之疾。”郁又问曰：“某早岁常遇至人，教吸气之术，自谓其妙。后以奔走名利，従都国之贡，昼趋而夜息。不意今夕遇姑，语及平生之好。然不知吞火岂神仙之旨乎？”姥曰：“子不闻至人寒暑不能侵者耶故入火，火不能焚；入水，水不能溺。如是，则吞火固其宜也。”郁曰：“愿观姑吞火，可乎？”姥曰：“有何不可哉！”于是以手采炉中火而吞之。火且尽，其色不动。郁且惊且异，遂起束带再拜，谢曰：“鄙野之人，未尝闻神仙事。今夕遇仙姑，以吞火之异，实平生所未闻者。”姥曰：“此小术尔，何足贵哉。”言讫，且告去。郁因降阶送之。既别，郁前归于寝堂。既深，有仆者告郁曰：“西庑下有火发！”郁惊起而视之，其西庑舍已焚。于是里中人俱至，竞以水沃之，迨旦方绝。及穷火发之迹，于庑下坎中得一石火通，中有火甚多。先是有败草积其上，故延而至烧。郁方悟老姥乃此火通耳。果所谓姓石氏，居于华山者也。郁因质问吕御史，有郡中老吏谓郁曰：“吕御史，魏之従事也，居此宅，迨今四十年矣。”咸如老姥言也。又青州济南平陵城北石虎，一夜移城东南善石沟上，有狼狐千余迹随之。迹皆成路。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19414.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19416.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

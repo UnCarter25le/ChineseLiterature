@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·官能_古诗文网
+</title>
+<meta content="黄帝问于歧伯曰：余闻九针于夫子众多矣，不可胜数，余推而论之，以为一纪，余司诵之，子听其理，非则语余，请正其道，令可久传后世无患，得其人乃传，非其人勿言。歧伯稽首再拜曰：请听圣王之道" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1117.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left941" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·官能</b></span>
+<a href="javascript:PlayBookv(1117)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1117" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(941)" id="leftbtn941" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1117" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问于歧伯曰：余闻九针于夫子众多矣，不可胜数，余推而论之，以为一纪，余司诵之，子听其理，非则语余，请正其道，令可久传后世无患，得其人乃传，非其人勿言。歧伯稽首再拜曰：请听圣王之道。</p>
+<p>　　黄帝曰：用针之理，必知形气之所在，左右上下阴阳表里，血气多少，行之逆顺，出入之合，谋伐有过，知解结，知补虚泻实，上下气门，明通于四海，审其所在，寒热淋露，以输异处，审于调气，明于经隧。左右肢络，尽知其会，寒与热争，能合而调之，虚与实邻，知决而通之，左右不调，把而行之，明于逆顺，乃知可治。阴阳不奇，故知起时，害于本末，察其寒热，得邪所在，万刺不殆，知官九针，刺道毕矣。</p>
+<p>　　明于五输，徐疾所在，屈伸出入，皆有条理，言阴与阳，合于五行，五藏六府亦有所藏。四时八风尽有阴阳，各得其位合于明堂。各处色部，五藏六府，察其所痛，左右上下，知其寒温，何经所在，审皮肤之寒温滑涩，知其所苦，膈有上下，知其气所在，先得其道，稀而疏之，稍深以留，故能徐入之。大热在上，推而下之；从下上者，引而去之；视前痛者，常先取之。大寒在外，留而补之；入于中者，从合泻之。针所不为，炙之所宜。上气不足，推而扬之；下气不足，积而从之；阴阳皆虚，火自当之。厥而寒甚，骨廉陷下，寒过于膝，下陵三里。阴络所过，得之留止，寒入于中，推而行之；经陷下者，火则当之；结络坚紧，火所治之。不知所苦，两跷之下，男阴女阳，良工所禁，针论毕矣。</p>
+<p>　　用针之服，必有法则，上视天光，下司八正，以辟奇邪，而观百姓，审于虚实，无犯其邪。是得天之灵，遇岁之虚实，救而不胜，反受其殃，故曰必知天忌，乃言针意。法于往古，验于来今，观于窈冥，通于无穷。粗之所不见，良工之所贵。莫知其形，若神髣□。邪气之中人也，洒淅动形；正邪之中人也，微先见于色，不知于其身，若有若无，若亡若存，有形无形，莫知其情。</p>
+<p>　　是故上工之取气，乃救其萌芽；下工守其已成，因败其形。是故工之用针也，知气之所在，而守其门户，明于调气，补泻所在，徐疾之意，所取之处。泻必用员，切而转之，其气乃行，疾而徐出，邪气乃出，伸而迎之，遥大其穴，气出乃疾。补必用方，外引其皮，令当其门，左引其枢，右推其肤，微旋而徐推之，必端以正，安以静，坚心无解，欲微以留，气下而疾出之，推其皮，益其外门，真气乃存。用针之要，无忘其神。</p>
+<p>　　雷公问于黄帝曰：针论曰：得其人乃传，非其人勿言，何以知其可传？黄帝曰：各得其人，任之其能，故能明其事。</p>
+<p>　　雷公曰：愿闻官能奈何？黄帝曰：明目者，可使视色；聪耳者，可使听音；捷疾辞语者，可使传论；语徐而安静，手巧而心审谛者，可使行针艾，理血气而调诸逆顺，察阴阳而兼诸方。缓节柔筋而心和调者，可使导引行气；疾毒言语轻人者，可使唾痈咒病；爪苦手毒，为事善伤者，可使按积抑痹。各得其能，方乃可行，其名乃彰。不得其人，其功不成，其师无名。故曰：得其人乃言，非其人勿传，此之谓也。手毒者，可使试按龟，置龟于器下，而按其上，五十日而死矣，手甘者，复生如故也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1116.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1118.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right941" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

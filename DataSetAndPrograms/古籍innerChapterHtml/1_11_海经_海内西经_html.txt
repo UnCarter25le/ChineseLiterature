@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+山海经·海经·海内西经_古诗文网
+</title>
+<meta content="海内西南陬以北者。　　贰负之臣曰危，危与贰负窫窳。帝乃梏之疏属之山，桎其右足，反缚两手与发，系之山上木。在开题西北。　　大泽方百里，群鸟所生及所解。在雁门北。　　雁门山，雁出其间。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left11" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>海经·海内西经</b></span>
+<a href="javascript:PlayBookv(11)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(11)" id="leftbtn11" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay11" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+　　海内西南陬以北者。<br/>　　贰负之臣曰危，危与贰负窫窳。帝乃梏之疏属之山，桎其右足，反缚两手与发，系之山上木。在开题西北。<br/>　　大泽方百里，群鸟所生及所解。在雁门北。<br/>　　雁门山，雁出其间。在氐国西。<br/>　　高柳在代北。<br/>　　后稷之葬，山水环之。在氐国西。<br/>　　流黄酆氏之国，中方三百里；有涂四方，中有山。在后稷葬西。<br/>　　流沙出钟山，西行又南行昆仑之虚，西南入海，黑水之山。<br/>　　东胡在大泽东。<br/>　　夷人在东胡东。<br/>　　貊国在汉水东北。地近于燕，灭之。<br/>　　孟鸟在貊国东北。其鸟文赤、黄、青，东乡。<br/>　　海内昆仑之虚，在西北，帝之下都。<br/>　　昆仑之虚，方圆八百里，高万仞。上有木禾，长五寻，大五围。<br/>　　面有九井，以玉为槛。面有九门，门有开明兽守之，百神之所在。<br/>　　在八隅之岩，赤水之际，非仁羿莫能上冈之岩。<br/>　　赤水出东南隅，以行其东北。<br/>　　河水出东北隅，以行其北，西南又入渤海，又出海外，即西而北，入禹所导积石山。<br/>　　洋水、黑水出西北隅，以东，东行，又东北，南入海，羽民南。<br/>　　弱水、青水出西南隅，以东，又北，又西南，过毕方鸟东。<br/>　　昆仑南渊深三百仞。开明兽身大类虎而九首，皆人面，东向立昆仑上。<br/>　　开明西有凤皇、鸾鸟，皆戴蛇践蛇，膺有赤蛇。<br/>　　开明北有视肉、珠树、文玉树、玗琪树、不死树。凤皇、鸾鸟皆戴瞂。又有离朱、木禾、柏树、甘水、圣木曼兑，一曰挺木牙交。<br/>　　开明东有巫彭、巫抵、巫阳、巫履、巫凡、巫相，夹窫窳之尸，皆操不死之药以距之。窫窳者，蛇身人面，贰负臣所杀也。<br/>　　服常树，其上有三头人，伺琅玕树。<br/>　　开明南有树鸟，六首；蛟、蝮、蛇、蜼、豹、鸟秩树，于表池树木，诵鸟、鶽、视肉。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_10.aspx">上一章</a>
+<a href="/guwen/book_1.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right11" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+法华经·卷四·授学无学人记品_古诗文网
+</title>
+<meta content="尔时阿难、罗侯罗、而作是念：“我等每自思惟，设得授记，不亦快乎。”即从座起，到于佛前，头面礼足，俱白佛言：“世尊，我等于此、亦应有分，惟有如来，我等所归。又我等为一切世间天、人、阿" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13828.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·授学无学人记品</b></span>
+<a href="javascript:PlayBookv(13828)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13828" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13828" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%b8%a0%e6%91%a9%e7%bd%97%e4%bb%80%e8%af%91">鸠摩罗什译</a></p>
+<div class="contson">
+<p>　　尔时阿难、罗侯罗、而作是念：“我等每自思惟，设得授记，不亦快乎。”即从座起，到于佛前，头面礼足，俱白佛言：“世尊，我等于此、亦应有分，惟有如来，我等所归。又我等为一切世间天、人、阿修罗、所见知识，阿难常为侍者，护持法藏，罗侯罗是佛之子，若佛见授阿耨多罗三藐三菩提记者，我愿既满，众望亦足。”</p>
+<p>　　尔时学无学声闻弟子二千人，皆从座起，偏袒右肩，到于佛前，一心合掌，瞻仰世尊，如阿难、罗侯罗、所愿，住立一面。尔时佛告阿难：“汝于来世、当得作佛，号山海慧自在通王如来、应供、正遍知、明行足、善逝世间解、无上士、调御丈夫、天人师、佛、世尊。当供养六十二亿诸佛，护持法藏，然后得阿耨多罗三藐三菩提。教化二十千万亿恒河沙诸菩萨等，令成阿耨多罗三藐三菩提。国名常立胜幡，其土清净，琉璃为地，劫名妙音遍满。其佛、寿命无量千万亿阿僧祇劫，若人于千万亿无量阿僧祇劫中、算数校计，不能得知。正法住世、倍于寿命，像法住世、复倍正法。阿难，是山海慧自在通王佛，为十方无量千万亿恒河沙等诸佛如来、所共赞叹，称其功德。”</p>
+<p>　　尔时世尊欲重宣此义，而说偈言：</p>
+<p>　　我今僧中说， 阿难持法者， 当供养诸佛， 然后成正觉，<br/>　　号曰山海慧 　自在通王佛。 其国土清净， 名常立胜幡，<br/>　　教化诸菩萨， 其数如恒沙。 佛有大威德， 名闻满十方。<br/>　　寿命无有量， 以愍众生故。 正法倍寿命， 像法复倍是。<br/>　　如恒河沙等、 无数诸众生， 于此佛法中， 种佛道因缘。</p>
+<p>　　尔时会中新发意菩萨八千人、咸作是念：“我等尚不闻诸大菩萨得如是记，有何因缘、而诸声闻得如是决？”</p>
+<p>　　尔时世尊知诸菩萨、心之所念，而告之曰：“诸善男子，我与阿难等，于空王佛所、同时发阿耨多罗三藐三菩提心。阿难常乐多闻，我常勤一精一进。是故我已得成阿耨多罗三藐三菩提，而阿难护持我法，亦护将来诸佛法藏，教化成就诸菩萨众，其本愿如是，故获斯记。”</p>
+<p>　　阿难面于佛前，自闻授记、及国土庄严，所愿具足，心大欢喜，得未曾有。即时忆念过去无量千万亿诸佛法藏，通达无碍，如今所闻，亦识本愿。尔时阿难而说偈言：</p>
+<p>　　世尊甚稀有， 令我念过去， 无量诸佛法， 如今日所闻。<br/>　　我今无复疑， 安住于佛道， 方便为侍者， 护持诸佛法。</p>
+<p>　　尔时佛告罗侯罗：“汝于来世、当得作佛，号蹈七宝华如来、应供、正遍知、明行足、善逝世间解、无上士、调御丈夫、天人师、佛、世尊。当供养十世界微尘等数诸佛如来，常为诸佛而作长子，犹如今也。是蹈七宝华佛，国土庄严，寿命劫数，所化弟子，正法、像法，亦如山海慧自在通王如来无异，亦为此佛而作长子。过是已后，当得阿耨多罗三藐三菩提。”</p>
+<p>　　尔时世尊欲重宣此义，而说偈言：</p>
+<p>　　我为太子时， 罗侯为长子， 我今成佛道， 受法为法子，<br/>　　于未来世中， 见无量亿佛， 皆为其长子， 一心求佛道。<br/>　　罗侯罗密行， 惟我能知之， 现为我长子， 以示诸众生。<br/>　　无量亿千万 　功德不可数， 安住于佛法， 以求无上道。</p>
+<p>　　尔时世尊见学无学二千人，其意柔软，寂然清净，一心观佛。佛告阿难：“汝见是学无学二千人否。唯、然，已见。”“阿难，是诸人等，当供养五十世界微尘数诸佛如来，恭敬、尊重，护持法藏。末后、同时于十方国、各得成佛，皆同一号，名曰宝相如来、应供、正遍知、明行足、善逝世间解、无上士、调御丈夫、天人师、佛、世尊。寿命一劫。国土庄严，声闻、菩萨、正法、像法、皆悉同等。”</p>
+<p>　　尔时世尊重宣此义，而说偈言：</p>
+<p>　　是二千声闻， 今于我前住， 悉皆与授记， 未来当成佛。<br/>　　所供养诸佛， 如上说尘数， 护持其法藏， 后当成正觉。<br/>　　各于十方国， 悉同一名号， 俱时坐道场， 以证无上慧，<br/>　　皆名为宝相。 国土及弟子， 正法与像法， 悉等无有异。<br/>　　咸以诸神通、 度十方众生， 名闻普周遍， 渐入于涅槃。</p>
+<p>　　尔时学无学二千人、闻佛授记，欢喜踊跃、而说偈言：</p>
+<p>　　世尊慧灯明， 我闻授记音， 心欢喜充满， 如甘露见灌。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13827.aspx">上一章</a>
+<a href="/guwen/book_153.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13829.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

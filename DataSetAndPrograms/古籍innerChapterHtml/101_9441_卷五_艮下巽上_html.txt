@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷五·艮下巽上_古诗文网
+</title>
+<meta content="漸，女歸吉。利貞。彖曰：漸之，進也。女歸吉也。進得位，往有功也。進以正，可以正邦也。其位剛得中也。止而巽，動不窮也。女也者，嫁於夫也，必有歸也。臣也者，得位於君，必有進也。皆以進外" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9441.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·艮下巽上</b></span>
+<a href="javascript:PlayBookv(9441)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9441" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9441" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　漸，女歸吉。利貞。彖曰：漸之，進也。女歸吉也。進得位，往有功也。進以正，可以正邦也。其位剛得中也。止而巽，動不窮也。</p>
+<p>　　女也者，嫁於夫也，必有歸也。臣也者，得位於君，必有進也。皆以進外為位乎，漸而道乃行也。剛下柔巽之，是以柔得正位乎，外而輔剛，故女歸吉，而往有功也。使柔進得其位，而正邦者，剛得中也。止於相與，而巽以從，則動而何窮哉。</p>
+<p>　　象曰：山上有木，漸。君子以居，賢徳善俗。</p>
+<p>　　山上有木，得其高進也。君子之居，親其徳而外善於俗，而後能漸之進也。</p>
+<p>　　初六，鴻漸于干，小子厲，有言无咎。象曰：小子之厲，義无咎也。</p>
+<p>　　初至而至于干也。至弱才業未聞，上无應而首於進者，冝為小人之所危也。道不同，故危之矣。我未位也。无害小人，小人何害於我哉。故雖有言，其義不至於咎矣。</p>
+<p>　　六二，鴻漸于磐，飲食衎衎，吉。象曰：飲食衎衎，不素飽也。</p>
+<p>　　磐非鴻之所處，二非三之所得，今托之矣，非安也。得位相止，飲食且樂，可飽也。</p>
+<p>　　九三，鴻漸于陸，夫征不復，婦孕不育，凶。利禦宼。象曰：夫征不復，離羣醜也。婦孕不育，失其道也。利用禦宼，順相保也。</p>
+<p>　　得位於上，漸而之陸也。二應五也。為已止之，五合於四，征而不復，顧其類也。已與於二，二自有配偶，邪而不敢孕，失其生化之道，故凶也。兩志相保，无可間也，於長正之道，則可保夫一時之利也。</p>
+<p>　　六四，鴻漸于木，或得其桷，无咎。象曰：或得其桷，順以巽也。</p>
+<p>　　木非鴻之本，止漸而得位於高，或得於桷，桷上附也。承五而相得焉，亦非其安而安也。五巽巳順，尊而相保，不可傾奪，故无咎。</p>
+<p>　　九五，鴻漸于陵婦，三嵗不孕，終莫之勝，吉。象曰：終莫之勝，吉得所願也。</p>
+<p>　　陵高，安之所。二本應五，三近止之，至五而三，故曰三嵗不孕。夫務於大功者，不檢於細故，細故不有，匪正之事不甚非之，及其得至於大位，則人莫敢不懼，而道自復也。</p>
+<p>　　上九，鴻漸于陸，其羽可用為儀。吉。象曰：其羽可用為儀吉。不可亂也。</p>
+<p>　　漸之進也。夫進之為道，求其利也。暴速而取害之至也。漸以相與，雖非其道，不至於悔也。上乃進得高陸，不累於世，不爭於利中，心何可亂哉。超然志逺，知夫進退之道，故其羽可用為儀也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9440.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9442.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

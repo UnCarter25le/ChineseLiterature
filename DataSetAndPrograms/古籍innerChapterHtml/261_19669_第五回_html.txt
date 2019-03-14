@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+北游记·第五回_古诗文网
+</title>
+<meta content="国王去蓬莱山修行却说国王自别了文武、皇后，太子。孤身行了一日。天色将晚，忽见道士自前面而来。国王下拜。道士曰：“子来矣，事定矣。”国王曰：“师父，弟子一心出家，何事不定？”道士曰：" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19669.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第五回</b></span>
+<a href="javascript:PlayBookv(19669)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19669" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19669" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%99%e8%b1%a1%e6%96%97">余象斗</a></p>
+<div class="contson">
+<p>　　<strong>国王去蓬莱山修行</strong></p>
+<p>　　却说国王自别了文武、皇后，太子。孤身行了一日。天色将晚，忽见道士自前面而来。国王下拜。道士曰：“子来矣，事定矣。”国王曰：“师父，弟子一心出家，何事不定？”道士曰：“汝国富矣，今去矣。”国王又答曰：“师父，弟子一心出家慕道，何思复返故国享受？”道士又曰：“山中苦矣，饥又寒矣。”国王又答曰：“弟子一心求师，何惧寒苦。”道士微笑言曰：“弟子既有真心出家，跟我入蓬莱山。”国王唯唯领命，随后直至蓬莱山中。但只见：桃红柳绿满眼，青山隐隐堪夸，耳听鹤唳猿啼，真乃神仙造化。青松嫩柏屏列，云连山上奇花。岩中瀑泻甚交加，无易万年景价。</p>
+<p>　　却说妙乐天尊变一道士，引得国王，在蓬莱山中，建一茅庵，日夜与国王讲经说法。一日，天尊教国王坐炼之功，恐国王凡心未了，心生一计，言曰：“我今爱食一桃，汝可下山去买来供我。”国王唯唯应诺，即离山中去买桃不题。</p>
+<p>　　却说妙乐天尊见国王下山去买桃，即摇身一变，变一美貌年少女子，去街上卖桃。国王见女子捧桃来，近前问女子买桃。女子曰：“我此桃乃是一个树只生得一个桃，要卖千两黄金。”国王笑曰：“纵是一树结的，亦不值千金。”女子曰：“你若不出千金，妾乃寡居，见君堂堂一表，愿奉桃与君，成就一对夫妇如何？”王曰：“贫道乃出家之人。”女子曰：“出身还俗，古之常理。妾家颇有千金之富，君若不弃，足可以享用矣；君若执述，恐悔之不及。”国王亦不答话，别了女子，从四门去寻买红桃，遍处没有。又见那女子又捧桃来，向前言曰：“君勿错过，后会难逢。”王不答。</p>
+<p>　　女子又曰：“君今实意不从，肯与妾接来生缘，妾即将此桃送君。”国王自思曰：“来生之事，那里去会，许之不妨，如其不许，则无桃矣，怎生回得见师父？”遂对女子言曰：“来生可许，今上决难从命。”女子笑曰：“君既肯许来生，妾桃付君，君勿失言。”国王接过桃来欢天喜地自言曰：“若不许他来生，安得此桃？”喜之不胜。</p>
+<p>　　回至山中见师父，将桃献上天尊。天尊变回本相，接过桃来，言曰：“弟之下山买桃，为何破戒？”国王大惊，答曰：“师父是何言也，弟子下山，未有一毫差错，安得破戒之事乎？”天尊笑曰：“你曾与女子许再世之愿有乎？”国王答曰：“不敢瞒师父，弟子下山买桃，遍处未有，只有一女子捧有桃卖。弟子向他买，她要弟子与她成就夫妇之情，才肯卖那桃与弟子。弟子不肯。那女子又云，说你今生不肯，许下我来生宿缘，我桃子亦送你。当日弟子若不许他，又无桃得回见师父，只得许他来世之事。此弟子出于无奈，安有实心许之？此事明明弟子之谎言，何得为之破戒？”天尊又笑曰：“弟子汝迷矣。自古一言既出，驷马难追，安有可谎者。汝今既许那女子结来世之缘，前功废矣，又要堕入凡胎。”国王闻言大哭，言曰：“可免得否？”天尊曰：“学道之法严谨，天地无私，安可免得？务要再生修炼，方能入道。”国王叩头问曰：“若不能免，望师父发慈悲之心，堕一没恩爱处，早得仙道。”天尊曰：“哪有没恩爱之所？汝今种有善根，正因念头差错，方才要堕汝。今若去投胎降生，来生必得入善之门，不必忧矣。”国王曰：“师父，堕弟子往何处投胎？”天尊曰：“我慧眼观见，西霞国王行善三代，今未有嗣，方建醮求嗣，堕汝去此处降生也。”国王听罢大哭，绝食七日而终。</p>
+<p>　　天尊将国王肉身掷入海中，与鱼蟹食之，完舍身之愿，即招转三魂七魄，送去西霞国中投胎不题。不知后来如何。且听下回分解。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19668.aspx">上一章</a>
+<a href="/guwen/book_261.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19670.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

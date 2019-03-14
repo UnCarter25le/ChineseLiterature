@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·闺阁类·卷四_古诗文网
+</title>
+<meta content="◎董戴两太夫人嘉庆中，董相国诰封翁，濯足于室，令婢除袜，因右足底一赤痣，有毫长数寸，以手盘绕之，婢笑于旁曰：“天下未尝无对。”诘之，则婢之左足底，有毫痣亦如之，知为异相，纳之，生相" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16230.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>闺阁类·卷四</b></span>
+<a href="javascript:PlayBookv(16230)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16230" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16230" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎董戴两太夫人</p>
+<p>　　嘉庆中，董相国诰封翁，濯足于室，令婢除袜，因右足底一赤痣，有毫长数寸，以手盘绕之，婢笑于旁曰：“天下未尝无对。”诘之，则婢之左足底，有毫痣亦如之，知为异相，纳之，生相国，是为太夫人。江西戴相国衢亨，太夫人未笄时，循土风，凡结婚先以女子生年月日时八字，送于男家，置神龛，卜吉凶，三日返之，如是数十家，率不吉。龛内神主有无故自倒者，因皆不敢纳采，末至戴，三日内皆有吉兆，奇之，遂娶焉。果出相国为名臣。</p>
+<p>　　◎随园十三女弟子</p>
+<p>　　客有藏《随园十三女弟子湖楼请业图》者，后附一小幅，曰《后三女弟子图》。前后凡二跋，其前跋云：</p>
+<p>　　“乾隆壬子三月，余寓西湖宝石山庄，一时吴会之弟子，各以诗来受业。旋属尤、江二君，为写图布景，而余为志其姓名于后，以当陶白真灵之图。其在柳下姊妹偕行者，湖楼主人孙令宜臬使之二女云凤、云鹤也；正坐抚琴者，乙卯经魁孙原湘之妻席佩兰也；其旁侧坐者，相国徐文穆公之女孙裕馨也；手折兰者，皖江巡抚汪又新之女缵祖也；执笔题芭蕉者，汪秋御明经之女 妽也；稚女倚其肩而立者，吴江李宁人臬使之外孙女严蕊珠也；凭几拈毫，若有所思者，松江廖明府之女云锦也；把卷对坐者，太仓孝子金瑚之室张玉珍也；隅坐于几旁者，虞山屈宛仙也；倚竹而立者，蒋少司农戟门公之女孙心宝也；执团扇者，姓金名逸，字纤纤，吴下陈竹士秀才之妻也；持钓竿而山遮其身者，京江鲍雅堂郎中之妹，名之蕙，字芷香，张可斋诗人之室也。十三人外，侍老人侧而携其儿者，吾家侄妇戴兰英也。儿名恩官。诸人各有诗，现付梓人。嘉庆元年二月花朝，随园老人书，时年八十有一。”</p>
+<p>　　又一跋云：“乙卯春，余再到湖楼，重修诗会，不料徐、金二女都已仙去，为凄然者久之。幸问字者又来三人，前次画图，不能羼入，乃托老友崔君，为补小幅于后，皆就其家写真而得。其手折桃花者，刘霞裳秀才之室曹次卿也；其飘带佩兰而立者，句曲女史骆绮兰也；披红襜褕而若与之言者，福建方伯玙沙先生之季女钱林也，皆工吟咏，绮兰有《听秋轩诗集》行世，余为之序。清明前三日，袁枚再书。”</p>
+<p>　　◎汪文端之母</p>
+<p>　　山阳汪文端公廷珍，年十二而孤，母程太夫人抚之成立。值岁凶，母子日一食，或终日不得食，太夫人终不肯使人知，曰：“吾非耻贫，耻言贫耳。言贫则疑有求于人，故不为也。”岁除无米，使仆索旧逋城外，抵暮归，无所得，各饮茗一瓯，尝盐菜数茎就卧。及公贵，风裁严竣，正色立朝，造次必于礼法，太夫人教也。</p>
+<p>　　◎吴山尊夫人赠诗</p>
+<p>　　全椒吴山尊学士鼒，渊如先生妹婿也。渊如先生以乾隆丁未榜眼及第，山尊仍上计车，其夫人赠行诗曰：“小语临歧记可真，回头仍怕阿兄嗔。看花迟早寻常事，莫作蓬莱第二人。”山尊果以是科通籍，入翰林，虽大魁让人，犹未满红闺期望。然微云夫婿，柳絮才媛，艳句流传，亦可谓倡随佳话矣。</p>
+<p>　　◎乳花娘子</p>
+<p>　　金坛于文襄公敏中，为协揆时，有翰林汪某，令其妻曹氏拜公小君为母。及会稽梁阶平相国国治升户部尚书，曹又拜之为父。初见时，以朝珠一串为贽，纪文达公嘲以诗云：“昔年相府拜干娘，今日干爹又姓梁。赫弈门庭新户部，凄凉池馆旧中堂。郎如有意应怜妾，妾岂无颜只为郎。百八牟尼亲手挂，上襟犹带粉花香。”有无名子易其后半首云：“郎如有貌何须妾，妾岂无颜只为郎。百八牟尼亲手挂，回朝犹带乳花香。”时遂称曹为“乳花娘子。”</p>
+<p>　　◎方芷斋夫人</p>
+<p>　　仁和方芷斋夫人芳佩，勤僖公汪芍坡中丞新之继室也，工诗文，文有知人鉴。乃翁相攸时，携文二首，一为吴颉云修撰，其一则芍坡中丞也，展转不能决，以示夫人。时吴方诸生，汪犹布衣也。夫人阅吴作，曰：“是当早发，然英华太露，诚恐不寿。”阅汪作，曰：“此大器也，然须晚成。”翁遂舍吴而议汪，后吴果大魁，官位不显，且未享遐龄；汪则扬历中外，阶至一品。夫人生一子二女，富贵寿考，旋则孙阶之兰玉森森矣。夫人言论挥洒，旁若无人，晚年尤喜作擘窠大字，笔力出入襄阳，一洗脂粉气象。</p>
+<p>　　嘉庆丁卯，山舟学士，重宴鹿鸣，赋诗四章，和者不下百余人。夫人时年八十，和诗三章，评者以为诸人皆勿能及。夫人享年八十二岁，有《在璞堂稿》行世。夫人媳王氏，名德宜，松江人，亦工诗，侍夫人日，屡有唱和，夫人既殁，家政一委之姬妾，日则弹琴咏诗，焚香礼佛而已，著《语凤巢诗稿》，记其《金陵诗》二句云：“啼鸟犹呼奈何帝，今人尚说莫愁湖。”跌宕之致，可以相见矣。</p>
+<p>　　◎薛慰农相婿</p>
+<p>　　袁爽秋之夫人薛氏，学问宏深，博通经史，有“不栉进士”之誉。爽秋学问，夫人攻错之力居多，故爽秋有季常之惧，然实另有原因也。传闻爽秋本姓某氏，为袁某乞养子，故冒其姓。幼时家贫，为人牧牛，常戏登桐庐塔顶，乡愚野老谓其必发达，以该塔素名有鬼嬲人，爽秋登之无恙也。</p>
+<p>　　及十二三岁，某戚携之北上，流落都门，薛慰农收养之，执杂役焉。后因某事对答数语，慰农大奇之，使伴诸子读，遂妻以女。有谓爽秋实为养父挟之北上，适值薛慰农择婿，爽秋预其选。盖尔时慰农所注意者二人，一为杨廷甫，一为袁爽秋。薛慰农之夫人亲相之，并阅二人文，谓杨廷甫必可点翰林，袁爽秋不过进士而已，且杨貌优于袁，欲婿杨；薛慰农则谓杨虽可入词苑，终不过翰林而已，袁虽不能入词苑，必有督抚之望，为一代名人，遂决婿袁云。庚子之难，爽秋从容就义，实其夫人薛氏所主持也，可谓巾帼英雄矣。“不栉进士”岂虚誉哉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16229.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16231.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

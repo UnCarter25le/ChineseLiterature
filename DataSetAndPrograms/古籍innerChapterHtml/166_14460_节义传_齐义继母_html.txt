@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+列女传·节义传·齐义继母_古诗文网
+</title>
+<meta content="齐义继母者，齐二子之母也。当宣王时，有人简死于道者，吏讯之，被一创，二子兄弟立其傍，吏问之，兄曰：“我杀之。”弟曰：“非兄也，乃我杀之。”期年，吏不能决，言之于相，相不能决，言之于" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14460.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>节义传·齐义继母</b></span>
+<a href="javascript:PlayBookv(14460)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14460" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14460" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　齐义继母者，齐二子之母也。当宣王时，有人简死于道者，吏讯之，被一创，二子兄弟立其傍，吏问之，兄曰：“我杀之。”弟曰：“非兄也，乃我杀之。”期年，吏不能决，言之于相，相不能决，言之于王，王曰：“今皆赦之，是纵有罪也。皆杀之，是诛无辜也。寡人度其母，能知子善恶。试问其母，听其所欲杀活。”相召其母问之曰：“母之子杀人，兄弟欲相代死，吏不能决，言之于王。王有仁惠，故问母何所欲杀活。”其母泣而对曰：“杀其少者。”相受其言，因而问之曰：“夫少子者，人之所爱也。今欲杀之，何也？”其母对曰：“少者，妾之子也。长者，前妻之子也。其父疾且死之时，属之于妾曰：‘善养视之。’妾曰：‘诺。’今既受人之托，许人以诺，岂可以忘人之托而不信其诺邪！且杀兄活弟，是以私爱废公义也；背言忘信，是欺死者也。夫言不约束，已诺不分，何以居于世哉！子虽痛乎，独谓行何！”泣下沾襟。相入言于王，王美其义，高其行，皆赦不杀，而尊其母，号曰义母。君子谓义母信而好义，絜而有让。诗曰：“恺悌君子，四方为则。”此之谓也。</p>
+<p>　　颂曰：义继信诚，公正知礼，亲假有罪，相让不已，吏不能决，王以问母，据信行义，卒免二子。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14459.aspx">上一章</a>
+<a href="/guwen/book_166.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14461.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

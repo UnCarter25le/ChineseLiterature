@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+随园诗话·水族有鳞单_古诗文网
+</title>
+<meta content="鱼皆去鳞，惟鲥鱼不去。我道有鳞而鱼形始全。作《水族有鳞单》边鱼　　边鱼活者，加酒、秋油蒸之。玉色为度。一作呆白天色，则肉老而味变矣。并须盖好，不可受锅盖上之水气。临起加香蕈、笋尖。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18761.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>水族有鳞单</b></span>
+<a href="javascript:PlayBookv(18761)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18761" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18761" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%a2%81%e6%9e%9a">袁枚</a></p>
+<div class="contson">
+<p>　　鱼皆去鳞，惟鲥鱼不去。我道有鳞而鱼形始全。作《水族有鳞单》</p>
+<p>　　<strong>边鱼<br/></strong>　　边鱼活者，加酒、秋油蒸之。玉色为度。一作呆白天色，则肉老而味变矣。并须盖好，不可受锅盖上之水气。临起加香蕈、笋尖。或用酒煎亦佳；用酒不用水，号“假鲥鱼”。</p>
+<p>　　<strong>鲫鱼<br/></strong>　　鲫鱼先要善买。择其扁身而带白色者，其肉嫩而松；熟后一提，肉即卸骨而下。黑脊浑身者，崛强槎枒，鱼中之喇子也，断不可食。照边鱼蒸法，最佳。其次煎吃亦妙。拆肉下可以作羹。通州人能煨之，骨尾俱酥，号“麻鱼”，利小儿食。然总不如蒸食之得真味也。六合龙池出者，愈大愈嫩，亦奇。蒸时用酒不用水，稍稍用糖以起其鲜。以鱼之小大，酌情量秋油、酒之多寡。</p>
+<p>　　<strong>白鱼<br/></strong>　　白鱼肉最细。用糟鲥鱼同蒸之，最佳。或冬日微腌，加酒酿糟二日，亦佳。余在江中得网起活者，用酒蒸食，美不可言。糟之最佳，不可太久，久则肉木矣。</p>
+<p>　　<strong>季鱼<br/></strong>　　季鱼少骨，炒片最佳。炒者以片薄为贵。用秋油细郁后，用纤粉、蛋清搂之，入油锅炒，加作料炒之。油用素油。</p>
+<p>　　<strong>土步鱼<br/></strong>　　杭州以土步鱼为上品。而金陵人贱之，目为虎头蛇，可发一笑。肉最松嫩。煎之，煮之，蒸之俱可。加腌芥作汤，作羹，尤鲜。</p>
+<p>　　<strong>鱼松<br/></strong>　　用青鱼、［鱼军］鱼蒸熟，将肉拆下，放油锅中灼之，黄色，加盐花、葱、椒、瓜、姜。冬日封瓶中，可以一月。</p>
+<p>　　<strong>鱼圆<br/></strong>　　用白鱼、青鱼活者，剖半钉板上，用刀刮下肉，留剌的板上；将肉斩化，用豆粉、猪油拌，将手搅之；放微微盐水，不用清酱，加葱、姜汁作团，成后，放滚水中煮熟撩起，冷水养之，临吃入鸡汤、紫菜滚。</p>
+<p>　　<strong>鱼片<br/></strong>　　取青鱼、季鱼片，秋油郁之，加纤纷、蛋清，起油锅炮炒，用小盘盛起，加葱、椒、瓜、姜，极多不过六两，太多则火气不透。</p>
+<p>　　<strong>连鱼豆腐<br/></strong>　　用大连鱼煎熟，加豆腐，喷酱、水、葱、酒滚之，俟汤也半红起锅，其头味尤美。此杭州菜也。用酱多少，须相鱼而行。</p>
+<p>　　<strong>醋搂鱼<br/></strong>　　用活青鱼切大块，油灼之，加酱、醋、酒喷之，汤多为妙。俟熟即速起锅。此物杭州西湖上五柳居有名。而今则酱臭而鱼败矣。甚矣！宋嫂鱼羹，徒存虚名。《梦梁录》不足信也。鱼不可大，大则味不入；不可小，小则剌多。</p>
+<p>　　<strong>银鱼<br/></strong>　　银鱼起水时，名冰鲜。加鸡汤、火腿汤煨之。或炒食甚嫩。干者泡软，用酱水炒亦妙。</p>
+<p>　　<strong>台鲞<br/></strong>　　台鲞好丑不一。出台州松门者为佳，肉软而鲜肥。生时拆之，便可当作小菜，不必煮食也；用鲜肉同煨，须肉烂时放鲞，否则鲞消化不见矣，冻之即为鲞冻，绍兴人法也。</p>
+<p>　　<strong>糟鲞<br/></strong>　　冬日用大鲤鱼腌而干之，入酒糟，置坛中，封口。夏日食之。不可烧酒作泡。用烧酒者，不无辣味。</p>
+<p>　　<strong>虾子勒鲞<br/></strong>　　夏日选白净带子勒鲞，放水中一日，泡去盐味，太阳晒干，入锅油煎一面黄取起，以一面未黄者铺上虾子，放盘中，加白糖蒸之，以一炷香为度。三伏日食之绝妙。</p>
+<p>　　<strong>鱼脯<br/></strong>　　活青鱼去头尾，斩小方块，盐腌透，风干，入锅油煎；加作料收卤，再炒芝麻滚拌起锅，苏州法也。</p>
+<p>　　<strong>家常煎鱼<br/></strong>　　家常煎鱼，须要耐性。将［鱼军］鱼洗净，切块盐腌，压扁，入油中两面熯黄，多加酒、秋油，文火慢慢滚之，然后收汤作卤，使作料之味全入鱼中。第此法指鱼之不活者而言。如活者，又以速起锅为妙。</p>
+<p>　　<strong>黄姑鱼<br/></strong>　　岳州出小鱼，长二三寸，晒干寄来。加酒剥皮，放饭锅上蒸而食之，味最鲜，号“黄姑鱼”。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18760.aspx">上一章</a>
+<a href="/guwen/book_229.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18762.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

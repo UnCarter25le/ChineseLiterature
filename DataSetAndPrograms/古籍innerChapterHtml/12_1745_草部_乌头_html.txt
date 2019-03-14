@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·草部·乌头_古诗文网
+</title>
+<meta content="释名乌喙、草乌头、土附子、奚毒、耿子、毒公、金鸦。苗名：莨、芨、堇、独白草、鸳鸯菊。汁煎名射罔。气味（乌头）辛、温、有大毒。（乌喙，一名两头尖）辛、微温、有大毒。（射罔）苦、有大毒" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1745.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>草部·乌头</b></span>
+<a href="javascript:PlayBookv(1745)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1745" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1745" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>乌喙、草乌头、土附子、奚毒、耿子、毒公、金鸦。苗名：莨、芨、堇、独白草、鸳鸯菊。汁煎名射罔。</p>
+<p><strong>气味</strong><br/>（乌头）辛、温、有大毒。（乌喙，一名两头尖）辛、微温、有大毒。（射罔）苦、有大毒。</p>
+<p><strong>主治</strong><br/>中风瘫痪（手中颤动，言语蹇涩）用草乌头（炮，去皮）四两，川乌头（炮，去皮）二两，乳香、没药各一两，共研为末；生乌豆一升，以斑蝥三至七个，去头翅，同煮豆熟，去取得取豆，焙干为末，加入上述药末中，以醋、面调成丸子，如梧子大，每服三十丸，温酒送下。此方名“左经丸”。<br/>瘫痪顽负（风节疼痛，下元虚冷，一切风疮）。用草乌头、川乌头、两头尖各三钱，硫磺、麝香、丁香各一钱，木鳖子五个，共研为末。再以熟艾揉软，合在一起用草纸包裹。烧熏痛处。此方名“雷丸”。<br/>腰脚冷痛。用乌头三个，去皮脐，研细，醋调贴痛处。<br/>久患头风。用草乌头尖（生）一分、赤小豆三十五粒、麝香二分，共研为末。每服半钱，冷薄荷汤送上。<br/>耳鸣耳痒（耳 中如闻流乐声及风声，不治成聋）用新掘得的生乌头，乘湿削如枣核大，塞耳内。一天换二次，几天病愈。<br/>喉痹口噤。用草乌头、皂荚，等分为末，加麝香少许擦牙，并吸入鼻内，牙关自开，又驻京：用草乌尖、石胆，等分为末，每用一钱，以醋煮皂荚的液汁调稀，扫涂肿上，流涎几次，其毒即破。<br/>脾、寒、厥疟（先寒后热，名寒疟；但寒不热，面色黑者名厥疟；寒多热少，百黄腹痛，脾疟）用上等草乌头削去皮，开水泡几次，密盖一段时间，取出切细、焙干，研为末，加猛然 糊做成丸子，如梧子大。每服三十丸，清早服，以姜十片，枣三枚、葱三根煎汤送下，吃一点枣子坟往。隔一、两小时再服药一次。<br/>腹中症结。用射罔二两、椒三百粒，共捣为末，加鸡蛋白和成丸子，如麻子大。每服一丸，渐至三丸，病愈为止。<br/>内痔不出。用生草乌头切片，加醋熬成膏，摊贴患处，次日即可把根拔出。又方：两头尖一两、巴豆四个，捣烂贴患睡，疔自拔出。<br/>疔毒恶肿。用生草乌头切片，加醋熬成膏，摊贴患睡，次日即可把根拔出。又方：两头尖一两、巴豆四个，捣烂贴患处，疔自拔出。<br/>遍身生疮（阴囊及两脚最多）。用草乌头一两，盐一两，化水泡一夜，炒红，研为末；另取猪腰子一个，去膜煨熟。竹刀切细、捣烂，加醋、糊调药末为丸，如绿豆在。每服三十丸，空心服，盐汤送下。<br/>瘰疬初起（未破，发寒发热）。用草乌头头半两、木鳖子二个，加米醋磨细，再投入捣烂的葱头和蝗蚓粪少许，调匀敷患处，外贴纸条，留通气孔。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1744.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1746.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

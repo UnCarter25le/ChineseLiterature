@@ -1,0 +1,118 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·举痛论_古诗文网
+</title>
+<meta content="黄帝问曰：余闻善言天者，必有验于人；善言古者，必有合于今；善言人者，必有厌于己。如此，则道不惑而要数极，所谓明也。今余问于夫子，令言而可知，视而可见，扪而可得，令验于己而发蒙解惑，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1002.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left821" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·举痛论</b></span>
+<a href="javascript:PlayBookv(1002)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1002" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(821)" id="leftbtn821" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1002" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问曰：余闻善言天者，必有验于人；善言古者，必有合于今；善言人者，必有厌于己。如此，则道不惑而要数极，所谓明也。今余问于夫子，令言而可知，视而可见，扪而可得，令验于己而发蒙解惑，可得而闻乎？</p>
+<p>　　岐伯再拜稽首对曰：何道之问也？</p>
+<p>　　帝曰：愿闻人之五藏卒痛，何气使然？</p>
+<p>　　岐伯对曰：经脉流行不止、环周不休，寒气入经而稽迟，泣而不行，客于脉外则血少，客于脉中则气不通，故卒然而痛。</p>
+<p>　　帝曰：其痛或卒然而止者，或痛甚不休者，或痛甚不可按者，或按之而痛止者，或按之无益者，或喘动应手者，或心与背相引而痛者，或胁肋与少腹相引而痛者，或腹痛引阴股者，或痛宿昔而成积者，或卒然痛死不知人，有少间复生者，或痛而呕者，或腹痛而后泄者，或痛而闭不通者，凡此诸痛，各不同形，别之奈何？</p>
+<p>　　岐伯曰：寒气客于脉外则脉寒，脉寒则缩踡，缩踡则脉绌急，绌急则外引小络，故卒然而痛，得炅则痛立止；因重中于寒，则痛久矣。</p>
+<p>　　寒气客于经脉之中，与炅气相薄则脉满，满则痛而不可按也。寒气稽留，炅气从上，则脉充大而血气乱，故痛甚不可按也。</p>
+<p>　　寒气客于肠胃之间，膜原之下，血不得散，小络急引故痛，按之则血气散，故按之痛止。</p>
+<p>　　寒气客于侠脊之脉，则深按之不能及，故按之无益也。</p>
+<p>　　寒气客于冲脉，冲脉起于关元，随腹直上，寒气客则脉不通，脉不通则气因之，故揣动应手矣。</p>
+<p>　　寒气客于背俞之脉则脉泣，脉泣则血虚，血虚则痛，其俞注于心，故相引而痛，按之则热气至，热气至则痛止矣。</p>
+<p>　　寒气客于厥阴之脉，厥阴之脉者，络阴器系于肝，寒气客于脉中，则血泣脉急，故胁肋与少腹相引痛矣。</p>
+<p>　　厥气客于阴股，寒气上及少腹，血泣在下相引，故腹痛引阴股。</p>
+<p>　　寒气客于小肠膜原之间，络血之中，血泣不得注于大经，血气稽留不得行，故宿昔而成积矣。</p>
+<p>　　寒气客于五藏，厥逆上泄，阴气竭，阳气未入，故卒然痛死不知人，气复反则生矣。</p>
+<p>　　寒气客于肠胃，厥逆上出，故痛而呕也。</p>
+<p>　　寒气客于小肠，小肠不得成聚，故后泄腹痛矣。</p>
+<p>　　热气留于小肠，肠中痛，瘅热焦喝，则坚干不得出，故痛而闭不通矣。</p>
+<p>　　帝曰：所谓言而可知者也。视而可见奈何？</p>
+<p>　　岐伯曰：五藏六府，固尽有部，视其五色，黄赤为热，白为寒，青黑为痛，此所谓视而可见者也。</p>
+<p>　　帝曰：扪而可得奈何？</p>
+<p>　　岐伯曰：视其主病之脉，坚而血及陷下者，皆可扪而得也。</p>
+<p>　　帝曰：善。余知百病生于气也。怒则气上，喜则气缓，悲则气消，恐则气下，寒则气收，炅则气泄，惊则气乱，劳则气耗，思则气结，九气不同，何病之生？</p>
+<p>　　岐伯曰：怒则气逆，甚则呕血及飧泄，故气上矣。喜则气和志达，荣卫通利，故气缓矣。悲则心系急，肺布叶举，而上焦不通，荣卫不散，热气在中，故气消矣。恐则精却，却则上焦闭，闭则气还，还则下焦胀，故气不行矣。寒则腠理闭，气不行，故气收矣。炅则腠理开，荣卫通，汗大泄，故气泄。惊则心无所倚，神无所归，虑无所定，故气乱矣。劳则喘息汗出，外内皆越，故气耗矣。思则心有所存，神有所归，正气留而不行，故气结矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1001.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1003.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right821" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

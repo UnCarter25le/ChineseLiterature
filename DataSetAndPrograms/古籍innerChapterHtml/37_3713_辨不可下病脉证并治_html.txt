@@ -1,0 +1,117 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+伤寒论·辨不可下病脉证并治_古诗文网
+</title>
+<meta content="脉濡而弱，弱反在关，濡反在巅，微反在上，涩反在下。微则阳气不足，涩则无血。阳气反微，中风、汗出而反躁烦；涩则无血，厥而且寒。阳微不可下，下之则心下痞硬。动气在右，不可下，下之则津液" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3713.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2339" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>辨不可下病脉证并治</b></span>
+<a href="javascript:PlayBookv(3713)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3713" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2339)" id="leftbtn2339" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3713" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e4%bb%b2%e6%99%af">张仲景</a></p>
+<div class="contson">
+<p>　　脉濡而弱，弱反在关，濡反在巅，微反在上，涩反在下。微则阳气不足，涩则无血。阳气反微，中风、汗出而反躁烦；涩则无血，厥而且寒。阳微不可下，下之则心下痞硬。</p>
+<p>　　动气在右，不可下，下之则津液内竭，咽燥、鼻干、头眩、心悸也。</p>
+<p>　　动气在左，不可下。下之则腹内拘急，食不下，动气更剧。虽有身热，卧则欲蜷。</p>
+<p>　　动气在上，不可下。下之则掌握热烦，身上浮冷，热汗自泄，欲得水自灌。</p>
+<p>　　动气在下，不可下。下之则腹胀满，卒起头眩，食则下清谷，心下痞也。</p>
+<p>　　咽中闭寒，不可下。下之则上轻下重，水浆不下，卧则欲蜷，身急痛，下利日数十行。</p>
+<p>　　诸外实者，不可下。下之则发微热，亡脉厥者，当脐握热。</p>
+<p>　　诸虚者，不可下。下之则大渴，求水者易愈，恶水者剧。</p>
+<p>　　脉濡而弱，弱反在关，濡反在巅，弦反在上，微反在下。弦为阳运，微为阴寒。上实下虚，意欲得温。微弦为虚，虚者不可下也。</p>
+<p>　　微则为咳，咳则吐涎，下之则咳止，而利因不休，利不休，则胸中如虫啮，粥入则出，小便不利，两胁拘急，喘息为难，颈背相引，臂则不仁，极寒反汗出，身冷若冰，眼睛不慧，语言不休，而谷气多入，此为除中，口虽欲言，舌不得前。</p>
+<p>　　脉濡而弱，弱反在关，濡反在巅，浮反在上，数反在下。浮为阳虚，数为无血，浮为虚，数为热。浮为虚，自汗出而恶寒；数为痛，振寒而栗。微弱在关，胸下为急，喘汗而不得呼吸，呼吸之中，痛在于胁，振寒相搏，形如疟状，医反下之，故令脉数、发热、狂走见鬼，心下为痞，小便淋沥，小腹甚硬，小便尿血也。</p>
+<p>　　脉濡而紧，濡则卫气微，紧则荣中寒。阳微卫中风，发热而恶寒；荣紧胃气冷，微呕心内烦。医为有大热，解肌而发汗，亡阳虚烦躁，心下苦痞坚。表里俱虚竭，卒起而头眩。客热在皮肤，怅怏不得眠。不知胃气冷，紧寒在关元。技巧无所施，汲水灌其身。客热应时罢，栗栗而振寒。重被而复之，汗出而冒巅。体惕而又振，小便为微难。寒气因水发，清谷不容间。呕变反肠出，颠倒不得安。手足为微逆，身冷而内烦。迟欲从后救，安可复追还。</p>
+<p>　　脉浮而大，浮为气实，大为血虚。血虚为无阴，孤阳独下阴部者，小便当赤而难，胞中当虚，今反小便利，而大汗出，法应卫家当微，今反更实，津液四射，荣竭血尽，干烦而不得眠，血薄肉消，而成暴液。医复以毒药攻其胃，此为重虚，客阳去有期，必下如污泥而死。</p>
+<p>　　脉数者，久数不止，止则邪结，正气不能复，正气却结于藏，故邪气浮之，与皮毛相得。脉数者，不可下，下之则必烦，利不止。</p>
+<p>　　脉浮大，应发汗，医反下之，此为大逆。</p>
+<p>　　呕多，虽有阳明证，不可攻之。</p>
+<p>　　太阳病，外证未解，不可下，下之为逆。</p>
+<p>　　夫病阳多者热，下之则硬。</p>
+<p>　　无阳阴强，大便硬者，下之则必清谷腹满。</p>
+<p>　　伤寒发热，头痛，微汗。发汗，则不识人；熏之则喘，不得小便，心腹满；下之则短气，小便难，头痛，背强；加温针则衄。</p>
+<p>　　伤寒，脉阴阳俱紧，恶寒发热，则脉欲厥。厥者，脉初来大，渐渐小，更来渐渐大，是其候也。如此者恶寒，甚者，翕翕汗出，喉中痛；热多者，目赤脉多，睛不慧，医复发之，咽中则伤；若复下之，则两目闭，寒多者便清谷，热多者便脓血；若熏之，则身发黄；若熨之，则咽燥。若小便利者，可救之；小便难者，为危殆。</p>
+<p>　　伤寒发热，口中勃勃气出，头痛，目黄，衄不可制，贪水者必呕，恶水者厥。若下之，咽中生疮，假令手足温者，必下重便脓血。头痛目黄者，若下之，则两目闭。贪水者，脉必厥，其声嘤，咽喉塞；若发汗，则战栗，阴阳俱虚。恶水者，若下之，则里冷不嗜食，大便完谷出；若发汗，则口中伤，舌上白胎，烦躁，脉数实，不大便，六七日后，必便血；若发汗，则小便自利也。</p>
+<p>　　下利，脉大者，虚也，以其强下之故也。设脉浮革，固尔肠鸣者，属当归四逆汤主之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3712.aspx">上一章</a>
+<a href="/guwen/book_37.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3714.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2339" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

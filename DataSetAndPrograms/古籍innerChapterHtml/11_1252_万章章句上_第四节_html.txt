@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孟子·万章章句上·第四节_古诗文网
+</title>
+<meta content="咸丘蒙问曰：“语云：‘盛德之士，君不得而臣，父不得而子。’舜南面而立，尧帅诸侯北面而朝之，瞽瞍亦北面而朝之。舜见瞽瞍，其容有蹙。孔子曰：‘于斯时也，天下殆哉，岌岌乎！’不识此语诚然" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1252.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1097" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>万章章句上·第四节</b></span>
+<a href="javascript:PlayBookv(1252)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1252" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1097)" id="leftbtn1097" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1252" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　咸丘蒙问曰：“语云：‘盛德之士，君不得而臣，父不得而子。’舜南面而立，尧帅诸侯北面而朝之，瞽瞍亦北面而朝之。舜见瞽瞍，其容有蹙。孔子曰：‘于斯时也，天下殆哉，岌岌乎！’不识此语诚然乎哉？”</p>
+<p>　　孟子曰：“否。此非君子之言，齐东野人之语也。尧老而舜摄也。尧典曰：‘二十有八载，放勋乃徂落，百姓如丧考妣，三年，四海遏密八音。’孔子曰：‘天无二日，民无二王。’舜既为天子矣，又帅天下诸侯以为尧三年丧，是二天子矣。”</p>
+<p>　　咸丘蒙曰：“舜之不臣尧，则吾既得闻命矣。诗云：‘普天之下，莫非王土；率土之滨，莫非王臣。’而舜既为天子矣，敢问瞽瞍之非臣，如何？”曰：“是诗也，非是之谓也；劳于王事，而不得养父母也。曰：‘此莫非王事，我独贤劳也。’故说诗者，不以文害辞，不以辞害志。以意逆志，是为得之。如以辞而已矣，云汉之诗曰：‘周余黎民，靡有孑遗。’信斯言也，是周无遗民也。孝子之至，莫大乎尊亲；尊亲之至，莫大乎以天下养。为天子父，尊之至也；以天下养，养之至也。诗曰：‘永言孝思，孝思维则。’此之谓也。书曰：‘只载见瞽瞍，夔夔齐栗，瞽瞍亦允若。’是为父不得而子也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1251.aspx">上一章</a>
+<a href="/guwen/book_11.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1253.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1097" style="width:580px; display:none;"></div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+礼记·昏义_古诗文网
+</title>
+<meta content="昏礼者，将合二姓之好，上以事宗庙，而下以继后世也。故君子重之。是以昏礼纳采、问名、纳吉、纳征、请期，皆主人筵几于庙，而拜迎于门外，入，揖让而升，听命于庙，所以敬慎重正昏礼也。父亲醮" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3180.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1708" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>昏义</b></span>
+<a href="javascript:PlayBookv(3180)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3180" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1708)" id="leftbtn1708" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3180" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　昏礼者，将合二姓之好，上以事宗庙，而下以继后世也。故君子重之。是以昏礼纳采、问名、纳吉、纳征、请期，皆主人筵几于庙，而拜迎于门外，入，揖让而升，听命于庙，所以敬慎重正昏礼也。</p>
+<p>　　父亲醮子，而命之迎，男先于女也。子承命以迎，主人筵几于庙，而拜迎于门外。婿执雁入，揖让升堂，再拜奠雁，盖亲受之于父母也。降，出御妇车，而婿授绥，御轮三周。先俟于门外，妇至，婿揖妇以入，共牢而食，合卺而酳，所以合体同尊卑以亲之也。</p>
+<p>　　敬慎重正而后亲之，礼之大体，而所以成男女之别，而立夫妇之义也。男女有别，而后夫妇有义；夫妇有义，而后父子有亲；父子有亲，而后君臣有正。故曰：昏礼者，礼之本也。</p>
+<p>　　夫礼始于冠，本于昏，重于丧祭，尊于朝聘，和于射乡--此礼之大体也。</p>
+<p>　　夙兴，妇沐浴以俟见；质明，赞见妇于舅姑，执笲、枣、栗、段修以见，赞醴妇，妇祭脯醢，祭醴，成妇礼也。舅姑入室，妇以特豚馈，明妇顺也。厥明，舅姑共飨妇以一献之礼，奠酬。舅姑先降自西阶，妇降自阼阶，以着代也。</p>
+<p>　　成妇礼，明妇顺，又申之以着代，所以重责妇顺焉也。妇顺者，顺于舅姑，和于室人；而后当于夫，以成丝麻布帛之事，以审守委积盖藏。是故妇顺备而后内和理；内和理而后家可长久也；故圣王重之。</p>
+<p>　　是以古者妇人先嫁三月，祖祢未毁，教于公宫，祖祢既毁，教于宗室，教以妇德、妇言、妇容、妇功。教成祭之，牲用鱼，芼之以苹藻，所以成妇顺也。</p>
+<p>　　古者天子后立六宫、三夫人、九嫔、二十七世妇、八十一御妻，以听天下之内治，以明章妇顺；故天下内和而家理。天子立六官、三公、九卿、二十七大夫、八十一元士，以听天下之外治，以明章天下之男教；故外和而国治。故曰：天子听男教，后听女顺；天子理阳道，后治阴德；天子听外治，后听内职。教顺成俗，外内和顺，国家理治，此之谓盛德。</p>
+<p>　　是故男教不修，阳事不得，适见于天，日为之食；妇顺不修，阴事不得，适见于天，月为之食。是故日食则天子素服而修六官之职，荡天下之阳事；月食则后素服而修六宫之职，荡天下之阴事。故天子与后，犹日之与月、阴之与阳，相须而后成者也。天子修男教，父道也；后修女顺，母道也。故曰：天子之与后，犹父之与母也。故为天王服斩衰，服父之义也；为后服资衰，服母之义也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3179.aspx">上一章</a>
+<a href="/guwen/book_23.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3181.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1708" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

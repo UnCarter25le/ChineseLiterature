@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷一·王六郎_古诗文网
+</title>
+<meta content="许姓，家淄之北郭，业渔。每夜携酒河上，饮且渔。饮则酹酒于地，祝云：“河中溺鬼得饮。”以为常。他人渔，迄无所获，而许独满筐。一夕方独酌，有少年来徘徊其侧。让之饮，慨与同酌。既而终夜不" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11412.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·王六郎</b></span>
+<a href="javascript:PlayBookv(11412)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11412" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11412" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　许姓，家淄之北郭，业渔。每夜携酒河上，饮且渔。饮则酹酒于地，祝云：“河中溺鬼得饮。”以为常。他人渔，迄无所获，而许独满筐。</p>
+<p>　　一夕方独酌，有少年来徘徊其侧。让之饮，慨与同酌。既而终夜不获一鱼，意颇失。少年起曰：“请于下流为君驱之。”遂飘然去。少间复返曰：“鱼大至矣。”果闻唼呷有声。举网而得数头皆盈尺。喜极，申谢。欲归，赠以鱼不受，曰：“屡叨佳酝，区区何足云报。如不弃，要当以为常耳。”许曰：“方共一夕，何言屡也？如肯永顾，诚所甚愿，但愧无以为情。”询其姓字，曰：“姓王，无字，相见可呼王六郎。”遂别。明日，许货鱼益利，沾酒。晚至河干，少年已先在，遂与欢饮。饮数杯，辄为许驱鱼。如是半载，忽告许曰：“拜识清扬，情逾骨肉，然相别有日矣。”语甚凄楚。惊问之，欲言而止者再，乃曰：“情好如吾两人，言之或勿讶耶？今将别，无妨明告：我实鬼也。素嗜酒，沉醉溺死数年于此矣。前君之获鱼独胜于他人者，皆仆之暗驱以报酹奠耳。明日业满，当有代者，将往投生。相聚只今夕，故不能无感。”许初闻甚骇，然亲狎既久，不复恐怖。因亦欷歔，酌而言曰：“六郎饮此，勿戚也。相见遽违，良足悲恻。然业满劫脱，正宜相贺，悲乃不伦。”遂与畅饮。因问：“代者何人？”曰：“兄于河畔视之，亭午有女子渡河而溺者是也。”听村鸡既唱，洒涕而别。明日敬伺河边以觇其异。果有妇人抱婴儿来，及河而堕。儿抛岸上，扬手掷足而啼。妇沉浮者屡矣，忽淋淋攀岸以出：藉地少息，抱儿径去。当妇溺时，意良不忍，思欲奔救；转念是所以代六郎者，故止不救。及妇自出，疑其言不验。抵暮，渔旧处，少年复至，曰：“今又聚首，且不言别矣。”问其故。曰：“女子已相代矣；仆怜其抱中儿，代弟一人遂残二命，故舍之。更代不知何期。或吾两人之缘未尽耶？”许感叹曰：“此仁人之心，可以通上帝矣。”由此相聚如初。</p>
+<p>　　数日又来告别，许疑其复有代者，曰：“非也。前一念恻隐，果达帝天。今授为招远县邬镇土地，来日赴任。倘不忘故交，当一往探，勿惮修阻。”许贺曰：“君正直为神，甚慰人心。但人神路隔，即不惮修阻，将复如何？”少年曰：“但往勿虑。”再三叮咛而去。许归，即欲制装东下，妻笑曰：“此去数百里，即有其地，恐土偶不可以共语。”许不听，竟抵招远。问之居人，果有邬镇。寻至其处，息肩逆旅，问祠所在。主人惊曰：“得无客姓为许？”许曰：“然。何见知？”又曰：“得无客邑为淄？”曰：“然。何见知？”主人不答遽出。俄而丈夫抱子，媳女窥门，杂沓而来，环如墙堵。许益惊。众乃告曰：“数夜前梦神言：淄川许友当即来，可助一资斧。祗候已久。”许亦异之，乃往祭于祠而祝曰：“别君后，寤寐不去心，远践曩约。又蒙梦示居人，感篆中怀。愧无腆物，仅有卮酒，如不弃，当如河上之饮。”祝毕焚钱纸。俄见风起座后，旋转移时始散。至夜梦少年来，衣冠楚楚，大异平时，谢曰：“远劳顾问，喜泪交并。但任微职，不便会面，咫尺河山，甚怆于怀。居人薄有所赠，聊酬夙好。归如有期，尚当走送。”居数日，许欲归，众留殷恳，朝请暮邀，日更数主。许坚辞欲行。众乃折柬抱襆，争来致赆，不终朝，馈遗盈橐。苍头稚子，毕集祖送。出村，欻有羊角风起，随行十余里。许再拜曰：“六郎珍重！勿劳远涉。君心仁爱，自能造福一方，无庸故人嘱也。”风盘旋久之乃去。村人亦嗟讶而返。</p>
+<p>　　许归，家稍裕，遂不复渔。后见招远人问之，其灵应如响云。或言即章丘石坑庄。未知孰是？</p>
+<p>　　异史氏曰：“置身青云无忘贫贱，此其所以神也。今日车中贵介，宁复识戴笠人哉？余乡有林下者，家甚贫。有童稚交，任肥秩，计投之必相周顾。竭力办装，奔涉千里，殊失所望。泻囊货骑始得归。其族弟甚谐，作月令嘲之云：‘是月也，哥哥至，貂帽解，伞盖不张，马化为驴，靴始收声。’念此可为一笑。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11411.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11413.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

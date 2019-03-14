@@ -1,0 +1,134 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+笑林广记·闺风部_古诗文网
+</title>
+<meta content="藏年一人娶一老妻，坐床时，见面多皱纹，因问曰：“汝有多少年纪？”妇曰：“四十五六。”夫曰：“婚书上写三十八岁，依我看来还不止四十五六。可实对我说。”曰：“实五十四岁矣。”夫复再三诘" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4236.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2836" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>闺风部</b></span>
+<a href="javascript:PlayBookv(4236)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4236" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2836)" id="leftbtn2836" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4236" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b8%b8%e6%88%8f%e4%b8%bb%e4%ba%ba%e7%ba%82%e9%9b%86">游戏主人纂集</a></p>
+<div class="contson">
+<p>　　藏年</p>
+<p>　　一人娶一老妻，坐床时，见面多皱纹，因问曰：“汝有多少年纪？”妇曰：“四十五六。”夫曰：“婚书上写三十八岁，依我看来还不止四十五六。可实对我说。”曰：“实五十四岁矣。”夫复再三诘之，只以前言对。上床后，更不过心。乃巧生一计曰：“我要起来盖盐瓮，不然，被老鼠吃去矣。”妇曰：“倒好笑，我活了六十八岁，并不闻老鼠会偷盐吃。”</p>
+<p>　　鹰啄</p>
+<p>　　一母生一子一女，而女尤钟爱。及遣嫁后，思念不已，谓其子曰：“人家再不要养女儿，养得这般长成，就如被饿老鹰轻轻一爪便抓去了。”子曰：“阿姆，阿姆，他们如今正在那里啄着哩。”</p>
+<p>　　拜堂产儿</p>
+<p>　　有新妇拜堂，即产下一儿。婆愧甚，急取藏之。新妇曰：“早知婆婆这等爱惜，快叫人把家中阿大、阿二都领了来罢。”</p>
+<p>　　抢婚</p>
+<p>　　有婚家女富男贫，男家虑其赖婚，率领众人抢亲，误背小姨以出。女家人急呼曰：“抢差了！”小姨在背上曰：“不差，不差！快走上些，莫信他哄你哩。”</p>
+<p>　　两坦</p>
+<p>　　有一女择配，适两家并求。东家郎丑而富，西家郎美而贫。父母问其欲适谁家。女曰：“两坦。”问其故，答曰：“我爱在东家吃饭，西家去睡。”</p>
+<p>　　谢周公</p>
+<p>　　一女初嫁，哭问嫂曰：“此礼何人所制？”嫂曰：“周公。”女将周公大骂不已。及满月归宁。问嫂曰：“周公何在？”嫂云：“他是古人，寻他做甚？”女曰：“我要制双鞋谢他。”</p>
+<p>　　舌头甜</p>
+<p>　　新婚夜，送亲席散。次日，厨师检点桌面，不见一顶糖人。各处查问，新人忽大笑不止。喜娘在旁，问：“笑甚么？”女答曰：“怪不得昨夜一个人舌头是甜津津的。”</p>
+<p>　　大话</p>
+<p>　　一女出嫁坐床，掌礼撒帐云：“撒帐东，官人棒子好撞钟。”女忙接口云：“弗怕。”喜嫔曰：“新娘子不宜如此口快。”新妇曰：“不是我也不说，才得进门，可恶他把这大话来吓我。”</p>
+<p>　　两来船</p>
+<p>　　一人遇两来船，手托在窗槛外，夹伤一指，归诉于妻。妻骇然嘱曰：“今后遇两来船，切记不可解小便。”</p>
+<p>　　扇尸</p>
+<p>　　夫死，妻以扇将尸扇之不已。邻人问曰：“天寒何必如此？”妇拭泪答曰：“拙夫临终吩咐：‘你若要嫁人，须待我肉冷。’”</p>
+<p>　　她大我大</p>
+<p>　　一家娶妾，年纪过长于妻。有卖婆见礼，问哪位是大，妾应云：“大是她大，大是我大。”</p>
+<p>　　罚真咒</p>
+<p>　　一人欲往妾处，诈称：“我要出恭，去去就来。”妻不许。夫即赌咒云：“若他往做狗。”妻将索系其足放去。夫解索。转缚狗脚上，竟往妾房。妻见久不至，收索到床边，起摸着狗背。乃骇云：“这死乌龟，我还道是骗我，却原来倒罚了真咒。”</p>
+<p>　　日进</p>
+<p>　　老年娶妾，欲结其欢心，说某处有田地若干，房屋若干。妾曰：“这都不在我心上。从来说家财万贯，不如日进分文的好。”</p>
+<p>　　咬牙</p>
+<p>　　有姑媳孀居。姑曰：“做寡妇须要咬紧了牙根过日子。”未几，姑与人私，媳以前言责之，姑张口示媳曰：“你看，也得我有了牙齿方好咬。”</p>
+<p>　　不怕死的</p>
+<p>　　有新妇进门年余，孕已满月，临盆极难，胎转之际，腹中绞痛几欲死，迟两三日方下，视之男也。妇谓夫曰：“吾为此一块肉，几濒于死。既有此子，宗祀可不绝。愿从此不睡合欢床，若再怀胎生产，我必不能活，君如念夫妇情，请异室独居以救余生。”夫诺之，即遵阃教，设榻别室，距子生已逾两月余，一夕更已深，夫展被登床，灭烛独卧，渐入黑甜乡，不复有他念矣。忽敲门声甚急，夫惊醒，问为谁？妇曰：“我。”夫问汝为谁？妇又曰：“我。”夫问汝究竟是谁？妇隔窗笑语曰：“不怕死的人来了，速开门。”</p>
+<p>　　啖馄饨</p>
+<p>　　一妻病，夫问曰：“想甚吃否？”妻曰：“除非好肉馄饨，想吃一二只。”夫为治一盂，意欲与妻同享。方往取箸回，而妻已染指啖尽。止余其一。夫曰：“何不并啖此枚？”妻攒眉曰：“我若吃得下此只，不害这病了。”</p>
+<p>　　痴婿</p>
+<p>　　人家有两婿，小者痴呆， 不识一字。妻曰：“姐夫读书，我爹敬他，你目不识丁，我面上甚不争气。来日我兄弟完姻，诸亲聚会，识认几字，也好在人前卖嘴。我家土库前，写‘此处不许撒尿’六字，你可牢记，人或问起，亦可对答，便不敢欺你了。”呆子惟诺。至日，行至墙边，即指曰：“此处不许撒尿。”岳丈喜曰：“贤婿识字大好。”良久，舅母出来相见，裙上有销金飞带，绣“长命富贵，金玉满堂”八字，坠于裙之中间。呆子一见，忙指向众人曰：“此处不许撒尿。”</p>
+<p>　　正夫纲</p>
+<p>　　众怕婆者，各受其妻惨毒。纠合十人歃血盟誓，互为声援。正在酬神饮酒，不想众妇闻知。一齐打至盟所。九人飞跑惊窜，惟一人危坐不动。众皆私相佩服曰：“何物乃尔，该让他做大哥。”少顷妇散，察之。已惊死矣。</p>
+<p>　　七月儿</p>
+<p>　　有怀孕七个月即产一儿者，其夫恐养不大。遇人即问。一日，与友谈及此事。友曰：“这个无妨。我家祖亦是七个月出世的。”其人愕问曰：“若是这等说，令祖后来毕竟养得大否？”</p>
+<p>　　丑汉看</p>
+<p>　　一妇人在门首，被人注目而看，妇人大骂不已。邻妪劝曰：“你又不在内室，凭他看看何妨？”妇曰：“我若把好面孔看看也罢，被这样呆脸看了，岂不苦毒。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4235.aspx">上一章</a>
+<a href="/guwen/book_51.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4237.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2836" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

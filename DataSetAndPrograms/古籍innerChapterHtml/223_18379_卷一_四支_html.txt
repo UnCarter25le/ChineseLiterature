@@ -1,0 +1,116 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+龙文鞭影·卷一·四支_古诗文网
+</title>
+<meta content="王良策马，傅说骑箕。 伏羲画卦，宣父删诗。高逢白帝，禹梦玄彝。 寅陈七策，光进五规。鲁恭三异，杨震四知。 邓攸弃子，郭巨埋儿。公瑜嫁婢，处道还姬。 允诛董卓，玠杀王夔。石虔矫捷，朱" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18379.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·四支</b></span>
+<a href="javascript:PlayBookv(18379)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18379" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18379" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%90%a7%e8%89%af%e6%9c%89">萧良有</a></p>
+<div class="contson">
+<p>王良策马，傅说骑箕。 伏羲画卦，宣父删诗。</p>
+<p>高逢白帝，禹梦玄彝。 寅陈七策，光进五规。</p>
+<p>鲁恭三异，杨震四知。 邓攸弃子，郭巨埋儿。</p>
+<p>公瑜嫁婢，处道还姬。 允诛董卓，玠杀王夔。</p>
+<p>石虔矫捷，朱亥雄奇。 平叔傅粉，弘治凝脂。</p>
+<p>伯俞泣杖，墨翟悲丝。 能文曹植，善辩张仪。</p>
+<p>温公警枕，董子下帷。 会书张旭，善画王维。</p>
+<p>周兄无慧，济叔不痴。 杜畿国士，郭泰人师。</p>
+<p>伊川传易，觉范论诗。 董昭救蚁，毛宝放龟。</p>
+<p>乘风宗悫，立雪杨时。 阮籍青眼，马良白眉。</p>
+<p>韩子孤愤，梁鸿五噫。 钱昆嗜蟹，崔谌乞糜。</p>
+<p>隐之卖犬，井伯烹雌。 枚皋敏捷，司马淹迟。</p>
+<p>祖莹称圣，潘岳诚奇。 紫芝眉宇，思曼风姿。</p>
+<p>毓会窃饮，谌纪成糜。 韩康卖药，周术茹芝。</p>
+<p>刘公殿虎，庄子涂龟。 唐举善相，扁鹊名医。</p>
+<p>韩琦焚疏，贾岛祭诗。 康侯训侄，良弼课儿。</p>
+<p>颜狂莫及，山器难知。 懒残煨芋，李泌烧梨。</p>
+<p>乾椹杨沛，焦饭陈遗。 文舒戒子，安石求师。</p>
+<p>防年未减，严武称奇。 邓云艾艾，周曰期期。</p>
+<p>周师猿鹄，梁相鹓鸱。 临洮大汉，琼崖小儿。</p>
+<p>东阳巧对，汝锡奇诗。 启期三乐，藏用五知。</p>
+<p>堕甑叔达，发瓮钟离。 一钱诛吏，半臂怜姬。</p>
+<p>王胡索食，罗友乞祠。 召父杜母，雍友杨师。</p>
+<p>直言解发，京兆画眉。 美姬工笛，老婢吹篪。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18378.aspx">上一章</a>
+<a href="/guwen/book_223.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18380.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

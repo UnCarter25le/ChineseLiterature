@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷九·孙真人针十三鬼穴歌_古诗文网
+</title>
+<meta content="百邪颠狂所为病，针有十三穴须认，凡针之体先鬼宫，次针鬼信无不应，一一从头逐一求，男从左起女从右。一针人中鬼宫停，左边下针右出针；第二手大指甲下，名鬼信刺三分深；三针足大趾甲下，名曰" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18930.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·孙真人针十三鬼穴歌</b></span>
+<a href="javascript:PlayBookv(18930)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18930" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18930" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　百邪颠狂所为病，针有十三穴须认，凡针之体先鬼宫，次针鬼信无不应，一一从头逐一求，男从左起女从右。一针人中鬼宫停，左边下针右出针；第二手大指甲下，名鬼信刺三分深；三针足大趾甲下，名曰鬼垒入二分；四针掌上大陵穴，入针五分为鬼心；五针申脉为鬼路，火针三分七锃锃；第六却寻大椎上，入发一寸名鬼枕；七刺耳垂下八分，名曰鬼床针要温；八针承浆名鬼市，从左出右君须记；九针劳宫为鬼窟；十针上星名鬼堂；十一阴下缝三壮，女玉门头为鬼藏；十二曲池名鬼腿，火针仍要七锃锃；十三舌头当舌中，此穴须名是鬼封。手足两边相对刺，若逢孤穴只单通，此是先师真妙诀，狂猖恶鬼走无踪。</p>
+<p>　　一针鬼宫，即人中，入三分。</p>
+<p>　　二针鬼信，即少商，入三分。</p>
+<p>　　三针鬼垒，即隐白，入二分。</p>
+<p>　　四针鬼心，即大陵，入五分。</p>
+<p>　　五针鬼路，即申脉（大针），三分。</p>
+<p>　　六针鬼枕，即风府，入二分。</p>
+<p>　　七针鬼床，即颊车，入五分。</p>
+<p>　　八针鬼市，即承浆，入三分。</p>
+<p>　　九针鬼窟，即劳宫，入二分。</p>
+<p>　　十针鬼堂，即上星，入二分。</p>
+<p>　　十一针鬼藏，男即会阴，女即玉门头，入三分。</p>
+<p>　　十二针鬼腿，即曲池（火针），入五分。</p>
+<p>　　十三针鬼封，在舌下中缝，刺出血，仍横安针一枚，就两口吻，令舌不动，此法甚效。更加间使、后溪三穴尤妙。</p>
+<p>　　男子先针左起，女人先针右起，单日为阳，双日为阴。阳日、阳时针右转，阴日、阴时针左转。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18929.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18931.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

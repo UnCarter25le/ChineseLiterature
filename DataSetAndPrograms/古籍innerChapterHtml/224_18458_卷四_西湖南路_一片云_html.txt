@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷四·西湖南路·一片云_古诗文网
+</title>
+<meta content="神运石在龙井寺中，高六尺许，奇怪突兀，特立檐下。有木香一架，穿绕窍窦，蟠若龙蛇。正统十三年，中贵李德驻龙井。天旱，令力士淘之。初得铁牌二十四、玉佛一座、金银一锭，凿大宋元丰年号。后" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18458.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·西湖南路·一片云</b></span>
+<a href="javascript:PlayBookv(18458)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18458" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18458" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　神运石在龙井寺中，高六尺许，奇怪突兀，特立檐下。有木香一架，穿绕窍窦，蟠若龙蛇。正统十三年，中贵李德驻龙井。天旱，令力士淘之。初得铁牌二十四、玉佛一座、金银一锭，凿大宋元丰年号。后得此石，以八十人舁起之。上有“神运”二字，旁多款识，漶漫不可读，不知何代所镌，大约皆投龙以祈雨者也。风篁岭上有一片云石，高可丈许，青润玲珑，巧若镂刻。松磴盘屈，草莽间有石洞，堆砌工致?岩。石后有片云亭，司礼孙公所构，设石棋枰于前，上镌“兴来临水敲残月，谈罢吟风倚片云”之句。游人倚徙，不忍遽去。</p>
+<p>　　秦观《龙井题名记》：</p>
+<p>　　元丰二年，中秋后一日，余自吴兴来杭，东还会稽。龙井有辨才大师，以书邀余入山。比出郭，日已夕，航湖至普宁，遇道人参寥，问龙井所遣篮舆，则曰：“以不时至，去矣。”</p>
+<p>　　是夕，天宇开霁，林间月明，可数毫发。遂弃舟，从参寥策杖并湖而行。出雷峰，度南屏，濯足于惠因涧，入灵石坞，得支径上风篁岭，憩于龙井亭，酌泉据石而饮之。自普宁凡经佛寺十五，皆寂不闻人声。道旁庐舍，灯火隐显，草木深郁，流水激激悲鸣，殆非人间之境。行二鼓，始至寿圣院，谒辨才于朝音堂，明日乃还。</p>
+<p>　　张京元《龙井小记》：</p>
+<p>　　过风篁岭，是为龙井，即苏端明、米海岳与辨才往来处也。寺北向，门内外修竹琅琅。并在殿左，泉出石罅，?小园池，下复为方池承之。池中各有巨鱼，而水无腥气。池淙淙下泻，绕寺门而出。小坐，与偕亭玩一片云石。山僧汲水供茗，泉味色俱清。僧容亦枯寂，视诸山迥异。</p>
+<p>　　王稚登《龙井诗》：</p>
+<p>　　深谷盘回入，灵泉?沸流。隔林先作雨，到寺不胜秋。</p>
+<p>　　古殿龙王在，空林鹿女游。一尊斜日下，独为古人留。</p>
+<p>　　袁宏道《龙井》诗：</p>
+<p>　　都说今龙井，幽奇逾昔时。路迂迷旧处，树古失名儿。</p>
+<p>　　渴仰鸡苏佛，乱参玉版师。破筒分谷水，芟草出秦碑。</p>
+<p>　　数盘行井上，百计引泉飞。画壁屯云族，红栏蚀水衣。</p>
+<p>　　路香茶叶长，畦小药苗肥。宏也学苏子，辨才君是非。</p>
+<p>　　张岱《龙井柱铭》：</p>
+<p>　　夜壑泉归，渥洼能致千岩雨。</p>
+<p>　　晓堂龙出，崖石皆为一片云。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18457.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18459.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

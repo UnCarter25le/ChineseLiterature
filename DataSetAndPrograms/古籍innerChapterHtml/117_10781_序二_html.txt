@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+大唐西域记·序二_古诗文网
+</title>
+<meta content="若夫玉毫流照，甘露洒于大千；金镜扬辉，薰风被于有截。故知示现三界，粤称天下之尊；光宅四表，式标域中之大。是以慧日沦影，像化之迹东归；帝猷宏阐，大章之步西极。有慈恩道场三藏法师，讳玄" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_10781.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>序二</b></span>
+<a href="javascript:PlayBookv(10781)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv10781" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay10781" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%84%e5%a5%98">玄奘</a></p>
+<div class="contson">
+<p>　　若夫玉毫流照，甘露洒于大千；金镜扬辉，薰风被于有截。故知示现三界，粤称天下之尊；光宅四表，式标域中之大。是以慧日沦影，像化之迹东归；帝猷宏阐，大章之步西极。</p>
+<p>　　有慈恩道场三藏法师，讳玄奘，俗姓陈氏，其先颍川人也。帝轩提象，控华渚而开源；大舜宾门，基历山而耸构。三恪照于姬载，六奇光于汉祀。书奏而承朗月，游道而聚德星。纵壑骈鳞，培风齐翼。世济之美，郁为景胄。</p>
+<p>　　法师籍庆诞生，含和降德，结根深而犇茂，导源浚而灵长。奇开之岁，霞轩月举；聚沙之年，兰薰桂馥。洎乎成立，艺殚坟素。九皋载响，五府交辟。以夫早悟真假，夙昭慈慧，镜真筌而延伫，顾生涯而永息。而朱绂紫缨，诚有界之徽网；宝车丹枕，实出世之津途。由是摈落尘滓，言归闲旷。令兄长捷法师，释门之栋干者也。擅龙象于身世，挺鹙鹭于当年。朝野挹其风猷，中外羡其声彩。既而情深友爱，道睦天伦。法师服勤请益，分阴靡弃。业光上首，擢秀檀林；德契中庸，腾芬兰室。抗策平道，包九部而吞梦；鼓枻玄津，俯四韦而小鲁。自兹遍游谈肆，载移凉燠，功既成矣，能亦毕矣。至于泰初日月，独耀灵台；子云鞶帨，发挥神府。于是金文暂启，伫秋驾而云趋；玉柄才捴，披雾市而波属。若会斫轮之旨，犹知拜瑟之微。以泻瓶之多闻，泛虚舟而独远。乃于轘辕之地，先摧鍱腹之夸；井络之乡，遽表浮杯之异。远迩宗挹，为之语曰：“昔闻荀氏八龙，今见陈门双骥。”汝、颍多奇士，诚哉此言。</p>
+<p>　　法师自幼迄长，游心玄籍。名流先达，部执交驰，趋末忘本，摭华捐实，遂有南北异学，是非纷纠。永言于此，良用怃然。或恐传译踳驳，未能筌究，欲穷香象之文，将罄龙宫之目。以绝伦之德，属会昌之期，杖锡拂衣，第如遐境。于是背玄灞而延望，指葱山而矫迹，川陆绵长，备尝艰险。陋博望之非远，嗤法显之为局。游践之处，毕究方言，镌求幽赜，妙穷津会。于是词发雌黄，飞英天竺；文传贝叶，聿归振旦。</p>
+<p>　　太宗文皇帝金轮纂御，宝位居尊。载伫风徽，召见青蒲之上；乃眷通识，前膝黄屋之间。手诏绸缪，中使继路。俯摛睿思，乃制《三藏圣教序》，凡七百八十言。今上昔在春闱，裁《述圣记》，凡五百七十九言。启玄妙之津，尽揄扬之旨。盖非道映鸡林，誉光鹫岳，岂能缅降神藻，以旌时秀？</p>
+<p>　　奉诏翻译梵本，凡六百五十七部。具览遐方异俗，绝壤殊风，土著之宜，人伦之序，正朔所暨，声教所覃，著《大唐西域记》，勒成一十二卷。编录典奥，综核明审，立言不朽，其在兹焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_10780.aspx">上一章</a>
+<a href="/guwen/book_117.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_10782.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

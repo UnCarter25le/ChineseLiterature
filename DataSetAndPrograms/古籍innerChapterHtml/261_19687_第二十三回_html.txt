@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+北游记·第二十三回_古诗文网
+</title>
+<meta content="祖师收得雷电神却说祖师离了西路，又行一处，名石雷山，其山中藏有诸雷神，常常出现见人：五方雷公将军，八方云雷使者，五方雨雷使者，雷部总兵行雷。此山前有一长者，姓实名元，有二女，一个年" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19687.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第二十三回</b></span>
+<a href="javascript:PlayBookv(19687)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19687" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19687" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%99%e8%b1%a1%e6%96%97">余象斗</a></p>
+<div class="contson">
+<p>　　<strong>祖师收得雷电神</strong></p>
+<p>　　却说祖师离了西路，又行一处，名石雷山，其山中藏有诸雷神，常常出现见人：五方雷公将军，八方云雷使者，五方雨雷使者，雷部总兵行雷。此山前有一长者，姓实名元，有二女，一个年有一十六岁，二个年方一十四岁，在家内吃饭。一日切冬瓜食，将冬瓜瓤中子丢在灶厨下沟内；雷使者于半空中看见，只说是饭，便责那女子有罪，实时行雷公，打死那二个女子。雷公看时，不是饭，却是冬瓜子，悔之不及，领见雷使，言明前事，使者曰：“事到今日，将错就错，我度你归天公便了。你二人名是谁？”女子曰：“我名叫做朱佩娘，妹子朱孛娘。”雷使曰：“我今度你姐妹二人，将雷电镜二面，与你收管，号影刀娘。我要打人，你先放电光，照得明白，又将骷髅一个、扇一把与你朱孛娘，号做月孛娘，打动人不能行走。”二女子领命不题。</p>
+<p>　　却说祖师至石雷山，只听雷霆之声，电光闪闪。祖师向前用剑一指。大喝一声，各雷使俱出。一见祖师俱跪倒在地。祖师问其故，众雷使曰：“我等皆因兄弟不舍分离，玉帝命于此处受劫。”祖师曰：“你等顺我否？”雷使曰：“某等兄弟身无可依，又闻祖师乃金阙化身，敢有不从？”祖师闻言大喜，曰：“你等既肯顺吾，吾收汝等在部下为将。妆等兄弟不忍分离，春夏震南，秋冬震北，以得全汝兄弟之情。”众雷使闻言大喜，拜谢归顺。祖师写表奏知玉帝。玉旨到，封朱佩娘为雷部电母，朱孛娘为月孛天君。又于东北天界，请风伯师、雨伯师二人，带风令雨令随师行教。封雷公九天霹雳大将军。祖师大悦。</p>
+<p>　　见中界黑气俱尽，人民安乐，众将入三十三天，朝玉帝，奏说前事。玉帝大悦，赐绣墩同坐。玉帝曰：“今幸黑气收完，卿可带众将去守把南天宝德关。不可迟误，恐有妖往下界扰乱。”祖师谢恩。玉帝加封祖师为混元九天万法教主玉虚师相玄天上帝、荡魔天尊。上管三十六员天将，每年十二月二十五日，与众将同游下界，巡察善恶。赐金波天曹御酒二杯，玉帝亲送出殿。祖师谢恩而别，点齐部将上任，大设筵宴，赏劳三军，把守天门，来受万方香人，无量寿佛。</p>
+<p>　　御封玄帝部将姓名于左，计开：万法教主神功妙济许真君，海琼白真君，果严教主济微傅教祖元君，洞玄教主辛真君，清微教主魏元君，混元教主路真君，都掌金轮如意赵元帅，关羽封为显灵关元帅，龙兴玉田黄封为苟毕二元帅，龟蛇封为水火二将，张健封尽忠张元帅，庞乔封混炁庞元帅，副应封为纠察副元帅，正一灵官马元帅，朱彦夫封管打不信道朱元帅，催庐二将军，李伏龙封先锋李元帅，雨田封降妖辟邪雨元帅，邓成、辛江、张安封为邓、辛、张元帅，任无别、宁世夸封为二太保，刘俊封为玉府刘天君，雷琼封为威灵瘟元帅，石成封为神雷石元帅，广泽封为风轮周元帅，谢仕荣封火德谢元帅，商委、师旷封聪明二贤，康席封为仁圣廉元帅，高员封为降生高元帅，孟山封为酆都孟元帅，王铁、高铜封为虎丘王、高二元帅，王志封九州岛豁洛王元帅，雷公封为九天霹雳大将军酆都章元帅，杨彪封为杨元帅，殷高封地司太岁殷元帅，铁头封为猛烈铁元帅，朱佩娘封为雷部雷母，朱孛娘为月孛天君。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19686.aspx">上一章</a>
+<a href="/guwen/book_261.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19688.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,147 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+伤寒论·辩脉法_古诗文网
+</title>
+<meta content="问曰：脉有阴阳者，何谓也？答曰：凡脉大、浮、数、动、滑，此名阳也；脉沉、涩、弱、弦、微，此名阴也，凡阴病见阳脉者生，阳病见阴脉者死。问曰：脉有阳结阴结者，何以别之？答曰：其脉浮而数" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3694.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2321" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>辩脉法</b></span>
+<a href="javascript:PlayBookv(3694)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3694" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2321)" id="leftbtn2321" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3694" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e4%bb%b2%e6%99%af">张仲景</a></p>
+<div class="contson">
+<p>　　问曰：脉有阴阳者，何谓也？</p>
+<p>　　答曰：凡脉大、浮、数、动、滑，此名阳也；脉沉、涩、弱、弦、微，此名阴也，凡阴病见阳脉者生，阳病见阴脉者死。</p>
+<p>　　问曰：脉有阳结阴结者，何以别之？</p>
+<p>　　答曰：其脉浮而数，能食，不大便者，此为实，名曰阳结也，期十六日当剧。其脉沉而迟，不能食，身体重，大便反硬，名曰阴结也。期十四日当剧。</p>
+<p>　　问曰：病有洒淅恶寒而复发热者，何？</p>
+<p>　　答曰：阴脉不足，阳往从之；阳脉不足，阴往乘之。</p>
+<p>　　曰：何谓阳不足？</p>
+<p>　　答曰：假令寸口脉微，名曰阳不足，阴气上入阳中，则洒淅恶寒也，</p>
+<p>　　曰：何谓阴不足？</p>
+<p>　　答曰：假令尺脉弱，名曰阴不足，阳气下陷入阴中，则发热也。</p>
+<p>　　阳脉浮（一作微）阴脉弱者，则血虚。血虚则筋急也。</p>
+<p>　　其脉沉者，荣气微也。</p>
+<p>　　其脉浮，而汗出如流珠者，卫气衰也。</p>
+<p>　　荣气微者，加烧针，则血流不行，更发热而躁烦也。</p>
+<p>　　脉（一云秋脉）蔼蔼，如车盖者，名曰阳结也。</p>
+<p>　　脉（一云夏脉）累累，如循长竿者，名曰阴结也。</p>
+<p>　　脉瞥瞥，如羹上肥者，阳气微也。</p>
+<p>　　脉萦萦，如蜘蛛丝者，阳气（一云阴气）衰也。</p>
+<p>　　脉绵绵，如泻漆之绝者，亡其血也。</p>
+<p>　　脉来缓，时一止复来者，名曰结。脉来数，时一止复来者，名曰促（一作纵）。脉，阳盛则促，阴盛则结，此皆病脉。</p>
+<p>　　阴阳相搏，名曰动。阳动则汗出，阴动则发热。形冷、恶寒者，此三焦伤也。</p>
+<p>　　若数脉见于关上，上下无头尾，如豆大，厥厥动摇者，名曰动也。</p>
+<p>　　阳脉浮大而濡，阴脉浮大而濡，阴脉与阳脉同等者，名曰缓也。</p>
+<p>　　脉浮而紧者，名曰弦也。弦者状如弓弦，按之不移也。脉紧者，如转索无常也。</p>
+<p>　　脉弦而大，弦则为减，大则为芤。减则为寒，芤则为虚。寒虚相搏，此名为革。妇人则半产、漏下，男子则亡血、失精。</p>
+<p>　　问曰：病有战而汗出，因得解者，何也？</p>
+<p>　　答曰：脉浮而紧，按之反芤，此为本虚，故当战而汗出也。其人本虚，是以发战。以脉浮，故当汗出而解也。</p>
+<p>　　若脉浮而数，按之不芤，此人本不虚；若欲自解，但汗出耳，不发战也。</p>
+<p>　　问曰：病有不战而汗出解者，何也？</p>
+<p>　　答曰：脉大而浮数，故知不战汗出而解也。</p>
+<p>　　问曰：病有不战，不汗出而解者，何也？</p>
+<p>　　答曰：其脉自微，此以曾发汗、若吐、若下、若亡血，以内无津液，此阴阳自和，必自愈，故不战、不汗出而解也。</p>
+<p>　　问曰：伤寒三日，脉浮数而微，病人身凉和者，何也？</p>
+<p>　　答曰：此为欲解也。解以夜半。脉浮而解者，濈然汗出也；脉数而解者，必能食也；脉微而解者，必大汗出也。</p>
+<p>　　问曰：病脉，欲知愈未愈者，何以别之？</p>
+<p>　　答曰：寸口、关上、尺中三处，大小、浮沉、迟数同等，虽有寒热不解者，此脉阴阳为和平，虽剧当愈。</p>
+<p>　　立夏得洪（一作浮）大脉，是其本位。其人病身体苦疼重者，须发其汗。若明日身不疼不重者，不须发汗。若汗濈濈自出者，明日便解矣。何以言之？立夏得洪大脉，是其时脉，故使然也。四时仿此。</p>
+<p>　　问曰：凡病欲知何时得？何时愈？</p>
+<p>　　答曰：假令夜半得病，明日日中愈；日中得病，夜半愈。何以言之？日中得病，夜半愈者，以阳得阴则解也。夜半得病，明日日中愈者，以阴得阳则解也。</p>
+<p>　　寸口脉浮为在表，沉为在里，数为在府，迟为在藏。假令脉迟，此为在藏也。</p>
+<p>　　趺阳脉浮而涩，少阴脉如经也，其病在脾，法当下利。何以知之？若脉浮大者，气实血虚也。今趺阳脉浮而涩，故知脾气不足，胃气虚也。以少阴脉弦而浮（一作沉），才见此为调脉，故称如经也。若反滑而数者，故知当屎脓也。</p>
+<p>　　寸口脉浮而紧，浮则为风，紧则为寒。风则伤卫，寒则伤荣。荣卫俱病，骨节烦疼，当发其汗也。</p>
+<p>　　趺阳脉迟而缓，胃气如经也。趺阳脉浮而数，浮则伤胃，数则动脾，此非本病，医特下之所为也。荣卫内陷，其数先微，脉反但浮，其人必大便硬，气噫而除。何以言之？本以数脉动脾，其数先微，故知脾气不治，大便硬，气噫而除。今脉反浮，其数改微，邪气独留，心中则饥，邪热不杀谷，潮热发渴，数脉当迟缓，脉因前后度数如法，病者则饥。数脉不时，则生恶疮也。</p>
+<p>　　师曰：病人脉微而涩者，此为医所病也。大发其汗，又数大下之，其人亡血，病当恶寒，后乃发热，无休止时，夏月盛热，欲著复衣，冬月盛寒，欲裸其身，所以然者，阳微则恶寒，阴弱则发热，此医发其汗，令阳气微，又大下之：令阴气弱，五月之时，阳气在表，胃中虚冷，以阳气内微，不能胜冷，故欲著复衣；十一月之时，阳气在里，胃中烦热，以阴气内弱，不能胜热，故欲裸其身。又阴脉迟涩，故知血亡也。</p>
+<p>　　脉浮而大，心下反硬，有热属藏者，攻之，不令发汗。属府者，不令溲数。溲数则大便硬，汗多则热愈，汗少则便难，脉迟尚未可攻。</p>
+<p>　　脉浮而洪，身汗如油，喘而不休，水浆不下，体形不仁，乍静乍乱，此为命绝也。又未知何藏先受其灾，若汗出发目闰 ，喘不休者，此为肺先绝也。阳反独留，形体如烟熏，直视摇头，此心绝也。唇吻反青，四肢习者，此为肝绝也。环口黧黑，柔汗发黄者，此为脾绝也，溲便遗失、狂言、目反直视者，此为肾绝也。</p>
+<p>　　又未知何藏阴阳前绝，若阳气前绝，阴气后竭者，其人死，身色必青；阴气前绝，阳气后竭者，其人死，身色必赤，腋下温，心下热也。</p>
+<p>　　寸口脉浮大，而医反下之，此为大逆。浮则无血，大则为寒，寒气相搏，则为肠鸣，医乃不知，而反饮冷水，令汗大出，水得寒气，冷必相搏，其人即噎。趺阳脉浮，浮则为虚，浮虚相搏，故令气□。言胃气虚竭也。脉滑，则为哕。此为医咎，责虚取实，守空迫血。脉浮、鼻中燥者，必衄也。</p>
+<p>　　诸脉浮数，当发热，而洒淅恶寒，若有痛处，饮食如常者，畜积有脓也。脉浮而迟，面热赤而战惕者，六七日当汗出而解。反发热者，差迟。迟为无阳，不能作汗，其身必痒也。</p>
+<p>　　寸口脉阴阳俱紧者，法当清邪中于上焦，浊邪中于下焦。清邪中上，名曰洁也；浊邪中下，名曰浑也，阴中于邪，必内栗也，表气微虚，里气不守，故使邪中于阴也。阳中于邪，必发热、头痛、项强、颈挛、腰痛、胚酸，所为阳中雾露之气，故曰清邪中上。浊邪中下，阴气为栗，足膝逆冷，便溺妄出，表气微虚，里气微急，三焦相混，内外不通，上焦怫郁，藏气相熏，口烂食断也。中焦不治，胃气上冲，脾气不转，胃中为浊，荣卫不通，血凝不流，若卫气前通胃气虚竭也。脉滑，则为哕。此为医咎，责虚取实，守空迫血。脉浮、鼻中燥者，必衄也。</p>
+<p>　　诸脉浮数，当发热，而洒淅恶寒，若有痛处，饮食如常者，畜积有脓也。脉浮而迟，面热赤而战惕者，六七日当汗出而解。反发热者，差迟。迟为无阳，不能作汗，其身必痒也。</p>
+<p>　　脉阴阳俱紧者，口中气出，唇口干燥，蜷卧足冷，鼻中涕出，舌上胎滑，勿妄治也。到七日以来，其人微发热，手足温者，此为欲解；或到八日以上，反大发热者，此为难治。设使恶寒者，必欲呕也；腹内痛者，必欲利也。</p>
+<p>　　脉浮而滑，浮为阳，滑为实，阳实相搏，其脉数疾，卫气失度，浮滑之脉数疾，发热汗出者，此为不治。</p>
+<p>　　伤寒咳逆上气，其脉散者死。谓其形损故也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_37.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3695.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2321" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

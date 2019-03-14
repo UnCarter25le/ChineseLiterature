@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·高_古诗文网
+</title>
+<meta content="历史来源「高」源出  ;一 ; 出自姜姓，以邑为氏。春秋时，姜太公六世孙齐文公吕赤之子受封于高邑（在今河南省禹县）称为公子高。其孙傒，以祖封邑为名氏，称高傒，其后有高氏。 二：据《" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2459.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>高</b></span>
+<a href="javascript:PlayBookv(2459)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2459" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2459" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong></p>
+<p>　　「高」源出  ;</p>
+<p>　　一 ; 出自姜姓，以邑为氏。春秋时，姜太公六世孙齐文公吕赤之子受封于高邑（在今河南省禹县）称为公子高。其孙傒，以祖封邑为名氏，称高傒，其后有高氏。 </p>
+<p>　　二：据《通志．氏族略》所载，齐惠公吕元之子为公子祁，字子高。其支孙以王父字「高」为氏。</p>
+<p>　　三 ; 改姓，据《北齐书》云，北齐文宣帝姓高名洋，当时有鲜卑族人元景安，元文遥因有功，被赐姓高。北齐时高隆之，本姓徐氏，因其父为高欢所养，改姓高。《魏书》载，后燕皇帝慕容云，本鲜卑族，自称高阳氏后代，改姓高，称高云。</p>
+<p><strong>家族名人</strong></p>
+<p>　　高洋</p>
+<p>　　高力士（684～762）</p>
+<p>　　唐代的宦官。个性谨慎细心而聪敏，深受玄宗宠信，累官至骠骑大将军、进开府仪同三司，擅权弄政。肃宗时，被弹劾流放至巫州，宝应时被赦还，病死途中。</p>
+<p>　　高崇文</p>
+<p>　　唐代幽州人。贞元年间（公元785~805）跟随韩全义镇守长武城，管理军队很有成绩。吐蕃侵犯宁州时，他率兵前往营救，大获全胜，封渤海郡王。剑南西川节度使谋反，高崇文被推荐为左神策行营节度使，领兵征讨，八战皆胜，刻石记功，封南平郡王。铭功：刻文字于石头上记载功绩。</p>
+<p><strong>地望分布</strong></p>
+<p>　　河北，辽宁渤海湾 北京密云 辽宁大凌河以东 江苏阳州 河南洛阳</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2458.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2460.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

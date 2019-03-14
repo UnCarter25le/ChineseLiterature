@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷二·丁前溪_古诗文网
+</title>
+<meta content="丁前溪，诸城人，富有钱谷，游侠好义，慕郭解之为人。御史行台按访之。丁亡去，至安丘遇雨。避身逆旅。雨日中不止。有少年来，馆谷丰隆。既而昏暮，止宿其家，莝豆饲畜，给食周至。问其姓字，少" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11453.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·丁前溪</b></span>
+<a href="javascript:PlayBookv(11453)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11453" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11453" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　丁前溪，诸城人，富有钱谷，游侠好义，慕郭解之为人。御史行台按访之。丁亡去，至安丘遇雨。避身逆旅。雨日中不止。有少年来，馆谷丰隆。既而昏暮，止宿其家，莝豆饲畜，给食周至。问其姓字，少年云：“主人杨姓，我其内侄也。主人好交游，适他出，家惟娘子在。贫不能厚客给，幸能垂谅。”问：“主人何业？”则家无资产，惟日设博场以谋升斗。次日雨仍不止，供给弗懈。至暮锉刍，刍束湿，颇极参差。丁怪之。少年曰：“实告客，家贫无以饲畜，适娘子撤屋上茅耳。”丁益异之，谓其意在得直。天明，付之金不受，强付少年持入。俄出仍以反客，云：“娘子言：我非业此猎食者。主人在外，尝数日不携一钱，客至吾家，何遂索偿乎？”丁赞叹而别。嘱曰：“我诸城丁某，主人归，宜告之。暇幸见顾。”数年无耗。</p>
+<p>　　值岁大饥，杨困甚，无所为计，妻漫劝诣丁，从之。至诸城，通姓名于门者，丁茫不忆，申言始忆之。踩履而出，揖客入，见其衣敝踵决，居之温室，设筵相款，宠礼异常。明日为制冠服，表里温暖。杨义之，而内顾增忧，褊心不能无少望，居数日殊不言赠别。杨意甚急，告丁曰：“顾不敢隐，仆来时米不满升。今过蒙推解固乐，妻子如何矣！”丁曰：“是无烦虑，已代经纪矣。幸舒意少留，当助资斧。”走伻招诸博徒，使杨坐而抽头，终夜得百金，乃送之还。归见室人，衣履鲜整，小婢侍焉。惊问之，妻言：“自君去后，次日即有车徒赍送布帛米粟，堆积满屋，云是丁客所赠。又给一婢，为妾驱使。”杨感不自已。由此小康，不屑旧业矣。</p>
+<p>　　异史氏曰：“贫而好客，饮博浮荡者优为之，异者，独其妻耳。受之施而不报，岂人也哉？然一饭之德不忘，丁其有焉。” </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11452.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11454.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

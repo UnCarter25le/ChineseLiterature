@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·黄_古诗文网
+</title>
+<meta content="历史来源「黄」源出  ;一 ; 出自「嬴」姓。以国为氏。据《诸暨孝义黄氏族谱》所载，黄氏为嬴姓十四氏之一。古代黄国在今河南潢川。后被楚国所灭，子孙散居四方，以国名为氏。二 ; 古代" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2402.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>黄</b></span>
+<a href="javascript:PlayBookv(2402)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2402" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2402" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong></p>
+<p>　　「黄」源出  ;</p>
+<p>　　一 ; 出自「嬴」姓。以国为氏。据《诸暨孝义黄氏族谱》所载，黄氏为嬴姓十四氏之一。古代黄国在今河南潢川。后被楚国所灭，子孙散居四方，以国名为氏。</p>
+<p>　　二 ; 古代南方蛮族有黄姓。在广西南宁一带。</p>
+<p><strong>家族名人</strong></p>
+<p>　　黄歇</p>
+<p>　　游学博闻，楚考烈王以之为相，封为春申君。相楚二十余年，食客三千多人。娶李园之妹，知其有孕，纳于考烈王，生幽王。后李园用事，忌春申君，遂伏死士于棘门刺杀之。</p>
+<p>　　黄初平（黄大仙）</p>
+<p>　　黄霸 (前？～前51）</p>
+<p>　　字次公，西汉淮阳阳夏人。少学律令，武帝末，补侍郎谒者，历河南太守丞，时吏尚严酷，而霸为政宽和。尝从经学家夏庚胜治尚书。官至丞相，封建成侯，卒谥定。</p>
+<p>　　黄庭坚 (1045～1105）</p>
+<p>　　字鲁直，号山谷道人，又号涪翁，宋分宁（今江西修水县）人。与张耒、晁补之、秦观合称苏门四学士。工诗，为江西诗派的开创人，并擅行、草书。着有山谷内集、外集、别集、词等。</p>
+<p>　　黄巢 (？～884)</p>
+<p>　　唐曹州人。出身盐商，积财聚众，尤好收留亡命之徒。唐懿宗以来，因皇室奢侈过度，赋税沉重，加上连年发生水﹑旱灾，遂致民不聊生，盗匪群起。僖宗干符元年（公元874)，王仙芝率盗匪起事，翌年黄巢起兵响应，干符五年王仙芝败死于湖北，黄巢被推举为冲天大将军，率众攻掠江﹑浙﹑闽﹑粤等地，广明元年（公元880)陷洛阳、长安，僖宗逃奔成都，巢自号为帝，国号大齐。唐以官爵笼络李克用相援，大败黄巢，巢自刎身亡，为害十年的黄巢之乱始告结束，史称为黄巢之乱。</p>
+<p>　　黄道婆</p>
+<p>　　元朝时擅于纺织技术的女工艺家。曾随崖州黎族学习纺织技术，学成后返乡从事纺织工作，促成棉纺织业的进步，使元明以后的松江细布闻名于四方。纺织业者遂立祠祭之，以感其功。亦称为黄婆。</p>
+<p><strong>地望分布</strong></p>
+<p>　　湖北江夏郡，陜西栎阳郡，宁夏安定郡，湖北房陵郡，湖北汉东郡，河北上谷郡，安徽焦郡。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2401.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2403.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

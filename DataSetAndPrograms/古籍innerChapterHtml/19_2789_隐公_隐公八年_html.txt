@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·隐公·隐公八年_古诗文网
+</title>
+<meta content="【经】八年春，宋公、卫侯遇于垂。三月，郑伯使宛来归祊。庚寅，我入祊。夏六月己亥，蔡侯考父卒。辛亥，宿男卒。秋七月庚午，宋公、齐侯、卫侯盟于瓦屋。八月，葬蔡宣公。九月辛卯，公及莒入盟" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2789.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1307" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>隐公·隐公八年</b></span>
+<a href="javascript:PlayBookv(2789)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2789" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1307)" id="leftbtn1307" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2789" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】八年春，宋公、卫侯遇于垂。三月，郑伯使宛来归祊。庚寅，我入祊。夏六月己亥，蔡侯考父卒。辛亥，宿男卒。秋七月庚午，宋公、齐侯、卫侯盟于瓦屋。八月，葬蔡宣公。九月辛卯，公及莒入盟于浮来。螟。冬十有二月，无骇卒。 </p>
+<p>　　【传】八年春，齐侯将平宋、卫，有会期。宋公以币请于卫，请先相见，卫侯许之，故遇于犬丘。 </p>
+<p>　　郑伯请释泰山之祀而祀周公，以泰山之祊易许田。三月，郑伯使宛来归祊，不祀泰山也。 </p>
+<p>　　夏，虢公忌父始作卿士于周。</p>
+<p>　　四月甲辰，郑公子忽如陈逆妇妫。辛亥，以妫氏归。甲寅，入于郑。陈金咸子送女。先配而后祖。金咸子曰：「是不为夫妇。诬其祖矣，非礼也，何以能育？」 </p>
+<p>　　齐人卒平宋、卫于郑。秋，会于温，盟于瓦屋，以释东门之役，礼也。 </p>
+<p>　　八月丙戌，郑伯以齐人朝王，礼也。 </p>
+<p>　　公及莒人盟于浮来，以成纪好也。 </p>
+<p>　　冬，齐侯使来告成三国。公使众仲对曰：「君释三国之图以鸠其民，君之惠也。寡君闻命矣，敢不承受君之明德。」 </p>
+<p>　　无骇卒。羽父请谥与族。公问族于众仲。众仲对曰：「天子建德，因生以赐姓，胙之土而命之氏。诸侯以字为谥，因以为族。官有世功，则有官族，邑亦如之。」公命以字为展氏。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2788.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2790.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1307" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

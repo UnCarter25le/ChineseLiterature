@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·脉法·扁鹊华佗察声色要诀第十_古诗文网
+</title>
+<meta content="病患五脏已夺，神明不守，声嘶者死。 病患循衣缝，谵语者，不可治。 病患阴阳俱绝，掣衣掇空，妄言者，死。 病患妄语错乱，及不能语者，不治。热病见此可治。病人阴阳俱绝，失音不能言，三日" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12842.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>脉法·扁鹊华佗察声色要诀第十</b></span>
+<a href="javascript:PlayBookv(12842)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12842" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12842" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　病患五脏已夺，神明不守，声嘶者死。 病患循衣缝，谵语者，不可治。 病患阴阳俱绝，掣衣掇空，妄言者，死。 病患妄语错乱，及不能语者，不治。热病见此可治。病人阴阳俱绝，失音不能言，三日半死。 病患两目 有黄色起者，其病方愈。 病患面黄目青者，不死。青如草滋，死。 病患面黄目赤者，不死。赤如 血，死。 病患面黄目白者，不死。白如枯骨，死。 病患面黄目黑者，不死。黑如炱者，死。 病患面目俱等者，不死。</p>
+<p>　　病患面黑目青者，不死。 病患面青目白者，死。 病患面赤目青者，六日死。 病患面黄目青者，九日死，是谓乱经。 饮酒当风，邪入胃经，胆气妄泄，目则为青，虽有天救，不可复生。 病患面赤目白者，十日死。 忧恚思虑，心气内索，面色反好，急求棺椁，十日死。 病患面白目黑者死，谓荣华已去，血脉空索。 病患面黑目白者，八日死，肾气内伤，病因留积。 病患面青目黄者，五日死。 病患着床，心痛短气，脾竭内伤，百日复愈，能起彷徨因坐于地，其立倚床，能治此者，可谓神良。病患面无精光，若土色，不受饮食者，四日死。 病患目无精光，及牙齿黑色者，不治。 病患耳、目、鼻、口有黑色起入于口者，必死。 病患耳目及颧颊赤者，死在五日中。 病患黑色出于额上发际，下直鼻脊两颧上者，亦死在五日中。病患及不病患黑色若白色起入目及鼻口者，死在三日中。 病患及健人面忽如马肝色，望之如青，近之如黑者，死。 病患面黑目直视，恶风者，死。 病患面黑唇青者，死。 病患面青唇黑者，死。 病患面黑，两胁下满，不能自转侧者，死。 病人目回回直视，肩息者，一日死。 病患阴结阳绝，目精脱恍惚者，死。 病患阴阳绝竭，目眶陷者，死。 病患眉系倾者，七日死。 病患口如鱼口，不能复闭，而气出多不返者，死。 病患口张者，三日死。 病患唇青人中反者，三日死。 病患唇反人中满者，死。 病人唇口忽干者，不治。 病患唇肿齿焦者，死。 病患齿忽变黑者，十三日死。 病患舌卷卵缩者，必死。 病患汗出不流，舌卷黑者，死。 病患发直者，十五日死。 病患发如干麻，善怒者，死。 病患发与眉冲起者，死。 病患爪甲青者，死。 病患爪甲白者，不治。</p>
+<p>　　病患手足爪甲下肉黑者，八日死。 病患荣卫竭绝，面浮肿者，死。 病患卒肿，其面苍黑者，死。 病患手掌肿无纹者，死。病患脐肿反出者，死。 病患阴囊茎俱肿者，死。 病人脉绝，口张足肿者，五日死。病患足趺肿，呕吐头重者，死。 病患足趺上肿，两膝大如斗者，十日死。 病患卧遗屎不觉者死。 病患尸臭者，不可治。 肝病，皮白，肺之日庚辛死。 心病，目黑，肾之日壬癸死。 脾病，唇青，肝之日甲乙死。 肺病，颊赤目肿，心之日丙丁死。 肾病，面肿唇黄，脾之日戊己死。 青欲如苍璧之泽，不欲如蓝。 赤欲如帛裹朱，不欲如赭。 白欲如鹅羽，不欲如盐。 黑欲如重漆，不欲如炭。 黄欲如罗裹雄黄，不欲如黄土。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12841.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12843.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷九·捷要灸法（医学入门）_古诗文网
+</title>
+<meta content="鬼哭穴：治鬼魅狐惑，恍惚振噤。以患人两手大指，相并缚定，用艾炷于两甲角及甲后肉四处骑缝，着火灸之，则患者哀告：我自去。为效。灸卒死：一切急魇暴绝，灸足两大趾内，去甲一韭叶。灸精宫：" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18931.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·捷要灸法（医学入门）</b></span>
+<a href="javascript:PlayBookv(18931)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18931" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18931" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　鬼哭穴：治鬼魅狐惑，恍惚振噤。以患人两手大指，相并缚定，用艾炷于两甲角及甲后肉四处骑缝，着火灸之，则患者哀告：我自去。为效。</p>
+<p>　　灸卒死：一切急魇暴绝，灸足两大趾内，去甲一韭叶。</p>
+<p>　　灸精宫：专主梦遗。十四椎下各开三寸，灸七壮效。</p>
+<p>　　鬼眼穴：专祛痨虫。令病人举手向上，略转后些，则腰上有两陷可见，即腰眼也。以墨点记，于六月癸亥夜亥时灸，勿令人知。四花、膏肓、肺俞、亦能祛虫。</p>
+<p>　　痞根穴：专治痞块。十三椎下各开三寸半，多灸左边。如左右俱有，左右俱灸。又法：用秆心量患人足大趾齐，量至足后跟中截断，将此秆从尾骨尖量至秆尽处，两旁各开二韭叶许，在左灸右，在右灸左，针三分，灸七壮，神效。又法：于足第二趾歧骨处灸五七壮，左患灸右，右患灸左，灸后一晚夕，觉腹中响动，是验。</p>
+<p>　　肘尖穴：治瘰疬。左患灸右，右患灸左，如初生时，男左女右，灸风池。又法：用秆心比患人口两角为则，折作两段，于手腕窝中量之，上下左右四处尽头是穴，灸之亦效。</p>
+<p>　　灸疰忤：尸疰客忤，中恶等症。乳后三寸，男左女右灸之。或两大拇指头。</p>
+<p>　　灸疝痛偏坠：用秆心一条，量患人口两角为则，折为三段，如△字样，以一角安脐中心，两角安脐下两旁，尖尽处是穴。左患灸右，右患灸左，左右俱患，左右俱灸。炷艾如粟米大，灸四十壮神效。又法：取足大趾次趾下，中节横纹当中，男左女右灸之。兼治诸气，心腹痛，外肾吊肿，小腹急痛。</p>
+<p>　　灸翻胃：两乳下一寸，或内踝下三指，稍斜向前。</p>
+<p>　　灸肠风诸痔：十四椎下各开一寸，年深者最效。</p>
+<p>　　灸肿满：两大手指缝，或足二趾上一寸半。</p>
+<p>　　灸癜风：左右手指节宛宛中。凡赘疵诸痣，灸之无不立效。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18930.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18932.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

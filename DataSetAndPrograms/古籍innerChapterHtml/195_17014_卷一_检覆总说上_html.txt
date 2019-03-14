@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+洗冤集录·卷一·检覆总说上_古诗文网
+</title>
+<meta content="凡验官多是差厅子、虞候，或以亲随作公人、家人各目前去，追集邻人、保伍，呼为先牌，打路排保，打草踏路，先驰看尸之类，皆是搔扰乡众，此害最深，切须戒忌。凡检验承牒之后，不可接见在近官员" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17014.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·检覆总说上</b></span>
+<a href="javascript:PlayBookv(17014)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17014" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17014" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ae%8b%e6%85%88">宋慈</a></p>
+<div class="contson">
+<p>　　凡验官多是差厅子、虞候，或以亲随作公人、家人各目前去，追集邻人、保伍，呼为先牌，打路排保，打草踏路，先驰看尸之类，皆是搔扰乡众，此害最深，切须戒忌。</p>
+<p>　　凡检验承牒之后，不可接见在近官员、秀才、术人、僧道，以防奸欺及招词诉。仍未得凿定日时，于牒。前到地头，约度程限，方可书凿，庶免稽迟。仍约束行吏等人，不得少离官员，恐有乞觅。遇夜行吏须要勒令供状，方可止宿。</p>
+<p>　　凡承牒检验，须要行凶人随行，差土着有家累、田产、无过犯节级、教头、部押公人看管。如到地头，勒令行凶人当面，对尸仔细检喝；勒行人、公吏对众邻保当面供状，不可下司，恐有过度走弄之弊。如未获行凶人，以邻保为众证。所有尸帐，初、覆官不可漏露。仍须是躬亲诣尸首地头，监行人检喝，免致出脱重伤处。</p>
+<p>　　凡检官遇夜宿处，须问其家是与不是凶身血属亲戚，方可安歇，以别嫌疑。</p>
+<p>　　凡血属入状乞免检，多是暗受凶身买和，套合公吏入状。检官切不可信凭，便与备申，或与缴回格目。虽得州县判下，明有公文照应，犹须审处。恐异时亲属争钱不平，必致生词，或致发觉，自亦例被，污秽难明。</p>
+<p>　　凡行凶器杖，索之少缓，则奸囚之家藏匿移易，妆成疑狱，可以免死，干系甚重。初受差委，先当急急收索；若早出，官又可参照痕伤大小、阔狭，定验无差。</p>
+<p>　　凡到检所，未要自向前，且于上风处坐定。略唤死人骨属，或地主，(湖南有地主他处无)竞主，审问事因了，点数干系人及邻保，应是合于检状着字人齐足。先令札下硬四至，始同人吏向前看验。若是自缢，切要看吊处及项上痕；更看系处尘土，曾与不曾移动?及系吊处高下，原踏甚处?是甚物上得去系处?更看垂下长短，项下绳带大小，对痕宽狭；细看是活套头、死套头?有单挂十字系，有缠绕系，各要看详。若是临高扑死，要看失脚处土痕踪迹高下。若是落水淹死，亦要看失脚处土痕高下，及量水浅深。</p>
+<p>　　其余杀伤、病患、诸般非理死人，札四至了，但令扛HT 明净处，且未用汤水酒醋，先干检一遍。仔细看脑后、顶心、头发内，恐有火烧钉子钉入骨内。(其血不出，亦不见痕损)更切点检眼睛、口、齿、舌、鼻、大小便二处，防有他物。然后用温水洗了，先使酒醋蘸纸，搭头面上、胸胁、两乳、脐腹、两肋间，更用衣服盖罨了，浇上酒醋，用荐席罨一时久，方检。不得信令行人只将酒醋泼过，痕损不出也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17013.aspx">上一章</a>
+<a href="/guwen/book_195.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17015.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

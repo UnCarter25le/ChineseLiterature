@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·针解_古诗文网
+</title>
+<meta content="黄帝问曰：愿闻九针之解，虚实之道。岐伯对曰：刺虚则实之者，针下热也，气实乃热也。满而泄之者，针下寒也，气虚乃寒也。菀陈则除之者，出恶血也。邪胜则虚之者，出针勿按；徐而疾则实者，徐出" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1017.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left838" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·针解</b></span>
+<a href="javascript:PlayBookv(1017)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1017" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(838)" id="leftbtn838" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1017" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问曰：愿闻九针之解，虚实之道。</p>
+<p>　　岐伯对曰：刺虚则实之者，针下热也，气实乃热也。满而泄之者，针下寒也，气虚乃寒也。菀陈则除之者，出恶血也。邪胜则虚之者，出针勿按；徐而疾则实者，徐出针而疾按之；疾而徐则虚者，疾出针而徐按之；言实与虚者，寒温气多少也。若无若有者，疾不可知也。察后与先者，知病先后也。为虚与实者，工勿失其法。若得若失者，离其法也。虚实之要，九针最妙者，为其各有所宜也。补泻之时者，与气开阖相合也。九针之名，各不同形者，针穷其所当补泻也。</p>
+<p>　　刺实须其虚者，留针阴气隆至，乃去针也；刺虚须其实者，阳气隆至，针下热乃去针也。经气已至，慎守勿失者，勿变更也。深浅在志者，知病之内外也；近远如一者，深浅其候等也。如临深渊者，不敢堕也。手如握虎者，欲其壮也。神无营于众物者，静志观病人，无左右视也；义无邪下者，欲端以正也；必正其神者，欲瞻病人目制其神，令气易行也。所谓三里者，下膝三寸也；所谓跗之者，举膝分易见也；巨虚者，蹻足（骨行）独陷者；下廉者，陷下者也。</p>
+<p>　　帝曰：余闻九针，上应天地四时阴阳，愿闻其方，令可传于后世以为常也。</p>
+<p>　　岐伯曰：夫一天、二地、三人、四时、五音、六律、七星、八风、九野，身形亦应之，针各有所宜，故曰九针。人皮应天，人肉应地，人脉应人，人筋应时，人声应音，人阴阳合气应律，人齿面目应星，人出入气应风，人九窍三百六十五络应野，故一针皮，二针肉，三针脉，四针筋，五针骨，六针调阴阳，七针益精，八针除风，九针通九窍，除三百六十五节气，此之谓各有所主也。人心意应八风，人气应天，人发齿耳目五声应五音六律，人阴阳脉血气应地，人肝目应之九。九窍三百六十五。人一以观动静天二以候五色七星应之，以候发毋泽五音一，以候宫商角徵羽六律有余，不足应之二地一，以候高下有余九野一节俞应之，以候闭节，三人变一分人，候齿泄多血少十分角之变，五分以候缓急，六分不足三分寒关节第九，分四时人寒温燥湿四时，一应之以候相反，一四方各作解。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1016.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1018.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right838" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

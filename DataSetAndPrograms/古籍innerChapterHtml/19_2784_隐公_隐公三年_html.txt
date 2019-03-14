@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·隐公·隐公三年_古诗文网
+</title>
+<meta content="【经】三年春王二月，己巳，日有食之。三月庚戌，天王崩。夏四月辛卯，君氏卒。秋，武氏子来求赙。八月庚辰，宋公和卒。冬十有二月，齐侯，郑伯盟于石门。癸未，葬宋穆公。 【传】三年春，王三" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2784.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1301" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>隐公·隐公三年</b></span>
+<a href="javascript:PlayBookv(2784)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2784" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1301)" id="leftbtn1301" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2784" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】三年春王二月，己巳，日有食之。三月庚戌，天王崩。夏四月辛卯，君氏卒。秋，武氏子来求赙。八月庚辰，宋公和卒。冬十有二月，齐侯，郑伯盟于石门。癸未，葬宋穆公。 </p>
+<p>　　【传】三年春，王三月壬戌，平王崩，赴以庚戌，故书之。 </p>
+<p>　　夏，君氏卒。声子也。不赴于诸侯，不反哭于寝，不祔于姑，故不曰薨。不称夫人，故不言葬，不书姓。为公故，曰「君氏」。 </p>
+<p>　　郑武公、庄公为平王卿士。王贰于虢，郑伯怨王，王曰「无之」。故周、郑交质。王子狐为质于郑，郑公子忽为质于周。王崩，周人将畀虢公政。四月，郑祭足帅师取温之麦。秋，又取成周之禾。周、郑交恶。 </p>
+<p>　　君子曰：「信不由中，质无益也。明恕而行，要之以礼，虽无有质，谁能间之？苟有明信，涧溪沼沚之毛，苹蘩温藻之菜，筐筥錡釜之器，潢污行潦之水，可荐于鬼神，可羞于王公，而况君子结二国之信。行之以礼，又焉用质？《风》有《采繁》、《采苹》，《雅》有《行苇》、《泂酌》，昭忠信也。」 </p>
+<p>　　武氏子来求赙，王未葬也。 </p>
+<p>　　宋穆公疾，召大司马孔父而属殇公焉，曰：「先君舍与夷而立寡人，寡人弗敢忘。若以大夫之灵，得保首领以没，先君若问与夷，其将何辞以对？请子奉之，以主社稷，寡人虽死，亦无悔焉。」对曰：「群臣愿奉冯也。」公曰：「不可。先君以寡人为贤，使主社稷，若弃德不让，是废先君之举也。岂曰能贤？光昭先君之令德，可不务乎？吾子其无废先君之功。」使公子冯出居于郑。八月庚辰，宋穆公卒。殇公即位。 </p>
+<p>　　君子曰：「宋宣公可谓知人矣。立穆公，其子飨之，命以义夫。《商颂》曰：『殷受命咸宜，百禄是荷。』其是之谓乎！」 </p>
+<p>　　冬，齐、郑盟于石门，寻卢之盟也。庚戌，郑伯之车偾于济。 </p>
+<p>　　卫庄公娶于齐东宫得臣之妹，曰庄姜，美而无子，卫人所为赋《硕人》也。又娶于陈，曰厉妫，生孝伯，早死。其娣戴妫生桓公，庄姜以为己子。公子州吁，嬖人之子也，有宠而好兵，公弗禁，庄姜恶之。石碏谏曰：「臣闻爱子，教之以义方，弗纳于邪。骄、奢、淫、泆，所自邪也。四者之来，宠禄过也。将立州吁，乃定之矣，若犹未也，阶之为祸。夫宠而不骄，骄而能降，降而不憾，憾而能珍者鲜矣。且夫贱妨贵，少陵长，远间亲，新间旧，小加大，淫破义，所谓六逆也。君义，臣行，父慈，子孝，兄爱，弟敬，所谓六顺也。去顺效逆，所以速祸也。君人者将祸是务去，而速之，无乃不可乎？」弗听，其子厚与州吁游，禁之，不可。桓公立，乃老。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2783.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2785.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1301" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

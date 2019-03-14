@@ -1,0 +1,128 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷七·杂病解下·黄疸根原_古诗文网
+</title>
+<meta content="黄疸者，土湿而感风邪也。太阴湿土主令，以阳明戊土之燥，亦化而为太阴之湿。设使皮毛通畅，湿气淫蒸，犹得外泄。一感风邪，卫气闭阖，湿淫不得外达，脾土堙郁，遏其肝木。肝脾双陷，水谷不消，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18558.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·杂病解下·黄疸根原</b></span>
+<a href="javascript:PlayBookv(18558)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18558" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18558" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　黄疸者，土湿而感风邪也。太阴湿土主令，以阳明戊土之燥，亦化而为太阴之湿。设使皮毛通畅，湿气淫蒸，犹得外泄。一感风邪，卫气闭阖，湿淫不得外达，脾土堙郁，遏其肝木。肝脾双陷，水谷不消，谷气瘀浊，化而为热。瘀热前行，下流膀胱，小便闭涩，水道不利。膀胱瘀热，下无泄路，熏蒸淫泆，传于周身，于是黄疸成焉。</p>
+<p>　　其病起于湿土，而成于风木。以黄为土色，而色司于木，木邪传于湿土，则见黄色也。或伤于饮食，或伤于酒色，病因不同，总由于阳衰而土湿。湿在上者，阳郁而为湿热，湿在下者，阴郁而为湿寒。乙木下陷而阳遏阴分，亦化为湿热；甲木上逆而阴旺阳分，亦化为湿寒。视其本气之衰旺，无一定也。</p>
+<p>　　其游溢于经络，则散之于汗孔；其停瘀于膀胱，则泄之于水道。近在胸膈，则涌吐其腐败；远在肠胃，则推荡其陈宿。酌其温凉寒热，四路涤清，则证有变状而邪无遁所，凡诸疸病，莫不应手消除也。</p>
+<p>　　<strong>谷疸</strong></p>
+<p>　　谷入于胃，脾阳消磨，蒸其精液，化为肺气。肺气宣扬，外发皮毛而为汗，内渗膀胱而为溺。汗溺输泄，土不伤湿，而木气发达，则疸病不作。阳衰土湿，水谷消迟，谷精堙郁，不能化气，陈腐壅遏，阻滞脾土，木气遏陷，土木郁蒸，则病黄疸。</p>
+<p>　　中气不运，升降失职，脾陷则大便滑溏，胃逆则上脘痞闷。浊气熏蒸，恶心欲吐，恶闻谷气。食则中气愈郁，头眩心烦。此当扩清其菀陈，除旧而布新也。</p>
+<p>　　<strong>酒疸</strong></p>
+<p>　　酒醴之性，湿热之媒。其濡润之质，入于脏腑，则生下湿；辛烈之气，腾于经络，则生上热。汗溺流通，湿气下泄而热气上达，可以不病。汗溺闭塞，湿热遏瘀，乃成疸病。</p>
+<p>　　其性嗜热饮者，则濡润之下伤差少，而辛烈之上伤颇重；其性嗜冷饮者，则辛烈之上伤有限，而湿寒之下伤为多。至于醉后发渴，凉饮茶汤，寒湿伤脾者，不可胜数，未可以湿热概论也。</p>
+<p>　　<strong>色疸</strong></p>
+<p>　　肾主蛰藏，相火之下秘而不泄者，肾藏之也。精去则火泄而水寒，寒水泛滥，浸淫脾土，脾阳颓败，则湿动而寒生。故好色之家，久而火泄水寒，土湿阳亏，多病虚劳，必然之理也。水土寒湿，不能生长木气，乙木遏陷，则生下热。土木合邪，传于膀胱，此疸病所由生也。</p>
+<p>　　其湿热在于肝胆，湿寒在于脾肾。人知其阴精之失亡，而不知其相火之败泄，重以滋阴助湿之品，败其脾肾微阳，是以十病九死，不可活也。</p>
+<p>　　甘草茵陈汤</p>
+<p>　　茵陈三钱　栀子三钱　大黄三钱　甘草三钱，生</p>
+<p>　　煎大半杯，热服。</p>
+<p>　　治谷疸腹满尿涩者。</p>
+<p>　　服后小便当利，尿如皂角汁状，其色正赤。一宿腹减，黄从小便去也。</p>
+<p>　　茵陈五苓散</p>
+<p>　　白术　桂枝　猪苓　茯苓　泽泻</p>
+<p>　　等分，为散，每用五钱，调茵陈蒿末一两，空腹米饮和服一汤匙，日三服。多饮热汤，取汗。</p>
+<p>　　治日暮寒热者。</p>
+<p>　　硝黄栀子汤</p>
+<p>　　大黄四钱　芒硝三钱　栀子三钱</p>
+<p>　　煎大半杯，热服。</p>
+<p>　　治汗出腹满者。</p>
+<p>　　栀子大黄汤</p>
+<p>　　栀子三钱　香豉三钱　大黄三钱　枳实三钱</p>
+<p>　　煎一杯，热分三服。</p>
+<p>　　治酒疸心中懊憹热疼，恶心欲吐者。</p>
+<p>　　元滑苓甘散</p>
+<p>　　元明粉　滑石　甘草　茯苓</p>
+<p>　　等分，为末，大麦粥汁和服一汤匙，日三服。</p>
+<p>　　治色疸额黑身黄者。</p>
+<p>　　服后病从大小便去，尿黄粪黑，是其候也。</p>
+<p>　　色疸，日晡发热恶寒，膀胱急，小便利，大便黑溏，五心热，腹胀满，身黄，额黑，此水土瘀浊之证，宜泻水去湿，通其二便。仲景用硝矾散，硝石清热，矾石去湿。此变而为滑石、元明粉，亦即硝矾之意。用者酌量而通融之，不可拘泥。</p>
+<p>　　黄疸之家，脾肾湿寒，无内热者，当用姜、附、茵陈，不可误服硝黄也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18557.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18559.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

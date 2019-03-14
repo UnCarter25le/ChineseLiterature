@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第三回_古诗文网
+</title>
+<meta content="二仙华山传道一日，老君与宛邱在华山论道，忽清风一阵，吹入堂中。老君谓宛邱曰：“君知此风乎？”宛邱曰：“似有异人来此。”老君曰：“吾观仙箓，李铁拐将欲成道，今日之来，乃铁拐同道也。”" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17358.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第三回</b></span>
+<a href="javascript:PlayBookv(17358)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17358" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17358" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>二仙华山传道</strong></p>
+<p>　　一日，老君与宛邱在华山论道，忽清风一阵，吹入堂中。老君谓宛邱曰：“君知此风乎？”</p>
+<p>　　宛邱曰：“似有异人来此。”</p>
+<p>　　老君曰：“吾观仙箓，李铁拐将欲成道，今日之来，乃铁拐同道也。”即命二童候于山下。</p>
+<p>　　二童甫至，忽见一人仙风道骨羽服，飘飘而来。二童趋近问曰：“君得非李先生乎？”</p>
+<p>　　李曰：“是也，君何以知我？”</p>
+<p>　　二童曰：“吾奉老君命，迎君于此。”</p>
+<p>　　先生暗喜曰：“老君知我，谅必于道有缘也。”乃向前行礼称谢，遂同二童登老君之堂。</p>
+<p>　　但见老君在上，毫光照曜，景垦庆云。肌肤绰约，似闺中之处子；精神充溢，犹襁褓之婴儿。次观宛邱，童颜鹤发，碧眼修眉，翩翩有道，意气融融，保真气象，真天上神人，非人间凡骨也。先生趋拜，二仙答礼命坐。</p>
+<p>　　先生再拜曰：“弟子山野鄙人，林泉末品，太池欲求上达，精微未臻。来追觅仙踪，仰祈觉悟，幸蒙不弃，得睹仙颜，诚夙世有缘，三生有幸。倘悯弟子斋宿之诚，问道之切，指迷大觉，则佩德殊深，感恩弥厚。方将拜跪，不胜永怀之至，敢望坐乎？”</p>
+<p>　　老子曰：“居，吾与汝：至道之精，杳杳冥冥；至道之极，昏昏默默。无道无所，抱神以静，形将自正，必静必清。毋劳尔形，毋播尔精，毋狎尔性，息虑营营，乃可长生。”</p>
+<p>　　先生闻论，心花顿开，尘情冰释，再拜稽首曰：“大仙之道，天地之道也。”转拜宛邱。</p>
+<p>　　邱曰：“汝名在仙籍，执此操修，不日可到，何必多求。”因命二童送行。</p>
+<p>　　先生再拜辞别。二童送至迎所，相别而归。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17357.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17359.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

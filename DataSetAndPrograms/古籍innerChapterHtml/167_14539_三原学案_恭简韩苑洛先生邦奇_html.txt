@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·三原学案·恭简韩苑洛先生邦奇_古诗文网
+</title>
+<meta content="韩邦奇字汝节，号苑洛，陕之朝邑人。正德戊辰进士。授吏部考功主事，转员外郎。辛未，考察都御史袖私帙视之，先生夺去。曰：“考覈公事，有公籍在。”都御史为之逊谢。调文选。京师地震，上疏论" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14539.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>三原学案·恭简韩苑洛先生邦奇</b></span>
+<a href="javascript:PlayBookv(14539)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14539" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14539" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　韩邦奇字汝节，号苑洛，陕之朝邑人。正德戊辰进士。授吏部考功主事，转员外郎。辛未，考察都御史袖私帙视之，先生夺去。曰：“考覈公事，有公籍在。”都御史为之逊谢。调文选。京师地震，上疏论时政缺失，谪平阳通判。甲戌迁浙江按察佥事。宸濠将谋反，遣内监饭僧於天竺寺，聚者数千人。先生防其不测，立散遣之。又以仪宾进贡，假道衢州，先生不可。曰：“贡使自当沿江而下，奚俟假道？”於是袭浙之计穷。寻为镇守中官诬奏，逮系夺官。世宗即位，起山东参议，乞休。甲申大同兵变，起山西左参政，分守大同。先生单车入城，人心始安。巡抚蔡天祐至代州，先生戎服谒之，天祐惊曰：“公何为如此？”曰：“大同变后，巡抚之威削甚。今大同但知有某，某降礼从事者，使人知巡抚之不可轻也。”朝廷复遣胡瓒以总督出师，时首恶业已正法，而瓒再索不已。先生止之，不听。城中复变，久之乃定。先生亦致仕去。戊子，起四川提学副使，改右春坊右庶子，兼翰林修撰。其秋主试顺天，以录序引用经语差误，左迁南太仆寺丞，再疏归。寻起山东副使，大理左少卿，以左佥都御史巡抚宣府，入佐院事。又出巡抚山西，再致仕。甲辰荐起总理河道，陞刑部右侍郎，改吏部。丁未，掌留堂，进南京兵部尚书，参赞机务。归七年，乙卯地震而卒，年七十七。赠少保，谥恭简。</p>
+<p>　　门人白璧曰：“先生天禀高明，学问精到，明於数学，胸次洒落，大类尧夫，而论道体乃独取横渠。少负气节，既乃不欲为奇节一行，涵养宏深，持守坚定，则又一薛敬轩也。”某按：先生著述，其大者为《志乐》一书。方其始刻之日，九鹤飞舞於庭。传其术者为杨椒山，手制十二律管，吹之而其声合，今不可得其详。然声气之元，在黄钟之长短空围，而有不能无疑者。先生依《律吕新书》註中算法，黄钟长九寸，空围九分，积八百一十分。用圆田术，三分益一，得一十二，以开方法除之，得三分四釐六毫强，为实径之数，不尽二毫八丝四忽。以径求积，自相乘得十一分九釐七毫一丝六忽，加入开方不尽之数，得一十二分，以管长九十分乘之，得一千八十分，为方积之数，四分取三，为圆积八百一十分。盖蔡季通以管长九寸为九十分，故以面积九分乘管长得八百一十分。其实用九无用十之理，凡度长短之言十者，皆分九为十，以便算也。今三吴程路，尚以九计可知矣。则黄钟长九寸者，八十一分，以面积九分乘之，黄钟之积七百二十九分也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14538.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14540.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

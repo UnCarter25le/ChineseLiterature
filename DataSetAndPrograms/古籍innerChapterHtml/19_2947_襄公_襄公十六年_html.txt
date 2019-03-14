@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·襄公·襄公十六年_古诗文网
+</title>
+<meta content="【经】十有六年春王正月，葬晋悼公。三月，公会晋侯、宋公、卫侯、郑伯、曹伯、莒子、邾子、薛伯、杞伯、小邾子，于湨梁。戊寅，大夫盟。晋人执莒子、邾子以归。齐侯伐我北鄙。夏，公至自会。五" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2947.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1477" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>襄公·襄公十六年</b></span>
+<a href="javascript:PlayBookv(2947)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2947" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1477)" id="leftbtn1477" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2947" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】十有六年春王正月，葬晋悼公。三月，公会晋侯、宋公、卫侯、郑伯、曹伯、莒子、邾子、薛伯、杞伯、小邾子，于湨梁。戊寅，大夫盟。晋人执莒子、邾子以归。齐侯伐我北鄙。夏，公至自会。五月甲子，地震。叔老会郑伯、晋荀偃、卫宁殖、宋人伐许。秋，齐侯伐我北鄙，围郕。大雩。冬，叔孙豹如晋。 </p>
+<p>　　【传】十六年春，葬晋悼公。平公即位，羊舌肸为傅，张君臣为中军司马，祁奚、韩襄、栾盈、士鞅为公族大夫，虞丘书为乘马御。改服修官，烝于曲沃。警守而下，会于湨梁。命归侵田。以我故，执邾宣公、莒犁比公，且曰：「通齐、楚之使。」 </p>
+<p>　　晋侯与诸侯宴于温，使诸大夫舞，曰：「歌诗必类！」齐高厚之诗不类。荀偃怒，且曰：「诸侯有异志矣！」使诸大夫盟高厚，高厚逃归。于是，叔孙豹、晋荀偃、宋向戌、卫宁殖、郑公孙虿、小邾之大夫盟曰：「同讨不庭。」 </p>
+<p>　　许男请迁于晋。诸侯遂迁许，许大夫不可。晋人归诸侯。 </p>
+<p>　　郑子蟜闻将伐许，遂相郑伯以从诸侯之师。穆叔从公。齐子帅师会晋荀偃。书曰：「会郑伯。」为夷故也。 </p>
+<p>　　夏六月，次于棫林。庚寅，伐许，次于函氏。 </p>
+<p>　　晋荀偃、栾□帅师伐楚，以报宋扬梁之役。楚公子格帅师及晋师战于湛阪，楚师败绩。晋师遂侵方城之外，复伐许而还。 </p>
+<p>　　秋，齐侯围郕，孟孺子速缴之。齐侯曰：「是好勇，去之以为之名。」速遂塞海陉而还。 </p>
+<p>　　冬，穆叔如晋聘，且言齐故。晋人曰：「以寡君之未禘祀，与民之未息。不然，不敢忘。」穆叔曰：「以齐人之朝夕释憾于敝邑之地，是以大请！敝邑之急，朝不及夕，引领西望曰：『庶几乎！』比执事之间，恐无及也！」见中行献子，赋《圻父》。献子曰：「偃知罪矣！敢不从执事以同恤社稷，而使鲁及此。」见范宣子，赋《鸿雁》之卒章。宣子曰：「□在此，敢使鲁无鸠乎？」 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2946.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2948.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1477" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

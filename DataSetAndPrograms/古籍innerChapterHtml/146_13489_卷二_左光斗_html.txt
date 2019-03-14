@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷二·左光斗_古诗文网
+</title>
+<meta content="左光斗，字共之，号沧屿，桐城人。万历三十五年丁未进士，授中书舍人，选入西台，及考选命下，进中丞。熹宗初，郑贵妃、李选侍皆请后封，公于九月初一日随上移宫停封疏，选侍怒，既而移一号殿，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13489.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·左光斗</b></span>
+<a href="javascript:PlayBookv(13489)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13489" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13489" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　左光斗，字共之，号沧屿，桐城人。万历三十五年丁未进士，授中书舍人，选入西台，及考选命下，进中丞。熹宗初，郑贵妃、李选侍皆请后封，公于九月初一日随上移宫停封疏，选侍怒，既而移一号殿，公迁大理丞，晋少卿；逾年，拜都察院左佥都御史。时，赵南星为冢宰，而群小错愕，乃借势于魏忠贤，附进百官图，某宜先驱，某宜后击，某宜正射，某宜借攻，布置已定，时公已草忠贤、广微三十二斩罪欲上，竟为家奴福生泄露，矫旨削夺，公归。通籍十八年，橐如洗。自分为权奸所忌，万无生理，苦无计以白老亲，乃命小奴扮椒山写本，赴西市数曲，暗解封夫人。夫人心知之，尝为母夫人说滂母故事，母夫人亦为强颜，诸逆珰借移宫逼选侍受熊廷弼贿误封疆为罪端，矫旨下逮，缇骑至桐城，公神气坦然，惟私语子弟曰：父母老矣，何以为别，及妻子环泣，不顾也。勉其子弟读书为善，里人数千，祀神欲击缇骑，公力止之。曰：是速我死也。槛车出郭，诸父老子弟遮拥号天，顶香拜祷北阙，复拜缇骑。缇骑亦为涕泗，又密约数百人伏阙上疏。公譬以利害，至黄河始反。公至京，下镇抚拷讯，身无完肤。坐赃二万。卒之夜，长虹亘天，里中星陨，光灼灼大如斗。三日尸出，肢骸穿裂，面目如生。是举也，兄光霁累死，母夫人哭死，弟光先、光明万险几死，诸生就系者士二人。赤族之讹，一日数十惊，变产完赃，不满千余。合亲兄弟辈入产，不满万余。株连同堂、同宗，以及三族、十族，无一免者。囹圄填满，流离载道，始充二万之数。思庙登极，诛逆珰，下诏优恤，初赠右都御史，荫一子入监，予祭葬，再赠太子少保，予三代诰命。士民合请庙祀以风世，吴中诸当事捐助有差。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13488.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13490.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

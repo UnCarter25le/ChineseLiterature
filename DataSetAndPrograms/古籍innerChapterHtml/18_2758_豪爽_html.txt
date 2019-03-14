@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+世说新语·豪爽_古诗文网
+</title>
+<meta content="王大将军年少时，旧有田舍名，语音亦楚。武帝唤时贤共言伎蓺事。人皆多有所知，唯王都无所关，意色殊恶，自言知打鼓吹。帝令取鼓与之，于坐振袖而起，扬槌奋击，音节谐捷，神气豪上，傍若无人。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2758.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1570" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>豪爽</b></span>
+<a href="javascript:PlayBookv(2758)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2758" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1570)" id="leftbtn1570" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2758" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e4%b9%89%e5%ba%86">刘义庆</a></p>
+<div class="contson">
+<p>　　王大将军年少时，旧有田舍名，语音亦楚。武帝唤时贤共言伎蓺事。人皆多有所知，唯王都无所关，意色殊恶，自言知打鼓吹。帝令取鼓与之，于坐振袖而起，扬槌奋击，音节谐捷，神气豪上，傍若无人。举坐叹其雄爽。</p>
+<p>　　王处仲世许高尚之目，尝荒恣于色，体为之敝。左右谏之，处仲曰：“吾乃不觉尔。如此者，甚易耳！”乃开后合，驱诸婢妾数十人出路，任其所之，时人叹焉。</p>
+<p>　　王大将军自目：“高朗疏率，学通左氏。”</p>
+<p>　　王处仲每酒后辄咏“老骥伏枥，志在千里。烈士暮年，壮心不已”。以如意打唾壶，壶口尽缺。</p>
+<p>　　晋明帝欲起池台，元帝不许。帝时为太子，好养武士。一夕中作池，比晓便成。今太子西池是也。</p>
+<p>　　王大将军始欲下都处分树置，先遣参军告朝廷，讽旨时贤。祖车骑尚未镇寿春，瞋目厉声语使人曰：“卿语阿黑：何敢不逊！催摄面去，须臾不尔，我将三千兵，槊脚令上！”王闻之而止。</p>
+<p>　　庾稚恭既常有中原之志，文康时权重，未在己。及季坚作相，忌兵畏祸，与稚恭历同异者久之，乃果行。倾荆、汉之力，穷舟车之势，师次于襄阳。大会参佐，陈其旌甲，亲授弧矢曰：“我之此行，若此射矣！”遂三起三叠，徒众属目，其气十倍。</p>
+<p>　　桓宣武平蜀，集参僚置酒于李势殿，巴、蜀缙绅，莫不来萃。桓既素有雄情爽气，加尔日音调英发，叙古今成败由人，存亡系才。其状磊落，一坐叹赏。既散，诸人追味余言。于时寻阳周馥曰：“恨卿辈不见王大将军。”</p>
+<p>　　桓公读高士传，至于陵仲子，便掷去曰：“谁能作此溪刻自处！”</p>
+<p>　　桓石虔，司空豁之长庶也。小字镇恶。年十七八未被举，而童隶已呼为镇恶郎。尝住宣武斋头。从征枋头，车骑冲没陈，左右莫能先救。宣武谓曰：“汝叔落贼，汝知不？”石虔闻之，气甚奋。命朱辟为副，策马于数万众中，莫有抗者，径致冲还，三军叹服。河朔后以其名断疟。</p>
+<p>　　陈林道在西岸，都下诸人共要至牛渚会。陈理既佳，人欲共言折。陈以如意拄颊，望鸡笼山叹曰：“孙伯符志业不遂！”于是竟坐不得谈。</p>
+<p>　　王司州在谢公坐，咏“入不言兮出不辞，乘回风兮载云旗”。语人云：“当尔时，觉一坐无人。”</p>
+<p>　　桓玄西下，入石头。外白：“司马梁王奔叛。”玄时事形已济，在平乘上笳鼓并作，直高咏云：“箫管有遗音，梁王安在哉？” </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2757.aspx">上一章</a>
+<a href="/guwen/book_18.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2759.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1570" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

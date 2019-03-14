@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·襄公·襄公二十二年_古诗文网
+</title>
+<meta content="【经】二十有二年春王正月，公至自会。夏四月。秋七月辛酉，叔老卒。冬，公会晋侯、齐侯、宋公、卫侯、郑伯、曹伯、莒子、邾子、薛伯、杞伯、小邾子于沙随。公至自会。楚杀其大夫公子追舒。【传" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2953.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1484" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>襄公·襄公二十二年</b></span>
+<a href="javascript:PlayBookv(2953)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2953" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1484)" id="leftbtn1484" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2953" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】二十有二年春王正月，公至自会。夏四月。秋七月辛酉，叔老卒。冬，公会晋侯、齐侯、宋公、卫侯、郑伯、曹伯、莒子、邾子、薛伯、杞伯、小邾子于沙随。公至自会。楚杀其大夫公子追舒。</p>
+<p>　　【传】二十二年春，臧武仲如晋，雨，过御叔。御叔在其邑，将饮酒，曰：「焉用圣人！我将饮酒而己，雨行，何以圣为？」穆叔闻之曰：「不可使也，而傲使人，国之蠹也。」令倍其赋。</p>
+<p>　　夏，晋人征朝于郑。郑人使少正公孙侨对曰：「在晋先君悼公九年，我寡君于是即位。即位八月，而我先大夫子驷从寡君以朝于执事。执事不礼于寡君。寡君惧，因是行也，我二年六月朝于楚，晋是以有戏之役。楚人犹竞，而申礼于敝邑。敝邑欲从执事而惧为大尤，曰晋其谓我不共有礼，是以不敢携贰于楚。我四年三月，先大夫子蟜又从寡君以观衅于楚，晋于是乎有萧鱼之役。谓我敝邑，迩在晋国，譬诸草木，吾臭味也，而何敢差池？楚亦不竞，寡君尽其土实，重之以宗器，以受齐盟。遂帅群臣随于执事以会岁终。贰于楚者，子侯、石盂，归而讨之。湨梁之明年，子蟜老矣，公孙夏从寡君以朝于君，见于尝酎，与执燔焉。间二年，闻君将靖东夏，四月又朝，以听事期。不朝之间，无岁不聘，无役不从。以大国政令之无常，国家罢病，不虞荐至，无日不惕，岂敢忘职？大国若安定之，其朝夕在庭，何辱命焉？若不恤其患，而以为口实，其无乃不堪任命，而翦为仇雠，敝邑是惧。其敢忘君命？委诸执事，执事实重图之。」 </p>
+<p>　　秋，栾盈自楚适齐。晏平仲言于齐侯曰：「商任之会，受命于晋。今纳栾氏，将安用之？小所以事大，信也。失信不立，君其图之。」弗听。退告陈文子曰：「君人执信，臣人执共，忠信笃敬，上下同之，天之道也。君自弃也，弗能久矣！」 </p>
+<p>　　九月，郑公孙黑肱有疾，归邑于公。召室老、宗人立段，而使黜官、薄祭。祭以特羊，殷以少牢。足以共祀，尽归其馀邑。曰：「吾闻之，生于乱世，贵而能贫，民无求焉，可以后亡。敬共事君，与二三子。生在敬戒，不在富也。」己巳，伯张卒。君子曰：「善戒。《诗》曰：『慎尔侯度，用戒不虞。』郑子张其有焉。」</p>
+<p>　　冬，会于沙随，复锢栾氏也。 </p>
+<p>　　栾盈犹在齐，晏子曰：「祸将作矣！齐将伐晋，不可以不惧。」 </p>
+<p>　　楚观起有宠于令尹子南，未益禄，而有马数十乘。楚人患之，王将讨焉。子南之子弃疾为王御士，王每见之，必泣。弃疾曰：「君三泣臣矣，敢问谁之罪也？」王曰：「令尹之不能，尔所知也。国将讨焉，尔其居乎？」对曰：「父戮子居，君焉用之？泄命重刑，臣亦不为。」王遂杀子南于朝，轘观起于四竟。子南之臣谓弃疾，请徙子尸于朝，曰：「君臣有礼，唯二三子。」三日，弃疾请尸，王许之。既葬，其徒曰：「行乎？」曰：「吾与杀吾父，行将焉入？」曰：「然则臣王乎？」曰：「弃父事仇，吾弗忍也。」遂缢而死。 </p>
+<p>　　复使薳子冯为令尹，公子齮为司马。屈建为莫敖。有宠于薳子者八人，皆无禄而多马。他日朝，与申叔豫言。弗应而退。从之，入于人中。又从之，遂归。退朝，见之，曰：「子三困我于朝，吾惧，不敢不见。吾过，子姑告我。何疾我也？」对曰：「吾不免是惧，何敢告子？」曰：「何故？」对曰：「昔观起有宠于子南，子南得罪，观起车裂。何故不惧？」自御而归，不能当道。至，谓八人者曰：「吾见申叔，夫子所谓生死而肉骨也。知我者，如夫子则可。不然，请止。」辞八人者，而后王安之。 </p>
+<p>　　十二月，郑游贩将归晋，未出竟，遭逆妻者，夺之，以馆于邑。丁巳，其夫攻子明，杀之，以其妻行。子展废良而立大叔，曰：「国卿，君之贰也，民之主也，不可以苟。请舍子明之类。」求亡妻者，使复其所。使游氏勿怨，曰：「无昭恶也。」 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2952.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2954.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1484" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

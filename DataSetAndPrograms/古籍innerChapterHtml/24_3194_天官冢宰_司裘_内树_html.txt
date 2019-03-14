@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+周礼·天官冢宰·司裘/内树_古诗文网
+</title>
+<meta content="司裘掌为大裘，以共王祀天之服。中秋，献良裘，王乃行羽物。季秋，献功裘，以待颁赐。王大射，则共虎侯、熊侯、豹侯，设其鹄。诸侯则共熊侯、豹侯。聊大夫则共麋侯。皆设其鹄。大丧，廞裘，饰皮" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3194.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1724" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>天官冢宰·司裘/内树</b></span>
+<a href="javascript:PlayBookv(3194)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3194" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1724)" id="leftbtn1724" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3194" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%91%a8%e5%85%ac%e6%97%a6">周公旦</a></p>
+<div class="contson">
+<p>　　司裘掌为大裘，以共王祀天之服。中秋，献良裘，王乃行羽物。季秋，献功裘，以待颁赐。王大射，则共虎侯、熊侯、豹侯，设其鹄。诸侯则共熊侯、豹侯。聊大夫则共麋侯。皆设其鹄。大丧，廞裘，饰皮车。凡邦之皮事，掌之。岁终，则会，唯王之裘与其皮事不会。</p>
+<p>　　掌皮掌秋敛皮，冬敛革，春献之，遂以式法颁皮革于百工。共其毳毛为毡，以待邦事，岁终，则会其财赍。</p>
+<p>　　内宰掌书版图之法，以治王内之政令。均其稍食，分其人民以居之。以阴礼教六宫，以阴礼教九嫔，以妇职之法教九御，使各有属，以作二事，正其服，禁其奇邪，展其功绪。大祭祀，后祼献，则赞，瑶爵亦如之。正后之服位，而诏其礼乐之仪，赞九嫔之礼事。凡宾客之祼献、瑶爵、皆赞，致后之宾客之礼。凡丧事，佐后使治外内命妇，正其服位。凡建国，佐后立市，设其次，置其叙，正其肆，陈其货贿，出其度量淳制，祭之以阴礼。中春，诏后帅外内、命妇始蚕于北郊，以为祭服。岁终，则会内人之稍食，稽其功事，佐后而受献功者，比其大小与其粗良而赏罚之，会内宫之财用。正岁，均其稍食，施其功事，宪禁令于王之北宫，而纠其守。上春，诏王后帅六宫之人而生穜稑之种而献之于王。</p>
+<p>　　内小臣掌王后之命，正其服位。后出入，则前驱。若有祭祀、宾客、丧纪，则摈诏后之礼事，相九嫔之礼事，正内人之礼事，彻后之俎。后有好事于四方，则使往。有好令於卿大夫，则亦如之。掌王之阴事、阴令。</p>
+<p>　　阍人掌守王宫之中门之禁。丧服、凶器不入宫，潜服、贼器不入宫，奇服、怪民不入宫。凡内人、公器、宾客，无帅则几其出入。以时启闭。凡外内命夫命妇出入，则为之辟。掌埽门庭。大祭祀、丧纪之事，设门燎，跸宫门、庙门。凡宾客亦如之。</p>
+<p>　　寺人掌王之内人，及女宫之戒令。相道其出入之事而纠之。若有丧纪、宾客、祭祀之事，则帅女宫而致于有司，佐世妇治礼事，掌内人之禁令。凡内人吊临于外，则帅而往，立于其前而诏相之。</p>
+<p>　　内竖掌内、外之通令，凡小事。若有祭祀、宾客、丧祀之事，则为内人跸。王后之丧，迁于宫中，则前跸。及葬，执亵器以従遣车。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3193.aspx">上一章</a>
+<a href="/guwen/book_24.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3195.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1724" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

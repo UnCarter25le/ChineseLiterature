@@ -1,0 +1,146 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·宝玩部·金玉_古诗文网
+</title>
+<meta content="历代传宝赤刀、大训、弘璧、琬琰，在西序，太玉、夷玉、天球、河图，在东序，八者皆历代传宝。九鼎九鼎者，昔夏方有德，远方图物贡金，九牧铸鼎象物，使民知神奸。故民入川泽山林，而魑魅魍魉莫" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19252.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>宝玩部·金玉</b></span>
+<a href="javascript:PlayBookv(19252)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19252" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19252" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>历代传宝</strong></p>
+<p>　　赤刀、大训、弘璧、琬琰，在西序，太玉、夷玉、天球、河图，在东序，八者皆历代传宝。</p>
+<p>　　<strong>九鼎</strong></p>
+<p>　　九鼎者，昔夏方有德，远方图物贡金，九牧铸鼎象物，使民知神奸。故民入川泽山林，而魑魅魍魉莫能逢之。</p>
+<p>　　<strong>四宝</strong></p>
+<p>　　周有砥砨，宋有结绿，梁有县黎，楚有和璞，此四宝者，天下名器。</p>
+<p>　　<strong>六瑞</strong></p>
+<p>　　王执镇圭，公执桓圭，侯执信圭，伯执躬圭，子执谷璧，男执蒲璧。</p>
+<p>　　<strong>环玦</strong></p>
+<p>　　聘人以圭，问士以璧，召人以瑗，绝人以玦，反绝以环。</p>
+<p>　　<strong>琬琰</strong></p>
+<p>　　桀伐岷山，岷山献其二女曰琬，曰琰，桀爱之，琢其名于苕华之玉，苕是琬，华是琰。</p>
+<p>　　<strong>鼎彝尊卣</strong></p>
+<p>　　不独饕餮示戒，凡虿鼎防刺也，同舟防溺也，奕车瓢防覆也。</p>
+<p>　　<strong>照胆镜</strong></p>
+<p>　　秦始皇有方镜，照见心胆。凡女子有邪心者，照之，即胆张心动。</p>
+<p>　　<strong>辟寒金</strong></p>
+<p>　　魏明帝朝，昆明国献一鸟，名潄金鸟，常吐金屑如粟，古人以金饰钗，谓之辟寒金。</p>
+<p>　　<strong>火玉</strong></p>
+<p>　　《杜阳编》：武宗时，扶余国贡火玉，光照数十步，置室内，不必挟纩。</p>
+<p>　　<strong>尺玉</strong></p>
+<p>　　《尹文子》：魏田父得玉径尺，邻人曰：“怪石也。”取置庑下，明旦视之，光照一室，大怖，反弃于野。邻人取献魏王，玉工曰：“此无价以当之。”王赐献玉者千金，食上大夫禄。</p>
+<p>　　<strong>玉燕钗</strong></p>
+<p>　　《洞冥记》：汉武帝时，起招灵阁有二神女，各留一玉钗，帝以赐赵婕妤。至元凤中，宫人犹见此钗。谋欲碎之。明旦视匣中，惟见白燕升天，因名玉燕钗。</p>
+<p>　　<strong>解肺热</strong></p>
+<p>　　《天宝遗事》：杨贵妃常犯热躁，明皇使令含玉咽津，以解肺热。</p>
+<p>　　<strong>麟趾马蹄</strong></p>
+<p>　　汉武帝诏曰：往者太山见金，又有白麟神马之瑞，宜以黄金铸麟趾马蹄，以协瑞焉。</p>
+<p>　　<strong>碧玉</strong></p>
+<p>　　有云碧、西碧二种，其色枯涩者曰云碧，产于云南；其色娇润，有虼蚤斑者曰西碧，产于西洋。</p>
+<p>　　<strong>五币</strong></p>
+<p>　　珠、玉为上，黄、白为次，刀布为下。</p>
+<p>　　<strong>瓜子金</strong></p>
+<p>　　宋太祖幸赵普第，时吴越王俶方遣使遗普书及海错十瓶，列庑下。上曰：“此海错必佳。”命启之，皆满贮瓜子金。普惶恐，顿首谢曰：“臣实不知。”上笑曰：“彼谓国家事，皆由汝书生耳。”</p>
+<p>　　<strong>晁采</strong></p>
+<p>　　晁，古“朝”字；采，光彩也。言美玉每旦有白虹之气，光彩上腾，故曰晁采。</p>
+<p>　　<strong>十二时镜</strong></p>
+<p>　　范文正公家古镜，背具十二时，如博棋子，每至此时，则博棋中，明如月，循环不休。</p>
+<p>　　<strong>碔砆乱玉</strong></p>
+<p>　　碔砆，石之似玉也，其状每能乱玉。</p>
+<p>　　<strong>燕石</strong></p>
+<p>　　宋人以燕石为玉，什袭而藏，识者笑之。</p>
+<p>　　<strong>削玉为楮</strong></p>
+<p>　　《列子》：宋人以玉为楮叶，三年而成。</p>
+<p>　　<strong>怀瑾握瑜</strong></p>
+<p>　　《楚辞》：“怀瑾握瑜兮，穷不知所示。”</p>
+<p>　　<strong>钓璜</strong></p>
+<p>　　半璧曰璜。《尚书中侯》：文王至磻溪，见吕望钓得玉璜，刻曰：“姬受命，吕佐之。”</p>
+<p>　　<strong>拋砖引玉</strong></p>
+<p>　　砖以自谓，玉以誉人，谓以此致彼。</p>
+<p>　　<strong>匹夫怀璧</strong></p>
+<p>　　《左传》：虞公求虞叔之玉，叔弗献。后乃悔曰：“匹夫无罪，怀璧其罪。焉用此以贾祸乎？”复献之。</p>
+<p>　　<strong>璠瑜</strong></p>
+<p>　　《逸论语》：璠瑜，鲁之宝玉也。孔子曰：美哉璠玙，远而望之焕若也；近而视之瑟若也。一则理胜，一则孚胜。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19251.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19253.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·师传_古诗文网
+</title>
+<meta content="黄帝曰：余闻先师有所心藏，弗着于方，余愿而藏之，则而行之，上以治民，下以治身，使百姓无病，上下和亲，德泽下流，子孙无忧，传于后世，无所络时，可得闻乎？歧伯曰：远乎哉问也，夫治民与自" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1073.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left897" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·师传</b></span>
+<a href="javascript:PlayBookv(1073)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1073" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(897)" id="leftbtn897" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1073" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝曰：余闻先师有所心藏，弗着于方，余愿而藏之，则而行之，上以治民，下以治身，使百姓无病，上下和亲，德泽下流，子孙无忧，传于后世，无所络时，可得闻乎？歧伯曰：远乎哉问也，夫治民与自治，治彼与治此，治小与治大，治国与治家，未有逆而能治之也，夫惟顺而已矣，顺者非独阴阳脉，论气之逆顺也，百姓人民皆欲顺其志也。</p>
+<p>　　黄帝曰：顺之奈何？歧伯曰：入国问俗，入家问讳，上堂问礼，临病人问所便。</p>
+<p>　　黄帝曰：便病人奈何？歧伯曰：夫中热消瘅则便寒寒中之属则便热，胃中热则消谷，令人悬心，善饥，脐以上皮热，肠中热则出黄如糜，脐以皮寒，胃中寒则腹胀，肠中寒则肠鸣，飧泄，胃中寒，肠中热则胀而且泄胃中热，肠中寒则疾饥小腹痛胀。</p>
+<p>　　黄帝曰：胃欲寒饮，肠欲热饮，两者相逆，便之奈何，且夫王公大人，血食之君，骄恣从欲，轻人而无能禁之，禁之则逆其志，顺之则加其病，便之奈何，治之何先？歧伯曰：人之情，莫不恶死而乐生，告之以其败，语之以其善，导之以其所便，开之以其所苦，虽有无道之人，恶有不听者乎。</p>
+<p>　　黄帝曰：治之奈何？歧伯曰：春夏先治其标，后治其本，秋冬先治其本，后治其标。</p>
+<p>　　黄帝曰：便其相逆者，奈何？歧伯曰：便虍者，食饮衣服亦欲适寒温，寒无凄凄，暑无汗出，食饮者，热无灼灼，寒无沧沧，寒温中适，故气将持，及不致邪僻也。</p>
+<p>　　黄帝曰：本脏以身形，支节，□肉候五脏六腑之小大焉，今夫王公大人临朝即位之君而问焉，谁可扪循之而后答乎？歧伯曰：本身形支节者，脏腑之盖也，非面部之阅也。</p>
+<p>　　黄帝曰：五脏之气阅于面者，余已知之矣，以肢节而知阅之，奈何？歧伯曰：五脏六腑者，肺为之盖，巨肩，陷咽候见其外。黄帝曰：善。</p>
+<p>　　歧伯曰：五脏六腑心为之主，缺盆为之道，骨有余，以候□□。黄帝曰：善。</p>
+<p>　　歧伯曰：肝者主为将，使之候外，欲知坚固，视目大小。黄帝曰：善。</p>
+<p>　　歧伯曰：脾者主为卫，使之迎粮，视唇舌好恶，以知吉凶。黄帝曰：善。</p>
+<p>　　歧伯曰：肾者主为为外，使之远听，视耳好恶，以知其性。黄帝曰：善。愿闻六腑之候。</p>
+<p>　　歧伯曰：六腑者，胃为之海，广骸，大颈，张胸，五谷及容，鼻隧以长，以候大肠，唇厚，人中长，以候小肠。目下果大，其胆及横，鼻孔在外，膀胱漏泄，鼻柱中央起，三焦乃约，此所以候六腑也，上下三等，脏安且良矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1072.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1074.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right897" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

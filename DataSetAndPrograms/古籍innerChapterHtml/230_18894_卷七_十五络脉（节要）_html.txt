@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷七·十五络脉（节要）_古诗文网
+</title>
+<meta content="手太阴之别络，名曰列缺。起于腕上分间，并太阴之经，直入掌中，散入鱼际。其病实则手锐掌热，泻之；虚则欠呿，小便遗数，补之。去腕寸半，别走阳明也。手少阴之别络，名曰通里。去腕一寸，别走" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18894.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·十五络脉（节要）</b></span>
+<a href="javascript:PlayBookv(18894)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18894" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18894" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　手太阴之别络，名曰列缺。起于腕上分间，并太阴之经，直入掌中，散入鱼际。其病实则手锐掌热，泻之；虚则欠呿，小便遗数，补之。去腕寸半，别走阳明也。</p>
+<p>　　手少阴之别络，名曰通里。去腕一寸，别走太阳，循经入于心中，系舌本，属目系，实则支膈，泻之；虚则不能言，补之。</p>
+<p>　　手厥阴之络，名曰内关。去掌二寸两筋间，别走少阳，循经上系于心包络心系。实则心痛，泻之；虚则头强，补之。</p>
+<p>　　手太阳之别络，名曰支正。上腕五寸，别走少阴，其别者，上走肘，络肩髃。实则节弛肘废，泻之；虚则生疣，小者如指痂疥，补之。</p>
+<p>　　手阳明之别络，名曰偏历。去腕三寸，别走太阴；其别者，上循臂，乘肩髃，上曲颊偏齿；其别者，入耳，合于宗脉。实则龋聋，泻之；虚则齿寒痹膈，补之。</p>
+<p>　　手少阳之别络，名曰外关。去腕二寸，外绕臂，注胸中，别走手厥阴。实则肘挛，泻之；虚则不收，补之。</p>
+<p>　　足太阳之别络，名曰飞扬。去踝七寸，别走少阴。实则鼽窒，头背痛，泻之；虚则鼽衄，补之。</p>
+<p>　　足少阳之别络，名曰光明，去踝五寸，别走厥阴，下络足跗。实则厥，泻之；虚则痿躄，坐不能起，补之。</p>
+<p>　　足阳明之别络，名曰丰隆。去踝八寸，别走太阴。其别者，循胫骨外廉，上络头项，合诸经之气，下络喉嗌。其病气逆则喉痹，卒喑，实则狂癫，泻之；虚则足不收，胫枯，补之。</p>
+<p>　　足太阴之别络，名曰公孙。去本节之后一寸，别走阳明。其别者，入络肠胃，厥气上逆则霍乱。实则肠中切痛，泻之；虚则鼓胀，补之。</p>
+<p>　　足少阴之别络，名曰大钟。当踝后绕跟，别走太阳；其别者，并经上走于心包下，外贯腰脊。其病气逆烦闷，实则闭癃，泻之；虚则腰痛，补之。</p>
+<p>　　足厥阴之别络，名曰蠡沟。去内踝五寸，别走少阳；其别者，经胫上睪，结于茎。其病气逆则睪肿，卒疝，实则挺长，泻之；虚则暴痒，补之。</p>
+<p>　　任脉之别络，名曰尾翳，下鸠尾，散于腹。实则腹皮痛，泻之；虚则痒搔，补之。</p>
+<p>　　督脉之别络，名曰长强，侠膂上项，散头上，下当肩胛左右，别走太阳，入贯膂。实则脊强，泻之；虚则头重高摇，补之。</p>
+<p>　　脾之大络，名曰大包。出渊液下三寸，布胸胁，实则身尽痛，泻之；虚则百节尽皆纵，补之。</p>
+<p>　　凡此十五络者，实则必见，虚则必下，视之不见，求之上下。人经不同，络脉异所别也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18893.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18895.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

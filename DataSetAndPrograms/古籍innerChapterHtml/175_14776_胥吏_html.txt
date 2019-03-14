@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明夷待访录·胥吏_古诗文网
+</title>
+<meta content="古之胥吏者一，今之胥吏者二。古者府史胥徒，所以守簿书，定期会者也。其奔走服役，则以乡户充之。自王安石改差役为雇役，而奔走服役者亦化而为胥吏矣。故欲除奔走服役吏胥之害，则复差役；欲除" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14776.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>胥吏</b></span>
+<a href="javascript:PlayBookv(14776)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14776" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14776" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　古之胥吏者一，今之胥吏者二。古者府史胥徒，所以守簿书，定期会者也。其奔走服役，则以乡户充之。自王安石改差役为雇役，而奔走服役者亦化而为胥吏矣。故欲除奔走服役吏胥之害，则复差役；欲除簿书期会吏胥之害，则用士人。</p>
+<p>　　何谓复差役？宋时差役，有衙前、散从、承符、弓手、手力、耆长、户长、壮丁、色目。衙前以主官物，今库子解户之类。户长以督赋税，今坊里长。耆长、弓手、壮丁以逐捕盗贼，今弓兵、捕盗之类。承符、手力、散从以供驱使，今皂隶、快手、承差之类。</p>
+<p>　　凡今库子、解户、坊里长皆为差役，弓兵、捕盗、皂隶、快手、承差则雇役也。余意坊里长值年之后，次年仍出一人以供杂役。</p>
+<p>　　盖吏胥之敢于为害者，其故有三：其一，恃官司之力，乡民不敢致难；差役者，则知我之今岁致难于彼者，不能保彼之来岁不致难于我也。其二，一为官府之人，一为田野之人，既非同类，自不相顾；差役者，则侪辈尔汝，无所畏忌。其三，久在官府，则根株窟穴牢不可破；差役者，伎俩生疏，不敢弄法。是故坊里长同勾当于官府，而乡民之于坊里长不以为甚害者，则差与雇之分也。</p>
+<p>　　治天下者亦视其势，势可以为恶，虽禁之而有所不止；势不可以为恶，其止之有不待禁也。差役者，固势之不可以为恶者也。议者曰：自安石变法，终宋之世欲复之而不能，岂非以人不安于差役与？曰：差役之害，唯有衙前，故安石以雇募救之。今库子、解户且不能不仍于差役，而其无害者顾反不可复乎？宋人欲复差役，以募钱为害。吾谓募钱之害小，而胥吏之害大也。</p>
+<p>　　何谓用士人？六部院寺之吏，请以进士之观政者为之，次及任子，次及国学之应仕者。满调则出官州县，或历部院属官、不能者落职。郡县之吏，各设六曹，请以弟子员之当廪食者充之。满调则升之国学，或即补六部院寺之吏，不能者终身不听出仕。郡之经历、照磨、知事，县之丞、簿、典史，悉行汰去。行省之法，一如郡县。</p>
+<p>　　盖吏胥之害天下，不可枚举，而大要有四：其一，今之吏胥，以徒隶为之，所谓皇皇求利者，而当可以为利之处，则亦何所不至，创为文网以济其私。凡今所设施之科条，皆出于吏，是以天下有吏之法，无朝廷之法。其二，天下之吏，既为无赖子所据，而佐贰又为吏之出身，士人目为异途，羞与为伍。</p>
+<p>　　承平之世，士人众多，出仕之途既狭，遂使有才者老死丘壑，非如孔孟之时，委吏、乘田、抱关、击柝之皆士人也、其三，各衙门之佐贰，不自其长辟召，一一铨之吏部，即其名姓且不能偏，况其人之贤不肖乎！故铨部化为签部，贻笑千古。</p>
+<p>　　其四，京师权要之吏，顶首皆数千金，父传之子，兄传之弟，其一人丽于法后而继一人焉，则其子若弟也，不然，则其传衣钵者也。是以今天下无封建之国，有封建之吏。诚使吏胥皆用士人，则一切反是，而害可除矣。</p>
+<p>　　且今各衙门之首领官与郡县之佐贰，在汉则为曹掾之属，其长皆得自辟，即古之吏胥也。其后选除出自吏部，其长复自设曹掾以为吏胥，相沿至今，曹掾之名既去，而吏胥之实亦亡矣。故今之吏胥，乃曹掾之重出者也。吾之法，亦使曹掾得其实，吏胥去其重而已。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14775.aspx">上一章</a>
+<a href="/guwen/book_175.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14777.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

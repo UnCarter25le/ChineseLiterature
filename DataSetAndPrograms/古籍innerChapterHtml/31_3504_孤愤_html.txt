@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+韩非子·孤愤_古诗文网
+</title>
+<meta content="智术之士，必远见而明察，不明察，不能烛私；能法之士，必强毅而劲直，不劲直，不能矫奸。人臣循令而从事，案法而治官，非谓重人也。重人也者，无令而擅为，亏法以利私，耗国以便家，力能得其君" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3504.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2111" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>孤愤</b></span>
+<a href="javascript:PlayBookv(3504)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3504" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2111)" id="leftbtn2111" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3504" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%9f%a9%e9%9d%9e">韩非</a></p>
+<div class="contson">
+<p>　　智术之士，必远见而明察，不明察，不能烛私；能法之士，必强毅而劲直，不劲直，不能矫奸。人臣循令而从事，案法而治官，非谓重人也。重人也者，无令而擅为，亏法以利私，耗国以便家，力能得其君，此所为重人也。智术之士明察，听用，且烛重人之阴情；能法之直到劲直，听用，矫重人之奸行。故智术能法之士用，则贵重之臣必在绳之外矣。是智法之士与当涂之人，不可两存之仇也。</p>
+<p>　　当涂之人擅事要，则外内为之用矣。是以诸候不因，则事不应，故敌国为之讼；百官不因，则业不进，故群臣为之用；郎中不因，则不得近主，故左右为之匿；学士不因，则养禄薄礼卑，故学士为之谈也。此四助者，邪臣之所以自饰也。重人不能忠主而进其仇，人主不能越四助而烛察其臣，故人主愈弊而大臣愈重。</p>
+<p>　　凡当涂者之于人主也，希不信爱也，又且习故。若夫即主心，同乎好恶，因其所自进也。官爵贵重，朋党又众，而一国为之讼。则法术之士欲干上者，非有所信爱之亲，习故之泽也，又将以法术之言矫人主阿辟之心，是与人主相反也。处势卑贱，无党孤特。夫以疏远与近爱信争，其数不胜也；以新旅与习故争，其数不胜也；以反主意与同好恶争，其数不胜也；以轻贱与贵重争，其数不胜也；以一口与一国争，其数不胜也。法术之士操五不胜之势，以发数而又不得见；当涂之人乘五胜之资，而旦暮独说于前。故法术之士奚道得进，而人主奚时得悟乎？故资必不胜而势不两存，法术之士焉得不危？其可以罪过诬者，以公法而诛之；其不可被以罪过者，以私剑而穷之。是明法术而逆主上者，不戮于吏诛，必死于私剑矣。朋党比周以弊主，言曲以使私者，必信于重人矣。故其可以攻伐借者，以官爵贵之；其不可借以美名者，以外权重之之。是以弊主上而趋于私门者，不显于官爵，必重于外权矣。今人主不合参验而行诛，不待见功而爵禄，故法术之士安能蒙死亡而进其说？奸邪之臣安肯乘利而退其身？故主上愈卑，私门益尊。</p>
+<p>　　夫越虽国富兵强，中国之主皆知无益于己也，曰："非吾所得制也。"今有国者虽地广人众，然而人主壅蔽，大臣专权，是国为越也。智不类越，而不智不类其国，不察其类者也。人之所以谓齐亡者，非地与城亡也，吕氏弗制而田氏用之；所以谓晋亡者，亦非地与城亡也，姬氏不制而六卿专之也。今大臣执柄独断，而上弗知收，是人主不明也。与死人同病者，不可生也；与亡国同事者，不可存也。今袭迹于齐、晋，欲国安存，不可得也。</p>
+<p>　　凡法术之难行也，不独万乘，千乘亦然。人主之左右不必智也，人主于人有所智而听之，因与左右论其言，是与愚人论智也；人主之左右不必贤也，人主于人有所贤而礼之，因与左右论其行，是与不肖论贤也。智者决策于愚人，贤士程行于不肖，则贤智之士羞而人主之论悖矣。人臣之欲得官者，其修士且以精洁固身，其智士且以治辩进业。其修士不能以货赂事人，恃其精洁而更不能以枉法为治，则修智之士不事左右、不听请谒矣。人主之左右，行非伯夷也，求索不得，货赂不至，则精辩之功息，而毁诬之言起矣。治辩之功制于近习，精洁之行决于毁誉，则修智之吏废，则人主之明塞矣。不以功伐决智行，不以叁伍审罪过，而听左右近习之言，则无能之士在廷，而愚污之吏处官矣。</p>
+<p>　　万乘之患，大臣太重；千乘之患，左右太信；此人主之所公患也。且人臣有大罪，人主有大失，臣主之利与相异者也。何以明之哉？曰：主利在有能而任官，臣利在无能而得事；主利在有劳而爵禄，臣利在无功而富贵；主利在豪杰使能，臣利在朋党用私。是以国地削而私家富，主上卑而大臣重。故主失势而臣得国，主更称蕃臣，而相室剖符。此人臣之所以谲主便私也。故当也之重臣，主变势而得固宠者，十无二三。是其故何也？人臣之罪大也。臣有大罪者，其行欺主也，其罪当死亡也。智士者远见而畏于死亡，必不从重人矣；贤士者修廉而羞与奸臣欺其主，必不从重臣矣，是当涂者徒属，非愚而不知患者，必污而不避奸者也。大臣挟愚污之人，上与之欺主，下与之收利侵渔，朋党比周，相与一口，惑主败法，以乱士民，使国家危削，主上劳辱，此大罪也。臣有大罪而主弗禁，此大失也。使其主有大失于上，臣有大罪于下，索国之不亡者，不可得也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3503.aspx">上一章</a>
+<a href="/guwen/book_31.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3505.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2111" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

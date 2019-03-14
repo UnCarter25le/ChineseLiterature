@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+农桑辑要·蚕事预备·变色_古诗文网
+</title>
+<meta content="《务本新书》：清明，将瓮中所顿蚕连，迁于避风温室，酌中处悬挂。太高伤风，太下伤土。谷雨日，将连取出，通见风日。那表为里：左卷者却右卷，右卷者却左卷。每日交换卷那。卷罢依前收顿。比及" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6519.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5548" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>蚕事预备·变色</b></span>
+<a href="javascript:PlayBookv(6519)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6519" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5548)" id="leftbtn5548" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6519" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　《务本新书》：清明，将瓮中所顿蚕连，迁于避风温室，酌中处悬挂。太高伤风，太下伤土。谷雨日，将连取出，通见风日。那表为里：左卷者却右卷，右卷者却左卷。每日交换卷那。卷罢依前收顿。比及蚕生，均得温和风日，生发匀齐。《要旨》云：清明后种初变红和肥满；再变尖圆微低，如春柳色；再变蚁周盘其中，如远山色。此必收之种也。若顶平焦干、及苍、黄、赤色，便不可养；此不收之种也。</p>
+<p>　　《士农必用》：蚕子变色，惟在迟速由己，不致损伤自变。视桑叶之生，以定变子之日。须治之三日，以色齐为准。农语云：“蚕欲三齐”，子齐，蚁齐，蚕齐是也。其法：桑叶已生，自辰、巳间，于风日中，将瓮中连取出，舒卷提掇。舒时连背向日晒至温，不可热。凡一舒一卷时，将元卷向外者却卷向里，元向里者却卷向外，横者竖卷，竖者横卷，以至两头卷来中间相合。舒卷无度数；但要第一日，十分中变灰色者，变至三分，收了。次二日，变至七分，收了。此二日收了后，必须用纸密糊封了，如法还瓮内收藏。至第三日，于午时后，出连舒卷提掇，展连，手提之；凡半日十数遍。须要变十分。第三次必须至午时后出连者，恐第一次先变者先生蚁也。蚁生在巳、午时之前，过午时，便不生。</p>
+<p>　　《桑蚕直说》：欲疾生者，频舒卷；卷之须虚慢。欲生者，少舒卷；卷之须紧实。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6518.aspx">上一章</a>
+<a href="/guwen/book_79.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6520.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5548" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

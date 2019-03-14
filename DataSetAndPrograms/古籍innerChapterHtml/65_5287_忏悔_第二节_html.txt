@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+六祖坛经·忏悔·第二节_古诗文网
+</title>
+<meta content="“善知识，既忏悔已，与善知识发四弘誓愿，各须用心正听：自心众生无边誓愿度，自心烦恼无边誓愿断，自性法门无尽誓愿学，自性无上佛道誓愿成。善知识，大家岂不道众生无边誓愿度，恁么道，且不" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5287.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3626" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>忏悔·第二节</b></span>
+<a href="javascript:PlayBookv(5287)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5287" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3626)" id="leftbtn3626" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5287" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+　　“善知识，既忏悔已，与善知识发四弘誓愿，各须用心正听：自心众生无边誓愿度，自心烦恼无边誓愿断，自性法门无尽誓愿学，自性无上佛道誓愿成。善知识，大家岂不道众生无边誓愿度，恁么道，且不是慧能度。善知识，心中众生，所谓邪迷心、诳妄心、不善心、嫉妒心、恶毒心如是等心，尽是众生，各须自性自度，是名真度。何名自性自度？即自心中邪见烦恼愚痴众生，将正见度。既有正见，使般若智打破愚痴迷妄众生，各各自度。邪来正度，迷来悟度，愚来智度，恶来善度，如是度者，名为真度。又烦恼无边誓愿断，将自性般若智除却虚妄思想心是也。又法门无尽誓愿学，须自见性，常行正法，是名真学。又无上佛道誓愿成，既常能下心，行于真正，离觅离觉，常生般若，除真除妄，即见佛性，即言下佛道成。常念修行是愿力法。”“善知识今发四弘愿了，更与善知识授无相三归依戒。善知识，归依觉，两足尊②；归依正，离欲尊；归依净，众中尊。从今日去，称觉为师，更不归依邪魔外道，以自性三宝常自证明。劝善知识，归依自性三宝。佛者，觉也；法者，正也；僧者，净也。自心归依觉，邪迷不生。少欲知足，能离财色，名两足尊。自心归依正，念念无邪见，以无邪见故，即无人我贡高贪爱执著，名离欲尊。自心归依净，一切尘劳爱欲境界，自性皆不染著，名众中尊。若修此行，是自归依。凡夫不会，从日至夜，受三归戒，若言归依佛，佛在何处？若不见佛，凭何所归？言却成妄。善知识，各自观察，莫错用心，经文分明言自归依佛，不言归依他佛，自佛不归，无所依处。今既自悟，各须归依自心三宝，内调心性，外敬他人，是自归依也。”“善知识，既归依自三宝竞，各各志心。吾与说一体三身自性佛，令汝等见三身，了然自悟自性。总随我道：于自色身归依清净法身佛，于自色身归依圆满报身佛，于自色身归依千百亿化身佛。善知识，色身是舍宅，不可言归，向者三身佛，在自性中。世人总有，为自心迷，不见内性，外觅三身如来，不见自身中有三身佛。汝等听说，令汝等于自身中见自性有三身佛。此三身佛，从自性生，不从外得。”“何名清净法身佛？世人性本清净，万法从自性生，思量一切恶事，即生恶行；思量一切善事，即生善行。如是诸法在自性中，如天常清，日月常明。为浮云盖覆，上明下暗，忽遇风吹云散，上下俱明，万象皆现，世人性常浮游，如彼天云。善知识，智如日，慧如月，智慧常明，于外著境，被自念浮云盖覆自性，不得明朗，若遇善知识，闻真正法，自除迷妄，内外明彻，于自性中万法皆现，见性之人，亦复如是，此名清净法身佛。”“善知识，自心归依自性，是归依真佛。自归依者，除却自性中不善心、嫉妒心、谄曲心、吾我心、诳妄心、轻人心、慢他心、邪见心、贡高心，及一切时中不善之行，常自见己过，不说他人好恶，是自归依。常须下心，普行恭敬，即是见性通达，更无滞碍，是自归依。”
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5286.aspx">上一章</a>
+<a href="/guwen/book_65.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5288.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3626" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

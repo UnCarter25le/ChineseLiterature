@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+农桑辑要·耕垦·耕地_古诗文网
+</title>
+<meta content="《齐民要术》：春耕寻手劳郎到反，古曰：“耰”，今曰“劳”。《说文》曰：“耰，摩田器。”今人亦名“劳”曰“摩”。秋耕待白背劳。春既多风，若不寻劳，地必虚燥。秋田塌实，湿劳令地硬。谚曰" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6498.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5526" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>耕垦·耕地</b></span>
+<a href="javascript:PlayBookv(6498)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6498" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5526)" id="leftbtn5526" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6498" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　《齐民要术》：春耕寻手劳郎到反，古曰：“耰”，今曰“劳”。《说文》曰：“耰，摩田器。”今人亦名“劳”曰“摩”。秋耕待白背劳。春既多风，若不寻劳，地必虚燥。秋田塌实，湿劳令地硬。谚曰：“耕而不劳，不如作暴。”盖言泽难遇，喜天时故也。桓宽《盐铁论》曰：“茂木之下无丰草，大块之间无美苗。”踏，直辄反，田实也。暴，音曝，耗也。凡秋耕欲深，春夏欲浅；犂欲廉，劳欲再。犂廉耕细，牛复不疲；再劳地熟，旱亦保泽也。秋耕埯同埯青者为上。比至冬月，青草复生者，其美与小豆同。初耕欲深，转地不深，地不熟；转不浅，动生土也。菅茅之地，宜纵牛羊践之；践则根浮。七月耕之，则死。非七月复生矣。凡美田之法，绿豆为上；小豆、胡麻次之。悉皆五、六月中冀美懿反；漫种也。种；七月、八月，犂埯杀之，为春谷田，则亩收十石；一石大约今二斗七升；十石，今二石七斗有余也。后《齐民要术》中“石”、“斗”仿此。其美与蚕矢、熟粪同。</p>
+<p>　　《氾胜之书》曰：凡耕之本，在于趣时、和土、务粪泽，早锄早获。春冻解，地气始通，土一和解；夏至，天气始暑，阴气始盛，土复解；夏至后九十日昼夜分，天地气和；以此时耕田，一而当五，名曰“膏泽”；皆得时功。春，地气通，可耕坚硬强地黑垆土，辄平摩其块以生草；草生，复耕之；天有小雨，复耕和之，勿令有块，以待时；所谓强土而弱之。春候地气始通，土块散，陈根可拔。此时二十日以后，和气去，即土冈。以时耕，一而当四；和气去耕，四不当一。杏始华荣，辄耕轻土、弱土。望杏花落，复耕；耕辄劳之。草生，有雨泽，耕，重劳之。土甚轻者，以牛羊践之，如此则土强；此谓弱土而强之也。</p>
+<p>　　《杂说》：凡人家营田，须量己力，宁可少好，不可多恶。凡地有薄者，即须加粪粪之。其“踏粪”法：秋收治田后，场上所有谷穰等，并须收贮一处。每日布牛脚下，三寸厚；古一尺，大约今一尺三寸有余。后《齐民要术》“尺”、“寸”仿此。每平旦，收聚堆积之；还依前布之，经宿即堆聚。至十二月、正月之间，即载粪粪地。</p>
+<p>　　《种莳直说》：古农法，犁一棍六。今人只知犁深为功，不知棍细为全功。棍功不到，土粗不实。下种后，虽见苗，立根在粗土，根土不相着，不耐旱；有悬死、虫咬、干死等诸病。棍功到，土细又实，立根在细实土中；又碾过，根土相着，自耐旱，不生诸病。</p>
+<p>　　《韩氏直说》：为农大纲，一则牛欺地，二则人欺苗。牛欺地则所种不失其时；人欺苗，则省力易办；反是，则徒劳无益矣。凡地，除种麦外，并宜秋耕。先以铁齿概纵横概之，然后插犂细耕，随耕随捞。至地大白背时，更橇两遍。至来春地气透时，待日高复棍四五遍。其地爽润，上有油土四指许；春虽无雨，时至便可下种。秋耕之地，荒草白少，极省锄工。如牛力不及，不能尽秋耕者，除种粟地外，其余黍、豆等地，春耕亦可。大抵秋耕，宜早，春耕宜迟。秋耕宜早者，乘天气未寒，将阳和之气。掩在地中，其苗易荣。过秋，天气寒冷，有霜时，必待日高，方可耕地，恐掩寒气在内，令地薄，不收子粒。春耕宜迟者，亦待春气和暖，日高时，依前耕耙。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6497.aspx">上一章</a>
+<a href="/guwen/book_79.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6499.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5526" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

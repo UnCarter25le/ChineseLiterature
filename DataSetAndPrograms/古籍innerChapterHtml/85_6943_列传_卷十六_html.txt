@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+陈书·列传·卷十六_古诗文网
+</title>
+<meta content="陆子隆 钱道戢 骆牙陆子隆，字兴世，吴郡吴人也。祖敞之，梁嘉兴令。父悛，封氏令。子隆少慷 慨，有志功名。起家东宫直后。侯景之乱，于乡里聚徒。是时张彪为吴郡太守，引 为将帅。彪徙镇会" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6943.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left6322" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>列传·卷十六</b></span>
+<a href="javascript:PlayBookv(6943)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6943" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(6322)" id="leftbtn6322" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6943" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%94%90%e5%a7%9a%e6%80%9d">唐姚思</a></p>
+<div class="contson">
+<p>　　陆子隆 钱道戢 骆牙</p>
+<p>　　陆子隆，字兴世，吴郡吴人也。祖敞之，梁嘉兴令。父悛，封氏令。子隆少慷 慨，有志功名。起家东宫直后。侯景之乱，于乡里聚徒。是时张彪为吴郡太守，引 为将帅。彪徙镇会稽，子隆随之。及世祖讨彪，彪将沈泰、吴宝真、申缙等皆降， 而子隆力战败绩，世祖义之，复使领其部曲，板为中兵参军。历始豊、永兴二县令。 </p>
+<p>　　世祖嗣位，子隆领甲仗宿卫。寻随侯安都拒王琳于栅口。王琳平，授左中郎将。 天嘉元年，封益阳县子，邑三百户。出为高唐郡太守。二年，除明威将军、庐陵太 守。时周迪据临川反，东昌县人修行师应之，率兵以攻子隆，其锋甚盛。子隆设伏 于外，仍闭门偃甲，示之以弱。及行师至，腹背击之，行师大败，因乞降，子隆许 之，送于京师。 </p>
+<p>　　四年，周迪引陈宝应复出临川，子隆随都督章昭达讨迪。迪退走，因随昭达逾 东兴岭，讨陈宝应。军至建安，以子隆监郡。宝应据建安之湖际以拒官军，子隆与 昭达各据一营，昭达先与贼战，不利，亡其鼓角，子隆闻之，率兵来救，大破贼徒， 尽获昭达所亡羽仪甲仗。晋安平，子隆功最，迁假节、都督武州诸军事，将军如故。 寻改封朝阳县伯，邑五百户。废帝即位，进号智武将军，加员外散骑常侍，馀如故。 </p>
+<p>　　华皎据湘州反，以子隆居其心腹，皎深患之，频遣使招诱，子隆不从，皎因遣 兵攻之，又不能克。及皎败于郢州，子隆出兵以袭其后，因与王师相会。授持节、 通直散骑常侍、都督武州诸军事，进爵为侯，增邑并前七百户。寻迁都督荆、信、 祐三州诸军事、宣毅将军、荆州刺史，持节、常侍如故。是时荆州新置，治于公安， 城池未固，子隆修建城郭，绥集夷夏，甚得民和，当时号为称职。三年，吏民诣都 上表，请立碑颂美功绩，诏许之。太建元年，进号云麾将军。二年卒，时年四十七。 赠散骑常侍，谥曰威。子之武嗣。 </p>
+<p>　　之武年十六，领其旧军，随吴明彻北伐有功，官至王府主簿、弘农太守，仍隶 明彻。明彻于吕梁败绩，之武逃归，为人所害，时年二十二。 </p>
+<p>　　子隆弟子才，亦有干略，从子隆征讨有功，除南平太守，封始兴县子，邑三百 户。从吴明彻北伐，监安州，镇于宿预。除中卫始兴王咨议参军，迁飙猛将军、信 州刺史。太建十三年卒，时年四十二，赠员外散骑常侍。 </p>
+<p>　　钱道戢，字子韬，吴兴长城人也。父景深，梁汉寿令。道戢少以孝行著闻，及 长，颇有干略，高祖微时，以从妹妻焉。从平卢子略于广州，除滨江令。高祖辅政， 遣道戢随世祖平张彪于会稽，以功拜直阁将军，除员外散骑常侍、假节、东徐州刺 史，封永安县侯，邑五百户。仍领甲卒三千，随侯安都镇防梁山，寻领钱塘、馀杭 二县令。永定三年，随世祖镇于南皖口。天嘉元年，又领剡令，镇于县之南岩，寻 为临海太守，镇岩如故。 </p>
+<p>　　侯安都之讨留异也，道戢帅军出松阳以断其后。异平，以功拜持节、通直散骑 常侍、轻车将军、都督东西二衡州诸军事、衡州刺史，领始兴内史。光大元年，增 邑并前七百户。 </p>
+<p>　　高宗即位，征欧阳纥入朝，纥疑惧，乃举兵来攻衡州，道戢与战，却之。及都 督章昭达率兵讨纥，以道戢为步军都督，由间道断纥之后。纥平，除左卫将军。 </p>
+<p>　　太建二年，又随昭达征萧岿于江陵，道戢别督众军与陆子隆焚青泥舟舰，仍为 昭达前军，攻安蜀城，降之。以功加散骑常侍、仁武将军，增邑并前九百户。其年， 迁仁威将军、吴兴太守。未行，改授使持节、都督郢、巴、武三州诸军事、郢州刺 史。王师北讨，道戢与仪同黄法抃围历阳。历阳城平，因以道戢镇之。以功加云麾 将军，增邑并前一千五百户。其年十一月遘疾卒，时年六十三。赠本官，谥曰肃。 子邈嗣。 </p>
+<p>　　骆牙，字旗门，吴兴临安人也。祖秘道，梁安成王田曹参军。父裕，鄱阳嗣王 中兵参军事。牙年十二，宗人有善相者，云：“此郎容貌非常，必将远致。”梁太 清末，世祖尝避地临安，牙母陵，睹世祖仪表，知非常人，宾待甚厚。及世祖为吴 兴太守，引牙为将帅，因从平杜龛、张彪等，每战辄先锋陷阵，勇冠众军，以功授 真阁将军。太平二年，以母忧去职。世祖镇会稽，起为山阴令。永定三年，除安东 府中兵参军，出镇冶城。寻从世祖拒王琳于南皖。世祖即位，授假节、威虏将军、 员外散骑常侍，封常安县侯，邑五百户。寻为临安令，迁越州刺史，馀并如故。 </p>
+<p>　　初，牙母之卒也，于时饥馑兵荒，至是始葬，诏赠牙母常安国太夫人，谥曰恭。 迁牙为贞威将军、晋陵太守。 </p>
+<p>　　三年，以平周迪之功，迁冠军将军、临川内史。太建三年，授安远将军、衡阳 内史，未拜，徙为桂阳太守。八年，还朝，迁散骑常侍，入直殿省。十年，授豊州 刺史，馀并如故。至德二年卒，时年五十七。赠安远将军、广州刺史。子义嗣。 </p>
+<p>　　史臣曰：陆子隆、钱道戢，或举门愿从，或旧齿树勋，有统领之才，充师旅之 寄。至于受任籓屏，功绩并著，美矣！骆牙识真有奉，知世祖天授之德，盖张良之 亚欤？牙母智深先觉，符柏谷之礼，君子知鉴识弘远，其在兹乎！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6942.aspx">上一章</a>
+<a href="/guwen/book_85.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6944.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right6322" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

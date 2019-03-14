@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+九章算术·序_古诗文网
+</title>
+<meta content="昔在庖犠氏始画八卦，以通神明之德，以类万物之情，作九九之数，以合六 爻之变。暨于黄帝神而化之，引而伸之，于是建历纪，协律吕，用稽道原，然后 两仪四象精微之气可得而效焉。记称隶首作数" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16251.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>序</b></span>
+<a href="javascript:PlayBookv(16251)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16251" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16251" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%8b%8d%e3%80%81%e8%80%bf%e5%af%bf%e6%98%8c%e3%80%81%e5%88%98%e5%be%bd">张苍、耿寿昌、刘徽</a></p>
+<div class="contson">
+　　昔在庖犠氏始画八卦，以通神明之德，以类万物之情，作九九之数，以合六 爻之变。暨于黄帝神而化之，引而伸之，于是建历纪，协律吕，用稽道原，然后 两仪四象精微之气可得而效焉。记称隶首作数，其详未之闻也。按周公制礼而有 九数，九数之流，则《九章》是矣。往者暴秦焚书，经术散坏。自时厥后，汉北 平侯张苍、大司农中丞耿寿昌皆以善算命世。苍等因旧文之遗残，各称删补。故 校其目则与古或异，而所论者多近语也。徽幼习 《九章》，长再详览。观陰陽之 割裂，总算术之根源，探赜之暇，遂悟其意。是以敢竭顽鲁，采其所见，为之作 注。事类相推，各有攸归，故枝条虽分而同本榦知，发其一端而已。又所析理以 辞，解体用图，庶亦约而能周，通而不黩，览之者思过半矣。且算在六艺，古者 以宾兴贤能，教习 国子；虽曰九数，其能穷纤入微，探测无方；至于以法相传， 亦犹规矩度量可得而共，非特难为也。当今好之者寡，故世虽多通才达学，而未 必能综于此耳。《周官·大司徒》职，夏至日中立八尺之表。其景尺有五寸，谓 之地中。说云，南戴日下万五千里。夫云尔者，以术推之。案：《九章》立四表 望远及因木望山之术，皆端旁互见，无有超邈若斯之类。然则苍等为术犹未足以 博尽群数也。徽寻九数有重差之名，原其指趣乃所以施于此也。凡望极高、测绝 深而兼知其远者必用重差、句股，则必以重差为率，故曰重差也。立两表于洛陽 之城，令高八尺，南北各尽平地。同日度其正中之时。以景差为法，表高乘表间 为实，实如法而一。所得加表高，即日去地也。以南表之景乘表间为实，实如法 而一，即为从南表至南戴日下也。以南戴日下及日去地为句、股，为之求弦，即 日去人也。以径寸之筒南望日，日满筒空，则定筒之长短以为股率，以筒径为句 率，日去人之数为大股，大股之句即日径也。虽夫圆穹之象犹曰可度，又况泰山 之高与江 海之广哉。徽以为今之史籍且略举天地之物，考论厥数，载之于志，以 阐世术之美，辄造《重差》，并为注解，以究古人之意，缀于句股之下。度高者 重表，测深者累矩，孤离者三望，离而又旁求者四望。触类而长之，则虽幽遐诡 伏，靡所不入，博物君子，详而览焉。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_188.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16252.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

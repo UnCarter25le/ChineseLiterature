@@ -1,0 +1,125 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·诸儒学案上·督学黄南山先生润玉_古诗文网
+</title>
+<meta content="黄润玉字孟清，号南山，浙之鄞县人。幼而端方，不拾遗金。郡守行乡饮酒礼，先生观之，归而书之於册，习礼者不能过也。诏徙江南富民实北京，其父当行。先生年十三，请代父往。有司少之，对曰：“" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14643.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>诸儒学案上·督学黄南山先生润玉</b></span>
+<a href="javascript:PlayBookv(14643)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14643" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14643" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　黄润玉字孟清，号南山，浙之鄞县人。幼而端方，不拾遗金。郡守行乡饮酒礼，先生观之，归而书之於册，习礼者不能过也。诏徙江南富民实北京，其父当行。先生年十三，请代父往。有司少之，对曰：“父去日益老，儿去日益长。”有司不能夺而从之。至则筑室城外，卖菜以为生，作劳之余，读书不辍。有富翁招之同寓，先生谢不往。或问之，曰：“渠有一女，当避嫌也。”寻举京闱乡试，授江西训导，用荐召为交趾道御史，出按湖广。劾藩臬郡县之不职者，至百有二十人，风采凛然。景泰初，改广西提学佥事。时寇起军兴，先生核军中所掠子女，归者万余口。副使李立，故入死罪且数百人，亦辨而出之。南丹卫在万山中，岁苦瘴厉，先生奏徙平原，戍卒因之更生。丁忧起复，移湖广，与巡抚李实不合，左迁含山知县。致仕。成化丁酉五月卒，年八十九。先生之学，以知行为两轮。尝曰：“学圣人一分，便是一分好人。”又曰：“明理务在读书，制行要当慎独。”盖守先儒之矩矱而不失者也。其所友为李文毅时勉、薛文清瑄，故操行亦相似。</p>
+<p>　　海涵万象录</p>
+<p>　　天只气，地只质，天地之生万物，如人身生毛发，任其气化自然也。而人独有心中一窝气，寓得理而灵，故曰心神。然太虚中亦有一团气，灵如人心者，则曰天神。</p>
+<p>　　汴为天下之中，不如金陵、江夏漕运之易集也。</p>
+<p>　　道有体用，体即理，用即事，人得是理於心曰德，服是事於身曰行。何谓德？知仁、圣义、中和是也。何谓行？孝友、睦姻、任恤是也。</p>
+<p>　　道无玄妙，只在日用间，着实循理而行。</p>
+<p>　　在天为理，与天常存，在人为性，气散则亡。</p>
+<p>　　告子若曰“生理之谓性”，便不起人争端。天地间只是生气中有此生理，在人亦然，故名曰性，而总谓之仁。是仁即系天地生物之心，又只是生生之理，又曰气质之性，即告子生之谓也。故张子曰：“君子弗性也。”</p>
+<p>　　有一人之命，有一家之命，有一国之命，若长平坑卒，一国之命也，气数也。</p>
+<p>　　居处恭，执事敬，与人忠，则心自不放。</p>
+<p>　　心之量宇宙间事，皆能推其理而知，但天下形势，古今制度，必须考视而知，难意度也。</p>
+<p>　　程、张所谓心，皆指其虚灵之气而言，气本寓理为性，理从气发为情，而心能主宰者，亦气也。</p>
+<p>　　天地间生生不息为仁，此天理流行也。人心只天理流行便是仁，私欲间断便是不仁。</p>
+<p>　　孔门所教所学，皆於用处发明，而体在其中。盖理是道之体，事是道之用。孝弟见於日用，只从仁上发出来。仁是孝弟之理，孝弟是仁之用。学者骛於高远，不尽孝弟之事，只是去探高妙，论心论性，却全不识道。</p>
+<p>　　教学者於自己体认性情发见处，便能知道。</p>
+<p>　　古者士农工商，各一其业，子孙世守，而民志定。今也农工商之贪黠者，皆奔兢仕途，而谋吏胥出身，往往资其贪黠，卒获仕途以终其身，所以滥溢铨曹，汙蠹民社者，多此途也。为今之计，莫若自民间俊秀，取入庠校者，三年大比，约计藩臬郡县司吏额，分上中下，取士之中式者上等，命为藩臬阃司之吏，中等为各郡吏，下等为州县吏。三年考满，送礼部会试，亦依上法取送。在京衙门历役三年，都试出身，则使儒法兼通，寄之民社，而去贪黠之风矣。</p>
+<p>　　《大学》之道，问学之宏规；《论语》之言，践履之实理；《孟子》七篇，扩充之全功；《中庸》一书，感化之大义。</p>
+<p>　　《大学》一书，《六经》之名例也；《中庸》一书，《六经》之渊源也。</p>
+<p>　　穷理者道之体斯明，尽性者道之体斯行，至命者道之原斯达，故邵子曰：“非道而何？”</p>
+<p>　　经书补註</p>
+<p>　　格物格字，当训合格之格。凡物之要者，莫切乎身心，物之大者，莫过於家国天下。人之所学，莫非身心家国天下之事。然事物莫不有理，而万物皆备於我，则物理具於吾心。学者以吾心之理，格合事物之理，是曰格物。若训为至，则为物至而后知，至不成文义也。（《大学》）</p>
+<p>　　告曾子以道言，谓一理贯万事，理即体，事即用。告子贡以学言，谓一心贯万理，心者气之灵，理者心之德。</p>
+<p>　　一日克己复礼，一日以成功之大纲言，四勿以日日用功之节目言，譬之一好地方，有寇生发，日日要当克胜他，及至一日尽克胜了，而复却好地方，则天下皆知其地方好了。朱子补传“一旦豁然贯通”，即此一日义同。</p>
+<p>　　天理寓於人曰性，犹源泉入於川曰流。然理无不善，而人之气禀有清浊；泉无不洁，而川之泥质有沙淤。故人之始生，气之清浊未甚见，及其长而习於善，则清者愈清，习於恶，则浊者愈浊。如川之始达，泥之澄浑未甚分，及其远也，积於沙者，则澄者愈澄，汩於泥者，则浑者愈浑矣。故性近习远。（以上《论语》）</p>
+<p>　　浩气是心窝中一点虚灵之气，所以具众理而应万事者。人能事事合宜，则心无愧怍而天理纯全，斯可识浩然之气象也。仰不愧於天，俯不怍於人，此浩气塞於天地之间也。</p>
+<p>　　义者人心之裁制，气之主也，即所谓志帅也。道者事理之当然，气之行也，即所谓道路也。</p>
+<p>　　万物皆备於我，物理具於吾心也。以吾心之理，处物合宜，即义也。此之谓体用。（以上《孟子》）</p>
+<p>　　《尧典》以亲九族，即齐家也。止谓本宗九世，上至高，下至玄，自三而五，自五而九，上杀，下杀，旁杀，而人道竭矣。岂有外姓之谓族乎？故《尔雅》别外姻曰母党，妻党。（《书》）</p>
+<p>　　天生烝民，有物有则，言天之生人，有是事则有是理。如视必明，听必聪，色必温，貌必恭，言必忠，而有即必也。民之秉彝，好是懿德，言人之有己，行此常事，故思此常理。如视思明，聽思聪，色思温，貌思恭，言思忠，而好即思也。盖事者道之用，理者道之体，故孔子曰：“为此诗者，其知道乎？”（《诗》）</p>
+<p>　　古者诸侯之别子之子孙，嫡派为大宗，其庶子为小宗。若小宗绝，不为立后，惟大宗绝，则以支子立后。盖大宗是尊者之统，不可绝也。今制大宗绝立后，小宗绝不立后，奈庶民不知朝廷之制，凡庶子绝，皆令过继，只是争取财产尔。</p>
+<p>　　古昔吉服，杀缝向外以便体；后王致饰，杀缝向内为吉服，以外削外缉者为凶服。</p>
+<p>　　苴，束茅也，所以代神置於神席几束，祭时佐食取黍稷，祝取觯祭於苴，而祭毕弃之，即老氏所云刍狗也。今朱子家礼，乃束茅置沙于馔食前酎酒，似与古礼命祝祭酒意同。</p>
+<p>　　周公祭泰山，召公为尸，今之神有土木偶及遗像，皆古人立尸之遗意欤？（以上《仪礼》）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14642.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14644.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

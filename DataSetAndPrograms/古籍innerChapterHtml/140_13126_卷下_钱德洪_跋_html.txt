@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+传习录·卷下·钱德洪·跋_古诗文网
+</title>
+<meta content="嘉靖戊子冬德洪与王汝中奔师丧至广信，讣告同门，约三年收录遗言。后同门各以所记见遗。洪择其切于问正者，合所私录，得若干条。居吴时，将与文录并刻矣。适以忧去，未遂当是时也，四方讲学日众" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13126.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷下·钱德洪·跋</b></span>
+<a href="javascript:PlayBookv(13126)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13126" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13126" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e9%98%b3%e6%98%8e">王阳明</a></p>
+<div class="contson">
+<p>　　嘉靖戊子冬德洪与王汝中奔师丧至广信，讣告同门，约三年收录遗言。后同门各以所记见遗。洪择其切于问正者，合所私录，得若干条。居吴时，将与文录并刻矣。适以忧去，未遂当是时也，四方讲学日众，师门宗旨既明，若无事于赘刻者，故不复萦念。去年，同门曾子汉得洪手抄复傍为采辑，名曰遗言，以刻行于荆。洪读之，觉当时采录精，乃为删其重，削去芜蔓存其三分之一，名曰《传习续录》，复刻于宁国之水西精舍。今年夏，洪来游蕲，沈君思畏曰：“师门之教久行于四方，而独未及于蕲。蕲之士得读遗言若亲灸夫子之教，指见良知，若重睹日月之光。惟恐传习之不博，而未以重复之为繁也，请裒其所逸者增刻之。若何？”洪曰：“然师门致知格物之旨，开示来学，学者躬修默悟，不敢以知解承，而惟以实体得，故吾师终日言是而不惮其烦，学者终日听是而不厌其数。盖指示专一，则体悟日精，几迎于言前，神发于言外，感遇之诚也。今吾师之没未及三纪，而格言微旨渐觉沦晦，岂非吾党身践之不力，多言有以病之耶？学者之趋不一，师门之教不宣也。”乃复取逸稿，采其语之不背者，得一卷。其余影响不真，与文录既载者，皆削之。幷易中卷为问答语，以付黄梅尹张君增刻之。庶几读者不以知解承而惟以实体得，则无疑于是录矣。嘉靖丙辰夏四月，门人钱德洪拜书于蕲之崇正书院。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13125.aspx">上一章</a>
+<a href="/guwen/book_140.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

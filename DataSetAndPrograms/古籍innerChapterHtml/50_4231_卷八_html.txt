@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+搜神后记·卷八_古诗文网
+</title>
+<meta content="王机为广州刺史，入厕，忽见二人著乌衣，与机相捍。良久擒之，得二物如乌鸭。以问鲍靓，靓曰：“此物不祥。“机焚之，径飞上天。寻诛死。 晋义熙中，乌伤葛辉夫，在妇家宿。三更后，有两人把火" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4231.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2831" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八</b></span>
+<a href="javascript:PlayBookv(4231)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4231" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2831)" id="leftbtn2831" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4231" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%b6%e6%b8%8a%e6%98%8e">陶渊明</a></p>
+<div class="contson">
+<p>　　王机为广州刺史，入厕，忽见二人著乌衣，与机相捍。良久擒之，得二物如乌鸭。以问鲍靓，靓曰：“此物不祥。“机焚之，径飞上天。寻诛死。 </p>
+<p>　　晋义熙中，乌伤葛辉夫，在妇家宿。三更后，有两人把火至阶前。疑是凶人，往打之。欲下杖。悉变成蝴蝶，缤纷飞散。有冲辉夫腋下，便倒地，少时死。 </p>
+<p>　　诸葛长民富贵后，常一月中，辄十数夜眠中惊起跳踉，如与人相打。毛修之尝与同宿，见之惊愕，问其故，答曰：“正见一物，甚黑而有毛，脚不分明，奇健，非我无以制之也。“后来转数。屋中柱及椽桷间，悉见有蛇头。令人以刃悬斫，应刃隐藏。去辄复出。又捣衣杵相与语，如人声，不可解。于壁见有巨手，长七八尺，臂大数围。令斫之，忽然不见。未几伏诛。 新野庾谨，母病，兄弟三人，悉在侍疾。白日常燃火，忽见帐带自卷自舒，如此数四。须臾间，床前闻狗声异常。举家共视，了不见狗，见一死人头在地，头犹有发，两眼尚动，甚可憎恶。其家怖惧。乃不持出门，即于后园中瘗之。明日往视，乃出土上，两眼犹尔，即又埋之。后日复出，乃以砖头合埋之，遂不复出。他日，其母便亡。 </p>
+<p>　　王绥字彦猷，其家夜中，梁上无故有人头堕于床，而流血滂沱。俄拜荆州刺史，坐父愉之谋，与弟纳并被诛。</p>
+<p>　　晋永嘉五年，张荣为高平戍逻主。时曹嶷贼寇离乱，人民皆坞垒自保固。见山中火起，飞埃绝焰十余丈，树颠火炎，响动山谷。又闻人马铠甲声，谓嶷贼上，人皆惶恐，并戒严出，将欲击之。乃引骑到山下，无有人，但见碎火来晒人，袍铠马毛鬣皆烧。于是军人走还。明日往视，山中无燃火处，见髑髅百头，布散在山中。 新野赵贞家，园中种葱，未经摘拔。忽一日，尽缩入地。后经岁余，贞之兄弟相次分散。 </p>
+<p>　　吴聂友，字文悌，豫章新淦人。少时贫贱，常好射猎。夜照见一白鹿，射中之。明寻踪，血既尽，不知所在。且已饥困，便卧一梓树下。仰见射箭著树枝上，视之，乃是昨所射箭。怪其如此。于是还家赍粮，率子弟，持斧以伐之。树微有血，遂裁截为板二枚，牵著陂塘中。板常沉没，然时复浮出。出，家辄有吉庆。每欲迎宾客，常乘此板。忽于中流欲没，客大惧，友呵之，还复浮出。仕宦大如愿，位至丹阳太守。在郡经年，板忽随至石头。外司白云：“涛中板入石头来。“友惊曰：“板来，必有意。“即解职归家。下船便闭户，二板挟两边，一日即至豫章。尔后板出，便反为凶祸，家大轗轲。今新淦北二十里余，曰封溪，有聂友截梓树板，涛牂柯处。有梓树，今犹存。乃聂友向日所截，枝叶皆向下生。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4230.aspx">上一章</a>
+<a href="/guwen/book_50.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4232.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2831" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

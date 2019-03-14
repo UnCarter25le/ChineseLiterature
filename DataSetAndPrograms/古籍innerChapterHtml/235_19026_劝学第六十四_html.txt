@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+大戴礼记·劝学第六十四_古诗文网
+</title>
+<meta content="君子曰：学不可以已矣，青取之於蓝，而青於蓝；水则为冰，而寒於水；木直而中绳，輮而为轮，其曲中规，枯暴不复挺者，輮使之然也。是故不升高山，不知天之高也；不临深谿，不知地之厚也；不闻先" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19026.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>劝学第六十四</b></span>
+<a href="javascript:PlayBookv(19026)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19026" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19026" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%88%b4%e5%be%b7">戴德</a></p>
+<div class="contson">
+<p>　　君子曰：学不可以已矣，青取之於蓝，而青於蓝；水则为冰，而寒於水；木直而中绳，輮而为轮，其曲中规，枯暴不复挺者，輮使之然也。</p>
+<p>　　是故不升高山，不知天之高也；不临深谿，不知地之厚也；不闻先王之遗道，不知学问之大也。于越戎貉之子，生而同声，长而异俗者，教使之然也。</p>
+<p>　　是故木从绳则直，金就砺则利，君子博学如日参己焉，故知明则行无过。诗云："嗟尔君子，无恒安息；靖恭尔位，好是正直；神之听之，介尔景福。"神莫大於化道，福莫长於无咎。</p>
+<p>　　孔子曰："吾尝终日思矣，不如须臾之所学。"吾尝跂而望之，不如升高而博见也；升高而招，非臂之长也，而见者远；顺风而呼，非声加疾也，而闻者著；假车马者，非利足也，而致千里；假舟楫者，非能水也，而绝江海；君子之性非异也，而善假於物也。</p>
+<p>　　南方有鸟，名曰〈虫妄〉鸠，以羽为巢，编之以发，系之苇苕，风至苕折，子死卵破，巢非不完也，所系者然也。西方有木，名曰射干，茎长四寸，生於高山之上，而临百仞之渊，木茎非能长也，所立者然也。蓬生麻中，不扶自直。兰氏之根，怀氏之苞，渐之滫中，君子不近，庶人不服，质非不美也，所渐者然也。</p>
+<p>　　是故君子靖居恭学，脩身致志，处必择乡，游必就士，所以防僻邪而道中正也。</p>
+<p>　　物类之从，必有所由；荣辱之来，各象其德。肉腐出虫，鱼枯生蠹；殆教亡身，祸灾乃作。强自取折，柔自取束；邪秽在身，怨之所构。布薪若一火就燥，平地若一水就湿，草木畴生，禽兽群居，物各从其类也。</p>
+<p>　　是故正鹄张，而弓矢至焉；林木茂，而斧斤至焉。树成荫，而鸟息焉；醯酸，而蚋聚焉，故言有召祸，行有招辱，君子慎其所立焉。</p>
+<p>　　积土成山，风雨兴焉；积水成川，蛟龙生焉；积善成德，神明自传，圣心备矣。是故不积跬步，无以致千里；不积小流，无以成江海；骐骥一跞，不能千里；驽马无极，功在不舍；楔而舍之，朽木不折；楔而不舍，金石可镂。</p>
+<p>　　夫螾无爪牙之利，筋脉之强，上食晞土，下饮黄泉者，用心一也。蟹二螯八足，非蛇夔之穴，而无所寄讬者，用心躁也。是故无愤愤之志者，无昭昭之明；无绵绵之事者，无赫赫之功；行跂涂者不至，事两君者不容；目不能两视而明，耳不能两听而聪；腾蛇无足而腾，鼫鼠五伎而穷。诗云："鸤鸠在桑，其子七兮；淑人君子，其仪一兮；其仪一兮，心若结兮。"君子其结於一也。</p>
+<p>　　昔者瓠巴鼓瑟，而沈鱼出听；伯牙鼓琴，而六马仰秣，夫声无细而不闻，行无隐而不行；玉居山而木润，渊生珠而岸不枯；为善而不积乎？岂有不至哉？</p>
+<p>　　孔子曰："野哉！君子不可以不学，见人不可以不饰。"不饰无貌，无貌不敬，不敬无礼，无礼不立。夫远而有光者，饰也；近而逾明者，学也。譬如洿邪，水潦灟焉，莞蒲生焉，从上观之，谁知其非源泉也。</p>
+<p>　　珠者，阴之阳也，故胜火；玉者，阳之阴也，故胜水；其化如神，故天子藏珠玉，诸侯藏金石，大夫畜犬马，百姓藏布帛。不然，则强者能守之，知者能秉之，贱其所贵，而贵其所贱；不然，矜寡孤独不得焉。</p>
+<p>　　子贡曰："君子见大川必观，何也？"孔子曰："夫水者，君子比德焉：偏与之而无私，似德；所及者生，所不及者死，似仁；其流行庳下，倨句皆循其理，似义；其赴百仞之谿不疑，似勇；浅者流行，深渊不测，似智；弱约危通，似察；受恶不让，似贞；苞裹不清以入，鲜洁以出，似善化；必出，量必平，似正；盈不求概，似厉；折必以东西，似意，是以见大川必观焉。"</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19025.aspx">上一章</a>
+<a href="/guwen/book_235.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19027.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

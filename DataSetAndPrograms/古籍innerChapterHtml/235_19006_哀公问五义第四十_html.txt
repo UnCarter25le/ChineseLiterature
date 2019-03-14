@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+大戴礼记·哀公问五义第四十_古诗文网
+</title>
+<meta content="鲁哀公问于孔子曰：“吾欲论吾国之士，与之为政，何如者取之？”孔子对曰：“生乎今之世，志古之道；居今之俗，服古之服。舍此而为非者，不亦鲜乎？”哀公曰：“然则今夫章甫、句屦、绅带而搢笏" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19006.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>哀公问五义第四十</b></span>
+<a href="javascript:PlayBookv(19006)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19006" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19006" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%88%b4%e5%be%b7">戴德</a></p>
+<div class="contson">
+<p>　　鲁哀公问于孔子曰：“吾欲论吾国之士，与之为政，何如者取之？”孔子对曰：“生乎今之世，志古之道；居今之俗，服古之服。舍此而为非者，不亦鲜乎？”哀公曰：“然则今夫章甫、句屦、绅带而搢笏者，此皆贤乎？”孔子曰：“否，不必然。今夫端衣、玄裳、冕而乘路者，志不在于食荤；斩衰、简屦、杖而歠粥者，志不在于饮食。故生乎今之世，志古之道；居今之俗，服古之服；舍此而为非者，虽有，不亦鲜乎？” </p>
+<p>　　哀公曰：“善！何如则可谓庸人矣？”孔子对曰：“所谓庸人者，口不能道善言，而志不邑邑；不能选贤人善士而托身焉，以为己忧。动行不知所务，止立不知所定；日选于物，不知所贵；从物而流，不知所归，五凿为政，心从而坏；若此，则可谓庸人矣。” </p>
+<p>　　哀公曰：“善！何如则可谓士矣？”孔子对曰：“所谓士者，虽不能尽道术，必有所由焉；虽不能尽善尽美，必有所处焉。是故知不务多，而务审其所知；行不务多，而务审其所由；言不务多，而务审其所谓；知既知之，行既由之，言既顺之，若夫性命肌肤之不可易也，富贵不足以益，贫贱不足以损。若此，则可谓士矣。” </p>
+<p>　　哀公曰：“善！何如则可谓君子矣？”孔子对曰：“所谓君子者，躬行忠信，其心不买；仁义在己，而不害不志；闻志广博，而色不伐；思虑明达，而辞不争；君子犹然如将可及也，而不可及也。如此，可谓君子矣。” </p>
+<p>　　哀公曰：“善！敢问：何如可谓贤人矣？”孔子对曰：“所谓贤人者，好恶与民同情，取舍与民同统；行中矩绳，而不伤于本；言足法于天下，而不害于其身；躬为匹夫而愿富贵，为诸侯而无财。如此，则可谓贤人矣。” </p>
+<p>　　哀公曰：“善！敢问：何如可谓圣人矣？”孔子对曰：“所谓圣人者，知通乎大道，应变而不穷，能测万物之情性者也。大道者，所以变化而凝成万物者也。情性也者，所以理然、不然、取、舍者也。故其事大，配乎天地，参乎日月，杂于云蜺，总要万物，穆穆纯纯，其莫之能循；若天之司，莫之能职；百姓淡然，不知其善。若此，则可谓圣人矣。” </p>
+<p>　　哀公曰：“善！”孔子出，哀公送之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19005.aspx">上一章</a>
+<a href="/guwen/book_235.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19007.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

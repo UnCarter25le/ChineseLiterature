@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+韩非子·问辩_古诗文网
+</title>
+<meta content="或问曰：“辩安生乎？”对曰：“生于上之不明也。”问者曰：“上之不明因生辩也，何哉？”对曰：“明主之国，令者，言最贵者也；法者，事最适者也。言无二贵，法不两适，故言行而不轨于法令者必" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3534.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2141" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>问辩</b></span>
+<a href="javascript:PlayBookv(3534)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3534" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2141)" id="leftbtn2141" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3534" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%9f%a9%e9%9d%9e">韩非</a></p>
+<div class="contson">
+<p>　　或问曰：“辩安生乎？”</p>
+<p>　　对曰：“生于上之不明也。”</p>
+<p>　　问者曰：“上之不明因生辩也，何哉？”</p>
+<p>　　对曰：“明主之国，令者，言最贵者也；法者，事最适者也。言无二贵，法不两适，故言行而不轨于法令者必禁。若其无法令而可以接诈、应变、生利、揣事者，上必采其言而责其实。言当，则有大利；不当，则有重罪。是以愚者畏罪而不敢言，智者无以讼。此所以无辩之故也。乱世则不然：主有令，而民以文学非之；官府有法，民以私行矫之。人主顾渐其法令而尊学者之智行，此世之所以多文学也。夫言行者，以功用为之的彀者也。夫砥砺杀矢而以妄发，其端未尝不中秋毫也，然而不可谓善射者，无常仪的也。设五寸之的，引十步之远，非羿、逢蒙不能必中者，有常仪的也。故有常，则羿、逢蒙以五寸的为巧；无常，则以妄发之中秋毫为拙。今听言观行，不以功用为之的彀，言虽至察，行虽至坚，则妄发之说也。是以乱世之听言也，以难知为察，以博文为辩；其观行也，以离群为贤，以犯上为抗。人主者说辩察之言，尊贤抗之行，故夫作法术之人，立取舍之行，别辞争之论，而莫为之正。是以儒服、带剑者众，而耕战之士寡；坚白、无厚之词章，而宪令之法息。故曰：上不明，则辩生焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3533.aspx">上一章</a>
+<a href="/guwen/book_31.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3535.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2141" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

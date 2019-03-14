@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+容斋随笔·卷八·谈丛失实_古诗文网
+</title>
+<meta content="后山陈无己著《谈丛》六卷，高简有笔力，然所载国朝事，失于不考究，多爽其实，漫析数端于此。其一云：“吕许公恶韩、富、范三公，欲废之而不能，及西军罢，尽用三公及宋莒公、夏英公于二府，皆" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5686.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4193" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·谈丛失实</b></span>
+<a href="javascript:PlayBookv(5686)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5686" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4193)" id="leftbtn4193" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5686" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b4%aa%e8%bf%88">洪迈</a></p>
+<div class="contson">
+<p>　　后山陈无己著《谈丛》六卷，高简有笔力，然所载国朝事，失于不考究，多爽其实，漫析数端于此。</p>
+<p>　　其一云：“吕许公恶韩、富、范三公，欲废之而不能，及西军罢，尽用三公及宋莒公、夏英公于二府，皆其仇也。吕既老，大事犹问，遂请出大臣行三边，既建议，乃数出道者院宿，范公奉使陕西，宿此院，相见云云。”按吕公罢相，诏有同议大事之旨，公辞，乃庆历三年三月，至九月致仕矣。四年七月，富、范始奉使，又三公入二府时，莒公自在外，英公拜枢密使而中辍，后二年莒方复入，安有五人同时之事？</p>
+<p>　　其二云：“杜正献、丁文简为河东宣抚，任布之子上书历诋执政，至云至于臣父，亦出遭逢，谓其非德选也。杜戏丁曰：‘贤郎亦要牢笼。’丁深衔之。其后二公同在政府，苏子美进奏事作，杜避嫌不预，丁论以深文，子美坐废为民，杜亦罢去。一言之谑，贻祸如此。”按杜公以执政使河东时，丁以学士为副。庆历四年十一月进奏狱起，杜在相位，五年正月罢，至五月，丁公方从翰林参知政事，安有深文论子美之说？且杜公重厚，当无以人父子为谑之理，丁公长者也，肯追仇一言陷贤士大夫哉？</p>
+<p>　　其三云：“张乖崖自成都召为参知政事，既至而脑疽作，求补外，乃知杭州而疾愈。上使中人往伺之，言且将召也。丁晋公以白金赂使者，还言如故，乃不召。”按张两知成都，其初还朝为户部使、中丞，始知杭州。是时，丁方在侍从；其后自蜀知癉州，丁为三司使，岂有如前所书之事？</p>
+<p>　　其四云：“乖崖在陈，闻晋公逐莱公，知祸必及己，乃延三大户与之博，出彩骰子胜其一坐，乃买田宅为归计以自污，晋公闻之，亦不害也。”按张公以祥符六年知陈州，八年卒，后五年当天禧四年，寇公方罢相，旋坐贬，岂有所谓乖崖自污之事？</p>
+<p>　　兹四者所系不细，乃诞漫如此。盖前辈不家藏国史，好事者肆意饰说为美听，疑若可信，故误人纪述。后山之书，必传于后世，惧诒千载之惑，予是以辨之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5685.aspx">上一章</a>
+<a href="/guwen/book_72.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5687.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4193" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

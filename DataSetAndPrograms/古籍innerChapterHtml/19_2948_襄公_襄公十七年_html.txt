@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·襄公·襄公十七年_古诗文网
+</title>
+<meta content="【经】十有七年春王二月庚午，邾子卒。宋人伐陈。夏，卫石买帅师伐曹。秋，齐侯伐我北鄙，围桃。高厚帅师伐我北鄙，围防。九月，大雩。宋华臣出奔陈。冬，邾人伐我南鄙。 【传】十七年春，宋庄" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2948.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1478" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>襄公·襄公十七年</b></span>
+<a href="javascript:PlayBookv(2948)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2948" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1478)" id="leftbtn1478" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2948" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】十有七年春王二月庚午，邾子卒。宋人伐陈。夏，卫石买帅师伐曹。秋，齐侯伐我北鄙，围桃。高厚帅师伐我北鄙，围防。九月，大雩。宋华臣出奔陈。冬，邾人伐我南鄙。 </p>
+<p>　　【传】十七年春，宋庄朝伐陈，获司徒卬，卑宋也。 </p>
+<p>　　卫孙蒯田于曹隧，饮马于重丘，毁其瓶。重丘人闭门而呴之，曰：「亲逐而君，尔父为厉。是之不忧，而何以田为？」 </p>
+<p>　　夏，卫石买、孙蒯伐曹，取重丘。曹人愬于晋。 </p>
+<p>　　齐人以其未得志于我故，秋，齐侯伐我北鄙，围桃。高厚围臧纥于防。师自阳关逆臧孙，至于旅松。郰叔纥、臧畴、臧贾帅甲三百，宵犯齐师，送之而复。齐师去之。</p>
+<p>　　齐人获臧坚。齐侯使夙沙卫唁之，且曰：「无死！」坚稽首曰：「拜命之辱！抑君赐不终，姑又使其刑臣礼于士。」以杙抉其伤而死。 </p>
+<p>　　冬，邾人伐我南鄙，为齐故也。</p>
+<p>　　宋华阅卒。华臣弱皋比之室，使贼杀其宰华吴。贼六人以铍杀诸卢门合左师之后。左师惧曰：「老夫无罪。」贼曰：「皋比私有讨于吴。」遂幽其妻，曰：「畀余而大璧！」宋公闻之，曰：「臣也，不唯其宗室是暴，大乱宋国之政，必逐之！」左师曰：「臣也，亦卿也。大臣不顺，国之耻也。不如盖之。」乃舍之。左师为己短策，苟过华臣之门，必聘。 </p>
+<p>　　十一月甲午，国人逐□狗，□狗入于华臣氏，国人从之。华臣惧，遂奔陈。</p>
+<p>　　宋皇国父为大宰，为平公筑台，妨于农功。子罕请俟农功之毕，公弗许。筑者讴曰：「泽门之皙，实兴我役。邑中之黔，实尉我心。」子罕闻之，亲执扑，以行筑者，而抶其不勉者，曰：「吾侪小人，皆有阖庐以辟燥湿寒暑。今君为一台而不速成，何以为役？」讴者乃止。或问其故，子罕曰：「宋国区区，而且诅有祝，祸之本也。」 </p>
+<p>　　齐晏桓子卒。晏婴粗縗斩，苴絰、带、杖，菅屦，食鬻，居倚庐，寝苫，枕草。其老曰：「非大夫之礼也。」曰：「唯卿为大夫。」 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2947.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2949.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1478" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

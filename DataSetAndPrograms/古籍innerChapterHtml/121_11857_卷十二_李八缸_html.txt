@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十二·李八缸_古诗文网
+</title>
+<meta content="太学李月生，升宇翁之次子也。翁最富，以缸贮金，里人称之“八缸”。翁寝疾，呼子分金：兄八之，弟二之。月生觖望。翁曰：“我非偏有爱憎，藏有窖镪，必待无多人时，方以畀汝，勿急也。”过数日" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11857.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十二·李八缸</b></span>
+<a href="javascript:PlayBookv(11857)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11857" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11857" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　太学李月生，升宇翁之次子也。翁最富，以缸贮金，里人称之“八缸”。翁寝疾，呼子分金：兄八之，弟二之。月生觖望。翁曰：“我非偏有爱憎，藏有窖镪，必待无多人时，方以畀汝，勿急也。”过数日，翁益弥留。月生虑一旦不虞，觑无人就床头秘讯之，翁曰：“人生苦乐皆有定数。汝方享妻贤之福，故不宜再助多金，以增汝过。”盖月生妻车氏，最贤，有桓、孟之德，故云。月生固哀之，怒曰：“汝尚有二十余年坎壈未历，即予千金，亦立尽耳。苟不至山穷水尽时，勿望给与也！”月生孝友敦笃，亦即不敢复言。犹冀父复瘥，旦夕可以婉告。无何翁大渐，寻卒。幸兄贤，斋葬之谋，勿与校计。</p>
+<p>　　月生又天真烂漫，不较锱铢，且好客善饮，炊黍治具，日促妻三四作，不甚理家人生产。里中无赖窥其懦，辄鱼肉之。逾数年家渐落。窘急时，赖兄小周给，不至大困。无何兄以老病卒，益失所助，至绝粮食。春贷秋偿，田所出登场辄尽。乃割亩为活，业益消减。又数年妻及长子相继殂谢，无聊益甚。寻买贩羊者之妻徐，翼得其小阜；而徐性刚烈，日凌藉之，至不敢与亲朋通吊庆礼。忽一夜梦父曰：“今汝所遭，可谓山穷水尽矣。尝许汝窖金，今其可矣。”问：“何在？”曰：“明日畀汝。”醒而异之，犹谓是贫中之积想也。次日发土葺墉，掘得巨金，始悟向言“无多人”，乃死亡将半也。</p>
+<p>　　异史氏曰：“月生，余杵臼交，为人朴诚无伪。余兄弟与交，哀乐辄相共。数年来村隔十余里，老死竟不相闻。余偶过其居里，因亦不敢过问之。则月生之苦况，盖有不可明言者矣。忽闻暴得千金，不觉为之鼓舞。呜呼！翁临终之治命，昔习闻之，而不意其言皆谶也。抑何其神哉！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11856.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11858.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

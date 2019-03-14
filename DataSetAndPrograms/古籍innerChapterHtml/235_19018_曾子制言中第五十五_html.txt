@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+大戴礼记·曾子制言中第五十五_古诗文网
+</title>
+<meta content="曾子曰：“君子进则能达，退则能静。岂贵其能达哉？贵其有功也。岂贵其能静哉？贵其能守也。夫唯进之何功？退之何守？是故君子进退，有二观焉。故君子进则能益上之誉，而损下之忧；不得志，不安" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19018.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>曾子制言中第五十五</b></span>
+<a href="javascript:PlayBookv(19018)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19018" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19018" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%88%b4%e5%be%b7">戴德</a></p>
+<div class="contson">
+<p>　　曾子曰：“君子进则能达，退则能静。岂贵其能达哉？贵其有功也。岂贵其能静哉？贵其能守也。夫唯进之何功？退之何守？是故君子进退，有二观焉。故君子进则能益上之誉，而损下之忧；不得志，不安贵位，不怀厚禄，负耜而行道，冻饿而守仁，则君子之义也，有知之，则愿也；莫之知，苟无自知也。 </p>
+<p>　　吾不仁其人，虽独也，吾弗亲也；故君子不假贵而取宠，不比誉而取食。直行而取礼，比说而取友；有说我则愿也；莫我说，苟吾自说也。 </p>
+<p>　　故君子无悒悒于贫，无勿勿于贱，无惮惮于不闻；布衣不完，疏食不饱，蓬户穴牖，日孜孜，上仁；知我，吾无欣欣，不知我，吾无悒悒。 </p>
+<p>　　是以君子直言直行，不宛言而取富，不屈行而取位；仁之见逐，智之见杀，固不难；诎身而为不仁，宛言而为不智，则君子弗为也。君子虽言不受，必忠，曰道；虽行不受，必忠，曰仁；虽谏不受，必忠，曰智。天下无道，循道而行，衡涂而偾，手足不揜，四支不被，此则非士之罪也，有士者之羞也。 </p>
+<p>　　是故君子以仁为尊；天下之为富，何为富？则仁为富也；天下之为贵，何为贵？则仁为贵也。昔者，舜匹夫也，土地之厚，则得而有之，人徒之众，则得而使之，舜唯以仁得之也；是故君子将说富贵，必勉于仁也。昔者，伯夷、叔齐，仁者也，死于沟浍之间，其仁成名于天下；夫二子者，居河济之间，非有土地之厚、货粟之富也，言为文章、行为表缀于天下。是故君子思仁义，昼则忘食，夜则忘寐，日旦就业，夕而自省，以殁其身，亦可谓守业矣。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19017.aspx">上一章</a>
+<a href="/guwen/book_235.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19019.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

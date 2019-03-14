@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·哀吊_古诗文网
+</title>
+<meta content="赋宪之谥，短折曰哀。哀者，依也。悲实依心，故曰哀也。以辞遣哀，盖下流之悼，故不在黄发，必施夭昏。昔三良殉秦，百夫莫赎，事均夭枉，《黄鸟》赋哀，抑亦诗人之哀辞乎？暨汉武封禅，而霍嬗暴" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4028.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2622" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>哀吊</b></span>
+<a href="javascript:PlayBookv(4028)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4028" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2622)" id="leftbtn2622" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4028" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　赋宪之谥，短折曰哀。哀者，依也。悲实依心，故曰哀也。以辞遣哀，盖下流之悼，故不在黄发，必施夭昏。昔三良殉秦，百夫莫赎，事均夭枉，《黄鸟》赋哀，抑亦诗人之哀辞乎？</p>
+<p>　　暨汉武封禅，而霍嬗暴亡，帝伤而作诗，亦哀辞之类矣。降及后汉，汝阳主亡，崔瑗哀辞，始变前式。然履突鬼门，怪而不辞；驾龙乘云，仙而不哀；又卒章五言，颇似歌谣，亦仿佛乎汉武也。至于苏顺、张升，并述哀文，虽发其情华，而未极其心实。建安哀辞，惟伟长差善，《行女》一篇，时有恻怛。及潘岳继作，实锺其美。观其虑赡辞变，情洞悲苦，叙事如传，结言摹诗，促节四言，鲜有缓句；故能义直而文婉，体旧而趣新，《金鹿》、《泽兰》，莫之或继也。</p>
+<p>　　原夫哀辞大体，情主于痛伤，而辞穷乎爱惜。幼未成德，故誉止于察惠；弱不胜务，故悼加乎肤色。隐心而结文则事惬，观文而属心则体奢。奢体为辞，则虽丽不哀；必使情往会悲，文来引泣，乃其贵耳。</p>
+<p>　　吊者，至也。诗云“神之吊矣”，言神至也。君子令终定谥，事极理哀，故宾之慰主，以至到为言也。压溺乖道，所以不吊矣。又宋水郑火，行人奉辞，国灾民亡，故同吊也。及晋筑虒台，齐袭燕城，史赵苏秦，翻贺为吊，虐民构敌，亦亡之道。凡斯之例，吊之所设也。或骄贵以殒身，或狷忿以乖道，或有志而无时，或美才而兼累，追而慰之，并名为吊。</p>
+<p>　　自贾谊浮湘，发愤吊屈。体同而事核，辞清而理哀，盖首出之作也。及相如之吊二世，全为赋体；桓谭以为其言恻怆，读者叹息。及卒章要切，断而能悲也。扬雄吊屈，思积功寡，意深反骚，故辞韵沈膇。班彪、蔡邕，并敏于致诘。然影附贾氏，难为并驱耳。胡阮之吊夷齐，褒而无间，仲宣所制，讥呵实工。然则胡阮嘉其清，王子伤其隘，各其志也。祢衡之吊平子，缛丽而轻清；陆机之吊魏武，序巧而文繁。降斯以下，未有可称者矣。</p>
+<p>　　夫吊虽古义，而华辞末造；华过韵缓，则化而为赋。固宜正义以绳理，昭德而塞违，剖析褒贬，哀而有正，则无夺伦矣！</p>
+<p>　　赞曰∶</p>
+<p>　　辞之所哀，在彼弱弄。苗而不秀，自古斯恸。</p>
+<p>　　虽有通才，迷方失控。千载可伤，寓言以送。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4027.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4029.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2622" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+农桑辑要·禽鱼·养鸡_古诗文网
+</title>
+<meta content="《齐民要术》：鸡种，取桑落时生者良。形小、浅毛、脚细短者是也；守窠少声，善育雏子。春夏生者则不佳。形大，毛羽悦泽，脚粗长者是；游荡饶声，产乳易厌。既不守窠，则无缘蕃息也。鸡，春夏雏" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6551.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5580" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>禽鱼·养鸡</b></span>
+<a href="javascript:PlayBookv(6551)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6551" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5580)" id="leftbtn5580" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6551" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　《齐民要术》：鸡种，取桑落时生者良。形小、浅毛、脚细短者是也；守窠少声，善育雏子。春夏生者则不佳。形大，毛羽悦泽，脚粗长者是；游荡饶声，产乳易厌。既不守窠，则无缘蕃息也。鸡，春夏雏，二十日内无令出窠，饲以燥饭。出窠早，不免乌鸱；与湿饭，则令脐脓也。</p>
+<p>　　鸡棲，宜据地为笼，笼内著栈。虽鸣声不朗，而安稳易肥，又免狐狸之患。若任之树木，一遇风寒，大者损瘦，小者或死。</p>
+<p>　　燃柳柴，杀鸡雏，小者死，大者盲。此亦“烧黍穰杀瓠”之流，其理难悉。</p>
+<p>　　《家政法》曰：养鸡法：二月，先耕一亩作田，秫粥洒之，刈生茅覆上，自生白虫。便买黄雌鸡十只，雄一只，于地上作屋，方广丈五，于屋下悬箦，令鸡宿上。夏月盛昼，鸡当还屋下息。并于园中筑作小屋，覆鸡得养子，乌不得就。</p>
+<p>　　养鸡令速肥，不爬屋、不暴园、不畏乌、鸱、狐狸法：别筑墙匡，开小门，作小厂，令鸡以避雨日。雌雄皆斩去六翮，无令得飞出。常多收秕、稗、胡豆之类以养之，亦作小槽以贮水。荆藩为棲，去地一尺，数扫去屎。凿墙为窠，亦去地一尺。惟冬天著草，不茹则子冻；春夏秋三时则不须，直置土上，任其产伏，留草则蛆虫生。雏出，则著外，以罩笼之。如鹌鹑大还内墙匡中。其供食者，又别作墙匡，蒸小麦饲之，三七日便肥大矣。</p>
+<p>　　取谷产鸡子，供常食法：别取雌鸡，勿令与雄相杂。其墙匡、斩翅、荆棲、土窠，一如前。惟多与谷，令竞冬肥盛，自然谷产矣。一鸡生百余卵，不雏，并食之无咎。</p>
+<p>　　黑鸡白头，食之病人。有六指者，杀人。</p>
+<p>　　《养生论》曰：鸡肉不可令小儿食，食之生蚘虫，又令体消瘦。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6550.aspx">上一章</a>
+<a href="/guwen/book_79.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6552.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5580" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

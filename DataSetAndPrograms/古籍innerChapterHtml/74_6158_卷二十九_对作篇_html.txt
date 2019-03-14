@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+论衡·卷二十九·对作篇_古诗文网
+</title>
+<meta content="或问曰：“贤圣之空生，必有以用其心。上自孔、墨之党，下至苟、孟之徒，教训必作垂文。何也？”对曰：圣人作经，艺者传记，匡济薄俗，驱民使之归实诚也。案六略之书，万三千篇，增善消恶，割截" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6158.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4855" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二十九·对作篇</b></span>
+<a href="javascript:PlayBookv(6158)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6158" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4855)" id="leftbtn4855" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6158" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e5%85%85">王充</a></p>
+<div class="contson">
+<p>　　或问曰：“贤圣之空生，必有以用其心。上自孔、墨之党，下至苟、孟之徒，教训必作垂文。何也？”</p>
+<p>　　对曰：圣人作经，艺者传记，匡济薄俗，驱民使之归实诚也。案六略之书，万三千篇，增善消恶，割截横拓，驱役游慢，期便道善，归政道焉。孔子作《春秋》，周民弊也。故采求毫毛之善，贬纤介之恶，拨乱世，反诸正，人道浃，王道备，所以检押靡薄之俗者，悉具密致。夫防决不备，有水溢之害；网解不结，有兽失之患。是故周道不弊，则民不文薄；民不文薄，《春秋》不作。杨、墨之学不乱〔儒〕义，则孟子之传不造；韩国不小弱，法度不坏废，则韩非之书不为；高祖不辨得天下，马上之计未转，则陆贾之语不奏；众事不失实，凡论不坏乱，则桓谭之论不起。故夫贤圣之兴文也，起事不空为，因因不妄作。作有益於化，化有补於正。故汉立兰台之官，校审其书，以考其言。董仲舒作道术之书，颇言灾异政治所失，书成文具，表在汉室。主父偃嫉之，诬奏其书。天子下仲舒於吏，当谓之下愚。仲舒当死，天子赦之。夫仲舒言灾异之事，孝武犹不罪而尊其身，况所论无触忌之言，核道实之事，收故实之语乎！故夫贤人之在世也，进则尽忠宣化，以明朝廷；退则称论贬说，以觉失俗。俗也不知还，则立道轻为非；论者不追救，则迷乱不觉悟。</p>
+<p>　　是故《论衡》之造也，起众书并失实，虚妄之言胜真美也。故虚妄之语不黜，则华文不见息；华文放流，则实事不见用。故《论衡》者，所以铨轻重之言，立真伪之平，非苟调文饰辞，为奇伟之观也。其本皆起人间有非，故尽思极心，以〔讥〕世俗。世俗之性，好奇怪之语，说虚妄之文。何则？实事不能快意，而华虚惊耳动心也。是故才能之士，好谈论者，增益实事，为美盛之语；用笔墨者，造生空文，为虚妄之传。听者以为真然，说而不舍；览者以为实事，传而不绝。不绝，则文载竹帛之上；不舍，则误入贤者之耳。至或南面称师，赋奸伪之说；典城佩紫，读虚妄之书。明辨然否，疾心伤之，安能不论？孟子伤杨、墨之议大夺儒家之论，引平直之说，褒是抑非，世人以为好辩。孟子曰：“予岂好辩哉？予不得已！”今吾不得已也！虚妄显於真，实诚乱於伪，世人不悟，是非不定，紫失杂厕，瓦玉集糅，以情言之，岂吾心所能忍哉！卫骖乘者越职而呼车，恻怛发心，恐〔上〕之危也。夫论说者闵世忧俗，与卫骖乘者同一心矣。愁精神而幽魂魄。动胸中之静气，贼年损寿，无益於性，祸重於颜回，违负黄、老之教，非人所贪，不得已，故为《论衡》。文露而旨直，辞奸而情实。其《政务》言治民之道。《论衡》诸篇，实俗间之凡人所能见，与彼作者无以异也。若夫九《虚》、三《增》、《论死》、《订鬼》，世俗所久惑，人所不能觉也。人君遭弊，改教於上；人臣愚惑，作论於下。〔下〕实得，则上教从矣。冀悟迷惑之心，使知虚实之分。实虚之分定，而华伪之文灭。华伪之文灭，则纯诚之化日以孽矣。</p>
+<p>　　或曰：“圣人作，贤者述。以贤而作者，非也。《论衡》、《政务》，可谓作者。”曰：〔非〕作也，亦非述也，论也。论者，述之次也。《五经》之兴，可谓作矣。太史公《书》、刘子政《序》、班叔皮《传》，可谓述矣。桓君山《新论》、邹伯奇《检论》，可谓论矣。今观《论衡》、《政务》，桓、邹之二论也，非所谓作也。造端更为，前始未有，若仓颉作书，奚仲作车是也。《易》言伏羲作八卦，前是未有八卦，伏羲造之，故曰作也。文王图八，自演为六十四，故曰衍。谓《论衡》之成，犹六十四卦，而又非也。六十四卦以状衍增益，其卦溢，其数多。今《论衡》就世俗之书，订其真伪，辩其实虚，非造始更为，无本於前也。儒生就先师之说，诘而难之；文吏就狱之事，覆而考之，谓《论衡》为作，儒生、文吏谓作乎？</p>
+<p>　　上书奏记，陈列便宜，皆欲辅政。今作书者，犹〔上〕书奏记，说发胸臆，文成手中，其实一也。夫上书谓之奏记，转易其名谓之书。建初孟年，中州颇歉，颍川、汝南民流四散，圣主忧怀，诏书数至。《论衡》之人，奏记郡守，宜禁奢侈，以备困乏。言不纳用，退题记草，名曰《备乏》。酒縻五谷，生起盗贼，沉湎饮酒，盗贼不绝，奏记郡守，禁民酒。退题记草，名曰《禁酒》。由此言之，夫作书者，上书奏记之文也。记谓之造作上书，上书奏记是作也？</p>
+<p>　　晋之乘，而楚之檮杌，鲁之春秋，人事各不同也。《易》之乾坤，《春秋》之“元”，杨氏之“玄”，卜气号不均也。由此言之，唐林之奏，谷永之章，《论衡》、《政务》，同一趋也。汉家极笔墨之林，书论之造，汉家尤多。阳成子张作“乐”，扬子云造“玄”，二经发於台下，读於阙掖，卓绝惊耳，不述而作，材疑圣人，而汉朝不讥。况《论衡》细说微论，解释世俗之疑，辩照是非之理，使後进晓见然否之分，恐其废失，著之简牍，祖经章句之说，先师奇说之类也。其言伸绳，弹割俗传。俗传蔽惑，伪书放流，贤通之人，疾之无已。孔子曰：“诗人疾之不能默，丘疾之不能伏。”是以论也。玉乱於石，人不能别。或若楚之王尹以玉为石，卒使卞和受刖足之诛。是反为非，虚转为实，安能不言？俗传既过，俗书之伪。若夫邹衍谓今天下为一州，四海之外有若天下者九州。《淮南书》言共工与颛顼争为天子，不胜，怒而触不周之山，使天柱折，地维绝。尧时十日并出，尧上射九日；鲁阳战而日暮，援戈麾日，日为却还。世间书传，多若等类，浮妄虚伪，没夺正是。心渍涌，笔手扰，安能不论？论则考之以心，效之以事，浮虚之事，辄立证验。若太史公之书，据许由不隐，燕太子丹不使日再中。读见之者，莫不称善。</p>
+<p>　　《政务》为郡国守相、县邑令长陈通政事所当尚务，欲令全民立化，奉称国恩。《论衡》九《虚》三《增》，所以使浴务实诚也；《论死》、《订鬼》，所以使浴薄丧葬也。孔子径庭丽级，被棺敛者不省。刘子政上薄葬，奉送藏者不约。光武皇帝草车茅马，为明器者不奸。何世书俗言不载？信死之语汶浊之也。今著《论死》及《死伪》之篇，明死无知，不能为鬼，冀观览者将一晓解约葬，更为节俭。斯盖《论衡》有益之验也。言苟有益，虽作何害？仓颉之书，世以纪事；奚仲之车，世以自载；伯余之衣，以辟寒暑；桀之瓦屋，以辟风雨。夫不论其利害，而徒讥其造作，是则仓颉之徒有非，《世本》十五家皆受责也。故夫有益也，虽作无害也。虽无害，何补？</p>
+<p>　　古有命使采爵，欲观风俗知下情也。《诗》作民间，圣王可云“汝民也，何发作”，囚罪其身，殁灭其诗乎？今已不然，故《诗》传〔至〕今。《论衡》、《政务》，其犹《诗》也，冀望见采，而云有过。斯盖《论衡》之书所以兴也。且凡造作之过，意其言妄而谤诽也。《论衡》实事疾妄，《齐世》、《宣汉》、《恢国》、《验符》、《盛褒》、《须颂》之言，无诽谤之辞。造作如此，可以免於罪矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6157.aspx">上一章</a>
+<a href="/guwen/book_74.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6159.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4855" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

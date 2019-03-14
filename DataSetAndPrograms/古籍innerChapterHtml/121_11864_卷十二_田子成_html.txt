@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十二·田子成_古诗文网
+</title>
+<meta content="江宁田子成，过洞庭舟覆而没。子良耜，明季进士，时在抱中。妻杜氏闻讣，仰药而死。良耜受庶祖母抚养成立，筮仕湖北。年余，奉宪命营务湖南，至洞庭痛哭而返。自告才力不及，降县丞，隶汉阳，辞" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11864.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十二·田子成</b></span>
+<a href="javascript:PlayBookv(11864)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11864" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11864" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　江宁田子成，过洞庭舟覆而没。子良耜，明季进士，时在抱中。妻杜氏闻讣，仰药而死。良耜受庶祖母抚养成立，筮仕湖北。年余，奉宪命营务湖南，至洞庭痛哭而返。自告才力不及，降县丞，隶汉阳，辞不就。院司强督促之乃就。辄放荡江湖间，不以官职自守。</p>
+<p>　　一夕舣舟江岸，闻洞箫声，抑扬可听。乘月步去，约半里许，见旷野中茅屋数椽，荧荧灯火。近窗窥之，有三人对酌其中，上座一秀才年三十许；下座一叟；侧座吹箫者年最少。吹竟，叟击节赞佳。秀才面壁吟思，若罔闻。叟曰：“卢十兄必有佳作，请长吟，俾得共赏之。”秀才乃吟曰：“满江风月冷凄凄，瘦草零花化作泥。千里云山飞不到，梦魂夜夜竹桥西。”吟声怆恻。叟笑曰：“卢十兄故态作矣！”因酌以巨觥，曰：“老夫不能属和，请歌以侑酒。”乃歌“兰陵美酒”之什。歌已，一座解颐。</p>
+<p>　　少年起曰：“我视月斜何度矣。”突出见客，拍手曰：“窗外有人，我等狂态尽露也！”遂挽客入，共一举手。叟使与少年相对坐。试其杯皆冷酒，辞不饮。少年知其意，即起，以苇炬燎壶而进之。良耜亦命从者出钱行沽，叟固止之。因讯邦族，良耜具道生平。叟致敬曰：“吾乡父母也。少君姓江，此间土著。”指少年曰：“此江西杜野侯。”又指秀才：“此卢十兄，与公同乡。”卢自见良耜，殊偃蹇不甚为礼。良耜因问：“家居何里？如此清才，殊早不闻。”答曰：“流寓已久，亲族恒不相识，可叹人也！”言之哀楚。叟摇手乱之曰：“好客相逢，不理觞政，聒絮如此，厌人听闻！”遂把杯自饮，曰：“一令请共行之，不能者罚。每掷三色，以相逢为率，须一古典相合。”乃掷得幺二三，唱曰：“三加幺二点相同，鸡黍三年约范公：朋友喜相逢。”次少年，掷得双二单四，曰：“不读书人，但见俚典，勿以为笑。四加双二点相同，四人聚义古城中：兄弟喜相逢。”卢得双幺单二，曰：“二加双幺点相同，吕向两手抱老翁：父子喜相逢。”良耜掷，复与卢同，曰：“二加双幺点相同，茅容二簋款林宗：主客喜相逢。”</p>
+<p>　　令毕，良耜兴辞。卢始起，曰：“故乡之谊，未遑倾吐，何别之遽？将有所问，愿少留也。”良耜复坐，问：“何言？”曰：“仆有老友某，没于洞庭，与君同族否？”良耜曰：“是先君也，何以相识？”曰：“少时相善。没日惟仆见之，因收其骨，葬江边耳。”良耜出涕下拜，求指墓所。卢曰：“明日来此，当指示之。要亦易辨，去此数武，但见坟上有丛芦十茎者是也。”良耜洒涕，与众拱别。</p>
+<p>　　至舟终夜不寝，念卢情词似皆有因。不能待旦，昧爽而往，则舍宇全无，益骇。因遵所指处寻墓，果得之。丛芦其上，数之，适符其数。恍然悟卢十兄之称，皆其寓言；所遇乃其父之鬼也。细问土人，则二十年前，有高翁富而好善，溺水者皆拯其尸而埋之，故有数坟在焉。遂发冢负骨，弃官而返。归告祖母，质其状貌皆确。江西杜野侯，乃其表兄，年十九，溺于江；后其父流寓江西。又悟杜夫人殁后，葬竹桥之西，故诗中忆之也。但不知叟何人耳。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11863.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11865.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

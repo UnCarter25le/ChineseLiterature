@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·五藏生成_古诗文网
+</title>
+<meta content="心之和、脉也，其荣、色也，其主肾也。肺之合、皮也，其荣、毛也，其主心也。肝之合、筋也，其荣、爪也，其主肺也。脾之合、肉也，其荣、唇也，其主肝也。肾之合、骨也，其荣、发也，其主脾也。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_973.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left791" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·五藏生成</b></span>
+<a href="javascript:PlayBookv(973)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv973" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(791)" id="leftbtn791" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay973" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　心之和、脉也，其荣、色也，其主肾也。肺之合、皮也，其荣、毛也，其主心也。肝之合、筋也，其荣、爪也，其主肺也。脾之合、肉也，其荣、唇也，其主肝也。肾之合、骨也，其荣、发也，其主脾也。</p>
+<p>　　是故多食咸，则脉凝泣而变色；多食苦，则皮槁而毛拔；多食辛，则筋急而爪枯；多食酸，则肉胝(月芻)(zhu四声)而唇揭；多食甘，则骨痛而发落。此五味之所伤也。故心欲苦，肺欲辛，肝欲酸，脾欲甘，肾欲咸。此五味之所合也。</p>
+<p>　　五藏之气：故色见青如草兹者死，黄如枳实者死，黑如台者死，赤如血者死，白如枯骨者死，此五色之见死也；青如翠羽者生，赤如鸡冠者生，黄如蟹腹者生，白如豕膏者生，黑如乌羽者生，此五色之见生也。生于心，如以稿裹朱；生于肺，如以缟裹红；生于肝，如以缟裹甘；生于脾，如以缟裹栝楼实；生于肾，如以缟裹紫。此五藏所生之外荣也。</p>
+<p>　　色味当五藏：白当肺、辛，赤当心、苦，青当肝、酸，黄当脾、甘，黑当肾、咸。故白当皮，赤当脉，青当筋，黄当肉，黑当骨。</p>
+<p>　　诸脉者，皆属于目；诸髓者，皆属于脑，诸筋者，皆属于节；诸血者，皆属于心；诸气者，皆属于肺。此四支八溪之朝夕也。故人卧血归于肝，肝受血而能视，足受血而能步，掌受血而能握，指受血而能摄。卧出而风吹之，血凝于肤者为痹，凝于脉者为泣，凝于足者为厥，此三者，血行而不得反其空，故为痹厥也。人有大谷十二分，小溪三百五十四名，少十二俞，此皆卫气之所留止，邪气之所客也，针石缘而去之。</p>
+<p>　　诊病之始，五决为纪，欲知其始，先建其母。所谓五决者，五脉也。</p>
+<p>　　是以头痛巅,疾，下虚上实，过在足少阴、巨阳，甚则入肾。徇蒙招尤，目冥耳聋，下实上虚，过在足少阳、厥阳，甚则入肝，腹满月真 胀，支鬲月去 胁，下厥上冒，过在足太阴、阳明。咳嗽上气，厥在胸中，过在手阳明、太阴。心烦头痛，病在鬲中，过在手巨阳、少阴。</p>
+<p>　　夫脉之小、大、滑、涩、浮、沉，可以指别；五藏之象，可以类推；五藏相音可以意识；五色微诊，可以目察。能合脉色，可以万全。</p>
+<p>　　赤脉之至也，喘而坚，诊曰有积气在中，时害于食，名曰心痹，得之外疾，思虑而心虚，故邪从之。白脉之至也喘而浮，上虚下实，惊，有积气在胸中，喘而虚，名曰肺痹，寒热，得之醉而使内也。青脉之至也长而左右弹，有积气在心下支月去，名曰肝痹，得之寒湿，与疝同法，腰痛，足清，头痛。黄脉之至也，大而虚，有积气在腹中，有厥气，名曰厥疝，女子同法，得之疾使四支汗出当风。黑脉之至也上坚而大，有积气在小腹与阴，名曰肾痹，得之沐浴清水而卧。</p>
+<p>　　凡相五色之奇脉，面黄目青，面黄目赤，面黄目白，面黄目黑者，皆不死也。面青目赤，面赤目白，面青目黑，面黑目白，面赤目青，皆死也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_972.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_974.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right791" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,111 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+汉官六种·漢儀一卷_古诗文网
+</title>
+<meta content="孫星衍敘錄丁孚漢儀，隋志不載。唐志：丁孚漢官儀式選用一卷。與蔡質書同名，不知實本一書，或後人誤合為一。今錄成一卷，題曰「吳太史令」者，見三國志薛綜傳。 漢儀一卷吳太史令丁孚撰清孫星" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19067.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>漢儀一卷</b></span>
+<a href="javascript:PlayBookv(19067)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19067" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19067" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%98%9f%e8%a1%8d">孙星衍</a></p>
+<div class="contson">
+<p>　　孫星衍敘錄丁孚漢儀，隋志不載。唐志：丁孚漢官儀式選用一卷。與蔡質書同名，不知實本一書，或後人誤合為一。今錄成一卷，題曰「吳太史令」者，見三國志薛綜傳。 </p>
+<p>　　漢儀一卷吳太史令丁孚撰清孫星衍校集太僕丞，六百石。續漢志補注內謁者令，秩千石。漢書宣帝紀注 </p>
+<p>　　中宮藏府令，秩千石，儀比御府令。續漢志補注 </p>
+<p>　　給事中宮侍郎六人，比尚書郎，宦者為之。給事黃門四人，比黃門侍郎。給事羽林郎一人，比羽林將虎賁官騎下。續漢志補注 </p>
+<p>　　太僕、太中大夫襄言：「乘輿綬，黃地冒白羽，青絳綠五采，四百首，長二丈三尺。詔所下王綬，冒亦五采，上下無差。諸王綬四采，絳地冒白羽，青黃去綠，〔一〕二百六十首，長二丈二尺。〔二〕公主綬如王。侯，絳地，紺縹三采，百二十首，長丈八尺。二十石綬，羽青地，桃華縹三采，百二十首，長丈八尺。黑綬，羽青地，絳二采，八十首，長一丈七尺。黃綬一采，八十首，長丈七尺。以為常式。民織綬不如式，沒入官，犯者為不敬。二千石綬以上，禁民無得織以粉組。」皇太后詔可，王綬如所下。續漢志補注、通典職官〔三〕 </p>
+<p>　　拜諸侯王公儀太常住下，東向讀文。續漢志補注、通典禮 </p>
+<p>　　夏勤策文曰：「維元初六年三月甲子，制詔以大鴻臚勤為司徒。曰：「朕承天序惟稽古，建爾于位為漢輔。往率舊職，敬敷五教，五教在寬。左右朕躬，宣力四表，保乂皇家，於戲！實惟秉國之均，旁祇厥緒，時亮天工，可不慎與！勤而案：通典引作「其」。戒之！」」續漢志補注、通典禮 </p>
+<p>　　酎金律，文帝所加，以正月旦作酒，八月成，名酎酒。因合案：通典引作「令」。諸侯助祭貢金。續漢志補注、通典禮 </p>
+<p>　　九真、交阯、日南者用犀角二，長九寸，若毒瑁甲一；鬱林用象牙一，長三尺以上，若翠羽各二十，準以當金。後漢書章帝紀注 </p>
+<p>　　皇后出，乘鸞輅，青羽，駕駟馬，龍旂九旒，大將軍妻參乘，太僕妻御，前鸞旂車，皮軒闒戟，雒陽令奉引，亦千乘萬騎。車府令設鹵簿駕，公、卿、五營校尉、司隸校尉、河南尹妻皆乘其官車，帶夫本官綬，從其官屬導從皇后。置虎賁、羽林騎、戎頭、黃門鼓吹，五帝車，女騎夾轂，執法御史在前後，亦有金鉦黃鉞，五將導。桑于蠶宮，手三盆于繭館，畢，還宮。續漢志補注 </p>
+<p>　　永平七年，陰太后崩，晏駕詔曰：「柩將發于殿，群臣百官陪位，黃門鼓吹三通，鳴鍾鼓，天子舉哀。女侍史官三百人皆著素，參以白素，引棺挽歌，下殿就車，黃門宦者引以出宮省。太后魂車，鸞路，青羽，駟馬，龍旂九旒，前有方相，鳳皇車，大將軍妻參乘，太僕妻御，悉道。公卿百官如天子郊鹵簿〔儀〕。」〔四〕後和鄧后葬，案以為儀，自此皆降損于前事。續漢志補注 </p>
+<p>　　孝靈帝葬馬貴人，贈步搖、赤紱葬，案：初學記引作「赤綴」，無「葬」字。青羽，駟馬。柩下殿，女侍史一百人著素衣挽歌，〔五〕引木下就車，黃門宦者引出宮門。續漢志補注、初學記禮部 </p>
+<p>　　桓帝祠恭懷皇后祝文曰：「孝曾孫皇帝志，使有司臣太常撫，夙興夜處，小心畏忌，不墮其身，一不寧。敢用絜牲一元大武，柔毛剛鬣，商祭明視，薌萁嘉薦，普淖鹹鹺，豐本明粢，醪用（用）薦酎，〔六〕事於恭懷皇后。尚饗。」嘏辭賜皇帝福：「恭懷皇后命工祝承致多福無疆于爾孝（孫）曾孫皇帝，〔七〕使爾受祿于天，宜稼于田，眉壽萬年。介爾景福，俾守爾民，勿替引之。」太常再拜，太牢左辨以致皇帝。續漢志補注 </p>
+<p>　　校勘記〔一〕點校本續漢輿服志補注據殿本改「綠」作「緣」。又通典卷六三仍作「綠」。 </p>
+<p>　　〔二〕點校本續漢輿服志補注作「二丈一尺」，通典卷六三亦同。孫輯從汲本。 </p>
+<p>　　〔三〕此引見通典禮部，非職官部。 </p>
+<p>　　〔四〕諸本續漢禮儀志補注均作「天子郊鹵簿儀」，故據補「儀」字。 </p>
+<p>　　〔五〕點校本續漢禮儀志補注引作「女侍史二百人」。 </p>
+<p>　　〔六〕據續漢志補注原引刪。 </p>
+<p>　　〔七〕同右。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19066.aspx">上一章</a>
+<a href="/guwen/book_239.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

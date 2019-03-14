@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷六·日禄归时_古诗文网
+</title>
+<meta content="《喜忌篇》云：日禄归时没官星，号青云得路。此格有七日：甲寅、丁午、戊巳、己午、庚申、壬亥、癸子，日主之禄归于时位，喜日干坐旺、印绶生、月透财元、伤食、天月二德，主大富贵。忌刑冲破害" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16433.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·日禄归时</b></span>
+<a href="javascript:PlayBookv(16433)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16433" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16433" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　《喜忌篇》云：日禄归时没官星，号青云得路。此格有七日：甲寅、丁午、戊巳、己午、庚申、壬亥、癸子，日主之禄归于时位，喜日干坐旺、印绶生、月透财元、伤食、天月二德，主大富贵。忌刑冲破害、空亡死绝、及劫财分禄、倒食作合、官煞克制，虽可取用，亦不纯粹。岁运同。如乙日见己卯时，是时上偏财；丙日见癸巳时，是官星显露；辛日见丁酉时，是时上偏官，不作归禄格看。四柱何如？若月有官星或天干透财官，只作财官论；若时支归禄，年月时支亦有禄，谓之聚福归禄，又谓五行归禄；若日禄归时，时禄归日，谓之互换禄；若年禄归时，时禄归年，如甲申见庚寅、乙酉见辛卯、壬午见丁亥、癸亥见壬子等类，俱主大贵享福；若重见禄位，如甲日寅时，又生正月，财官俱弱，只作建禄看；若月日天元同而止有时禄，谓之分禄，便为无用，若各自归禄，却又不妨。此格有七法，一曰青云得路，如戊子、甲寅、乙亥、己卯，柱中无一点官星，身旺得局，有印生助，虽子刑卯禄，不能破局，故贵。又壬午、庚戌、壬子、辛亥，身旺印助，登戊辰进士，为刑部郎中，作杂气格论尤是，故丁丑运戊辰科，丑刑辰冲故也。二曰官星坐禄，如丙申、丙申、丙申、癸巳，丙以癸为正官，生七月金乡有托，运行西北官生旺之乡，丙临申无气，三丙相倚，冲寅长生，癸官临巳，用神坐贵，得财官双美，故少年及第，中年拜相。三曰归禄逢二德，如辛亥、辛卯、甲寅、丙寅，甲专禄，而得丙寅为食会禄，甲为月德，月令辛卯为甲正官，辛逢二月无气，二寅中丙合去二辛，止有二寅为甲之禄，月德逢归禄，乃平章辅国英雄。四曰归禄逢印绶，如丙戌、癸巳、戊午、丁巳，柱无一点官星，丙丁印戊，日时禄互换，午戊已俱是火地印绶，生身太旺，运行西方食神伤官之地生财，癸与戊合化成火象，所以少年登第，官至三品。五曰归禄逢伤官，大忌见官，如壬辰、乙巳、己亥、庚午，己坐亥有甲为官，得巳冲去，有乙为煞，得庚合化为真金伤官，用壬为财，坐库，归禄日下，运行南方身旺，西方金旺，伤官去煞，生出财气，有用，英灵秀实之贵也。六曰归禄逢煞，如甲申、丙寅、戊申、丁巳、戊坐申自生，年干透甲为煞，归禄于寅，二申制之，戊归禄时地，无官混杂，所以掌握兵权，威镇边疆。七曰归禄逢财，如己亥、丙寅、丁丑、丙午，自坐财库，丙夺财，亥中壬制，寅与亥合，运逢官煞，比肩强旺，可以胜任，己土食神，归禄于时，制其官煞，运行戌酉申，俱财旺地，故贵。《元理赋》云：归禄得财而获福，无财归禄亦须贫。又云：日禄归时，四柱岁运皆不喜官星，有刑害，其福减半。诗曰：日主生归时禄逢，无冲无刑不落空，官煞不临财印旺，伤食身健禄千锺。又：六甲生人禄在寅，若逢官曜贵难伸，身无健旺忻生印，禄有多余爱食神；若遇相冲灾必至，忽遭克破福无因，流年大运皆同论，富贵尊崇压众人。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16432.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16434.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

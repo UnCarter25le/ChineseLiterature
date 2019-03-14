@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷四·四明高氏补泻_古诗文网
+</title>
+<meta content="《素问》补肾俞注云：“用圆利针，临刺时，呪曰：‘五帝上真，六甲玄灵，气符至阴，百邪闭理。’念三遍，先刺二分，留六呼，次入针至三分，动气至而徐徐出针，以手扪之，令患人咽气三次，又可定" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18836.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·四明高氏补泻</b></span>
+<a href="javascript:PlayBookv(18836)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18836" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18836" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　《素问》补肾俞注云：“用圆利针，临刺时，呪曰：‘五帝上真，六甲玄灵，气符至阴，百邪闭理。’念三遍，先刺二分，留六呼，次入针至三分，动气至而徐徐出针，以手扪之，令患人咽气三次，又可定神魂。”泻脾俞注云：“欲下针时，呪曰：‘帝扶天形，护命神灵。’诵三遍，刺三分，留七呼，动气至而急出针。”</p>
+<p>　　按：呪法非《素问》意，但针工念呪，则一心在针。</p>
+<p>　　《拔萃》云：“泻法先以左手揣按得穴，以右手置针于穴上，令病人咳嗽一声，拈针入腠理，令病人吸气一口，针至六分，觉针沉涩，复退至三分，再觉沉涩，更退针一豆许，仰手转针头向病所，以手循经络，扪循至病所，以合手回针，引气直过针所三寸，随呼徐徐出针，勿闭其穴，命之曰泻。补法先以左手揣按得穴，以右手置针于穴上，令病人咳嗽一声，拈针入腠理，令病人呼气一口，纳针至八分，觉针沉紧，复退一分，更觉沉紧，仰手转针头向病所，依前循扪其病所，气至病已，随吸而走出针，速按其穴，命之曰补。”</p>
+<p>　　《明堂》注云：“寒热补泻，假令补冷，先令病人咳嗽一声，得入腠理，复令吹气一口，随吹下针至六七分，渐进肾肝之部，停针徐徐，良久复退针一豆许，乃捻针问病人觉热否？然后针至三四分，及心肺之部，又令病人吸气，先内捻针，使气下行至病所，却外捻针，使气上行，直过所针穴一二寸，乃吸而外捻针出，以手速按其穴，此为补。”</p>
+<p>　　病热者，治之以寒，何如？须其寒者，先刺入阳之分，候得气推内至阴之分，后令病人地气入而天气出，谨按生成之息数足，其病人自觉清凉矣。</p>
+<p>　　病恶寒者，治之以热，何如？须其热者，先刺入阴之分，候得气，徐引针至阳之分，后令病人天气入而地气出，亦谨按生成之息数足，其病人自觉和暖矣。</p>
+<p>　　<strong>呼吸：</strong></p>
+<p>　　《素问》注云：“按经之旨，先补真气，乃泻其邪也，何以言之？补法呼则内针，静以久留。泻法吸则内针，又静以久留。然呼则次其吸，吸则不兼呼，内针之候既同，久留之理复一，先补之义，昭然可知。”《拔萃》云：“呼不过三，吸不过五。”《明堂》云：“当补之时，候气至病所，更用生成之息数，令病人鼻中吸气，口中呼气，内自觉热矣。当泻之时，使气至病所，更用生成之息数，令病人鼻中出气，口中吸气，按所病脏腑之处，内自觉清凉矣。”</p>
+<p>　　<strong>神针八法：</strong></p>
+<p>　　心无内慕，如待贵宾，心为神也。医者之心，病者之心，与针相随上下，先虑针损，次将针尖含在口内，而令其温，又以左手按摩受疾之穴，如握虎之状，右手拈针，如持无力之刃，是用针之一法也。左拈九而右拈六，此乃住痛之二法也。进针之时，令病人咳嗽而针进，进针之三法也。针沉良久，待内不胀，气不行，照前施之，如气来裹针不下，乃实也，宜左捻而泻其实，如不散，令病人呼气三口，医者用手抓针自散；如针进无滞无胀，乃气虚也，令病人吸气，针宜右捻而补其虚，此补泻之四法也。其泻者有凤凰展翅：用右手大指、食指捻针头，如飞腾之象，一捻一放，此泻之五法也。其补者有饿马摇铃：用右手大指、食指捻针头，如饿马无力之状，缓缓前进则长，后退则短，此补之六法也。如病人晕针，用袖掩之，热汤饮之即醒，补之七法也。如针至深处，而进不能，退不能，其皮上四围起皱纹，其针如生在内，此气实之极也，有苍蝇丛咬之状，四围飞延，用右手食指，向皱纹皮处，离针不远四围前进三下，后退其一，乃泻之八法也。出针时，即扪其穴，此补之要诀。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18835.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18837.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

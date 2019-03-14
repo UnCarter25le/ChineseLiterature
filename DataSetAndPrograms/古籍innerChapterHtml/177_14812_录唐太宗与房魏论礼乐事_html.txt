@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+中说·录唐太宗与房魏论礼乐事_古诗文网
+</title>
+<meta content="大唐龙飞，宇内乐业，文中子之教未行于时，后进君子鲜克知之。贞观中，魏文公有疾，仲父太原府君问候焉，留宿宴语，中夜而叹。太原府君曰：“何叹也？”魏公曰：“大业之际，徵也尝与诸贤侍文中" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14812.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>录唐太宗与房魏论礼乐事</b></span>
+<a href="javascript:PlayBookv(14812)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14812" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14812" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　大唐龙飞，宇内乐业，文中子之教未行于时，后进君子鲜克知之。</p>
+<p>　　贞观中，魏文公有疾，仲父太原府君问候焉，留宿宴语，中夜而叹。太原府君曰：“何叹也？”魏公曰：“大业之际，徵也尝与诸贤侍文中子，谓徵及房、杜等曰：‘先辈虽聪明特达，然非董、薛、程、仇之比，虽逢明王必愧礼乐。’徵于时有不平之色，文中子笑曰：‘久久临事，当自知之。’及贞观之始，诸贤皆亡，而徵也、房、李、温、杜获攀龙鳞，朝廷大议未尝不参预焉。上临轩谓群臣曰：‘朕自处蕃邸，及当宸极，卿等每进谏正色，咸云：嘉言良策，患人主不行，若行之，则三皇不足四，五帝不足六。朕诚虚薄，然独断亦审矣。虽德非徇齐，明谢濬哲，至于闻义则服，庶几乎古人矣。诸公若有长久之策，一一陈之，无有所隐。’房、杜等奉诏舞蹈，赞扬帝德。上曰：‘止。’引群公内宴。酒方行，上曰：‘设法施化，贵在经久。秦、汉已下，不足袭也。三代损益，何者为当？卿等悉心以对，不患不行。’是时群公无敢对者，徵在下坐，为房、杜所目，因越席而对曰：‘夏、殷之礼既不可详，忠敬之化，空闻其说。孔子曰：周监二代，郁郁乎文哉！吾从周。《周礼》，公旦所裁，《诗》《书》，仲尼所述，虽纲纪颓缺，而节制具焉。荀、孟陈之于前，董、贾伸之于后，遗谈余义，可举而行。若陛下重张皇坟，更造帝典，则非驽劣所能议及也。若择前代宪章，发明王道，则臣请以《周典》唯所施行。’上大悦。翌日，又召房、杜及徵俱入，上曰：‘朕昨夜读《周礼》，真圣作也。首篇云：“惟王建国，辨方正位，体国经野，设官分职，以为人(民)极。”诚哉深乎！’良久谓徵曰：‘朕思之，不井田、不封建、不肉刑而欲行周公之道，不可得也。大《易》之义，随时顺人。周任有言：陈力就列。若能一一行之，诚朕所愿，如或不及，强希大道，画虎不成，为将来所笑，公等可尽虑之。’因诏宿中书省，会议数日，卒不能定，而徵寻请退。上虽不复扬言，而闲宴之次谓徵曰：‘礼坏乐崩，朕甚悯之。昔汉章帝眷眷于张纯，今朕急急于卿等，有志不就，古人攸悲。’徵跪奏曰：‘非陛下不能行。盖臣等无素业尔，何愧如之？然汉文以清静富邦家，孝宣以章程练名实，光武责成委吏，功臣获全，肃宗重学尊师，儒风大举，陛下明德独茂，兼而有焉，虽未冠三代，亦千载一时。惟陛下虽休勿休，则礼乐度数，徐思其宜，教化之行，何虑晚也？’上曰：‘时难得而易失，朕所以遑遑也。卿退，无有后言。’徵与房、杜等并惭栗，再拜而出。房谓徵曰：‘玄龄与公竭力辅国，然言及礼乐，则非命世大才，不足以望陛下清光矣。’昔文中子不以《礼》《乐》赐予，良有以也。向使董、薛在，适不至此。噫！有元首无股肱，不无可叹也。”</p>
+<p>　　十七年，魏公薨，太原府君哭之恸。十九年，授余以《中说》，又以魏公之言告予，因叙其事。时贞观二十年，九月记。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14811.aspx">上一章</a>
+<a href="/guwen/book_177.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14813.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

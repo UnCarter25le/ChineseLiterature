@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+陶庵梦忆·卷四·杨神庙台阁_古诗文网
+</title>
+<meta content="枫桥杨神庙，九月迎台阁。十年前迎台图，台阁而已；自骆氏兄弟主之，一以思致文理为之。扮马上故事二三十骑，扮传奇一本，年年换，三日亦三换之。其人与传奇中人必酷肖方用，全在未扮时一指点为" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13037.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·杨神庙台阁</b></span>
+<a href="javascript:PlayBookv(13037)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13037" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13037" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　枫桥杨神庙，九月迎台阁。十年前迎台图，台阁而已；自骆氏兄弟主之，一以思致文理为之。扮马上故事二三十骑，扮传奇一本，年年换，三日亦三换之。其人与传奇中人必酷肖方用，全在未扮时一指点为某似某，非人人绝倒者不之用。迎后，如扮胡梿者，直呼为胡梿，遂无不胡梿之，而此人反失其姓。人定，然后议扮法。必裂缯为之。果其人其袍铠须某色、某缎、某花样，虽匹锦数十金不惜也。一冠一履，主人全副精神在焉。诸友中有能生造刻画者，一月前礼聘至，匠意为之，唯其使。装束备，先期扮演，非百口叫绝又不用。故一人一骑，其中思致文理，如玩古董名画，勾一勒不得放过焉。土人有小小灾祲，辄以小白旗一面到庙禳之，所积盈库。</p>
+<p>　　是日以一竿穿旗三四，一人持竿三四走神前，长可七八里，如几百万白蝴蝶回翔盘礴在山坳树隙。四方来观者数十万人。市枫桥下，亦摊亦篷。台阁上马上，有金珠宝石堕地，拾者，如有物凭焉不能去，必送还神前；其在树丛田坎间者，问神，辄示其处，不或爽。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13036.aspx">上一章</a>
+<a href="/guwen/book_139.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13038.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

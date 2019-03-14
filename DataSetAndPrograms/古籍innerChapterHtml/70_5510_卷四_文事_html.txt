@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+幼学琼林·卷四·文事_古诗文网
+</title>
+<meta content="多才之士，才储八斗；博学之德，学富五车。《三坟》《五典》，乃三皇五帝之书；《八索》《九丘》，是八泽九州之志。《书经》载上古唐虞三代之事，故曰尚书；《易经》乃姬周文王周公所系，故曰《" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5510.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3810" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·文事</b></span>
+<a href="javascript:PlayBookv(5510)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5510" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3810)" id="leftbtn3810" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5510" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%a8%8b%e7%99%bb%e5%90%89">程登吉</a></p>
+<div class="contson">
+<p>　　多才之士，才储八斗；博学之德，学富五车。《三坟》《五典》，乃三皇五帝之书；《八索》《九丘》，是八泽九州之志。《书经》载上古唐虞三代之事，故曰尚书；《易经》乃姬周文王周公所系，故曰《周易》。二戴曾删《礼记》，故曰《戴礼》；二毛曾注《诗经》，故曰《毛诗》。</p>
+<p>　　孔子作《春秋》，因获麟而绝笔，故曰《麟经》。荣于华衮，乃《春秋》一字之褒；严于斧铖，乃《春秋》一字之贬。缣缃黄卷，总谓经书；雁帛鸾笺，通称简札。</p>
+<p>　　锦心绣口，李太白之文章；铁画银钩，王羲之之字法。雕虫小技，自谦文学之卑；倚马可待，羡人作文之速。称人近来进德，曰士别三日，当刮目相看；羡人学业精通，曰面璧九年，始有此神悟。五凤楼手，称文字之精奇；七步奇才，羡天才之敏捷。誉才高，曰今之班马；羡诗工，曰压倒元白。</p>
+<p>　　汉晁错多智，景帝号为智囊；高仁裕多诗，时人谓之诗窖。骚客即是诗人，誉髦乃称美士。自古诗称李杜，至今字仰钟王。白雪阳春，是难和难赓之韵；青钱万选，乃屡试屡中之文。惊神泣鬼，皆言词赋之雄豪；遏云绕梁，原是歌音之嘹喨。涉猎不精，是多学之弊；咿唔呫毕，皆读书之声。</p>
+<p>　　连篇累牍，总说多文；寸楮尺素，通称简札。以物求文，谓之润笔之资；因文得钱，乃曰稽古之力。文章全美，曰文不加点；文章奇异，曰机杼一家。应试无文，谓之曳白；书成绣梓，谓之杀青。袜线之才，自谦才短；记问之学，自愧学肤。裁诗曰推敲，旷学曰作辍。</p>
+<p>　　文章浮薄，何殊月露风云；典籍储藏，皆在兰台石室。秦始皇无道，焚书坑儒；唐太完好文，开科取士。花样不同，乃谓文章之异；燎草塞责，不求辞语之精。邪说曰异端，又曰左道；读书曰肄业，又曰藏修。作文曰染翰操觚，从师曰执经问难。求作文，曰乞挥如椽笔；羡高文，曰才是大方家。</p>
+<p>　　竞尚佳章，曰洛阳纸贵；不嫌问难，曰明镜不疲。称人书架曰邺架，称人嗜学曰书淫。白居易生七月，便识之无二字；唐李贺才七岁，作高轩过一篇。开卷有益，宋太宗之要语；不学无术，汉霍光之为人。汉刘向校书于天禄，太乙燃藜；赵匡胤代位于后周，陶谷出诏。</p>
+<p>　　江淹梦笔生花，文思大进；扬雄梦吐白凤，词赋愈奇。李守素通姓氏之学，敬宗名为人物志；虞世南晰古今之理，太宗号为行秘书。茹古含今，皆言学博；咀英嚼华，总曰文新。文望尊隆，韩退之若泰山北斗；涵养纯粹，程明道如良玉精金。李白才离，咳唾随风生珠玉；孙绰词丽，诗赋掷地作金声。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5509.aspx">上一章</a>
+<a href="/guwen/book_70.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5511.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3810" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

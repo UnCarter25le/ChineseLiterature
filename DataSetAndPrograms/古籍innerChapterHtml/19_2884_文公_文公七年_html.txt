@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·文公·文公七年_古诗文网
+</title>
+<meta content="【经】七年春，公伐邾。三月甲戌，取须句。遂城郚。夏四月，宋公王臣卒。宋人杀其大夫。戊子，晋人及秦人战于令狐。晋先蔑奔秦。狄侵我西鄙。秋八月，公会诸侯、晋大夫盟于扈。冬，徐伐莒。公孙" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2884.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1405" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>文公·文公七年</b></span>
+<a href="javascript:PlayBookv(2884)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2884" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1405)" id="leftbtn1405" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2884" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】七年春，公伐邾。三月甲戌，取须句。遂城郚。夏四月，宋公王臣卒。宋人杀其大夫。戊子，晋人及秦人战于令狐。晋先蔑奔秦。狄侵我西鄙。秋八月，公会诸侯、晋大夫盟于扈。冬，徐伐莒。公孙敖如莒莅盟。 </p>
+<p>　　【传】七年春，公伐邾。间晋难也。 </p>
+<p>　　三月甲戌，取须句，置文公子焉，非礼也。 </p>
+<p>　　夏四月，宋成公卒。于是公子成为右师，公孙友左师，乐豫为司马，鳞矔为司徒，公子荡为司城，华御事为司寇。 </p>
+<p>　　昭公将去群公子，乐豫曰：「不可。公族，公室之枝叶也，若去之则本根无所庇荫矣。葛藟犹能庇其本根，故君子以为比，况国君乎？此谚所谓庇焉而纵寻斧焉者也。必不可，君其图之。亲之以德，皆股肱也，谁敢携贰？若之何去之？」不听。穆、襄之族率国人以攻公，杀公孙固、公孙郑于公宫。六卿和公室，乐豫舍司马以让公子卬，昭公即位而葬。书曰：「宋人杀其大夫。」不称名，众也，且言非其罪也。 </p>
+<p>　　秦康公送公子雍于晋，曰：「文公之入也无卫，故有吕、郤之难。」乃多与之徒卫。穆赢日抱大子以啼于朝，曰：「先君何罪？其嗣亦何罪？舍适嗣不立而外求君，将焉置此？」出朝，则抱以适赵氏，顿首于宣子曰：「先君奉此子也而属诸子，曰：『此子也才，吾受子之赐；不才，吾唯子之怨。』今君虽终，言犹在耳，而弃之，若何？」宣子与诸大夫皆患穆嬴，且畏逼，乃背先蔑而立灵公，以御秦师。箕郑居守。赵盾将中军，先克佐之。荀林父佐上军。先蔑将下军，先都佐之，步招御戎，戎津为右。及堇阴，宣子曰：「我若受秦，秦则宾也；不受，寇也。既不受矣，而复缓师，秦将生心。先人有夺人之心，军之善谋也。逐寇如追逃，军之善政也。」训卒利兵，秣马蓐食，潜师夜起。戊子，败秦师于令狐，至于刳首。己丑，先蔑奔秦。士会从之。 </p>
+<p>　　先蔑之使也，荀林父止之，曰：「夫人、大子犹在，而外求君，此必不行。子以疾辞，若何？不然，将及。摄卿以往可也，何必子？同官为寮，吾尝同寮，敢不尽心乎！」弗听。为赋《板》之三章。又弗听。及亡，荀伯尽送其帑及其器用财贿于秦，曰：「为同寮故也。」</p>
+<p>　　士会在秦三年，不见士伯。其人曰：「能亡人于国，不能见于此，焉用之？」士季曰：「吾与之同罪，非义之也，将何见焉？」及归，遂不见。 </p>
+<p>　　狄侵我西鄙，公使告于晋。赵宣子使因贾季问酆舒。且让之。酆舒问于贾季曰：「赵衰、赵盾孰贤？」对曰：「赵衰，冬日之日也。赵盾，夏日之日也。」 </p>
+<p>　　秋八月，齐侯、宋公、卫侯、郑伯、许男、曹伯会晋赵盾盟于扈，晋侯立故也。公后至，故不书所会。凡会诸侯，不书所会，后也。后至，不书其国，辟不敏也。 </p>
+<p>　　穆伯娶于莒，曰戴己，生文伯，其娣声己生惠叔。戴己卒，又聘于莒，莒人以声己辞，则为襄仲聘焉。</p>
+<p>　　冬，徐伐莒。莒人来请盟。穆伯如莒莅盟，且为仲逆。及鄢陵。登城见之，美，自为娶之。仲请攻之，公将许之。叔仲惠伯谏曰：「臣闻之，兵作于内为乱，于外为寇，寇犹及人，乱自及也。今臣作乱而君不禁，以启寇仇，若之何？」公止之，惠伯成之。使仲舍之，公孙敖反之，复为兄弟如初。从之。 </p>
+<p>　　晋郤缺言于赵宣子曰：「日卫不睦，故取其地，今已睦矣，可以归之。叛而不讨，何以示威？服而不柔，何以示怀？非威非怀，何以示德？无德，何以主盟？子为正卿，以主诸侯，而不务德，将若之何？《夏书》曰：『戒之用休，董之用威，劝之以《九歌》，勿使坏。』九功之德皆可歌也，谓之九歌。六府、三事，谓之九功。水、火、金、木、土、谷，谓之六府。正德、利用、厚生，谓之三事。义而行之，谓之德、礼。无礼不乐，所由叛也。若吾子之德莫可歌也，其谁来之？盍使睦者歌吾子乎？」宣子说之。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2883.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2885.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1405" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

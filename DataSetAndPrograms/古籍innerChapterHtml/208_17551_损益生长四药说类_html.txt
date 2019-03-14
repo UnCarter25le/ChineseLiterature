@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+神峰通考·损益生长四药说类_古诗文网
+</title>
+<meta content="何以谓之损？损者，损其有余也。然木生震位，正木气之当权也。金产竞宫，正金神之得位。当权者不宜资助，得位者不必生扶。假或水又滋土，土或培金，若木有余之病，用金以制之；金气有余之病，用" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17551.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>损益生长四药说类</b></span>
+<a href="javascript:PlayBookv(17551)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17551" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17551" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e6%a5%a0">张楠</a></p>
+<div class="contson">
+<p>　　何以谓之损？损者，损其有余也。然木生震位，正木气之当权也。金产竞宫，正金神之得位。当权者不宜资助，得位者不必生扶。假或水又滋土，土或培金，若木有余之病，用金以制之；金气有余之病，用火以克之。官星之气有余，则损其官星；财星之气有余，则损其财星。壁如人身元太旺为族，当以凉剂通药以济之也。是以八字贵有损之之药也。</p>
+<p>　　何以谓之益？益者，益其不及也。若木之死于午，若水之死于卯也。不及则宜资助，且如木气之本衰，庚辛又来克木也；水气之本衰，戊己土又来克水也，则水木不及之病在此矣。益之之理又当何如耶？若木之不及，或行水运以滋其根本。或行木运以茂其枝叶。若水之不及，或行金运浚其源流，或行水运以广其澎湃。若宫星之气不足，则喜官旺之乡；财星之气不足，则喜行财旺之地。譬如人身血气之不足，则用温药之剂以补之也。是以八字贵有益之药也。</p>
+<p>　　何以谓之生也？六阳生处，真为生也。如甲木生亥，亥有壬水，来滋甲木也。六阴生处，俱为弱。如乙木生于午也，午有丁火泄木之精英，有己土为乙木之挠屈。又如六阴死处俱为生，如乙木死于亥，亥有壬水，反来滋木也。六阳死处死真为死，如甲木死于午，且午中有丁火，泄木真精，己土为之挠屈。且如生之理，形气始分，赤子未离于褓，精华初判，婴儿初脱于胞胎。如木之生于亥，根气犹桔也，未可以木为旺也。如火之生于寅，气焰犹寒也，未可以火旺也。又或财官印临于生地，未可以财官印为旺也。凡气之不足，故贵济之有生之药也。</p>
+<p>　　何以谓之长也？春蚕作茧，木气方敷。夏热成炉，炎光始著。如木临震位，火到离宫。若此帝旺之乡，实不同于生长之位。是以生者长初，长者生之继也。如财官属木，则长养在寅卯辰之方，此木气方敷也。如是则贵行金运以克之，则与长生之木理不同也。如财官属火，火则长养在巳午未方，此火气之方炽也。如果则贵行水运以克之，则与长生之火理不同也。走以生长二字，衰旺之不同，故运行有喜生喜克之异。是以八字贵有长之之药也。</p>
+<p>　　以上诸格，楠于合理者取之，背理者辟之矣。以后各格，楠所未及者，附陈于后。以备参考。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17550.aspx">上一章</a>
+<a href="/guwen/book_208.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17552.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

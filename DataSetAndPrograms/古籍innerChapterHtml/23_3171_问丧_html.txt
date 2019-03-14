@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+礼记·问丧_古诗文网
+</title>
+<meta content="亲始死，鸡斯徒跣，扱上衽，交手哭。恻怛之心，痛疾之意，伤肾干肝焦肺，水浆不入口，三日不举火，故邻里为之糜粥以饮食之。夫悲哀在中，故形变于外也，痛疾在心，故口不甘味，身不安美也。三日" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3171.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1699" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>问丧</b></span>
+<a href="javascript:PlayBookv(3171)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3171" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1699)" id="leftbtn1699" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3171" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　亲始死，鸡斯徒跣，扱上衽，交手哭。恻怛之心，痛疾之意，伤肾干肝焦肺，水浆不入口，三日不举火，故邻里为之糜粥以饮食之。夫悲哀在中，故形变于外也，痛疾在心，故口不甘味，身不安美也。</p>
+<p>　　三日而敛，在床曰尸，在棺曰柩，动尸举柩，哭踊无数。恻怛之心，痛疾之意，悲哀志懑气盛，故袒而踊之，所以动体安心下气也。妇人不宜袒，故发胸击心爵踊，殷殷田田，如坏墙然，悲哀痛疾之至也。故曰：「辟踊哭泣，哀以送之。送形而往，迎精而反也。」</p>
+<p>　　其往送也，望望然、汲汲然如有追而弗及也；其反哭也，皇皇然若有求而弗得也。故其往送也如慕，其反也如疑。</p>
+<p>　　求而无所得之也，入门而弗见也，上堂又弗见也，入室又弗见也。亡矣丧矣！不可复见矣！故哭泣辟踊，尽哀而止矣。心怅焉怆焉、惚焉忾焉，心绝志悲而已矣。祭之宗庙，以鬼飨之，徼幸复反也。</p>
+<p>　　成圹而归，不敢入处室，居于倚庐，哀亲之在外也；寝苫枕块，哀亲之在土也。故哭泣无时，服勤三年，思慕之心，孝子之志也，人情之实也。</p>
+<p>　　或问曰：「死三日而后敛者，何也？」曰：孝子亲死，悲哀志懑，故匍匐而哭之，若将复生然，安可得夺而敛之也。故曰三日而后敛者，以俟其生也；三日而不生，亦不生矣。孝子之心亦益衰矣；家室之计，衣服之具，亦可以成矣；亲戚之远者，亦可以至矣。是故圣人为之断决以三日为之礼制也。</p>
+<p>　　或问曰：「冠者不肉袒，何也？」曰：冠，至尊也，不居肉袒之体也，故为之免以代之也。</p>
+<p>　　然则秃者不免，伛者不袒，跛者不踊，非不悲也；身有锢疾，不可以备礼也。故曰：丧礼唯哀为主矣。女子哭泣悲哀，击胸伤心；男子哭泣悲哀，稽颡触地无容，哀之至也。</p>
+<p>　　或问曰：「免者以何为也？」曰：不冠者之所服也。《礼》曰：「童子不缌，唯当室缌。」缌者其免也，当室则免而杖矣。</p>
+<p>　　或问曰：「杖者何也？」曰：竹、桐一也。故为父苴杖--苴杖，竹也；为母削杖--削杖，桐也。</p>
+<p>　　或问曰：「杖者以何为也？」曰：孝子丧亲，哭泣无数，服勤三年，身病体羸，以杖扶病也。则父在不敢杖矣，尊者在故也；堂上不杖，辟尊者之处也；堂上不趋，示不遽也。此孝子之志也，人情之实也，礼义之经也，非从天降也，非从地出也，人情而已矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3170.aspx">上一章</a>
+<a href="/guwen/book_23.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3172.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1699" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

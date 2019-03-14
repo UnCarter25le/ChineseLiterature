@@ -1,0 +1,126 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平御览·饮食部·卷十五_古诗文网
+</title>
+<meta content='○蜜张璠《易注序》曰：蜜蜂以兼采为味。《韵集》曰：蜜，蜂百草华所作也。《汉武帝故事》曰：西王母曰："太上之药有中华紫蜜、云山朱蜜。"《续汉书》曰：天竺国出石蜜。' name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_15708.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>饮食部·卷十五</b></span>
+<a href="javascript:PlayBookv(15708)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv15708" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay15708" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89">李昉</a></p>
+<div class="contson">
+<p>　　○蜜</p>
+<p>　　张璠《易注序》曰：蜜蜂以兼采为味。</p>
+<p>　　《韵集》曰：蜜，蜂百草华所作也。</p>
+<p>　　《汉武帝故事》曰：西王母曰："太上之药有中华紫蜜、云山朱蜜。"</p>
+<p>　　《续汉书》曰：天竺国出石蜜。</p>
+<p>　　《东观汉记》曰：世祖尝与朱祐共买蜜合药。后上追念之，即赐祐白蜜一石，问："何如在长安时共买蜜乎。"</p>
+<p>　　《吴书》曰：袁术为雷薄等所距，士众绝粮。时盛暑，欲得蜜浆，又无蜜，坐床叹息良久，乃大咤曰："袁术至於此乎！"</p>
+<p>　　《吴历》曰：孙亮使黄门至中藏取蜜渍梅，蜜中有鼠矢。召问藏吏曰："黄门从汝求蜜耶？"吏曰："向求蜜，实不敢与。"黄门不服，亮曰："此易知耳。"令破鼠矢，矢里燥。亮曰："若久在蜜中，中外当俱湿；里燥，必是黄门所为。"黄门首服。</p>
+<p>　　《晋令》曰：蜜工收蜜十斛，有能增煎二升者，赏谷十斛。</p>
+<p>　　《晋太康起居注》曰：尚书令荀勖嬴毁，赐石蜜伍斤。</p>
+<p>　　《齐书》曰：明帝元好〈虫逐〉姨，以银钵盛蜜渍之，一食数钵。</p>
+<p>　　又曰：陶弘景永明十年脱朝服挂神武门，上表辞禄。诏许之，赐以束帛，敕所在月给茯苓伍斤、白蜜贰斤，以供服饵。</p>
+<p>　　《梁书》曰：任昉为新安太守。郡有蜜岭及杨梅，旧为太守所采。昉以冒险多物故，即时停绝。</p>
+<p>　　又曰：傅昭为临海太守。郡有蜜岩，前后太守皆自封固，专收其利。昭以周文之囿与百姓共之，大可喻小，乃教勿封。</p>
+<p>　　《梁四公记》曰：高昌国遣使贡刺蜜，帝命杰公迓之，谓其使曰："刺蜜是盐城所生，非南平城者。"使者曰："其年风灾，刺蜜不熟，故尔。"帝问杰公何得知，对曰："南城羊刺无叶，其蜜色明白而味甘；盐城羊刺叶大，其蜜色青而味薄。以是知蜜之伪耳。"</p>
+<p>　　《唐书》曰：蕃胡国出石蜜，中国贵之。上遣使往摩伽池国取其法，令扬州煎诸蔗之汁，於中厨自造焉，色味逾於西域所出。</p>
+<p>　　《神仙传》曰：飞黄子服中岳石蜜及紫粱，得仙。</p>
+<p>　　王孚《安成记》曰：郡东有山，百姓呼曰蜜岗，产蜜焉。(《仙经》云：蜜为众口芝。)</p>
+<p>　　《荆州图记》曰：赤马山有蜜房二百所，罗缀相望，因名曰百房。</p>
+<p>　　《异物志》曰：交址草，滋大者数寸，煎之凝如冰，破如博棋，谓之石蜜。</p>
+<p>　　《凉州异物志》曰：石蜜之兹，甜於浮萍。非石之类，假石之名。实出甘柘，变而凝轻。(甘柘似竹，味甘。煮而曝之，则凝如石而甚轻。)</p>
+<p>　　《范子》曰：白密出陇西天水。</p>
+<p>　　《本草经》曰：石蜜，一名饴。</p>
+<p>　　《吴氏本草》曰：食蜜生武都谷。</p>
+<p>　　刘根《墨子枕中记钞》曰：百花醴蜜。</p>
+<p>　　《楚辞·招魂》曰：瑶浆蜜勺，(勺，沾也)实羽觞。</p>
+<p>　　左思《蜀都赋》曰：蜜防郁毓被其阜。(汉昌县多野蜂蜜蜡。)</p>
+<p>　　郭珍《蜜赋》曰：繁布金房，叠称王室。咀爵滋液，酿以为蜜。散似甘露，凝如割肪。冰鲜玉润，髓滑兰香。</p>
+<p>　　魏文帝《与孙权书》曰：今因赵咨奉石蜜五饼。</p>
+<p>　　又《与朝臣诏》曰：南方龙眼、荔支，宁比西国葡萄、石蜜？</p>
+<p>　　又曰：新城孟太守道：蜀猪肫鸡鹜，味皆淡，故蜀人作食喜着饴蜜。</p>
+<p>　　○沙饧</p>
+<p>　　张衡《七辩》曰：沙饧、饴、石蜜，远国贡储。</p>
+<p>　　盛翁子《与刘颂书》曰：沙饧，西垂之产。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_15707.aspx">上一章</a>
+<a href="/guwen/book_180.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_15709.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

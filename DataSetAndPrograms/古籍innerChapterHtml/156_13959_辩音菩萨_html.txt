@@ -1,0 +1,123 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+圆觉经·辩音菩萨_古诗文网
+</title>
+<meta content="于是，辩音菩萨在大众中，即从座起，顶礼佛足，右绕三匝，长跪叉手，而白佛言：“大悲世尊，如是法门甚为希有！世尊，此诸方便一切菩萨于圆觉门，有几修习？愿为大众及末世众生，方便开示，令悟" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13959.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>辩音菩萨</b></span>
+<a href="javascript:PlayBookv(13959)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13959" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13959" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9b%e9%99%80%e5%a4%9a%e7%bd%97%e8%af%91">佛陀多罗译</a></p>
+<div class="contson">
+<p>　　于是，辩音菩萨在大众中，即从座起，顶礼佛足，右绕三匝，长跪叉手，而白佛言：“大悲世尊，如是法门甚为希有！世尊，此诸方便一切菩萨于圆觉门，有几修习？愿为大众及末世众生，方便开示，令悟实相。”作是语已，五体投地，如是三请，终而复始。 </p>
+<p>　　尔时，世尊告辩音菩萨言：“善哉！善哉！善男子，汝等乃能为诸大众及末世众生，问于如来如是修习。汝今谛听，当为汝说。”时辩音菩萨奉教欢喜，及诸大众默然而听。 </p>
+<p>　　“善男子，一切如来圆觉清净，本无修习及修习者。一切菩萨及末世众生，依于未觉幻力修习，尔时便有二十五种清净定轮： </p>
+<p>　　“若诸菩萨唯取极静，由静力故，永断烦恼，究竟成就，不起于座，便入涅槃。此菩萨者，名单修奢摩他。 </p>
+<p>　　“若诸菩萨唯观如幻，以佛力故，变化世界，种种作用，备行菩萨清净妙行，于陀罗尼不失寂念及诸静慧。此菩萨者，名单修三摩钵提。 </p>
+<p>　　“若诸菩萨唯灭诸幻，不取作用，独断烦恼，烦恼断尽，便证实相。此菩萨者，名单修禅那。 </p>
+<p>　　“若诸菩萨先取至静，以静慧心照诸幻者，便于是中起菩萨行。此菩萨者，名先修奢摩他，后修三摩钵提。 </p>
+<p>　　“若诸菩萨以静慧故，证至静性，便断烦恼，永出生死。此菩萨者，名先修奢摩他，后修禅那。 </p>
+<p>　　“若诸菩萨以寂静慧，复现幻力，种种变化度诸众生，后断烦恼而入寂灭。此菩萨者，名先修奢摩他，中修三摩钵提，后修禅那。 </p>
+<p>　　“若诸菩萨以至静力，断烦恼已，后起菩萨清净妙行，度诸众生。此菩萨者，名先修奢摩他，中修禅那，后修三摩钵提。 </p>
+<p>　　“若诸菩萨以至静力，心断烦恼，复度众生，建立世界。此菩萨者，名先修奢摩他，齐修三摩钵提、禅那。 </p>
+<p>　　“若诸菩萨以至静力，资发变化，后断烦恼。此菩萨者，名齐修奢摩他、三摩钵提，后修禅那。 </p>
+<p>　　“若诸菩萨以至静力，用资寂灭，后起作用，变化世界。此菩萨者，名齐修奢摩他、禅那，后修三摩钵提。 </p>
+<p>　　“若诸菩萨以变化力，种种随顺而取至静。此菩萨者，名先修三摩钵提，后修奢摩他。 </p>
+<p>　　“若诸菩萨以变化力，种种境界而取寂灭。此菩萨者，名先修三摩钵提，后修禅那。 </p>
+<p>　　“若诸菩萨以变化力，而作佛事，安住寂静而断烦恼。此菩萨者，名先修三摩钵提，中修奢摩他，后修禅那。 </p>
+<p>　　“若诸菩萨以变化力，无碍作用，断烦恼故，安住至静。此菩萨者，名先修三摩钵提，中修禅那，后修奢摩他。 </p>
+<p>　　“若诸菩萨以变化力，方便作用，至静寂灭，二俱随顺。此菩萨者，名先修三摩钵提，齐修奢摩他、禅那。 </p>
+<p>　　“若诸菩萨以变化力，种种起用，资于至静，后断烦恼。此菩萨者，名齐修三摩钵提、奢摩他，后修禅那。 </p>
+<p>　　“若诸菩萨以变化力，资于寂灭，后住清净无作静虑。此菩萨者，名齐修三摩钵提、禅那，后修奢摩他。 </p>
+<p>　　“若诸菩萨以寂灭力，而起至静，住于清净。此菩萨者，名先修禅那，后修奢摩他。 </p>
+<p>　　“若诸菩萨以寂灭力，而起作用，于一切境寂用随顺。此菩萨者，名先修禅那，后修三摩钵提。 </p>
+<p>　　“若诸菩萨以寂灭力，种种自性安于静虑，而起变化。此菩萨者，名先修禅那，中修奢摩他，后修三摩钵提。 </p>
+<p>　　“若诸菩萨以寂灭力，无作自性起于作用，清净境界，归于静虑。此菩萨者，名先修禅那，中修三摩钵提，后修奢摩他。 </p>
+<p>　　“若诸菩萨以寂灭力，种种清净而住静虑，起于变化。此菩萨者，名先修禅那，齐修奢摩他、三摩钵提。 </p>
+<p>　　“若诸菩萨以寂灭力，资于至静而起变化。此菩萨者，名齐修禅那、奢摩他，后修三摩钵提。 </p>
+<p>　　“若诸菩萨以寂灭力，资于变化，而起至静清明境慧。此菩萨者，名齐修禅那、三摩钵提，后修奢摩他。 </p>
+<p>　　“若诸菩萨以圆觉慧圆合一切，于诸性相无离觉性。此菩萨者，名为圆修三种自性清净随顺。 </p>
+<p>　　“善男子，是名菩萨二十五轮，一切菩萨修行如是。若诸菩萨及末世众生依此轮者，当持梵行，寂静思惟，求哀忏悔，经三七日，于二十五轮各安标记，至心求哀，随手结取，依结开示，便知顿渐。一念疑悔，即不成就。” </p>
+<p>　　尔时，世尊欲重宣此义，而说偈言： </p>
+<p>　　“辩音汝当知： 一切诸菩萨，<br/>　　无碍清净慧， 皆依禅定生。<br/>　　所谓奢摩他， 三摩提禅那，<br/>　　三法顿渐修， 有二十五种。<br/>　　十方诸如来， 三世修行者，<br/>　　无不因此法， 而得成菩提。<br/>　　唯除顿觉人， 并法不随顺。<br/>　　一切诸菩萨， 及末世众生，<br/>　　常当持此轮， 随顺勤修习，<br/>　　依佛大悲力， 不久证涅槃。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13958.aspx">上一章</a>
+<a href="/guwen/book_156.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13960.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+近思录·卷九·制度_古诗文网
+</title>
+<meta content="1、濂溪先生曰：古圣王制礼法，修教化，三纲正，九畴叙，百姓太和，万物咸若，乃作乐以宣八风之气，以平天下之情。故乐声淡而不伤，和而不流，入其耳，感其心，莫不淡且和焉。淡则欲心平，和则" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19857.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·制度</b></span>
+<a href="javascript:PlayBookv(19857)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19857" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19857" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9c%b1%e7%86%b9%e3%80%81%e5%90%95%e7%a5%96%e8%b0%a6">朱熹、吕祖谦</a></p>
+<div class="contson">
+<p>　　1、濂溪先生曰：古圣王制礼法，修教化，三纲正，九畴叙，百姓太和，万物咸若，乃作乐以宣八风之气，以平天下之情。故乐声淡而不伤，和而不流，入其耳，感其心，莫不淡且和焉。淡则欲心平，和则躁心释。优柔平中，德之盛也；天下化中，治之至也；是谓道配天地，古之极也。后世礼法不修，政刑苛紊，纵欲败度，下民困苦，谓古乐不足听也，代变新声，妖婬愁怨，导欲增悲，不能自止。故有贼君弃父，轻生败伦，不可禁者矣。呜呼！乐者古以平心，今以助欲；古以宣化，今以长怨。不复古礼，不变今乐，而欲致治者，远哉！——周敦颐《通书·乐上》</p>
+<p>　　2、明道先生言于朝曰：治天下以正风俗、得贤才为本。宜先礼命近侍贤儒及百执事，悉心推访，有德业充备，足为师表者，其次有笃志好学，材良行修者，延聘、敦遣，萃于京师，俾朝夕相与讲明正学。其道必本于人伦，明乎物理。其教自小学洒扫应对以往，修其孝弟忠信，周旋礼乐，其所以诱掖激厉渐摩成就之道，皆有节序，其要在于择善修身，至于化成天下，自乡人而可至于圣人之道。其学行皆中于是者为成德。取材识明达，可进于善者，使日受其业。择其学明德尊者，为太学之师，次以分教天下之学。择士入学，县升之州，州宾兴于太学，太学聚而教之，岁论其贤者能者于朝。凡选士之法，皆以性行端洁，居家孝悌，有廉耻礼逊，通明学业，晓达治道者。——《二程文集》卷一《请修学校尊师儒取士札子》</p>
+<p>　　3、明道先生论十事：一曰师傅，二曰六官，三曰经界，四曰乡党，五曰贡士，六曰兵役，七曰民食，八曰四民，九曰山泽，十曰分数。其言曰：无古今，无治乱，如生民之理有穷，则圣王之法可改。后世能尽其道则大治，或用其偏则小康。此历代彰灼著明之效也。苟或徒知泥古而不能施之于今，姑欲徇名而遂废其实，此则陋儒之见，何足以论治道哉！然倘谓今之人情，皆已异于古，先王之迹，不可复于今，趣便目前，不务高远，则亦恐非大有为之论，而未足以济当今之极弊也。——《工程文集》卷一《论十事札子》</p>
+<p>　　4、伊川先生上疏曰：三代之时，人君必有师、傅、保之官。“师，道之教训；傅，傅之德义；保，保其身体。”后世作事无本，知求治而不知正君，知规过而不知养德，傅德之道，固已疏矣；保身体之法，复无闻焉。臣以为傅德义者，在乎防见闻之非，节嗜好之过；保身体者，在乎适起居之宜，存畏慎之心。今既不设保傅之官，则此责皆在经筵，欲乞皇帝在宫中言动服食，皆使经筵官知之，有剪桐之戏，则随事箴规；违持养之方，则应时谏止。——《二程文集》卷六《论经筵第二札子》</p>
+<p>　　5、伊川先生《看详三学条制》云：旧制，公私试补，盖无虚月。学校礼义相先之地，而月使之争，殊非教养之道。请改试为课，有所未至，则学官召而教之，更不考定高下。制尊贤堂，以延天下道德之士，及置待宾、吏师斋，立检察士人行检等法。又云：自元丰后，设利诱之法，增国学解额至五百人，来者奔凑，舍父母之养，忘骨肉之爱，往来道路，旅离他土。人心日偷，士风日薄。今欲量留一百人，余四百人，分在州郡解额窄处，自然士人各安乡土，养其孝爱之心，息其奔趋流浪之志，风俗亦当稍厚。又云：三舍升补之法，皆案文责迹。有司之事，非痒序育材论秀之道。盖朝廷授法，必达乎下。长官守法而不得有为，是以事成于下，而下得以制其上。此后世所以不治也。或曰：“长贰得人则善矣。或非其人，不若防闲详密，可循守也。”殊不知先王制法，待人而行，未闻立不得人之法也。苟长贰非人，不知教育之道，徒守虚文密法，果足以成人才乎？——《二程文集》卷八</p>
+<p>　　6、《明道先生行状》云：先生为泽州晋城令，民以事至邑者，必告之以教悌忠信，入所以事父兄，出所以事长上。度乡材远近为伍保，使之力役相劝，患难相恤，而奸伪无所容。凡孤茕残废者，责之亲戚乡党，使无失所。行旅出其途者，疾病皆有所养。诸乡皆有校，暇时亲至，召父母与之语。儿童所读书，亲为正句读。教者不善，则为易置。择子弟之秀者聚而教之。乡民为社会，为立科条，旌别善恶，使有劝心。——《二程文集》卷十一</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19856.aspx">上一章</a>
+<a href="/guwen/book_267.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19858.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

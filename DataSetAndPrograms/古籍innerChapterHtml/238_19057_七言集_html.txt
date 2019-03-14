@@ -1,0 +1,140 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明贤集·七言集_古诗文网
+</title>
+<meta content="贫居闹市无人问，富在深山有远亲。人情好似初相见，到老终无怨恨心。白马红缨彩色新，不是亲者强来亲；一朝马死黄金尽，亲者如同陌路人。青草发时便盖地，运通何须觅故人。但能依理求生计，何必" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19057.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>七言集</b></span>
+<a href="javascript:PlayBookv(19057)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19057" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19057" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　贫居闹市无人问，富在深山有远亲。</p>
+<p>　　人情好似初相见，到老终无怨恨心。</p>
+<p>　　白马红缨彩色新，不是亲者强来亲；</p>
+<p>　　一朝马死黄金尽，亲者如同陌路人。</p>
+<p>　　青草发时便盖地，运通何须觅故人。</p>
+<p>　　但能依理求生计，何必欺心做恶人。</p>
+<p>　　才与人交辨人心，高山流水向古今。</p>
+<p>　　莫作亏心侥幸事，自然灾祸不来侵。</p>
+<p>　　人着人死天不肯，天着人死有何难？</p>
+<p>　　我见几家贫了富，几家富了又还贫。</p>
+<p>　　三寸气在千般用，一旦无常万事休。</p>
+<p>　　人见利而不见害，鱼见食而不见钩。</p>
+<p>　　是非只为多开口，烦恼皆因强出头。</p>
+<p>　　山寺日高僧未起，算来名利不如闲。</p>
+<p>　　欺心莫过三江水，人与世情朝朝随。</p>
+<p>　　人生稀有七十馀，多少风光不同居。</p>
+<p>　　长江一去无回浪，人老何曾再少年？</p>
+<p>　　大道劝人三件事，戒酒除花莫赌钱。</p>
+<p>　　平生正直无私曲，问甚天公饶不饶。</p>
+<p>　　猛虎不在当道卧，困龙也有升天时。</p>
+<p>　　临崖勒马收缰晚，船到江心补漏迟。</p>
+<p>　　家业有时为来往，还钱常记借钱时。</p>
+<p>　　金风未动蝉先觉，暗算无常死不知。</p>
+<p>　　青山只会明今古，绿水何曾洗是非？</p>
+<p>　　常将有日思无日，莫待无时思有时。</p>
+<p>　　善恶到头终有报，只争来早与来迟。</p>
+<p>　　蒿里隐着灵芝草，淤泥陷着紫金盆。</p>
+<p>　　劝君莫做亏心事，古往今来放过谁。</p>
+<p>　　言多语失皆因酒，义断亲疏只为钱。</p>
+<p>　　有事但近君子说，是非休听小人言。</p>
+<p>　　妻贤何愁家不富，子孝何须父向前？</p>
+<p>　　心好家门生贵子，命好何须靠祖田？</p>
+<p>　　侵人田土骗人钱，荣华富贵不多年。</p>
+<p>　　莫道眼前无报应，分明折在子孙边。</p>
+<p>　　酒逢知己千杯少，话不投机半句多。</p>
+<p>　　衣服破时宾客少，识人多处是非多。</p>
+<p>　　草怕严霜霜怕日，恶人自有恶人磨。</p>
+<p>　　月过十五光明少，人到中年万事和。</p>
+<p>　　良言一句三冬暖，恶语伤人六月寒。</p>
+<p>　　雨里深山雪里烟，看时容易做时难。</p>
+<p>　　无名草木年年发，不信男儿一世穷。</p>
+<p>　　若不与人行方便，念尽弥陀总是空。</p>
+<p>　　少年休笑白头翁，花开能有几日红？</p>
+<p>　　越奸越狡越贫穷，奸狡原来天不容；</p>
+<p>　　富贵若从奸狡得，世间呆汉吸西风。</p>
+<p>　　忠臣不事二君主，烈女不嫁二夫郎。</p>
+<p>　　小人狡猾心肠歹，君子公平托上苍。</p>
+<p>　　一字千金价不多，会文会算有谁过？</p>
+<p>　　身小会文国家用，大汉空长作什么？</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19056.aspx">上一章</a>
+<a href="/guwen/book_238.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

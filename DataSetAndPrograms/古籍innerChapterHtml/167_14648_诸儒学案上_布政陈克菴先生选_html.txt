@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·诸儒学案上·布政陈克菴先生选_古诗文网
+</title>
+<meta content="陈选字士贤，台之临海人。天顺庚辰试礼部，丘文庄得其文，曰：“古君子也。”置第一。及相见而貌不扬，文庄曰：“吾闻荀卿云，圣贤无相，将无是乎？”授监察御史。罗一峰论夺情被谪，先生抗疏直" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14648.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>诸儒学案上·布政陈克菴先生选</b></span>
+<a href="javascript:PlayBookv(14648)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14648" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14648" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　陈选字士贤，台之临海人。天顺庚辰试礼部，丘文庄得其文，曰：“古君子也。”置第一。及相见而貌不扬，文庄曰：“吾闻荀卿云，圣贤无相，将无是乎？”授监察御史。罗一峰论夺情被谪，先生抗疏直之。出按江西，藩臬以素服入见，先生曰：“非也。人臣觐君，服视其品秩，於御史何居？”不事风裁，而贪墨望风解绶。已督学南畿，一以德行为主。试卷列诸生姓名，不为弥封，曰：“吾且不自信，何以信於人邪？”每按部就止学宫，诸生分房诵读，入夜灯火萤然，先生以两烛前导，周行学舍，课其勤惰，士風为之一变。成化初，改中州提学。倖奄汪直巡视郡国，都御史以下咸匍匐趋拜，先生独长揖。直怒曰：“尔何官，敢尔？”先生曰：“提学。”愈怒曰：“提学宁大於都御史耶？”先生曰：“提学宗主斯文，为士子表率，不可与都御史比。”直既慑其气岸，又诸生集门外，知不可犯，改容谢曰：“先生无公务相关，自后不必来。”先生徐步而出。转按察使。归奔母丧。丧毕，除广东布政使。肇庆大水，先生上灾伤状，不待报，辄发粟赈之。市舶奄韦眷横甚，番禺知县高瑶发其赃钜万，都御史宋旻不敢诘。先生移文奖瑶，眷深憾之。番人贸货，诡称贡使，发其伪，逐之外；使将市狻猊入贡，又上疏止之。皆眷之所不利者也。眷乃诬先生党比属官，上怒，遣刑部员外郎李行会巡按御史徐同爱共鞫。两人欲文致之，谓吏张褧者，先生所黜，必恨先生，使之为诬。褧曰：“死即死耳，不敢以私恨陷正人也。”爰书入，诏锦衣官逮问，士民数万人夹舟而哭。至南昌，疾作，卒於石亭寺，年五十八。友人张元祯殓以疏綌，或咎其薄，元祯曰：“公平生清苦，殓以时服，公志也。”张褧乃上言：“臣本小吏，以诖误触法，为选罢黜，实臣自取。眷妄意臣必憾选，以厚贿啗臣，令扶同陷选。臣虽胥徒，安敢欺昧心术，颠倒是非？眷知臣不可利诱，嗾行等逮臣於理，弥日拷掠，身无完肤。臣甘罪籲天，终无异口。行等乃依傍眷语，以欺天听。选刚不受辱，旬日而殂。君门万里，孰谅其冤？臣以罪人，摈斥田野，百无所图，敢冒死鼎镬者，诚痛忠廉之士，衔屈抑之冤，长谗佞之奸，为圣明之累也。”奏入不报，第以他事，罢眷镇守。正德中追赠光禄寺卿，谥恭愍。先生尝以《易》教授生徒，晚而居官，论《易》专主传义，一无异同。以克己求仁为进修之要，故自号克菴。读书不资为文辞，手录格言为力行之助。每上疏必屏居斋沐，引使者於庭，而拜而遣。子刘子曰：“由张东白之事观之，非平日安贫守道之意，彻乎表里，安能使朋友信之如是？由张褧之事观之，非在官赏罚黜陟，出乎至公，安能使黜吏化之如是？吾有以见先生存诚之学矣。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14647.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14649.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

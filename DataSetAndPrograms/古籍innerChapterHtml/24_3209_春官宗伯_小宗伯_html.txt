@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+周礼·春官宗伯·小宗伯_古诗文网
+</title>
+<meta content="小宗伯之职，掌建国之神位，右社稷，左宗庙。兆五帝于四郊，四望、四类，亦如之。兆山川丘陵坟衍，各因其方。掌五礼之禁令，与其用等。辨庙祧之昭穆，掌三吉凶之五服、车旗、宫室之禁。掌三族之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3209.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1739" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>春官宗伯·小宗伯</b></span>
+<a href="javascript:PlayBookv(3209)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3209" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1739)" id="leftbtn1739" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3209" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%91%a8%e5%85%ac%e6%97%a6">周公旦</a></p>
+<div class="contson">
+<p>　　小宗伯之职，掌建国之神位，右社稷，左宗庙。兆五帝于四郊，四望、四类，亦如之。兆山川丘陵坟衍，各因其方。掌五礼之禁令，与其用等。辨庙祧之昭穆，掌三吉凶之五服、车旗、宫室之禁。掌三族之别，以辨亲疏。其正室皆谓之门子，掌其政令。毛六牲，辨其名物而颁之于五官，使共奉之；辨六齍之名物与其用，使六宫之人共奉之；辨六彝之名物，以待果将；辨六尊之名物，以待祭祀宾客。掌衣服、车旗、宫室之赏赐，常四时祭祀之序事与其礼。若国大贞，则奉玉帛以诏号。大祭祀，省牲，视涤濯。祭之日，逆齍，省镬，告时于王，告备于王。凡祭祀、宾客，以时将瓒果，诏相祭祀之小礼。凡大礼，佐大宗伯，赐卿大夫士爵，则傧。小祭祀，掌事，如大宗伯之礼。大宾客，受其将币之礼□。若大师，则帅有司而立军社，奉主车，若军将有事，则与祭有司将事于四望。若大甸，则帅有司而饁兽于郊，遂颁禽。大灾，及执事祷祠于上下神示。王崩，大肆以秬鬯渳；及重衰拱大敛、小敛，帅异族而佐；县衰冠之式于路门之外；及执事视葬、献器，遂哭之；卜葬兆，甫竁，亦如之；既葬，诏相丧祭之礼；成葬而祭墓，为位。凡王之会同、军旅、甸役之祷祠，肄仪、为位、国有祸灾，则亦如之。凡天地之大灾，类社稷、宗庙，则为位。凡国之大礼，佐大宗伯。凡小礼，掌事，如大宗伯之仪。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3208.aspx">上一章</a>
+<a href="/guwen/book_24.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3210.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1739" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

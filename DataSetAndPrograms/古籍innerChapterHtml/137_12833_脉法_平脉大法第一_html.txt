@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·脉法·平脉大法第一_古诗文网
+</title>
+<meta content="论曰∶夫脉者，医之大业也。不深究其道，何以为医者哉。是以古之哲医，寤寐俯仰，不与常人同域，造次必于医，颠沛必于医，故能感于鬼神，通于天地，可以济众，可以根据凭。若与常人混其波澜，则" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12833.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>脉法·平脉大法第一</b></span>
+<a href="javascript:PlayBookv(12833)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12833" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12833" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　论曰∶夫脉者，医之大业也。不深究其道，何以为医者哉。是以古之哲医，寤寐俯仰，不与常人同域，造次必于医，颠沛必于医，故能感于鬼神，通于天地，可以济众，可以根据凭。</p>
+<p>　　若与常人混其波澜，则庶事堕坏，使夫物类将何仰焉。由是言之，学人必当屏弃俗情，凝心于此经曰∶诊脉之法，常以平旦，阴气未动，阳气未散，饮食未进，经脉未盛，络脉调匀，气血未乱，故乃可诊有过之脉。切脉动静而视精明，察五色，观五脏有余不足，六腑强弱，形之盛衰，可以此参伍，决生死之分也。</p>
+<p>　　又曰∶平脉者，皆于平旦。先诊寸口，初重指切骨，定毕便渐举指，与皮毛相得，于轻重之间，随人强弱肥瘦，以意消息进退举按之宜。称其浮沉诸类应于四时五行，与人五脏相应，轻重相薄，寻状论寒暑得失。</p>
+<p>　　凡人禀形，气有中适，有躁静，各各不同。气脉流动，亦各随其性情，故一呼脉再至，一吸脉再至，呼吸定息之间复一至，合为五至，此为平和中适者也。春秋日夜正等，无余分时也。其余日则其呼而脉至多，吸而脉至少，或吸而脉至多，呼而脉至少，此则不同，如冬夏日夜长短之异也。凡气脉呼吸法，昼夜变通效四时。然于呼吸定息应五至之限，无有亏僻，犹晷刻与四时有长短，而岁功日数无遗也。若人有羸有壮，其呼吸虽相压遏，而昼夜息度随其漏刻，是谓∶呼吸象昼夜，变通效四时。</p>
+<p>　　夫诊脉，当以意先自消息，压取病患呼吸以自同，而后察其脉数，计于定息之限，五至者为平人，若有盈缩，寻状论病源之所宣也。</p>
+<p>　　问曰∶何为三部脉？答曰∶寸、关、尺也。凡人修短不同，其形各异，有尺寸分三关之法，从肘腕中横纹至掌鱼际后纹，却而十分之而入取九分，是谓尺。从鱼际后纹却还度取十分之一，则是寸。寸十分之而入取九分之中，则寸口也。此处其骨自高，故云∶阴得尺内有一寸，阳得寸内九分，从寸口入却行六分为关分，从关分又入六分为尺分。</p>
+<p>　　又曰∶从鱼际至高骨却行一寸，其中名曰寸口。从寸口至尺，名曰尺泽，故曰尺寸。寸后尺前名曰关，阳出阴入以关为界，如天地人为三界，寸主射上焦头及皮毛，竟手上部。关主射中焦腹及腰中部。尺主射下焦小腹至足下部。此为三部法，象三才天地人，头腹足为三元也。夫十二经皆有动脉，独取寸口以决五脏六腑死生吉凶之候者，何谓也？然寸口者，脉之大会，手太阴之动脉也。人一呼脉行三寸，一吸脉行三寸，呼吸定息脉行六寸。人一日一夜凡一万三千五百息，脉行五十度，周于其身，漏水下百刻，荣卫行阳二十五度，行阴亦二十五度为一周。故五十度而复会于手太阴。太阴者，寸口也，即五脏六腑之所终始，故法取于寸口。人有三百六十脉，法三百六十日也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12832.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12834.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

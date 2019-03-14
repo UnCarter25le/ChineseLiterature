@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·柳光_古诗文网
+</title>
+<meta content="太和中，有柳光者，尝南游，因行山道，会日晚，误入山崦中。松引盘曲，行数里，至一石室。云水环拥，清泉交贯，室有茵榻，若人居者。前对霞翠，固非人境。光因临流凝伫，忽见一缶合于地，光即趋" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19454.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>柳光</b></span>
+<a href="javascript:PlayBookv(19454)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19454" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19454" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　太和中，有柳光者，尝南游，因行山道，会日晚，误入山崦中。松引盘曲，行数里，至一石室。云水环拥，清泉交贯，室有茵榻，若人居者。前对霞翠，固非人境。光因临流凝伫，忽见一缶合于地，光即趋之，其缶下有泉，周不尽尺，其水清激，举卮以饮，若甘醴。尽十余卮而已醉甚，遂偃于榻。及晓方寤，因视石壁有雕刻文字极多，遂写其字置于袖，词曰：</p>
+<p>　　“武之在卯，尧王八季。我弃其寝，我去其扆。深深然，高高然，人不吾知，人不吾谓。由今之后，二百余祀，焰焰其光，和和其始。东方有兔，小首元尾，经过吾道，来至吾里。饮吾泉以醉，登吾榻而寐。刻乎其壁，奥乎其义，人谁以辨其东平子。”％光先阅，阅而异之。遂行，出径数十步，回望其室，尽亡见矣。中，有柳光者，尝南游，因行山道，会日晚，误入山崦中。松引盘曲，行数里，至一石室。云水环拥，清泉交贯，室有茵榻，若人居者。前对霞翠，固非人境。光因临流凝伫，忽见一缶合于地，光即趋之，其缶下有泉，周不尽尺，其水清激，举卮以饮，若甘醴。尽十余卮而已醉甚，遂偃于榻。及晓方寤，因视石壁有雕刻文字极多，遂写其字置于袖，词曰：“武之在</p>
+<p>　　光究之不得，有吕生者，视而解之，未几告曰：“吾尽详矣。此乃得道者语也。夫唐氏之初，建号武德，武之二年，其岁己卯，则‘武之在卯’，其义见矣，盖武德二年也。‘尧王’者，谓高祖之号神尧。曰‘八季’者，亦二年也。‘我弃其寝，我去其扆’者，言其去，盖绝去之时，乃武德二年也。‘深深然，高高然，人不吾知，人不吾谓’者，言其隐而人不知也。‘由今之后，二百余祀’者，言君者来也。且唐氏之初，今果二百余矣。‘焰焰其光，和和其始’者，‘焰焰其光’谓岁在丁未也。焰者火，岂非南方之丙丁之谓乎未亦火之位也。’和和其始’，谓今天子建号曰‘太和’，‘其始’盖元年也。‘东方有兔，小首元尾’者，叙君之名氏。‘东方’，甲乙木也。‘兔’者，卯也。‘卯’以附‘木’，是‘柳’字也。‘小首元尾’，是光也。‘经吾道’、‘来吾里’，言君之来也。‘饮吾泉以醉，登吾榻而寐’，言君之止也。‘刻乎其壁，奥乎其义。谁人以辨，其东平子’，谓其义奥而隐，独吾能辨之。‘东平’，吾之邑也，即又信矣。”如是而辨，果得道者之遣记也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19453.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19455.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

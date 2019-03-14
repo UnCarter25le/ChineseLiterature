@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+岭外代答·卷七·香门_古诗文网
+</title>
+<meta content="沉水香沉香来自诸蕃国者，真腊为上，占城次之。真腊种类固多，以登流眉案范成大桂海虞衡志作丁流眉，宋史作登流眉。所产香，气味馨郁，胜于诸蕃。若三佛齐等国所产，则为下岸香矣，以婆罗蛮香为" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19587.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·香门</b></span>
+<a href="javascript:PlayBookv(19587)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19587" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19587" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%91%a8%e5%8e%bb%e9%9d%9e">周去非</a></p>
+<div class="contson">
+<p>　　<strong>沉水香</strong></p>
+<p>　　沉香来自诸蕃国者，真腊为上，占城次之。真腊种类固多，以登流眉案范成大桂海虞衡志作丁流眉，宋史作登流眉。所产香，气味馨郁，胜于诸蕃。若三佛齐等国所产，则为下岸香矣，以婆罗蛮香为差胜。下岸香味皆腥烈，不甚贵重。沉水者，但可入药饵。交址与占城邻境，凡交址沉香至钦，皆占城也。海南黎母山峒中，亦名土沉香，少大块，有如茧栗角，如附子，如芝菌，如茅竹叶者，皆佳。至轻薄如纸者，入水亦沉。万安军在岛正东，钟朝阳之气，香尤酝藉清远。如莲花、梅英之类，焚一铢许，氛翳弥室，翻之四面悉香，至煤烬，气不焦，此海南香之辨也。海南自难得，省民以一牛于黎峒博香一担，归自差择，得沉水十不一二。顷时香价与白金等，故客不贩，而宦游者亦不能多买。中州但用广州舶上蕃香耳。唯登流眉者，可相颉颃。山谷‘香方’率用海南沉香，盖识之耳。若夫千百年之枯株中，如石如杵，如拳如肘，如奇禽龟蛇，如云气人物，焚之一铢，香满半里，不在此类矣。</p>
+<p>　　<strong>蓬莱香</strong></p>
+<p>　　蓬莱香，出海南，即沉水香结未成者。多成片如小笠及大菌之状，极坚实，状类沉香。惟入水则浮，气稍轻清，价亚沉香。剖去其背带木者，亦多沉水。</p>
+<p>　　<strong>鹧鸪斑香</strong></p>
+<p>　　鹧鸪斑香，亦出海南。蓬莱、好笺香中＊，搓牙轻松，色褐黑而有白斑点点，如鹧鸪臆上毛，气尤清婉。</p>
+<p>　　<strong>笺香</strong></p>
+<p>　　笺香出海南者，如猬皮、渔蓑之状，盖出诸修治。香之精，钟于刺端。大柢以斧斫以为坎，使膏液凝冱于痕中，膏液垂而下结，巉岩如攒针者，海南之笺香也；膏液涌而上结，平阔如盘盂者，蓬莱笺也。其侧结者必薄，名曰蟹壳香。广东舶上生熟速结等香，当在海南笺香之下。</p>
+<p>　　<strong>众香</strong></p>
+<p>　　光香，出海北及交址，与笺香同，多聚于钦州。大块如山石枯槎，气粗烈如焚松桧。桂林供佛、宾筵多用之。 香，出广州及北海，橄榄木节结成，状如黑胶饴，独有清烈出尘之意，品在黄连、枫香之上。桂林东江有此，居人采香卖之，不能多得，以纯脂不杂木皮者为佳。 </p>
+<p>　　沉香，出交址，以诸香草合和蜜调，如薰衣香，其气温黁，然微昏钝。 香，出日南，状如白茅香，芬烈如麝香，亦用以合香，诸草香无及之者。 </p>
+<p>　　排草香，出日南，状如白茅香，芬烈如麝香，亦用以合香，诸草香无及之者。 ，出海北及交址，与笺香同，多聚于钦州。大块如山石枯槎，气粗烈如焚松桧。桂林供佛、宾筵多用之。 </p>
+<p>　　橄榄香，出广州及北海，橄榄木节结成，状如黑胶饴，独有清烈出尘之意，品在黄连、枫香之上。桂林东江有此，居人采香卖之，不能多得，以纯脂不杂木皮者为佳。 ，味犹浅薄。其木，叶如冬青而差圆，皮如楮皮而差厚，花黄而小，子青而黑。人以斧斫木为坎，膏凝于痕，遂采</p>
+<p>　　钦香，味犹浅薄。其木，叶如冬青而差圆，皮如楮皮而差厚，花黄而小，子青而黑。人以斧斫木为坎，膏凝于痕，遂采以为香，香之为香良苦哉！</p>
+<p>　　<strong>零陵香</strong></p>
+<p>　　零陵香，出猺洞及静江、融州、象州。凡深山木阴沮洳之地，皆可种也。逐节断之，而案说文，，伤也。从戈，才声，祖才切。其节，随手生矣。春暮开花结子即可割，薰以烟火而阴干之。商人贩之，好事者以为座褥卧荐。相传言在岭南不香，出岭则香。谓之零陵香者，静江旧属零陵郡也。</p>
+<p>　　<strong>蕃栀子</strong></p>
+<p>　　蕃栀子，出大食国，佛书所谓薝葡花是也。海蕃干之，如染家之红花也。今广州龙涎所以能香者，以用蕃栀故也。又深广有白花，全似栀子花而五出，人云亦自西竺来，亦名薝葡。此说恐非是。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19586.aspx">上一章</a>
+<a href="/guwen/book_253.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19588.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

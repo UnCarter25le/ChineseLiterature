@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+列女传·辩通传·齐伤槐女_古诗文网
+</title>
+<meta content="齐伤槐女者，伤槐衍之女也，名婧。景公有所爱槐，使人守之，植木悬之，下令曰：“犯槐者刑，伤槐者死。”于是衍醉而伤槐。景公闻之曰：“是先犯我令。”使吏拘之，且加罪焉。婧惧，乃造于相晏子" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14471.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>辩通传·齐伤槐女</b></span>
+<a href="javascript:PlayBookv(14471)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14471" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14471" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　齐伤槐女者，伤槐衍之女也，名婧。景公有所爱槐，使人守之，植木悬之，下令曰：“犯槐者刑，伤槐者死。”于是衍醉而伤槐。景公闻之曰：“是先犯我令。”使吏拘之，且加罪焉。婧惧，乃造于相晏子之门曰：“贱妾不胜其欲，愿得备数于下。”晏子闻之，笑曰：“婴其有淫色乎，何为老而见奔？殆有说内之至哉！”既入门，晏子望见之曰：“怪哉，有深忧！”进而问焉，对曰：“妾父衍，幸得充城郭为公民。见阴阳不调，风雨不时，五谷不滋之故，祷祠于名山神水。不胜曲糱之味，先犯君令，醉至于此，罪故当死。妾闻明君之莅国也，不损禄而加刑，又不以私恚害公法，不为六畜伤民人，不为野草伤禾苗。昔者宋景公之时，大旱三年不雨，召太卜而卜之曰：‘当以人祀之。’景公乃降堂北面稽首曰：‘吾所以请雨者，乃为吾民也，今必当以人祀，寡人请自当之。’言未卒，天大雨，方千里。所以然者何也？以能顺天慈民也。今吾君树槐，令犯者死。欲以槐之故杀婧之父，孤妾之身，妾恐伤执政之法而害明君之义也。邻国闻之，皆谓君爱树而贱人，其可乎！”晏子惕然而悟。明日，朝，谓景公曰：“婴闻之，穷民财力谓之暴；崇玩好，威严令谓之逆；刑杀不正，谓之贼。夫三者，守国之大殃也。今君穷民财力，以美饮食之具，繁钟鼓之乐，极宫室之观，行暴之大者也。崇玩好，威严令，是逆民之明者也。犯槐者刑，伤槐者死。刑杀不正，贼民之深者也。”公曰：“寡人敬受命。”晏子出，景公实时命罢守槐之役，拔植悬之木，废伤槐之法，出犯槐之囚。君子曰：“伤槐女能以辞免。”诗云：“是究是图，亶其然乎！”此之谓也。</p>
+<p>　　颂曰：景公爱槐，民醉折伤，景公将杀，其女悼惶，奔告晏子，称说先王，晏子为言，遂免父殃。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14470.aspx">上一章</a>
+<a href="/guwen/book_166.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14472.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

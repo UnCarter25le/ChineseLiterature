@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+尚书·周书·立政_古诗文网
+</title>
+<meta content="周公作《立政》。周公若曰：「拜手稽首，告嗣天子王矣。」用咸戒于王曰：「王左右常伯、常任、准人、缀衣、虎贲。」周公曰：「呜呼！休兹知恤，鲜哉！古之人迪惟有夏，乃有室大竞，吁俊尊上帝迪" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3125.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2016" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>周书·立政</b></span>
+<a href="javascript:PlayBookv(3125)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3125" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2016)" id="leftbtn2016" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3125" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　周公作《立政》。</p>
+<p>　　周公若曰：「拜手稽首，告嗣天子王矣。」用咸戒于王曰：「王左右常伯、常任、准人、缀衣、虎贲。」</p>
+<p>　　周公曰：「呜呼！休兹知恤，鲜哉！古之人迪惟有夏，乃有室大竞，吁俊尊上帝迪，知忱恂于九德之行。乃敢告教厥后曰：『拜手稽首后矣！』曰：『宅乃事，宅乃牧，宅乃准，兹惟后矣。谋面，用丕训德，则乃宅人，兹乃三宅无义民。』</p>
+<p>　　桀德，惟乃弗作往任，是惟暴德罔后。亦越成汤陟，丕厘上帝之耿命，乃用三有宅；克即宅，曰三有俊，克即俊。严惟丕式，克用三宅三俊，其在商邑，用协于厥邑；其在四方，用丕式见德。</p>
+<p>　　呜呼！其在受德，[B139]为羞刑暴德之人，同于厥邦；乃惟庶习逸德之人，同于厥政。帝钦罚之，乃伻我有夏，式商受命，奄甸万姓。</p>
+<p>　　亦越文王、武王，克知三有宅心，灼见三有俊心，以敬事上帝，立民长伯。立政：任人、准夫、牧、作三事。虎贲、缀衣、趣马、小尹、左右携仆、百司庶府。大都小伯、艺人、表臣百司、太史、尹伯，庶常吉士。司徒、司马、司空、亚、旅。夷、微、卢烝。三亳阪尹。</p>
+<p>　　文王惟克厥宅心，乃克立兹常事司牧人，以克俊有德。文王罔攸兼于庶言；庶狱庶慎，惟有司之牧夫是训用违；庶狱庶慎，文王罔敢知于兹。</p>
+<p>　　亦越武王，率惟敉功，不敢替厥义德，率惟谋从容德，以并受此丕丕基。」</p>
+<p>　　呜呼！孺子王矣！继自今我其立政。立事、准人、牧夫，我其克灼知厥若，丕乃俾乱；相我受民，和我庶狱庶慎。时则勿有间之，自一话一言。我则末惟成德之彦，以乂我受民。</p>
+<p>　　呜呼！予旦已受人之徽言咸告孺子王矣。继自今文子文孙，其勿误于庶狱庶慎，惟正是乂之。</p>
+<p>　　自古商人亦越我周文王立政，立事、牧夫、准人，则克宅之，克由绎之，兹乃俾乂，国则罔有。立政用憸人，不训于德，是罔显在厥世。继自今立政，其勿以憸人，其惟吉士，用励相我国家。</p>
+<p>　　今文子文孙，孺子王矣！其勿误于庶狱，惟有司之牧夫。其克诘尔戎兵以陟禹之迹，方行天下，至于海表，罔有不服。以觐文王之耿光，以扬武王之大烈。呜呼！继自今后王立政，其惟克用常人。」</p>
+<p>　　周公若曰：「太史！司寇苏公式敬尔由狱，以长我王国。兹式有慎，以列用中罚。」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3124.aspx">上一章</a>
+<a href="/guwen/book_22.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3126.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2016" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

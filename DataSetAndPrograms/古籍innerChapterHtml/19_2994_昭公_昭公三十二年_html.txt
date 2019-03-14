@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·昭公·昭公三十二年_古诗文网
+</title>
+<meta content="【经】三十有二年春王正月，公在乾侯。取阚。夏，吴伐越。秋七月。冬，仲孙何忌会晋韩不信、齐高张、宋仲几、卫世叔申、郑国参、曹人、莒人、薛人、杞人、小邾人城成周。十有二月己未，公薨于乾" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2994.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1525" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>昭公·昭公三十二年</b></span>
+<a href="javascript:PlayBookv(2994)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2994" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1525)" id="leftbtn1525" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2994" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】三十有二年春王正月，公在乾侯。取阚。夏，吴伐越。秋七月。冬，仲孙何忌会晋韩不信、齐高张、宋仲几、卫世叔申、郑国参、曹人、莒人、薛人、杞人、小邾人城成周。十有二月己未，公薨于乾侯。</p>
+<p>　　【传】三十二年春，王正月，公在乾侯。言不能外内，又不能用其人也。 </p>
+<p>　　夏，吴伐越，始用师于越也。史墨曰：「不及四十年，越其有吴乎！越得岁而吴伐之，必受其凶。」 </p>
+<p>　　秋八月，王使富辛与石张如晋，请城成周。天子曰：「天降祸于周，俾我兄弟并有乱心，以为伯父忧。我一二亲昵甥舅，不遑启处，于今十年，勤戍五年。余一人无日忘之，闵闵焉如农夫之望岁，惧以待时。伯父若肆大惠，复二文之业，驰周室之忧，徼文、武之福，以固盟主，宣昭令名，则余一人有大愿矣。昔成王合诸侯，城成周，以为东都，崇文德焉。今我欲徼福假灵于成王，修成周之城，俾戍人无勤，诸侯用宁，蝥贼远屏，晋之力也。其委诸伯父，使伯父实重图之。俾我一人无征怨于百姓，而伯父有荣施，先王庸之。」范献子谓魏献子曰：「与其戍周，不如城之。天子实云，虽有后事，晋勿与知可也。从王命以纾诸侯，晋国无忧。是之不务，而又焉从事？」魏献子曰：「善！」使伯音对曰：「天子有命，敢不奉承，以奔告于诸侯。迟速衰序，于是焉在。」 </p>
+<p>　　冬十一月，晋魏舒、韩不信如京师，合诸侯之大夫于狄泉，寻盟，且令城成周。魏子南面。卫彪徯曰：「魏子必有大咎。干位以令大事，非其任也。《诗》曰：『敬天之怒，不敢戏豫。敬天之渝，不敢驰驱。』况敢干位以作大事乎？」 </p>
+<p>　　己丑，士弥牟营成周，计丈数，揣高卑，度厚薄，仞沟恤，物土方，议远迩，量事期，计徒庸，虑材用，书餱粮，以令役于诸侯，属役赋丈，书以授帅，而效诸刘子。韩简子临之，以为成命。 </p>
+<p>　　十二月，公疾，遍赐大夫，大夫不受。赐子家子双琥，一环，一璧，轻服，受之。大夫皆受其赐。己未，公薨。子家子反赐于府人，曰：「吾不敢逆君命也。」大夫皆反其赐。书曰：「公薨于乾侯。」言失其所也。</p>
+<p>　　赵简子问于史墨曰：「季氏出其君，而民服焉，诸侯与之，君死于外，而莫之或罪也。」对曰：「物生有两，有三，有五，有陪贰。故天有三辰，地有五行，体有左右，各有妃耦。王有公，诸侯有卿，皆有贰也。天生季氏，以贰鲁侯，为日久矣。民之服焉，不亦宜乎？鲁君世从其失，季氏世修其勤，民忘君矣。虽死于外，其谁矜之？社稷无常奉，君臣无常位，自古以然。故《诗》曰：『高岸为谷，深谷为陵。』三后之姓，于今为庶，王所知也。在《易》卦，雷乘《乾》曰《大壮》，天之道也。昔成季友，桓之季也，文姜之爱子也，始震而卜。卜人谒之，曰：『生有嘉闻，其名曰友，为公室辅。』及生，如卜人之言，有文在其手曰『友』，遂以名之。既而有大功于鲁，受费以为上卿。至于文子、武子，世增其业，不废旧绩。鲁文公薨，而东门遂杀适立庶，鲁君于是乎失国，政在季氏，于此君也，四公矣。民不知君，何以得国？是以为君，慎器与名，不可以假人。」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2993.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2995.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1525" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

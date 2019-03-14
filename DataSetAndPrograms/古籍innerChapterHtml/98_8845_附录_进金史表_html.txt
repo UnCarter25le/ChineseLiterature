@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+金史·附录·进金史表_古诗文网
+</title>
+<meta content="开府仪同三司、上柱国、录军国重事、中书右丞相、监修国史、领经筵事、提调太医院广惠司事臣阿鲁图言：窃惟汉高帝入关，任萧何而收秦籍；唐太宗即祚，命魏征以作《隋书》。盖历数归真主之朝，而" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_8845.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>附录·进金史表</b></span>
+<a href="javascript:PlayBookv(8845)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv8845" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay8845" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%84%b1%e8%84%b1%e6%92%b0">脱脱撰</a></p>
+<div class="contson">
+<p>　　开府仪同三司、上柱国、录军国重事、中书右丞相、监修国史、领经筵事、提调太医院广惠司事臣阿鲁图言：</p>
+<p>　　窃惟汉高帝入关，任萧何而收秦籍；唐太宗即祚，命魏征以作《隋书》。盖历数归真主之朝，而简编载前代之事，国可灭史不可灭，善吾师恶亦吾师。矧夫典故之源流，章程之沿革，不披往牒，曷蓄前闻。</p>
+<p>　　维此金源，起于海裔，以满万之众，横行天下，不十年之久，专制域中。其用兵也如纵燎而乘风，其得国也若置邮而传令。及煟兴于礼乐，乃焕有乎声明。尝循初而汔终，因考功而论德。非武元之英略，不足以开九帝之业，非大定之仁政，不足以固百年之基。天会有吞四海之势，而未有壹四海之规；明昌能成一代之制，而亦能坏一代之法。海陵无道，自取覆败；宣宗轻动，曷济中兴。迨夫浚郊多垒之秋，汝水飞烟之日，天人属望，久有在矣；君臣守义，盖足取焉。</p>
+<p>　　我太祖法天启运圣武皇帝，以有名之师，而释奕世之忾；以无敌之仁，而收兆民之心。劲卒捣居庸关，北拊其背，大军出紫荆口，南搤其吭。指顾可成于隽功，操纵莫窥于庙算，惩彼取辽之暴，容其涉河以迁。太宗英文皇帝席卷云、朔，而徇地并、营，囊括赵、代，而传檄齐、鲁，灭夏国以蹴秦、巩，通宋人以逼河、淮。睿宗仁圣景襄皇帝冒万险，出饶风，长驱平陆；战三峰，乘大雪，遂定中原。</p>
+<p>　　太阳出而爝火熸，正音作而众乐废。爰及世祖圣德神功文武皇帝，恢弘至化，劳来遗黎。燕地定都，撤武灵之旧址，辽阳建省，抚肃慎之故墟。于时张柔归金史于其先，王鹗辑金事于其后。是以纂修之命，见诸敷遗之谋，延祐申举而未遑，天历推行而弗竟。</p>
+<p>　　臣阿鲁图诚惶诚惧，顿首顿首，钦惟皇帝陛下缉熙圣学，绍述先猷，当邦家间暇之时，治经史讨论之务。念彼泰和以来之事迹，涉我圣代初兴之岁年。太祖受帝号于丙寅，先五载而朱凤应，世皇毓圣质於乙亥，蚤一岁而黄河清。若此贞符，昭然成命。第以变故多而旧史阙，耆艾没而新说讹，弗折衷于大朝，恐失真于他日。于是圣心独断，盛事力行，申命臣阿鲁图以中书右丞相、臣别儿怯不花以中书左丞相领三史事，臣脱脱以前中书右丞相仍都总裁，臣御史大夫帖睦尔达世、臣中书平章政事贺惟一、臣翰林学士承旨张起岩、臣翰林学士欧阳玄、臣治书侍御史李好文、臣礼部尚书王沂、臣崇文太监杨宗瑞为总裁官，臣江西湖东道肃政廉访使沙剌班、臣江西湖东道肃政廉访副使王理、臣翰林待制伯颜、臣国子博士费著，臣秘书监著作郎赵时敏，臣太常博士商企翁为史官，集众技以贵成书，儜奏篇以览近监。臣阿鲁图仰承隆委，俯竭微劳。石室之文，诚乏司马迁之作，献《金镜》之录，愿摅张相国之忠。谨撰述本纪十九卷、志三十九卷、表四卷、列传七十三卷、目录二卷，装潢成一百三十七帙，随表以闻，上尘天览，无任惭愧战汗屏营之至。</p>
+<p>　　臣阿鲁图诚惶诚惧，顿首顿首谨言。</p>
+<p>　　至正四年十一月日，开府仪同三司、上柱国、录军国重事、中书右丞相、监修国史、领经筵事、提调太医院广惠司事臣阿鲁图上表。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_8844.aspx">上一章</a>
+<a href="/guwen/book_98.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

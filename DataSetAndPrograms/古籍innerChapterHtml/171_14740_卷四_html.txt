@@ -1,0 +1,116 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东京梦华录·卷四_古诗文网
+</title>
+<meta content="军头司军头司毎旬休按阅内等子　相扑手．剑棒手格闘．诸军营．殿前指挥使直．在禁中有左右班内殿直．散员．散都头．散直．散指挥．御龙左右直系打御从物．御龙骨朶子直．弓箭直．弩直．习驭直．" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14740.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四</b></span>
+<a href="javascript:PlayBookv(14740)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14740" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14740" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%9f%e5%85%83%e8%80%81">孟元老</a></p>
+<div class="contson">
+<p>　　军头司</p>
+<p>　　军头司毎旬休按阅内等子　相扑手．剑棒手格闘．诸军营．殿前指挥使直．在禁中有左右班内殿直．散员．散都头．散直．散指挥．御龙左右直系打御从物．御龙骨朶子直．弓箭直．弩直．习驭直．骑御马钧容直．招箭班．金鎗班．银鎗班．殿侍诸军东西五班常入祇候．毎日教阅野战．毎遇诸路解到武艺人．对御格闘．天武．捧日．龙卫．神卫．各二十指挥．谓之上四军．不出戌．骁骑．云骑．拱圣．龙猛．龙骑．各十指挥．殿前司．歩军司有虎翼各二十指挥．虎翼水军．宣武各十五指挥．神勇．广勇各十指挥．飞山．床子弩．雄武．广固等指挥．诸司则宣效六军．武肃．武和．街道司诸司诸军指挥．动以百数．诸宫观宅院各有清卫厢军禁军剰员十指挥．其余工匠．修内司．八作司．广固作坊．后苑作坊．书艺局．绫锦院．文繍院．内酒坊．法酒库．牛羊司．油醋库．仪鸾司．翰林司．喝探．武严．辇官．车子院．皇城官．亲从官．亲事官．上下宫．皇城．黄皁院子．涤除．各有指挥．记省不尽．</p>
+<p>　　皇太子纳妃</p>
+<p>　　皇太子纳妃．卤部仪仗．宴乐仪卫．妃乘厌翟车．车上设紫色团盖．四柱维幕．四垂大带．四马驾之．</p>
+<p>　　公主出降</p>
+<p>　　公主出降．亦设仪杖．行幕．歩障．水路．凡亲王公主出则有之．皆系街道司兵级数十人．各执扫具．镀金银水桶．前导洒之．名曰『水路』．用檐床数百．铺设房卧．并紫衫巻脚幞头天武官抬舁．又有宫嫔数十．皆眞珠钗插吊朶玲珑簇罗头面．红罗销金袍帔．乘马双控双搭青盖前导．谓之『短镫』．前后用红罗销金掌扇遮簇．乘金铜裙檐子．覆以剪椶．朱红梁脊．上列渗金银铸云凤花朶檐子．约高五尺许．深八尺．阔四尺许．内容六人．四维垂繍额珠帘．白藤间花．匡箱之外．两壁出栏槛皆缕金花．装雕木人物神仙．出队两竿十二人．竿前后皆设緑丝绦金鱼勾子勾定．</p>
+<p>　　皇后出乘舆</p>
+<p>　　皇太后．皇后出乘者．谓之『舆』．比檐子稍増广．花样皆龙．前后檐皆剪椶．仪仗与驾出相似而少．仍无驾头．警跸耳．士庶家与贵家婚嫁．亦乘檐子．只无脊上铜凤花朶．左右两军．自有假赁所在．以至从人衫帽衣服从物倶可赁．不须借徣．余命妇王宫士庶通乘坐车子．如檐子样制．亦可客六人．前后有小勾栏．底下轴贯两挟朱轮．前出长辕约七八尺．独牛驾之．亦可假赁．</p>
+<p>　　杂赁</p>
+<p>　　若（上亠下凶）事出殡．自上而下．（上亠下凶）肆各有体例．如方相．车轝．结络．彩帛．皆有定价．不须劳力．寻常出街市干事．稍似路远倦行．逐坊巻桥市．自有假赁鞍马者．不过百钱．</p>
+<p>　　修整杂货及斋僧请道</p>
+<p>　　傥欲修整屋宇．泥补墙壁．生辰忌日．欲设斋僧尼道士．即早辰桥市街巷口皆有木竹匠人．谓之杂货工匠．必至杂作人夫．道士僧人．罗立会聚．候人请唤．谓之『罗斋』．竹不作料．亦有铺席．砖瓦泥匠．随手即就．</p>
+<p>　　筵官假赁</p>
+<p>　　凡民间吉（上亠下凶）筵会．椅桌陈设．器皿合盘．酒檐动使之类．自有茶酒司管赁．吃食下酒．自有厨司．以至托盘．下请书．安排坐次．尊前执事歌说劝酒．谓之『白席人』．总谓之『四司人』．欲就园馆亭榭寺院游赏命客之类．举意便辧．亦各有地分．承揽排备．自有则例．亦不敢过越取钱．虽百十分．厅馆整肃．主人只出钱而已．不用费力．</p>
+<p>　　会仙酒楼</p>
+<p>　　如州东仁和店．新门里会仙楼正店．常有百十分．厅馆动使各各足备．不尚少阙一件．大抵都人风俗奢侈．度量稍寛．凡酒店中不问何人．止两人对坐饮酒．亦须用注碗一副．盘盏两副．菓菜楪各五片．水菜椀三五只．即银近百两矣．虽一人独饮．盌遂亦用银盂之类．其菓子菜蔬．无非精洁．若别要下酒．即使人外买软羊．龟背．大小骨．诸色包子．玉板鲊．生削巴子．瓜姜之类．</p>
+<p>　　食店</p>
+<p>　　大凡食店．大者谓之『分茶』．则有头羹．石髓羹．白肉．胡饼．软羊．大小骨角．（上夕下肉）犒腰子．石肚羹．入炉羊罨．生软手麹．桐皮麺．姜溌刀．回刀．冷淘．棊子．寄炉麺饭之类．吃全茶．饶（上艹下韲）头羹．更有川饭店．即有插肉麺．大燠麺．大小抹肉淘．煎燠肉．杂煎事件．生熟烧饭．更有南食店．鱼兜子．桐皮熟脍麹．煎鱼饭．又有瓠羹店．门前以枋不及花样沓结缚如山棚．上挂成边猪羊．相间三二十边．近里门面窗戸．皆朱緑装余．谓之『驩门』．毎店各有厅院东西廊称呼坐次．客坐．则一人执筯纸．遍问坐客．都人侈纵．百端呼索．或热或常．或温或整．或絶冷．精浇．臕浇之类．人人索唤不同．行菜得之．近局次立．从头唱念．报与局内．当局者谓之『铛头』．又曰『着案』．讫．须臾．行菜者左手杈三椀．右臂自手至肩（马犬）叠约二十碗．散下尽合各人呼索．不容差错．一有差错．坐客白之主人．必加叱骂．或罚工价．甚者逐之．吾辈入店．则用一等琉璃浅棱椀．谓之『碧椀』．亦谓之『造羹』．菜蔬精细．谓之『造（上艹下韲）』．毎碗十文．麺与肉相停．谓之『合羹』．又有『单羹』．乃半个也．旧只用匙．今皆用筯矣．更有插肉．拨刀．炒羊．细物料．碁子．馄饨店．及有素分茶．如寺院斋食也．又有菜麺．胡蝶（上艹下韲）肐（月逹）．及卖随饭．荷包．白饭．旋切细料馉饳儿．瓜（上艹下韲）．萝卜之类．</p>
+<p>　　肉行</p>
+<p>　　坊巻桥市．皆有肉案．列三五人操刀．生熟肉从便索唤．阔切．片批．细抹．顿刀之类．至晩即有燠爆熟食上市．凡买物不上数钱得者是数．</p>
+<p>　　饼店</p>
+<p>　　凡饼店有油饼店．有胡饼店．若油饼店．即卖蒸饼．糖饼．装合．引盘之类．胡饼店则卖门油．菊花．寛焦．侧厚．油碢．髓饼．新样满麻．毎案用三五人捍剂卓花入炉．自五更卓案之声远近相闻．唯武成王庙前海州张家．皇建院前郑家最盛．毎家有五十余炉．</p>
+<p>　　鱼行</p>
+<p>　　卖生鱼则用浅抱桶．以柳叶间串清水中浸．或循街出卖．毎日早惟新郑门．西水门．万胜门．如此生鱼有数千檐入门．冬月即黄河诸远处客鱼来．谓之『车鱼』．毎斤不上一百文．</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14739.aspx">上一章</a>
+<a href="/guwen/book_171.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14741.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,117 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第四十六回_古诗文网
+</title>
+<meta content="八仙求文老子却说男子登仙，光拜金公；女子登仙，先拜金母。一日，何仙姑见诸仙友曰：“往者金公奋诞，众女仙亦往称觞，今金母寿诞在迩，众友亦将往为祝寿乎？”钟离、采和曰：“我辈虽各有所统" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17401.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第四十六回</b></span>
+<a href="javascript:PlayBookv(17401)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17401" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17401" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>八仙求文老子</strong></p>
+<p>　　却说男子登仙，光拜金公；女子登仙，先拜金母。</p>
+<p>　　一日，何仙姑见诸仙友曰：“往者金公奋诞，众女仙亦往称觞，今金母寿诞在迩，众友亦将往为祝寿乎？”</p>
+<p>　　钟离、采和曰：“我辈虽各有所统，然大礼所在，凡在天者，皆言往贺，吾等安可不往。但用无佳物以为敬耳。”</p>
+<p>　　张果老曰：“彼居极乐之乡，何物不备？必得名人之文以寿之，亦不落于俗套。”</p>
+<p>　　铁拐曰：“此言正是。”</p>
+<p>　　洞宾曰：“他人之文不足为奇，若得老君之作方妙。”</p>
+<p>　　仙姑曰：“老君待李仙长最厚，何不往彼求之？”</p>
+<p>　　铁拐曰：“吾意正如此。”又曰：“求文系众人之事，若吾独往，似欠至诚，还要众友同往何如？”</p>
+<p>　　果老曰：“可。”乃驾祥云齐至老君门外。</p>
+<p>　　仙童报道，八仙来谒。老君披衣出见，命坐。八仙动问起居一遍。老君曰：“近来有事，言之可笑。”</p>
+<p>　　八仙再问：“何事？”</p>
+<p>　　老君曰：“因下界诸生，盗吾文字，来取功名。有文昌下界，持正文衡，大厌书生文字深刻，以为皆主佛老诸经，乃斥吾道等经，置而不用，深为可恼。吾今将原著经典，尽行跋录，藏之九重天外，不复与世人作舟楫矣。”</p>
+<p>　　众仙曰：“还当出之，矜式天下。”</p>
+<p>　　铁拐自思曰：“今日之来本为求文，值彼正以文字为怒，如之奈何？”</p>
+<p>　　八仙面面相视，未敢发言。</p>
+<p>　　忽老君复问曰：“诸仙长公降小斋，必有见论，请言何妨？”</p>
+<p>　　铁拐曰：“因王母寿诞，诸友往贺，无以为敬，持借重老师大文，书之于轴，以为寿耳。”</p>
+<p>　　老君曰：“吾正恶此，汝又求之，不将又为世人作话柄耶？”</p>
+<p>　　众仙曰：“天凡迥隔，安得便知。”</p>
+<p>　　老君曰：“书生极善模仿，上字不作，庶免议论。第诸君来此，不可终辞。我为作一词以寿之何如？”</p>
+<p>　　八仙曰：“更妙，更妙。”</p>
+<p>　　老君援笔书之，乃《千秋岁》一调。词曰：</p>
+<p>　　昆仑日暖，阆苑风光好。玉楼醉，玄女傅朱颜，顿觉乌云晓，增纤巧；<br/>　　人在也，荣华南极祥光绕。位比东王老，历万劫而不朽，瑶池台上司阴教。<br/>　　钧天诸品，就赞乾坤自悠久；今朝海鹤添筹，莫惜金樽倒。</p>
+<p>　　八仙读之，称赞不止，于是辞别。老君送至云端。八仙驾云而返。乃求天孙之绵为轴，编星为字，剪霞为彩，且度王母宅宇之宽广而为之。即日完备，乃令仙重持轴，并仙桃仙酒前行。八仙盛服乘云，望王母庆寿而去。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17400.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17402.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

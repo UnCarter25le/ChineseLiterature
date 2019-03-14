@@ -1,0 +1,126 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+反经·练士_古诗文网
+</title>
+<meta content="夫王者帅师，必简练英雄，知士高下，因能授职。各取所长，为其股肱羽翼，以成威神，然后万事毕矣。 腹心一人(主赞谋应卒，揆天消变，总撮计谋，保国全命者也。)， 谋士五人(主国安危，豫虑" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5059.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3235" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>练士</b></span>
+<a href="javascript:PlayBookv(5059)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5059" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3235)" id="leftbtn3235" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5059" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b5%b5%e8%95%a4">赵蕤</a></p>
+<div class="contson">
+<p>　　夫王者帅师，必简练英雄，知士高下，因能授职。各取所长，为其股肱羽翼，以成威神，然后万事毕矣。 </p>
+<p>　　腹心一人(主赞谋应卒，揆天消变，总撮计谋，保国全命者也。)， </p>
+<p>　　谋士五人(主国安危，豫虑未然，谕才能，明赏罚，授官位，决嫌疑，定可否者也。)， </p>
+<p>　　天文三人(主占星历，候风气，理时日，考符验，校灾异，知天心去就者也。)， </p>
+<p>　　地形三人(主军行止，形势利害，远近险易，水涸山阻，不失地理者也。)， </p>
+<p>　　兵法九人(主讲论异同，行事成败，简练兵器，凡军阵所用，刺举非法者也。)， </p>
+<p>　　通粮四人(主广饮食，密畜积，通粮道，致五谷，令三军不困乏食者也。)， </p>
+<p>　　奋威四人(主择材士，谕兵马，风驰电击，不失所由，奇仗也。)， </p>
+<p>　　鼓旗三人(主佐鼓旗、符节、号令，倏忽往来，出入若神。)， </p>
+<p>　　股肱四人(主出旌杆，任重持难，修沟堑，治壁垒，四转守御者也。)， </p>
+<p>　　通材三人(主拾遗补过、集会、术数，周流并会，应偶宾客，议论谈语，消患结解。)， </p>
+<p>　　权士三人(主奇谲殊异，非人所识，行无穷之变也。)， </p>
+<p>　　耳目七人(主往来听言语，览视四方之事，军中之情伪，日列于前也。)， </p>
+<p>　　爪牙五人(主扬威武，激厉三军，冒难锐攻，令三军勇猛也。)， </p>
+<p>　　羽翼四人(主飞名誉，震远近，动移四境，以弱敌心者。)， </p>
+<p>　　游士八人(主相征祥，候开阖，视敌人为谋者也。)， </p>
+<p>　　术士二人(主为谲诈，依托鬼神，以惑敌心。)， </p>
+<p>　　法算二人(主计会三军，领理万物也。)， </p>
+<p>　　方士二人(主为药，以全伤病也。)。 </p>
+<p>　　军中：有大勇、敢死、乐伤者，聚为一卒(名曰冒刃之士)。 </p>
+<p>　　有勃气、壮勇、暴强者，聚为一卒(名曰陷阵之士)。 </p>
+<p>　　有学于奇正、长剑、雕弧，接武齐列者，聚为一卒(名曰锐骑之士)。 </p>
+<p>　　有破格舒钩，强梁多力，能溃破金鼓，绝灭旌旗者，聚为一卒(名曰勇力之士)。 </p>
+<p>　　有能逾高超远，轻足善走者，聚为一卒(名曰冠兵之士)。 </p>
+<p>　　有故王臣失势，欲复见其功者，聚为一卒(名曰死斗之士)。 </p>
+<p>　　有死罪之人，昆弟为其将报仇者，聚为一卒(名曰死愤之士)。 </p>
+<p>　　有贫穷忿怒，将快其志者，聚为一卒(名曰必死之士)。 </p>
+<p>　　有故赘婿人虏，欲昭迹扬名者，聚为一卒(名曰厉顿之士)。 </p>
+<p>　　有辩言巧辞，善毁誉者，聚为一卒(名曰间谍飞言弱敌之士)。 </p>
+<p>　　有故胥靡免罪之人，欲逃其耻者，聚为一卒(名曰幸用之士)。 </p>
+<p>　　有材伎过人，能负重行数百里者，聚为一卒(名曰待令之士)。 </p>
+<p>　　夫卒强将弱，曰弛；吏强卒弱，曰陷；兵无先锋，曰北。必然之数矣。故曰：“兵众孰强？士卒孰练？”“知之者胜，不知之者不胜。”不可忽也。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5058.aspx">上一章</a>
+<a href="/guwen/book_57.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5060.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3235" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

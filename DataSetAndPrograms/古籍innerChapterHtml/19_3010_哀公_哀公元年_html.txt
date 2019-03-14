@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·哀公·哀公元年_古诗文网
+</title>
+<meta content="【经】元年春王正月，公即位。楚子、陈侯、随侯、许男围蔡。鼷鼠食郊牛，改卜牛。夏四月辛巳，郊。秋，齐侯，卫侯伐晋。冬，仲孙何忌帅师伐邾。【传】元年春，楚子围蔡，报柏举也。里而栽，广丈" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3010.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1541" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>哀公·哀公元年</b></span>
+<a href="javascript:PlayBookv(3010)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3010" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1541)" id="leftbtn1541" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3010" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】元年春王正月，公即位。楚子、陈侯、随侯、许男围蔡。鼷鼠食郊牛，改卜牛。夏四月辛巳，郊。秋，齐侯，卫侯伐晋。冬，仲孙何忌帅师伐邾。</p>
+<p>　　【传】元年春，楚子围蔡，报柏举也。里而栽，广丈，高倍。夫屯昼夜九日，如子西之素。蔡人男女以辨，使疆于江、汝之间而还。蔡于是乎请迁于吴。 </p>
+<p>　　吴王夫差败越于夫椒，报檇李也。遂入越。越子以甲楯五千，保于会稽。使大夫种因吴大宰嚭以行成，吴子将许之。伍员曰：「不可。臣闻之树德莫如滋，去疾莫如尽。昔有过浇杀斟灌以伐斟鄩，灭夏后相。后婚方娠，逃出自窦，归于有仍，生少康焉，为仍牧正。惎浇，能戒之。浇使椒求之，逃奔有虞，为之庖正，以除其害。虞思于是妻之以二姚，而邑诸纶。有田一成，有众一旅，能布其德，而兆其谋，以收夏众，抚其官职。使女艾谍浇，使季杼诱豷，遂灭过、戈，复禹之绩。祀夏配天，不失旧物。今吴不如过，而越大于少康，或将丰之，不亦难乎？句践能亲而务施，施不失人，亲不弃劳。与我同壤而世为仇雠，于是乎克而弗取，将又存之，违天而长寇仇，后虽悔之，不可食已。姬之衰也，日可俟也。介在蛮夷，而长寇仇，以是求伯，必不行矣。」弗听。退而告人曰：「越十年生聚，而十年教训，二十年之外，吴其为沼乎！」三月，越及吴平。吴入越，不书，吴不告庆，越不告败也。 </p>
+<p>　　夏四月，齐侯、卫侯救邯郸，围五鹿。</p>
+<p>　　吴之入楚也，使召陈怀公。怀公朝国人而问焉，曰：「欲与楚者右，欲与吴者左。陈人从田，无田从党。」逢滑当公而进，曰：「臣闻国之兴也以福，其亡也以祸。今吴未有福，楚未有祸。楚未可弃，吴未可从。而晋，盟主也，若以晋辞吴，若何？」公曰：「国胜君亡，非祸而何？」对曰：「国之有是多矣，何必不复。小国犹复，况大国乎？臣闻国之兴也，视民如伤，是其福也。其亡也，以民为土芥，是其祸也。楚虽无德，亦不艾杀其民。吴日敝于兵，暴骨如莽，而未见德焉。天其或者正训楚也！祸之适吴，其何日之有？」陈侯从之。及夫差克越，乃修先君之怨。秋八月，吴侵陈，修旧怨也。 </p>
+<p>　　齐侯、卫侯会于乾侯，救范氏也，师及齐师、卫孔圉、鲜虞人伐晋，取棘蒲。 </p>
+<p>　　吴师在陈，楚大夫皆惧，曰：「阖庐惟能用其民，以败我于柏举。今闻其嗣又甚焉，将若之何？」子西曰：「二三子恤不相睦，无患吴矣。昔阖庐食不二味，居不重席，室不崇坛，器不彤镂，宫室不观，舟车不饰，衣服财用，择不取费。在国，天有灾疠，亲巡孤寡，而共其乏困。在军，熟食者分，而后敢食。其所尝者，卒乘与焉。勤恤其民而与之劳逸，是以民不罢劳，死知不旷。吾先大夫子常易之，所以败我也。今闻夫差次有台榭陂池焉，宿有妃嫱嫔御焉。一日之行，所欲必成，玩好必从。珍异是聚，观乐是务，视民如仇，而用之日新。夫先自败也已。安能败我？」 </p>
+<p>　　冬十一月，晋赵鞅伐朝歌。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3009.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3011.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1541" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

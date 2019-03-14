@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷一·蛇人_古诗文网
+</title>
+<meta content="东郡某甲，以弄蛇为业。尝蓄驯蛇二，皆青色，其大者呼之大青，小曰二青。二青额有赤点，尤灵驯，盘旋无不如意。蛇人爱之异于他蛇。期年大青死，思补其缺，未暇遑也。一夜寄宿山寺。既明启笥，二" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11417.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·蛇人</b></span>
+<a href="javascript:PlayBookv(11417)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11417" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11417" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　东郡某甲，以弄蛇为业。尝蓄驯蛇二，皆青色，其大者呼之大青，小曰二青。二青额有赤点，尤灵驯，盘旋无不如意。蛇人爱之异于他蛇。期年大青死，思补其缺，未暇遑也。一夜寄宿山寺。既明启笥，二青亦渺，蛇人怅恨欲死。冥搜亟呼，迄无影兆。然每至丰林茂草，辄纵之去，俾得自适，寻复返；以此故冀其自至。坐伺之，日既高，亦已绝望，怏怏遂行。出门数武，闻丛薪错楚中窸窣作响，停趾愕顾，则二青来也。大喜，如获拱璧。息肩路隅，蛇亦顿止。视其后，小蛇从焉。抚之曰：“我以汝为逝矣。小侣而所荐耶？”出饵饲之，兼饲小蛇。小蛇虽不去，然瑟缩不敢食。二青含哺之，宛似主人之让客者。蛇人又饲之，乃食。食已，随二青俱入笥中。荷去教之旋折，辄中规矩，与二青无少异，因名之小青。炫技四方，获利无算。</p>
+<p>　　大抵蛇人之弄蛇也，止以二尺为率，大则过重，辄更易。缘二青驯，故未遽弃。又二三年，长三尺余，卧则笥为之满，遂决去之。一日至淄邑东山间，饲以美饵，祝而纵之。既去，顷之复来，蜿蜒笥外。蛇人挥曰：“去之！世无百年不散之筵。从此隐身大谷，必且为神龙，笥中何可以久居也？”蛇乃去。蛇人目送之。已而复返，挥之不去，以首触笥，小青在中亦震震而动。蛇人悟曰：“得毋欲别小青也？”乃发笥，小青径出，因与交首吐舌，似相告语。已而委蛇并去。方意小青不还，俄而踽踽独来，竟入笥卧。由此随在物色，迄无佳者，而小青亦渐大不可弄。后得一头亦颇驯，然终不如小青良。而小青粗于儿臂矣。</p>
+<p>　　先是二青在山中，樵人多见之。又数年，长数尺，围如碗，渐出逐人，因而行旅相戒，罔敢出其途。一日蛇人经其处，蛇暴出如风，蛇人大怖而奔。蛇逐益急，回顾已将及矣。而视其首，朱点俨然，始悟为二青。下担呼曰：“二青，二青！”蛇顿止。昂首久之，纵身绕蛇人如昔弄状，觉其意殊不恶，但躯巨重，不胜其绕，仆地呼祷，乃释之。又以首触笥，蛇人悟其意，开笥出小青。二蛇相见，交缠如饴糖状，久之始开。蛇人乃祝小青曰：“我久欲与汝别，今有伴矣。”谓二青曰：“原君引之来，可还引之去。更嘱一言：深山不乏食饮，勿扰行人，以犯天谴。”二蛇垂头，似相领受。遽起，大者前，小者后，过处林木为之中分。蛇人伫立望之，不见乃去。此后行人如常，不知二蛇何往也。</p>
+<p>　　异史氏曰：“蛇，蠢然一物耳，乃恋恋有故人之意，且其从谏也如转圜。独怪俨然而人也者，以十年把臂之交，数世蒙恩之主，转思下井复投石焉；又不然则药石相投，悍然不顾，且怒而仇焉者，不且出斯蛇下哉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11416.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11418.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

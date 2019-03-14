@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+逸周书·卷五·商誓解_古诗文网
+</title>
+<meta content="王若曰：“告尔伊旧何父□□□□几耿肃执，乃殷之旧官人序文□□□□，及太史比、小史昔，及百官里居献民□□□来尹师之敬诸戒疾听朕言，用胥生蠲尹王曰：嗟尔众，予言，若敢顾天命，予来致上帝" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5135.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3404" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·商誓解</b></span>
+<a href="javascript:PlayBookv(5135)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5135" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3404)" id="leftbtn3404" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5135" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　王若曰：“告尔伊旧何父□□□□几耿肃执，乃殷之旧官人序文□□□□，及太史比、小史昔，及百官里居献民□□□来尹师之敬诸戒疾听朕言，用胥生蠲尹王曰：嗟尔众，予言，若敢顾天命，予来致上帝之威命，明罚。今惟新诰命尔，敬诸朕话言，自一言至于十话，言其惟明命尔。王曰：在昔在昔后稷，惟上帝之言，克播百谷，登禹之绩，凡在天下之庶民，罔不维后稷之元谷用蒸享。在商先誓王明祀上帝□□□□亦维我后稷之元谷用告和用胥饮食。肆商先誓，王维厥故，斯用显我西土。今在商纣，昏忧天下，弗显上帝，昏虐百姓，奉天之命，上帝弗显，乃命朕文考，曰殪商之多罪。纣肆予小在发弗敢往天命，朕考胥翕稷政，肆上帝曰：必伐之。予惟甲子，克致天之大罚□帝之来革纣之□。予亦无敢违大命，敬诸。昔在我西土，我其有言，胥告商之百无罪。其维一夫。予既殛纣，承天命，予亦来休命，尔百姓里居君子，其周即命。□□□□□□□□□□□□□□□□□□□□□□□□□□□□□尔冢邦君无敢其有不告见互我有周，其比冢邦君，我无攸爱。上帝曰：必伐之。今予惟明告尔，予其往追□纣遂走秦集之于上帝。天王其有命尔百姓献民其有缀艿。夫自敬其有斯天命，不令尔百姓无告。西土疾勤，其斯有何重天维用重勤，兴起我，罪勤我。无克乃一心。尔多子其人，自敬之类天，永休于我西土，尔百姓其亦有安处在彼。宜在天命□及恻乱。予保奭其介，有斯勿用天命。若朕厣，在周曰：商百姓无罪，朕命在周，其乃先作我肆罪疾，予惟以先王之道御复正尔百姓，越则非朕负乱。惟尔在我王曰：百姓，我闻古商先誓王，成汤克辟上帝，保生商民，克用三德，疑商民，弗怀用辟厥辟。今纣弃成汤之典，肆上帝命我小国曰：革商国，肆予明命汝百姓。其斯弗用朕命，其斯尔冢邦君，商庶百姓，予则□刘灭之。王曰：靃予天命，维既咸汝克承天休于我有周，斯小国于有命不易，昔我盟津，帝休辨商其有何国命，予小子肆我殷戎，亦辨百度□□美左右予。予肆刘殷之命。今予维笃滪尔，予史、太史违我，黡视尔靖疑，胥敬，请其斯一话，敢逸僭予，则上帝之明命，予尔拜，拜□百姓，越尔庶义、庶刑，予维及西土，我乃其来，即刑乃，敬之哉！庶听朕言，罔胥告。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5134.aspx">上一章</a>
+<a href="/guwen/book_60.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5136.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3404" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

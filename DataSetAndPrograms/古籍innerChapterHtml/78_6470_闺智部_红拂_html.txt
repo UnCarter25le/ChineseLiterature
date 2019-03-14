@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·闺智部·红拂_古诗文网
+</title>
+<meta content="【原文】杨素守西京日，李靖以布衣献策。素踞床而见，靖长揖曰：“天下方乱，英雄竞起，公为重臣，须以收罗豪杰为心，不宜倨见宾客。”素敛容谢之。时妓妾罗列，内有执红拂者，有殊色，独目靖。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6470.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5453" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>闺智部·红拂</b></span>
+<a href="javascript:PlayBookv(6470)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6470" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5453)" id="leftbtn5453" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6470" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　杨素守西京日，李靖以布衣献策。素踞床而见，靖长揖曰：“天下方乱，英雄竞起，公为重臣，须以收罗豪杰为心，不宜倨见宾客。”素敛容谢之。时妓妾罗列，内有执红拂者，有殊色，独目靖。靖既去，而执拂者临轩指吏曰：“问去者处士第几？住何处？”（边批：见便识李靖。）靖具以对。妓诵而去。靖归逆旅，其夜五更初，忽闻叩门而声低者，靖启视，则紫衣红拂纱帽人，杖一囊，问之，曰：“杨家红拂妓也。”延入，脱衣去帽，遽向靖拜，靖惊答之，再叩来意，曰：“妾侍杨司空久，阅天下之人多矣，无如公者，故来相就耳。”靖曰：“如司空何？”曰：“彼尸居余气，（边批：又识杨素。）不足畏也。诸妓知其无成，去者甚众矣，彼亦不甚逐也。计之详矣，幸无疑焉。”问其姓，曰：“张。”问其伯仲之次，曰：“最长。”观其肌肤仪状、言辞气语，真天人也。靖不自意获之，愈喜愈惧，万虑不安，而窥户者无停履。数日，亦闻追讨之声，意亦非峻。乃雄服乘马，排闼⑤而去，将归太原。行次灵石旅舍，既设床，炉中烹肉且熟。张氏以发长委地，立梳床前；靖方刷马，忽有一客，中形，赤髯如虬，策蹇驴而来，投革囊于驴前，取枕欹卧，看张梳头。（边批：便知非常人。）靖怒甚，欲发，张熟视客，一手映身摇示靖，令勿怒。（边批：又识虬髯客。）急梳毕，敛衽前问其姓，客卧而答之，曰：“姓张。”对曰：“妾亦姓张，合是妹。”遽拜之。问其第几，曰：“行三。”亦问妹第几，曰：“最长。”客喜曰：“今日幸逢一妹。”张氏遥呼：“李郎，且来见三兄!”靖骤拜之，遂环坐，问煮何肉，曰：“羊肉，计已熟矣。”客曰饥，靖出市胡饼。客抽腰间匕首，切肉共食，复索酒饮，于是开革囊，取下酒物，乃一人首并心肝，却头囊中，以匕首切心肝共食之，曰：“此人乃天下负心者，衔之十年，今始获之。”又曰：“观李郎贫士，何以得致异人？”靖不敢隐，具言其由，曰：“然。故知非君所致也，今将何之？”曰：“将避地太原。”曰：“望气者言太原有奇气，吾将访之。”靖因言州将子李世民，客与靖期会于汾阳桥，遂乘驴疾去。及期候之，相见大喜，靖诈言客善相，因友人刘文靖得见。“世民真天子矣!”废然而返，遂邀靖夫妇至家，令其妻出见，酒极奢，因倾家财付靖，文簿匙锁，共二十床，曰：“赠李郎佐真主立功业也。”与其妻戎服跃马，一奴从之。数步遂不复见。靖竟佐命，封卫公。</p>
+<p>　　〔评〕吴长卿曰：“红拂见卫公，自以为不世之遇，视杨素蔑如矣；孰知又有一虬髯也，视李郎又蔑如矣。惜哉，不及见李公子也!”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6469.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6471.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5453" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

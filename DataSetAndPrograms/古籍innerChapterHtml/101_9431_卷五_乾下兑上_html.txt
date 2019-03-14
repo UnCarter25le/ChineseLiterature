@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷五·乾下兑上_古诗文网
+</title>
+<meta content="夬，揚于王庭，孚號有厲，告自邑，不利即戎，利有攸往。彖曰：夬，決也，剛決柔也。健而説，決而和。揚于王庭，柔乘五剛也。孚號有厲，其危乃光也。告自邑不利，即戎所尚，乃窮也。利有攸往，剛" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9431.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·乾下兑上</b></span>
+<a href="javascript:PlayBookv(9431)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9431" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9431" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　夬，揚于王庭，孚號有厲，告自邑，不利即戎，利有攸往。彖曰：夬，決也，剛決柔也。健而説，決而和。揚于王庭，柔乘五剛也。孚號有厲，其危乃光也。告自邑不利，即戎所尚，乃窮也。利有攸往，剛長乃終也。</p>
+<p>　　陽長終位而陰微也。君子在位，小人在野，健制而能悦之，不隱情也。剛決而能和之，不任力而剛不過中也。故顯于王庭而民得治也。夫用九即吉於无首也，剛長即凶於用壯也。道之窮則不富矣，其危矣哉。信有危而思患，呻號終无刑，乃保其光也。告自邑，揚而令之從也。不利即戎，肆剛騁力，道途斯變。利有攸往，柔道外而剛治遂終也。</p>
+<p>　　象曰：澤上於天，夬。君子以施禄及下，居徳則忌。</p>
+<p>　　澤上於天，上澤以及下也。上以明法，決治致其平也。君子以施禄及下，惠其澤也。選徳以居其位，取則以上為禁，盡已而不敢上越也。</p>
+<p>　　初九，壯于前，趾往不勝，為咎。象曰：不勝而往，咎也。</p>
+<p>　　陽處體初，志在乎前，趾將行以，求勝也。壯之用斯窮之矣，下之微也，何可勝哉。知其不可以往之，自為咎也。</p>
+<p>　　九二，惕號莫夜，有戎勿恤。象曰：有戎勿恤，得中道也。</p>
+<p>　　以剛而退，守於柔，知其危而懼，呻號戎於昧矣，可為戎，无敵也。何所憂乎，得其中道，吉也。</p>
+<p>　　九三，壯于頄，有凶，君子夬夬，獨行遇雨若濡，有愠，无咎。象曰：君子夬夬，終无咎也。</p>
+<p>　　當位上應，往而為壯，内得其心，外形于色，壯見于頄也。行而與邪凶之道也。夫君子治已，豈係於私哉。雖獨行，遇應而潤於我，而反恕其邪志，匪其失亦又何咎。</p>
+<p>　　九四，臀无膚，其行次且，牽羊悔亡。聞言不信。象曰：其行次且，位不當也。聞言不信，聦不明也。</p>
+<p>　　志進決柔而逼於上，坐不能安，行不能正，剛而不當其位也。羊者，觗突不迴之物，比之用壯，焉能自牽。繫其志，不縱其壯，則悔亡也。是語也，聽之而不能明，昧為其道者也。</p>
+<p>　　九五，莧陸夬夬，中行无咎。象曰：中行无咎，中未光也。</p>
+<p>　　上无位之尊也。決，其決至易也。莧陸之柔，脃也。以至尊之徳，務至微之物，則缺於與能矣。夬而得中，无咎而已豈足以為光哉。</p>
+<p>　　上六，无號，終有凶。象曰：无號之凶，終不可長也。</p>
+<p>　　剛長而一柔尚存，亡无日矣。雖號之无及已也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9430.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9432.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

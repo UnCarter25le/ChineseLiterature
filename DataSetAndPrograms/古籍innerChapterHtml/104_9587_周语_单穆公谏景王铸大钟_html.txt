@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·周语·单穆公谏景王铸大钟_古诗文网
+</title>
+<meta content="二十三年，王将铸无射而为之大林。单穆公曰：“不可。作重币以绝民资，又铸大钟以鲜其继。若积聚既丧，又鲜其继，生何以殖？且夫钟不过以动声，若无射有林，耳弗及也。夫钟声以为耳也，耳所不及" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9587.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8338" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>周语·单穆公谏景王铸大钟</b></span>
+<a href="javascript:PlayBookv(9587)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9587" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8338)" id="leftbtn8338" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9587" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+二十三年，王将铸无射而为之大林。单穆公曰：“不可。作重币以绝民资，又铸大钟以鲜其继。若积聚既丧，又鲜其继，生何以殖？且夫钟不过以动声，若无射有林，耳弗及也。夫钟声以为耳也，耳所不及，非钟声也。犹目所不见，不可以为目也。夫目之察度也，不过步武尺寸之间；其察色也，不过墨丈寻常之间。耳之察和也，在清浊之间；其察清浊也，不过一人之所胜。是故先王之制钟也，大不出钧，重不过石。律度量衡于是乎生，小大器用于是乎出，故圣人慎之。今王作钟也，听之弗及，比之不度，钟声不可以知和，制度不可以出节，无益于乐而鲜民财，将焉用之！
+</p><p>　　
+“夫乐不过以听耳，而美不过以观目。若听乐而震，观美而眩，患莫甚焉。夫耳目，心之枢机也，故必听和而视正。听和则聪，视正则明。聪则言听，明则德昭。听言昭德，则能思虑纯固。以言德于民，民歆而德之，则归心焉。上得民心以殖义方，是以作无不济，求无不获。然则能乐。夫耳内和声，而口出美言，以为宪令，而布诸民，正之以度量，民以心力，从之不倦，成事不贰，乐之至也。口内味而耳内声，声味生气。气在口为言，在目为明。言以信名，明以时动。名以成政，动以殖生。政成生殖，乐之至也。若视听不和，而有震眩，则味入不精，不精则气佚，气佚则不和。于是乎有狂悖之言，有眩惑之明，有转易之名，有过慝之度。出令不信，刑政放纷，动不顺时，民无据依，不知所力，各有离心。上失其民，作则不济，求则不获，其何以能乐？三年之中，而有离民之器二焉，国其危哉！”
+</p><p>　　
+王弗听，问之伶州鸠。对曰：“臣之守官弗及也。臣闻之，琴瑟尚宫，钟尚羽，石尚角，匏竹利制，大不逾宫，细不过羽。夫宫，音之主也，第以及羽。圣人保乐而爱财，财以备器，乐以殖财，故乐器重者从细，轻者从大。是以金尚羽，石尚角，瓦丝尚宫，匏竹尚议，革木一声。
+</p><p>　　
+“夫政象乐，乐从和，和从平。声以和乐，律以平声。金石以动之，丝竹以行之，诗以道之，歌以咏之，匏以宣之，瓦以赞之，革木以节之。物得其常曰乐极，极之所集曰声，声应相保曰和，细大不逾曰平。如是，而铸之金，磨之石，系之丝木，越之匏竹，节之鼓而行之，以遂八风。于是乎气无滞阴，亦无散阳，阴阳序次，风雨时至，嘉生繁祉，人民和利，物备而乐成，上下不罢，故曰乐正。今细过其主妨于正，用物过度妨于财，正害财匮妨于乐。细抑大陵，不容于耳，非和也。听声越远，非平也。妨正匮财，声不和平，非宗官之所司也。
+</p><p>　　
+“夫有和平之声，则有蕃殖之财。于是乎道之以中德，咏之以中音，德音不愆以合神人，神是以宁，民是以听。若夫匮财用、罢民力以逞淫心，听之不和，比之不度，无益于教而离民怒神，非臣之所闻也。”
+</p><p>　　
+王不听，卒铸大钟。二十四年，钟成，伶人告和。王谓伶州鸠
+</p><p>　　
+曰：“钟果和矣。”对曰：“未可知也。”王曰：“何故？”对曰：“上作器，民备乐之，则为和。今财亡民罢，莫不怨恨，臣不知其和也。且民所曹好，鲜其不济也。其所曹恶，鲜其不废也。故谚曰：‘众心成城，众口铄金。’三年之中而害金再兴焉，惧一之废也。”王曰：“尔老耄矣，何知？”二十五年，王崩，钟不和。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9586.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9588.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8338" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

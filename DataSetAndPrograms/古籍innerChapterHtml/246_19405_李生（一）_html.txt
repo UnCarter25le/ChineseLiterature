@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·李生（一）_古诗文网
+</title>
+<meta content="唐贞元中，有李生者，家河朔间，少有膂力，恃气好侠，不拘细行，常与轻薄少年游。年二十余，方折节读书，为歌诗，人颇称之。累为河朔官，后至深州录事参军。生美风仪，善谈笑，曲晓吏事，廉谨明" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19405.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>李生（一）</b></span>
+<a href="javascript:PlayBookv(19405)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19405" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19405" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　唐贞元中，有李生者，家河朔间，少有膂力，恃气好侠，不拘细行，常与轻薄少年游。年二十余，方折节读书，为歌诗，人颇称之。累为河朔官，后至深州录事参军。生美风仪，善谈笑，曲晓吏事，廉谨明干。至于击鞠饮酒，皆号为能，雅为太守所知。，士真醉悟，急召左右：“往取李某首来。”左右即于狱中斩其首以进。士真熟视而笑，既而又与太守大饮于郡斋。酒醉，太守因欢，乃起曰：“某不才，幸得守一郡，而副大使下察弊政，宽不加罪，为恩厚矣。昨日副大使命某召他客，属郡僻</p>
+<p>　　时王武俊帅成德军，恃功负众，不顾法度，支郡守畏之侧目。尝遣其子士真巡属郡，至深州，太守大具牛酒，所居备声乐宴士真。太守畏武俊，而奉士真之礼甚谨。又虑有以酒忤士真者，以故僚吏宾客，一不敢召。士真大喜，以为他郡莫能及。饮酒至夜，士真乃曰：“幸使君见待之厚，欲尽欢于今夕，岂无嘉宾，愿得召之。”太守曰：“偏郡无名人，惧副大使之威，不敢以他客奉宴席。唯录事参军李某，足以侍谈笑。”士真曰：“但命之。”于是召李生，入趋拜。士真目之，色甚怒。既而命坐，貌益恭，士真愈不悦，瞪顾攘腕，无向时之欢矣。太守惧，莫知所谓。顾视生靦然而汗，不能持杯，一坐皆愕。有顷，士真叱左右，缚李某系狱，左右即牵李袂，疾去械狱中。已而士真欢饮如初。元中，有李生者，家河朔间，少有膂力，恃气好侠，不拘细行，常与轻薄少年游。年二十余，方折节读书，为歌诗，人颇称之。累为河朔官，后至深州录事参军。生美风仪，善谈笑，曲晓吏事，廉谨明干。至于击鞠饮酒，皆号为能，雅为太守所知。</p>
+<p>　　迨晓宴罢，太守且惊且惧，乃潜使于狱中讯李生，曰：“君貌甚恭，且未尝言，固非忤于王君，君宁自知耶！”李生悲泣久之，乃曰：“常闻释氏有现世之报，吾知之矣。某少贫，无以自资，由是好与侠士游，往往掠夺里人财帛。常驰马腰弓，往还太行道，日百余里。一日遇一年少，鞭骏骡，负二匹囊，吾利其资，顾左右，皆岩崖万仞，而日渐曛黑，遂力排之，堕于崖下。即疾驱其骡逆旅氏，解其囊，得缯绮百余段。自此家稍赡，因折弓夭，闭门读书，遂仕而至此，及今凡二十七矣。昨夕君侯命与王公之宴，既入，而视王公之貌，乃吾曩时所杀少年也。一拜之后，中心惭惕，自知死不朝夕。今则延颈待刃，又何言哉！为我谢君侯，幸知我深，敢以身后为托。”宴罢，太守且惊且惧，乃潜使于狱中讯李生，曰：“君貌甚恭，且未尝言，固非忤于王君，君宁自知耶！”李生悲泣久之，乃曰：“常闻释氏有现世之报，吾知之矣。某少贫，无以自资，由是好与侠士游，往往掠夺里人财帛。常驰马腰弓，往还太行道，日百余里。一日遇一年少，鞭骏骡，负二匹囊，</p>
+<p>　　有顷，士真醉悟，急召左右：“往取李某首来。”左右即于狱中斩其首以进。士真熟视而笑，既而又与太守大饮于郡斋。酒醉，太守因欢，乃起曰：“某不才，幸得守一郡，而副大使下察弊政，宽不加罪，为恩厚矣。昨日副大使命某召他客，属郡僻小无客，不足奉欢宴者。窃以李某善饮酒，故请召之。而李某愚憨，不习礼法，大忤于明公，实某之罪也。今明公既已诛之，宜矣。窃有所未晓，敢以上问。李某之罪为何愿得明数之，且用诫于将来也。”士真笑曰：“李生亦无罪，但吾一见之遂忿然激吾心，已有戮之之意。今既杀之，吾亦不知其所以然也。君无复言。”武俊帅成德军，恃功负众，不顾法度，支郡守畏之侧目。尝遣其子士真巡属郡，至深州，太守大具牛酒，所居备声乐宴士真。太守畏武俊，而奉士真之礼甚谨。又虑有以酒忤士真者，以故僚吏宾客，一不敢召。士真大喜，以为他郡莫能及。饮酒至夜，士真乃曰：“幸使君见待之厚，欲尽欢于今夕，岂无嘉宾，愿得召之。”太守曰：“偏郡无名人，惧副大使之威，不敢以他客奉宴席。唯录事参军李某，足以侍谈笑。”士真曰：“但命之。”于是召李生，入趋拜。士真目之，色甚怒。既而及宴罢，太守密讯其年，则二十有七矣。盖李生杀少年之岁，而士真生于王氏也。太守叹异久之，因以家财厚葬李生。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19404.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19406.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,122 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·选举部·御史_古诗文网
+</title>
+<meta content="白简晋傅玄为御史，每有奏劾，或值日暮，捧白简，整簪带，竦诵不休，坐以待旦。贵游慑服，台阁风生。乌台汉成帝时，御史府列柏树，有野乌数千栖其上，故称乌台，亦称“柏台”。法冠绣衣《汉书》" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19217.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>选举部·御史</b></span>
+<a href="javascript:PlayBookv(19217)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19217" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19217" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>白简</strong></p>
+<p>　　晋傅玄为御史，每有奏劾，或值日暮，捧白简，整簪带，竦诵不休，坐以待旦。贵游慑服，台阁风生。</p>
+<p>　　<strong>乌台</strong></p>
+<p>　　汉成帝时，御史府列柏树，有野乌数千栖其上，故称乌台，亦称“柏台”。</p>
+<p>　　<strong>法冠绣衣</strong></p>
+<p>　　《汉书》：法冠，御史冠也，本楚王冠也。秦灭楚，以其君冠赐御史也。绣衣御史，汉武帝所置。法冠一名“獬豸冠”。</p>
+<p>　　<strong>独击鹘</strong></p>
+<p>　　宋王素既升台宪，风力愈劲。尝与同列奏事，上有不怿，众皆引去，素方论列是非，俟得旨，乃退。帝叹曰：“真御史也。”人皆目为“独击鹘”。</p>
+<p>　　<strong>石御史</strong></p>
+<p>　　唐刘思立举进士，高宗擢为御史，执法不阿，弹劾权贵，人号“石御史”。</p>
+<p>　　<strong>骢马</strong></p>
+<p>　　后汉桓兴为侍御史，直言无所忌讳。常乘白马，京师惮之，为语曰：“行行且止，避骢马御史。”</p>
+<p>　　<strong>铁面御史</strong></p>
+<p>　　宋赵抃少孤贫，举进士，及为殿中侍御，弹劾不避权贵，号为“铁面御史”。</p>
+<p>　　<strong>豹直</strong></p>
+<p>　　汉《舆服志》：大驾属车八十一乘，皆尚书台省官所载，最后一乘，侍御史所乘，独悬豹尾，故名“豹直”。</p>
+<p>　　<strong>节度胆落</strong></p>
+<p>　　唐敬宗朝，夏州节度使李佑入朝，违诏进奉，御史温造弹之。佑趋出待罪，股栗流汗，谓人曰：“吾夜逾蔡州，擒吴元济，未尝心动，今日胆落于温御史矣。”</p>
+<p>　　<strong>埋轮当道</strong></p>
+<p>　　后汉张纲为御史。安帝时，遣八使按行风俗，纲独埋其车轮于洛阳都亭，曰：“豺狼当道，安问狐狸？”遂劾大将军梁冀兄弟。</p>
+<p>　　<strong>头轫乘舆</strong></p>
+<p>　　申屠刚，建武初拜侍御史，延臣畏其鲠直。时陇蜀未平，上欲出游，刚力谏，不听。以头轫乘舆，马不得前。</p>
+<p>　　<strong>贵戚泥楼</strong></p>
+<p>　　汉李景让为御史大夫，刚直自持，不畏权幸。内臣贵戚有看街楼阁，皆泥之，畏其弹劾。</p>
+<p>　　<strong>劾灯笼锦</strong></p>
+<p>　　宋唐介为御史，劾文彦博知益州日以灯笼锦媚贵妃，致位宰相，请逐彦博。仁宗怒，谪介英州别驾。</p>
+<p>　　<strong>炎暑为君寒</strong></p>
+<p>　　唐岑参《送侍御韦思谦》诗曰：“闻欲朝金阙，应须拂豸冠。风霜随雁去，炎暑为君寒。”</p>
+<p>　　<strong>天变得末减</strong></p>
+<p>　　杨瑄，天顺初为御史，劾曹吉祥、石亨怙宠擅权。后为曹、石文致坐死。将刑，会大风拔木，吹正阳门下马牌于郊外，得末减。子源为五官监候，以占候上言指斥刘瑾。瑾怒曰：“尔何官，亦学为忠臣乎？”杖而戍之。刘瑾之乱，大臣科道同日勒令致仕四十八人，以其名榜示天下。源之同乡御史熊卓与焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19216.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19218.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

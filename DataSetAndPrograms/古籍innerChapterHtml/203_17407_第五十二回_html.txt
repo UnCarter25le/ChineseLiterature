@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第五十二回_古诗文网
+</title>
+<meta content="龙王水灌八仙却说八仙烧干东海，夺得龙宫，见其中富贵非常，珍宝满地。入后宫观看，只见所失玉板亦在，众仙得之大喜。各相谓曰：“此畜富贵如此，何不知足，夺此玉板何用？今日国破人亡，果是自" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17407.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第五十二回</b></span>
+<a href="javascript:PlayBookv(17407)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17407" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17407" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>龙王水灌八仙</strong></p>
+<p>　　却说八仙烧干东海，夺得龙宫，见其中富贵非常，珍宝满地。入后宫观看，只见所失玉板亦在，众仙得之大喜。各相谓曰：“此畜富贵如此，何不知足，夺此玉板何用？今日国破人亡，果是自作孽，不可活也。”言论之间，不觉天晚。众仙战斗困倦，皆曰：“便在此处一宿。明日早赴龙华。”言罢众仙皆睡。</p>
+<p>　　果老终是春秋高大，更兼有事在心，夜卧不寐，醒至四更，听得外面轰轰有炮响，谓众仙曰：“外面人声大作，想有敌兵复来，可作准备。”</p>
+<p>　　众曰：“彼已大败，安敢再来？”</p>
+<p>　　铁拐曰：“兵法有虚有实；善战者敌不其守；善守者敌不知其所攻。”又云：“‘攻其无备，出其不意。’此数者皆兵家之所不可忽者也。况彼素善于水，而吾侪又居海下，倘决水一灌，不其皆为鱼鳖乎？”</p>
+<p>　　钟离猛省曰：“此言极是。”急令洞宾出视，未及回报，只见一声炮响，喊杀震天，四面潮头，如山似练，滚滚而来。</p>
+<p>　　八仙急欲登岸，并无去路，举火烧海，水气从上逼下，火皆无光，水溺至身，无计可脱。正在惊慌，只见国舅一人不溺，行即水开，往即水止。众视之，其腰间宝带，乃辟水犀为的。众仙大喜曰：“执此可复此仇矣。”乃各取其犀带一片在乎，水即分开一路，众仙登岸逃出。</p>
+<p>　　四海龙王督兵决水，专待八仙溺水擒获报仇。但见水溺东洋，并无八仙动静，皆以为溺死海中。敖闰报令收兵，乃与三海龙王相会，致谢救援之意。东海龙王亦自向前答谢，传令宫中备下筵席，款待三位龙王，须臾完备，四海龙王皆入宫饮宴去了。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17406.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17408.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

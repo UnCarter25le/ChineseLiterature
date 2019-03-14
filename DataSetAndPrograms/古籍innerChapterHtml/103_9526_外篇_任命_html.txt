@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+抱朴子·外篇·任命_古诗文网
+</title>
+<meta content="抱朴子曰:余之友人有居泠先生者， 恬愉静素， 形神相忘， 外不饰惊愚之容， 内不寄有容之心， 游精坟诰， 乐以忘忧。 昼竞羲和之末景， 夕照望舒之余耀， 道靡远而不究， 言无微而不" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9526.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>外篇·任命</b></span>
+<a href="javascript:PlayBookv(9526)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9526" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9526" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e6%b4%aa">葛洪</a></p>
+<div class="contson">
+<p>　　抱朴子曰:余之友人有居泠先生者， 恬愉静素， 形神相忘， 外不饰惊愚之容， 内不寄有容之心， 游精坟诰， 乐以忘忧。 昼竞羲和之末景， 夕照望舒之余耀， 道靡远而不究， 言无微而不研。 然车迹不轫权右之国， 尺牍不经贵势之庭。 是以名不出蓬户， 身不离畎亩。</p>
+<p>　　於是翼亮大夫候而难之曰:“余闻渊蟠起则玄云赴， 道化雨沾则逸才奋。 故康衢有角歌之音， 鼎俎发凌风之迹。 沽之则收不赀之贾， 踊之则超在天之举。 耀逸景於旸谷， 播大明乎九垓。 勋荫当世， 声扬罔极。 故寻仞之途甚近而弗往者， 虽追风之脚不能到也;楹棁之下至卑而不动者， 虽鸿鶤之翅未之及也。 况乎寝足於大荒之表， 敛羽於幽梧之枝， 安得效迅以寻景， 振轻乎苍霄哉?</p>
+<p>　　年期奄冉而不久， 托世飘迅而不再， 智者履霜则知坚冰之必至， 处始则悟生物之有终。 六龙促轨於大浑， 华颠倏忽而告暮， 古人所以映顺流而顾叹， 眄过隙而兴悲矣。</p>
+<p>　　先生资命世之逸量， 含英伟以邈俗， 锐翰汪濊以波涌， 六奇抑郁而渊稸;然不能凌扶摇以高竦， 扬清耀於九玄， 器不陈於瑚簋之末， 体不免於负薪之劳， 犹奏和音於聋俗之地， 鬻章甫於被发之域。 徒忘寤於翰林， 锐意以穷神， 崇琬琰於怀抱之内， 吐琳琅於毛墨之端， 躬困屡空之俭， 神劳坚高之间， 譬若埋尺璧於重壤之下， 封文锦於沓匮之中， 终无交易之富， 孰赏堙翳之珍哉?</p>
+<p>　　“夫龙骥维絷， 则无以别乎蹇驴;赤刀韬锋， 则曷用异於铅刃。 鳣鲔不居牛迹， 大鹏不滞蒿林。 愿先生委龙蛇之穴， 升利见之途， 释户庭之独洁， 览二鼠而远寤， 越穷谷以登高， 袭丹藻以改素， 竞惊飚於清晨， 不盘旋以错度， 收名器於崇高， 响锺鼎之庆祚。 柏成一介之夫， 辨薇可足多慕乎? ”</p>
+<p>　　居泠先生应曰:“盖闻灵机冥缅， 混芒眇昧， 祸福交错乎倚伏之间， 兴亡缠绵乎盈虚之会;迅游者不能脱逐身之景， 乐成者不能免理致之败;匡流末者， 未若挺治乎无兆之中;整已然者， 不逮反本乎玄朴之外。 是以觉蠖者， 甘屈以保伸;识通塞者， 不惨悦於否泰。</p>
+<p>　　且夫洪陶范物， 大象流形， 躁静异尚， 翔沈舛情。 金宝其重， 羽矜其轻。 笃隘者执束於滓涅达妙者逍遥於玄清。 潢洿纳行潦而潘溢， 渤澥吞百川而不盈。 鲉虾踊悦於泥泞， 赤螭凌厉乎高冥。 嚼香饵者， 快嗜欲而赴死;味虚淡者， 含天和而趋生;识机神者， 瞻无兆而弗惑;暗休咎者， 触强弩而不惊。 各附攸好， 安肯改营?</p>
+<p>　　“吾闻五玉不能自剖於嵩岫， 腾蛇不能无雾而电征， 龙渊不能勿操而断犀兕， 景锺不能莫扣而扬洪声。 金芝须商风而激耀， 仓庚俟烟火日皿而修鸣， 骐騄不苟驰以赴险， 君子不诡遇以毁名。 运屯则沈沦於勿用， 时行则高竦乎天庭。 士以自炫为不高， 女以自媒为不贞。 何必委洗耳之峻标， 效负俎之干荣哉?</p>
+<p>　　夫其穷也， 则有虞婆娑而陶钓， 尚父见逐於愚妪， 范生来辱於溺篑， 弘式匿奇於耕牧;及其达也， 则淮阴投竿而称孤， 文种解尸彳乔而纡青， 傅说释筑而论道， 管子脱桎为上卿。 盖君子藏器以有待也， 稸德以有为也， 非其时不见也， 非其君不事也， 穷达任所值， 出处无所系。 其静也， 则为逸民之宗;其动也， 则为元凯之表。 或运思於立言， 或铭勋乎国器。 殊途同归， 其致一焉。</p>
+<p>　　“士能为可贵之行， 而不能使俗必贵之也;能为可用之才， 而不能使世必用之也。 被褐茹草罝兔， 则心欢意得， 如将终身， 服冕乘轺， 兼朱重紫， 则若固有之。 常如布衣， 此至人之用怀也。</p>
+<p>　　若席上之珍不积， 环堵之操不粹者， 予之罪也。 知之者希， 名位不臻， 以玉为石， 谓凤曰鷃者， 非余罪也。 夫汲汲於见知， 悒悒於否滞者， 裳民之情也;浩然而养气， 淡尔而靡欲者， 无闷之志也。 时至道行， 器大者不悦;天地之间， 知命者不忧。 若乃徇万金之货， 以索百十之售， 多失骨干毛， 我则未暇矣。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9525.aspx">上一章</a>
+<a href="/guwen/book_103.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9527.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

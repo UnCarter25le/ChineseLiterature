@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+大戴礼记·曾子疾病第五十七_古诗文网
+</title>
+<meta content="曾子疾病，曾元抑首，曾华抱足。曾子曰：“微乎！吾无夫颜氏之言，吾何以语汝哉！然而君子之务，尽有之矣；夫华繁而实寡者天也，言多而行寡者人也；鹰鶽以山为卑，而曾巢其上，鱼、鳖、鼋、以渊" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19020.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>曾子疾病第五十七</b></span>
+<a href="javascript:PlayBookv(19020)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19020" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19020" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%88%b4%e5%be%b7">戴德</a></p>
+<div class="contson">
+<p>　　曾子疾病，曾元抑首，曾华抱足。曾子曰：“微乎！吾无夫颜氏之言，吾何以语汝哉！然而君子之务，尽有之矣；夫华繁而实寡者天也，言多而行寡者人也；鹰鶽以山为卑，而曾巢其上，鱼、鳖、鼋、以渊为浅，而蹶穴其中，卒其所以得之者，饵也；是故君子苟无以利害义，则辱何由至哉？ </p>
+<p>　　亲戚不悦，不敢外交；近者不亲，不敢求远；小者不审，不敢言大；故人之生也，百岁之中，有疾病焉，有老幼焉，故君子思其不可复者而先施焉。亲戚既殁，虽欲孝，谁为孝？老年耆艾，虽欲弟，谁为弟？故孝有不及，弟有不时，其此之谓与？ </p>
+<p>　　言不远身，言之主也；行不远身，行之本也；言有主，行有本，谓之有闻矣。君子尊其所闻，则高明矣；行其所闻，则广大矣，高明广大，不在于他，在加之志而已矣。 </p>
+<p>　　与君子游，苾乎如入兰芷之室，久而不闻，则与之化矣；与小人游，贷乎如入鲍鱼之次，则与之化矣；是故，君子慎其所去就。 </p>
+<p>　　与君子游，如长日加益，而不自知也；与小人游，如履薄冰，每履而下，几何而不陷乎哉？吾不见好学盛而不衰者矣，吾不见好教如食疾子者矣，吾不见日省而月考之其友者矣！吾不见孜孜而与来而改者矣！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19019.aspx">上一章</a>
+<a href="/guwen/book_235.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19021.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

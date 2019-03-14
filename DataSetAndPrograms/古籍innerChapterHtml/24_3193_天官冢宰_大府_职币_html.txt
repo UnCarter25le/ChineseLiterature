@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+周礼·天官冢宰·大府/职币_古诗文网
+</title>
+<meta content="大府掌九贡、九赋、九功之贰。以受其货贿之人，颁其货于受藏之府，颁其贿于受用之府。凡官府、都鄙之吏及执事者受财用焉。凡颁财，以式法授之。关市之赋，以待王之膳服；邦中之赋，以待宾客；四" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3193.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1723" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>天官冢宰·大府/职币</b></span>
+<a href="javascript:PlayBookv(3193)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3193" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1723)" id="leftbtn1723" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3193" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%91%a8%e5%85%ac%e6%97%a6">周公旦</a></p>
+<div class="contson">
+<p>　　大府掌九贡、九赋、九功之贰。以受其货贿之人，颁其货于受藏之府，颁其贿于受用之府。凡官府、都鄙之吏及执事者受财用焉。凡颁财，以式法授之。关市之赋，以待王之膳服；邦中之赋，以待宾客；四郊之赋，以待稍秣；家削之赋，以待匪颁；邦甸之赋，以待工事；邦县之赋，以待币帛；邦都之赋；以待祭祀；山泽之赋；以待丧纪；币馀之赋；以待赐予；凡邦国之贡，以待吊用；凡万民之贡；以充府库；凡式贡之余财，以共玩好之用。凡邦之赋用取具焉。岁终，则以货贿之入出会之。</p>
+<p>　　玉府掌王之金玉、玩好、兵器。凡良货贿之藏，共王之服玉、佩玉、珠玉。王齐，则共食玉；大丧，共含玉、复衣裳、角枕、角柶。掌王之燕衣服，衽席床笫，凡亵器。若合诸侯，则共珠槃、玉敦。凡王之献，金玉、兵器、文织、良货贿之物，受而藏之。凡王之好赐，共其货贿。</p>
+<p>　　内府掌受九贡、九赋、九功之货贿、良兵、良器，以待邦之大用。凡四方之币献之金、玉、齿、革、兵器，凡良货贿，入焉。凡适四方使者，共其所受之物而奉之。凡王及冢宰之好赐予，则共之。</p>
+<p>　　外府掌邦布之入出，以共百物，而待邦之用。凡有法者，共王及后、世子之衣服之用。凡祭祀、宾客、丧纪、会同、军旅，共其财用之币赍，赐予之财用。凡邦之小用，皆受焉。岁终，则会，唯王及后之服不会。</p>
+<p>　　司会掌邦之六典、八法、八则之贰，以逆邦国都鄙官府之治。以九贡之法致邦国之财用，以九赋之法令田野之财用，以九功之法令民职之财用，以九式之法均节邦之财用。掌国之官府、郊野、县都之百物财用。凡在书契、版图者之贰，以逆群吏之治而听其会计。以参互考日成，以月要考月成，以岁会考岁成，以周知四国之治，以诏王及冢宰废置。</p>
+<p>　　司书掌邦之六典、八法、八则、九职、九正、九事邦中之版，土地之图，以周知入出百物。以叙其财，受其币，使入于职币。凡上之用财用，必考于司会。三岁，则大计群吏之治，以知民之财、器械之数，以知田野、夫家、六畜之数，以知山林、川泽之数，以逆群吏之征令。凡税敛，掌事者受法焉。及事成，则入要贰焉，凡邦治考焉。</p>
+<p>　　职内掌邦之赋入，辨其财用之物而执其总。以贰官府、都鄙之财入之数，以逆邦国之赋用。凡受财者，受其贰令而书之。及会，以逆职岁与官府财用之出，而叙其财以待邦之移用。</p>
+<p>　　职岁掌邦之赋出，以贰官府、都鄙之财出赐之数，以待会计而考之。凡官府、都鄙、群吏之出财用，受式法于职岁。凡上之赐予，以叙与职币授之。及会，以式法赞逆会。</p>
+<p>　　职币掌式法，以敛官府、都鄙与凡用邦财者之币。振掌事者之余财，皆辨其物而奠其录，以书楬之，以诏上之小用赐予。岁终，则会其出。同邦之会事，以式法赞之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3192.aspx">上一章</a>
+<a href="/guwen/book_24.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3194.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1723" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

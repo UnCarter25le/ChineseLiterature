@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+神峰通考·六亲说_古诗文网
+</title>
+<meta content="年上财官，主祖宗之荣显；月上官杀，主兄弟之凋零。又曰：年看祖宗兴废事，月推父母定留存。然年属祖宗之宫临财官之地，乃坐禄马之乡，荣显理然也。但坐比肩劫财，无财官之地。乃坐禄马之乡，荣" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17548.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>六亲说</b></span>
+<a href="javascript:PlayBookv(17548)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17548" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17548" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e6%a5%a0">张楠</a></p>
+<div class="contson">
+<p>　　年上财官，主祖宗之荣显；月上官杀，主兄弟之凋零。又曰：年看祖宗兴废事，月推父母定留存。然年属祖宗之宫临财官之地，乃坐禄马之乡，荣显理然也。但坐比肩劫财，无财官之地。乃坐禄马之乡，荣显理然也。但从比肩又当与罗土之祖宗，月上兄弟两宫相寓而参看焉。若岁月无财官，俱主根基浅薄，白手成家，独月令官杀司权，俱主损伤兄弟。虽有兄弟，多主阋墙，何也？比肩乃兄弟之寿星，见官杀面克之，安得不损兄弟乎？故曰：官杀排门兄寿夭，杀官司户弟成行。故月乃门户也，又若日通月气，比肩神旺，多主鸿雁成行，理虽如是，变贵变通。苟或日主根多，比肩太旺，亦主参商，盖缘兄弟多来劫财神也，此又喜官杀而得兄弟也。偏财为父，比劫重重损父亲，正印为母，星旺处虽损母，以官杀为子，伤官食神多损子。若官杀太重，克制日主，早自身救死不赡，安能生子乎“必须食神伤官，制去官杀，方能生子也。男命如斯，女命亦然。若财官旺而日主弱，夫家兴而母家灰，盖财官乃旺夫之物也。然财能损母，官能克兄弟，多主父母兄弟凋零。孤鸾曰：木火蛇无媚，盖乙巳日也。然乙巳坐下有庚夫，丁巳会下有庚财，有财能生夫也，不可谓夫婿也。女命生此二日，多主旺夫旺子也。金猪岂有郎，辛亥日坐下有正财，财亦能主夫，岂可谓无郎乎？土猴长独卧，乃戊申日也，坐下有庚金，能克夫也。发命戊申日，极损夫也。木虎定居孀，甲寅日也。夫星绝于寅也，不能生子也。又喜印星损其子，养其精，方能生子也。若食神伤官少，而又嫌印星，能损其食神伤官子也。若辰戌丑未四字全，此坐天地之四狱也，又安能生乎？若止犯二字，亦不畏也若夫星子入墓，亦难为夫子也。男女二命，俱不可犯。妻星夫星子星而论之，但只看八字，有病能去其病，由有妻有夫子也。论六亲只是死格，说见上文五星谬说内。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17547.aspx">上一章</a>
+<a href="/guwen/book_208.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17549.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+农桑辑要·播种·旱稻_古诗文网
+</title>
+<meta content="《齐民要术》：旱稻用下田，白土胜黑土，非言下田胜高原，但夏停水者，不得禾、豆、麦；稻田种，虽涝亦收。所谓彼此俱获，不失地利故也。下田种者，用功多；高原种者，与禾同等也。凡下田停水处" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6502.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5530" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>播种·旱稻</b></span>
+<a href="javascript:PlayBookv(6502)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6502" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5530)" id="leftbtn5530" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6502" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　《齐民要术》：旱稻用下田，白土胜黑土，非言下田胜高原，但夏停水者，不得禾、豆、麦；稻田种，虽涝亦收。所谓彼此俱获，不失地利故也。下田种者，用功多；高原种者，与禾同等也。凡下田停水处，燥则坚垎，胡格反，土干也。湿则污泥，难治而易荒，墝，口交反。埆音谷。而杀种。其春耕者，杀种尤甚。故宜五、六月暵之，以拟大麦。时水涝，不得纳种者，九月中复一转，至春种稻，万不失一。春耕者，十不收五，盖误人耳。</p>
+<p>　　凡种下田，不问秋夏，候水尽地白背时，速耕、杷、劳，杷，白驾反。频烦令熟。过燥则坚，过雨则泥，所以宜速耕也。</p>
+<p>　　二月半种稻为上时，三月为中时，四月初及半为下时。渍种如法，哀令开口，耧耩埯种之；耩，故项反。埯，乌感反。裢种者，省种而生科，又胜掷者。即再遍劳。若岁寒早种，虑时晚，即不渍种，恐芽焦也。其土黑坚强之地，种未生前遇旱者，欲得令牛羊及人践履之；湿则不用一迹人也。</p>
+<p>　　稻既生，犹欲令人践垄背。践者，茂而多实也。苗长三寸，杷、劳而锄之；锄唯欲速。稻苗性弱，不能扇草，故宜数锄之。每经一雨，辄欲杷、劳。苗高尺许则锋。古农器。天雨无所作，宜冒雨薅之。科大，如概者，五六月中霖雨时，拔而栽之。栽法：欲浅；令其根须四散则滋茂。深而直下者，聚而不科。其苗长者，亦可捩去叶端数寸，勿伤其心也。入七月不复任栽。七月百草成；时晚故也。</p>
+<p>　　其高田种者，不求极良，唯须废地⑩。过良，则苗折；废地则无草。亦秋耕，杷、劳令熟。至春，黄场始章反纳种。不宜湿下。余法悉与下田同。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6501.aspx">上一章</a>
+<a href="/guwen/book_79.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6503.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5530" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

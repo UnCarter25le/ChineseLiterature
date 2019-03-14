@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·介部·鳖_古诗文网
+</title>
+<meta content="释名团鱼、神守。气味鳖甲：咸、平、无毒。肉：甘、平、无毒。主治鳖甲：老疟劳疟。用鳖甲醋炙、研末，每服一匙，酒送下。隔夜一服，清早一服，病发时一服，加雄黄少许更有效。奔豚气痛，上冲心" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2175.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>介部·鳖</b></span>
+<a href="javascript:PlayBookv(2175)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2175" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2175" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>团鱼、神守。</p>
+<p><strong>气味</strong><br/>鳖甲：咸、平、无毒。<br/>肉：甘、平、无毒。</p>
+<p><strong>主治</strong><br/>鳖甲：<br/>老疟劳疟。用鳖甲醋炙、研末，每服一匙，酒送下。隔夜一服，清早一服，病发时一服，加雄黄少许更有效。<br/>奔豚气痛，上冲心胜利。用鳖甲（醋炙）三两、亦三棱（煨）二两、桃仁（去皮尖）四两，加醋煎如糖浆，以瓶收存，每服半匙，空心服，酒送下。<br/>血瘕症癖（按：即肿瘤之类的病 ）。用鳖甲、琥珀、在黄，等分为末，酒送服二钱。不久即恶血排下。又方：用鳖甲以醛炙黄，研为末，每服一匙，牛乳一俣调下。每晨一次。<br/>妇女漏下。用鳖甲（醋炙）研为末，清酒送服一匙。一天服二次，又方：用干姜、鳖甲、诃黎勒皮，等分为末，加糊做成丸子。每倾家荡产心服三十丸。一天服二次。<br/>妇女难产。用鳖甲烧存性，研为末。酒送服一匙，即可产下。<br/>小儿痢疾。用鳖甲炙过，研为末。每服一钱，乳汁关下。一天服二次，亦可加蜜做成丸子服用。<br/>突然腰痛，不可俯仰。用鳖甲炙过，研为末，每服一匙，酒送下。一天服二次。<br/>沙石洒。用鳖甲醋炙过，研为末。每服一匙，酒送一。一天服三次，石出即愈。<br/>阴虚梦泄。用鳖甲烧过，研为末。每用三分，和酒半碗、童尿半碗、葱白七寸同煎，去葱，下午饮服。<br/>吐血不止。用鳖甲、蛤粉各一两，同炒至色黄 ，加熟地黄一两半，晒干，共研为末，每服二钱，饭后服茶送下。<br/>痈疽敛。用鳖甲烧存性研为末，掺敷患处。<br/>肉：<br/>痃癖气块。以蚕沙一斗、桑柴灰一斗，水淋五次取汁，煮在鳖一个如泥，去骨，再煮成膏，捣为丸，如梧子大，每服十丸，一天服三次。<br/>寒湿脚气，痛不可忍。用鳖二个，加水二斗，煮成一斗，去鳖取汁，再加苍耳、苍术、寻风藤各半斤，煎至七升，去渣，乘热熏患处。待药水转温，再将患处浸洗。<br/>肺结核。用鳖一个，柴胡、前胡、贝母、知母、杏仁各五钱，同煮熟。去骨、甲、裙煮汁和丸，如梧了大。生前了三十丸，空心服，黄芪汤送下。一天服二次。此方名“团鱼丸”。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2174.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2176.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,111 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·周语·虢文公谏宣王不籍千亩_古诗文网
+</title>
+<meta content="宣王即位，不籍千亩。虢文公谏曰：“不可。夫民之大事在农，上帝之粢盛于是乎出，民之蕃庶于是乎生，事之供给于是乎在，和协辑睦于是乎兴，财用蕃殖于是乎始，敦庬纯固于是乎成，是故稷为大官。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9563.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8314" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>周语·虢文公谏宣王不籍千亩</b></span>
+<a href="javascript:PlayBookv(9563)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9563" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8314)" id="leftbtn8314" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9563" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+宣王即位，不籍千亩。虢文公谏曰：“不可。夫民之大事在农，上帝之粢盛于是乎出，民之蕃庶于是乎生，事之供给于是乎在，和协辑睦于是乎兴，财用蕃殖于是乎始，敦庬纯固于是乎成，是故稷为大官。古者，太史顺时覛土，阳瘅愤盈，土气震发，农祥晨正，日月底于天庙，土乃脉发。
+</p><p>　　
+“先时九日，太史告稷曰：‘自今至于初吉，阳气俱蒸，土膏其动。弗震弗渝，脉其满眚，谷乃不殖。’稷以告王曰：‘史帅阳官以命我司事曰：距今九日，土其俱动。王其祗祓，监农不易。’王乃使司徒咸戒公卿、百吏、庶民，司空除坛于籍，命农大夫咸戒农用。
+</p><p>　　
+“先时五日，瞽告有协风至，王即斋宫，百官御事，各即其斋三日。王乃淳濯飨醴，及期，郁人荐鬯，牺人荐醴，王裸鬯，飨醴乃行，百吏、庶民毕从。及籍，后稷监之，膳夫、农正陈籍礼，太史赞王，王敬从之。王耕一坺，班三之，庶民终于千亩。其后稷省功，太史监之；司徒省民，太师监之。毕，宰夫陈飨，膳宰监之。膳夫赞王，王歆太牢，班尝之，庶人终食。
+</p><p>　　
+“是日也，瞽帅音官以风土。廪于籍东南，钟而藏之，而时布之于农。稷则遍诚百姓纪农协功，曰：‘阴阳分布，震雷出滞。土不备垦，辟在司寇。’乃命其旅曰：‘徇。’农师一之，农正再之，后稷三之，司空四之，司徒五之，太保六之，太师七之，太史八之，宗伯九之，王则大徇。耨获亦如之。民用莫不震动，恪恭于农，修其疆畔，日服其镈，不解于时，财用不乏，民用和同。
+</p><p>　　
+“是时也，王事唯农是务，无有求利于其官以干农功，三时务农而一时讲武，故征则有威、守则有财。若是，乃能媚于神而和于民矣，则享祀时至而布施优裕也。
+</p><p>　　
+“今天子欲修先王之绪而弃其大功，匮神乏祀而困民之财，将何以求福用民？”
+</p><p>　　
+王不听。三十九年，战于千亩，王师败绩于姜氏之戎。
+</p><p>　　
+初吉：农历每月的朔日（初一），一说指初一至初七、八。阳官：指负责祭祀的官员。祓（fú）：除灾祈福的仪式。司徒：掌管国家的土地和人民的官员。司空：掌管工程营造的官员。农用：农耕用具。斋宫：举行祭祀仪式前斋戒的场所。醴：甜酒。郁人：掌管酒器的官员。鬯（chàng）：祭祀用的香酒。牺人：负责供应酒醴的官员。裸（guàn）：酌酒灌地的祭礼。膳夫：负责供应王饮食的官员。太师：负责军事的高级武官，一说是辅弼国君的高级官员。宰夫：负责调制食品的官员。膳宰：掌管膳食的长官。太牢：牛、羊、猪三牲具备的祭品、宴品。风土：韦昭注谓“风土，以音律省土风，风气和则土气养也。”廪：粮仓。东南：古人以东南方为生长的方位，所以把粮仓建于此。阴阳分布：指日夜等长，即后来二十四节气中的春分。出滞：冬眠的动物开始活动。后来二十四节气中的惊蛰即据此命名。司寇：负责刑法的官员。太保：辅弼国君的高级官员。宗伯：掌管礼仪的官员。镈（bó）：翻土的农具。三时：指春、夏、秋三季。下文的“一时”，指冬季。姜氏之戎：当时活动于周西部边地的少数民族之一。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9562.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9564.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8314" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

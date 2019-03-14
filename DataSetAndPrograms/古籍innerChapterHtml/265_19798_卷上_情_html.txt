@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+北溪字义·卷上·情_古诗文网
+</title>
+<meta content="情与性相对。情者，性之动也。在心里面未发动底是性，事物触著便发动出来是情。寂然不动是性，感而遂通是情。这动底只是就性中发出来，不是别物，其大目则为喜怒哀惧爱恶欲七者，中庸只言喜怒哀" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19798.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷上·情</b></span>
+<a href="javascript:PlayBookv(19798)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19798" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19798" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%88%e6%b7%b3">陈淳</a></p>
+<div class="contson">
+<p>　　情与性相对。情者，性之动也。在心里面未发动底是性，事物触著便发动出来是情。寂然不动是性，感而遂通是情。这动底只是就性中发出来，不是别物，其大目则为喜怒哀惧爱恶欲七者，中庸只言喜怒哀乐四个，孟子又指恻隐、羞恶、辞逊、是非四端而言，大抵都是情。性中有仁，动出为恻隐；性中有义，动出为羞恶；性中有礼智，动出为辞让、是非。端是端绪，里面有这物，其端绪便发出从外来。若内无仁义礼智，则其发也，安得有此四端？大概心是个物，贮此性，发出底便是情。孟子曰：恻隐之心，仁之端也；羞恶之心，义之端也，云云。恻隐、羞恶等以情言，仁义等以性言。必又言心在其中者，所以统情性而为之主也。孟子此处说得却备。又如大学所谓忧患、好乐及亲爱、畏敬等，皆是情。 中国古籍全录</p>
+<p>　　情者心之用，人之所不能无，不是个不好底物。但其所以为情者，各有个当然之则。如当喜而喜，当怒而怒，当哀而哀，当乐而乐，当恻隐而恻隐，当羞恶而羞恶，当辞让而辞让，当是非而是非，便合个当然之则，便是发而中节，便是其中性体流行，著见于此，即此便谓之达道。若不当然而然，则违其则，失其节，只是个私意人欲之行，是乃流于不善，遂成不好底物，非本来便不好也。</p>
+<p>　　情之中节，是从本性发来便是善，更无不善。其不中节是感物欲而动，不从本性发来，便有个不善。孟子论情，全把做善者，是专指其本于性之发者言之。禅家不合便指情都做恶底物，却欲灭情以复性。不知情如何灭得？情既灭了，性便是个死底性，于我更何用？</p>
+<p>　　孟子四端，是专就善处言之。喜怒哀乐及情等，是合善恶说。</p>
+<p>　　乐记曰：人生而静，天之性也。感于物而动，性之欲也。性之欲便是情。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19797.aspx">上一章</a>
+<a href="/guwen/book_265.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19799.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

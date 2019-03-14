@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·成公·成公十年_古诗文网
+</title>
+<meta content="【经】十年春，卫侯之弟黑背帅师侵郑。夏四月，五卜郊，不从，乃不郊。五月，公会晋侯、齐侯、宋公、卫侯、曹伯伐郑。齐人来媵。丙午，晋侯獳卒。秋七月，公如晋。冬十月。 【传】十年春，晋侯" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2923.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1452" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>成公·成公十年</b></span>
+<a href="javascript:PlayBookv(2923)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2923" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1452)" id="leftbtn1452" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2923" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】十年春，卫侯之弟黑背帅师侵郑。夏四月，五卜郊，不从，乃不郊。五月，公会晋侯、齐侯、宋公、卫侯、曹伯伐郑。齐人来媵。丙午，晋侯獳卒。秋七月，公如晋。冬十月。 </p>
+<p>　　【传】十年春，晋侯使籴伐如楚，报大宰子商之使也。 </p>
+<p>　　卫子叔黑背侵郑，晋命也。 </p>
+<p>　　郑公子班闻叔申之谋。三月，子如立公子繻。夏四月，郑人杀繻，立髡顽。子如奔许。栾武子曰：「郑人立君，我执一人焉，何益？不如伐郑而归其君，以求成焉。」晋侯有疾。五月，晋立大子州蒲以为君，而会诸侯伐郑。郑子罕赂以襄钟，子然盟于修泽，子驷为质。辛巳，郑伯归。 </p>
+<p>　　晋侯梦大厉，被发及地，搏膺而踊，曰：「杀余孙，不义。余得请于帝矣！」坏大门及寝门而入。公惧，入于室。又坏户。公觉，召桑田巫。巫言如梦。公曰：「何如？曰：「不食新矣。」公疾病，求医于秦。秦伯使医缓为之。未至，公梦疾为二竖子，曰：「彼，良医也。惧伤我，焉逃之？」其一曰：「居肓之上，膏之下，若我何？」医至，曰：「疾不可为也。在肓之上，膏之下，攻之不可，达之不及，药不至焉，不可为也。」公曰：「良医也。」厚为之礼而归之。六月丙午，晋侯欲麦，使甸人献麦，馈人为之。召桑田巫，示而杀之。将食，张，如厕，陷而卒。小臣有晨梦负公以登天，及日中，负晋侯出诸厕，遂以为殉。</p>
+<p>　　郑伯讨立君者，戊申，杀叔申、叔禽。君子曰：「忠为令德，非其人犹不可，况不令乎？」 </p>
+<p>　　秋，公如晋。晋人止公，使送葬。于是籴伐未反。</p>
+<p>　　冬，葬晋景公。公送葬，诸侯莫在。鲁人辱之，故不书，讳之也。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2922.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2924.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1452" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

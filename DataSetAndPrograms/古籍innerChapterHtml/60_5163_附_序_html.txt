@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+逸周书·附·序_古诗文网
+</title>
+<meta content="昔在文王，商纣并立，困于虐政，将弘道以弼无道，作《度训》。殷人作，教民不知极，将明道极，以移其俗，作《命训》。纣作淫乱，民散无性习常，文王惠和，化服之，作《常训》。上失其道，民散无" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5163.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3432" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>附·序</b></span>
+<a href="javascript:PlayBookv(5163)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5163" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3432)" id="leftbtn3432" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5163" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　昔在文王，商纣并立，困于虐政，将弘道以弼无道，作《度训》。殷人作，教民不知极，将明道极，以移其俗，作《命训》。纣作淫乱，民散无性习常，文王惠和，化服之，作《常训》。上失其道，民散无纪，西伯修仁，明耻示教，作《文酌》。上失其道，民失其业，□□凶年，作《籴匡》。文王立，西距昆夷，北备猃狁，谋武以昭威怀，作《武称》。武以禁暴，文以绥德，大圣允兼，作《允文》。武有七德，□王作《大武》、《大明武》、《小明武》三篇。穆王遭大荒，谋救患分灾，作《大匡》。□□□□□□□□□□□□□□□□□□□□□□□□□□□□作《九开》。文王唯庶邦之多难，论典以匡谬，作《刘法》。文王卿士谂发教禁戒，作《文开》。维美公命于文王，修身观天以谋商难，作《保开》。文王训乎武王以繁害之戒，作《八繁》。文王在酆，命周公谋商难，作《酆保》。文启谋乎后嗣，以修身敬戒，作《大开》、《小开》二篇。文王有疾，告武王以没之多变，作《文儆》。文王告武王以序德之行，作《文传》。文王既没，武王嗣位，告周公禁五戎，作《柔武》。武王忌商，周公勤天下，作《大小开武》二篇。武王评周公，维道以为宝，作《宝典》。商谋启平周，周人将兴师以承之，作《酆谋》。武王将起师伐商，寤有商儆，作《寤儆》。周将伐商，顺天革命，申喻武义，以训乎民，作《武顺》、《武穆》二篇。武王将行大事乎商郊，乃明德□众，作《和寤》、《武寤》二篇。武王率六州之兵，车三百五十乘，以灭殷，作《克殷》。武王既克商，建三监以救其民，为之训范，□□□□□□□□□作《大聚》。□□□□□□□□□□□武王既释箕子囚，俾民辟宁之以王，作《箕子》。武王秉天下，论德施□，而□位以官，作《考德》。武王命商王之诸侯绥定厥邦，申义告之，作《商誓》。武王平商，维定保天室，规拟伊洛，作《度邑》。武王有疾，□□□□□□□□□□命周公辅小子，告以正要，作《五权》。武王既没，成王元年，周公忌商之孽，训敬命，作《成开》。周公既诛三监，乃谁武王之志，建都伊洛，作《作洛》。周公会群臣于闳门，以辅主之格言，作《皇门》。周公陈武王之言及，以赞己言，戒乎成王，作《大戒》。周公正三统之义，作《周月》，辩二十四气之应，以明天时，作《时训》。周公制十二月赋政之法，作《月令》。周公肇制文王之谥义，以垂于后，作《谥法》。周公将致政成王，朝诸侯于明堂，作《明堂》。成王近即政，因尝麦以语众臣，而求助，作《尝麦》。周公为太师，告成王以五则，作《本典》。成王访周公以民事，周公陈六征以观察之，作《官人》。周石板嘲弄宁，八方会同，各以其职来献，欲垂法厥后，作《王会》。周公云殁，王制将衰，穆王因祭祖不豫，询某守位，作《祭公》。穆王思保位惟难，恐贻世羞，欲自警悟，作《史记》。王化虽弛，天命方永，四夷八蛮，攸尊王政，作《职方》。芮伯稽古，作《训纳》。王于善暨，执政小臣咸省厥躬，作《芮良夫》。晋侯尚力，侵我王略，叔向闻储幼而果贤，□复王位，作《太王晋》。王者德以饰躬，用为所佩，作《王佩》。夏多罪，汤将放之，征前事以戒后王也，作《殷祝》。民非后罔义，后非民罔与，为邦慎政在微，作《周祝》。武以靖乱，非直不克，作《武纪》。积习生常，不可不慎，作《铨法》。车服制度，明不苟逾，作《器服》。周道于是乎大备。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5162.aspx">上一章</a>
+<a href="/guwen/book_60.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3432" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

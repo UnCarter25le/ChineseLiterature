@@ -1,0 +1,143 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·通评虚实论_古诗文网
+</title>
+<meta content="黄帝问曰：何谓虚实？岐伯对曰：邪气盛则实，精气夺则虚。帝曰：虚实何如？岐伯曰：气虚者肺虚也，气逆者足寒也，非其时则生，当其时则死。余藏皆如此。帝曰：何谓重实？岐伯曰：所谓重实者，言" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_991.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left810" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·通评虚实论</b></span>
+<a href="javascript:PlayBookv(991)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv991" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(810)" id="leftbtn810" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay991" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问曰：何谓虚实？</p>
+<p>　　岐伯对曰：邪气盛则实，精气夺则虚。</p>
+<p>　　帝曰：虚实何如？</p>
+<p>　　岐伯曰：气虚者肺虚也，气逆者足寒也，非其时则生，当其时则死。余藏皆如此。</p>
+<p>　　帝曰：何谓重实？</p>
+<p>　　岐伯曰：所谓重实者，言大热病，气热脉满，是谓重实。</p>
+<p>　　帝曰：经络俱实何如？何以治之？</p>
+<p>　　岐伯曰：经络皆实，是寸脉急而尺缓也，皆当治之，故曰滑则从，涩则逆也。夫虚实者，皆从其物类始，故五藏骨肉滑利，可以长久也。</p>
+<p>　　帝曰：络气不足，经气有余，何如？</p>
+<p>　　岐伯曰：络气不足，经气有余者，脉口热而尺寒也，秋冬为逆，春夏为从，治主病者。</p>
+<p>　　帝曰：经虚络满，何如？</p>
+<p>　　岐伯曰：经虚络满者，尺热满，脉口寒涩也，此春夏死秋冬生也。</p>
+<p>　　帝曰：治此者奈何？</p>
+<p>　　岐伯曰：络满经虚，灸阴刺阳；经满络虚，刺阴灸阳。</p>
+<p>　　帝曰：何谓重虚？</p>
+<p>　　岐伯曰：脉气上虚尺虚，是谓重虚。</p>
+<p>　　帝曰：何以治之？</p>
+<p>　　岐伯曰：所谓气虚者，言无常也。尺虚者，行步恇然。脉虚者，不象阴也。如此者，滑则生，涩则死也。</p>
+<p>　　帝曰：寒气暴上，脉满而实何如？</p>
+<p>　　岐伯曰：实而滑则生，实而逆则死。</p>
+<p>　　帝曰：脉实满，手足寒，头热，何如？</p>
+<p>　　岐伯曰：春秋则生，冬夏则死。脉浮而涩，涩而身有热者死。</p>
+<p>　　帝曰：其形尽满何如？</p>
+<p>　　岐伯曰：其形尽满者，脉急大坚，尺涩而不应也，如是者，故从则生，逆则死。</p>
+<p>　　帝曰：何谓从则生，逆则死？</p>
+<p>　　岐伯曰：所谓从者，手足温也；所谓逆者，手足寒也。</p>
+<p>　　帝曰：乳子而病热，脉悬小者何如？</p>
+<p>　　岐伯曰：手足温则生，寒则死。</p>
+<p>　　帝曰：乳子中风热，喘鸣肩息者，脉何如？</p>
+<p>　　岐伯曰：喘鸣肩息者，脉实大也，缓则生，急则死。</p>
+<p>　　帝曰：肠澼便血何如？</p>
+<p>　　岐伯曰：身热则死，寒则生。</p>
+<p>　　帝曰：肠澼下白沫何如？</p>
+<p>　　岐伯曰：脉沉则生，脉浮则死。</p>
+<p>　　帝曰：肠下脓血何如？</p>
+<p>　　岐伯曰：脉悬绝则死，滑大则生。</p>
+<p>　　帝曰：肠澼之属，身不热，脉不悬绝何如？</p>
+<p>　　岐伯曰：滑大者曰生，悬涩者曰死，以藏期之。</p>
+<p>　　帝曰：癫疾何如？</p>
+<p>　　岐伯曰：脉搏大滑，久自已；脉小坚急，死不治。</p>
+<p>　　帝曰：癫疾之脉，虚实何如？</p>
+<p>　　岐伯曰：虚则可治，实则死。</p>
+<p>　　帝曰：消瘅虚实何如？</p>
+<p>　　岐伯曰：脉实大，病久可治；脉悬小坚，病久不可治。</p>
+<p>　　帝曰：形度骨度脉度筋度，何以知其度也？</p>
+<p>　　帝曰：春亟治经络；夏亟治经输；秋亟治六府；冬则闭塞，闭塞者，用药而少针石也。所谓少针石者，非痈疽之谓也，痈疽不得顷时回。痈不知所，按之不应手，乍来乍已，刺手太阴傍三痏与缨脉各二，掖痈大热，刺足少阳五；刺而热不止，刺手心主三，刺手太阴经络者大骨之会各三。暴痈筋软，随分而痛，魄汗不尽，胞气不足，治在经俞。</p>
+<p>　　腹暴满，按之不下，取手太阳经络者，胃之募也，少阴俞去脊椎三寸傍五，用员利针。霍乱，刺俞傍五，足阳明及上傍三。刺痫惊脉五，针手太阴各五，刺经太阳五，刺手少阴经络傍者一，足阳明一，上踝五寸刺三针。</p>
+<p>　　凡治消瘅、仆击、偏枯、痿厥、气满发逆，肥贵人，则高梁之疾也。隔塞闭绝，上下不通，则暴忧之疾也。暴厥而聋，偏塞闭不通，内气暴薄也。不从内，外中风之病，故瘦留著也。蹠跛，寒风湿之病也。</p>
+<p>　　黄帝曰：黄疸暴痛，癫疾厥狂，久逆之所生也。五藏不平，六府闭塞之所生也。头痛耳鸣，九窍不利，肠胃之所生也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_990.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_992.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right810" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

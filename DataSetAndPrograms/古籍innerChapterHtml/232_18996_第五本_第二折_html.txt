@@ -1,0 +1,117 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西厢记·第五本·第二折_古诗文网
+</title>
+<meta content="﻿[末云]“画虎未成君莫笑，安排牙爪始惊人。”本是举过便除，奉圣旨着翰林院编修国史。他每那知我的心，甚么文章做得成。使琴童递佳音，不见回来。这几日睡卧不宁，饮食少进，给假在驿亭中将" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18996.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第五本·第二折</b></span>
+<a href="javascript:PlayBookv(18996)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18996" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18996" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e5%ae%9e%e7%94%ab">王实甫</a></p>
+<div class="contson">
+<p>　　﻿[末云]“画虎未成君莫笑，安排牙爪始惊人。”本是举过便除，奉圣旨着翰林院编修国史。他每那知我的心，甚么文章做得成。使琴童递佳音，不见回来。这几日睡卧不宁，饮食少进，给假在驿亭中将息。早间太医着人来看视，下药去了。我这病卢扁也医不得。自离了小姐，无一日心闲也呵！</p>
+<p>　　[中吕][粉蝶儿]从到京师，思量心旦夕如是，向心头横躺着俺那莺儿。请医师，看诊罢，一星星说是。本意待推辞，则被他察虚实不须看视。</p>
+<p>　　[醉春风]他道是医杂证有方术，治相思无药饵。莺莺呵，你若是知我害相思，我甘心儿死、死。四海无家，一身客寄，半年将至。[仆上云]我则道哥哥除了，原来在驿亭中抱病，须索回书去咱。[见了科][末云]你回来了也。</p>
+<p>　　[迎仙客]疑怪这噪花枝灵鹊儿，垂帘幕喜蛛儿，正应着短檠上夜来灯爆时。若不是断肠词，决定是断肠评理。[仆云]小夫人有书至此。[末接科]写时管情泪如丝，既不呵，怎生泪点儿封皮上渍。</p>
+<p>　　[末读书科]“薄命妾崔氏拜覆，敬奉才郎君瑞文几：自音容去后，不觉许时，仰敬之心，未尝少怠。纵云日近长安远，何故鳞鸿之杳矣。莫因花柳之心，弃妾恩情之意？正念间，琴童至，得见翰墨，始知中科，使妾喜之如狂。郎之才望，亦不辱相国之家谱也。今因琴童回，无以奉贡，聊布瑶琴一张，玉簪一枝，斑管一枚，裹肚一条，汗衫一领，袜儿一双，权表妾之真诚。匆匆草字，伏乞情恕不备。谨依来韵，遂继一绝云：阑干倚遍盼才郎，莫恋宸京黄四娘；病里得书如中甲，窗前览镜试新妆。”那风风流流的姐姐，似这等女子，张珙死也得着了。</p>
+<p>　　[上小楼]这的堪为字史，当为款识。有柳骨颜筋，张旭张颠，羲之献之。此一时，彼一时，佳人才思，俺莺莺世间无二。</p>
+<p>　　[幺篇]俺做经咒般持，符（竹录）般使。高似金章，重似金帛，贵似金资。这上面若签个押字，使个令史，差个勾使，则是一张忙不及印赴期的咨示。</p>
+<p>　　[末拿汗衫儿科]休道文章，只看他这针指，人间少有。</p>
+<p>　　[满庭芳]怎不教张生爱尔，堪针工出色，女教为师。几千般用意针针是，可索寻思。长共短又没个样子，窄和宽想象著腰肢，好共歹无人试。想当初做时，用煞那小心儿。</p>
+<p>　　小姐寄来这几件东西，都有缘故，一件件我都猜着了。</p>
+<p>　　[白鹤子]这琴，他教我闭门学禁指，留意谱声诗，调养圣贤心，洗荡巢由耳。</p>
+<p>　　[二煞]这玉簪，纤长如竹笋，细白似葱枝，温润有清香，莹洁无瑕眦。</p>
+<p>　　[三煞]这斑管，霜枝曾栖凤凰，泪点渍胭脂，当时舜帝恸娥皇，今日淑女思君子。</p>
+<p>　　[四煞]这裹肚，手中一叶绵，灯下几回丝，表出腹中愁，果称心间事。</p>
+<p>　　[五煞]这鞋袜儿，针脚儿细似虮子，绢帛儿腻似鹅脂，既知礼不胡行，愿足下当如此。</p>
+<p>　　琴童，你临行小夫人对你说甚么？[仆云]着哥哥休别继良姻。[末云]小姐，你尚然不知我的心哩。</p>
+<p>　　[快活三]冷清清客店儿，风淅淅雨丝丝，雨儿零，风儿细，梦回时，多少伤心事。</p>
+<p>　　[朝天子]四肢不能动止，急切里盼不到蒲东寺。小夫人须是你见时，别有甚闲传示？我是个浪子官人，风流学士，怎肯去带残花折旧枝。自从到此，甚的是闲街市。</p>
+<p>　　[贺圣朝]少甚宰相人家，招婿的娇姿。其间或有个人儿似尔，那里取那温柔，这般才思？想莺莺意儿，怎不教人梦想眠思？</p>
+<p>　　琴童，将这衣裳东西收拾好者。</p>
+<p>　　[耍孩儿]则在书房中倾倒个藤箱子，向箱子里面铺几张纸。放时节须索用心思，休教藤刺儿抓住绵丝。高抬在衣架怕吹了颜色，乱裹在包袱中恐锉了褶儿。当如此，切须爱护，勿得因而。</p>
+<p>　　[二煞]恰新婚，才燕尔，为功名来到此。长安忆念蒲东寺。昨宵个春风桃李花开夜，今日个秋雨梧桐叶落时。愁如是，身遥心迩，坐想行思。</p>
+<p>　　[三煞]这天高地厚情，直到海枯石烂时，此时作念何时止？直到烛灰眼下才无泪，蚕老心中罢却丝。我不比游荡轻薄子，轻夫妇的琴瑟，拆鸾凤的雄雌。</p>
+<p>　　[四煞]不闻黄犬音，难传红叶诗，驿长不遇梅花使，孤身去国三千里，一日归必十二时。凭栏视，听江声浩荡，看山色参差。</p>
+<p>　　[尾]忧则忧我在病中，喜则喜你来到此。投至得引人魂卓氏音书至，险将这害鬼病的相如盼望死。[下]</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18995.aspx">上一章</a>
+<a href="/guwen/book_232.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18997.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

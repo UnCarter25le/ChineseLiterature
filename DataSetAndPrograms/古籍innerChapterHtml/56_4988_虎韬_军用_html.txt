@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+六韬·虎韬·军用_古诗文网
+</title>
+<meta content="武王问太公曰：“王者举具，三军器用，攻守之具，科品从寡，岂有法乎？”太公曰：“大哉，王之问也！夫攻守之具，各有科品，此兵之大威也。”武王曰：“愿闻之。”太公曰：“凡用兵之大数，将士" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4988.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3158" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>虎韬·军用</b></span>
+<a href="javascript:PlayBookv(4988)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4988" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3158)" id="leftbtn3158" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4988" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%a7%9c%e5%ad%90%e7%89%99">姜子牙</a></p>
+<div class="contson">
+<p>　　武王问太公曰：“王者举具，三军器用，攻守之具，科品从寡，岂有法乎？”</p>
+<p>　　太公曰：“大哉，王之问也！夫攻守之具，各有科品，此兵之大威也。”</p>
+<p>　　武王曰：“愿闻之。”</p>
+<p>　　太公曰：“凡用兵之大数，将士万人，法用：武冲大扶胥三十六乘。材士强弩矛戟为翼一车二十四人推之，以八尺车轮，车上立旗鼓，兵法谓之震骇，陷坚陈，败强敌。武翼大橹矛戟扶胥七十二具。材士强弩矛戟为翼，以五尺车轮，绞车连弩自副，陷坚陈，败强敌。</p>
+<p>　　“提翼小橹扶胥一百四十具。绞车连弩自副，以鹿车轮，陷坚陈，败纱敌。</p>
+<p>　　“大黄参连弩大扶胥三十六乘。材士强弩矛戟为翼，“飞凫”、“电影”自副。(飞凫，赤茎白羽，以铜为首，电影，青茎赤羽，以铁为乎。)昼则以绛缟，长六尺，广六寸，为光耀；夜则以白缟，长六尺，广六寸，为流星。陷坚陈，败步骑。</p>
+<p>　　“大扶胥冲车三十六乘。螳螂武士共载，可以纵击横，可以败敌之。</p>
+<p>　　“辎车骑寇，一名电车，兵法谓之电击。陷坚陈，败步骑。寇夜来前，矛戟扶胥轻车一百六十乘，螳螂琥士三人共载，兵法谓之霆击。陷坚陈，败步骑。</p>
+<p>　　“方首铁＿维盼，重十二斤，柄长五尺以上，千二百枚，一名天＿。大柯斧，刃长八寸，重八斤，柄长五尺以上，千二百枚，一名天钺。方首铁锤，重八斤，柄长五尺以上，千二百枚，一名天锤。败步骑群寇。飞钩长八寸，钩长芒长四寸，柄长六尺以上，千二百枚，以投其众。三军拒守，木螳螂剑刃扶胥，广二丈，百二十具，一名行马，平易地，以步兵败车骑。木蒺藜，去地二尺五寸，百二十具。败步骑，要群寇，遮走北。”</p>
+<p>　　“轴旋短冲矛戟扶胥，百二十具。黄帝所以败＿尤氏。败步骑，要穷寇，遮走北。狭路微径，张铁蒺藜，芒高四寸，广八寸，长六尺以上，千二百具。败步骑。</p>
+<p>　　“突瞑来前促战，白刃接，张地罗，铺两镞蒺藜，参考连织女，芒间相去二尺，万二千具。旷野草中，方胸铤矛，千二百具。张铤矛法，高一尺五寸。败步骑，要穷寇，遮走北。</p>
+<p>　　“狭路微径，地陷，铁械锁参连，百二十具。败步骑，要穷寇，遮走北。</p>
+<p>　　“垒门拒守，矛戟小橹，十二具，绞车连弩自副。三军拒守，天罗虎落锁连，一部广一丈五尺，高八尺，百二十具。虎落剑刃扶胥，广一丈五尺，高八尺，五百二十具。</p>
+<p>　　“渡沟堑，飞桥一间，广一丈五尺，长二丈以上，着转关辘辘八具，以环利通索张之。渡大水，飞江，广一丈五尺，长二丈以上，八具，以环利通索张之。天浮铁螳螂，矩内园外，径四尺以上，环络自副，三十二具。以天浮张飞江，济大海，谓之天潢，一名天舡。</p>
+<p>　　“山林野居，结虎落柴营，环利铁索，长二丈以上，千二百枚。环利大通索，大四寸，长四丈以上，六百枚。环利中通索，大二寸，长四丈以上，二百枚。环利小微缧，长二丈以上，万二千枚。</p>
+<p>　　“天雨盖重车上板，结＿＿＿，广四尺，长四丈以上。车一具，以铁＿张之。</p>
+<p>　　“伐木大斧，重八斤，柄长三尺以上，三百枚；＿＿刃广六寸，柄长五尺以上，三百枚；铜筑固为垂，长五尺以上，三百枚；鹰爪方胸铁耙，柄长七尺以上，三百枚；方胸铁叉，柄长七尺以上，三百枚。芟草木大镰，柄长七尺以上，三百枚；大橹，刃重八斤，柄长六尺，三百枚；委环铁＿，长三尺以上，三百枚；＿大槌，重五斤，柄长二尺以上，百二十具。</p>
+<p>　　“甲士万人，强弩六千，戟盾一千，矛盾二千，修治攻具，砥砺兵器巧手三百人，此举兵军用之大数也。”武王曰：“允哉！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4987.aspx">上一章</a>
+<a href="/guwen/book_56.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4989.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3158" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

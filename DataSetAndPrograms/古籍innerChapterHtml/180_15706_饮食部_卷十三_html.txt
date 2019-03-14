@@ -1,0 +1,118 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平御览·饮食部·卷十三_古诗文网
+</title>
+<meta content='○豉《释名》曰：豉，嗜也。五味调和，须之而成，乃可甘嗜也。故齐人谓"豉"声如"嗜"。《史记》曰：蘖面盐豉千答。(徐广曰：或作"合&amp;' name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_15706.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>饮食部·卷十三</b></span>
+<a href="javascript:PlayBookv(15706)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv15706" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay15706" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89">李昉</a></p>
+<div class="contson">
+<p>　　○豉</p>
+<p>　　《释名》曰：豉，嗜也。五味调和，须之而成，乃可甘嗜也。故齐人谓"豉"声如"嗜"。</p>
+<p>　　《史记》曰：蘖面盐豉千答。(徐广曰：或作"合"，器名。)</p>
+<p>　　谢承《后汉书》曰：羊续为南阳太守，盐豉共壶。</p>
+<p>　　袁宏《汉纪》曰：李亻霍数设酒请郭汜，或留汜。汜妻惧与亻霍婢妾私而夺己爱，思有以离间之。亻霍送馈，汜妻乃以鼓为药，汜将食，妻曰："食从外来，傥或有故。"遂摘药示之，曰："一栖不两雄，我固疑将军之信李公也。"明日，亻霍请汜，大醉，汜疑亻霍药之，绞粪汁饮之，乃解。於是遂相疑猜也。</p>
+<p>　　《三辅决录》曰：南阳旧语曰："前队丈夫范仲公，盐鼓蒜果共一筒。"言其廉俭也。</p>
+<p>　　《豫章列士传》曰：羊茂为东郡太守，出界买盐鼓。</p>
+<p>　　《博物志》曰：外国有豉法：以苦酒溲豆，暴令极燥，以油麻蒸讫，复暴三过乃止，然后细捣椒屑，筛下，随多少合投之。</p>
+<p>　　《金楼子》曰：五色茄，一名金盐；地榆，一名玉鼓。惟此二物，可以煮石。</p>
+<p>　　《广志》曰：苦，秦豉也。</p>
+<p>　　《楚辞·招魂》曰：大苦酸咸(大苦谓豉。)辛甘行。(言取豉调和以椒姜，咸酢和以饴蜜，则辛甘之味皆发而行。)</p>
+<p>　　《古歌》曰：美豉出鲁门。</p>
+<p>　　○齑</p>
+<p>　　《周礼》曰：醯人掌共五齐。(昌本、脾析、蜃、豚拍、深蒲也。)</p>
+<p>　　《记》曰：卒食客，自前跪。彻饭齑，以授相者。</p>
+<p>　　《释名》曰：蟹齑，去其匡，熟，捣合如齑也。</p>
+<p>　　《通俗文》曰：淹韭曰齑，淹薤曰{队韭}。</p>
+<p>　　《东观汉记》曰：王莽将败北海，逢萌载齑器於市，曰："辛乎！"因潜藏不见。</p>
+<p>　　《魏志》曰：华佗尝见病咽塞者，语之曰："向来道隅有卖饼人，萍齑甚酸，可取三升饮之。"如言，立吐一蛇。</p>
+<p>　　王隐《晋书》曰：袁甫曰："美莫过稻，不可以为齑。"</p>
+<p>　　《语林》曰：石崇尝冬月得韭齑，王恺货崇帐下督，云："是捣韭根，杂以麦苗耳。"</p>
+<p>　　《楚辞》曰：惩於羹者而吹齑。</p>
+<p>　　又曰：吴酸毛蒌不沾薄。(毛，菜也。言吴人善为致美，其菜若蒌，味无沾薄，言有调也。又曰蒿也。蒌不沾薄，繁草也。蒌，香沾多汗也。薄，无味也。言吴人工调咸酸，使偷蒿蒌以为齑味酸，又不薄，适甘美人也。)</p>
+<p>　　崔寔《四民月令》曰：八月收韭菁，作捣齑。</p>
+<p>　　弘《君举食檄》曰：大市覆罂之蒜，东里独姥之醯、大盐杂以姜、椒，叛奴使之春齑。</p>
+<p>　　《岭表异录》曰：容南土风，好食水牛肉，言其脆美，则柔毛肥彘不足比也。每军衙有局筵，必先此物，或炮或炙，尽此一牛。既饱，即以圣齑销之。(圣齑，如有菘，云是牛肠胃中已化草。)既至，即以盐、酪、姜、桂调而啜之，腹遂不胀。北客到彼，多赴此筵，但能食肉，罔有啜齑者。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_15705.aspx">上一章</a>
+<a href="/guwen/book_180.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_15707.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

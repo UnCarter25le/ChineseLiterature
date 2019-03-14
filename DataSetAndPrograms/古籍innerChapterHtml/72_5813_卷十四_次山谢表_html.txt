@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+容斋随笔·卷十四·次山谢表_古诗文网
+</title>
+<meta content="元次山为道州刺史，作《舂陵行》，其序云：“州旧四万余户，经贼以来，不满四千，大半不胜赋税。到官未五十日，承诸使征求符牒二百余封，皆曰‘失期限者罪至贬削’。于戏！若悉应其命，则州县破" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5813.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4332" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十四·次山谢表</b></span>
+<a href="javascript:PlayBookv(5813)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5813" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4332)" id="leftbtn4332" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5813" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b4%aa%e8%bf%88">洪迈</a></p>
+<div class="contson">
+<p>　　元次山为道州刺史，作《舂陵行》，其序云：“州旧四万余户，经贼以来，不满四千，大半不胜赋税。到官未五十日，承诸使征求符牒二百余封，皆曰‘失期限者罪至贬削’。于戏！若悉应其命，则州县破乱，刺史欲焉逃罪？若不应命，又即获罪戾。吾将静以安人，待罪而已。”其辞甚苦，大略云：“州小经乱亡，遗人实困疲。朝餐是草根，暮食乃木皮。出言气欲绝，意速行步迟。追呼尚不忍，况乃鞭扑之。邮亭传急符，来往迹相追。更无宽大恩，但有迫催期。欲令鬻儿女，言发恐乱随。奈何重驱逐，不使存活为？安人天子命，符节我所持。逋缓违诏令，蒙责固所宜。”又《贼退示官吏》一篇，言贼攻永破邵，不犯此州，盖蒙其伤怜而已，诸使何为忍苦征敛。其诗云：“城小贼不屠，人贫伤可怜。是以陷邻境，此州独见全。使臣将王命，岂不如贼焉？今彼征敛者，迫之如火煎。”二诗忧民惨切如此。故杜老以为：“今盗贼未息，知民疾苦，得结辈十数公，落落参错天下为邦伯，天下少安，立可待矣。”遂有“两章对秋月，一字偕华星”之句。今《次山集》中，载其《谢上表》两通，其一云：“今日刺史，若无武略，以制暴乱；若无文才，以救疲弊；若不清廉，以身率下；若不变通，以救时须，则乱将作矣。臣料今日州县堪征税者无几，已破败者实多，百姓恋坟墓者盖少，思流亡者乃众，则刺史宜精选谨择以委任之，固不可拘限官次，得之货贿出之权门者也。”其二云：“今四方兵革未宁，赋敛未息，百姓流亡转甚，官吏侵刻日多，实不合使凶庸贪猥之徒，凡弱下愚之类，以货赂权势，而为州县长官。”观次山表语，但因谢上而能极论民穷吏恶，劝天子以精择长吏，有谢表以来，未之见也。世人以杜老褒激之故，或稍诵其诗，以《中兴颂》故诵其文，不闻有称其表者，予是以备录之，以风后之君子。次山临道州，岁在癸卯，唐代宗初元广德也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5812.aspx">上一章</a>
+<a href="/guwen/book_72.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5814.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4332" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

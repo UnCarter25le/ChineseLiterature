@@ -1,0 +1,111 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·科名类·卷五_古诗文网
+</title>
+<meta content="◎龚尚书怜才合肥龚尚书怜才下士，嘉惠孤寒，海内文流，延致门下，每岁暮各赠炭资，至称贷以给客。马殿撰世俊未遇时，长安过夏，佗傺特甚，袖文质公，公读竟叹曰：“李峤真才子也。”赠金八百，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16213.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>科名类·卷五</b></span>
+<a href="javascript:PlayBookv(16213)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16213" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16213" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎龚尚书怜才</p>
+<p>　　合肥龚尚书怜才下士，嘉惠孤寒，海内文流，延致门下，每岁暮各赠炭资，至称贷以给客。马殿撰世俊未遇时，长安过夏，佗傺特甚，袖文质公，公读竟叹曰：“李峤真才子也。”赠金八百，为延誉公卿间，明年辛丑，马遂大魁天下。公卒，竹垞挽诗有云“寄声逢掖贱，休作帝京游”者，盖深惜之也。</p>
+<p>　　◎谢启祚老女出嫁行</p>
+<p>　　乾隆间，粤东诸生谢启祚，年九十八，犹入秋闱，以年例当早邀恩赐，大吏每列其名，辄力却之，曰：“科名定分也，老手未颓，安见此生不为耆儒一吐气？”丙午乡试，果中式。谢戏作《老女出嫁诗》云：“行年九十八，出嫁不胜羞。照镜花生靥，持梳雪满头。自知真处于，人号老风流。寄语青春女，休夸早好逑。”</p>
+<p>　　时同榜有十二龄童子抚君某。《鹿鸣宴纪盛》诗有“老人南极天边见，童子春风座上来”，一时传为佳话。明年应会试，特恩授司业衔。又三年，恭祝乾隆帝八旬万寿，晋秩鸿胪卿。濒行，赐诗额以宠之。又十数年卒，盖寿近百二十岁矣。有见其朱卷履历者，先后三娶二媵，举十三男、十二女，孙二十九人，曾孙三十八人，元孙二人。此君非特登科，年齿之高，当为清朝第一。即家门鼎盛，子孙众多，恐亦罕与比俪也。</p>
+<p>　　◎汪容甫吓死小孟</p>
+<p>　　江都汪容甫先生中，郡中之硕学，乡人艳称为无书不读者也。先生在庠时，每学使按临，无岁无科，先生皆首列，无敢易者。而孟公督学江苏，则契先生为尤至。盖前此诸公于先生多以名誉相拔识，而文章高妙处，时有非诸公目力所及者，非必为真知己也。惟孟于先生，斧凿适相当。孟不负先生，先生亦不负孟也。某年孟公校士至扬州，既入场，窃迹先生所坐号，背影觇之。</p>
+<p>　　适先生文成，整卷毕，掷笔拍案曰：“今日当吓死小孟矣。”孟匿笑而去，先生不知也。逾日，视案出，先生竟无名，观者大哗。先生亦自失，默诵所为文，无可疵者。方惊愕间，而院门闭复启，炮再九鸣，又四人扛一案亭出，糊壁后，则大书曰：“超超等第一汪中”七字也。众论翕然，先生亦自善，然不知孟之命意也。翌日复试，唱名至，孟笑谓先生曰：“前日小孟未吓死，昨日当吓死小汪矣。”先生始冁然，知为前言之戏报也。然自是益重视孟为知己。</p>
+<p>　　◎曾文正入翰林</p>
+<p>　　曾文正公国藩，成进士时，殿试列三甲。故事，三甲多不入翰林，国藩大恚，即日买车欲归。时劳文毅公崇光，已官编修，有名公卿间，因往慰国藩，固留之，且许为尽力。归，即约善书者数人，馆之家，又假亲友仆马各十，鞍辔以待。国藩已试出，急写其诗，分送贵要。既而国藩果列高等，入翰林，然国藩终以不登二甲为恨。至督师两江时，偶与宾客语及“如夫人”三字无对，李元度应声曰：“同进士。”曾色变，李亦惭悔，久之乃解。</p>
+<p>　　◎彭雪琴之知遇</p>
+<p>　　彭刚直公，不能作楷书，试卷誊正，往往出格，九应童试，皆坐是被斥。时浙人高某，视学湖南，尝微行物色佳士，不可得。最后过刚直故里，闻读书良苦，循审所习，似非制艺，异焉。再视，屋宇甚陋，门有联曰：“绝少五千柱腹撑肠书卷；只余一副忠君爱国心肝。”</p>
+<p>　　书势雄杰，不颜不欧，似未曾学者。叩邻右，得刚直名姓及其家世，知必应试，遂心志之。是岁按临长沙府属，得一卷，书势雄杰，似曾经眼，恍然有所感触，竟拔置第一。迨揭晓，果系刚直，大悦。参谒时，历述所见告之。刚直感恩知己，请列门墙，执师生礼。高致仕后，子若孙倦读，淫博不能世其家业，而彭已贵，为择地筑园墅报之，即今西湖高庄是也。</p>
+<p>　　◎春在堂</p>
+<p>　　嘉、道以后，殿廷考试，尤重字体。道光庚戌，吾浙俞荫甫太史樾，成进士，素不工小楷，复试竟冠多士，人咸诧焉。后知由曾文正公，盖公方以小宗伯充阅卷官，得俞文极赏之，且因诗首句云：“花落春仍在。”谓与小宋“将飞更作回风舞，已落犹存半面妆”无异，他日所至，未可量也，遂第一。</p>
+<p>　　进呈后，俞典学河南，以人言罢职。同治四年，寓书于公，述及前事，且曰：“由今思之，篷山乍到，风引仍回，洵符落花之谶矣。然穷愁著述，已及百卷，傥有一字流传，或亦可云春在乎？”因自颜所居曰“春在堂”。</p>
+<p>　　◎考对</p>
+<p>　　彭芸楣尚书督学浙江，试湖府属三学生员，以“没齿”、“被发”、“易牙”三句命题。有数人抄袭刻文，惟归安张桂森，出场后将所抄坊本，搜买略尽，署中不及吊查，以此食饩。其余一字不移者置二等，误钞者置三等，人皆笑之。</p>
+<p>　　比发落，尚书唤其人近案曰：“余往曾督学某省，按临时唱名既毕，退坐堂上，援笔将出文题，一教职忽趋前曰：‘禀大人，此地地近蛮夷，向来应试者从无作文例。’余愕然，问‘然则所考云何？’教职对曰：‘出一对足矣，但字不可多，只消一字已足。’余初闻不胜怪叹，既已无可奈何，姑出一‘柴’字与之。于是诸生皆攒眉摇头。及卓午，忽一生前来交卷，展视其左行，对一‘炭’字。教职在旁谓余曰：‘此卷当置第一矣。’余思以炭对柴，何以当置第一。忽又一人来卷，则其旁仍添一柴字。余怒，将责之，教职曰：‘大人勿怒，此卷已可置第二矣。’余怒曰：‘此人仍对一柴字，奈何云当拔置第二？’教职曰：‘大人若不信，试看以下，并此柴字忘之矣。’既而竟无一人来交者，始叹其言不谬。今汝等以髫年所诵习者，钞写不遗一字，记性却佳，不然则平日温故之功，亦可自取，故姑取二等，以为勤读者劝。”又指二人曰：“若汝辈卷中脱讹太多，想此调不弹久矣，今后当再加温习，若来年仍蹈覆辙，定置劣等，将不免四十板子也。”遂命左右取其所钞刻文字一部与之，逐出。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16212.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16214.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

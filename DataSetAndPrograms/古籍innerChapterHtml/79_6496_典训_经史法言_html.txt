@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+农桑辑要·典训·经史法言_古诗文网
+</title>
+<meta content="《书·洪范》：“八政”：一曰食。教民使勤农业也。人不食则死，食于人最急，故教为先也。食则勤农以求之。二曰货。教民使求资用也。衣则蚕绩以求之。《无逸》：周公曰：“呜呼，君子" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6496.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5524" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>典训·经史法言</b></span>
+<a href="javascript:PlayBookv(6496)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6496" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5524)" id="leftbtn5524" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6496" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%95%85%e5%b8%88%e6%96%87">畅师文</a></p>
+<div class="contson">
+<p>　　《书·洪范》：“八政”：一曰食。教民使勤农业也。人不食则死，食于人最急，故教为先也。食则勤农以求之。二曰货。教民使求资用也。衣则蚕绩以求之。</p>
+<p>　　《无逸》：周公曰：“呜呼，君子所其无逸。先知稼穑之艰难乃逸，则知小人之依。”稼穑，农夫之艰难事，先知之，乃谋逸豫，则知小人之所依怙。</p>
+<p>　　《礼记·王制》：“国无九年之蓄，曰不足；无六年之蓄，曰急；无三年之蓄，曰国非其国也。三年耕，必有一年之食；九年耕，必有三年之食。以三十年之通，虽有凶、旱、水溢，民无菜色。”</p>
+<p>　　《孝经·庶人章》：“用天之道，春则耕种，夏则芸苗，秋则获刈，冬则入廪。分地之利，分别五土之高下，随所宜而播种之。谨身节用，身恭谨，则远耻辱；用节省，则免饥寒。以养父母，此庶人之孝也。”</p>
+<p>　　《史记》：“太史公曰：‘居之一岁，种之以谷；十岁，树之以木；百岁，来之以德。德者，人物之谓也。今有无秩禄之奉、爵邑之人，而乐与之比者，命曰“素封”。故曰：陆地牧马二百蹄；《汉书音义》曰：“五十匹。”牛蹄角千；《汉书音义》曰：“百六十七头也。”“马贵而牛贱，以此为率。”千足羊；泽中千足彘；韦昭曰：二百五十头。水居千石鱼陂；徐广曰：“鱼以斤两为计也。”山居千章之材；安邑千树枣；燕秦千树栗；蜀、汉、江陵千树橘；淮北、常山已南，河、济之间，千树麚；陈、夏引千亩漆；齐、鲁千亩桑、麻；渭川千亩竹；及名国万家之城，带郭千亩亩钟之田；徐广曰：“六斛四斗也。”若千亩卮、茜；徐广曰：“卮音支，鲜支也。茜，音倩，一名‘红蓝’，其花染缯赤黄也。”千畦姜，韭；徐广曰：“千畦，二十五亩。”骃按，“韦昭曰：‘畦，犹垄也。’”此其人，皆与千户侯等。然是富给之资也，不窥市井、不行异邑，坐而待收；身有处士之义，而取给焉；岂非所谓“素封”者耶！’”</p>
+<p>　　《前汉·食货志》：“周制，种谷必杂五种，以备灾害。‘五种’即五谷，谓黍、稷、麻、麦、豆也。还庐树桑；菜茹有畦；瓜、瓠、果、蓏，殖于疆场；鸡、豚、狗、彘，毋失其时；女修蚕织；则五十可衣帛，七十可以食肉。入者必持薪樵，轻重相兮；斑白不提挈。冬，民既入，妇人同巷，相从夜绩。女工，一月得四十五日。服虔曰：‘一月之中，又得夜半为十五日，凡四十五日也。’必相从者，所以省费燎力峤反火，同巧拙，而合习俗也。”</p>
+<p>　　《管子》：“民无所游食，则必农；民事农，则田垦；田垦，则粟多；粟多，则国富。”</p>
+<p>　　《齐民要术》：“《传》曰：‘人生在勤，勤则不匮。’古语曰：‘力能胜贫，谨能胜祸。’盖言勤力可以不贫，谨身可以避祸。庸人之性，率之则自力，纵之则惰窳耳。稼穑不修，桑果不茂，畜产不肥，鞭之可也；柂落不完，垣墙不牢，扫除不净，笞之可也。此督课之方也。且天子亲耕，皇后亲蚕，况夫田父，而怀窳情引乎？”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6495.aspx">上一章</a>
+<a href="/guwen/book_79.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6497.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5524" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

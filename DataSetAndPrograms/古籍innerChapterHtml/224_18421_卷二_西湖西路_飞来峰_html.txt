@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷二·西湖西路·飞来峰_古诗文网
+</title>
+<meta content="飞来峰，棱层剔透，嵌空玲珑，是米颠袖中一块奇石。使有石癖者见之，必具袍笏下拜，不敢以称谓简亵，只以石丈呼之也。深恨杨髡，遍体俱凿佛像，罗汉世尊，栉比皆是，如西子以花艳之肤，莹白之体" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18421.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·西湖西路·飞来峰</b></span>
+<a href="javascript:PlayBookv(18421)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18421" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18421" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　飞来峰，棱层剔透，嵌空玲珑，是米颠袖中一块奇石。使有石癖者见之，必具袍笏下拜，不敢以称谓简亵，只以石丈呼之也。深恨杨髡，遍体俱凿佛像，罗汉世尊，栉比皆是，如西子以花艳之肤，莹白之体，刺作台池鸟兽，乃以黔墨涂之也。奇格天成，妄遭锥凿，思之骨痛。翻恨其不匿影西方，轻出灵鹫，受人戮辱；亦犹士君子生不逢时，不束身隐遁，以才华杰出，反受摧残，郭璞、祢衡并受此惨矣。慧理一叹，谓其何事飞来，盖痛之也，亦惜之也。且杨髡沿溪所刻罗汉，皆貌己像，骑狮骑象，侍女皆裸体献花，不一而足。田公汝成锥碎其一；余少年读书岣嵝，亦碎其一。闻杨髡当日住德藏寺，专发古冢，喜与僵尸淫媾。知寺后有来提举夫人与陆左丞化女，皆以色夭，用水银灌殓。杨命发其冢。有僧真谛者，性呆戆，为寺中樵汲，闻之大怒，?枭呼诟谇。主僧惧祸，锁禁之。及五鼓，杨髡起，趣众发掘，真谛逾垣而出，抽韦驮木杵，奋击杨髡，裂其脑盖。从人救护，无不被伤。但见真谛于众中跳跃，每逾寻丈，若隼撇虎腾，飞捷非人力可到。一时灯炬皆灭，?锄畚插都被毁坏。杨髡大惧，谓是韦驮显圣，不敢往发，率众遽去，亦不敢问。此僧也，洵为山灵吐气。</p>
+<p>　　袁宏道《飞来峰小记》：</p>
+<p>　　湖上诸峰，当以飞来为第一。峰石逾数十丈，而苍翠玉立。渴虎奔猊，不足为其怒也；神呼鬼立，不足为其怪也；秋水暮烟，不足为其色也；颠书吴画，不足为其变幻诘曲也。石上多异木，不假土壤，根生石外。前后大小洞四五，窈窕通明，溜乳作花，若刻若镂。壁间佛像，皆杨秃所为，如美人面上瘢痕，奇丑可厌。余前后登飞来者五：初次与黄道元、方子公同登，单衫短后，直穷莲花峰顶。每遇一石，无不发狂大叫。次与王闻溪同登；次为陶石篑、周海宁；次为王静虚、陶石篑兄弟；次为鲁休宁。每游一次，辄思作一诗，卒不可得。</p>
+<p>　　又《戏题飞来峰》诗：</p>
+<p>　　试问飞来峰，未飞在何处。人世多少尘，何事飞不去。</p>
+<p>　　高古而鲜妍，杨、班不能赋。</p>
+<p>　　白玉簇其颠，青莲借其色。惟有虚空心，一片描不得。</p>
+<p>　　平生梅道人，丹青如不识。</p>
+<p>　　张岱《飞来峰》诗：</p>
+<p>　　石原无此理，变幻自成形。天巧疑经凿，神功不受型。</p>
+<p>　　搜空或洚水，开辟必雷霆。应悔轻飞至，无端遭巨灵。</p>
+<p>　　石意犹思动，夔尼势若撑。鬼工穿曲折，儿戏斫珑玲。</p>
+<p>　　深入营三窟，蛮开倩五丁。飞来或飞去，防尔为身轻。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18420.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18422.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

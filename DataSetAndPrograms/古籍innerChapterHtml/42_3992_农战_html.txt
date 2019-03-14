@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+商君书·农战_古诗文网
+</title>
+<meta content="凡人主之所以劝民者，官爵也；国之所以兴者，农战也。今民求官爵，皆不以农战，而以巧言虚道，此谓劳民。劳民者，其国必无力；无力者，其国必削。善为国者，其教民也，皆作壹而得官爵，是故不官" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3992.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2588" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>农战</b></span>
+<a href="javascript:PlayBookv(3992)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3992" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2588)" id="leftbtn2588" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3992" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%95%86%e9%9e%85">商鞅</a></p>
+<div class="contson">
+<p>　　凡人主之所以劝民者，官爵也；国之所以兴者，农战也。今民求官爵，皆不以农战，而以巧言虚道，此谓劳民。劳民者，其国必无力；无力者，其国必削。</p>
+<p>　　善为国者，其教民也，皆作壹而得官爵，是故不官无爵。国去言，则民朴；民朴，则不淫。民见上利之从壹空出也，则作壹；作壹，则民不偷营；民不偷营，则多力；多力，则国强。今境内之民皆曰：“农战可避，而官爵可得也。”是故豪杰皆可变业，务学《诗》、《书》，随从外权，上可以得显，下可以求官爵；要靡事商贾，为技艺，皆以避农战。具备，国之危也。</p>
+<p>　　民以此为教者，其国必削。</p>
+<p>　　善为国者，仓廪虽满，不偷于农；国大、民众，不淫于言。则民朴壹。</p>
+<p>　　民朴壹，则官爵不可巧而取也。不可巧取，则奸不生。奸不生，则主不惑。</p>
+<p>　　今境内之民及处官爵者，见朝廷之可以巧言辩说取官爵也，故官爵不可得而常也。是故进则曲主，退则虑私，所以实其私，然则下卖权矣。夫曲主虑私，非国利也，而为之者，以其爵禄也；下卖权，非忠臣也，而为之者，以末货也。然则下官之冀迁者皆曰：“多货，则上官可得而欲也。”曰：“我不以货事上而求迁者，则如以狸饵鼠尔，必不冀矣；若以情事上而求迁者，则如引诸绝绳而求乘枉木也，愈不冀矣。二者不可以得迁，则我焉得无下动众取货以事上而以求迁乎？”百姓曰：“我疾农，先实公仓，收余以食亲；为上忘生而战，以尊主安国也。仓虚，主卑，家贫。然则不如索官。”亲戚交游合，则更虑矣。豪杰务学《诗》、《书》，随从外权；要靡事商贾，为技艺，皆以避农战。民以此为教，则粟焉得无少，而兵焉得无弱也？</p>
+<p>　　善为国者，官法明，故不任知虑。上作壹，故民不俭营，则国力抟。国力抟者强，国好言谈者削。故曰：农战之民千人，而有《诗》、《书》辩慧者一人焉，千人者皆怠于农战矣。农战之民百人，而有技艺者一人焉，百人者皆怠于农战矣。国待农战而安，主待农战而尊。夫民之不农战也，上好言而官失常也。常官则国治，壹务则国富。国富而治，王之道也。故曰：王道作外，身作壹而已矣。</p>
+<p>　　今上论材能知慧而任之，则知慧之人希主好恶使官制物以适主心。是以官无常，国乱而不壹，辩说之人而无法也。如此，则民务焉得无多？而地焉得无荒？《诗》、《书》、礼、乐、善、修、仁、廉、辩、慧，国有十者，上无使守战。国以十者治，敌至必削，不至必贫。国去此十者，敌不敢至，虽至必却；兴兵而伐，必取；按兵不伐，必富。国好力者以难攻，以难攻者必兴；好辩者以易攻，以易攻者必危。故圣人明君者，非能尽其万物也，知万物之要也。故其治国也，察要而已矣。</p>
+<p>　　今为国者多无要。朝廷之言治也，纷纷焉务相易也。是以其君惛于说，其官乱于言，其民惰而不农。故其境内之民，皆化而好辩、乐学，事商贾，为技艺，避农战。如此，则不远矣。国有事，则学民恶法，商民善化，技艺之民不用，故其国易破也。夫农者寡而游食者众，故其国贫危。今夫螟、螣、蚼蠋春生秋死，一出而民数年不食。今一人耕而百人食之，此其为螟、螣、蚼蠋亦大矣。虽有《诗》、《书》，乡一束，家一员，犹无益于治也，非所以反之之术也。故先王反之于农战。故曰：百人农、一人居者王，十人农、一人居者强，半农半居者危。故治国者欲民者之农也。国不农，则与诸侯争权不能自持也，则众力不足也。故诸侯挠其弱，乘其衰，土地侵削而不振，则无及已。</p>
+<p>　　圣人知治国之要，故令民归心于农。归心于农，则民朴而可正也，纷纷则易使也，信可以守战也。壹则少诈而重居，壹则可以赏罚进也，壹则可以外用也。夫民之亲上死制也，以其旦暮从事于农。夫民之不可用也，见言谈游士事君之可以尊身也、商贾之可以富家也、技艺之足以口也。民见此三者之便且利也，则必避农。避农，则民轻其居。轻其居，则必不为上守战也。</p>
+<p>　　凡治国者，患民之散而不可抟也，是以圣人作壹，抟之也。国作壹一岁者，十岁强；作壹十岁者，百岁强；作壹百岁者，千岁强；千岁强者王。君脩赏罚以辅壹教，是以其教有所常，而政有成也。</p>
+<p>　　王者得治民之至要，故不待赏赐而民亲上，不待爵禄而民从事，不待刑罚而民致死。国危主忧，说者成伍，无益于安危也。夫国危主忧也者，强敌大国也。人君不能服强敌、破大国也，则修守备，便地形，抟民力，以待外事，然后患可以去，而王可致也。是以明君修政作壹，去无用，止浮学事淫之民，壹之农，然后国家可富，而民力可抟也。</p>
+<p>　　今世主皆忧其国之危而兵之弱也，而强听说者。说者成伍，烦言饰辞，而无实用。主好其辩，不求其实。说者得意，道路曲辩，辈辈成群。民见其可以取王公大人也，而皆学之。夫人聚党与，说议于国，纷纷焉，小民乐之，大人说之。故其民农者寡而游食者众。众，则农者殆；农者殆，则土地荒。</p>
+<p>　　学者成俗，则民舍农从事于谈说，高言伪议。舍农游食而以言相高也，故民离上而不臣者成群。此贫国弱兵之教也。夫国庸民之言，则民不畜于农。故惟明君知好言之不可以强兵辟土也，惟圣人之治国作壹、抟之于农而已矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3991.aspx">上一章</a>
+<a href="/guwen/book_42.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3993.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2588" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

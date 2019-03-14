@@ -1,0 +1,135 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·妇人方上·产难第五_古诗文网
+</title>
+<meta content="（论一首八条 方二十一首 针法一首）论曰∶产妇虽是秽恶，然将痛之时，及未产已产，并不得令死丧污秽家人来，视之则生难，若已产者则伤儿也。妇人产乳，忌反支月。若值此月，当在牛皮上，若灰" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12653.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>妇人方上·产难第五</b></span>
+<a href="javascript:PlayBookv(12653)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12653" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12653" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　（论一首八条 方二十一首 针法一首）</p>
+<p>　　论曰∶产妇虽是秽恶，然将痛之时，及未产已产，并不得令死丧污秽家人来，视之则生难，若已产者则伤儿也。</p>
+<p>　　妇人产乳，忌反支月。若值此月，当在牛皮上，若灰上勿令水血恶物着地则杀人。及浣濯衣水，皆以器盛，过此忌月乃止。</p>
+<p>　　凡生产不根据产图，脱有犯触，于后母子皆死，若不至死，即母子俱病，庶事皆不称心。</p>
+<p>　　若能根据图，无所犯触，母即无病，子亦易养。凡欲产时特忌多人瞻视，惟得二三人在旁，待产讫，乃可告语诸人也。若人众看视，无不难产。</p>
+<p>　　凡产妇第一不得匆匆忙怕，旁人极须稳审，皆不得预缓预急及忧悒，忧悒则难产。若腹痛眼中火生，此儿回转，未即生也。儿出讫，一切人及母皆忌问是男是女，儿始落地，与新汲井水五咽，忌与暖汤物，勿令母看视秽污。</p>
+<p>　　凡产妇慎食热药、热面，食常识此。饮食当如人肌温温也。</p>
+<p>　　凡欲临产时，必先脱寻常所着衣，以笼灶头及灶口，令至密即易产也。</p>
+<p>　　凡产难及子死腹中，并逆生与胞胎不出，诸篇方可通检用之。</p>
+<p>　　<strong>治产难，或半生，或胎不下，或子死腹中，或着脊及坐草数日不产，血气上抢心，母面无颜色，气欲绝者方∶</strong> </p>
+<p>　　醇酒（二升） 白蜜 成煎猪膏（各一升）</p>
+<p>　　上三味合煎取二升，分再服。不能再服，可随所能服之。治产后恶血不除，上抢心，痛烦急者，以地黄汁代醇酒。</p>
+<p>　　<strong>治产难方∶ </strong></p>
+<p>　　槐枝（切，二升） 榆白皮（切） 大麻仁（各一升） 瞿麦 通草（各五两） 牛膝（四两）</p>
+<p>　　上六味 咀，以水一斗二升，煮取三升半，分五服。</p>
+<p>　<strong>　又方</strong> 吞皂荚子二枚。</p>
+<p>　　<strong>又方</strong> 取厕前已用草二七枚，烧灰水调服之。</p>
+<p>　　<strong>又方</strong> 令夫唾妇口中二七过立出。</p>
+<p>　　<strong>又方</strong> 针两肩井入一寸泻之，须臾即分娩。</p>
+<p>　<strong>　治产难三日不出方∶ </strong></p>
+<p>　　取鼠头烧作屑，井花水服方寸七，日三。</p>
+<p>　　<strong>又方</strong> 车轴脂吞大豆许两丸。</p>
+<p>　　<strong>又方</strong> 烧药杵令赤，纳酒中饮之。</p>
+<p>　　<strong>又方</strong> 烧大刀环，以酒一杯沃之，顿服即出，救死不分娩者。</p>
+<p>　<strong>　治产难累日，气力乏尽，不能得生，此是宿有病者方∶ </strong></p>
+<p>　　阿胶（二两） 赤小豆（二升）</p>
+<p>　　上二味以水九升，煮豆令熟，去滓，纳胶令烊，一服五合，不觉更服，不过三服即出。</p>
+<p>　　<strong>又方</strong> 槐子（十四枚） 蒲黄（一合上二味合纳酒中温服，须臾，不生再服之。水服亦得。</p>
+<p>　　<strong>又方</strong> 生姜汁 生地黄汁（各半升）</p>
+<p>　　上二味合煎熟，顿服之。</p>
+<p><strong>　　治产难及日月未足而欲产者方</strong>∶ </p>
+<p>　　知母一两为末，蜜丸如兔屎大，每服一丸，痛不止更服一丸。</p>
+<p>　　<strong>羚羊角散<br/></strong>　　治产后心闷，是血气上冲心所致者方。</p>
+<p>　　羚羊角一枚，烧作灰，治下筛，以东流水服方寸匕，若不瘥，须臾再服。取闷瘥乃止。</p>
+<p>　　<strong>又方</strong> 羊角烧作灰，以温酒服方寸匕，不瘥须臾再进。（《备急方》以治产难）</p>
+<p>　　<strong>治产乳运绝方∶</strong></p>
+<p>　　半夏一两捣筛，丸如大豆，纳鼻孔中即愈。此扁鹊法也。</p>
+<p>　　<strong>又方</strong> 神曲末，水服方寸匕。亦治难产。</p>
+<p>　<strong>　又方</strong> 赤小豆捣为散，东流水服方寸匕，不瘥更服。</p>
+<p>　　<strong>又方</strong> 含酽醋 面即愈，凡闷即 之愈。</p>
+<p>　　<strong>又方</strong> 取酽醋和产血如枣大服之。</p>
+<p>　　<strong>治心闷方∶</strong> </p>
+<p>　　产后心闷，眼不得开，即当顶上取发如两指大，强以人牵之，眼即开。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12652.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12654.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

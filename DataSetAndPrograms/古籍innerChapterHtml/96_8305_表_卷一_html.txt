@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宋史·表·卷一_古诗文网
+</title>
+<meta content="宰辅一宋宰辅年表，前九朝始建隆庚申，终靖康丙午，凡一百六十七年，居相位者七十二人，位执政者二百三十八人。后七朝始建炎丁未，终德祐丙子，凡一百四十九年，居相位者六十一人，位执政者二百" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_8305.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>表·卷一</b></span>
+<a href="javascript:PlayBookv(8305)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv8305" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay8305" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%84%b1%e8%84%b1%e3%80%81%e9%98%bf%e9%b2%81%e5%9b%be%e7%ad%89">脱脱、阿鲁图等</a></p>
+<div class="contson">
+<p>　　宰辅一</p>
+<p>　　宋宰辅年表，前九朝始建隆庚申，终靖康丙午，凡一百六十七年，居相位者七十二人，位执政者二百三十八人。后七朝始建炎丁未，终德祐丙子，凡一百四十九年，居相位者六十一人，位执政者二百四十四人。</p>
+<p>　　叙古曰：古之史法主于编年，至司马迁作《史记》始易以新意，然国家世祚，人事岁月，散于纪、传、世家，先后始终，遽难考见，此表之不可无，而编年不容于尽变也。厥后班固《汉史》乃曰《百官公卿表》，先叙官名、职秩、印授等，然后书年以表其姓名。欧阳修《唐史》又专以宰相名篇，意必有所在矣。</p>
+<p>　　宋自太祖至钦宗，旧史虽以《三朝》、《两朝》、《四朝》各自为编，而年表未有成书。神宗时常命陈绎检阅二府除罢官职事，因为《拜罢录》。元丰间，司马光尝叙宋兴以来百官公卿沿革除拜，作年表上之史馆。自时而后，曾巩、谭世勣、蔡幼学、李焘诸人皆尝续为之。然表文简严，世罕知好，故多沦落无传。</p>
+<p>　　今纂修《宋史》，故□□□□□□□□□□□□采纪、传以为是表。其间所书宰辅官、职、勋□□□□间有不同者，官制沿革有时而异也。然中书位次既止于参知政事，而枢府职序自同知、副使而下虽签书、同签书亦与焉者，皆执政也，故不得而略焉。</p>
+<p>　　夫大臣之用舍，关于世道之隆污，千载而下，将使览者即表之年观纪及传之事，此登载之不容于不谨也。表之所书，虽无褒贬是非于其间，然岁月昭于上，姓名著于下，则不惟其人之贤佞邪正可指而议，而当时任用之专否，政治之得失，皆可得而见矣。后之览者，其必有所劝也夫，其亦有所戒也夫！</p>
+<p>　　（表略）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_8304.aspx">上一章</a>
+<a href="/guwen/book_96.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_8306.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

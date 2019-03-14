@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+近思录·卷十二·警戒_古诗文网
+</title>
+<meta content="1、濂溪先生曰：仲由喜闻过，令名无穷焉。今人有过，不喜人规，如护疾而忌医，宁灭其身而无悟也。噫！——周敦颐《通书·过》2、伊川先生曰：德善日积，则福禄日臻。德逾于禄，则虽" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19860.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十二·警戒</b></span>
+<a href="javascript:PlayBookv(19860)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19860" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19860" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9c%b1%e7%86%b9%e3%80%81%e5%90%95%e7%a5%96%e8%b0%a6">朱熹、吕祖谦</a></p>
+<div class="contson">
+<p>　　1、濂溪先生曰：仲由喜闻过，令名无穷焉。今人有过，不喜人规，如护疾而忌医，宁灭其身而无悟也。噫！——周敦颐《通书·过》</p>
+<p>　　2、伊川先生曰：德善日积，则福禄日臻。德逾于禄，则虽盛而非满。自古隆盛，未有不失道而丧败者也。——《程氏易传·泰传》</p>
+<p>　　3、人之豫乐，心悦之，故迟迟，遂至于耽恋不能已也。《豫》之六二，以中正自守，其介如石，其去之速，不俟终日。如二可谓见几而作者也。盖中正故其守坚，而能辨之早，去之速也。——《程氏易传·豫传》</p>
+<p>　　4、圣人为戒，必于方盛之时。方其盛而不知戒，故狃安富则骄侈生，乐舒肆则纲纪坏，忘祸乱则衅孳萌，是以浸婬不知乱之生也。——《程氏易传·临传》</p>
+<p>　　5、《复》之六三，以陰躁处动之极，复之频数而不能固者也。复贵安固，频复频失，不安于复也。复善而屡失，危之道也。圣人开迁善之道，与其复而危其屡失，故云“厉无咎，”不可以频失而戒其复也，频失则为危，屡复何咎？过在失而不在复也。——《程氏易传·复传》</p>
+<p>　　6、睽极则喭戾而难合，刚极则躁暴而不详，明极则过察而多疑。暌之上九，有六三之正应，实不孤。而其才性如此，自睽孤也。如人虽有亲党，而多自疑猜，妄生乖离，虽处骨肉亲党之间，而常孤独也。——《程氏易传·暌传》</p>
+<p>　　7、《解》之六三曰：“负且乘，致寇至，贞吝。”传曰：小人而窃盛位，虽勉为正事，而气质卑下，本非在上之物，终可吝也。若能大正，则如何？曰：大亚非陰柔所能也。若能之，则是化为君子矣。——《程氏易传·解传》</p>
+<p>　　8、《益》之上九曰：“莫益之，或击之。”传曰：理者天下之至公，利者众人所同欲。苟公其心，不失其正理，则与众同利，无侵于人，人亦欲与之，若切于好利，蔽于自私，求自益以损于人，则人亦与之力争，故莫肯益之，而有击夺之者矣。——《程氏易传·益传》</p>
+<p>　　9、《艮》之九三曰：“艮其限，列其夤，厉薰心。”传曰：夫止道贵乎得宜，行止不能以时，而定于一，则处世乖戾，与物睽绝，其危甚矣。人之固止一隅，而举世莫与宜者，则艰蹇忿畏，焚挠其中，岂有安裕之理？厉薰心”，谓不安之势，熏烁其中也。——《程氏易传·艮传》</p>
+<p>　　10、虽舜之圣，且畏巧言令色，说之惑人，易入而可惧也如此。——《程氏易传·兑传》</p>
+<p>　　11、治水，天下之大任也，非其至公之心，能舍己从人，尽天下之议，则不能成其功，岂方命圮族者所能乎？鲧虽九年而功弗成，然其所治，固非他人所及也。惟其功有叙，故其自任益强，喭戾圮益甚，公议隔而人心离矣，是其恶益显，而功卒不可成也。——《程氏经说·书解》</p>
+<p>　　12、人于外物奉身者，事事要好，只有自家一个身与心却不要好。苟得外面物好时，却不知道自家身与心已先不好了也。——《一程遗书》卷一</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19859.aspx">上一章</a>
+<a href="/guwen/book_267.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19861.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

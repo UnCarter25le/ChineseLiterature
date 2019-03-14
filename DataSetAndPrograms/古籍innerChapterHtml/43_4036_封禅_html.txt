@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·封禅_古诗文网
+</title>
+<meta content="夫正位北辰，向明南面，所以运天枢，毓黎献者，何尝不经道纬德，以勒皇迹者哉？《绿图》曰∶“氵单々噅々，棼棼雉雉，万物尽化。”言至德所被也。《丹书》曰∶“义胜欲则从，欲胜义则凶。”戒慎" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4036.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2630" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>封禅</b></span>
+<a href="javascript:PlayBookv(4036)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4036" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2630)" id="leftbtn2630" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4036" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　夫正位北辰，向明南面，所以运天枢，毓黎献者，何尝不经道纬德，以勒皇迹者哉？《绿图》曰∶“氵单々噅々，棼棼雉雉，万物尽化。”言至德所被也。《丹书》曰∶“义胜欲则从，欲胜义则凶。”戒慎之至也。则戒慎以崇其德，至德以凝其化，七十有二君，所以封禅矣。</p>
+<p>　　昔黄帝神灵，克膺鸿瑞，勒功乔岳，铸鼎荆山。大舜巡岳，显乎《虞典》。成康封禅，闻之《乐纬》。及齐桓之霸，爰窥王迹，夷吾谲谏，拒以怪物。固知玉牒金镂，专在帝皇也。然则西鹣东鲽，南茅北黍，空谈非征，勋德而已。是以史迁八书，明述封禅者，固禋祀之殊礼，铭号之秘祝，祀天之壮观矣。</p>
+<p>　　秦皇铭岱，文自李斯，法家辞气，体乏弘润；然疏而能壮，亦彼时之绝采也。铺观两汉隆盛，孝武禅号于肃然，光武巡封于梁父，诵德铭勋，乃鸿笔耳。观相如《封禅》，蔚为唱首。尔其表权舆，序皇王，炳玄符，镜鸿业；驱前古于当今之下，腾休明于列圣之上，歌之以祯瑞，赞之以介丘，绝笔兹文，固维新之作也。及光武勒碑，则文自张纯。首胤典谟，末同祝辞，引钩谶，叙离乱，计武功，述文德；事核理举，华不足而实有馀矣！凡此二家，并岱宗实迹也。</p>
+<p>　　及扬雄《剧秦》，班固《典引》，事非镌石，而体因纪禅。观《剧秦》为文，影写长卿，诡言遁辞，故兼包神怪；然骨制靡密，辞贯圆通，自称极思，无遗力矣。《典引》所叙，雅有懿采，历鉴前作，能执厥中，其致义会文，斐然馀巧。故称“《封禅》靡而不典，《剧秦》典而不实”，岂非追观易为明，循势易为力欤？至于邯郸《受命》，攀响前声，风末力寡，辑韵成颂，虽文理顺序，而不能奋飞。陈思《魏德》，假论客主，问答迂缓，且已千言，劳深绩寡，飙焰缺焉。</p>
+<p>　　兹文为用，盖一代之典章也。构位之始，宜明大体，树骨于训典之区，选言于宏富之路；使意古而不晦于深，文今而不坠于浅；义吐光芒，辞成廉锷，则为伟矣。虽复道极数殚，终然相袭，而日新其采者，必超前辙焉。</p>
+<p>　　赞曰∶</p>
+<p>　　封勒帝绩，对越天休。逖听高岳，声英克彪。</p>
+<p>　　树石九旻，泥金八幽。鸿律蟠采，如龙如虬。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4035.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4037.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2630" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

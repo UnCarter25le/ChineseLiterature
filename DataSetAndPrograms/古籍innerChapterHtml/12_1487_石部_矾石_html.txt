@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·石部·矾石_古诗文网
+</title>
+<meta content="释名亦名涅石、羽涅、羽泽；煅枯者名巴石，轻白者名柳絮矾。气味酸、寒、无毒。主治痰中风。用白矾一两、牙皂角五钱，共研细。每服一钱，温开水送下。胸胃积痰(头痛，不思饮食)。矾石一两，入" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1487.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>石部·矾石</b></span>
+<a href="javascript:PlayBookv(1487)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1487" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1487" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>亦名涅石、羽涅、羽泽；煅枯者名巴石，轻白者名柳絮矾。</p>
+<p><strong>气味</strong><br/>酸、寒、无毒。</p>
+<p><strong>主治</strong><br/>痰中风。用白矾一两、牙皂角五钱，共研细。每服一钱，温开水送下。<br/>胸胃积痰(头痛，不思饮食)。矾石一两，入水二升中煮成一升，加蜜半合。频频取饮，不久即大吐积痰。如不吐，可喝一点开水引吐。<br/>风痰 病。用生白矾一两、细茶五钱，共研为末。和蜜成丸，如梧子大。小儿一岁吃十丸，大人可吃五十丸。久服，痰自大便排出，病根可断。此方名“化痰丸。<br/>牙关紧闭不开。用白矾、食盐等分，研细，搽牙，涎出自开。<br/>喉痈乳蛾。用白矾三钱，放锅中加水熔化，投入劈天的巴豆三粒，在火上煎干。去豆，研矾为末，点患处，病重得以醋调罐。此方名“济生帐带散”，亦名“通箠散”。<br/>咽喉谷贼肿痛。用生白矾末点肿处，吐涎。以有痒感为度。<br/>小舌垂长，咽中烦闷。用白矾(烧灰)、食盐等分，研细。筷子蘸药频点小舌上，涎水充出，小舌即渐复位。<br/>牙齿肿痛。用白矾一两，烧成灰，蜂房一两，微灸。每用二钱，水煎含漱，去涎。<br/>齿龈出血不止。用白矾一两，加在水三升中煮成一升，含漱。<br/>口舌生疮。用白矾、铅丹(水飞，炒过)等分，研细，搽患处。<br/>小儿鹅口疮(满口白烂)。用枯矾(煅过的白矾)一钱、丹砂二分，共研为末，每次以少许敷患处。一天三次，有效。<br/>鼻血不止。用枯矾末吹鼻内。<br/>鼻中息肉。用白矾烧成末，和猪油、棉花裹好，塞鼻孔中。几天后，息肉脱落。又方：白矾一两，蓖麻仁七个，盐梅肉五个，麝香少许，捣匀，捏成丸子，用棉花崐裹着塞鼻内，息肉自下。<br/>双目红肿。用甘草水磨白矾，敷眼泡上，或用枯矾频搽眉心。<br/>烂眼睑。用煅白矾一两、铜青三钱，共研为末，泡开水中，澄清后以水洗眼。16、 耳。用枯矾粉一两、铅丹粉(炒)一钱，和匀，每日吹入耳中。<br/>风温膝痛。用白矾烧过，研细。取一汤匙矾粉投沸水中，淋洗痛处。<br/>黄肿、水肿。用白矾二两、青矾一两、白面粉半斤，同炒红；另用醋煮米粉成糊，和药为丸。每服三十丸，枣汤送下。此方名“推车丸”。<br/>女劳黄疸。方见“硝石”条。<br/>妇女白沃(月经不调，子宫坚硬，常从阴道中流出白色污物)。用杏仁同烧过的白矾调匀，加蜜成丸，枣核大，塞阴道中。一天换药一次。<br/>遗尿。用枯矾、牡蛎粉，等分为末，每服一小匙，温酒送下。一天服三次。<br/>二便不通。用白矾末填满脐中，滴入冷水，如觉冷透腹内，二便自通。如脐平不能填药时，周围用纸圈隔起来。<br/>上吐下泻。用枯矾末一钱，百沸汤调下。<br/>伏暑泄泻。用白矾煅为末，醋糊成丸，按年龄大小取适当分量，木瓜汤送下。此方名“玉华丹”。<br/>老人泄泻不止。用枯矾一两、诃黎勒(煨过)七钱半，共研为末。每服二钱，米汤送下。<br/>赤白痢。用白矾(水飞)和面粉(醋飞)做成丸子，如梧子大。赤痢，以甘草汤送下。<br/>反胃呕吐。用白矾、硫磺各二两，烧过，加丹砂一分，共研为末，面糊成丸，如小豆大。每服十五丸，姜汤送下。又方：枯矾三两，加蒸饼糊成丸子，如梧子大每服十五丸，定心服，米汤送下。<br/>化痰治嗽。用明矾二两、生参末一两、苦醋二升，熬成膏子。等稍干，做成丸子，如豌豆大。每次取一丸放在舌头下面，痰消嗽止。又方：只用明矾末，加醋紛糊，做成丸子，如梧子大。每睡时服二、三十丸，茶送下。又方：明矾半烧半生，山栀子炒黑，等分为末，姜汁糊为丸，服法同上方。又方：白矾、茶叶，等分为末糊成丸子，服法亦同上方。<br/>刀伤。用白矾、铅丹，等分为末，敷伤处。<br/>漆疮作痒。用白矾煎汤洗擦。<br/>牛皮癣。用石榴皮蘸白矾粉搽抹。切勿用醋。<br/>小儿风疹。用白矾烧过投热酒中，蘸酒涂疹。<br/>脸上身上长瘊子。用白矾、地肤子等分，煎水，经常洗擦。<br/>鱼口疮。用枯矾研细，调面敷上。<br/>趾甲疮(趾甲嵌入肉中作疮，不能穿鞋)。用白矾烧灰涂在疮上，好肉慢慢生出。嵌到肉里的甲鱼，要小心剥去。<br/>鸡眼肉刺。用枯矾、铅丹、朴硝，等分为末，搽患处。次日洗脚两、三次。<br/>疔疮肿毒。用白矾末五钱，和煨熟的葱白，捣成丸子，如梧子大。每服二钱五分，酒送下。无效，可再用。久病的人和妊妇，忌用此药。<br/>痈疽肿毒。用好白矾一两，生研，调在七钱熔化了的黄蜡中，和成丸子，如梧子大。每服十丸，逐渐加至二十丸，熟水送下。此方名“黄矾丸”，亦名“蜡矾丸，不仅能止痛生肌，还能防毒气内攻。<br/>交接劳复(房事之后，突发病，阴囊肿大， 丸缩入，腹痛难忍)。用白矾一分，硝石三分，大麦粥送服。一天服三次。</p>
+<p><strong>附方</strong><br/>李明珍总结矾石的功用有四条：(一)因其酸苦，有涌泄之力，故能“吐利风热之痰涎”；(二)因其酸涩，有收敛之力，故能“治诸血痛、脱肛、阴挺、疮疡”；(三)因有燥温之力，故能“治痰饮、泄利、崩带、风眼”；(四)因有解毒之力，故能“治喉痹、阴疽、中蛊、蛇虫伤螫。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1486.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1488.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

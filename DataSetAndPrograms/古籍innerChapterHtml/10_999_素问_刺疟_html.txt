@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·刺疟_古诗文网
+</title>
+<meta content="足太阳之疟，令人腰痛头重，寒从背起，先寒后热，（火高）（火高）暍暍然，热止汗出，难已，刺郄中出血。足少阳之疟，令人身体解（亻亦），寒不甚，热不甚，恶见人，见人心惕惕然，热多汗出甚，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_999.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left818" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·刺疟</b></span>
+<a href="javascript:PlayBookv(999)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv999" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(818)" id="leftbtn818" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay999" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　足太阳之疟，令人腰痛头重，寒从背起，先寒后热，（火高）（火高）暍暍然，热止汗出，难已，刺郄中出血。</p>
+<p>　　足少阳之疟，令人身体解（亻亦），寒不甚，热不甚，恶见人，见人心惕惕然，热多汗出甚，刺足少阳。</p>
+<p>　　足阳明之疟，令人先寒，洒淅洒淅，寒甚久乃热，热去汗出，喜见日月光火气，乃快然，刺足阳明跗上。</p>
+<p>　　足太阴之疟，令人不乐，好太息，不嗜食，多寒热汗出，病至则善呕，呕已乃衰，即取之。</p>
+<p>　　足少阴之疟，令人呕吐甚，多寒热，热多寒少，欲闭户牖而处，其病难已。</p>
+<p>　　足厥阴之疟，令人腰痛少腹满，小便不利，如癃状，非癃也，数便，意恐惧，气不足，腹中悒悒，刺足厥阴。</p>
+<p>　　肺疟者，令人心寒，寒甚热，热间善惊，如有所见者，刺手太阴阳明。</p>
+<p>　　心疟者，令人烦心甚，欲得清水，反寒多，不甚热，刺手少阴。</p>
+<p>　　肝疟者，令人色苍苍然，太息，其状若死者，刺足厥阴见血。</p>
+<p>　　脾疟者，令人寒，腹中痛，热则肠中鸣，鸣已汗出，刺足太阴。</p>
+<p>　　肾疟者，令人洒洒然，腰脊痛，宛转，大便难，目（目旬）（目旬）然，手足寒，刺足太阳少阴。</p>
+<p>　　胃疟者，令人且病也，善饥而不能食，食而支满腹大，刺足阳明太阴横脉出血。</p>
+<p>　　疟发身方热，刺跗上动脉，开其空，出其血，立寒；疟方欲寒，刺手阳明太阴，足阳明太阴。疟脉满大急，刺背俞，用中针，傍伍胠俞各一，适肥瘦出其血也。疟脉小实急，灸胫少阴，刺指井。疟脉满大急，刺背俞，用五胠俞背俞各一，适行至于血也。</p>
+<p>　　疟脉缓大虚，便宜用药，不宜用针。凡治疟，先发如食顷乃可以治，过之则失时也。诸疟而脉不见，刺十指间出血，血去必已，先视身之赤如小豆者尽取之。十二疟者，其发各不同时，察其病形，以知其何脉之病也。先其发时如食顷而刺之，一刺则衰，二刺则知，三刺则已；不已，刺舌下两脉出血，不已，刺郄中盛经出血，又刺项已下侠脊者必已。舌下两脉者，廉泉也。</p>
+<p>　　刺疟者，必先问其病之所先发者，先刺之。先头痛及重者，先刺头上及两额两眉间出血。先项背痛者，先刺之。先腰脊痛者，先刺郄中出血。先手臂痛者，先刺手少阴阳明十指间。先足胫痠痛者，先刺足阳明十指间出血。风疟，疟发则汗出恶风，刺三阳经背俞之血者。（骨行）痠痛甚， 按之不可，名曰胕髓病，以饞针针绝骨出血，立已。身体小痛，刺至阴，诸阴之井无出血，间日一刺。疟不渴，间日而作，刺足太阳；渴而间日作，刺足少阳；温疟汗不出，为五十九刺。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_998.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1000.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right818" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

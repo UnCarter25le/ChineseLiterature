@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·燕一·齐伐宋宋急_古诗文网
+</title>
+<meta content="齐伐宋，宋急。苏代乃遗燕昭王书曰：“夫列在万乘，而寄质于齐，名卑而权轻。秦齐助之伐宋，民劳而实费。破宋，残楚淮北，肥大齐，雠强而国弱也。此三者，皆国之大败也，而足下行之，将欲以除害" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4797.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4316" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>燕一·齐伐宋宋急</b></span>
+<a href="javascript:PlayBookv(4797)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4797" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4316)" id="leftbtn4316" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4797" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　齐伐宋，宋急。苏代乃遗燕昭王书曰：“夫列在万乘，而寄质于齐，名卑而权轻。秦齐助之伐宋，民劳而实费。破宋，残楚淮北，肥大齐，雠强而国弱也。此三者，皆国之大败也，而足下行之，将欲以除害取信于齐也。而齐未加信于足下，而忌燕也愈甚矣。然则足下之事齐也，失所为矣。夫民劳而实费，又无尺寸之功，破宋肥雠，而世负其祸矣。足下以宋加淮北，强万乘之国也，而齐并之，是益一齐也。北夷方七百里，加之以鲁、卫，此所谓强万乘之国也，而齐并之，是益二齐也。夫一齐之强，而燕犹不能支也，今乃以三齐临燕，其祸必大矣。</p>
+<p>　　“虽然，臣闻知者之举事也，转祸而为福，因败而成功者也。齐人紫败素也，而贾十倍。越王勾践栖于会稽，而后残吴霸天下。此皆转祸而为福，因败而为功者也。今王若欲转祸而为福，因败而为功乎?则莫如遥伯齐而厚尊之，使盟于周室，尽焚天下之秦符，约曰：‘夫上计破秦，其次长宾之秦。’秦挟宾客以待破，秦王必患之。秦五世以结诸侯，今为齐下；秦王之志，苟得穷齐，不惮以一国都为功。然而王何不使布衣之人，以穷齐之说说秦，谓秦王曰：‘燕、赵破宋肥齐，尊齐而为之下者，燕、赵非利之也。弗利而势为之者，何也?以不信秦王也。今王何不使可以信者接收燕、赵。今泾阳君若高陵君先于燕、赵，秦有变，因以为质，则燕、赵信秦矣。秦为西帝，赵为中帝，燕为北帝，立为三帝而以令诸侯。韩、魏不听，则秦伐之。齐不听，则燕、赵伐之。天下孰敢不听?天下服听，因驱韩、魏以攻齐，曰，必反宋地而归楚之淮北。夫反宋地，归楚之准北，燕、赵之所同利也。并立三帝，燕、赵之所同愿也。夫实得所利，名得所愿，则燕、赵之弃齐也，犹释弊屣。今王之不收燕、赵，则齐伯必成矣。诸侯戴齐，而王独弗从也，是国伐也。诸侯戴齐，而王从之，是名卑也。王不收燕、赵，名卑而国危；王收燕、赵，名尊而国宁。夫去尊宁而就卑危，知者不为也。’秦王闻若说也，必如刺心然，则王何不务使知士以若此说秦?秦伐齐必矣。夫取秦也，上交也；伐齐，正利也。尊上交，务正利，圣王之事也。”</p>
+<p>　　燕昭王善其书，曰：“先人尝有德苏氏，子之之乱，而苏氏去燕。燕欲报仇于齐，非苏氏莫可。”乃召苏氏，复善待之。与谋伐齐，竟破齐，闵王出走。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4796.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4798.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4316" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

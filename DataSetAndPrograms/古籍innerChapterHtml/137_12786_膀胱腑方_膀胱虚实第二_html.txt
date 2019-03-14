@@ -1,0 +1,115 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·膀胱腑方·膀胱虚实第二_古诗文网
+</title>
+<meta content="（脉四首 方六首）膀胱实热　　左手尺中神门以后脉阳实者，足太阳经也。病苦逆满腰中痛，不可俯仰劳也，名曰膀胱实热也。右手尺中神门以后脉阳实者，足太阳经也。病苦胞转不得小便，头眩痛烦满" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12786.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>膀胱腑方·膀胱虚实第二</b></span>
+<a href="javascript:PlayBookv(12786)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12786" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12786" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（脉四首 方六首）</span></p>
+<p>　　<strong>膀胱实热<br/></strong>　　左手尺中神门以后脉阳实者，足太阳经也。病苦逆满腰中痛，不可俯仰劳也，名曰膀胱实热也。</p>
+<p>　　右手尺中神门以后脉阳实者，足太阳经也。病苦胞转不得小便，头眩痛烦满，脊背强，名曰膀胱实热也。</p>
+<p>　<strong>　治膀胱实热方∶</strong></p>
+<p>　　石膏（八两） 栀子仁（一作瓜子仁） 茯苓 知母（各三两） 蜜（五合） 淡竹叶 生地（切，各一升）</p>
+<p>　　上七味 咀，以水七升，煮取二升，去滓，下蜜，煮二沸，分三服，须利，加芒硝三两。</p>
+<p>　　<strong>治膀胱热病不已，舌干咽肿方∶</strong></p>
+<p>　　蜜（七合） 升麻 大青（各三两） 射干 生元参 黄柏 蔷微根白皮（各四两）</p>
+<p>　　上七味以水七升，煮取一升，去滓，下蜜，煮二沸，细细含之。</p>
+<p>　　<strong>膀胱虚冷<br/></strong>　　左手尺中神门以后脉阳虚者，足太阳经也。病苦脚中筋急，腹中痛，引腰背不可屈伸，转筋恶风偏枯，腰痛，外踝后痛，名曰膀胱虚冷也。</p>
+<p>　　右手尺中神门以后脉阳虚者，足太阳经也。病苦肌肉振动，脚中筋急，耳聋，忽忽不闻，恶风飕飕作声，名曰膀胱虚冷也。</p>
+<p>　　<strong>治膀胱虚冷，饥不欲饮食，面黑如炭，腰胁疼痛方∶</strong></p>
+<p>　　磁石（六两） 黄 茯苓（各三两） 五味子 杜仲（各四两） 白术 白石英（各五两）</p>
+<p>　　上七味 咀，以水九升，煮取三升，分三服。</p>
+<p><strong>　　治膀胱冷咳唾则有血，喉鸣喘息方∶</strong></p>
+<p>　　羊肾（一具） 人参 元参 黄桂心 川芎 甘草（各三两） 茯苓（四两） 骨皮 生姜（各五两） 白术（六两）</p>
+<p>　　上十一味 咀，以水一斗二升，先煮羊肾，减三升，去肾下药，煮取三升，去滓，分三服。</p>
+<p><strong>　　龙骨丸<br/>　　治膀胱肾冷，坐起欲倒，目KT KT ，气不足骨痿方。</strong></p>
+<p>　　龙骨 柏子仁 地黄 甘草 防风（各五分） 黄 禹余粮 白石英 桂心 茯苓（各七分） 五味子 羌活 人参 附子（各六分） 山萸肉 元参 川芎（各四分） 磁石 杜仲 干姜（各八分）</p>
+<p>　　上二十味为末，蜜丸如梧子大，空腹酒服三十丸，日二，加至四十丸。</p>
+<p>　<strong>　治膀胱寒，小便数，漏精稠如白米泔方∶</strong></p>
+<p>　　赤石脂 白石脂（各五分） 地黄（三分） 苁蓉（六分） 赤雄鸡肠 鸡 （各两具） 桑螵蛸 牡蛎 龙骨 川连（各四分）</p>
+<p>　　上十味治下筛，纳鸡肠及 中缝塞，蒸之令熟，曝干合捣为散，以酒和服方寸匕，日三．？</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12785.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12787.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

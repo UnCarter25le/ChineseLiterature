@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·白沙学案上·举人李大厓先生承箕_古诗文网
+</title>
+<meta content="李承箕字世卿，号大厓，楚之嘉鱼人。成化丙午举人。其文出入经史，跌宕纵横。闻白沙之学而慕之，弘治戊申，入南海而师焉。白沙与之登临弔古，赋诗染翰，投壶饮酒，凡天地间耳目所闻见，古今上下" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14510.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>白沙学案上·举人李大厓先生承箕</b></span>
+<a href="javascript:PlayBookv(14510)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14510" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14510" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　李承箕字世卿，号大厓，楚之嘉鱼人。成化丙午举人。其文出入经史，跌宕纵横。闻白沙之学而慕之，弘治戊申，入南海而师焉。白沙与之登临弔古，赋诗染翰，投壶饮酒，凡天地间耳目所闻见，古今上下载籍所存，无所不语。所未语者，此心通塞往来之机，生生化化之妙，欲先生深思而自得之，不可以见闻承当也。</p>
+<p>　　久之而先生有所悟入，归筑钓台於黄公山，读书静坐其中，不复仕进。自嘉鱼至新会，涉江浮海，水陆万里，先生往见者四。而白沙相忆之诗：“去岁逢君笑一回，经年笑口不曾开。山中莫谓无人笑，不是真情懒放怀。”又“衡岳千寻云万寻，丹青难写梦中心。人间铁笛无吹处，又向秋风寄此音。”真有相视而莫逆者。盖先生胸怀洒落，白沙之门更无过之。</p>
+<p>　　乙丑二月卒，年五十四。唐伯元谓其晚节大败，不知何指，当俟细考。</p>
+<p>　　文集</p>
+<p>　　《诗》，《雅颂》各得其所，而乐之本正。可以兴，可以观，可以群，可以怨，而《诗》之教明。孔子之志，其见於是乎！先生诗曰：“从前欲洗安排障，万古斯文看日星。”其本乎！“一笑功名卑管、晏，《六经》仁义沛江河”。其用乎！“时当可出宁须我，道不虚行只在人”。其出处乎！所谓吟咏性情，而不累於性情者乎！</p>
+<p>　　先生不著书，尝曰：“《六经》而外，散之诸子百家，皆剩语也。”故其诗曰：“他年得遂投闲计，只对青山不著书。”又曰：“莫笑老慵无著述，真儒不是郑康成。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14509.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14511.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

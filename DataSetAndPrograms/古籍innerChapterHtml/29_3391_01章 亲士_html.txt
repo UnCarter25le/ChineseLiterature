@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+墨子·01章 亲士_古诗文网
+</title>
+<meta content="入国而不存其士，则亡国矣。见贤而不急，则缓其君矣。非贤无急，非士无与虑国。缓贤忘士，而能以其国存者，未曾有也。昔者文公出走而正天下；桓公去国而霸诸侯；越王勾践遇吴王之丑而尚摄中国之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3391.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1942" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>01章 亲士</b></span>
+<a href="javascript:PlayBookv(3391)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3391" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1942)" id="leftbtn1942" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3391" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　入国而不存其士，则亡国矣。见贤而不急，则缓其君矣。非贤无急，非士无与虑国。缓贤忘士，而能以其国存者，未曾有也。</p>
+<p>　　昔者文公出走而正天下；桓公去国而霸诸侯；越王勾践遇吴王之丑而尚摄中国之贤君。三子之能达名成功于天下也，皆于其国抑而大丑也。太上无败，其次败而有以成，此之谓用民。吾闻之曰：“非无安居也，我无安心也；非无足财也，我无足心也。”是故君子自难而易彼，众人自易而难彼。君子进不败其志，内究其情；虽杂庸民，终无怨心。彼有自信者也。</p>
+<p>　　是故为其所难者，必得其所欲焉；未闻为其所欲，而免其所恶者也。是故逼臣伤君，谄下伤上。君必有弗弗之臣，上必有詻詻之下。分议者延延，而支苟者詻詻，焉可以长生保国。臣下重其爵位而不言，近臣则喑，远臣则吟，怨结于民心。谄谀在侧，善议障塞，则国危矣。桀纣不以其无天下之士邪？杀其身而丧天下。故曰：“归国宝，不若献贤而进士。”</p>
+<p>　　今有五锥，此其铦，铦者必先挫。有五刀，此其错，错者必先靡。是以甘井近竭，招木近伐，灵龟近灼，神蛇近暴。是故比干之殪，其抗也；孟贲之杀，其勇也；西施之沈，其美也；吴起之裂，其事也。故彼人者，寡不死其所长，故曰“太盛难守”也。</p>
+<p>　　故虽有贤君，不爱无功之臣；虽有慈父，不爱无益之子。是故不胜其任而处其位，非此位之人也；不胜其爵而处其禄，非此禄之主也。良弓难张，然可以及高入深；良马难乘，然可以任重致远；良才难令，然可以致君见尊。是故江河不恶小谷之满已也，故能大。圣人者，事无辞也，物无违也，故能为天下器。是故江河之水，非一水之源也；千镒之裘，非一狐之白也。夫恶有同方取不取同而已者乎？盖非兼王之道也！</p>
+<p>　　是故天地不昭昭，大水不潦潦，大火不燎燎，王德不尧尧者，乃千人之长也。其直如矢，其平如砥，不足以覆万物。是故溪陕者速涸，逝浅者速竭，〔土尧〕埆者其地不育。王者淳泽，不出宫中，则不能流国矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_29.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3392.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1942" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

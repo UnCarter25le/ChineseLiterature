@@ -1,0 +1,128 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·杂式·推神煞门户篇_古诗文网
+</title>
+<meta content="推神煞门户篇凡战阵之法，须避神煞，兼明天门地户，克胜制敌，实在于此也。推大将军法孟岁，以胜光；仲岁，以小吉；季岁，以传送；加岁支，天罡下是也。推豹尾法天罡加太岁支，功曹、胜光、河魁" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16092.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>杂式·推神煞门户篇</b></span>
+<a href="javascript:PlayBookv(16092)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16092" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16092" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>推神煞门户篇</p>
+<p>凡战阵之法，须避神煞，兼明天门地户，克胜制敌，实在于此也。</p>
+<p>推大将军法</p>
+<p>孟岁，以胜光；仲岁，以小吉；季岁，以传送；加岁支，天罡下是也。</p>
+<p>推豹尾法</p>
+<p>天罡加太岁支，功曹、胜光、河魁，有临季者，其下即是豹尾，其冲是为黄旛。</p>
+<p>推太阴法</p>
+<p>常以功曹加岁支，神后下是已。</p>
+<p>推岁建破法</p>
+<p>阳岁，以大吉；阴岁，以小吉；加太岁，支魁下为建，天罡下为破，阴阳杀用。</p>
+<p>推岁星法</p>
+<p>天罡加岁支，亥上所见本位辰是也。</p>
+<p>推岁支干德法</p>
+<p>从魁加岁辰，功曹是已。支德甲戌、戊寅，壬德自处，乙丁、己辛、癸任魁乡也。</p>
+<p>推岁杀法</p>
+<p>天罡加岁支，太乙、从魁、大吉，有临季者，其下即是岁杀。申子辰，劫煞在巳，灾杀在午，天杀在未，他仿此。</p>
+<p>　　天罡加岁支，太乙、从魁、大吉，有临季者，其下即是岁杀。申子辰，劫煞在巳，灾杀在午，天杀在未，他仿此。</p>
+<p>　　推孤虚大煞天狗法</p>
+<p>　　登明加岁支，天魁下，为孤；太冲、天罡下，为虚；旬下日，同大煞。春午、夏未、秋酉、冬子，一名天地转，杀天狗。孟岁巳，仲岁酉，季岁丑。天时、天罡加月建也。</p>
+<p>　　推天道黄道法</p>
+<p>　　天道：寅午戌月，寅戌，南方行；午，西北方行。亥卯未月，亥未，东方行；卯，西南方行；申子辰月，申辰，北方行；子，东南方行。巳酉丑月，巳丑，西方行；酉，东北方行。</p>
+<p>　　推天耳、天目法</p>
+<p>　　春氐星，乙下；夏柳星，丁下；秋胃星，辛下；冬女星，癸下。是为天目也。</p>
+<p>　　春箕星，寅；夏轸星，巳；秋参星，申；冬壁星，亥。是为天耳也。</p>
+<p>　　推游都虏都月合法</p>
+<p>　　游都为都将，甲己日大吉，乙庚日神后，丙辛日功曹，丁壬日太乙，戊癸日传送。虏都为天贼，甲己日天罡，乙庚日胜光，丙辛日登明，丁壬日传送，戊癸日功曹。月合常以月合，神上为月朔之始、顺数之尽，末日也。</p>
+<p>　　推三元法</p>
+<p>　　上元甲子日，起五宫；中元甲子日，起二宫；下元甲子日，起八宫。各以顺日求之，周而复始，时同日法，夏至後行，反此。</p>
+<p>　　推亭亭白奸法</p>
+<p>　　常以月将加正时，神后下为亭亭。寅午戌上见孟春，五本位上是白奸。</p>
+<p>　　推生死神法</p>
+<p>　　常以功曹加月建，神后下为生神，胜光下为死神。</p>
+<p>　　推六害法</p>
+<p>　　辰卯相害，寅巳相害，丑午相害，子未相害，申亥相害，酉戌相害。</p>
+<p>　　推天门地户法</p>
+<p>　　子丑日，天门在丙，地户在丁。寅卯日，天门在庚，地户在丁。辰巳日，天门在庚，地户在壬。午未日，天门在壬，地户在辛。申酉戌亥日，天门在甲，地户在癸。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16091.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16093.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

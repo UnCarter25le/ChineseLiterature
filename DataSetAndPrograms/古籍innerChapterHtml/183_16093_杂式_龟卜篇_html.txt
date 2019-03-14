@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·杂式·龟卜篇_古诗文网
+</title>
+<meta content="河出图，洛出书。圣人则之，则灵龟负图，自河而出也。是龟龙麟凤四灵，龟居其一；托梦於元王，何其贤也！不避豫且之网，何其愚也！生既不能全身避害，死亦安能灼骨而知吉凶。古人所以设此法者，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16093.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>杂式·龟卜篇</b></span>
+<a href="javascript:PlayBookv(16093)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16093" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16093" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　河出图，洛出书。圣人则之，则灵龟负图，自河而出也。是龟龙麟凤四灵，龟居其一；托梦於元王，何其贤也！不避豫且之网，何其愚也！生既不能全身避害，死亦安能灼骨而知吉凶。古人所以设此法者，谓「兵为凶器，战为危事。」圣人得之以兴，凡夫得之以废，不可轻举矣。愚人不自谓其愚，皆自谓其智，故立卜法，假于阴阳，亦惑愚人之心，非为智也。太公曰：「蓍，朽草也；龟，枯骨也。安知圣人之智虑哉?</p>
+<p>　　是知神亦不能自智，圣亦不能自智。赞圣人之事者，其犹砥乎！凡龟有五色，随其旺相而用之，一龟之内有六厨左右翼，君王用上尺有二寸，大夫用中，庶人用下；後左足为春，前左足为夏，前右足为秋，後右足为冬，四季用中厨。</p>
+<p>　　经曰：何知我神，骨白如银！何知我圣，千里路正！又曰：其骨须白，其色须鲜，其皮如蜡，其界如法。</p>
+<p>　　龟有五兆，以定吉凶。一兆之中为五段，可以彰往察来：内高为金，外高为火，五曲为木，正直为土，头垂为水。水无正形，因金为名，常以晴雾为水。一兆之中从头分为五乡，头为甲乙，次为丙丁，次为戊己，次为庚辛，次为壬癸。常以头微高为上兆，正横为中兆。春夏以内为头，秋冬以外为头。</p>
+<p>　　假令木兆：甲乙乡为本宫，丙丁乡为子孙，戊己乡为妻财，庚辛乡为官鬼，壬癸乡为父母。但以此乡断吉凶，及支入兆，假令木兆：金支是官鬼，木支是兄弟，土支是妻财，火支是子孙，水支是父母。看支入乡，以断吉凶成败。</p>
+<p>　　我往攻彼，则彼为主。兆欲头伏足落，及格横，身内摧折、暗雾、昏惊、震动、猖狂、文不食墨、火天穿者，破军杀将。</p>
+<p>　　彼来攻我。兆欲头仰足举。彼支援助，身内有力、食墨、鲜明、肥浓、安稳，兆吉言吉，兆凶言凶。万端吉凶，一看兆身，往往有验。无假日辰，夫有动不如无动，有支不如无支。有支则被支吉、格支凶，故兆连新，起动由人；新兆连故，起动无路。</p>
+<p>　　捉头足，所作不成；头足衔芒，所求无累。君子动头，天下同忧；小人动足，天下驰逐。兆身过度，日向衰微；兆不出臼，势将微灭。</p>
+<p>　　凡占贼：被支有外救，格支有外敌。若吾击敌，兆旺相、洪润、轩昂、有力、重偃仰吉；枯槁、伏落、雾悴、惊摧、分伏、足落、兆细而暗，凶。凡卜：以支及动乡，贼数日月，远近里数，生数三，成数八，旺相依数，休废减半。</p>
+<p>　　凡卜兆：为我为客，支旺克兆，客胜；支囚为兆所克，客败。支洪润，贼强；支枯槁，贼弱。</p>
+<p>　　「ㄟ」，飞鸟出林兆。出军行师，吉；安营入师，凶。</p>
+<p>　　「ㄏ」，飞鸟入林兆。安营筑城，吉；行师，凶。</p>
+<p>　　「工」，惊獐兆。有贼奄至，防闲城堡，吉。</p>
+<p>　　「爪」，走鹿兆。有贼至，主奔走之事。</p>
+<p>　　「一」，土兆大横。安城堡社，吉。</p>
+<p>　　「八」，栖凤兆。自守，吉。</p>
+<p>　　「[上十下四]」，需兆。安城垒，吉。</p>
+<p>　　「川」，天兆。城垒袭人，吉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16092.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16094.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

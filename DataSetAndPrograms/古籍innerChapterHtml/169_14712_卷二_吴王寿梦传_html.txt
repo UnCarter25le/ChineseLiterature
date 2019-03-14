@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+吴越春秋·卷二·吴王寿梦传_古诗文网
+</title>
+<meta content='寿梦元年，朝周，适楚，观诸侯礼乐。鲁成公会于钟离，深问周公礼乐，成公悉为陈前王之礼乐，因为咏歌三代之风。寿梦曰："孤在夷蛮，徒以椎髻为俗，岂有斯之服哉！"因叹而' name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14712.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·吴王寿梦传</b></span>
+<a href="javascript:PlayBookv(14712)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14712" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14712" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b5%b5%e6%99%94">赵晔</a></p>
+<div class="contson">
+<p>　　寿梦元年，朝周，适楚，观诸侯礼乐。鲁成公会于钟离，深问周公礼乐，成公悉为陈前王之礼乐，因为咏歌三代之风。寿梦曰："孤在夷蛮，徒以椎髻为俗，岂有斯之服哉！"因叹而去，曰："於乎哉，礼也！"</p>
+<p>　　二年，楚之亡大夫申公巫臣适吴，以为行人。教吴射御，导之伐楚。楚庄王怒，使子反将，败吴师。二国从斯结仇。于是吴始通中国而与诸侯为敌。</p>
+<p>　　五年，伐楚，败子反。</p>
+<p>　　十六年，楚恭王怨吴为巫臣伐之也，乃举兵伐吴，至衡山而还。</p>
+<p>　　十七年，寿梦以巫臣子狐庸为相，任以国政。</p>
+<p>　　二十五年，寿梦病将卒。有子四人：长曰诸樊，次曰余祭，次曰余昧，次曰季札。季札贤，寿梦欲立之，季札让，曰："礼有旧制，奈何废前王之礼，而行父子之私乎？"</p>
+<p>　　寿梦乃命诸樊曰："我欲传国及札，尔无忘寡人之言。"诸樊曰："周之太王知西伯之圣，废长立少，王之道兴。今欲授国于札，臣诚耕于野。"王曰："昔周行之德，加于四海，今汝于区区之国，荆蛮之乡，奚能成天子之业乎？且今子不忘前人之言，必授国以次及于季札。"诸樊曰："敢不如命？"</p>
+<p>　　寿梦卒，诸樊以适长摄行事，当国政。</p>
+<p>　　吴王诸樊元年，已除丧，让季札，曰："昔前王未薨之时，尝晨昧不安，吾望其色也，意在于季札。又复三朝悲吟而命我曰："吾知公子札之贤，欲废长立少。"重发言于口。虽然我心已许之，然前王不忍行其私计，以国付我，我敢不从命乎？今国者，子之国也，吾愿达前王之义。"</p>
+<p>　　季札谢曰："夫适长当国，非前王之私，乃宗庙社稷之制，岂可变乎？"</p>
+<p>　　诸樊曰："苟可施于国，何先王之命有！太王改为季历，二伯来入荆蛮，遂城为国，周道就成，前人诵之不绝于口，而子之所习也。"</p>
+<p>　　札复谢曰："昔曹公卒，废存适亡，诸侯与曹人不义而立于国。子臧闻之，行吟而归。曹君惧，将立子臧，子臧去之，以成曹之道。札虽不才，愿附子臧之义。吾诚避之。"</p>
+<p>　　吴人固立季札，季札不受而耕于野，吴人舍之。诸樊骄恣，轻慢鬼神，仰天求死。将死，命弟余祭曰："必以国及季札。"乃封季札于延陵，号曰延陵季子。</p>
+<p>　　余祭十二年，楚灵王会诸侯伐吴，围朱方，诛庆封。庆封数为吴伺祭，故晋楚伐之也。吴王余祭怒曰："庆封穷来奔吴，封之朱方，以效不恨士也。"即举兵伐楚，取二邑而去。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14711.aspx">上一章</a>
+<a href="/guwen/book_169.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14713.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

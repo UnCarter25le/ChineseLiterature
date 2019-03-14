@@ -1,0 +1,115 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+论语·泰伯篇_古诗文网
+</title>
+<meta content="子曰：“泰伯，其可谓至德也已矣。三以天下让，民无得而称焉。”子曰：“恭而无礼则劳；慎而无礼则葸；勇而无礼则乱；直而无礼则绞。君子笃于亲，则民兴于仁；故旧不遗，则民不偷。”曾子有疾，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_26.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left766" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>泰伯篇</b></span>
+<a href="javascript:PlayBookv(26)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv26" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(766)" id="leftbtn766" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay26" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>子曰：“泰伯，其可谓至德也已矣。三以天下让，民无得而称焉。”</p>
+<p>子曰：“恭而无礼则劳；慎而无礼则葸；勇而无礼则乱；直而无礼则绞。君子笃于亲，则民兴于仁；故旧不遗，则民不偷。”</p>
+<p>曾子有疾，召门弟子曰：“启予足，启予手。《诗》云：‘战战兢兢，如临深渊，如履薄冰。’而今而后，吾知免夫，小子！”</p>
+<p>曾子有疾，孟敬子问之。曾子言曰：“鸟之将死，其鸣也哀；人之将死，其言也善。君子所贵乎道者三：动容貌，斯远暴慢矣；正颜色，斯近信矣；出辞气，斯远鄙倍矣。笾豆之事，则有司存。”</p>
+<p>曾子曰：“以能问于不能；以多问于寡；有若无，实若虚，犯而不校。昔者吾友尝从事于斯矣。”</p>
+<p>曾子曰：“可以托六尺之孤，可以寄百里之命，临大节而不可夺也。君子人与？君子人也。”</p>
+<p>曾子曰：“士不可以不弘毅，任重而道远。仁以为己任，不亦重乎？死而后已，不亦远乎？”</p>
+<p>子曰：“兴于《诗》，立于礼，成于乐。”</p>
+<p>子曰：“民可使由之，不可使知之。”</p>
+<p>子曰：“好勇疾贫，乱也。人而不仁，疾之已甚，乱也。”</p>
+<p>子曰：“如有周公之才之美，使骄且吝，其余不足观也已。”</p>
+<p>子曰：“三年学，不至于谷，不易得也。”</p>
+<p>子曰：“笃信好学，守死善道。危邦不入，乱邦不居。天下有道则见，无道则隐。邦有道，贫且贱焉，耻也；邦无道，富且贵焉，耻也。”</p>
+<p>子曰：“不在其位，不谋其政。”</p>
+<p>子曰：“师挚之始，《关雎》之乱，洋洋乎盈耳哉！”</p>
+<p>子曰：“狂而不直，侗而不愿，悾悾而不信，吾不知之矣。”</p>
+<p>子曰：“学如不及，犹恐失之。”</p>
+<p>子曰：“巍巍乎！舜、禹之有天下也而不与焉。”</p>
+<p>子曰：“大哉尧之为君也！巍巍乎，唯天为大，唯尧则之。荡荡乎，民无能名焉。巍巍乎其有成功也，焕乎其有文章！”</p>
+<p>舜有臣五人而天下治。武王曰：“予有乱臣十人。”孔子曰：“才难，不其然乎？唐虞之际，于斯为盛；有妇人焉，九人而已。三分天下有其二，以服事殷。周之德，其可谓至德也已矣。”</p>
+<p>子曰：“禹，吾无间然矣。菲饮食而致孝乎鬼神，恶衣服而致美乎黼冕，卑宫室而尽力乎沟洫。禹，吾无间然矣。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_25.aspx">上一章</a>
+<a href="/guwen/book_2.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_27.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right766" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

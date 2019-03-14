@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·楚四·客说春申君_古诗文网
+</title>
+<meta content="客说春申君曰：“汤以亳，武王以鄗，皆不过百里以有天下。今孙子，天下贤人也，君籍之以百里势。臣窃以为不便于君。何如?”春申君曰：“善。”于是使人谢孙子，孙子去之赵，赵以为上卿。”客又" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4561.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3360" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>楚四·客说春申君</b></span>
+<a href="javascript:PlayBookv(4561)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4561" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3360)" id="leftbtn3360" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4561" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　客说春申君曰：“汤以亳，武王以鄗，皆不过百里以有天下。今孙子，天下贤人也，君籍之以百里势。臣窃以为不便于君。何如?”春申君曰：“善。”于是使人谢孙子，孙子去之赵，赵以为上卿。”</p>
+<p>　　客又说春申君曰：“昔伊尹去夏入殷，殷王而夏亡。管仲去鲁入齐，鲁弱而齐强。夫贤者之所在，其君未尝不尊，国未尝不荣也。今孙子，天下贤人也，君何辞之?”春申君又曰：“善。”于是使人请孙子于赵。</p>
+<p>　　孙子为书谢曰：“疠人怜王，此不恭之语也。虽然，不可不审察也，此为劫弑死亡之主言也。夫人主年少而矜材，无法术以知奸，则大臣主断国私以禁诛于己也，故弑贤长而立幼弱，废正适而立不义。春秋戒之曰：‘楚王子围骋于郑，未出境，闻王病，反问疾，遂以冠缨绞王，杀之，因自立也。齐崔杼讨妻美，庄公通之。崔杼帅其君党而攻。庄公请与分国，崔杼不许；欲自刃于庙，崔杼不许。庄公走出，逾于外墙，射中其股，遂杀之，而立其弟景公。近代所见：李兑用赵，饿主父于沙丘，百日而杀之；淖齿用齐，擢闵王之筋，悬于其庙梁，宿夕而死。夫厉虽痛肿胞疾，上比前世，未至佼缨射股；下比近代，未至擢筋而饿死也。夫劫弑死亡之主也，心之忧劳，形之困苦，必甚于疠矣。由此观之，疠虽怜王可也。”因为赋曰：“宝珍隋珠，不知佩兮。袆布与丝，不知异兮，闾姝子奢，莫知媒兮。嫫母求之，又甚喜之兮。以瞽为明，以聋为聪，以是为非，以吉为凶。呜呼上天，易惟其同！”诗曰：“上天甚神，无自瘵也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4560.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4562.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3360" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

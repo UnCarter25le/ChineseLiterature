@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷九·附记_古诗文网
+</title>
+<meta content="高迎祥距楚九十里安营，楚都督邓祖禹率总戎张全昌、副将杨世恩、先锋邓天河、参将李文云、游击朱世盛、坐营王可贞、把总郑新参、千户金得功、百户冯迎胜，哨官毕烈英等，以五千人进，追杀二十里" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13581.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·附记</b></span>
+<a href="javascript:PlayBookv(13581)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13581" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13581" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　高迎祥距楚九十里安营，楚都督邓祖禹率总戎张全昌、副将杨世恩、先锋邓天河、参将李文云、游击朱世盛、坐营王可贞、把总郑新参、千户金得功、百户冯迎胜，哨官毕烈英等，以五千人进，追杀二十里。迎祥将遁。马守应曰：再战不胜，走未晚也。遂率众与邓天河战，守应被鞭走，天河传令发七炮，击伤甚众，驱兵追逐，迎祥大惧。罗汝才举刀砍天河，天河挺枪迎战，汝才佯走，天河逐之，汝才密取箭射中眉心，天河坠马，被贼斩首去。祖禹叹曰：吾子勇冠三军，今乃为国倾生，惜哉！</p>
+<p>　　复督张全昌进兵，止千人，与贼将过天晓遇，即败，更遣杨世恩总兵御之，不战而走，为满天星追获，而降。祖禹怒，亲率众出，忽风雪大作，士卒寒栗，火药尽湿，祖禹仰首叹曰：天何困英雄若此？遂冒雪突前。混世王被铁简击回，刘国能敛伤左足而败，整世王复击背走，迎祥大骇，悉众出战，遥谓祖禹曰：倘将军不鄙，愿求为帅，幸尊裁之。祖禹大怒曰：逆天叛贼敢胡论耶？吾忠心报国，特来剿汝。</p>
+<p>　　于是朱世盛、李文云七将出战，贼营混天王、扫地王等九人围之，搏战良久，贼众突进，八将被擒，迎祥亲释祖禹缚，罗拜曰：误犯尊颜，望乞恕罪。愿将军为总主，万勿过辞。祖禹辞曰：吾赤心报国忠臣，岂负圣主投贼乎？迎祥再三谕之。祖禹骂不绝口。迎祥大怒，叱左右缚之。且曰：取他心来看，果赤否？祖禹出叹曰：妻子已矣，所恨老母不得见耳。然自古忠臣为国忘家，莫不如此。予亦何憾；须臾，剖心献上，迎祥见之，亦叹曰：真忠臣也。命痊之。余七将俱被杀，士众悉降，收总兵汪见国，擒德安府应城县令张绍登。绍登手指贼大骂，贼怒磔之。一时义焉。既杀绍登，纵兵肆掠。前出正录谓献忠，而剖心则一，况张、高俱贼魁也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13580.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13582.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

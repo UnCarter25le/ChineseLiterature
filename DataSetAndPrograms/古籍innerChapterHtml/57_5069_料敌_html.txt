@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+反经·料敌_古诗文网
+</title>
+<meta content="夫两国治戎，交和而舍，不以冥冥决事，必先探于敌情。故孙子曰：“胜兵先胜而后战。”又曰：“策之而知得失之计，候之而知动静之理。”因形而作胜于众，用兵之要也。 若欲先知敌将，当令贱而勇" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5069.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3289" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>料敌</b></span>
+<a href="javascript:PlayBookv(5069)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5069" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3289)" id="leftbtn3289" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5069" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b5%b5%e8%95%a4">赵蕤</a></p>
+<div class="contson">
+<p>　　夫两国治戎，交和而舍，不以冥冥决事，必先探于敌情。故孙子曰：“胜兵先胜而后战。”又曰：“策之而知得失之计，候之而知动静之理。”因形而作胜于众，用兵之要也。 </p>
+<p>　　若欲先知敌将，当令贱而勇者，将轻锐以当之。观敌之来，一起一坐，其政以理。其追北，佯为不及；其见利，佯为不知。如此者，将必有智，勿与轻战(凡敌上气黄白润泽者，将有威德。或军上气发，渐渐如云，变作山形，将有深谋。或敌有气外黑中赤在前者，将精悍，皆不可击。凡气上与天连，军中将贤良。凡气如龙如虎在杀中，或如火烟之形，或如火光之状，或如山林，或如尘埃，头大而卑，或气紫黑，如门上楼，或如白粉沸，皆猛将之气也。)。若其众歡旗乱，其卒自止自行，其兵或纵或横。其追北恐不及，见利恐不得。如此者，将必无谋，虽众可获(凡敌上气清而疏散者，将怯弱。前大而后小，将性不明也。)。 </p>
+<p>　　故曰：敌近而静者，恃其险也；敌远而挑人者，欲人之进也；众树动者，来也；众草多障者，疑也(稠草中多障蔽者，必逃去，恐吾追及，多作障蔽，使我疑其间有伏兵也。)；鸟起者，伏也(凡军上气浑浑圆长，赤气在其中，或有气如赤杵在黑云中，皆下有伏兵。或两军相当，有赤气在军前后左右者，有伏兵，随气所在防之。或有云绞绞绵绵，此以车骑为伏兵。或云如布席之状，此以步卒为伏兵。或有云如山岳在外，为伏兵，不可不审察也。)；禽骇者，覆也；尘卑而广者，徒来也；散而条远者，薪来也；少而往来者，营军也(少，尘少也。)。 </p>
+<p>　　辞卑而益备者，进也(敌增备也)；辞强而进驱者，退也。无约而请和者，谋也；半进半退者，诱也；杖而立者，饥也；汲而先饮者，渴也；见利不进者，劳也；鸟集者，虚也；夜呼者，恐也；军扰者，将不重也；旗动者，乱也；吏怒者，倦也；粟马食肉，军无悬[水垂](音唾。一簟之食也。)，不及其舍者，穷寇也；淳淳翕翕，徐言入人者，失其众也(此将失其众之意也)；数赏者，害也；数罚者，困也；数顾者，失其群也；来委谢者，欲休息也。兵怒而相近，久而不合，又不相去，必谨察之。 </p>
+<p>　　敌来新到，行阵未定，可击也。阵虽定，人马未食，可击也。涉长道，后行未息，可击也。行阪涉险，半隐半出，可击也。涉水半渡，可击也。险道狭路，可击也。旌旗乱动，可击也。阵数动移，可击也。人马数顾，可击也。凡见此者，击之而勿疑。 </p>
+<p>　　然兵者，诡道也。能而示之不能，用而示之不用。故匈奴示弱，汉祖有平城之围；石勒藏锋，王浚有幽州之陷。即其效也，可不慎哉！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5068.aspx">上一章</a>
+<a href="/guwen/book_57.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5070.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3289" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·指瑕_古诗文网
+</title>
+<meta content="管仲有言∶“无翼而飞者声也；无根而固者情也。”然则声不假翼，其飞甚易；情不待根，其固匪难。以之垂文，可不慎欤！古来文才，异世争驱。或逸才以爽迅，或精思以纤密，而虑动难圆，鲜无瑕病。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4056.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2650" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>指瑕</b></span>
+<a href="javascript:PlayBookv(4056)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4056" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2650)" id="leftbtn2650" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4056" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　管仲有言∶“无翼而飞者声也；无根而固者情也。”然则声不假翼，其飞甚易；情不待根，其固匪难。以之垂文，可不慎欤！古来文才，异世争驱。或逸才以爽迅，或精思以纤密，而虑动难圆，鲜无瑕病。陈思之文，群才之俊也，而《武帝诔》云“尊灵永蛰”，《明帝颂》云“圣体浮轻”，浮轻有似于蝴蝶，永蛰颇疑于昆虫，施之尊极，岂其当乎？左思《七讽》，说孝而不从，反道若斯，馀不足观矣。潘岳为才，善于哀文，然悲内兄，则云“感口泽”，伤弱子，则云“心如疑”，《礼》文在尊极，而施之下流，辞虽足哀，义斯替矣。</p>
+<p>　　若夫君子拟人，必于其伦，而崔瑗之《诔李公》，比行于黄虞，向秀之《赋嵇生》，方罪于李斯。与其失也，虽宁僭无滥，然高厚之诗，不类甚矣。</p>
+<p>　　凡巧言易标，拙辞难隐，斯言之玷，实深白圭。繁例难载，故略举四条。</p>
+<p>　　若夫立文之道，惟字与义。字以训正，义以理宣。而晋末篇章，依希其旨，始有“赏际奇至”之言，终有“抚叩酬酢”之语，每单举一字，指以为情。夫赏训锡赉，岂关心解；抚训执握，何预情理。《雅》、《颂》未闻，汉魏莫用，悬领似如可辩，课文了不成义，斯实情讹之所变，文浇之致弊。而宋来才英，未之或改，旧染成俗，非一朝也。</p>
+<p>　　近代辞人，率多猜忌，至乃比语求蚩，反音取瑕，虽不屑于古，而有择于今焉。又制同他文，理宜删革，若掠人美辞，以为己力，宝玉大弓，终非其有。全写则揭箧，傍采则探囊，然世远者太轻，时同者为尤矣。</p>
+<p>　　若夫注解为书，所以明正事理，然谬于研求，或率意而断。《西京赋》称“中黄、育、获”之畴，而薛综谬注谓之“阉尹”，是不闻执雕虎之人也。又《周礼》井赋，旧有“匹马”；而应劭释匹，或量首数蹄，斯岂辩物之要哉？原夫古之正名，车两而马匹，匹两称目，以并耦为用。盖车贰佐乘，马俪骖服，服乘不只，故名号必双，名号一正，则虽单为匹矣。匹夫匹妇，亦配义矣。夫车马小义，而历代莫悟；辞赋近事，而千里致差；况钻灼经典，能不谬哉？夫辩匹而数首蹄，选勇而驱阉尹，失理太甚，故举以为戒。丹青初炳而后渝，文章岁久而弥光。若能隐括于一朝，可以无惭于千载也。</p>
+<p>　　赞曰∶</p>
+<p>　　羿氏舛射，东野败驾。虽有俊才，谬则多谢。</p>
+<p>　　斯言一玷，千载弗化。令章靡疚，亦善之亚。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4055.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4057.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2650" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,130 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·文学部·歌赋_古诗文网
+</title>
+<meta content="古歌谣伏羲氏有网罟之歌，始为歌。葛天氏操牛尾，投足，歌八阕，始分阕。孔甲作《破斧》之歌，始为东音。涂山氏（禹妃）歌侯人，始为周南、召南。有氏感飞燕，始为北音。周昭王时，西瞿徙宅西河" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19235.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>文学部·歌赋</b></span>
+<a href="javascript:PlayBookv(19235)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19235" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19235" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>古歌谣</strong></p>
+<p>　　伏羲氏有网罟之歌，始为歌。葛天氏操牛尾，投足，歌八阕，始分阕。孔甲作《破斧》之歌，始为东音。涂山氏（禹妃）歌侯人，始为周南、召南。有氏感飞燕，始为北音。周昭王时，西瞿徙宅西河，始为西音。（今歌曲统谓南北音。凉州、伊州、甘州、渭州皆西音，并为北歌曲。）</p>
+<p>　　<strong>鼓吹</strong></p>
+<p>　　黄帝命岐伯为鼓吹。凯歌，汉为铙歌，本鼓吹。</p>
+<p>　　<strong>相和歌</strong></p>
+<p>　　汉始有杂歌、艳歌、倚歌、蹈歌，始为相和歌，本讴谣丝竹相和，执节而歌。</p>
+<p>　　<strong>乐府采诗</strong></p>
+<p>　　汉武帝立乐府采诗，夜诵则有赵代秦楚之讴，始以声为主尚歌。</p>
+<p>　　<strong>白纻歌</strong></p>
+<p>　　梁武帝本吴歌《白纻》，始改子夜吴声四时歌。</p>
+<p>　　<strong>薤露蒿里</strong></p>
+<p>　　田横从者始为《薤露》、《蒿里》歌。魏缪袭始以挽歌为辞。</p>
+<p>　　<strong>郊祀歌</strong></p>
+<p>　　三言四言。谢庄歌五帝，三言九言，依五行数。汉歌篇八句转韵。张华、夏侯湛两三韵转。傅玄改韵颇数。王韶之、颜延之始四句转韵，赊促得中。</p>
+<p>　　<strong>铙吹</strong></p>
+<p>　　唐柳子厚作铙歌鼓吹曲十二篇，歌唐战功。</p>
+<p>　　<strong>檀来歌</strong></p>
+<p>　　周世宗南征军士作《檀来歌》，声闻数十里。</p>
+<p>　　<strong>阳春白雪</strong></p>
+<p>　　《文选》：客有歌于郢中者，始为《下里》、《巴人》，国中和者数千人。为《向阳薤露》，和者数百人。为《阳春》、《白雪》，和者数十人。引商刻羽，杂以流征，和者不过数人。其曲弥高，其和弥寡。</p>
+<p>　　<strong>填词柳三变</strong></p>
+<p>　　柳耆卿为屯田员外郎，初名三变，自作词云：“才子词人，自是白衣卿相。”后有荐于朝者，仁宗曰：“此人风前月下，且去填词。”由是不得志。自称奉圣旨填词柳三变。</p>
+<p>　　<strong>纂组成文</strong></p>
+<p>　　司马相如曰：合纂组以成文，列锦绣而为质，一经一纬，一宫一商，此赋之迹也。赋家之心，包括宇宙，总揽人物，斯乃得之于内，不可得而传也。</p>
+<p>　　<strong>登高作赋</strong></p>
+<p>　　古者登高能赋，山川能祭，师旅能御，丧纪能诔，作器能铭，则可以为大夫矣。</p>
+<p>　　<strong>五经鼓吹</strong></p>
+<p>　　孙绰博学，善属文，绝重张衡、左思赋，每云：“《三都》、《二京》，五经鼓吹。”</p>
+<p>　　<strong>雕虫小技</strong></p>
+<p>　　或问扬子云曰：“吾子少而好赋？”曰：“然。童子雕虫篆刻。”既而曰：“壮夫不为也。”</p>
+<p>　　<strong>风送滕王阁</strong></p>
+<p>　　都督阎伯岐修滕王阁，落成设宴，属婿吴子章预作《滕王阁赋》，出以夸客。王勃自马当顺风行七百余里，至南昌与宴。及逊作赋，受笔札而不辞。都督大怒，命吏伺其落句即报。至“落霞秋水”句，都督曰：“此天才也！”命其婿辍笔。</p>
+<p>　　<strong>张融海赋</strong></p>
+<p>　　张融为《海赋》，徐凯之曰：“卿此赋实超玄虚，但不道盐耳。”融即援笔增曰：“漉沙构白，熬波出素。积雪中春，飞霜暑路。”</p>
+<p>　　<strong>木华海赋</strong></p>
+<p>　　木华作《海赋》，思路偶涩，或告之曰：“何不于海之上下四旁言之？”华因其言，《海赋》遂成。</p>
+<p>　　<strong>八叉手</strong></p>
+<p>　　温庭筠工赋，每人试作赋，八叉手而八韵成。又言庭筠作赋，未尝起草，一吟一韵，场中号温八吟，亦号温八叉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19234.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19236.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

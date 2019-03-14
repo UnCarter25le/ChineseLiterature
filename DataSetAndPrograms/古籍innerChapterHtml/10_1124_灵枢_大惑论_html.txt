@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·大惑论_古诗文网
+</title>
+<meta content="黄帝问于歧伯曰：余尝上于清冷之台，中阶而顾，匍匐而前，则惑。余私异之，窃内怪之，独瞑独视，安心定气，久而不解。独博独眩，披发长跪，俛而视之，后久之不已也。卒然自上，何气使然？歧伯对" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1124.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left948" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·大惑论</b></span>
+<a href="javascript:PlayBookv(1124)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1124" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(948)" id="leftbtn948" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1124" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问于歧伯曰：余尝上于清冷之台，中阶而顾，匍匐而前，则惑。余私异之，窃内怪之，独瞑独视，安心定气，久而不解。独博独眩，披发长跪，俛而视之，后久之不已也。卒然自上，何气使然？歧伯对曰：五脏六腑之精气，皆上注于目而为之精。精之窠为眼，骨之精为瞳子，筋之精为黑眼，血之精为络，其窠气之精为白眼，肌肉之精为约束，裹撷筋骨血气之精，而与脉并为系。上属于脑，后出于项中。故邪中于项，因逢其身之虚，其入深，则随眼系以入于脑。入于脑则脑转，脑转则引目系急。目系急则目眩以转矣。邪其精，其精所中不相比也，则精散。精散则视歧，视歧见两物。目者，五脏六腑之精也，营卫魂魄之所常营也，神气之所生也。故神劳则魂魄散，志意乱。是故瞳子黑眼法于阴，白眼赤脉法于阳也。故阴阳合传而棈明也。目者，心使也。心者，神之舍也，故神精乱而不转。卒然见非常处，精神魂魄，散不相得，故曰惑也。</p>
+<p>　　黄帝曰：余疑其然。余每之东苑，未曾不惑，去之则复，余唯独为东苑劳神乎？何其异也？歧伯曰：不然也。心有所喜，神有所恶，卒然相惑，则精气乱，视误，故惑，神移乃复。是故间者为迷，甚者为惑。</p>
+<p>　　黄帝曰：人之善忘者，何气使然？歧伯曰：上气不足，下气有余，肠胃实而心肺虚。虚则营卫留于下，久之不以时上，故善忘也。</p>
+<p>　　黄帝曰：人之善饥而嗜食者，何气使然？歧伯曰：精气并于脾，热气留于胃，胃热则消榖，榖消则善饥。胃气逆上，则胃脘寒，故不嗜食也。</p>
+<p>　　黄帝曰：病而得卧者，何气使然？歧伯曰：卫气不得入于阴，常留于阳。留于阳则阳气满，阳气满则阳跷盛，不得入于阴则阴气虚，故目不瞑矣。</p>
+<p>　　黄帝曰：病目而不得视者，何气使然？歧伯曰：卫气留于阴，不得行于阳，留于阴则阴气盛，阴气盛则阴跷满，不得入于阳则</p>
+<p>　　黄帝曰：人之多卧者，何气使然？歧伯曰：此人肠胃大而皮肤湿，而分肉不解焉。肠胃大则卫气留久；皮肤湿则分肉不解，其行迟。夫卫气者，昼日常行于阳，夜行于阴，故阳气尽则卧，阴气尽则寤。故肠胃大，则卫气行留久；皮肤湿，分肉不解，则行迟。留于阴也久，其气不清，则欲瞑，故多卧矣。其肠胃小，皮肤滑以缓，分肉解利，卫气之留于阳也久，故少瞑焉。</p>
+<p>　　黄帝曰：其非常经也，卒然多卧者，何气使然？歧伯曰：邪气留于上焦，上焦闭而不通，已食若饮汤，卫气久留于阴而不行，故卒然多卧焉。</p>
+<p>　　黄帝曰：善。治此诸邪，奈何？歧伯曰：先其脏腑，诛其小过，后调其气，盛者泻之，虚者补之，必先明知其形志之苦乐，定乃取之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1123.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1125.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right948" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

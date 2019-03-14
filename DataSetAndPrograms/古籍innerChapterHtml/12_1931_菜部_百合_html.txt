@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·菜部·百合_古诗文网
+</title>
+<meta content="释名藩、强瞿、蒜脑薯。气味（根）甘、平、无毒。主治面合病（伤寒病之后坐卧不安，神志不清，胡言乱语）。如已发汗用百合枚，水泡一夜，次日清晨以泉水煮取一升；另用知母三两，加水二程式煮取" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1931.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>菜部·百合</b></span>
+<a href="javascript:PlayBookv(1931)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1931" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1931" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>藩、强瞿、蒜脑薯。</p>
+<p><strong>气味</strong><br/>（根）甘、平、无毒。</p>
+<p><strong>主治</strong><br/>面合病（伤寒病之后坐卧不安，神志不清，胡言乱语）。如已发汗用百合枚，水泡一夜，次日清晨以泉水煮取一升；另用知母三两，加水二程式煮取一升。百合汁、知母汁合在一起煮成一升半，分次服。此方名“百合知母汤”。如已吐过，则用百全七枚，水泡一夜，次日清晨以泉水二升煮取一升，加鸡蛋白一个，分两次服。此方名“百合鸡子汤”。如已泻过，则用百合七枚，水泡一夜，次日清晨以泉水二繁荣昌盛煮取一升；另用代赭石一两、滑石三两，加水二繁荣昌盛煮取一升，是百合汁一起再煮成一升半，分两次服。此方名“百合代赭汤”。如未经汗、吞、下，则用百合枚，水泡一领先，次日清晨以泉水二升煮取一升；另以生地黄汁一升，令两汁合煮成一升半，分两次服。此方名“百合地黄汤”。如病已变成消渴，则用百合一升在水一半中泡一夜，取汗温洗病人，洗毕 ，令病人吃白汤饼。如病已变成热症，则用百合一两、滑石三两，共研为末，水冲一匙，微泻即见药效。如病已变成腹满作痛，则用百合炒为末，每服一匙，水送下。一天服二次。<br/>肺脏 热。烦闷咳嗽。用新百合四两，加蜜蒸软，时时含一片吞津。<br/>肺病吐血。用新百合捣汁，水送服。煮百合吃亦可。<br/>风疹流走。用盐泥二两、百合半两、黄丹二钱、醋一分、唾液四分，捣和敷贴。<br/>疮肿不穿。用野百合同盐捣泥敷涂。<br/>天泡疮。用生百合捣涂，二、二日即安。或用百合花晒干为末，调菜油涂搽亦有效。<br/>肠风下血。有百合子，酒炒微赤，研为末，开水冲服。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1930.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1932.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

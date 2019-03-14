@@ -1,0 +1,111 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·厥病_古诗文网
+</title>
+<meta content="厥头痛，面若肿起而烦心，取之足阳明太阴。厥头痛，头脉痛，心悲，善泣，视头动脉反盛者，刺尽去血，后调足厥阴。厥头痛，贞贞头痛而重，泻头上五行，行五，先取手少阴，后取足少阴。厥头痛，意" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1068.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left892" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·厥病</b></span>
+<a href="javascript:PlayBookv(1068)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1068" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(892)" id="leftbtn892" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1068" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　厥头痛，面若肿起而烦心，取之足阳明太阴。</p>
+<p>　　厥头痛，头脉痛，心悲，善泣，视头动脉反盛者，刺尽去血，后调足厥阴。</p>
+<p>　　厥头痛，贞贞头痛而重，泻头上五行，行五，先取手少阴，后取足少阴。</p>
+<p>　　厥头痛，意善忘，按之不得，取头面左右动脉，后取足太阴。</p>
+<p>　　厥头痛，项先痛，腰脊为应，先取天柱，后取足太阳。</p>
+<p>　　厥头痛，头痛甚，耳前后脉涌有热，泻出其血后取足少阳。</p>
+<p>　　真头痛，头痛甚，脑尽痛，手足寒至节，死不治。头痛不可取于腧者，有所击堕，恶血在于内，若肉伤，痛未已，可则刺，不可远取也。头痛不可刺者，大痹为恶，日作者，可令少愈，不可已。头半寒痛，先取手少阳阳明，后取足少阳阳明。</p>
+<p>　　厥心痛，与背相控，善瘈，如从后触其心，伛偻者，肾心痛也，先取京骨、昆仑，发针不已，取然谷。</p>
+<p>　　厥心痛，腹胀胸满，心尤痛甚，胃心痛也，取之大都、大白。</p>
+<p>　　厥心痛，痛如以锥针刺其心，心痛甚者，脾心痛也，取之然谷、太溪。</p>
+<p>　　厥心痛，色苍苍如死状，终日不得太息，肝心痛也，取之行间、太冲。</p>
+<p>　　厥心痛，卧若徒居，心痛间，动作，痛益甚，色不变，肺心痛也，取之鱼际、太渊。</p>
+<p>　　真心痛，手足清至节，心痛甚，旦发夕死。心痛不可刺者，中有盛聚，不可取于腧。</p>
+<p>　　肠中有虫瘕及蛟有也。皆不可取以小针，心肠痛，□作痛，脓聚，往来上下行，痛有休止，腹热喜渴，涎出者，是蛟有也，以手聚按而坚持之，无令得移，以大针刺之，久持之，虫不动，乃出针也。并腹脓痛，形中上者。</p>
+<p>　　耳聋无闻，取耳中；耳鸣，取耳前动脉；耳痛不可刺者，耳中有脓，若有干耵聍，耳无闻也；耳聋取手小指次指爪甲上与肉交者，先取手，后取足；耳鸣取手中指爪甲上，左取右，右取左，先取手，后取足。</p>
+<p>　　足髀不可举，侧而取之在枢谷中，以员利针，大针不可刺。病注下血，取曲泉。</p>
+<p>　　风痹淫砾，病不可已者，足如履冰，时如入汤中，股胫淫泺，烦心头痛，时呕时悗，眩已汗出，久则目眩，悲以喜恐，短气，不乐，不出三年死矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1067.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1069.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right892" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

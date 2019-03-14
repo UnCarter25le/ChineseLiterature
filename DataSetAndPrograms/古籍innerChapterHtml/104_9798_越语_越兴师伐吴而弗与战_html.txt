@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·越语·越兴师伐吴而弗与战_古诗文网
+</title>
+<meta content="至于玄月，王召范蠡而问焉，曰：“谚有之曰，觥饭不及壶飧。今岁晚矣，子将奈何？”对曰：“微君王之言，臣故将谒之。臣闻从时者，犹救火、追亡人也，蹶而趋之，唯恐弗及。”王曰：“诺。”遂兴" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9798.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8549" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>越语·越兴师伐吴而弗与战</b></span>
+<a href="javascript:PlayBookv(9798)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9798" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8549)" id="leftbtn8549" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9798" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+至于玄月，王召范蠡而问焉，曰：“谚有之曰，觥饭不及壶飧。今岁晚矣，子将奈何？”对曰：“微君王之言，臣故将谒之。臣闻从时者，犹救火、追亡人也，蹶而趋之，唯恐弗及。”王曰：“诺。”遂兴师伐吴，至于五湖。
+</p><p>　　
+吴人闻之，出而挑战，一日五反。王弗忍，欲许之，范蠡进谏曰：“夫谋之廊庙，失之中原，其可乎？王姑勿许也。臣闻之，得时无怠，时不再来，天予不取，反为之灾。赢缩转化，后将悔之。天节固然，唯谋不迁。”王曰：“诺。”弗许。
+</p><p>　　
+范蠡曰：“臣闻古之善用兵者，赢缩以为常，四时以为纪，无过天极，究数而止。天道皇皇，日月以为常，明者以为法，微者则是行。阳至而阴，阴至而阳；日困而还，月盈而匡。古之善用兵者，因天地之常，与之俱行。后则用阴，先则用阳；近则用柔，远则用刚。后无阴蔽，先无阳察，用人无艺，往从其所。刚强以御，阳节不尽，不死其野。彼来从我，固守勿与。
+</p><p>　　
+若将与之，必因天地之灾，又观其民之饥饱劳逸以参之。尽其阳节，盈吾阴节而夺之。宜为人客，刚强而力疾；阳节不尽，轻而不可取。宜为人主，安徐而重固；阴节不尽，柔而不可迫。
+</p><p>　　
+凡陈之道，设右以为牝，益左以为牡，蚤晏无失，必顺天道，周旋无究。今其来也，刚强而力疾，王姑待之。”王曰：“诺。”弗与战。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9797.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9799.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8549" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+墨子·39章 非儒(下)_古诗文网
+</title>
+<meta content="儒者曰：“亲亲有术，尊贤有等。”言亲疏尊卑之异也。其《礼》曰：丧，父母，三年；妻、后子，三年；伯父、叔父、弟兄、庶子，其；戚族人，五月。若以亲疏为岁月之数，则亲者多而疏者少矣，是妻" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3429.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1973" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>39章 非儒(下)</b></span>
+<a href="javascript:PlayBookv(3429)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3429" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1973)" id="leftbtn1973" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3429" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　儒者曰：“亲亲有术，尊贤有等。”言亲疏尊卑之异也。其《礼》曰：丧，父母，三年；妻、后子，三年；伯父、叔父、弟兄、庶子，其；戚族人，五月。若以亲疏为岁月之数，则亲者多而疏者少矣，是妻、后子与父同也。若以尊卑为岁月数，则是尊其妻、子与父母同，而亲伯父、宗兄而卑子也。逆孰大焉？其亲死，列尸弗敛，登堂窥井，挑鼠穴，探涤器，而求其人矣，以为实在，则赣愚甚矣；如其亡也必求焉，伪亦大矣！</p>
+<p>　　取妻身迎，祗褍为仆，秉辔授绥，如仰严亲；昏礼威仪，如承祭祀。颠覆上下，悖逆父母，下则妻、子，妻、子上侵事亲。若此，可谓孝乎？儒者：“迎妻，妻之奉祭祀；子将守宗庙。故重之。”应之曰：此诬言也！其宗兄守其先宗庙数十年，死，丧之其；兄弟之妻奉其先之祭祀，弗散；则丧妻子三年，必非以守、奉祭祀也。夫忧妻子以大负累，有曰：“所以重亲也。”为欲厚所至私，轻所至重，岂非大奸也哉！</p>
+<p>　　有强执有命以说议曰：“寿夭贫富，安危治乱，固有天命，不可损益。穷达、赏罚、幸否有极，人之知力，不能为焉！”群吏信之，则怠于分职；庶人信之，则怠于从事。吏不治则乱，农事缓则贫，贫且乱，政之本，而儒者以为道教，是贼天下之人者也。</p>
+<p>　　且夫繁饰礼乐以淫人，久丧伪哀以谩亲，立命缓贫而高浩居，倍本弃事而安怠傲，贪于饮食，惰于作务，陷于饥寒，危于冻馁，无以违之。是若人气，甉鼠藏，而羝羊视，贲彘起。君子笑之，怒曰：“散人焉知良儒！”夫夏乞麦禾，五谷既收，大丧是随，子姓皆从，得厌饮食。毕治数丧，足以至矣。因人之家翠以为，恃人之野以为尊，富人有丧，乃大说喜，曰：“此衣食之端也！”</p>
+<p>　　儒者曰：“君子必服古言，然后仁。”应之曰：所谓古之言服者，皆尝新矣，而古人言之服之，则非君子也？然则必服非君子之服，言非君子之言，而后仁乎？</p>
+<p>　　又曰：“君子循而不作。”应之曰：古者羿作弓，伃作甲，奚仲作车，巧垂作舟；然则今之鲍、函、车、匠，皆君子也，而羿、伃、奚仲、巧垂，皆小人邪？且其所循，人必或作之；然则其所循，皆小人道也。又曰：“君子胜不逐奔，掩函弗射，施则助之胥车。”应之曰：“若皆仁人也，则无说而相与；仁人以其取舍、是非之理相告，无故从有故也，弗知从有知也，无辞必服，见善必迁，何故相？若两暴交争，其胜者欲不逐奔，掩函弗射，施则助之胥车，虽尽能，犹且不得为君子也，意暴残之国也。圣将为世除害，兴师诛罚，胜将因用儒术令士卒曰：‘毋逐奔，掩函勿射，施则助之胥车。’暴乱之人也得活，天下害不除，是为群残父母而深贱世也，不义莫大矣！”</p>
+<p>　　又曰：“君子若钟，击之则鸣，弗击不鸣。”应之曰：“夫仁人，事上竭忠，事亲得孝，务善则美，有过则谏，此为人臣之道也。今击之则鸣，弗击不鸣，隐知豫力，恬漠待问而后对，虽有君亲之大利，弗问不言；若将有大寇乱，盗贼将作，若机辟将发也，他人不知，己独知之，虽其君、亲皆在，不问不言。是夫大乱之贼也。以是为人臣不忠，为子不孝，事兄不弟，交遇人不贞良。夫执后不言，之朝，物见利使己，虽恐后言；君若言而未有利焉，则高拱下视，会噎为深，曰：‘唯其未之学也。’用谁急，遗行远矣。”夫一道术学业仁义者，皆大以治人，小以任官，远施周偏，近以修身，不义不处，非理不行，务兴天下之利，曲直周旋，利则止，此君子之道也。以所闻孔某之行，则本与此相反谬也！</p>
+<p>　　齐景公问晏子曰：“孔子为人何如？”晏子不对。公又复问，不对。景公曰：“以孔某语寡人者众矣，俱以贤人也，今寡人问之，而子不对，何也？”晏子对曰：“婴不肖，不足以知贤人。虽然，婴闻所谓贤人者，入人之国，必务合其君臣之亲，而弭其上下之怨。孔某之荆，知白公之谋，而奉之以石乞，君身几灭，而白公僇。婴闻贤人得上不虚，得下不危，言听于君必利人，教行下必于上，是以言明而易知也，行明而易从也。行义可明乎民，谋虑可通乎君臣。今孔某深虑同谋以奉贼，劳思尽知以行邪，劝下乱上，教臣杀君，非贤人之行也。入人之国，而与人之贼，非义之类也。知人不忠，趣之为乱，非仁义之也。逃人而后谋，避人而后言，行义不可明于民，谋虑不可通于君臣，婴不知孔某之有异于白公也，是以不对。”景公曰：“呜乎！贶寡人者众矣，非夫子，则吾终身不知孔某之与白公同也。”孔某之齐见景公，景公说，欲封之以尼溪，以告晏子。晏子曰：“不可！夫儒，浩居而自顺者也，不可以教下；好乐而淫人，不可使亲治；立命而怠事，不可使守职；宗丧循哀，不可使慈民；机服勉容，不可使导众。孔某盛容修饰以蛊世，弦歌鼓舞以聚徒，繁登降之礼以示仪，务趋翔之节以观众；博学不可使议世，劳思不可以补民；累寿不能尽其学，当年不能行其礼，积财不能赡其乐。繁饰邪术，以营世君；盛为声乐，以淫遇民。其道不可以期世，其学不可以导众。今君封之，以利齐俗，非所以导国先众。”公曰：“善。”于是厚其礼，留其封，敬见而不问其道。孔某乃恚，怒于景公与晏子，乃树鸱夷子皮于田常之门，告南郭惠子以所欲为。归于鲁，有顷，间齐将伐鲁，告子贡曰：“赐乎！举大事于今之时矣！”乃遣子贡之齐，因南郭惠子以见田常，劝之伐吴，以教高、国、鲍、晏，使毋得害田常之乱。劝越伐吴，三年之内，齐、吴破国之难，伏尸以言术数，孔某之诛也。</p>
+<p>　　孔某为鲁司寇，舍公家而奉季孙，季孙相鲁君而走，季孙与邑人争门关，决植。</p>
+<p>　　孔某穷于蔡、陈之间，藜羹不糂。十日，子路为享豚，孔某不问肉之所由来而食；号人衣以酤酒，孔某不问酒之所由来而饮。哀公迎孔子，席不端弗坐，割不正弗食。子路进请曰：“何其与陈、蔡反也？”孔某曰：“来，吾语女：曩与女为苟生，今与女为苟义。”夫饥约，则不辞妄取以活身；赢鲍，则伪行以自饰。污邪诈伪，孰大于此？</p>
+<p>　　孔某与其门弟子闲坐，曰：“夫舜见瞽叟孰然，此时天下圾乎？周公旦非其人也邪？何为舍其家室而托寓也？”</p>
+<p>　　孔某所行，心术所至也。其徒属弟子皆效孔某：子贡、季路，辅孔悝乱乎卫，阳货乱乎齐，佛肸以中牟叛，漆雕刑残，莫大焉！</p>
+<p>　　夫为弟子后生，其师必修其言，法其行，力不足、知弗及而后已。今孔某之行如此，儒士则可以疑矣！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3428.aspx">上一章</a>
+<a href="/guwen/book_29.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3430.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1973" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

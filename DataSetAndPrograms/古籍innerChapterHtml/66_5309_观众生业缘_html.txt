@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+地藏经·观众生业缘_古诗文网
+</title>
+<meta content="尔时佛母摩耶夫人，恭敬合掌问地藏菩萨言：圣者，阎浮众生，造业差别，所受报应，其事云何？地藏答言：千万世界，乃及国土，或有地狱、或无地狱；或有女人、或无女人；或有佛法、或无佛法，乃至" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5309.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3648" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>观众生业缘</b></span>
+<a href="javascript:PlayBookv(5309)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5309" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3648)" id="leftbtn3648" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5309" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　尔时佛母摩耶夫人，恭敬合掌问地藏菩萨言：圣者，阎浮众生，造业差别，所受报应，其事云何？地藏答言：千万世界，乃及国土，或有地狱、或无地狱；或有女人、或无女人；或有佛法、或无佛法，乃至声闻辟支佛，亦复如是，非但地狱罪报一等。</p>
+<p>　　摩耶夫人重白菩萨：且愿闻于阎浮罪报所感恶趣。</p>
+<p>　　地藏答言：圣母，唯愿听受，我粗说之。</p>
+<p>　　佛母白言：愿圣者说。</p>
+<p>　　尔时地藏菩萨白圣母言：南阎浮提，罪报名号如是。若有众生不孝父母，或至杀害，当堕无间地狱，千万亿劫求出无期。若有众生出佛身血，毁谤三宝，不敬尊经，亦当堕于无间地狱，千万亿劫，求出无期。若有众生侵损常住，玷污僧尼，或伽蓝内恣行淫欲，或杀或害，如是等辈，当堕无间地狱，千万亿劫，求出无期。若有众生，伪作沙门，心非沙门，破用常住，欺诳白衣，违背戒律，种种造恶，如是等辈，当堕无间地狱，千万亿劫，求出无期。若有众生，偷窃常住财物谷米，饮食衣服，乃至一物不与取者，当堕无间地狱，千万亿劫，求出无期。</p>
+<p>　　地藏白言：圣母，若有众生，作如是罪，当堕五无间地狱，求暂停苦一念不得。</p>
+<p>　　摩耶夫人重白地藏菩萨言：云何名为无间地狱？</p>
+<p>　　地藏白言：圣母，诸有地狱在大铁围山之内，其大地狱有一十八所，次有五百，名号各别，次有千百，名字亦别。无间狱者，其狱城周匝八万余里，其城纯铁，高一万里，城上火聚，少有空缺。其狱城中，诸狱相连，名号各别。独有一狱，名曰无间，其狱周匝万八千里，狱墙高一千里，悉是铁围，上火彻下，下火彻上。铁蛇铁狗，吐火驰逐狱墙之上，东西而走。</p>
+<p>　　狱中有床，遍满万里。一人受罪，自见其身遍卧满床。千万人受罪，亦各自见身满床上。众业所感获报如是。</p>
+<p>　　又诸罪人，备受众苦。千百夜叉及以恶鬼，口牙如剑，眼如电光，手复铜爪，拖拽罪人。复有夜叉执大铁戟，中罪人身，或中口鼻，或中腹背。抛空翻接或置床上，复有铁鹰啖罪人目。复有铁蛇绞罪人颈。百肢节内，悉下长钉，拔舌耕犁，抽肠剉斩，烊铜灌口，热铁缠身。万死千生，业感如是。动经亿劫，求出无期。</p>
+<p>　　此界坏时，寄生他界，他界次坏，转寄他方；他方坏时，辗转相寄。此界成后，还复而来。无间罪报，其事如是。</p>
+<p>　　又五事业感，故称无间。何等为五？</p>
+<p>　　一者、日夜受罪，以至劫数，无时间绝，故称无间。</p>
+<p>　　二者、一人亦满，多人亦满，故称无间。</p>
+<p>　　三者、罪器叉棒，鹰蛇狼犬，碓磨锯凿，剉斫镬汤，铁网铁绳，铁驴铁马，生革络首，热铁浇身，饥吞铁丸，渴饮铁汁，从年竟劫，数那由他，苦楚相连，更无间断，故称无间。</p>
+<p>　　四者、不问男子女人，羌胡夷狄，老幼贵贱，或龙或神，或天或鬼，罪行业感，悉同受之，故称无间。</p>
+<p>　　五者、若堕此狱，从初入时，至百千劫，一日一夜，万死万生，求一念间暂住不得，除非业尽，方得受生，以此连绵，故称无间。</p>
+<p>　　地藏菩萨白圣母言：无间地狱，粗说如是。若广说地狱罪器等名，及诸苦事，一劫之中，求说不尽。摩耶夫人闻已，愁忧合掌，顶礼而退。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5308.aspx">上一章</a>
+<a href="/guwen/book_66.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5310.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3648" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

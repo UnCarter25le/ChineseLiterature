@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+徐霞客游记·游颜洞记_古诗文网
+</title>
+<meta content="临安府颜洞凡三，为典史颜姓者所开，名最著。余一至滇省，每饭未尝忘钜ｊù鹿也。遂由省中南过通海县，游县南之秀山。上一里半，为灏ｈàｏ穹宫。宫前巨山茶二株，曰红云殿" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5418.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4748" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>游颜洞记</b></span>
+<a href="javascript:PlayBookv(5418)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5418" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4748)" id="leftbtn4748" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5418" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%bc%98%e7%a5%96">徐弘祖</a></p>
+<div class="contson">
+<p>　　临安府颜洞凡三，为典史颜姓者所开，名最著。余一至滇省，每饭未尝忘钜ｊù鹿也。遂由省中南过通海县，游县南之秀山。上一里半，为灏ｈàｏ穹宫。宫前巨山茶二株，曰红云殿。宫建自万历初，距今才六十年，山茶树遂冠南土。又南抵临安府。城南临泸江；此江西自石屏州异龙湖来，东北穿出颜洞；而合郡众水，亦以此洞为泄水穴也。</p>
+<p>　　于是觅一导游者于城东接待寺。</p>
+<p>　　颜洞大道，当循城而南，渡泸江桥；导者从寺前隔江东北小路行，遂不得渡泸江，东观三溪会合处。由寺北循塘岸东行，塘东皆红莲覆池，密不见水。东北十五里，渡赛公桥。水自西北来，东南入泸。又五里，上山，为金鸡哨。哨南泸江会诸水，由此东入峡。峡甚逼，水倾其中，东抵洞口尚里余。望洞顶石崖双劈，如门对峙，洞正透其下，重冈回夹之，不可得见。</p>
+<p>　　求土人导入，皆曰：“水涨流急，此非游时。若两月前水涸，可不桥而入；今即有桥，亦不能进，况无桥耶！”桥非一处，每洞中水深处，辄架木以渡。</p>
+<p>　　往例按君来游，架桥费且百金，他费亦百金。</p>
+<p>　　土人苦之，乘普酋兵变，托言洞东即阿迷境，叛人尝出没此，遂绝官长游洞者。余必欲一至洞门，土人曰：“须渡江南岸，随峡入，所谓泸江桥大道也。”始悔为导者误，乃舍水洞，觅南明、万象二陆洞。</p>
+<p>　　从哨东下坡，复上山登顶。东瞰峡江环峡东入，洞门即在东峡下。</p>
+<p>　　余所登山处，正与其上双崖平对，门犹为曲掩，但见峭崖西向，涌水东倾，捣穴吞流之势，已无隐形矣。东北三里，逾岭脊下山。二里，则极东石壁回耸，如环半城，下开洞门北向。余望之有异，从之直下，一里，抵峡中。一又一里半，抵东壁下。稍南上，洞门廓然，上大书“云津洞”，盖水洞中门也。游颜洞以云津为奇：从前门架桥入，出后门，约四五里，暗中傍水行，中忽辟门延景，其上又绝壁回环，故自奇绝。余不能入其前洞，而得之重崿绝巚间，且但知万象、南明，不复知有云津也，诚出余意外。遂瞰洞而下。洞底水从西南穴中来，盘门内而东，复入东南穴去。</p>
+<p>　　余下临水湄，径之，水阔三丈，洞高五六丈，而东西当门透明处，径可二十丈。但水所出入，直逼外壁，故非桥莫能行。出水西穴，渐暗不可远窥；东为水入穴处，稍旁拓，隔水眺之，中垂列乳柱，缤纷窈窕。复上出洞外，上眺东南北三面，但环壁无可上。仍西出旧道，北上山。东一里，逾岭，已陟东壁回环上。</p>
+<p>　　岭埠中东向一里，其地南北各起层峰，石崖时突，万象洞即在北崖上，乃导者妄谓在南崖下。直下者一里，抵南崖。一洞东向，高四丈，水从中涌出，两崖角起，前对为峡，水出洞破峡，势极雄壮，盖水洞后门也。</p>
+<p>　　又东二里，抵老鼠村，执途人问之，万象洞在西北岭上，即前所从下山处，洞甚深，历降而下，底与水洞通。余欲更至洞门，晚色已合，去宿馆尚十里。念此三洞，慕之数十年，趋走万里，乃至而叛彝阻之，阳侯隔之，太阳促之，导人又误之，生平游屐，斯为最厄阻碍矣！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5417.aspx">上一章</a>
+<a href="/guwen/book_67.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5419.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4748" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

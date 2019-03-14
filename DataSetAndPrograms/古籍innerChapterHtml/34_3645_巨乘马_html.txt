@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+管子·巨乘马_古诗文网
+</title>
+<meta content="桓公问管子曰：“请问乘马。”管子对曰：“国无储在令。”桓公曰：“何谓国无储在令？”管子对曰：“一农之量壤百亩也，春事二十五日之内。”桓公曰：“何谓春事二十五日之内？”管子对曰：“日" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3645.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2294" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>巨乘马</b></span>
+<a href="javascript:PlayBookv(3645)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3645" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2294)" id="leftbtn2294" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3645" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ae%a1%e4%bb%b2%e5%8f%8a%e9%97%a8%e5%be%92">管仲及门徒</a></p>
+<div class="contson">
+<p>　　桓公问管子曰：“请问乘马。”管子对曰：“国无储在令。”桓公曰：“何谓国无储在令？”管子对曰：“一农之量壤百亩也，春事二十五日之内。”桓公曰：“何谓春事二十五日之内？”管子对曰：“日至六十日而阳冻释，七十〔五〕日而阴冻释。阴冻释而秇稷，百日不秇稷，故春事二十五日之内耳也。今君立扶台、五衢之众皆作。君过春而不止，民失其二十五日，则五衢之内阻弃之地也。起一人之繇，百亩不举；起十人之繇，千亩不举；起百人之繇，万亩不举；起千人之繇，十万亩不举。春已失二十五日，而尚有起夏作，是春失其地，夏失其苗，秋起繇而无止，此之谓谷地数亡。谷失于时，君之衡藉而无止，民食什伍之谷，则君已籍九矣，有衡求币焉，此盗暴之所以起，刑罚之所以众也。随之以暴，谓之内战。”桓公曰：“善哉！”</p>
+<p>　　管子曰：“策乘马之数求尽也，彼王者不夺民时，故五谷兴丰。五谷兴丰，则士轻禄，民简赏。彼善为国者，使农夫寒耕暑耘，力归于上，女勤于纤微而织归于府者，非怨民心伤民意，高下之策，不得不然之理也。”</p>
+<p>　　桓公曰：“为之奈何？”管子曰：“虞国得策乘马之数矣。”桓公曰：“何谓策乘马之数？”管子曰：“百亩之夫，予之策：‘率二十七日为子之春事，资子之币。’春秋，子谷大登，国谷之重去分。谓农夫曰：‘币之在子者以为谷而廪之州里。’国谷之分在上，国谷之重再十倍。谓远近之县，里、邑百官，皆当奉器械备，曰：‘国无币，以谷准币。’国谷之櫎，一切什九。还谷而应谷，国器皆资，无籍于民。此有虞之策乘马也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3644.aspx">上一章</a>
+<a href="/guwen/book_34.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3646.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2294" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,116 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明夷待访录·学校_古诗文网
+</title>
+<meta content="学校，所以养士也。然古之圣王，其意不仅此也，必使治天下之具皆出于学校，而后设学校之意始备。非谓班朝，布令，养老，恤孤，讯馘，大师旅则会将士，大狱讼则期吏民，大祭祀则享始祖，行之自辟" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14770.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>学校</b></span>
+<a href="javascript:PlayBookv(14770)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14770" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14770" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　学校，所以养士也。</p>
+<p>　　然古之圣王，其意不仅此也，必使治天下之具皆出于学校，而后设学校之意始备。非谓班朝，布令，养老，恤孤，讯馘，大师旅则会将士，大狱讼则期吏民，大祭祀则享始祖，行之自辟雍也。盖使朝廷之上，闾阎之细，渐摩濡染，莫不有诗书宽大之气，天子之所是未必是，天子之所非未必非，天子亦遂不敢自为非是，而公其非是于学校。</p>
+<p>　　是故养士为学校之一事，而学校不仅为养士而设也。</p>
+<p>　　三代以下，天下之是非一出于朝廷。天子荣之，则群趋以为是；天子辱之，则群擿以为非。簿书、期会、钱谷、戎狱，一切委之俗吏。时风众势之外，稍有人焉，便以为学校中无当于缓急之习气。而其所谓学校者，科举嚣争，富贵熏心，亦遂以朝廷之势利一变其本领，而士之有才能学术者，且往住自拔于草野之间，于学校初无与也，究竟养士一事亦失之矣。</p>
+<p>　　于是学校变而为书院。有所非也，则朝廷必以为是而荣之；有所是也，则朝廷必以为非而辱之。伪学之禁，书院之毁，必欲以朝廷之权与之争胜。其不仕者有刑，曰：“此率天下士大夫而背朝廷者也。”其始也，学校与朝廷无与；其继也，朝廷与学校相反。不特不能养士，且至于害士，犹然循其名而立之何与？</p>
+<p>　　东汉太学三万人，危言深论，不隐豪强，公卿避其贬议。</p>
+<p>　　宋诸生伏阙捶鼓，请起李纲。三代遗风，惟此犹为相近。使当日之在朝廷者，以其所非是为非是，将见盗贼奸邪慑心于正气霜雪之下！君安而国可保也。乃论者目之为衰世之事，不知其所以亡者，收捕党人，编管陈、欧，正坐破坏学校所致，而反咎学校之人乎！</p>
+<p>　　嗟乎！天之生斯民也，以教养托之于君。授田之法废，民买田而自养，犹赋税以扰之；学校之法废，民蚩蚩而失教，犹势利以诱之。是亦不仁之甚，而以其空名跻之曰“君父，君父”，则吾谁欺！郡县学官，毋得出自选除。</p>
+<p>　　郡县公议，请名儒主之。自布衣以至宰相之谢事者，皆可当其任，不拘已任未任也。其人稍有干于清议，则诸生得共起而易之，曰：“是不可以为吾师也。”其下有《五经》师，兵法、历算、医、射各有师，皆听学官自择。</p>
+<p>　　凡邑之生童皆裹粮从学，离城烟火聚落之处士人众多者，亦置经师。民间童子十人以上，则以诸生之老而不仕者充为蒙师。故郡邑无无师之士，而士之学行成者，非主六曹之事，则主分教之务，亦无不用之人。</p>
+<p>　　学宫以外，凡在城在野寺观庵堂，大者改为书院，经师领之，小者改为小学，蒙师领之，以分处诸生受业。其寺产即隶于学，以赡诸生之贫者。二氏之徒，分别其有学行者，归之学宫，其余则各还其业。</p>
+<p>　　太学祭酒，推择当世大儒，其重与宰相等，或宰相退处为之。每朔日，天子临幸太学，宰相、六卿、谏议皆从之。祭酒南面讲学，天子亦就弟子之列。</p>
+<p>　　政有缺失，祭酒直言无讳。</p>
+<p>　　天子之子年至十五，则与大臣之子就学于太学，使知民之情伪，且使之稍习于劳苦，毋得闭置宫中，其所闻见不出宦官宫妾之外，妄自崇大也。</p>
+<p>　　郡县朔望，大会一邑之缙绅士子。学官讲学，郡县官就弟子列，北面再拜。师弟子各以疑义相质难。其以簿书期会，不至者罚之。郡县官政事缺失，小则纠绳，大则伐鼓号于众。其或僻郡下县，学官不得骤得名儒，而郡县官之学行过之者，则朔望之会，郡县官南面讲学可也。</p>
+<p>　　若郡县官少年无实学，妄自压老儒而上之者，则士子哗而退之。</p>
+<p>　　择名儒以提督学政，然学官不隶属于提学，以其学行名辈相师友也。每三年，学官送其俊秀于提学而考之，补博士弟子；送博士弟子于提学而考之，以解礼部，更不别遣考试官。发榜所遗之士，有平日优于学行者，学官咨于提学补入之。其弟子之罢黜，学官以生平定之，而提学不与焉。</p>
+<p>　　学历者能算气朔，即补博士弟子。其精者同入解额，使礼部考之，官于钦天监。学医者送提学考之，补博士弟子，方许行术。岁终，稽其生死效否之数，书之于册，分为三等：下等黜之；中等行术如故；上等解试礼部，入太医院而官之。</p>
+<p>　　凡乡饮酒，合一郡一县之缙绅士子。士人年七十以上，生平无玷清议者，庶民年八十以上，无过犯者，皆以齿南面，学官、郡县官皆北面，宪老乞言。</p>
+<p>　　凡乡贤名宦祠，毋得以势位及子弟为进退。功业气节则考之国史，文草则稽之传世，理学则定之言行。此外乡曲之小誉，时文之声名，讲章之经学，依附之事功，已经入祠者皆罢之。</p>
+<p>　　凡郡邑书籍，不论行世藏家，博搜重购。每书钞印三册，一册上秘府，一册送太学，一册存本学。时人文集，古文非有师法，语录非有心得，奏议无裨实用，序事无补史学者，不许传刻。其时文、小说、词曲、应酬代笔，已刻者皆追板烧之。</p>
+<p>　　士子选场屋之文及私试义策，蛊惑坊市者，弟子员黜革，见任官落职，致仕官夺告身。</p>
+<p>　　民间吉凶，一依朱子《家礼》行事。庶民未必通谙，其丧服之制度，木主之尺寸，衣冠之式，宫室之制，在市肆工艺者，学官定而付之；离城聚落，蒙师相其礼以革习俗。</p>
+<p>　　凡一邑之名迹及先贤陵墓祠宇，其修饰表章，皆学官之事。淫祠通行拆毁，但留土谷，设主祀之。故入其境，有违礼之祀，有非法之服，市悬无益之物，土留未掩之丧，优歌在耳，鄙语满街，则学官之职不修也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14769.aspx">上一章</a>
+<a href="/guwen/book_175.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14771.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,111 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+小八义·第六十二回_古诗文网
+</title>
+<meta content="葛昆遇知己泄露真言　阮英池中盗得透龙剑诗曰：豪杰虽小有大能　树林暗中隐身形依仗避法冠妙奥　抢夺阮英要笑声二位英雄随后赶　路途之上遇顽童一个倒比一个巧　能人以外有英雄诗词诉罢，闲言不" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17820.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第六十二回</b></span>
+<a href="javascript:PlayBookv(17820)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17820" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17820" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%8a%e9%97%b2%e5%b1%85%e5%a3%ab">半闲居士</a></p>
+<div class="contson">
+<p>　　<strong>葛昆遇知己泄露真言　阮英池中盗得透龙剑</strong></p>
+<p>　　诗曰：</p>
+<p>　　豪杰虽小有大能　树林暗中隐身形</p>
+<p>　　依仗避法冠妙奥　抢夺阮英要笑声</p>
+<p>　　二位英雄随后赶　路途之上遇顽童</p>
+<p>　　一个倒比一个巧　能人以外有英雄</p>
+<p>　　诗词诉罢，闲言不表。上回书中，说得葛昆同着于占鳌吃酒，提起了与阮英相赌，盗取透龙宝剑。有位朋友花云平领了来的，阮英先要借这口剑，我不借，阮英就要来偷，相赌在三夜以内盗去宝剑算赢，过了三夜就算输了，这已经盗了两夜了，就这一夜的工夫，看他怎能盗去。</p>
+<p>　　头次盗去是假剑　他的巧计有千般　鱼缸花盆全打坏一条水牛在黄泉　虽然用计盗去剑　是只假剑心不欢二次又来将剑盗　我在屋中使套圈</p>
+<p>　　第二次他又来盗剑。明知他在窗外暗听，我在屋中言语。我说把宝剑藏在西马栅，他到西马栅看见，必当以为真的。我将宝剑把珠镶好，到了夜晚必能起放毫光，所以他看的是真宝剑。葛昆又说道：“我叫他把宝剑擎了去，不但不能斩妖僧，反惹大祸。”从头至尾，始末原由，对着沉江龙于占鳌说明。于占鳌听罢，问道：“他两次盗去假剑，你将透龙剑放在何处？倘被他盗去怎么了得？”</p>
+<p>　　二人吃酒把话明　皆因遇见知己朋　也是葛昆多吃酒酒能乱性是实情　酒要少吃是正理　要是带酒就说明葛昆酒醉说实话　于爷偏要问实情　你的真剑放何处也得小心查看清　葛昆回答说不用　阮英想到万不能他也不能回来了　得去宝剑乐无穷　万也不能再来盗就是再来也不中　放剑之处多巧妙　藏在鱼池难知情鱼池水深五六尺　打个铜匣里边存　鱼池朝背有石洞还在水中有深坑</p>
+<p>　　“我打了个铜匣子，将宝剑藏在匣内。花园的当中有个养鱼池，里面用石板砌好的，水深五六尺。靠着北边挖了个深坑，约有三尺有馀，宽一尺，长有四尺，将铜匣放在坑内，上边又用青石盖匣上面。”葛昆带酒，只顾在口中说出放剑之处。阮英正来盗剑，暗中躲在窗外，将话全都听了。阮英来到花园，找到了花园的当中，果然有个鱼池，是个长方的样式。长里些有两丈馀长，宽里些有一丈馀宽。池边俱是石条砌着，内里有水，池中还种着莲花。真正可观可看。</p>
+<p>　　阮英找到养鱼池　弯腰低头看端底养鱼池儿真不错内有荷花栽半池　不知水深与水浅　问路石子投边里只听咕咚一声响　虽然不深加仔细　小爷此刻无及奈下水穿来夜行衣　扑通跳下鱼池内　水到胸膛一般齐阮英水里奔正北　放剑之处早得知　将头入水伸手提双手搬起青石板　往旁一抛响声齐　伸下手去探虚实阮英跳下鱼池，找到正北，用脚踏着了青石板。将头进在水内，屏着一口气，曲下腰，伸双手抓住石板，两膀展力往旁边一抛，挖开石板。伸手往下探着，果然有坑。又往下用手一摸，摸着了铜匣。宝剑必然在内，心中甚喜。</p>
+<p>　　摸着铜匣好喜欢　宝剑必然在里边　铜匣著上有铜锁这样小心算紧严　阮英用手拧坏锁　单臂使力把盖掀掀开匣盖伸进手　宝剑在内是果然　剑把丝绦系的紧将剑提出匣外边　急忙挺身出水面　还要起来仔细观左手擎住宝剑匣　右手抽剑吓一跳　只听刷拉一声响霞光万道透胆寒　瑞彩千条扑人面　冷风嗖嗖果非凡对着星斗来照看　透出金龙剑上盘　张牙舞爪上下绕二条活龙样一般</p>
+<p>　　阮英得了这口真透龙剑，这一回还怕是假的？方才在窗外听见葛昆他说的怎样的式样，就照他所说的方法细看，就是起毫放光。用单手高举对着星斗的光辉一照，果然透出两条金龙，盘绕在剑上。</p>
+<p>　　剑上果然透金龙　此剑利害不虚情　这次得了真宝剑奸相府内斩妖僧　杀了妖僧我留下　想要送回万不能我算得着无价宝　此宝剑价值连城　到处斩妖除邪怪绿林之中算我能　倘能有个这桩宝　剑赠烈士正相应抢出斗胜把名显　暗里夺真称英雄　思想多时心欢悦手提宝剑出水中　跳上鱼池剑入壳　将剑带好往外行将身耸到后墙外　撒腿迈步跑似风　一直跳进林子内来见好汉花云平　小爷好把假话明　云平等到四更后不见阮英他回音　抬头看见有人到　云平这边忙使声莫非合字回来了　阮英林外把话明　合字黑数张年倒去越马子将剑容　子孙窑内添帮手　今夜两个是月丁显出真门真利害　真万人称沉江龙　亮了青子就动手卞托我算风硬丁　不见宝剑藏何处　我去反到败下风见事不祥我撒水　扯乎我才逃了命　云平并肩帮助我前去卞托斗雌雄　云平闻听道中话　这是贼语他更明好汉闻言无名动　必是姓于沉江龙　名叫占鳌我知晓真敢胆大要逞能</p>
+<p>　　花爷闻听“合字”是伏计，“并肩子”是奇门倒了，“张年子”是时非运气不好，“黑数天”是晚间，“越马子”是跳墙，“子孙窑”是住家，“月丁”是绿林，“亮青子”是抽刀，“卞托”是动，“风硬扎手”是敌不住，“撒水”“扯乎”是打败跑回。</p>
+<p>　　阮英说的是假话　气坏云平怒气发　好个胆大于占鳌真敢不义帮助他　道中义气应解劝　真要这样动杀法我要帮你将他找　帮你一定把他拿　强者存来弱者死谁的手快将人杀　我到不服他帮助　今夜叫他试试看江洋道上应合字　不该帮他把俺剜　云平说着心起火气的英雄战达达　一口单刀抽出壳　俺们哥俩到葛家阮英伸手忙拉住　小爷反倒笑哈哈</p>
+<p>　　阮英看着花云平越说越动气，抽刀就走，阮小爷急忙拉住，反到哈哈大笑，说道：“仁兄，你不要动气。我这有东西，你先看看，看完了再去找他算帐，也不为晚矣。”</p>
+<p>　　兄台不必把气生　看完这桩你再行　云平止步说何物阮英伸手哪曾停　腰中取出一口剑　仁兄将剑要认清花爷睁睛留神看　这口宝剑大不同　不像先前两口剑冷气扑面令人惊　宝剑他还未出壳　若要出匣了不成贤弟交我仔细看　小爷进前双手呈　云平伸手接过剑单手抓住剑绒绳　欲知宝剑真和假　下回书中说分明</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17819.aspx">上一章</a>
+<a href="/guwen/book_214.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17821.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

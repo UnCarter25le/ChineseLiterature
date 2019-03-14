@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷八·六丙日戊戌时断_古诗文网
+</title>
+<meta content="六丙日生时戊戌，火局之中遇食神；月气火通为福寿，不通逢吉亦常人。丙日戊戌时，寿永，名利不失。寅亥卯未印及申酉戌已年月生，贵。丙寅日戊戌时，庙堂食神，丙以戊为食神寿星，戌上丙火入库，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16551.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·六丙日戊戌时断</b></span>
+<a href="javascript:PlayBookv(16551)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16551" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16551" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　六丙日生时戊戌，火局之中遇食神；</p>
+<p>　　月气火通为福寿，不通逢吉亦常人。</p>
+<p>　　丙日戊戌时，寿永，名利不失。寅亥卯未印及申酉戌已年月生，贵。</p>
+<p>　　丙寅日戊戌时，庙堂食神，丙以戊为食神寿星，戌上丙火入库，戊土专位，若通火气月及东南运，福厚有寿；不通，平常。</p>
+<p>　　丙子日戊戌时，寿永，名利不失。家亥卯未印及申酉戌已年胜，贵。</p>
+<p>　　丙子日戊戌时，夏月，福寿双全。春，木克土，食神被枭。寅月，丙戊俱长生，最吉。有申庚制甲，大贵。秋冬火衰贫下。巳申亥年月，风宪极品。</p>
+<p>　　丙辰日戊戌时，午月，丙火有气，土厚地方，五六品贵。亥月，金火运，风宪。</p>
+<p>　　丙午日戊戌时，羊刃食神健旺，名利骤发，亥未辰戌年月，西方运，风宪。</p>
+<p>　　丙申日戊戌时，亥月，东方运，贵。寅午身旺，干透财，吉。丑辰刑冲戌库，发于晚年。</p>
+<p>　　丙戌日戊戌时贫，若通寅巳午戌火局，福寿双全，大贵。见财亦吉。</p>
+<p>　　时上食神局，楼台店舍中；</p>
+<p>　　茶房饼酒肆，几度立家风。</p>
+<p>　　丙日戌时财库开，少年未遇且沉埋；</p>
+<p>　　运通早晚通官爵，设若无官也发财。</p>
+<p>　　丙日时逢戊戌，就中仓库兼全。重重福禄自天然，富贵妻贤子羡。</p>
+<p>　　君子文章早立，常人财物绵延。天孤父母早淹连，辰戌钥匙开显。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16550.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16552.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

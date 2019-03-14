@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+庄子·外篇·马蹄_古诗文网
+</title>
+<meta content="马，蹄可以践霜雪，毛可以御风寒。齕草饮水，翘足而陆，此马之 真性也。虽有义台路寝，无所用之。及至伯乐，曰：“我善治马。” 烧之，剔之，刻之，雒之。连之以羁絷，编之以皂栈，马之死者十" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3262.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1795" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>外篇·马蹄</b></span>
+<a href="javascript:PlayBookv(3262)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3262" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1795)" id="leftbtn1795" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3262" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ba%84%e5%ad%90%e5%8f%8a%e9%97%a8%e5%be%92">庄子及门徒</a></p>
+<div class="contson">
+<p>　　马，蹄可以践霜雪，毛可以御风寒。齕草饮水，翘足而陆，此马之 真性也。虽有义台路寝，无所用之。及至伯乐，曰：“我善治马。” 烧之，剔之，刻之，雒之。连之以羁絷，编之以皂栈，马之死者十二 三矣！饥之渴之，驰之骤之，整之齐之，前有橛饰之患，而后有鞭 生筴之威，而马之死者已过半矣！陶者曰：“我善治埴。”圆者中规， 方者中矩。匠人曰：“我善治木。”曲者中钩，直者应绳。夫埴木之 性，岂欲中规矩钩绳哉！然且世世称之曰：“伯乐善治马，而陶匠善 治埴木。”此亦治天下者之过也。</p>
+<p>　　吾意善治天下者不然。彼民有常性，织而衣，耕而食，是谓同德。 一而不党，命曰天放。故至德之世，其行填填，其视颠颠。当是时也 ，山无蹊隧，泽无舟梁；万物群生，连属其乡；禽兽成群，草木遂长 。是故禽兽可系羁而游，鸟鹊之巢可攀援而窥。夫至德之世，同与禽 兽居，族与万物并。恶乎知君子小人哉！同乎无知，其德不离；同乎 无欲，是谓素朴。素朴而民性得矣。及至圣人，蹩躠为仁，踶跂为义， 而天下始疑矣。澶漫为乐，摘僻为礼，而天下始分矣。故纯朴不残， 孰为牺尊！白玉不毁，孰为珪璋！道德不废，安取仁义！性情不离， 安用礼乐！五色不乱，孰为文采！五声不乱，孰应六律！</p>
+<p>　　夫残朴以为器，工匠之罪也；毁道德以为仁义，圣人之过也。夫马 陆居则食草饮水，喜则交颈相靡，怒则分背相踢。马知已此矣！夫加 之以衡扼，齐之以月题，而马知介倪闉扼鸷曼诡衔窃辔。故马之知而 能至盗者，伯乐之罪也。夫赫胥氏之时，民居不知所为，行不知所之， 含哺而熙，鼓腹而游。民能已此矣！及至圣人，屈折礼乐以匡天下之 形，县跂仁义以慰天下之心，而民乃始踶跂好知，争归于利，不可止 也。此亦圣人之过也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3261.aspx">上一章</a>
+<a href="/guwen/book_26.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3263.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1795" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

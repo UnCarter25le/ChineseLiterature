@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第二十四回_古诗文网
+</title>
+<meta content="云房十试洞宾第一试：洞宾一日自外归，忽见家人皆病死。洞宾委之大数，心无懊恨，但厚备葬具而已。须臾死者皆复生，而洞宾亦不之怪。第二试：洞宾一日卖货于市，议定其值，市者反悔，止酬其值之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17379.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第二十四回</b></span>
+<a href="javascript:PlayBookv(17379)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17379" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17379" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>云房十试洞宾</strong></p>
+<p>　　第一试：洞宾一日自外归，忽见家人皆病死。洞宾委之大数，心无懊恨，但厚备葬具而已。须臾死者皆复生，而洞宾亦不之怪。</p>
+<p>　　第二试：洞宾一日卖货于市，议定其值，市者反悔，止酬其值之半，洞宾无所争论。</p>
+<p>　　第三试：洞宾元日出门，遇丐者到门求施，洞宾与以物，而丐者索取不厌，且加谇焉。洞宾惟再三笑谢。</p>
+<p>　　第四试：洞宾牧羊山中，遇一饿虎奔逐群羊：洞宾牧羊下山，独以身当之，虎乃释去。</p>
+<p>　　第五试：洞宾居山中道舍读书，忽一女子年可十七八，容貌绝色，美可媚人，自言归宁母家，今以日暮无处安身，借此少息；既而调弄百端，夜逼同寝，洞宾竟不为动。如是者三日始去。</p>
+<p>　　第六试：洞宾一日外出，及归，则家资为盗劫尽，殆无以供朝夕，洞宾略无愠色；乃躬耕自给，忽锄下见金数十锭，洞宾以土掩之，一无所取。</p>
+<p>　　第七试：一日洞宾遇卖铜器者，买之而归，见其器皆金也，即去寻卖主而还之。</p>
+<p>　　第八试：有疯狂道士陌上市药，自言服者立死，再世可以得道。旬日无人敢买，惟洞宾买之。道士曰：“子速备后事也。”洞宾服之，全然无恙。</p>
+<p>　　第九试：春水泛溢，洞宾与众共涉，方至中流，风涛波涌，众皆危惧，而洞宾端坐不动。</p>
+<p>　　第十试：洞宾独坐一室，忽见奇形怪状鬼魅无数，有欲斩洞宾者，有欲杀洞宾者，洞宾但危坐，毫无所惧。复有夜叉数十，解一死囚，血肉淋漓，号泣言曰：“汝宿世杀我，今当偿我命。”洞宾曰：“杀人偿命理也。”遂起索刀欲自刎偿之，忽闻空中大吼一声，鬼神皆不复见，一人鼓掌大笑而下，视之乃云房也。曰：“吾十试子，子坚心无所动，得道必矣。但功行尚未完足，今授子黄白之术，济世利物，使三千功满，八百行圆，方来渡子。”洞宾曰：“铁作黄金有变异乎？”曰：“三千年后始还本质耳。”洞宾戚然曰：“误三千年后，人不愿为也。”云房笑曰：“子惟心如此，三 千八百悉在是矣。”乃引洞宾至鹤岭论道而去。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17378.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17380.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

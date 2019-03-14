@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十一·韦公子_古诗文网
+</title>
+<meta content="韦公子，咸阳世家。放纵好淫，婢妇有色，无不私者。尝载金数千，欲尽觅天下名妓，凡繁丽之区无不至。其不甚佳者信宿即去，当意则作百日留，叔亦名宦，休致归，怒其行，延明师置别业，使与诸公子" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11845.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十一·韦公子</b></span>
+<a href="javascript:PlayBookv(11845)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11845" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11845" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　韦公子，咸阳世家。放纵好淫，婢妇有色，无不私者。尝载金数千，欲尽觅天下名妓，凡繁丽之区无不至。其不甚佳者信宿即去，当意则作百日留，叔亦名宦，休致归，怒其行，延明师置别业，使与诸公子键户读。公子夜伺师寝，逾垣归，迟明而返。一夜失足折肱，师始知之。告公，公益施夏楚，俾不能起而始药之。及愈，公与之约：能读倍诸弟，文字佳，出勿禁；若私逸，挞如前。然公子最慧，读常过程。数年中乡榜。欲自败约，公钳制之。赴都，以老仆从，授日记籍，使志其言动。故数年无过行。后成进士，公乃稍弛其禁。</p>
+<p>　　公子或将有作，惟恐公闻，入曲巷中辄托姓魏。一日过西安，见优僮罗惠卿，年十六七，秀丽如好女，悦之。夜留缱绻，赠贻丰隆。闻其新娶妇尤韵妙，私示意惠卿。惠卿无难色，夜果携妇至，三人共一榻。留数日眷爱臻至。谋与俱归。问其家口，答云：‘母早丧，父存。某原非罗姓。母少服役于咸阳韦氏，卖至罗家，四月即生余。倘得从公子去，亦可察其音耗。”公子惊问母姓，曰：“姓吕。”生骇极，汗下浃体，盖其母即生家婢也。生无言。时天已明，厚赠之，劝令改业。伪托他适，约归时召致之，遂别去。</p>
+<p>　　后令苏州，有乐伎沈韦娘，雅丽绝伦，爱留与狎。戏曰：“卿小字取‘春风一曲杜韦娘’耶？”答曰：“非也。妾母十七为名妓，有咸阳公子与公同姓，留三月，订盟婚娶。公子去，八月生妾，因名韦，实妾姓也。公子临别时，赠黄金鸳鸯今尚在。一去竟无音耗，妾母以是愤悒死。妾三岁，受抚于沈媪，故从其姓。”公子闻言，愧恨无以自容。默移时，顿生一策。忽起挑灯，唤韦娘饮，暗置鸩毒杯中。韦娘才下咽，溃乱呻嘶。众集视则已毙矣。呼优人至，付以尸，重赂之。而韦娘所与交好者尽势家，闻之皆不平，贿激优人讼于上官。生惧，泻橐弥缝，卒以浮躁免官。</p>
+<p>　　归家年才三十八，颇悔前行。而妻妾五六人，皆无子。欲继公孙；公以门无内行，恐儿染习气，虽许过嗣，必待其老而后归之。公子愤欲招惠卿，家人皆以为不可，乃止。又数年忽病，辄挝心曰：“淫婢宿妓者非人也！”公闻而叹曰：“是殆将死矣！”乃以次子之子，送诣其家，使定省之。月余果死。异史氏曰：“盗婢私娼，其流弊殆不可问。然以己之骨血，而谓他人父，亦已羞矣。乃鬼神又侮弄之，诱使自食便液。尚不自剖其心，自断其首，而徒流汗投鸩，非人头而畜鸣者耶！虽然，风流公子所生子女，即在风尘中亦皆擅场。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11844.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11846.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

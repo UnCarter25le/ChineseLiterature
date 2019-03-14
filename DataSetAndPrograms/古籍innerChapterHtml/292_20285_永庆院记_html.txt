@@ -1,0 +1,91 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+伯牙琴·永庆院记_古诗文网
+</title>
+<meta content="岁丙戌夏，余游杭，永庆院主僧勤肃余请云，某平日勤瘁，不以营吾私。罄所储，得史氏故宅辟兹道场，所以酬四恩润三有，非徒游居寝食而已。将丐诸当世大手笔，必子毋让为识之。曰：由杭北郭外驿道" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20285.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>永庆院记</b></span>
+<a href="javascript:PlayBookv(20285)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20285" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20285" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%82%93%e7%89%a7">邓牧</a></p>
+<div class="contson">
+<p>　　岁丙戌夏，余游杭，永庆院主僧勤肃余请云，某平日勤瘁，不以营吾私。罄所储，得史氏故宅辟兹道场，所以酬四恩润三有，非徒游居寝食而已。将丐诸当世大手笔，必子毋让为识之。曰：由杭北郭外驿道行七八里，西折走羊角埂，达草营巷，是为院。凡屋百二十有七楹，地三十亩有奇，相旧制或因或革，经始甲申良月，越岁有八月成。嘻，史故世臣也，及其殷时，树棨戟，置车盖，﨣﨣在门，峨峨在庭，燕婉绰约，在闺阃台榭之上，疲于声伎庖厨之下，饫于珍羞。物无常主，忽其易人，还面而思，梦邪觉邪？于是殿其阳以奉佛，堂其奥以演法，贝叶晨唱，木鱼昼鸣，左香积右云会，丈室岿然压其后，境界变迁，荣华消歇，蒿目而观之，觉邪梦邪？然则庐一也，可宅可寺；顾其主人一也，可凡可圣。唯其心，又非梦觉所及，而说偈言：</p>
+<p>　　一切境界，如幻如梦，了无一法，何有变动。妄有诸见，为境所移。日改日化，匪察匪迷，如空中花，维目之眩，空本无花，惑我真见。今也伽蓝，昔公相居，当其泰奢，清净如如。维此如如，不成不坏，是为真宝，万古恒在。不住名客，住名主人，尽未来际，转大法轮。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20284.aspx">上一章</a>
+<a href="/guwen/book_292.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20286.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

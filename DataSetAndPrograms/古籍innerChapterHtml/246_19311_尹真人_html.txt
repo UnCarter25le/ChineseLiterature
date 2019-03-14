@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·尹真人_古诗文网
+</title>
+<meta content="犍为郡东十余里，有道观在深岩中，石壁四壅，有颜道士居之。观殿有石函，长三尺余，其上錾出鸟兽花卉，文理纤妙，邻于鬼工，而缄锁极固，泯然无毫缕之隙。里人相传，云是尹喜石函。真人事迹，显" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19311.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>尹真人</b></span>
+<a href="javascript:PlayBookv(19311)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19311" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19311" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　犍为郡东十余里，有道观在深岩中，石壁四壅，有颜道士居之。观殿有石函，长三尺余，其上錾出鸟兽花卉，文理纤妙，邻于鬼工，而缄锁极固，泯然无毫缕之隙。里人相传，云是尹喜石函。真人事迹，显于纪传详矣。真人将上升，以石函付门弟子，约之曰：“此函中有符箓，慎不得启之，必有大祸。”于是郡人尽敬之。</p>
+<p>　　大历中，有青河崔君为犍为守。崔君素以刚果自恃。既至郡，闻有尹真人函，笑谓属官曰：“新垣平之诈见矣。”即诣之，且命破锁。颜道士曰：“此尹真人石函。真人有遣教曰：‘启吾函者有大祸。’幸君侯无犯仙官之约。”崔君怒曰：“尹真人死千岁，安得独有石函在乎吾不信。”颜道士确其词，而崔君固不従。</p>
+<p>　　于是命破其锁，久之，而坚然不可动。崔君怒，又以巨纟亘系函鼻，用数十牛拽其纟亘，鞭而驱之，仅半日，石函遂开。中有符箓数十轴，以黄缣为幅，丹书其文，皆炳然如新。崔君既观毕，顾谓颜道士曰：“吾向者意函中有奇宝，故开而阅之，今徒有符箓而已。”于是令缄锁如旧。</p>
+<p>　　既归郡，是夕，令忽暴卒。后三日而寤。其官属将吏辈，悉诣崔君问之，且讯焉。崔君曰：“吾甚憨，未尝闻神仙事。前者偶开尹真人石函，果为冥官追摄。初见一人，衣紫衣，至寝，谓吾曰：‘我吏于冥司者也。今奉命召君，固不可拒。拒则祸益大矣，宜疾去。’吾始闻忧，欲以辞免，然不觉与使者俱出郡城，仅行五十里，至冥司，其官即故相吕公也。谓吾曰：‘子何为开尹真人石函乎奉上帝命，且削君之禄寿，果如何哉’已而召椽吏至，令按吾禄寿之籍。掾吏白吕公曰：‘崔君有官五任，有寿十七年。今奉上帝符，尽夺五任官，又削十五年寿。今独有二年寿矣。’”于是听崔君还。后二年果卒。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19310.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19312.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

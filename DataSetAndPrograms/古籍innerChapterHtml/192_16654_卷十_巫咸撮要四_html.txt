@@ -1,0 +1,144 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·巫咸撮要四_古诗文网
+</title>
+<meta content="阳刃带煞被刑，男子身遭鞭配。财盛刑伤父母，鬼旺后代昌荣。从化忌从返本，平生哀乐无宁。丙辛化水到水乡，位列朝廷。丁壬化木临木位，身居宰辅。东金西木不从化，一世虚名。离壬坎丙得位时，平" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16654.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·巫咸撮要四</b></span>
+<a href="javascript:PlayBookv(16654)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16654" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16654" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　阳刃带煞被刑，男子身遭鞭配。</p>
+<p>　　财盛刑伤父母，鬼旺后代昌荣。</p>
+<p>　　从化忌从返本，平生哀乐无宁。</p>
+<p>　　丙辛化水到水乡，位列朝廷。</p>
+<p>　　丁壬化木临木位，身居宰辅。</p>
+<p>　　东金西木不从化，一世虚名。</p>
+<p>　　离壬坎丙得位时，平生显迹。</p>
+<p>　　用神败衰带禄，不能为福。</p>
+<p>　　禄马气旺遇贵，合主显荣。</p>
+<p>　　有官无马而职微，有马无官而身贱。</p>
+<p>　　四柱生旺，虽无官禄亦长年。</p>
+<p>　　五行败衰，纵带禄马终夭折。</p>
+<p>　　魁罡相逢冲克，多遭刑狱。</p>
+<p>　　建禄无财刑制，定为奴婢。</p>
+<p>　　阳火死于墓绝，性凶顽，多为酷吏。</p>
+<p>　　阴火生于长养，人丰厚，当为富豪。</p>
+<p>　　五行忌沐浴逢伤，四柱喜生旺制煞。</p>
+<p>　　有害而姻亲散失，遇战而疾病缠身。</p>
+<p>　　木火忌逢申酉，灾病呻吟。</p>
+<p>　　衰金畏遇旺火，苦形悲叹。</p>
+<p>　　时临鬼地，无制多贫。运至财官，无刑必发。</p>
+<p>　　七煞阳刃，名位大显。正印官星，刑冲乃祸。</p>
+<p>　　壬趋艮位，遇之则发资财。变煞为官，幼岁功名显达。</p>
+<p>　　戊日午月，火多而运喜官乡。</p>
+<p>　　三奇无伤，平生富贵。财官败地，一世贫寒。</p>
+<p>　　日虽建禄，不逢财官主孤贫。</p>
+<p>　　日禄归时，不遇财印亦难发。</p>
+<p>　　时上偏财，运至兄弟之位，主妻灾。</p>
+<p>　　时上羊刃，岁遇偏正之财，生凶祸。</p>
+<p>　　正官月上旺，富贵双全。</p>
+<p>　　偏官时上逢，无情有祸。</p>
+<p>　　财归旺地无破，家道兴隆。</p>
+<p>　　印绶生身无伤，门隅光彩。</p>
+<p>　　有官无印，即非真官。有印无官，反成厚福。</p>
+<p>　　桃花带合，风流儒雅之人。</p>
+<p>　　五湖云扰，饿于首阳之客。</p>
+<p>　　干刑支合，乐变为忧。干合支刑，喜中不美。</p>
+<p>　　若不九流僧道，定须重拜爹娘。</p>
+<p>　　墓时杂气逢局钥，始得显荣。</p>
+<p>　　阳刃金神遇七煞，必为大贵。</p>
+<p>　　双辰夹角，偏生庶出之人。</p>
+<p>　　寡宿孤辰，异姓同居之子。</p>
+<p>　　壬水骑龙逢辰多，少登天府。</p>
+<p>　　乙木捕鼠遇子多，早步蟾宫。</p>
+<p>　　日禄归时没官星，锦鞍绣曫。</p>
+<p>　　月生日干无财气，玉带金鱼。</p>
+<p>　　六阴朝阳逢季月，只作印看。</p>
+<p>　　六壬趋艮逢亥月，当以贫论。</p>
+<p>　　格局无破无刑，名利成就。</p>
+<p>　　官印有伤有损，爵位亏停。</p>
+<p>　　妻宫赢弱犯劫财，必损其妻。</p>
+<p>　　兄弟位柔见官强，必伤昆季。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16653.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16655.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

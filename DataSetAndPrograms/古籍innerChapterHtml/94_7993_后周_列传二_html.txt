@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+旧五代史·后周·列传二_古诗文网
+</title>
+<meta content="剡王侗，太祖子，初名青哥，汉末遇害。太祖即位，诏赠太尉，赐名侗。显德 四年追封。 巳王信，太祖子，初名意哥，汉末遇害。太祖即位，诏赠司空，赐名信。显 德四年追封。案：太祖诸子蚤岁遇" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_7993.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>后周·列传二</b></span>
+<a href="javascript:PlayBookv(7993)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv7993" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay7993" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%96%9b%e5%b1%85%e6%ad%a3%e7%ad%89">薛居正等</a></p>
+<div class="contson">
+<p>　　剡王侗，太祖子，初名青哥，汉末遇害。太祖即位，诏赠太尉，赐名侗。显德 四年追封。 </p>
+<p>　　巳王信，太祖子，初名意哥，汉末遇害。太祖即位，诏赠司空，赐名信。显 德四年追封。案：太祖诸子蚤岁遇害，本无事迹。原本过于简略，疑有删节，今据 《欧阳史·家人传》云：初，帝举兵于魏，汉以兵围帝第，时张贵妃与诸子青哥、 意哥，侄守筠、奉超、定哥皆被诛。青哥、意哥不知其母谁氏。太祖即位，诏故第 二子青哥赠太尉，赐名侗；第三子意哥赠司空，赐名信。皇侄守筠赠左领军卫将军， 以“筠”声近“荣”，为世宗避，更名守愿；奉超赠左监门卫将军；定哥赠左千牛 卫将军，赐名逊。世宗显德四年夏四月癸未，诏曰：“礼以缘情，恩以悼往，矧在 友于之列，尤钟恻怆之情。故皇弟赠太保侗、赠司空信，景运初启，天年不登，俾 予终鲜，实动予怀。侗可赠太傅，追封剡王；信司徒，巳王。”又诏曰：“故皇 从弟赠左领军卫将军守愿、赠左监门卫将军奉超、赠左千牛卫将军逊等，顷因季世， 不享遐龄，每念非辜，难忘有恸。守愿可赠左卫大将军，奉超右卫大将军，逊右武 卫大将军。”</p>
+<p>　　越王宗谊，世宗子，汉末遇害。显德四年追封。 </p>
+<p>　　曹王宗让，世宗子，显德六年封。 </p>
+<p>　　纪王熙谨，世宗子，显德六年封，皇朝乾德二年卒。 </p>
+<p>　　蕲王熙诲，世宗子，显德六年封。《欧阳史·家人传》云：世宗子七人，长曰 宜哥，次二皆未名，次曰恭皇帝，次曰熙让，次曰熙谨，次曰熙诲，皆不知其母为 谁氏，宜哥与其二皆为汉诛。太祖即位，诏赐皇孙名，谊赠左骁卫大将军，诚左武 卫大将军，諴左屯卫大将军。显德三年，君臣请封宗室，世宗以谓为国日浅，恩信 未及于人，须功德大成，庆流于世，而后议之可也。明年夏四月癸未，先封太祖诸 子。又诏曰：“父子之道，圣贤不忘，再思夭阙之端，愈动悲伤之抱。故皇子左骁 卫大将军谊、左武卫大将军诚、左屯卫大将军諴等，载惟往事，有足伤怀，宜增一 字之封，仍赠三台之秩。谊可赠太尉，追封越王；诚太傅，吴王；諴太保，韩王。” 而皇子在者皆不封。六年，北复三关，遇疾还京师。六月癸未，皇子宗训特进左卫 上将军，封梁王，而宗让亦拜左骁卫上将军，封燕国公。后十日而世宗崩，梁王即 位，是为恭皇帝。其年八月，宗让更名熙让，封曹王。熙谨、熙诲皆前未封爵，遂 拜熙谨右武卫大将军，封纪王；熙诲左领军卫大将军，封蕲王。乾德二年十月，熙 谨卒，熙让、熙诲不知其所终。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_7992.aspx">上一章</a>
+<a href="/guwen/book_94.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_7994.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

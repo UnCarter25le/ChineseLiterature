@@ -1,0 +1,114 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+天工开物·上篇·作咸_古诗文网
+</title>
+<meta content="宋子曰：天有五气，是生五味。润下作咸，王访箕子而首闻其义焉。口之于味也，辛酸甘苦经年绝一无恙。独食盐禁戒旬日，则缚鸡胜匹倦怠恹然。岂非“天一生水”，而此味为生人生气之源哉？四海之中" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3720.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2348" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上篇·作咸</b></span>
+<a href="javascript:PlayBookv(3720)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3720" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2348)" id="leftbtn2348" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3720" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ae%8b%e5%ba%94%e6%98%9f">宋应星</a></p>
+<div class="contson">
+<p>　　宋子曰：天有五气，是生五味。润下作咸，王访箕子而首闻其义焉。口之于味也，辛酸甘苦经年绝一无恙。独食盐禁戒旬日，则缚鸡胜匹倦怠恹然。岂非“天一生水”，而此味为生人生气之源哉？四海之中，五服而外，为蔬为谷，皆有寂灭之乡，而斥卤则巧生以待。孰知其所已然。</p>
+<p>　　○盐产</p>
+<p>　　凡盐产最不一，海、池、井、土、崖、砂石，略分六种，而东夷树叶，西戎光明不与焉。赤县之内，海卤居十之八，而其二为井、池、土碱。或假人力，或由天造。总之，一经舟车穷窘，则造物应付出焉。</p>
+<p>　　○海水盐</p>
+<p>　　凡海水自具咸质，海滨地高者名潮墩，下者名草荡，地皆产盐。同一海卤传神，而取法则异。一法高堰地，潮波不没者，地可种盐。种户各有区画经界，不相侵越。度诘朝无雨，则今日广布稻麦稿灰及芦茅灰寸许于地上，压使平匀。明晨露气冲腾，则其下盐茅勃发，日中晴霁，灰、盐一并扫起淋煎。一法潮波浅被地，不用灰压。候潮一过，明日天晴，半日晒出盐霜，疾趋扫起煎炼。一法逼海潮深地，先掘深坑，横架竹木，上铺席苇，又铺沙于苇席上。俟潮灭顶冲过，卤气由沙渗下坑中，撤去沙、苇，以灯烛之，卤气冲灯即灭，取卤水煎炼。总之功在晴霁，若淫雨连旬，则谓之盐荒。又淮场地面有日晒自然生霜如马牙者，谓之大晒盐。不由煎炼，扫起即食。海水顺风飘来断草，勾取煎炼名蓬盐。</p>
+<p>　　凡淋煎法，掘坑二个，一浅一深。浅者尺许，以竹木架芦席于上，将扫来盐料（不论有灰无灰，淋法皆同）铺于席上。四围隆起作一堤当形，中以海水灌淋，渗下浅坑中。深者深七八尺，受浅坑所淋之汁，然后入锅煎炼。</p>
+<p>　　凡煎盐锅古谓之牢盆，亦有两种制度。其盆周阔数丈，径亦丈许。用铁者以铁打成叶片，铁钉栓合，其底平如盂，其四周高尺二寸，其合缝处一以卤汁结塞，永无隙漏。其下列灶燃薪，多者十二三眼，少者七八眼，共煎此盘。南海有编竹为者，将竹编成阔丈深尺，糊以蜃灰，附于釜背。火燃釜底，滚沸延及成盐。亦名盐盆，然不若铁叶镶成之便也。凡煎卤未即凝结，将皂角椎碎，和粟米糠二味，卤沸之时投入其中搅和，盐即顷刻结成。盖皂角结盐犹石膏之结腐也。</p>
+<p>　　凡盐淮扬场者，质重而黑。其他质轻而白。以量较之。淮场者一升重十两，则广、浙、长芦者只重六七两。凡蓬草盐不可常期，或数年一至，或一月数至。凡盐见水即化，见风即卤，见火愈坚。凡收藏不必用仓廪，盐性畏风不畏湿，地下叠稿三寸，任从卑湿无伤。周遭以土砖泥隙，上盖茅草尺许，百年如故也。</p>
+<p>　　○池盐</p>
+<p>　　凡池盐，宇内有二，一出宁夏，供食边镇；一出山西解池，供晋、豫诸郡县。解池界安邑、猗氏、临晋之间，其池外有城堞，周遭禁御。池水深聚处，其色绿沉。土人种盐者池傍耕地为畦陇，引清水入所耕畦中，忌浊水，参入即淤淀盐脉。</p>
+<p>　　凡引水种盐，春间即为之，久则水成赤色。待夏秋之交，南风大起，则一宵结成，名曰颗盐，即古志所谓大盐也。以海水煎者细碎，而此成粒颗，故得大名。其盐凝结之后，扫起即成食味。种盐之人。积扫一石交官，得钱数十文而已。其海丰、深州引海水入池晒成者，凝结之时扫食不加人力，与解盐同。但成盐时日，与不藉南风则大异也。</p>
+<p>　　○井盐</p>
+<p>　　凡滇、蜀两省远离海滨，舟车艰通，形势高上，其咸脉即韫藏地中。凡蜀中石山去河不远者，多可造井取盐。盐井周围不过数寸，其上口一小盂覆之有余，深必十丈以外乃得卤性，故造井功费甚难。</p>
+<p>　　其器冶铁锥，如碓嘴形，其尖使极刚利，向石山舂凿成孔。其身破竹缠绳，夹悬此锥。每舂深入数尺，则又以竹接其身使引而长。初入丈许，或以足踏锥梢，如舂米形。太深则用手捧持顿下。所舂石成碎粉，随以长竹接引，悬铁盏挖之而上。大抵深者半载，浅者月余，乃得一井成就。</p>
+<p>　　盖井中空阔，则卤乞游散，不克结盐故也。井及泉后，择美竹长丈者，凿净其中节，留底不去。其喉下安消息，吸水入筒，用长ㄌ系竹沉下，其中水满。井上悬桔槔、辘轳诸具，制盘驾牛。牛曳盘转，辘轳绞ㄌ，汲水而上。入于釜中煎炼，（只用中釜，不用牢盆。）顷刻结盐，色成至白。</p>
+<p>　　西川有火井，事奇甚。其井居然冷水，绝无火气，但以长竹剖开去节合缝漆布，一头插入井底，其上曲接，以口紧对釜脐，注卤水釜中。只见火意烘烘，水即滚沸。启竹而视之，绝无半点焦炎意。未见火形而用火神，此世间大奇事也，凡川、滇盐井逃课掩盖至易，不可穷诘。</p>
+<p>　　○末盐</p>
+<p>　　凡地碱煎盐，除并州末盐外，长芦分司地土人，亦有刮削煎成者，带杂黑色，味不甚佳。</p>
+<p>　　○崖盐</p>
+<p>　　凡西省阶、凤等州邑，海井交穷。其岩穴自生盐，色如红土，恣人刮取，不假煎炼。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3719.aspx">上一章</a>
+<a href="/guwen/book_38.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3721.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2348" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

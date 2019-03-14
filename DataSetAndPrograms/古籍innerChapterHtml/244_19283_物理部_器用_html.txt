@@ -1,0 +1,144 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·物理部·器用_古诗文网
+</title>
+<meta content="商嵌铜器以肥皂涂之，烧赤后，入梅锅烁之，则黑白分明。黑漆器上有朱红字，以盐擦则作红水流下。油笼漆笼漏者，以马屁浡塞之，即止。肥皂围塞之，亦妙。柘木以酒醋调矿灰涂之，一宿则作间道乌木" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19283.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>物理部·器用</b></span>
+<a href="javascript:PlayBookv(19283)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19283" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19283" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　商嵌铜器以肥皂涂之，烧赤后，入梅锅烁之，则黑白分明。</p>
+<p>　　黑漆器上有朱红字，以盐擦则作红水流下。</p>
+<p>　　油笼漆笼漏者，以马屁浡塞之，即止。</p>
+<p>　　肥皂围塞之，亦妙。</p>
+<p>　　柘木以酒醋调矿灰涂之，一宿则作间道乌木。</p>
+<p>　　漆器不可置莼菜，虽坚漆亦坏。</p>
+<p>　　热碗足烫漆桌成迹者，以锡注盛沸汤冲之，其迹自去。</p>
+<p>　　铜器或鍮石上青，以醋浸过夜，洗之自落。</p>
+<p>　　针眼割线者，用灯烧眼。</p>
+<p>　　锡器上黑垢，用燖鸡鹅汤之热者洗之。</p>
+<p>　　酒瓶漏者，以羊血擦之则不漏。</p>
+<p>　　碗上有垢，以盐擦之。</p>
+<p>　　水烰炭缸内，夏月可冻物。</p>
+<p>　　刀锈，木贼草擦之。</p>
+<p>　　皂角在灶内烧烟，锅底煤并烟突煤自落。</p>
+<p>　　肉案上抹布，以猪胆洗之，油自落。</p>
+<p>　　烰炭瓶中安猫食，不臭，虽夏月亦不臭。</p>
+<p>　　藳本汤布拭酒器并酒桌上，蝇不来。</p>
+<p>　　香油蘸刀则不脆。</p>
+<p>　　琉璃用酱汤洗油自去。</p>
+<p>　　铁锈以炭磨洗之。</p>
+<p>　　刀钝以干炭擦之则快。</p>
+<p>　　泥瓦火锻过，作磨刀石。</p>
+<p>　　洗刀洗铁皮，松木杉木铁艳粉为细末，以羊脂炒干为度，用以擦刀，光如皎月。</p>
+<p>　　洗缸瓶臭，先以水再三洗净却，以银杏捣碎，泡汤洗之。</p>
+<p>　　荷叶煎汤，洗锡器极妙。</p>
+<p>　　釜内生锈，烧汤，以皂荚洗之如刮。</p>
+<p>　　松板作酒榨，无木气。</p>
+<p>　　镀白桐器，用萱草根及水银揩之如新。</p>
+<p>　　锡器以木柴灰煮水，用木贼草洗之如银。</p>
+<p>　　或用腊梅叶，或用肥皂热水，亦可。</p>
+<p>　　瓷器记号，以代赭石写之，则水洗不落。</p>
+<p>　　竹器方蛀，以雄黄</p>
+<p>　　巴豆烧烟熏之，永不蛀。</p>
+<p>　　凡竹器蛀，以莴苣煮汤，沃之。</p>
+<p>　　定州瓷器一为犬所舐，即有璺纹。</p>
+<p>　　漆器以覆苋菜，便有断纹。</p>
+<p>　　雨伞、油衣、笠子雨中来，须以井水洗之；不尔，易得脆坏。</p>
+<p>　　铜器不得安顿米上，恐霉，坏其声。</p>
+<p>　　手弄地栗，不可弄铜器，击之必破。</p>
+<p>　　新锅先用黄泥涂其中，贮水满，煮一时，洗净，再干烧十分热，用猪油同糟遍擦之，方可用。</p>
+<p>　　漆污器物，用盐干擦。</p>
+<p>　　酒污衣服，用藕擦。</p>
+<p>　　器旧，用酱水洗。</p>
+<p>　　藤床椅旧，用豆腐板刷洗之。</p>
+<p>　　鼓皮旧，用橙子瓤洗之。</p>
+<p>　　汤瓶生碱，以山石数枚，瓶内煮之，碱皆去。</p>
+<p>　　桐木为轿杠，轻复耐久。</p>
+<p>　　瓷器捐缺，用细筛石灰一二钱、白芨末二钱，水调粘之。</p>
+<p>　　铁器上锈者，置酸泔中浸一宿取出，其锈自落。</p>
+<p>　　松杓初用当以沸汤；若入冷水，必破。</p>
+<p>　　试金石，以盐擦之，则磨痕尽去。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19282.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19284.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

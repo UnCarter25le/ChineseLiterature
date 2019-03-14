@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+周礼·秋官司寇·小司寇_古诗文网
+</title>
+<meta content="小司寇之职，掌外朝之政，以致万民而询焉。一曰询国危，二曰询国迁，三曰询立君。其位，王南乡，三公及州长、百姓北面，群臣西面，群吏东面，小司寇摈以叙进而问焉，以众辅声明而弊谋。以五刑听" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3226.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1756" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>秋官司寇·小司寇</b></span>
+<a href="javascript:PlayBookv(3226)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3226" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1756)" id="leftbtn1756" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3226" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%91%a8%e5%85%ac%e6%97%a6">周公旦</a></p>
+<div class="contson">
+<p>　　小司寇之职，掌外朝之政，以致万民而询焉。一曰询国危，二曰询国迁，三曰询立君。其位，王南乡，三公及州长、百姓北面，群臣西面，群吏东面，小司寇摈以叙进而问焉，以众辅声明而弊谋。以五刑听万民之狱讼，附于刑，用情讯之。至于旬，乃弊之，读书，则用法。凡命夫命妇不躬坐狱讼，凡王之同族有罪不即市。以五声听狱讼，求民情：一曰辞听，二曰色听，三曰气听，四曰耳听，五曰目听。以八辟丽邦法，附刑罚：一曰议亲之辟，二曰议故之辟，三曰议贤之辟，四曰议能之辟，五曰议功之辟，六曰议贵之辟，七曰议勤之辟，八曰议宾之辟。以三刺断庶民狱讼之中：一曰讯群臣，二曰讯群吏，三曰讯万民，听民之所刺宥，以施上服下服之刑。及大比，登民数，自生齿以上，登于天府，内史、司会、冢宰贰之，以制国用。小祭祀，奉犬牲。凡禋祀五帝，实镬水，纳亨，亦如之。大宾客，前王而辟。后、世子之丧，亦如之。小师，莅戮。凡国之大事，使其属跸。孟冬，祀司民，献民数于王，戋拜受之，以图国用而进退之。岁终，则令群士计狱弊讼，登中于天府。正岁，帅其属而观刑象，令以木铎曰：「不用法者，国用常刑。」令群士，乃宣布于四方，宪刑禁，乃命其属入会，乃致事。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3225.aspx">上一章</a>
+<a href="/guwen/book_24.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3227.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1756" style="width:580px; display:none;"></div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

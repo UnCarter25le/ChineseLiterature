@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·杂录类·卷二_古诗文网
+</title>
+<meta content="◎半部缙绅桐城张氏，父子继相，兄弟多登九列者。文和长军机时，其子侄宗族，及姻党姚氏，占仕籍者至数十人，时为之语曰：“张、姚两姓，占却半部缙绅。”刘文正公统勋以闻，请量加裁抑，三年内" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16232.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>杂录类·卷二</b></span>
+<a href="javascript:PlayBookv(16232)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16232" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16232" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎半部缙绅</p>
+<p>　　桐城张氏，父子继相，兄弟多登九列者。文和长军机时，其子侄宗族，及姻党姚氏，占仕籍者至数十人，时为之语曰：“张、姚两姓，占却半部缙绅。”刘文正公统勋以闻，请量加裁抑，三年内停其升转，高宗从之。文正与文和故交，此奏可谓爱人以德。</p>
+<p>　　◎刘武进卒于养心殿</p>
+<p>　　刘武进相公于义，性刚毅，受宪皇知。曾佩征西将军印，屡破准夷，时人荣之。乾隆中，公年已七十余岁，奏事养心殿，跽跪良久，立时误踏衣袂仆倒。公体素胖壮，加以御座高耸，因之暴薨，上甚惜之。傅文忠公出告人曰：“刘相公今死得其所矣。”时人以为笑谈。</p>
+<p>　　◎洪稚存之狂</p>
+<p>　　洪稚存编修亮吉，阳湖人，中庚戌探花。性狂妄，嗜酒纵饮。善考订，其著《乾隆中府厅图志》，及《东晋疆域考》、《南北朝疆域考》，学问渊博。戊午大考翰林，公上《平邪教疏》，深中当时要，人争诵之。朱文正公招之入都，欲荐于朝，先生乃于朱座首斥其崇信释道，为邪教首领之语，朱正色曰：“吾为君之师辈，乃敢搪突若尔！”先生曰：“此正所以报师尊也。”</p>
+<p>　　又讥王韩城相公为刚愎自用，刘文清公为当场鲍老，一时入座，无不被其讥者。后裹装欲归，复上书于成王及朱石君、刘云房二相公，多诽谤朝廷语。成王以其书上闻，上悯其书生迂鲁，戍于伊犁。未逾年，即放归田里。以其书常置御座旁曰：“此座右良箴也。”上之宽大也若此。先生既放还，亦纵酒自娱，不数载，卒于家。其所著古文，多载清朝名臣嘉言善行，有裨于世教焉。</p>
+<p>　　◎张石州之使气</p>
+<p>　　平定张石州穆，以优行贡成均。道光己亥，应顺天乡试，携瓶酒入，监搜者呵曰：“去酒！”石州辄饮尽，而挥弃其余沥。监者怒，命悉索之，破笔砚、毁衣被，无所得。石州扪腹曰：“是中便便经笥，若辈岂能搜耶？”监者益怒，乃摭笔囊中片纸，有字一行，谩曰：“此怀挟也。”送刑部谳，白其枉，然竟坐槟斥。石州渊博无涯涘，世以东京崔、蔡目之，微眚见黜，固由赋命之奇，然亦太使气已。</p>
+<p>　　◎赵秋谷善骂</p>
+<p>　　赵太史秋谷，青州益都人也。乾隆戊午，北平黄昆圃先生，任山东布政，黄固素重秋谷者。会益都令某来谒，黄语之曰：“赵秋谷先生，君管内人也，其诗文甚富，盍请于先生，持其草以来，俾余得一寓目乎？”令归，即遣一隶持牒往。赵故善骂，得牒益大怒，诟令俗吏，并及于黄。黄亲为其门生陈见复述之。</p>
+<p>　　◎汪容甫之狂放</p>
+<p>　　汪容甫少狂放，肄业安定书院，每一山长至，辄挟经史肄难数事请质，或不能对，即大笑出，孙志祖、蒋士铨皆为所窘。时侨居扬州者，程晋芳、任大椿、顾九苞，皆以读书该博负盛名。容甫众中语人，扬州一府，通者三人，不通者三人。通者高邮王念孙、宝应刘台拱，与己是也；不通者即指程、任诸人。适有荐绅家居者，请容甫月旦，容甫大言曰：“君不在不通之列。”其人喜过望。容甫出，徐曰：“君再读三十年书，可以望不通矣。”其诙谐皆类此。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16231.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16233.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

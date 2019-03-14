@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十一·石清虚_古诗文网
+</title>
+<meta content="邢云飞，顺天人。好石，见佳不惜重直。偶渔于河，有物挂网，沉而取之，则石径尺，四面玲珑，峰峦叠秀。喜极如获异珍。既归，雕紫檀为座，供诸案头。每值天欲雨，则孔孔生云，遥望如塞新絮。有势" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11846.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十一·石清虚</b></span>
+<a href="javascript:PlayBookv(11846)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11846" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11846" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　邢云飞，顺天人。好石，见佳不惜重直。偶渔于河，有物挂网，沉而取之，则石径尺，四面玲珑，峰峦叠秀。喜极如获异珍。既归，雕紫檀为座，供诸案头。每值天欲雨，则孔孔生云，遥望如塞新絮。</p>
+<p>　　有势豪某踵门求观。既见，举付健仆，策马径去。邢无奈，顿足悲愤而已。仆负石至河滨，息肩桥上，忽失手堕诸河。豪怒，鞭仆。即出金雇善泅者，百计冥搜，竟不可见。乃悬金署约而去。由是寻石者日盈于河，迄无获者。后邢至落石处，临流於邑，但见河水清澈，则石固在水中。邢大喜，解衣入水，抱之而出。携归，不敢设诸厅所，洁治内室供之。一日有老叟款门而请，邢托言石失已久。叟笑曰：“客舍非耶？”邢便请入舍以实其无，及入，则石果陈几上。愕不能言。叟抚石曰：“此吾家故物，失去已久，今固在此耶。既见之，请即赐还。”邢窘甚，遂与争作石主。叟笑曰：“既汝家物，有何验证？”邢不能答。叟曰：“仆则故识之。前后九十二窍，孔中五字云：‘清虚天石供。’”邢审视，孔中果有小字，细如粟米，竭目力才可辨认；又数其窍，果如所言。邢无以对，但执不与。叟笑曰：“谁家物而凭君作主耶！”拱手而出。邢送至门外；既还，已失石所在。邢急追叟，则叟缓步未远。奔牵其袂而哀之。叟曰：“奇哉！经尺之石，岂可以手握袂藏者耶？”邢知其神，强曳之归，长跽请之。叟乃曰：“石果君家者耶、仆家者耶？”答曰：“诚属君家，但求割爱耳。”叟曰：“既然，石固在是。”入室，则石已在故处。叟曰：“天下之宝，当与爱惜之人。此石能自择主，仆亦喜之。然彼急于自见，其出也早，则魔劫未除。实将携去，待三年后始以奉赠。既欲留之，当减三年寿数，乃可与君相终始。君愿之乎？”曰：“愿。”叟乃以两指捏一窍，窍软如泥，随手而闭。闭三窍，已，曰：“石上窍数，即君寿也。”作别欲去。邢苦留之，辞甚坚；问其姓字亦不言，遂去。</p>
+<p>　　积年余，邢以故他出，夜有贼入室，诸无所失，惟窃石而去。邢归，悼丧欲死。访察购求，全无踪迹。积有数年，偶入报国寺，见卖石者，则故物也，将便认取。卖者不服，因负石至官。官问：“何所质验？”卖石者能言窍数。邢问其他，则茫然矣。邢乃言窍中五字及三指痕，理遂得伸。官欲杖责卖石者，卖石者自言以二十金买诸市，遂释之。</p>
+<p>　　邢得石归，裹以锦，藏椟中，时出一赏，先焚异香而后出之。有尚书某购以百金，邢曰：“虽万金不易也。”尚书怒，阴以他事中伤之。邢被收，典质田产。尚书托他人风示其子。子告邢，邢愿以死殉石。妻窃与子谋，献石尚书家。邢出狱始知，骂妻殴子，屡欲自经，皆以家人觉救得不死。夜梦一丈夫来，自言：“石清虚。”戒邢勿戚：“特与君年余别耳。明年八月二十日昧爽时，可诣海岱门以两贯相赎。”邢得梦，喜，谨志其日。其石在尚书家，更无出云之异，久亦不甚贵重之。明年，尚书以罪削职，寻死，邢如期至海岱门，则其家人窃石出售，因以两贯市归。</p>
+<p>　　后邢至八十九岁，自治葬具，又嘱子必以石殉，及卒，子遵遗教，瘗石墓中。半年许，贼发墓劫石去。子知之，莫可追诘。越二三日，同仆在道，忽见两人奔踬汗流，望空投拜，曰：“邢先生，勿相逼！我二人将石去，不过卖四两银耳。”遂絷送到官，一讯即伏。问石，则鬻宫氏。取石至，官爱玩欲得之，命寄诸库。吏举石，石忽堕地，碎为数十余片。皆失色。官乃重械两盗论死。邢子拾碎石出，仍瘗墓中。</p>
+<p>　　异史氏曰：“物之尤者祸之府。至欲以身殉石亦痴甚矣！而卒之石与人相终始，谁谓石无情哉？古语云：‘士为知己者死。’非过也！石犹如此，何况于人！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11845.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11847.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

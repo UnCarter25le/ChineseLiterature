@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+折狱龟鉴·卷七·迹贼_古诗文网
+</title>
+<meta content="230、司马悦视鞘已见释冤门。按：此与高湝留靴之术同，但彼谲而此正耳。231、魏昶搜宅唐中书舍人郭正一破平壤，得一高丽婢，名玉素，极姝艳，令专知财物库。正一夜须浆水粥，玉素遂毒之。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20011.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·迹贼</b></span>
+<a href="javascript:PlayBookv(20011)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20011" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20011" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%83%91%e5%85%8b">郑克</a></p>
+<div class="contson">
+<p>　　230、司马悦视鞘已见释冤门。</p>
+<p>　　按：此与高湝留靴之术同，但彼谲而此正耳。</p>
+<p>　　231、魏昶搜宅唐中书舍人郭正一破平壤，得一高丽婢，名玉素，极姝艳，令专知财物库。正一夜须浆水粥，玉素遂毒之。良久，觅婢不得，又失金银器四十余事。敕令捕贼，鼎沸三日。长安万年捉不良有主帅魏昶，请唤舍人家奴，取少年端正者三人，布衫笼头；又传卫士四人，问：“十日以来，何人曾觅舍人家？”卫士云：“有投化高丽，留书与舍人捉马奴，书见在。”取验之，但言“金城坊中有一空宅”，更无他语。昶乃往金城坊应空宅并搜之，果至一宅，封锁甚密，即时打开，婢及投化高丽皆在，乃是投化高丽与捉马奴藏之。敕斩于东市。旧不着出处。按：唐书郭正一传云，正一与郭待举、魏玄同、岑长倩并相高宗、唐平章事自正一等始。正一为中书舍人，不当出征高丽；酷吏周兴诬而杀之，非为婢所毒也。其征高丽者有郭待封，乃孝恪之子，武将，其后副薛仁贵伐吐蕃，败绩贬死，附见薛仁贵传中，亦无为婢所毒事。此盖小说所载，传闻缪说，不足信者，姑取其事之迹可也。</p>
+<p>　　按：昶唤舍人家奴，取少年端正者三人，布衫笼头，欲以谲取之也；又传卫士四人，问“十日以来，何人曾觅舍人家”，欲以迹求之也。虽兼用二术，然谲贼不效，而迹贼效矣。譬犹得雀者网之一目，而不可以一目之网捕雀也。昶虽小人，而善捕贼，与苏无名、董行成类矣，特着其事，以劝能者，不为无补也。</p>
+<p>　　232、刘崇龟换刀已见释冤门。</p>
+<p>　　233、府从事发瘗已见释冤门。</p>
+<p>　　234、桑怿闭栅(虞诩一事附)桑怿崇班，初以右班殿直，为永安县巡检。明道末，京西旱蝗，有恶贼二十三人。枢密院召怿至京师，授以贼名姓，怿曰：“盗畏吾名必溃，溃则难得矣。宜先示之以怯。”至则闭栅，戒军吏不得一人辄出。居数日，其下不知所为，数请出自效，辄不许。夜与数卒服盗服，迹盗所尝行处，入民家，老小皆走，独一媪留为治饮食，如事群盗。怿归，闭栅三日，复往，自携具就媪馔，而以余遗媪。媪以为真盗，乃稍就，与语及群盗，媪曰：“彼闻桑殿直来，皆遁去。近闭营不出，知其不足畏，今皆还矣，某在某处，某在某所。”怿又三日往，厚遗之，遂以实告曰：“我桑殿直也，为我察其实勿泄，后三日复来。”又三日而往，媪尽得居处之实，以告怿。明日，部分军士，尽擒诸盗，其尤强梁者，怿自驰马取之。见本传。</p>
+<p>　　按：怿先闭栅谲贼，使不走；乃因媪迹贼，使不觉；然后悉擒之；皆兵法也。</p>
+<p>　　后汉虞诩为朝歌长时，贼宁季等数千人攻杀长吏，屯聚连年，州郡不能禁。诩到官，既诱令劫掠，伏兵杀之；又潜遣贫人能缝者，佣作贼衣，以采线缝其裾为识，有出市里者，吏辄擒之。贼遂骇散，咸称神明。出后汉书本传。是亦兵法也。然于迹贼之术，悉皆有所考焉，顾用者如何耳，故并着之以备采择也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20010.aspx">上一章</a>
+<a href="/guwen/book_271.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20012.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,119 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·巫咸撮要五_古诗文网
+</title>
+<meta content="天元赢弱失时，难获延年。日主高强化鬼，当膺厚福。日旺无依，离祖迁居。若不迁居，死在外地。日旺无依，损财伤妻。若不伤妻，外家零落。正官被合，平生名利皆虚。七煞被合，处世反凶为吉。煞旺" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16655.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·巫咸撮要五</b></span>
+<a href="javascript:PlayBookv(16655)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16655" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16655" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　天元赢弱失时，难获延年。日主高强化鬼，当膺厚福。</p>
+<p>　　日旺无依，离祖迁居。若不迁居，死在外地。</p>
+<p>　　日旺无依，损财伤妻。若不伤妻，外家零落。</p>
+<p>　　正官被合，平生名利皆虚。</p>
+<p>　　七煞被合，处世反凶为吉。</p>
+<p>　　煞旺更值身衰，衣食奔走。</p>
+<p>　　官柔又遇煞扰，行藏汨没。</p>
+<p>　　财旺身强，资财迭积。假如：、甲辰甲戌落寅亥，金帛满屋。</p>
+<p>　　丁亥丁卯到酉亥，珍宝盈室。</p>
+<p>　　六甲日遇庚辛，若重多必主灾厄。</p>
+<p>　　六丙身居亥子，无制伏定是贫儒。</p>
+<p>　　行运得失，更当详察。</p>
+<p>　　得地失时，如田畴得雨。得时失地，如輗损涂泥。</p>
+<p>　　得时者亦能举跃，失地者难以升迁。</p>
+<p>　　故火到南方而荣，水临北地而盛。</p>
+<p>　　土到东而病，木至西而衰，金入北而沉。</p>
+<p>　　旺处生而死处灭，死处生而旺处脱。</p>
+<p>　　岁运俱伤日主，遇之命必亏危。</p>
+<p>　　气运与祖气伤残，门户与父母俱损。</p>
+<p>　　运神克岁，刑讼来临。岁克运神，官灾竞起。</p>
+<p>　　金主刀刃刑伤，水主江河覆溺。木则悬梁自缢，虎咬龙嗔。</p>
+<p>　　火则夜眠压倒，焚死蛇伤。土乃墙推土陷。五行煞重，当如此详。</p>
+<p>　　又曰：有化而不化之由，聚而不聚之机，合而不合之类，秀而不秀之实。</p>
+<p>　　化而不化损于贵，聚而不聚损于财，合而不合损于官，秀而不秀损于福。</p>
+<p>　　又有不化而化之因，不聚而聚之机，不合而合之理，不秀而秀之用。</p>
+<p>　　不化而化者，定居权贵。不聚而聚者，终于富足。</p>
+<p>　　不合而合者，必迁高职。不秀而秀者，须享禄位。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16654.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16656.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

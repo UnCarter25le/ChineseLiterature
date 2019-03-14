@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷一·新郎_古诗文网
+</title>
+<meta content="江南梅孝廉耦长，言其乡孙公为德州宰，鞫一奇案：初，村人有为子娶妇者，新人入门，戚里毕贺。饮至更余，新郎出，见新妇炫装，趋转舍后，疑而尾之。宅后有长溪，小桥通之。见新妇渡桥径去，益疑" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11434.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·新郎</b></span>
+<a href="javascript:PlayBookv(11434)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11434" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11434" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　江南梅孝廉耦长，言其乡孙公为德州宰，鞫一奇案：初，村人有为子娶妇者，新人入门，戚里毕贺。饮至更余，新郎出，见新妇炫装，趋转舍后，疑而尾之。宅后有长溪，小桥通之。见新妇渡桥径去，益疑。呼之不应。遥以手招婿，婿急趁之。相去盈尺，而卒不可及。行数里，入村落。妇止，谓婿曰：“君家寂寞，我不惯住。请与郎暂居妾家数日，便同归省。”言已，抽簪叩扉轧然，有女童出应门。妇先入，不得已从之。既入，则岳父母俱在堂上，谓婿曰：“我女少娇惯，未尝一刻离膝下，一旦去故里，心辄戚戚。今同郎来，甚慰系念。居数日，当送两人归。”乃为除室，床褥备具，遂居之。</p>
+<p>　　家中客见新郎久不至，共索之。室中惟新妇在，不知婿之何往。由是遐迩访问，并无耗息。翁媪零涕，谓其必死。将半载，妇家悼女无偶，遂请于村人父，欲别醮女。村人父益悲，曰：“骸骨衣裳，无所验证，何知吾儿遂为异物！纵其奄丧，周岁而嫁，当亦未晚，胡为如是急耶！”妇父益衔之，讼于庭。孙公怪疑，无所措力，断令待以三年，存案，遣去。村人子居女家，家人亦大相忻待。每与妇议归，妇亦诺之，而因循不即行。积半年余，中心徘徊，万虑不安。欲独归，而妇固留之。一日合家遑遽，似有急难。仓卒谓婿曰：“本拟三二日遣夫妇偕归，不意仪装未备，忽遘闵凶。不得已先送郎还。”于是送出门，旋踵即返，周旋言动，颇甚草草。方欲觅途，回视院宇无存，但见高冢，大惊。寻路急归至家，历述端末，因与投官陈诉。孙公拘妇父谕之，送女于归，使合卺焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11433.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11435.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

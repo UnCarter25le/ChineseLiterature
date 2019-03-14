@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+睡虎地秦墓竹简·秦律十八种·徭律_古诗文网
+</title>
+<meta content="御中發徵，乏弗行，貲二甲。失期三日到五日，誶；六日到旬，貲一盾；過旬，貲一甲。其得（也），及詣。水雨，除興。興徒以為邑中之紅（功）者，令（嫴）堵卒歲。未卒堵壞，司空將紅（功）及" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6561.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5601" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>秦律十八种·徭律</b></span>
+<a href="javascript:PlayBookv(6561)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6561" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5601)" id="leftbtn5601" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6561" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　御中發徵，乏弗行，貲二甲。失期三日到五日，誶；六日到旬，貲一盾；過旬，貲一甲。其得（也），及詣。水雨，除興。興徒以為邑中之紅（功）者，令（嫴）堵卒歲。未卒堵壞，司空將紅（功）及君子主堵者有罪，令其徒復垣之，勿計為（徭）。縣葆禁苑、公馬牛苑，興徒以斬（塹）垣離（籬）散及補繕之，輒以效苑吏，苑吏循之。未卒歲或壞（），令縣復興徒為之，而勿計為（徭）。卒歲而或（）壞，過三堵以上，縣葆者補繕之；三堵以下，及雖未盈卒歲而或（）道出入，令苑輒自補繕之。縣所葆禁苑之傅山、遠山，其土惡不能雨，夏有壞者，勿稍補繕，至秋毋（無）雨時而以（徭）為之。其近田恐獸及馬牛出食稼者，縣嗇夫材興有田其旁者，無貴賤，以田少多出人，以垣繕之，不得為（徭）。縣毋敢擅壞更公舍官府及廷，其有欲壞更（也），必之。欲以城旦舂益為公舍官府及補繕之，為之，勿。縣為恒事及有為（也），吏程攻（功），贏員及員自二日以上，為不察。上之所興，其程攻（功）而不當者，如縣然。度攻（功）必令司空與匠度之，毋獨令匠。其不審，以律論度者，而以其實為（徭）徒計。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6560.aspx">上一章</a>
+<a href="/guwen/book_80.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6562.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5601" style="width:580px; display:none;"></div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

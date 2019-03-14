@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+神峰通考·序_古诗文网
+</title>
+<meta content="神峰子曰：天之所赋者命。穷达夭寿，系诸气禀之先，虽圣贤鬼神莫能移，故君子居易以俟命，惟不知命，无以为君子。然命之理，溯其源则肇於轩辕氏，始有干支之降，师大挠作甲子，遂以人之年月日时" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17541.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>序</b></span>
+<a href="javascript:PlayBookv(17541)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17541" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17541" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e6%a5%a0">张楠</a></p>
+<div class="contson">
+<p>　　神峰子曰：天之所赋者命。穷达夭寿，系诸气禀之先，虽圣贤鬼神莫能移，故君子居易以俟命，惟不知命，无以为君子。然命之理，溯其源则肇於轩辕氏，始有干支之降，师大挠作甲子，遂以人之年月日时所生，谓之命焉！盖与天赋之命其揆一也，但先未有书，至唐袁守成始作指南五星书，吕才作合婚书，一行禅师作星历书；五代有辘轳书；前宋有殿驾书；南宋辽金有乔拗书；元有耶律楚材书，裴大猷有琴堂虚实书，均以人之生年五行纳音所属身命限度为之主，七曜四余为之用。明朝徐均作子平书，专以日干为主本，月令为用神，岁时为辅佐，则命书之作至此尽矣。其故何欤？盖五星之为说，只以生年为主，月与日时或遗焉。或以纳音为主，干与支或遗焉。孰若子平之理独得其中。日通月气，岁与时为脉络，日为身主，月为巢穴，岁与时为门户，得於此而不遗於彼，通於上而不遗於下，抑有余补不及，中正之道孰外是焉。</p>
+<p>　　愚涉猎群书，颇诣旨趣，独观命理，有《五星指南》、《琴堂书》、《子平渊海》书宗，其理出之正，法立之善，但其中间颇有不根之言，进退之说，无确然一定示人之见。后世缘此立说益多益滋人惑，虽授受不过袭谬，殆若行者迷道，问盲人指示焉！是以究之穷陬极壤，尽皆招摇售术，听其言则是，校其理则非，瞽目惑心，竟无一人能捋其堂陛而撮其枢要也。　呜呼！非惟诬人，实自诬也，予深慨焉！由是细心讲究已四十余年矣。一旦恍然觉其有一者，似是之非不惭肤见，乃立五星正说、五星谬说、子平诸格正说、子平诸格谬说、动静说、盖头说、六亲说、病药说、雕枯旺弱生长八法说、人命见验说，盖取诸尊崇正理，辟诸谬说之意，名之曰《命理正宗》，授诸梓而刊之，极知诬诞罪不容逭，尚俟知者正其得失，庶有补六艺中之万一云尔。实用生命哲学：有病方为贵，无伤不是奇，格中若去病，财禄两相随。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_208.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17542.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+列女传·孽嬖传·周幽褎姒_古诗文网
+</title>
+<meta content="褎姒者，童妾之女，周幽王之后也。初，夏之衰也，褎人之神化为二龙，同于王庭而言曰：“余，褒之二君也。”夏后卜杀之与去，莫吉。卜请其漦藏之而吉，乃布币焉。龙忽不见，而藏漦椟中，乃置之郊" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14485.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>孽嬖传·周幽褎姒</b></span>
+<a href="javascript:PlayBookv(14485)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14485" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14485" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　褎姒者，童妾之女，周幽王之后也。初，夏之衰也，褎人之神化为二龙，同于王庭而言曰：“余，褒之二君也。”夏后卜杀之与去，莫吉。卜请其漦藏之而吉，乃布币焉。龙忽不见，而藏漦椟中，乃置之郊，至周，莫之敢发也。及周厉王之末，发而观之，漦流于庭，不可除也。王使妇人裸而噪之，化为玄蚖，入后宫，宫之童妾未毁而遭之，既笄而孕，当宣王之时产。无夫而乳，惧而弃之。先是有童谣曰：“弧箕服，寔亡周国。”宣王闻之。后有人夫妻卖弧箕服之器者，王使执而戮之，夫妻夜逃，闻童妾遭弃而夜号，哀而取之，遂窜于褒。长而美好，褎人姁有狱，献之以赎，幽王受而嬖之，遂释褒姁，故号曰褎姒。既生子伯服，幽王乃废后申侯之女，而立褎姒为后，废太子宜咎而立伯服为太子。幽王惑于褎姒，出入与之同乘，不恤国事，驱驰弋猎不时，以适褎姒之意。饮酒流湎，倡优在前，以夜续昼。褎姒不笑，幽王乃欲其笑，万端，故不笑，幽王为烽燧大鼓，有寇至，则举，诸侯悉至而无寇，褎姒乃大笑。幽王欲悦之，数为举烽火，其后不信，诸侯不至。忠谏者诛，唯褒姒言是从。上下相谀，百姓乖离，申侯乃与缯西夷犬戎共攻幽王，幽王举烽燧征兵，莫至，遂杀幽王于骊山之下，虏褒姒，尽取周赂而去。于是诸侯乃即申侯，而共立故太子宜咎，是为平王。自是之后，周与诸侯无异。诗曰：“赫赫宗周，褎姒灭之。”此之谓也。</p>
+<p>　　颂曰：褎神龙变，寔生褎姒，兴配幽王，废后太子，举烽致兵，笑寇不至，申侯伐周，果灭其祀。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14484.aspx">上一章</a>
+<a href="/guwen/book_166.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14486.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

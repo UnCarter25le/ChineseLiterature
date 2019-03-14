@@ -1,0 +1,128 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·看命口诀十四_古诗文网
+</title>
+<meta content="或问兴亡生死？答曰：凡人命中有煞为用，煞神未制，则为白屋穷途之人，或作豪门卓荦之士，要逢制伏运，假煞而兴。切不可脱制伏运，一入财乡财能党煞，再遇流年财煞助旺，并力为殃，身主孤寒。克" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16650.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·看命口诀十四</b></span>
+<a href="javascript:PlayBookv(16650)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16650" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16650" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　或问兴亡生死？</p>
+<p>　　答曰：凡人命中有煞为用，煞神未制，则为白屋穷途之人，或作豪门卓荦之士，要逢制伏运，假煞而兴。</p>
+<p>　　切不可脱制伏运，一入财乡财能党煞，再遇流年财煞助旺，并力为殃，身主孤寒。克害轻则倾家徒流，重则刑弃其身。煞神并合凶亡可畏，如此阳刃同论。</p>
+<p>　　又有柱中月令，正气官星为一生富贵，惟逢财印则利。官星喜财旺以生之，印旺以护之。故令其人能行仁布德，纬国经邦，权重爵高。</p>
+<p>　　之后煞神得位，岁煞并临，官化为鬼，丧身必矣。</p>
+<p>　　不行煞运或行伤官运，又无印绶制之，伤官得地贵禄遭伤。丧妻克子，剥职生灾，更遇流年党他，必致身亡惨恶。</p>
+<p>　　如有高见明识，知进退存亡之机，而保其身者，不遭非横，亦自己恶疾而终。</p>
+<p>　　又有柱中所专用神，无官煞气，惟偏正财旺。财神当道，隐隐兴隆，积财聚富，但少贵耳。再看行运何如？如逢官禄旺乡，富贵双全。</p>
+<p>　　设有不幸，财神脱局，阳刃相逢，更遇流年冲合阳刃，财神尽伤元命衰绝，阳刃生灾败亡必矣。</p>
+<p>　　生死则以格局论：</p>
+<p>　　如印绶见财，行财运又兼死绝，必入黄泉。柱有比肩，庶几有解。</p>
+<p>　　正官见煞及伤官刑冲破害，岁运相并必死。</p>
+<p>　　正财偏财见比肩分夺，阳刃劫财，岁运冲合必死。</p>
+<p>　　伤官之格，财旺身弱，官煞重见，混杂冲刃，岁运又见必死。有制则伤残。</p>
+<p>　　拱禄拱贵填实，又见官煞，劫亡冲刃，岁运重见即死。</p>
+<p>　　日禄归时，刑冲破害见七煞，官星空亡冲刃必死。</p>
+<p>　　煞官大忌岁运相并必死。</p>
+<p>　　其余诸格并忌煞及填实，岁运并临必死。</p>
+<p>　　会诸凶神恶煞，勾绞、元辰、亡神、劫煞、吊客、墓、病、死宫诸煞，九死一生。</p>
+<p>　　财官太多身弱，元犯七煞身轻，</p>
+<p>　　如丙丁日干，年月时庚辛，加酉运或庚辛年必死。</p>
+<p>　　甲乙日干，庚辛月时夹杂，年运见庚辛必死。若有救则吉，无救定凶。</p>
+<p>　　五行神煞，金多夭折，水盛漂流，木旺则夭，土多痴呆，火多愚顽，太过不及作此论。一不可拘，二须敢断，求其生死，决定无疑。</p>
+<p>　　至若五行生死：</p>
+<p>　　如壬日生在二月行申运即死，生在七月行卯运即死，乃遇生怕死，即死怕生。造化与人事一也，须并看之。</p>
+<p>　　尝谓人之生死，年月日时俱皆前定，姑举一二。</p>
+<p>　　如定兴张易金，嘉熙二年仲秋，以儿妇马睦阁临盆，乞灵宝泉寺当境神梦，金狗、玉鸡、黄羊、青犬次第而至逮生勇九。淮王则戊戌、辛酉巳未、甲戌八字，果应淮王云孙壅七公相。</p>
+<p>　　亦占嗣于江文通祠，梦始出疲赤犬，再见肥黄狗在路傍，及白马立平地木左复睹赭猪联咬犬尾入屋，上土公相。自忖度乃丙戌、戊戌、庚午、丁亥年月日时成化。岁次暮秋朔后夜半甫生子果验。</p>
+<p>　　又元文式五师生大德，丁未岁正月十七日壬午申时，至明洪武己未元旦，梦中得黄羊触数七十有三至斯际果逝。</p>
+<p>　　其子式敬筹六老，梦数白兔入内，姜沉闺怀，及顺帝十一年仲春甲辰眛爽产淑，正求二者四柱皆辛卯，后人有记云历周，追忆古人心，仰止高山，直到今睆兔两只生梦兆，四重辛卯又逢阴。</p>
+<p>　　又白鸡、银鼠应辛酉、庚子之祥，白鸡在酉值太岁不起之兆。</p>
+<p>　　由上数事观之，人之生死信前定矣哉。</p>
+<p>　　若尹子常梦，巳达午厄寅灭，后见蛇入穴得金，坠马虎啮皆符。</p>
+<p>　　孝介经三叟梦达逵，逢乙巳对局至成化，三十一年周，是干支登耋寿。四月望日进宣义郎，秩孙干父亦同前。梦后复以正德四年乙巳仲夏，遂升卫侯。又古人祈梦问子孙于土地神，得诗云：犬羊父母青龙子，赤马黄驹与白鸡，孙虎曾同翁属肖丙隆一气，应多齐解者。以其伯子生甲辰，仲子生丙午，叔子生戊午，季子生辛酉，长孙生寅，曾孙生丙戌，推算皆验。是一家祖父子孙，其生皆前定也。</p>
+<p>　　又古人祈嗣社庙，神示诗云：左龙右虎赤同方，只怕炎猴及木羊，三十八年生死隔，风云际会总无常。其后生死年月日时，无不符验。</p>
+<p>　　古人谓饮啄莫非前定，况功名乎！况生死乎！况子孙乎！彼不知命而妄图者，其不为鬼神所笑者几希。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16649.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16651.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

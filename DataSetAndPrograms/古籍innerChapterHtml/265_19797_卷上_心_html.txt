@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+北溪字义·卷上·心_古诗文网
+</title>
+<meta content="心者一身之主宰也，人之四肢运动，手持足履，与夫饥思食、渴思饮、夏思葛、冬思裘，皆是此心为之主宰。如今心恙底人，只是此心为邪气所乘，内无主宰，所以日用间饮食动作，皆失其常度，与平人异" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19797.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷上·心</b></span>
+<a href="javascript:PlayBookv(19797)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19797" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19797" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%88%e6%b7%b3">陈淳</a></p>
+<div class="contson">
+<p>　　心者一身之主宰也，人之四肢运动，手持足履，与夫饥思食、渴思饮、夏思葛、冬思裘，皆是此心为之主宰。如今心恙底人，只是此心为邪气所乘，内无主宰，所以日用间饮食动作，皆失其常度，与平人异。理义都丧了，只空有个气，仅往来于脉息之间未绝耳。大抵人得天地之理为性，得天地之气为体。理与气合，方成个心，有个虚灵知觉，便是身之所以为主宰处。然这虚灵知觉，有从理而发者，有从心而发者，又各不同也。</p>
+<p>　　心只似个器一般，里面贮底物便是性。康节谓：性者心之郛郭。说虽粗而意极切，盖郛郭者心也，郛郭中许多人烟，便是心中所具之理相似，所具之理便是性，即这所具底便是心之本体。理具于心，便有许多妙用。知觉从理上发来，便是仁义礼智之心，便是道心。若知觉从形气上发来，便是人心，便易与理相违。人只有一个心，非有两个知觉。只是所以为知觉者不同，且如饥而思食，渴而思饮，此是人心。至于食所当食，饮所当饮，便是道心。如有人饥饿濵死而蹴尔嗟来等食皆不肯受，这心从何处发来？然其嗟也可去，其谢也可食，此等处理义又隐微难晓，须是识见十分明彻方辨别得。</p>
+<p>　　心有体有用，具众理者其体，应万事者其用。寂然不动者其体，感而遂通者其用。体即所谓性，以其静者言也。用即所谓情，以其动者言也。圣贤存养工夫至到，方其静而未发也，全体卓然，如鉴之空、如衡之平，常定在这里。及其动而应物也，大用流行，妍媸高下各因物之自尔，而未尝有丝毫铢两之差。而所谓鉴空衡平之体，亦常自若，而未尝与之俱往也。</p>
+<p>　　性只是理。全是善而无恶。心含理与气，理固全是善，气便含两头在，未便全是善底物。才动便易从不善上去。心是个活物，不是帖静死定在这里，常爱动。心之动，是乘气动。故文公感兴诗曰：人心妙不测，出入乘气机。正谓此也。心之活处，是因气成便会活，其灵处，是因理与气合便会灵。所谓妙者，非是言至好，是言其不可测。忽然出，忽然入，无有定时；忽在此，忽在彼，亦无定处，操之便存在此，舍之便亡失了。故孔子曰：操则存，舍则亡，出入无时，莫知其乡者，惟心之谓与？存便是入，亡便是出。然出非是本体走出外去，只是邪念感物逐他去，而本然之正体遂不见了。入非是自外面已放底牵入来，只一念提撕警觉便在此。人须是有操存涵养之功，然后本体常卓然在中，为之主宰，而无亡失之患。所贵于问学者，为此也。故孟子曰：学问之道无他，求其放心而已矣。此意极为人亲切。 中国古籍全录</p>
+<p>　　心虽不过方寸大，然万化皆从此出，正是源头处。故子思以未发之中为天下之大本，已发之和为天下之达道。</p>
+<p>　　仁者，心之生道也。敬者，心之所以生也。</p>
+<p>　　此心之量极大，万理无所不包，万事无所不统。古人每言学，必欲其博。孔子所以学不厌者，皆所以极尽乎此心无穷之量也。孟子所谓尽心者，须是尽得个极大无穷之量，无一理一物之或遗，方是真能尽得心。然孟子于诸侯之礼未之学，周室班爵禄之制未尝闻，毕竟是于此心无穷之量终有所欠缺未尽处。</p>
+<p>　　心至灵至妙，可以为尧舜，参天地，格鬼神，虽万里之远，一念便到；虽千古人情事变之秘，一照便知。虽金石至坚，可贯；虽物类至微至幽，可通。</p>
+<p>　　佛家论性，只似儒家论心。他只把这人心那个虚灵知觉底唤作性了。</p>
+<p>　　伊川曰：心一也，有指体而言者，寂然不动是也；有指用而言者，感而遂通是也。此语亦说得圆。横渠曰：心统性情。尤为语约而意备，自孟子后未有如此说亲切者。文公曰：性者心之理，情者心之用，心者情性之主。说得又条畅明白。</p>
+<p>　　横渠曰：合虚与气，有性之名。合性与知觉，有心之名。虚是以理言，理与气合，遂生人物。人物受得去成这性，于是乎方有性之名。性从理来，不离气。知觉从气来，不离理。合性与知觉，遂成这心，于是乎方有心之名。</p>
+<p>　　程子曰：上天之载，无声无臭，其体则谓之易，其理则谓之道，其用则谓之神。此处是言天之心性情，所谓易便是心，道便是性，神便是情。所谓体者，非体用之体，乃其形状模样恁地，易是阴阳变化，合理与气说。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19796.aspx">上一章</a>
+<a href="/guwen/book_265.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19798.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

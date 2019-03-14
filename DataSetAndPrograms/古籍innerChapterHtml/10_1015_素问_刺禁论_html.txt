@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·刺禁论_古诗文网
+</title>
+<meta content="黄帝问曰：愿闻禁数。岐伯对曰：藏有要害，不可不察，肝生于左，肺藏于右，心部于表，肾治于里，脾为之使，胃为之市。鬲肓之上，中有父母，七节之傍，中有小心，从之有福，逆之有咎。刺中心，一" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1015.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left835" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·刺禁论</b></span>
+<a href="javascript:PlayBookv(1015)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1015" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(835)" id="leftbtn835" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1015" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问曰：愿闻禁数。</p>
+<p>　　岐伯对曰：藏有要害，不可不察，肝生于左，肺藏于右，心部于表，肾治于里，脾为之使，胃为之市。鬲肓之上，中有父母，七节之傍，中有小心，从之有福，逆之有咎。</p>
+<p>　　刺中心，一日死，其动为噫。刺中肝，五日死，其动为语。刺中肾，六日死，其动为嚏。刺中肺，三日死，其动为咳。刺中脾，十日死，其动为吞。刺中胆，一日半死，其动为呕。</p>
+<p>　　刺跗上，中大脉，血出不止死。刺面，中溜脉，不幸为盲。刺头，中脑户，入脑立死。刺舌下，中脉太过，血出不止为瘖。刺足下布络中脉，血不出为肿。刺郄中大脉，令人仆脱色。刺气街中脉，血不出为肿，鼠仆。刺脊间中髓，为伛。刺乳上，中乳房，为肿，根蚀。刺缺盆中内陷，气泄，令人喘咳逆。刺手鱼腹内陷，为肿。</p>
+<p>　　无刺大醉，令人气乱。无刺大怒，令人气逆。无刺大劳人，无刺新饱人，无刺大饥人，无刺大渴人，无刺大惊人。</p>
+<p>　　刺阴股中大脉，血出不止死。刺客主人内陷中脉，为内漏、为聋。刺膝髌出液，为跛。刺臂太阴脉，出血多立死。刺足少阴脉，重虚出血，为舌难以言。刺膺中陷，中肺，为喘逆仰息。刺肘中内陷，气归之，为不屈伸。刺阴股下三寸内陷，令人遗溺。刺掖下胁间内陷，令人咳。刺少腹，中膀胱，溺出，令人少腹满。刺（月耑）肠内陷为肿。刺匡上陷骨中脉，为漏、为盲。刺关节中液出，不得屈伸。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1014.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1016.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right835" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·卫气_古诗文网
+</title>
+<meta content="黄帝曰：五脏者，所以藏精神魂魄者也；六腑者，所以受水谷而行化物者也。其气内干五脏，而外络肢节。其浮气之不循经者，为卫气；其精气之行于经者，为营气。阴阳相随，外内相贯，如环之无端。亭" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1096.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left920" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·卫气</b></span>
+<a href="javascript:PlayBookv(1096)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1096" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(920)" id="leftbtn920" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1096" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝曰：五脏者，所以藏精神魂魄者也；六腑者，所以受水谷而行化物者也。其气内干五脏，而外络肢节。其浮气之不循经者，为卫气；其精气之行于经者，为营气。阴阳相随，外内相贯，如环之无端。亭亭淳淳乎，孰能窃之。然其分别阴阳，皆有标本虚实所离之处。能别阴阳十二经者，知病之所生；候虚实之所在者，能得病之高下；知六腑之气街者，能知解结契绍于门户；能知虚石之坚软者，知补泻之所在；能知六经标本者，可以无惑于天下。</p>
+<p>　　歧伯曰：博哉！圣帝之论。臣请尽意悉言之。</p>
+<p>　　足太阳之本，在跟以上五寸中，标在两络命门。命门者，目也。足少阳之本，在窍阴之间，标在窗笼之前。窗笼者，耳也。足少阴之本，在内踝下上三寸中，标在背输与舌下两脉也。足厥阴之本，在行间上五寸所，标在背腧也。足阳明之本，在厉兑，标在人迎，颊挟颃颡也。足太阴之本，在中封前上四寸之中，标在背腧与舌本也。</p>
+<p>　　手太阳之本，在外踝之后，标在命门之上一寸也。手少阳之本，在小指次指之间上二寸，标在耳后上角下外眦也。手阳明之本，在肘骨中，上至别阳，标在颜下合钳上也。手太阴之本，在寸口之中，，标在腋内动也。手少阴之本，在锐骨之端，标在背腧也。手心主之本，在掌后两筋之间二寸中，标在腋下下三寸也。</p>
+<p>　　凡候此者，下虚则厥，下盛则热；上虚则眩，上盛则热痛。故石者，绝而正之，虚者，引而起之。请言气街，胸气有街，头气有街，胫气有街。故气在头者，止之于脑；气在胸者，止之膺与背腧；气在腹者，止之背腧，与冲脉于脐左右之动脉者；气在胫者，止于气街，与承山踝上以下。取此者，用毫针，必先按而在久应于手，乃刺而予之。所治者，头痛眩仆腹痛中满暴胀，及有新积痛可移者，易已也；积不痛，难已也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1095.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1097.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right920" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

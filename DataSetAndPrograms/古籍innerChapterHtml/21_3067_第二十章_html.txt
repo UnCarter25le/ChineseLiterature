@@ -1,0 +1,115 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+中庸·第二十章_古诗文网
+</title>
+<meta content="哀公问政。子曰，「文武之政，布在方策。其人存，则其政举；其人亡，则其政息。」「人道敏政，地道敏树。夫政也者，蒲卢也。」「故为政在人。取人以身。修身以道。修道以仁。」「仁者，人也，亲" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3067.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1633" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第二十章</b></span>
+<a href="javascript:PlayBookv(3067)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3067" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1633)" id="leftbtn1633" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3067" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%94%e4%bc%8b">孔伋</a></p>
+<div class="contson">
+<p>　　哀公问政。</p>
+<p>　　子曰，「文武之政，布在方策。其人存，则其政举；其人亡，则其政息。」</p>
+<p>　　「人道敏政，地道敏树。夫政也者，蒲卢也。」</p>
+<p>　　「故为政在人。取人以身。修身以道。修道以仁。」</p>
+<p>　　「仁者，人也，亲亲为大。义者，宜也，尊贤为大。亲亲之杀，尊贤之等，礼所生也。」</p>
+<p>　　「在下位，不获乎上，民不可得而治矣。」</p>
+<p>　　「故君子，不可以不修身。思修身，不可以不事亲。思事亲，不可以不知人。思知人，不可以不知天。」</p>
+<p>　　「天下之达道五，所以行之者三，曰：君臣也、父子也、夫妇也、昆弟也、朋友之交也。五者，天下之达道也。知、仁、勇三者，天下之达德也。所以行之者一也。」</p>
+<p>　　「或生而知之；或学而知之；或困而知之：及其知之，一也。或安而行之；或利而行之；或勉强而行之：及其成功，一也。」</p>
+<p>　　子曰，「好学近乎知。力行近乎仁。知耻近乎勇。」</p>
+<p>　　「知斯三者，则知所以修身。知所以修身，则知所以治人。知所以治人，则知所以治天下国家矣。」</p>
+<p>　　「凡为天下国家有九经，曰：修身也、尊贤也、亲亲也、敬大臣也、体群臣也、子庶民也、来百工也、柔远人也、怀诸侯也。」</p>
+<p>　　「修身，则道立。尊贤，则不惑。亲亲，则诸父昆弟不怨。敬大臣，则不眩。体群臣，则士之报礼重。子庶民，则百姓劝。来百工，则财用足。柔远人，则四方归之。怀诸侯，则天下畏之。」</p>
+<p>　　「齐明盛服，非礼不动：所以修身也。去谗远色，贱货而贵德，所以劝贤也。尊其位，重其禄，同其好恶，所以劝亲亲也。官盛任使，所以劝大臣也。忠信重禄，所以劝士也。时使薄敛，所以劝百姓也。日省月试，既禀称事，所以劝百工也。送往迎来，嘉善而矜不能所以柔远人也。继绝世，举废国，治乱持危，朝聘以时，厚往而薄来，所以怀诸侯也。」</p>
+<p>　　「凡为天下国家有九经，所以行之者一也。」</p>
+<p>　　「凡事，豫则立，不豫则废。言前定，则不跲。事前定，则不困。行前定，则不疚。道前定，则不穷。」</p>
+<p>　　「在下位不获乎上，民不可得而治矣。获乎上有道：不信乎朋友，不获乎上矣。信乎朋友有道：不顺乎亲，不信乎朋友矣。顺乎亲有道：反者身不诚，不顺乎亲矣。诚身有道：不明乎善，不诚乎身矣。」</p>
+<p>　　「诚者，天之道也。诚之者，人之道也。诚者，不勉而中不思而得：从容中道，圣人也。诚之者，择善而固执之者也。」</p>
+<p>　　「博学之，审问之，慎思之，明辨之，笃行之。」</p>
+<p>　　「有弗学，学之弗能，弗措也。有弗问，问之弗知，弗措也。有弗思，思之弗得，弗措也。有弗辨，辨之弗明，弗措也。有弗行，行之弗笃，弗措也。人一能之，己百之。人十能之，己千之。」</p>
+<p>　　「果能此道矣，虽愚必明，虽柔必强。」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3066.aspx">上一章</a>
+<a href="/guwen/book_21.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3068.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1633" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

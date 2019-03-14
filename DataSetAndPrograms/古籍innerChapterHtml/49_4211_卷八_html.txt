@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+搜神记·卷八_古诗文网
+</title>
+<meta content="虞舜耕于历山，得“玉历”于河际之岩，舜知天命在己，体道不倦。舜，龙颜，大口，手握褒。宋均注曰：“握褒，手中有‘褒’字，喻从劳苦受褒饬致大祚也。”汤既克夏，大旱七年，洛川竭。汤乃以身" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4211.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2811" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八</b></span>
+<a href="javascript:PlayBookv(4211)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4211" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2811)" id="leftbtn2811" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4211" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b9%b2%e5%ae%9d">干宝</a></p>
+<div class="contson">
+<p>　　虞舜耕于历山，得“玉历”于河际之岩，舜知天命在己，体道不倦。舜，龙颜，大口，手握褒。宋均注曰：“握褒，手中有‘褒’字，喻从劳苦受褒饬致大祚也。”汤既克夏，大旱七年，洛川竭。汤乃以身祷于桑林，翦其爪、发，自以为牺牲，祈福于上帝。于是大雨即至，洽于四海。</p>
+<p>　　吕望钓于渭阳。文王出游猎，占曰：“今曰猎得一狩，非龙，非螭，非熊，非罴。合得帝王师。”果得太公于渭之阳，与语，大悦，同车载而还。</p>
+<p>　　武王伐纣，至河上，雨甚。疾雷，晦冥。扬波于河。众甚惧。武王曰：“余在天下，谁敢干余者？”风波立济。鲁哀公十四年，孔子夜梦三槐之间，丰、沛之邦，有赤氤气起，乃呼颜回、子夏同往观之。驱车到楚西北范氏街，见刍儿打鳞，伤其左前足，束薪而覆之。孔子曰：“儿来！汝姓为谁？”儿曰：“吾姓为赤松，名时乔，字受纪。”孔子曰：“汝岂有所见乎？”儿曰：“吾所见一禽，如麇，羊头，头上有角，其末有肉。方以是西走。”孔子曰：“天下已有主也。为赤刘。陈、项为辅。五星入井，从岁星。”儿发薪下鳞，示孔子。孔子趋而往，鳞向孔子蒙其耳，吐三卷图，广三寸，长八寸，每卷二十四子。其言赤刘当起日周亡，赤气起，火耀兴，玄丘制命，帝卯金。</p>
+<p>　　孔子修春秋，制孝经，既成，斋戒向北辰而拜，告备于天。乃洪郁，起白雾摩地，白虹自上而下，化为黄玉，长三尺，上有刻文。孔子跪受而读之，曰：“宝文出，刘季握。卯，金，刀，在轸北。字禾子，天下服。”</p>
+<p>　　秦穆公时，陈仓人掘地，得物，若羊非羊，若猪非猪。牵以献穆公。道逢二童子，童子曰：“此名为媪。常在地，食死人脑。若欲杀之，以柏插其首。”媪曰：“彼二童子，名为陈宝。得雄者王，得雌者伯。”陈仓人舍媪逐二童子，童子化为雉，飞入平林。陈仓人告穆公，穆公发徒大猎，果得其雌。又化为石。置之汧、渭之间，至文公时，为立祠陈宝。其雄者飞至南阳。今南阳雉县，是其地也。秦欲表其符，故以名县。每陈仓祠时有赤光，长十余丈，从雉县来，入陈仓祠中，有声殷殷如雄雉。其后，光武起于南阳。宋大夫邢史子臣明于天道。周敬王之三十七年，景公问曰：“天道其何祥？”对曰：“后五十年五月丁亥，臣将死。死后五年五月丁卯，吴将亡。亡后五年，君将终。终后四百年，邾王天下。”俄而皆如其言所云。邾王天下者，谓魏之兴也。邾，曹姓，魏亦曹姓，皆邾之后。其年数则错。未知刑史失其数耶？将年代久远，注记者传而有谬也？</p>
+<p>　　吴以草创之国，信不坚固，边屯守将，皆质其妻子，名曰：“保质童子。”少年以类相与娱游者，日有十数。孙休永安三年二月，有一异儿，长四尺余，年可六七岁，衣青衣，忽来从群儿戏。诸儿莫之识也，皆问曰：“尔谁家小儿，今日忽来？”答曰：“见尔群戏乐，故来耳！”详而视之，眼有光芒，爚爚外射。诸儿畏之重问其故。儿乃答曰：“尔恐我乎？我非人也，乃荧惑星也，将有以告尔。三公归于司马。”诸儿大惊，或走告大人，大人驰往观之。儿曰：“舍尔去乎！”耸身而跃，即以化矣。仰而视之，若曳一疋练以登天。大人来者，犹及见焉。飘飘渐高，有顷而没。时吴政峻急，莫敢宣也。后四年而蜀亡，六年而魏废，二十一年而吴平：是归于司马也。</p>
+<p>　　都水马武举戴洋为都水令史，洋请急还乡，将赴洛，梦神人谓之曰：“洛中当败，人尽南渡。年五年，扬州必有天子。”洋信之，遂不去。既而皆如其梦。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4210.aspx">上一章</a>
+<a href="/guwen/book_49.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4212.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2811" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

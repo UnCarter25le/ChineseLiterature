@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+六祖坛经·忏悔·第三节_古诗文网
+</title>
+<meta content="“何名圆满报身？譬如一灯能除千年暗，一智能灭万年愚。莫思向前，已过不可得，常思于后，念念圆明，自见本性。善恶虽殊，本性无二。无二之性，名为实性，于实性中，不染善恶，此名圆满报身佛。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5288.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3627" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>忏悔·第三节</b></span>
+<a href="javascript:PlayBookv(5288)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5288" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3627)" id="leftbtn3627" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5288" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　“何名圆满报身？譬如一灯能除千年暗，一智能灭万年愚。莫思向前，已过不可得，常思于后，念念圆明，自见本性。善恶虽殊，本性无二。无二之性，名为实性，于实性中，不染善恶，此名圆满报身佛。自性起一念恶，灭万劫善因。自性起一念善，得恒沙恶尽，直至无上菩提。念念自见，不失本念，名为报身。”“何名千百亿化身，若不思万法，性本如空。一念思量，名为变化，思量恶事，化为地狱；思量善事，化为天堂。毒害化为龙蛇，慈悲化为菩萨，智慧化为上界，愚痴化为下方。自性变化甚多，迷人不能省觉，念念起恶，常行恶道。回一念善，智慧即生。此名自性化身佛。”“善知识，法身本具，念念自性自见，即是报身佛。从报身思量，即是化身佛，自悟自修自性功德，是真归依。皮肉是色身，色身是宅舍，不言归依也。但悟自性三身，即识自性佛。吾有一《无相颂》，若能诵持，言下令汝积劫迷罪，一时消灭。颂曰：迷人修福不修道，只言修福便是道。布施供养福无边，心中三恶元来造。拟将修福欲灭罪，后世得福罪还在。但向心中除罪缘，各自性中真忏悔。忽悟大乘真忏悔，除邪行正即无罪。学道常于自性观，即与诸佛同一类。吾祖唯传此顿法，普愿见性同一体。若欲当来觅法身，离诸法相心中洗。努力自见莫悠悠，后念忽绝一世休。若悟大乘得见性，虔恭合掌至心求。”师言：“善知识，总须诵取，依此修行，言下见性，虽去吾千里，如常在吾边。于此言下不悟，即对面千里，何勤远来，珍重好去。”一众闻法，靡不开悟，欢喜奉行。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5287.aspx">上一章</a>
+<a href="/guwen/book_65.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5289.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3627" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

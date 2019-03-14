@@ -1,0 +1,161 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十一·明通赋五_古诗文网
+</title>
+<meta content="若比肩多，他强我弱，虽减耗，亦得其财。不得均平，止三四分之一。财逢羊刃以多伤，印见妻财而不破。此亦同上文之义。凡命：最忌羊刃，财格被破，印格被夺，官格冲怒。只喜七然制之。阴刃力微无" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16697.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十一·明通赋五</b></span>
+<a href="javascript:PlayBookv(16697)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16697" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16697" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　若比肩多，他强我弱，虽减耗，亦得其财。</p>
+<p>　　不得均平，止三四分之一。</p>
+<p>　　财逢羊刃以多伤，印见妻财而不破。</p>
+<p>　　此亦同上文之义。</p>
+<p>　　凡命：最忌羊刃，财格被破，印格被夺，官格冲怒。</p>
+<p>　　只喜七然制之。阴刃力微无妨。</p>
+<p>　　印见妻财，是贪财坏印之说也。</p>
+<p>　　岁运又见，主破财伤妻，或因妻致讼。</p>
+<p>　　若原无财星，或财星力微，岁运见之，稍轻。</p>
+<p>　　惟官煞进生解劝，反得举荐成名。</p>
+<p>　　食神遇果，无财则夭。身弱有财，重逢正印，亦凶。</p>
+<p>　　制煞逢印，有冲则诛。命强无官，单逢七煞尤胜。</p>
+<p>　　《喜忌》云：柱中七煞全逢，身弱极贫无地。是此义也。</p>
+<p>　　三刑对冲横祸生，羊刃对合非殃至。</p>
+<p>　　沐浴从生无家客，休囚见煞不埋人。</p>
+<p>　　沐浴、休囚，皆身衰也。从生则泛，见煞则伤。</p>
+<p>　　月下劫财主无财，喜煞无印而有获。</p>
+<p>　　煞能制刃，印能化煞。化则不能制刃，故喜煞而去印。</p>
+<p>　　暗中破印亲坏印，喜官无食以加封。</p>
+<p>　　财能破印，官能生印。</p>
+<p>　　有食则坏官生财，印愈受伤，故喜官而去食。</p>
+<p>　　官煞混杂贱患兮，兄弟太多分散兮。</p>
+<p>　　喜印无制能文，喜制无印能武。制印俱有，碌碌难成。</p>
+<p>　　印能化煞，食能制煞。有化莫制。有制莫化。</p>
+<p>　　制化太多，则煞无气，反为不吉。</p>
+<p>　　羊刃全赖煞制，或化作印绶，如戊日午月之类。</p>
+<p>　　是制化止用其一，皆能有成。</p>
+<p>　　禄马背逐饥寒兮，财印相破括囊兮。</p>
+<p>　　喜官带煞为权，爱煞带官为贵。官煞单见，琐琐不遂。</p>
+<p>　　禄马背逐，财印相破，须官煞叠见，方能制比劫而生财，生印绶而化财。单见则力薄弱，岂能遂意？</p>
+<p>　　枭印相杂宠辱兮，财马太多盗气兮。</p>
+<p>　　喜身旺而为福，忌运弱以生灾。</p>
+<p>　　偏正二印相杂，偏正二财俱有。</p>
+<p>　　若身弱不能双成其生，并受其财，中间要分偏正强弱。</p>
+<p>　　若偏印偏财强，身旺运强，骤然发福。正印正财亦然。</p>
+<p>　　官禄克破夭死兮，库墓冲散无餐兮。</p>
+<p>　　忌重破而无依，喜比肩而可救。</p>
+<p>　　官，官星。禄，正禄。</p>
+<p>　　如甲见辛寅，又见庚申，及巳与午之类，岁运再见，即夭。若身旺，有比肩，亦可作旺论。</p>
+<p>　　又如，甲以丑为官库，要得未字冲开，用未不可见二丑。</p>
+<p>　　有丑不可见二未。又忌丁丑、丁未，丁伤辛官之类。</p>
+<p>　　见癸未、癸丑，癸水能制丁火。己丑、己未。己土能生辛官。</p>
+<p>　　己为甲财，癸为甲印，丙为甲食，支干生旺无破者富贵。</p>
+<p>　　稍见冲克，则减分数。冲克太甚，反为贫窘。</p>
+<p>　　以上杂举财官印绶、食神伤官、官煞羊刃、比肩枭神。</p>
+<p>　　相忌相须，相制相合，交互言之，看所用之神何如。</p>
+<p>　　日於强弱如何。</p>
+<p>　　经云：日主最宜健旺，用神不可损伤。斯言简而尽也。</p>
+<p>　　劫财羊刃，切忌时逢。岁运并临，灾殃立至。</p>
+<p>　　岁冲运则崩，运克岁则晦。</p>
+<p>　　此下专论岁运。岁者，天之所盖，运者，地之所载。</p>
+<p>　　岁运不可两相冲激，重则崩，轻则晦。命中最要相和，则天地亨泰，福禄自臻。</p>
+<p>　　太岁冲运，其祸重；运克太岁，则祸轻。考《渊源，渊海》诸说，仅以运克岁为重，岁克运为轻，即日犯岁君之义也。验余命，行丁巳运，遇癸亥流年，癸伤丁亥冲巳，是岁冲运也。其年罢官丧母，受祸最惨，可以例观矣。</p>
+<p>　　阴气终而阳气断，未死堪嗟。</p>
+<p>　　阳数极而阴命追，不俎何待？</p>
+<p>　　甲见辰，丙见未，戊见丑，庚见戌，壬见丑，为阳气极。</p>
+<p>　　乙见戌，丁见丑巳，癸见未、辛见辰，为阴数终。岁运见之尤凶。</p>
+<p>　　又云：乙辰、丁未、己丑、辛戌、亦是阴符来追，阳数先断，若止当生，四柱无害。最怕生既犯，岁运又见，立死。</p>
+<p>　　又云：阴干遇阳极，为阴遇阳关；阳干在阴终，为阳遇阴关。身弱只力皆夭；身旺得比肩党助，则无害。</p>
+<p>　　五行有救，当忧不忧；四时逢空，闻喜不喜。</p>
+<p>　　言人命遇岁运之凶。以上冲克、气终、数极之类，如五行有救，则当忧不忧。四时逢空，是流年太岁遇吉神，却值空亡，则闻喜不喜。</p>
+<p>　　或曰：甲忧庚，得乙可救；</p>
+<p>　　春无土，不怕土为凶，不喜土为福之类。</p>
+<p>　　《经》云：庚辛来伤甲乙，丙丁先见无危。</p>
+<p>　　又云：春无土，夏无金，秋无木，冬无火是也。</p>
+<p>　　以下有论妇人二十句，已引专论妇人门。故不重录。</p>
+<p>　　是以阴阳罕测，不可一途而推；贵贱难分，要执两端而断。略究古圣之遗文，约以今贤之研详。</p>
+<p>　　若遵此法参悟，鉴命庶无差忒。</p>
+<p>　　此总结上文诸格之义。以上指出诸格，俱论前卷诸格下，故不详注。《喜忌篇加继善篇》，是从此赋变化而出，今人但知有此二篇，而不知有此赋。故录之。）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16696.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16698.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

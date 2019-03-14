@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·郄惠连_古诗文网
+</title>
+<meta content="大历中，山阳人郄惠连，始居泗上。以其父尝为河朔官，遂従居清河。父殁，惠连以哀瘠闻。廉使命吏临吊，赠粟帛。既免丧，表授漳南尉。中，山阳人郄惠连，始居泗上。以其父尝为河朔官，遂従居清河" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19420.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>郄惠连</b></span>
+<a href="javascript:PlayBookv(19420)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19420" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19420" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　大历中，山阳人郄惠连，始居泗上。以其父尝为河朔官，遂従居清河。父殁，惠连以哀瘠闻。廉使命吏临吊，赠粟帛。既免丧，表授漳南尉。中，山阳人郄惠连，始居泗上。以其父尝为河朔官，遂従居清河。父殁，惠连以哀瘠闻。廉使命吏临吊，赠粟帛。既免丧，表授漳南尉。</p>
+<p>　　岁余，一夕独处于堂，忽见一人，衣紫佩刀，趋至前，谓惠连曰：“上帝有命，拜公为司命主者，以册立阎波罗王。”即以锦纹箱贮书，进于惠连曰：“此上帝命也。”轴用琼钿，标以纹锦。又象笏紫绶、金龟玉带以赐。惠连且喜且惧，心甚惶惑，不暇顾问，遂受之。立于前轩，有相者趋入，赞曰：“驱殿吏卒且至。”已而有数百人，绣衣红额，左右佩兵器趋入，罗为数行，再拜。一人前曰：“某幸得为使之吏，敢以谢。”词竟又拜。拜讫，分立于前。相者又曰：“五岳卫兵主将。”复有百余人趋入，罗为五行，衣如五方色，皆再拜。相者又曰：“礼器乐悬吏、鼓吹吏、车舆乘马吏、符印簿书吏、帑藏厨膳吏。”近数百人，皆趋而至。有顷，相者曰：“诸岳卫兵及礼器乐悬车与乘马等，请使躬自阅之。”惠连曰：“诸岳卫兵安在？”对曰：“自有所，自有所耳。”惠连即命驾，于是控一白马至，具以金玉，其导引控御従辈，皆向者绣衣也。数骑夹道前驱，引惠连东北而去。传呼甚严。可行数里，兵士万余，或骑或步，尽介金执戈，列于路。枪槊旗旆，文绣交焕。俄见朱门外，有数十人，皆衣绿执笏，曲躬而拜者，曰：“此属吏也。”其门内，悉张帷帘几榻，若王者居。惠连既升阶，据几而坐。俄绿衣者十辈，各斋簿书，请惠连判署。已而相者引惠连于东庑下一院。其前庭有车舆乘马甚多。又有乐鼓箫及符印管钥，尽致于榻上，以黄纹帕蔽之。其榻绕四墉。又有玉册，用紫金填字，似篆籀书，盘屈若龙凤之势。主吏白曰：“此阎波罗王之册也。”有一人具簪冕来谒，惠连与抗礼，既坐，谓惠连曰：“上帝以邺郡内黄县南兰若海悟禅师有德，立心画一册，有阎波罗王礼甚。言以执事有至行，故拜执事为司命主者，统册立使。某幸列宾掾，故得侍左右。”惠连问曰：“阎波罗王居何？”府掾曰：“地府之尊者也，标冠岳渎，总幽冥之务，非有奇特之行者，不在是选。”惠连思曰：“吾行册礼于幽冥，岂非身已死乎？”又念及妻子，怏怏有不平之色。府掾已察其旨，谓惠连曰：“执事有忧色，得非以妻子为念乎？”惠连曰：“然。”府掾曰：“册命之礼用明日，执事可暂归治其家。然执事官至崇，幸不以幽显为恨。”言讫遂起。惠连即命驾出行，而昏然若醉者，即据案假寐。及寤，已在县，时天才晓。且久，自度上帝命，固不可免，即具白妻子，为理命。又白于县令，令曹某不信。惠连遂汤沐，具绅冕，卧于榻。是夕，县吏数辈，皆闻空中有声若风雨，自北来，直入惠连之室。食顷，惠连卒。又闻其声北向而去。叹骇，因遣使往邺郡内黄县南问，果是兰若院禅师海悟者，近卒矣。</p>
+<p>　　惊叹且久，自度上帝命，固不可免，即具白妻子，为理命。又白于县令，令曹某不信。惠连遂汤沐，具绅冕，卧于榻。是夕，县吏数辈，皆闻空中有声若风雨，自北来，直入惠连之室。食顷，惠连卒。又闻其声北向而去。叹骇，因遣使往邺郡内黄县南问，果是兰若院禅师海悟者，近卒矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19419.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19421.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

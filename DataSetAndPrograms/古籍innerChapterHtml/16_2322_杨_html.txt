@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·杨_古诗文网
+</title>
+<meta content="历史来源「杨」源出;一;出自「姬」姓。以国为氏。据《元和姓纂》云。周武王分封其第叔虞于唐邑(山西翼城)。出公子齐，生伯侨，天子封为杨侯，以国为氏。二;为五胡十六国时氐族姓氏，据《晋" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2322.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>杨</b></span>
+<a href="javascript:PlayBookv(2322)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2322" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2322" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong></p>
+<p>　　「杨」源出;</p>
+<p>　　一;出自「姬」姓。以国为氏。据《元和姓纂》云。周武王分封其第叔虞于唐邑(山西翼城)。出公子齐，生伯侨，天子封为杨侯，以国为氏。</p>
+<p>　　二;为五胡十六国时氐族姓氏，据《晋书》云;氐有杨氏，世居仇池(甘肃仇池山)。</p>
+<p>　　三;据《魏书．官氏志》所载，北魏有代北姓「莫胡芦」氏，后改为汉字单姓「杨」氏。</p>
+<p>　　四;出自「扬」姓。以邑为氏。古时有「扬氏邑」。</p>
+<p><strong>家族名人</strong></p>
+<p>　　杨戬(二郎神)</p>
+<p>　　杨坚，杨广</p>
+<p>　　杨玉环(杨贵妃)</p>
+<p>　　杨行密(852～905)</p>
+<p>　　字化源。五代吴国开国君主。庐州合肥人。少为群盗，占据庐州，唐昭宗拜为淮南节度使，封吴王，悉有淮南江东地，在位十五年。后其子溥称帝，追尊为太祖武皇帝。</p>
+<p>　　杨业</p>
+<p>　　宋朝太原人。初事北汉，骁勇善战，赐姓刘，名继业。北汉亡，归宋，刺代州，积功迁云州观察使，后潘美以忠武军节度使北征，业副之，连拔应、寰、朔各州。会契丹国母萧氏率众南下，复陷寰州，业等在朔州，蔚州刺史王侁等偪业赴敌，既战而败，援兵不至，力竭被擒，不食三日死。后杨氏几代杨延昭，杨文广一直为北宋王朝捍卫疆土，杨家将的忠勇事为后人传诵。</p>
+<p>　　杨秀清(？～1856)</p>
+<p>　　原名嗣龙，清朝广西桂平人。因与洪秀全约为兄弟，故改名秀清。与秀全同起事，屡败清兵，封东王，太平军号令几全出自秀清，权势颇盛，故世并称洪杨，后为韦昌辉所杀。</p>
+<p><strong>地望分布</strong></p>
+<p>　　河南弘农郡，甘肃天水郡，河南河内郡。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2321.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2323.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

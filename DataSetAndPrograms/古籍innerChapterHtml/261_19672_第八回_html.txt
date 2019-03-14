@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+北游记·第八回_古诗文网
+</title>
+<meta content="太子头挽阴阳髻却说一日国王升殿，传奏说：“武当山樵夫陈春见太子，揭榜来见我主。”王命宣进，山呼毕，王曰：“卿既揭榜见孤，曾见太子否？”陈春曰：“小民日前见一人，同一道士入武当山去，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19672.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第八回</b></span>
+<a href="javascript:PlayBookv(19672)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19672" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19672" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%99%e8%b1%a1%e6%96%97">余象斗</a></p>
+<div class="contson">
+<p>　　<strong>太子头挽阴阳髻</strong></p>
+<p>　　却说一日国王升殿，传奏说：“武当山樵夫陈春见太子，揭榜来见我主。”王命宣进，山呼毕，王曰：“卿既揭榜见孤，曾见太子否？”陈春曰：“小民日前见一人，同一道士入武当山去，臣思是太子，特来奏王。”王曰：“汝既见二人入山，汝可引路，孤即今指挥汤伯，校尉黄钟，同五百金甲，将卿为引路官，去武当山寻见太子，回来重赏。”陈春谢恩出朝，同指挥等直往武当山进发。</p>
+<p>　　入山中，见太子头梳阴阳角髻，端然坐在石壁之下。众军向前山呼，太子并不发一言，默默而坐。汤伯吩咐金甲将向前去扯太子回朝，只见一霎时间，天昏地暗，狂风大作，飞沙走石，自北方而来，对面不能见人，沙石乱纷纷撒将下来。金甲将大惊，同汤伯等抱头掩耳，走回朝中。</p>
+<p>　　次日国王升殿，汤伯同陈春、黄钟入见，国王问曰：“卿等到武当山，曾见太子被戏下武当子否？”汤伯奏曰：“臣到武当，果见太子坐于岩壁之下。小臣吩咐金甲将向前去请太子回朝，太子半言不答。一霎时间飞沙走石而来，对面不能见人。臣等只得走回，奏知我主。”国上听罢，言曰：“既太子在武当山，寡人即再着陈春为引道官，同文武群臣，带御林军三千，排驾接太子回朝。”</p>
+<p>　　众臣谢恩出朝。次日会齐众僚友，陈春为引道官，一路而行，直抵武当山进发。来到武当山，入见太子，山呼毕，太子曰：“劳动众卿远来，有何话说？”众臣奏曰：“臣等领国王旨意，特来接千岁车驾回朝。”太子曰：“未离国则可，今者谁家慕道，安敢忘佛法而归俗，天地无私，若有一念不静，可不自取其罪乎？”众臣等奏曰：“某等闻人子出家学道，先蒙不孝。今者千岁执意不回，国主老矣，又无再裔即位，昼夜忧心。倘有危时，则何人可为披麻执杖者？又何人可为嗣位之主乎？太子安保不被卿啄之议论，众口之公谈乎？如此则千岁学道未成，而不幸之名则先成矣。众臣乃千岁之赤子，安敢匿过，见而不言乎？乞千岁参详参详。”</p>
+<p>　　太子闻众臣之言，忍不住腮边下泪，亦言曰：“父王无子即位我亦知此久矣。曾问我师，师云，我父王今岁当生一子即位。众卿回奏我父，不必忧虑，卿等请回朝罢。但吾既出家，安有再入朝之理？卿等为臣为子者，尽忠尚不能尽孝，何况出家之人，不能顾父母之劬劳乎？倘得天从人愿，他日入道，则我父母皆为佛矣。如其不然，事由天定，亦不能保其议论也。卿等勿复多言，作速回朝，尽忠辅主，以尽臣职，倘他日我母有弟长成嗣位，亦赖卿等辅政。”众臣见太子不从，立意出家，只得拜辞回朝，一路而回。不知后来如何？且听下回分解。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19671.aspx">上一章</a>
+<a href="/guwen/book_261.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19673.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

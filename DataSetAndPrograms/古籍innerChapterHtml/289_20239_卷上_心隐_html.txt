@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+月波洞中记·卷上·心隐_古诗文网
+</title>
+<meta content="夫欲相之，必先试之性行，相外乃得其真。欲知其性行者，察之于眼，验之于口，则可见矣。心者，神明之舍，目其窍也。其神内守，而其明外鉴，故观其眼可以知其心矣。心主于火，目主于木，火木相生" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20239.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷上·心隐</b></span>
+<a href="javascript:PlayBookv(20239)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20239" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20239" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%83%91%e6%a8%b5">郑樵</a></p>
+<div class="contson">
+　　夫欲相之，必先试之性行，相外乃得其真。欲知其性行者，察之于眼，验之于口，则可见矣。心者，神明之舍，目其窍也。其神内守，而其明外鉴，故观其眼可以知其心矣。心主于火，目主于木，火木相生，乃分轮理。心有五轮，故目有五等。所谓五等，水、火、木、金、土之精也。目如初月者属水，如悬铃者属火，如破梯者属木，如卧弓者属金，如圆杏者属土。初月之目，壬癸之精。水流不远，无信之相也。悬铃之目，丙丁之精，礼乐情怀，似火之德也。破梯之目，甲乙之精，瞻视瞬息，似木这性直，其间亦有虚妄不实者，盖木身虽直，而果味不同故也。卧弓之目，庚辛之精，杀君杀父，阵亡兵死，天生露晴是也。圆杏之目，戊已之精，忠孝信行，似土之德。言者，心之声也。灵气漏露，发而成响，神静则辞寡，神躁则辞多，是以既察之于目，又验之于口。多言数穷，不如守中，周庙金人，三缄其口，君子欲讷于言而敏于行，故知金言无益，最减人相，凡人言语无统绪，好摭人短处，自恃已长处，此人也轻薄无行，众所共恶，摧挫失志，祸从斯起矣。夫聪明豁达者少迟，执迷勾留者多滞。是以君子之性，通而不执；小人之性，执而不通。君子有将来，不期身贵而自贵，虽不徼福而福自至焉。小人无此去，自望身荣，而多得祸焉。故曰凡欲相之，必先试之。凡阅人必详察其骨状，似载栋梁者贵人也。眼有盖而鱼尾远者，主有大禄；天势圆大，旗亭广博，心目分明，品位自崇；瞬息不定，瞻视不常，心性不定之人也。羊眼四白，死于道路，蜂目猪眼，毒而多淫，大小不等，眉头屈曲，若下视者皆寿短之相，精神不定，目急者无信。瞳子微小，赤脉乱侵者，并主恶死。目下小者为善相，四大猖狂，目不自敛，衣食必破。经云：重瞳者未必为贵，眇目者未必为贱。仔细观察相可知矣。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20238.aspx">上一章</a>
+<a href="/guwen/book_289.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20240.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

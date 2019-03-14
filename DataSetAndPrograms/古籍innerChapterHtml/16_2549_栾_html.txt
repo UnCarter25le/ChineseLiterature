@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·栾_古诗文网
+</title>
+<meta content="历史来源　　1、出自姬姓，是黄帝的后裔，是用封邑作为姓氏的。西周的时候，周武王的儿子唐叔虞被封在晋，建立晋国，他的后代有靖侯。晋靖侯的孙子名宾，被封于栾邑（今天的河北省栾城一带），" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2549.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>栾</b></span>
+<a href="javascript:PlayBookv(2549)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2549" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2549" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自姬姓，是黄帝的后裔，是用封邑作为姓氏的。西周的时候，周武王的儿子唐叔虞被封在晋，建立晋国，他的后代有靖侯。晋靖侯的孙子名宾，被封于栾邑（今天的河北省栾城一带），世称栾宾。他的后代于是以封邑地为姓氏，称栾氏。世代为晋国卿士，逐渐成为栾姓望族。<br/>　　2、春秋的时候，晋国大夫栾书的后代。<br/>　　3、出自姜姓，为炎帝的后代，是用人的名字作为姓氏的。西周的时候，姜子牙被封于齐，建立齐国。春秋时，齐惠公的儿子名坚，字子栾，他的子孙用他的名字的“栾”作为姓氏，成为栾氏的一支，望族出于西河魏郡。</p>
+<p><strong>家族名人</strong><br/>　　栾布<br/>　　西汉梁地人。少年的时候受雇于酒家，后来被抢去作了奴隶。后来成为梁王大夫。汉高祖杀彭越，下令不许收尸，栾布冒着被杀的危险哭着把彭越这个好朋友葬了，被官吏判处为死刑。栾布说：“彭越是我的好朋友，他因为一点小事就遭到杀害，这里的大臣们着急 自己和彭越一样因为小事就遭杀。我也一样，到不如趁早杀了我吧。”汉高祖听了以后，觉得他讲的没错，又因为佩服他的勇气与义气，免了他的罪，封他为都尉。文帝时候，栾布做了燕相，封在郦侯。中元五年逝世，燕、齐都为他立社，号栾公社。<br/>　　栾巴<br/>　　字叔元。东汉蜀郡人，一说河南内黄人。性格直爽，学问精深。顺帝的时候做黄门令。先后迁任桂阳、豫章太守和沛相。注重教育，政事明察。因为上书营造顺帝宪陵，被定罪入狱，不准回家20年。陵帝的时候任议郎，后来因为上书为陈蕃和窦武辩冤下狱后自杀。<br/>　　栾书<br/>　　春秋时期的晋国名将。<br/>　　栾文博<br/>　　是后魏时的著名宿儒，有门徒数千人。德林亦就学，始精诗、书。后好内事，于众辈中最玄默。<br/>　　栾崇吉<br/>　　宋代良吏，封丘人。明习文法，为官清廉，勤于政事，以政绩突出而闻名。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）栾姓在大陆和台湾都没有列入百家姓前一百位。栾姓出自姬姓。上古周朝时，周成王的弟弟唐叔虞有个后代叫宾，是晋国的公子，晋靖候的孙子，他被分封在栾（今河省北元氏县东，一说在今河北省城县，亦说今河北栾城）邑，因此被称为栾宾。栾宾的孙子栾枝把邑名作为姓，称为栾氏，世代相传，成为栾姓的起源。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2548.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2550.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

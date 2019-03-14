@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+圆觉经·弥勒菩萨_古诗文网
+</title>
+<meta content="于是，弥勒菩萨在大众中，即从座起，顶礼佛足，右绕三匝，长跪叉手，而白佛言：“大悲世尊，广为菩萨开秘密藏，令诸大众深悟轮回分别邪正，能施末世一切众生无畏道眼，于大涅槃生决定信，无复重" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13956.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>弥勒菩萨</b></span>
+<a href="javascript:PlayBookv(13956)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13956" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13956" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9b%e9%99%80%e5%a4%9a%e7%bd%97%e8%af%91">佛陀多罗译</a></p>
+<div class="contson">
+<p>　　于是，弥勒菩萨在大众中，即从座起，顶礼佛足，右绕三匝，长跪叉手，而白佛言：“大悲世尊，广为菩萨开秘密藏，令诸大众深悟轮回分别邪正，能施末世一切众生无畏道眼，于大涅槃生决定信，无复重随轮转境界起循环见。世尊，若诸菩萨及末世众生，欲游如来大寂灭海，云何当断轮回根本？于诸轮回，有几种性？修佛菩提，几等差别？回入尘劳，当设几种教化方便度诸众生？唯愿不舍救世大悲，令诸修行一切菩萨及末世众生，慧目肃清，照曜心镜，圆悟如来无上知见。”作是语已，五体投地，如是三请，终而复始。 </p>
+<p>　　尔时，世尊告弥勒菩萨言：“善哉！善哉！善男子，汝等乃能为诸菩萨及末世众生，请问如来深奥秘密微妙之义，令诸菩萨洁清慧目，及令一切末世众生永断轮回，心悟实相，具无生忍。汝今谛听，当为汝说。”时弥勒菩萨奉教欢喜，及诸大众默然而听。 </p>
+<p>　　“善男子，一切众生从无始际，由有种种恩爱贪欲故有轮回。若诸世界一切种性——卵生、胎生、湿生、化生，皆因淫欲而正性命。当知轮回，爱为根本。由有诸欲，助发爱性，是故能令生死相续。欲因爱生，命因欲有，众生爱命还依欲本，爱欲为因，爱命为果。由于欲境，起诸违顺境背爱心，而生憎嫉造种种业，是故复生地狱、饿鬼。知欲可厌，爱厌业道，舍恶乐善，复现天人。又知诸爱可厌恶故，弃爱乐舍，还滋爱本，便现有为增上善果，皆轮回故，不成圣道。是故众生欲脱生死，免诸轮回，先断贪欲及除爱渴。善男子，菩萨变化示现世间，非爱为本，但以慈悲令彼舍爱，假诸贪欲而入生死。若诸末世一切众生，能舍诸欲及除憎爱，永断轮回，勤求如来圆觉境界，于清净心便得开悟。 </p>
+<p>　　“善男子，一切众生由本贪欲，发挥无明，显出五性差别不等，依二种障而现深浅。云何二障？一者、理障，碍正知见；二者、事障，续诸生死。云何五性？善男子，若此二障未得断灭，名未成佛。若诸众生永舍贪欲，先除事障，未断理障，但能悟入声闻、缘觉，未能显住菩萨境界。善男子，若诸末世一切众生，欲泛如来大圆觉海，先当发愿勤断二障；二障已伏，即能悟入菩萨境界。若事、理障已永断灭，即入如来微妙圆觉，满足菩提及大涅槃。善男子，一切众生皆证圆觉，逢善知识依彼所作因地法行，尔时修习便有顿渐。若遇如来无上菩提正修行路，根无大小，皆成佛果。若诸众生虽求善友，遇邪见者，未得正悟，是则名为外道种性，邪师过谬，非众生咎。是名众生五性差别。 </p>
+<p>　　“善男子，菩萨唯以大悲方便，入诸世间开发未悟，乃至示现种种形相，逆顺境界，与其同事，化令成佛，皆依无始清净愿力。若诸末世一切众生，于大圆觉起增上心，当发菩萨清净大愿，应作是言：‘愿我今者住佛圆觉，求善知识，莫值外道及与二乘。’依愿修行，渐断诸障，障尽愿满，便登解脱清净法殿，证大圆觉妙庄严域。” </p>
+<p>　　尔时，世尊欲重宣此义，而说偈言： </p>
+<p>　　“弥勒汝当知： 一切诸众生，<br/>　　不得大解脱， 皆由贪欲故，<br/>　　堕落于生死。 若能断憎爱，<br/>　　及与贪瞋痴， 不因差别性，<br/>　　皆得成佛道。 二障永销灭，<br/>　　求师得正悟， 随顺菩萨愿，<br/>　　依止大涅槃。 十方诸菩萨，<br/>　　皆以大悲愿， 示现入生死。<br/>　　现在修行者， 及末世众生，<br/>　　勤断诸爱见， 便归大圆觉。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13955.aspx">上一章</a>
+<a href="/guwen/book_156.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13957.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

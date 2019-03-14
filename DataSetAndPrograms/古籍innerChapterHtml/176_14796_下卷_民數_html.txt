@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+中论·下卷·民數_古诗文网
+</title>
+<meta content='夫（"夫"字原脫，據《通典》卷三補。）治平在庶功興，庶功興在事役均，事役均在民數周，民數周爲國之本也。故先王周知其萬民衆寡之數，乃分九職焉。九職旣分，則劬勞者可' name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14796.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>下卷·民數</b></span>
+<a href="javascript:PlayBookv(14796)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14796" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14796" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%b9%b2">徐干</a></p>
+<div class="contson">
+<p>　　夫（"夫"字原脫，據《通典》卷三補。）治平在庶功興，庶功興在事役均，事役均在民數周，民數周爲國之本也。故先王周知其萬民衆寡之數，乃分九職焉。九職旣分，則劬勞者可見，怠（《通典》作"勤"）惰者可聞也，然而事役不均者未之有也。事役旣均，故民（《通典》作"上"）盡其心而人竭其力，然而庶功不興者未之有也。庶功旣興，故國家殷富，大小不匱，百姓休和，下無怨疚（《通典》作"疾"）焉，然而治不平者未之有也。故曰："水（原注：一作"泉"。按（《通典》無"曰"字，"水"作"泉"））有源，治有本。"道者審乎本而已矣。</p>
+<p>　　故（"故"字原脫，據《通典》補）《周礼》：孟冬，司寇獻民數於王，王拜而受之，登於天府，内史、司會、冢宰貳之。其重之如是也。今之爲政者，未之（"之"字原脫，據《通典》補）知恤已矣。譬由（《通典》作"猶"）無田而欲树藝也，雖有良農，安所措其疆力乎（《通典》作"雖有農夫，安能措其強力乎"）？是以先王制六鄉六遂之法，所以維持其民而爲之綱目也。使其鄰比相保相愛（孫詒讓《札迻》："此用《周禮》'大司徒'及'族師'兩職文。'愛'當作'受'。前《譴交》篇云：'五比為閭，使之相憂'，'憂'亦當作'受'。受、愛、憂並形近而誤。"），刑罰慶賞相延相及，故出入存亡臧否順逆可得而知矣。如是姦無所竄，罪人斯得。迨及亂君之爲政也，戸口漏於國版，夫家脫於聮伍，避役逋逃者有之（"逋逃"二字原脱，據《通典》卷三補。原注：一作"逋逃者有之"），弃捐者有之，浮食者有之，於是姦心競生而僞端並作矣（"而"字原脫，據《通典》補）。小則盗竊（《通典》作"濫竊"），大則攻刼，嚴刑峻法（《通典》作"令"）不能救也。</p>
+<p>　　故民（《通典》作"人"，下同）數者，庶事之所自出也，莫不取正焉。以分田里，以令貢賦，以造器（"器"字原作"罷"，据程本、四庫本改。）用，以制禄食，以起田役，以作軍旅。國以之建典，家以之立度，五禮用脩，九刑用措者，其惟審民數乎？</p>
+<p>　　紹興二十八年戊寅清明日，假朱丞本校于博古堂，石邦哲識。</p>
+<p>　　《中論》二卷，漢司空軍謀祭酒椽屬五官將文學北海徐幹偉長譔。有序而無名氏。幹，鄴下七子之一人也，建安之間，疾辭人美麗之文，不能敷散道敎，故著《中論》。辭義典雅，當世嘉之。按《唐志》六卷，今本二卷二十篇。宋大理正山隂石邦哲手校題識。邦哲，字熈明，再世蔵書。至治二年，得之錢塘仇遠氏。明年夏五月已酉，平原陸友友仁父記。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14795.aspx">上一章</a>
+<a href="/guwen/book_176.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14797.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

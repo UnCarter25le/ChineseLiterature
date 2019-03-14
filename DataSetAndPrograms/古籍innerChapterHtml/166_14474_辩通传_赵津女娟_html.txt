@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+列女传·辩通传·赵津女娟_古诗文网
+</title>
+<meta content="赵津女娟者，赵河津吏之女，赵简子之夫人也。初简子南击楚，与津吏期，简子至，津吏醉卧，不能渡，简子怒，欲杀之，娟惧，持楫而走，简子曰：“女子走何为？”对曰：“津吏息女。妾父闻主君东渡" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14474.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>辩通传·赵津女娟</b></span>
+<a href="javascript:PlayBookv(14474)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14474" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14474" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　赵津女娟者，赵河津吏之女，赵简子之夫人也。初简子南击楚，与津吏期，简子至，津吏醉卧，不能渡，简子怒，欲杀之，娟惧，持楫而走，简子曰：“女子走何为？”对曰：“津吏息女。妾父闻主君东渡不测之水，恐风波之起，水神动骇，故祷祠九江三淮之神，供具备礼，御厘受福，不胜巫祝，杯酌余沥，醉至于此。君欲杀之，妾愿以鄙躯易父之死。”简子曰：“非女之罪也。”娟曰：“主君欲因其醉而杀之，妾恐其身之不知痛，而心不知罪也。若不知罪杀之，是杀不辜也。愿醒而杀之，使知其罪。”简子曰：“善。”遂释不诛。简子将渡，用楫者少一人，娟攘卷掺楫而请，曰：“妾居河济之间，世习舟楫之事，愿备员持楫。”简子曰：“不谷将行，选士大夫，齐戒沐浴，义不与妇人同舟而渡也。”娟对曰：“妾闻昔者汤伐夏，左骖骊，右骖牝靡，而遂放桀。武王伐殷，左骖牝骐，右骖牝●，而遂克纣，至于华山之阳。主君不欲渡则已，与妾同舟，又何伤乎？”简子悦，遂与渡，中流为简子发河激之歌，其辞曰：“升彼阿兮面观清，水扬波兮查冥冥，祷求福兮醉不醒，诛将加兮妾心惊，罚既释兮渎乃清，妾持楫兮操其维，蛟龙助兮主将归，呼来棹兮行勿疑。”简子大悦曰：“昔者不谷梦娶妻，岂此女乎？”将使人祝祓，以为夫人。娟乃再拜而辞曰：“夫妇人之礼，非媒不嫁。严亲在内，不敢闻命。”遂辞而去。简子归，乃纳币于父母，而立以为夫人。君子曰：“女娟通达而有辞。”诗云：“来游来歌，以矢其音。”此之谓也。</p>
+<p>　　颂曰：赵简渡河，津吏醉荒，将欲加诛，女娟恐惶，操楫进说，父得不丧，维久难蔽，终遂发扬。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14473.aspx">上一章</a>
+<a href="/guwen/book_166.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14475.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

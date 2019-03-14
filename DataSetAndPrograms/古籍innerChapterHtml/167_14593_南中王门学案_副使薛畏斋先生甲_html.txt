@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·南中王门学案·副使薛畏斋先生甲_古诗文网
+</title>
+<meta content="薛甲字应登，号畏斋，江阴人也。嘉靖乙丑进士。授兵科给事中。劾方士邵元节，降湖广布政司照磨。历宁波通判，保定同知，四川、赣州佥事副使。以忤相嵩，拾遗免。先生笃信象山阳明之学，其言格物" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14593.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>南中王门学案·副使薛畏斋先生甲</b></span>
+<a href="javascript:PlayBookv(14593)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14593" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14593" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　薛甲字应登，号畏斋，江阴人也。嘉靖乙丑进士。授兵科给事中。劾方士邵元节，降湖广布政司照磨。历宁波通判，保定同知，四川、赣州佥事副使。以忤相嵩，拾遗免。先生笃信象山阳明之学，其言格物即所以致知，慎独即所以存养，成物即所以成己，无暴即所以持志，与夫一在精中，贯在一中，约在博中，恕在忠中，皆合一之旨，此学之所以易简也。先生曰：“古今学术，至於阳明渐尔昭融。天不假年，不能使此公缕析条分，以破训诂之惑，用是学者虽略知领悟，而入之无从。区区不自量，妄意欲补其缺，会缺所闻，总成一书，名曰《心学渊源》，冀传之来世，以俟知者。”羲按，阳明之格物，谓致吾心良知之天理於事事物物，则事事物物皆得其理。意在於事亲，则致吾良知於事亲之物，去其事亲之不正者，以归於正。事亲之物格，而后事亲之知至。先生之格物，以感物为格，不能感物，是知之不致。阳明以正训格，先生以感训格，均为有病。何不以他经证之？意以知为体，知以物为体。毋自欺，良知也；好恶，物也。好恶至於自慊，则致之至於物矣。不忍堂下之牛，良知也，举斯心而加诸彼，则致之至於物矣。盖至於物，则此知才非石火电光，所谓达之天下也。此正致之之法，与扩充同一义耳。格当训之为至，与神之格思同。二先生言正言感，反觉多此一转。所致者既是良知，又何患乎不正不感乎？</p>
+<p>　　文集</p>
+<p>　　陆子之学，在“先立其大”；朱子之学在，“居敬穷理”。学者苟能存先立其大之心，而务朱子之功，则所谓居敬者，居之心也，所谓穷理者，穷之心也，则朱、陆合一矣。</p>
+<p>　　论道者，须精且详。精则理透，详则意完。如惟精惟一之语，更建中建极，一贯性善，数圣贤发明，而理始彻。岂非精耶？又本之以《六经》，辅之以四子，而意始完。然则精与详，信乎不可缺一也。若孟氏以后，历千年而有象山，有阳明，可为精矣，而享年不永，不获有所著述以示后人，虽欲详，不可得也。至於朱子，字字而议，句句而论，可详矣，然改易《大学》，而以格物为穷物之理，集义为事事求合於义，则与义袭而取者，何以异耶？循此而求之，虽欲精亦不可得也。</p>
+<p>　　致知格物之说，夫子传之曾子，曾子传之子思，而有“明善诚身”之论。所谓明善，即致知也；所谓诚身，即诚意也。虽不言感物，然获上治民，悦亲信友，乃其验处，即格物也。至子思传之孟子，则述师传而备言之，而曰“至诚而不动，未之有也。”则格物之为感物，彰彰明矣。（夫不能感物者，必其知有未致，致有未尽也。故孟子曰：“爱人不亲反其仁，治人不治反其智，礼人不答反其敬。”反之者，致之也。此之谓致知在格物。）</p>
+<p>　　释氏之说，欲使人离垢明心，其意未尝不善也。然不知心即是理，理不离事，而过用其意。至欲远离事物以求心，则其势必至於反性情，灭人伦，为一切袭取之法。认其所谓漠然无情者为心，至於中庸精微之妙，茫无所知，而误以幻天地，绝人道者为事。知者所宜原其意以通之，而约其过甚者以归於中，亦归斯受之之意也。</p>
+<p>　　或问：“存心致知，有分乎？”曰：“致知乃以存心也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14592.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14594.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

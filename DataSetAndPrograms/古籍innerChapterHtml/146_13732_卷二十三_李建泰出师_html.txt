@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷二十三·李建泰出师_古诗文网
+</title>
+<meta content="李建泰出师甲申正月十六，李建泰出师，风沙大起，占候天文书云：出兵遇风沙，师覆不还家。唐通入朝唐通陛见。上曰：大寇逆天不怯，荼毒生灵，扫荡奇功，赖卿早奏。通曰：么么党类，流祸难言。臣" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13732.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二十三·李建泰出师</b></span>
+<a href="javascript:PlayBookv(13732)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13732" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13732" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　李建泰出师</p>
+<p>　　甲申正月十六，李建泰出师，风沙大起，占候天文书云：出兵遇风沙，师覆不还家。</p>
+<p>　　唐通入朝</p>
+<p>　　唐通陛见。上曰：大寇逆天不怯，荼毒生灵，扫荡奇功，赖卿早奏。通曰：么么党类，流祸难言。臣藉二祖列圣之威灵，皇上如天之覆庇，愿捐躯报效，使元凶大憝，速就歼夷。上悦。慰劳有加。赐金宝彩币，通谢恩出。</p>
+<p>　　白广恩移书姜瓖约降</p>
+<p>　　侍生某顿首拜，国事如此，台台稔知，无容置喙矣。但我辈久为文臣所抑，不啻狗马之贱。今闯王强盛，奸佞在朝，我辈虽欲树功，决至反招奇祸。语云。识时务者谓之俊杰，不若其建降旗以图富贵。台台谅能鉴其始终，而幡然从事矣。特此奉约，仍乞赐鸿音，以慰下怀。戎事旁午，余不尽赘。</p>
+<p>　　瓖答书同降。</p>
+<p>　　宣府总兵朱之冯</p>
+<p>　　贼将至宣府，朱之冯谓兵民曰：朝廷三百年恩德在人，死生尽是天数。皇天水土，杀身难报。岂可一旦从贼，失却千秋大义，君亲本无二理，汝等须看世上，讵有孝顺他人，违逆自己父母者。众不从。</p>
+<p>　　居庸关唐通降</p>
+<p>　　三月十一，大同陷。贼至居庸唐，唐通迎战。时贼将李牟率众四十万，方战，忽营中突出一虎，东西冲跃，所至披靡。唐通惊仆，被虎擒啮，贼众四合，是虎即以皮御下，乃贼将谷大成伪扮者，通就执乃降。</p>
+<p>　　宋孩儿起数</p>
+<p>　　军师宋献策，见自成云。臣观明朝王气之绝，当在本月十八日丙午。是日当有阴雾迷空，凄风苦雨，乃其应验。十九日辰时，都城必破无疑。若不乘此机会，恐援兵四集，又须迟至六年之后也。更有谶云：孩儿军师孩儿兵，孩儿攻战管教赢。只消出个孩儿阵，孩儿夺取北京城。据此谶，吾王须用十五六岁者，名童子兵，攻城方能济事。自成即点强壮童子五千人，给以器械攻取。</p>
+<p>　　杜秩亨议割地</p>
+<p>　　贼遣叛监杜纷亨密奏云：平分天下，方可息兵。朝臣皆以为可。上泣曰：祖宗费却多少精神，历尽艰难，创此山河，为不肖子孙，狃于安乐，一旦将地方割去，朕即死归泉府，亦无面见高皇在天之灵。宁死可也，割地不可。更深微行，至朱纯臣第乃还。</p>
+<p>　　帝后自尽</p>
+<p>　　圣母周皇后，手内持节绕宫巡走。哭曰：天灾已降，大祸临头，汝等有志者，须速寻门路。巡走两周归宫，将自尽。时上率内官四百人欲出，被炮而返。对后泣曰：大事去矣，挥宫女各散。至武英殿，各门密召守城官，每门付白灯笼三碗。嘱曰：寇信缓急，自一至三，宫中望此灯为号。盖寇攻城，则悬一灯；攻城急，则悬二灯；城破，则悬三灯也。守门官既出，上至干清宫，将太子、定王付周皇亲，永王付刘皇亲。嘱曰：社稷倾覆，使天地祖宗震怒，实尔父之罪也。然朕亦已竭尽心力，其奈文武诸臣，各为私心，不肯后家先国，以致败坏如此尔。今不必问其祸福，只是合理做去。朕无他虑也。言毕，上与太子等大哭而别。上复进寿宁宫，见长公主大哭，砍其臂。到西宫欲死袁妃，又到坤宁宫见后自缢，上再登皇极殿，亲撞景阳钟，钟声远振，响遍京城，欲集文武百僚，寂无一人至者，乃手三眼枪，率持数十人，至前门，见城上白灯已悬三矣。上知天命已去，不可挽回，急遣宫人逼令张太后并李娘娘速死。然后刺血亲写遗诏一封，缝于随身衣带内披发覆面，衣履不成，竟向宫后煤山自尽。</p>
+<p>　　三灯不待城破，即俱悬起，是内奸应计也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13731.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13733.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

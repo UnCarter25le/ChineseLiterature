@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·谷部·酒_古诗文网
+</title>
+<meta content="气味（米酒）苦、甘、辛、大热、有毒。主治米酒：行药势，通血脉，润皮肤，散湿气，除风下气，解马肉、桐油毒。愈疟酒：治诸疟疾，频频温饮。五加皮酒：支闰切风湿痿痹，壮筋骨，填精髓薏苡仁酒" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1868.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>谷部·酒</b></span>
+<a href="javascript:PlayBookv(1868)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1868" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1868" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>气味</strong><br/>（米酒）苦、甘、辛、大热、有毒。</p>
+<p><strong>主治</strong><br/>米酒：行药势，通血脉，润皮肤，散湿气，除风下气，解马肉、桐油毒。<br/>愈疟酒：治诸疟疾，频频温饮。<br/>五加皮酒：支闰切风湿痿痹，壮筋骨，填精髓<br/>薏苡仁酒：去风湿，强筋骨，健脾胃。<br/>五加皮酒：去一切风湿痿痹，壮筋骨，填精髓<br/>女贞皮酒：治风虚，补腰膝。<br/>地黄酒：补虚弱，壮筋骨，通血脉，台腹痛，变白发。<br/>当归酒；和血脉，坚筋骨，止诸痛，调经水。<br/>菖蒲酒：治风痹，通血脉，疗骨痿。<br/>枸杞酒：补虚弱，益精气，去冷风，壮阳道，止目泪，健腰脚 。<br/>人参酒。补中益气，通治诸虚。<br/>茯苓酒：治头风虚眩，暖腰膝，主五劳七作伤。<br/>桑椹酒。补五脏，明耳目，治水肿。<br/>蜜酒。治风疹、风癣。<br/>蓼酒。久服聪耳明目、脾胃健壮。<br/>姜酒。澡贪苋、发热、心腹冷痛。<br/>葱豉酒。解烦热，补虚劳，治伤寒头痛寒热及冷痢肠痛，解肌发汗。<br/>茴香酒。治肾气痛、扁坠牵引及心腹痛。<br/>缩砂酒。消食、和中、下气，治心腹痛。<br/>茵陈酒。治风疾、筋骨挛急。<br/>百部酒：治一世新旧咳嗽。<br/>海藻酒：治瘿气。<br/>松节酒：治冷风虚弱、筋骨挛痛、脚气缓痹。<br/>竹叶酒：治诸风热病。<br/>麻仁酒：治骨髓风毒痛、脚气缓痹。<br/>红曲酒：治腹中及产后瘀血。<br/>花蛇酒：治诸风顽痹、瘫痪挛急、恶疮疥癣。<br/>蝮蛇酒：治恶疮诸瘘、恶风顽痹癫疾。<br/>豆淋酒：破血去风，治男子中风口歪、阴毒腹痛及小便尿血。亦治妇女产后一切中风疾病。<br/>虎骨酒：治臂胫疼痛、历节风、肾虚、膀胱寒痛。<br/>鹿茸酒：澡阳虚痿弱、小便频数、劳损诸虚。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1867.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1869.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

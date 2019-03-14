@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+管子·五行_古诗文网
+</title>
+<meta content="一者本也，二者器也，三者充也，治者四也，教者五也，守者六也，立者七也，前者八也，终者九也，十者然后具五官于六府也，五声于六律也。六月日至，是故人有六多，六多所以街天地也。天道以九制" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3618.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2271" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>五行</b></span>
+<a href="javascript:PlayBookv(3618)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3618" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2271)" id="leftbtn2271" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3618" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ae%a1%e4%bb%b2%e5%8f%8a%e9%97%a8%e5%be%92">管仲及门徒</a></p>
+<div class="contson">
+<p>　　一者本也，二者器也，三者充也，治者四也，教者五也，守者六也，立者七也，前者八也，终者九也，十者然后具五官于六府也，五声于六律也。</p>
+<p>　　六月日至，是故人有六多，六多所以街天地也。天道以九制，地理以八制，人道以六制。以天为父，以地为母，以开乎万物，以总一统。通乎九制、六府、三充，而为明天子。修槩水上，以待乎天堇；反五藏，以视不亲；治祀之下，以观地位；货曋神庐，合于精气。已合而有常，有常而有经。审合其声，修十二钟，以律人情。人情已得，万物有极，然后有德。</p>
+<p>　　故通乎阳气，所以事天也，经纬日月，用之于民。通乎阴气，所以事地也，经纬星历，以视其离。通若道然后有行，然则神筮不灵，神龟不卜，黄帝泽参，治之至也。昔者黄帝得蚩尤而明于天道，得大常而察于地利，得奢龙而辩于东方，得祝融而辩于南方，得大封而辩于西方，得后土而辩于北方。黄帝得六相而天地治，神明至。蚩尤明乎天道，故使为当时；大常察乎地利，故使为廪者：奢龙辩乎东方，故使为土师，祝融辩乎南方，故使为司徒；大封辩于西方，故使为司马；后土辩乎北方，故使为李。是故春者土师也，夏者司徒也，秋者司马也，冬者李也。</p>
+<p>　　昔黄帝以其缓急作五声，以政五钟。令其五钟，一曰青钟大音，二曰赤钟重心，三曰黄钟洒光，四曰景钟昧其明，五曰黑钟隐其常。五声既调，然后作立五行以正天时，五官以正人位。人与天调，然后天地之美生。</p>
+<p>　　日至，睹甲子木行御。天子出令，命左右士师内御。总别列爵，论贤不肖士吏。赋秘，赐赏于四境之内，发故粟以田数。出国，衡顺山林，禁民斩木，所以爱草木也。然则冰解而冻释，草木区萌，赎蛰虫卵菱。春辟勿时，苗足本。不疠雏鷇，不夭麑□，毋傅速。亡伤襁褓。时则不调。七十二日而毕。</p>
+<p>　　睹丙子火行御。天子出令，命行人内御。令掘沟浍，津旧涂。发藏，任君赐赏。君子修游驰，以发地气。出皮币，命行人修春秋之礼于天下诸侯，通天下遇者兼和。然则天无疾风，草木发奋，郁气息，民不疾而荣华蕃。七十二日而毕。</p>
+<p>　　睹戊子土行御。天子出令，命左右司徒内御。不诛不贞，农事为敬。大扬惠言，宽刑死，缓罪人。出国，司徒令，命顺民之功力，以养五谷。君子之静居，而农夫修其功力极。然则天为粤宛，草木养长，五谷蕃实秀大，六畜牺牲具，民足财，国富，上下亲，诸侯和。七十二日而毕。</p>
+<p>　　睹庚子金行御。天子出令，命祝宗选禽兽之禁、五谷之先熟者，而荐之祖庙与五祀，鬼神享其气焉，君子食其味焉。然则凉风至，白露下，天子出令，命左右司马（衍）组甲厉兵，合什为伍，以修于四境之内，谀然告民有事，所以待天地之杀敛也。然则昼炙阳，夕下露，地竞环，五谷邻熟，草木茂实，岁农丰年大茂。七十二日而毕。</p>
+<p>　　睹王子水行御。天子出令，命左右使人内御。御其气足，则发而止；其气不足，则发撊渎盗贼。数劋竹箭，伐檀柘，令民出猎，禽兽不释巨少而杀之，所以贵天地之所闭藏也。然则羽卵者不段，毛胎者不贕，孕妇不销弃，草木根本美。七十二日而毕。</p>
+<p>　　睹甲子木行御。天子不赋不赐赏，而大斩伐伤，君危，不杀太子危；家人夫人死，不然则长子死。七十二日而毕。睹丙子火行御。天子敬行急政，旱札，苗死，民厉。七十二日而毕。睹戊子土行御。天子修宫室，筑台榭，君危；外筑城郭，臣死。七十二日而毕。睹庚子金行御。天子攻山击石，有兵作战而败，士死，丧执政。七十二日而毕。睹壬子水行御。天子决塞，动大水，王后夫人薨，不然则羽卵者段，毛胎者贕，孕妇销弃，草木根本不美。七十二日而毕。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3617.aspx">上一章</a>
+<a href="/guwen/book_34.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3619.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2271" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

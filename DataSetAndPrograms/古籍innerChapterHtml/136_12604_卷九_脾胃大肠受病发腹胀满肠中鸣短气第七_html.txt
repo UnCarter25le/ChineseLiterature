@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷九·脾胃大肠受病发腹胀满肠中鸣短气第七_古诗文网
+</title>
+<meta content="邪在脾胃，则病肌肉痛。阳气有余，阴气不足，则热中善饥；阳气不足，阴气有余，则寒中肠鸣腹痛；阴阳俱有余，若俱不足，则有寒有热，皆调其三里。饮食不下，鬲塞不通，邪在胃脘。在上脘则抑而下" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12604.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷九·脾胃大肠受病发腹胀满肠中鸣短气第七</b></span>
+<a href="javascript:PlayBookv(12604)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12604" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12604" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　邪在脾胃，则病肌肉痛。阳气有余，阴气不足，则热中善饥；阳气不足，阴气有余，则寒中肠鸣腹痛；阴阳俱有余，若俱不足，则有寒有热，皆调其三里。饮食不下，鬲塞不通，邪在胃脘。在上脘则抑而下之，在下脘则散而去之。胃病者，腹 胀。胃脘当心而痛，上两胁，鬲咽不通，食饮不下，取三里。腹中雷（一本作常）鸣，气常冲胸，喘不能久立，邪在大肠也。刺肓之原，巨虚、上廉、三里。腹中不便，取三里，盛则泻之，虚则补之。大肠病者，肠中切痛而鸣濯濯，冬日重感于寒，当脐而痛，不能久立，与胃同候，取巨虚上廉。腹满，大便不利，腹大，上走胸嗌，（《灵枢》下有喘息二字）喝喝然，取足少阳。</p>
+<p>　　腹满刺气街，按之立已。腹暴痛满，按之不下，取太阳经络血者则已。又刺少阴（一本作少阳俞）去脊椎三寸傍五，用员利针，刺已如食顷久立已。必视其经之过于阳者，数刺之。</p>
+<p>　　腹满不能食，刺脊中。腹中气胀引脊痛，食饮而身羸瘦，名曰食 。先取脾俞，后。大肠转气，按之如覆杯，热引胃痛，脾气寒，四肢，不嗜食，脾俞主之。胃中寒胀，食多身体羸瘦，腹中满而鸣，腹 ，风厥，胸胁 满，呕吐，脊急痛，筋挛，食不下，胃俞主之。头痛食不下，肠鸣胪胀，欲呕时泄，三焦俞主之。腹满胪胀，大便泄，意舍主之。胪胀水肿，食饮不下，多寒（《千金》作恶寒），胃仓主之。寒中伤饱，食饮不化，五脏满胀，心腹胸胁 满胀，则生百病，上脘主之。腹胀不通，寒中伤饱，食饮不化，中脘主之。食饮不化，入腹还出，下脘主之。肠中常鸣。时上冲心，灸脐中。心满气逆，阴都主之。大肠寒中（《千金》作疝），大便干，腹中切痛，肓俞主之。腹中尽痛，外陵主之。肠鸣相逐，不可倾倒，承满主之。腹胀善满，积气，关门主之。食饮不下，腹中雷鸣，大肠不节，小便赤黄，阳纲主之。腹胀肠鸣，气上冲胸，不能久立，腹中痛濯濯，冬日重感于寒则泄，当脐而痛，肠胃间游气切痛，食不化，不嗜食，身肿（一本作重），侠脐急，天枢主之。腹中有大热不安，腹有大气如相侠，暴腹胀满癃，淫泺，气冲主之。腹满痛不得息，正卧屈一膝，伸一股，并刺气冲，针上入三寸，气至泻之。寒气腹满，癃淫泺，身热，腹中积聚疼痛，冲门主之。腹中肠鸣盈盈然，食不化，胁痛不得卧，烦，热中，不嗜食，胸胁 满，喘息而冲，鬲呕心痛，及伤饱身黄疾骨羸瘦，章门主之。肠鸣而痛，温留主之。肠腹时寒，腰痛不得卧，手三里主之。腹中有寒气，隐白主之。腹满响响然，不便，心下有寒痛，商丘主之。腹中热若寒，腹善鸣，强欠，时内痛，心悲气逆，腹满，漏谷主之；已刺外踝，上气不止，腹胀而气快然引肘胁下，皆主之。腹中气胀嗑嗑，不嗜食，胁下满，阴陵泉主之。喘，少气不足以息，腹满，大便难，时上走，胸中鸣，胀满，口舌中吸吸，善惊，咽中痛，不可纳食，善怒，恐不乐，大钟主之。嗌干，腹 痛，坐卧目KT KT，善怒多言，复留主之。寒，腹胀满，厉兑主之。腹大不嗜食，冲阳主之。厥气上，太溪主之。大腹有热，肠鸣腹满，侠脐痛，食不化，喘不能久立，巨虚上廉主之。肠中寒，胀满善噫，闻食臭，胃气不足，肠鸣腹痛泄，食不化，心下胀，三里主之。腹满，胃中有热，不嗜食，悬钟主之。大肠实则腰背痛，痹寒转筋，头眩痛，虚则鼻衄癫疾，腰痛然汗出，令人欲食而走，承筋主之，取脚下三折，横视盛者出血。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12603.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12605.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

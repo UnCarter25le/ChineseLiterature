@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百战奇略·第五卷·安战_古诗文网
+</title>
+<meta content="凡敌人远来气锐，利于速战；我深沟高垒，安守勿应，以待其敝。若彼以事挠我求战，亦不可动。法曰：「安则静。」三国，蜀将诸葛亮率众十余万出斜谷，垒于渭水之南。魏遣大将司马懿拒之，诸将欲往" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4294.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2948" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第五卷·安战</b></span>
+<a href="javascript:PlayBookv(4294)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4294" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2948)" id="leftbtn2948" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4294" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%9f%ba">刘基</a></p>
+<div class="contson">
+<p>　　凡敌人远来气锐，利于速战；我深沟高垒，安守勿应，以待其敝。若彼以事挠我求战，亦不可动。法曰：「安则静。」</p>
+<p>　　三国，蜀将诸葛亮率众十余万出斜谷，垒于渭水之南。魏遣大将司马懿拒之，诸将欲往渭北以待之，懿曰：「百姓积聚皆在渭南，此必争之地也。」遂率军而济，背水为垒。因谓诸将曰：「亮若勇者，当出武功，依山而东。若西上五丈原，则诸军无事矣。」亮果上五丈原。会有长星坠亮之垒，懿知其必败。时魏王以亮率军远入，利在急战，每命懿持重，以俟其变。亮数挑战，懿不出，因遗懿以巾帼妇人之饰。懿终不出。懿弟子孚书问军事，懿复曰；「亮志大而不见机，多谋少决，好兵而无权，虽持兵十万，已堕吾画中，破之必矣。」与之对垒百余日，会亮病卒，诸将烧营遁走，百姓奔告，懿出兵追之。亮长史杨仪反旗鸣鼓，若将向懿者。懿以归师不之迫，于是杨仪结阵而去。经日，行其营垒，观其遗事，获其图书、粮食甚众。懿审其必死，曰：「天才奇才也！」辛毗以为尚未可知。懿曰：「军家所重，军书密计、兵马粮食，今皆弃之，岂有人损其五脏而可以生乎？宜急追之。」关中多蒺藜，懿使军士三千人着软材平底木履前行，蒺藜着履，然后马步俱进。追到赤岸，乃知亮已死。时百姓为之谚曰：「死诸葛能走生仲达。」懿笑曰：「吾能料生，不能料死故也。」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4293.aspx">上一章</a>
+<a href="/guwen/book_52.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4295.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2948" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

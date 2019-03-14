@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷五·坤下兑上_古诗文网
+</title>
+<meta content="萃，亨。王假有廟，利見大人亨。利貞。用大牲吉。利有攸往。彖曰：萃，聚也。順以説。剛中而應，故聚也。王假有廟，致孝享也。利見大人亨，聚以正也。用大牲吉，利有攸往，順天命也。觀其所聚而" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9433.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·坤下兑上</b></span>
+<a href="javascript:PlayBookv(9433)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9433" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9433" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　萃，亨。王假有廟，利見大人亨。利貞。用大牲吉。利有攸往。彖曰：萃，聚也。順以説。剛中而應，故聚也。王假有廟，致孝享也。利見大人亨，聚以正也。用大牲吉，利有攸往，順天命也。觀其所聚而天地萬物之情可見矣。</p>
+<p>　　順而以説，柔无違也。剛中正而應，保其萃以通也。天下大聚，正者而孝享，聚其昭穆，剛尊而利以見也。萃其正而通也。用大牲吉，聚而豐之，得其稱也。夫聚而通之。何往不利。順於類正而相聚得其通，而保其久也。天地萬物之情見於此矣。</p>
+<p>　　象曰：澤上於地，萃。君子以除戎器，戒不虞。</p>
+<p>　　澤得地以久，地得澤以潤相，聚之道也。衆之聚也，不可以无防，故君子以除戎器，戒不虞。</p>
+<p>　　初六，有孚不終，乃亂乃萃，若號，一握為笑，勿恤，往无咎。象曰：乃亂乃萃，其志亂也。</p>
+<p>　　四為上應，三近附之，已信不終，失其萃矣。則心惑而志亂矣。何所利哉。若小能號呼，自省度其可否，反而哂之不以為笑，靜然保居，終獲其應，復何憂哉。往必无咎也。</p>
+<p>　　六二，引吉无咎，孚乃利用禴。象曰：引吉无咎，中未變也。</p>
+<p>　　初三皆萃於四，已獨守中，不變其志，待於五，牽而後為聚，得其吉矣。居内靡他，何咎之有。精意承奉信以結之，豈待於豐乎，雖薄而可以薦也。</p>
+<p>　　六三，萃如，嗟如，无攸利，往无咎，小吝。象曰：往无咎，上巽也。</p>
+<p>　　下皆上，萃。已无應焉。萃如，嗟如也，何所利哉。奉於四剛，剛巽而與，故往而无咎。不能下已而從人，位之失矣，可小惜也。</p>
+<p>　　九四，大吉无咎。象曰：大吉无咎，位不當也。</p>
+<p>　　承上於地以剛處之，而下據其衆，非其至公奉上之心大吉則咎也。</p>
+<p>　　九五，萃有位，无咎。匪孚，元永貞，悔亡。象曰：萃有位，志未光也。</p>
+<p>　　四有其民，而權逼於已，位當貴也，咎何有乎。尊信不行，道豈光乎，且陽徳仁也，可以長正而悔亡矣，民終歸之也。</p>
+<p>　　上六，齎咨涕洟，无咎。象曰：齎咨涕洟，未安上也。</p>
+<p>　　乘剛而不安，違而无萃。齎咨憂嘆以至於涕洟，懼而内戒，咎何有焉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9432.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9434.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

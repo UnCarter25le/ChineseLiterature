@@ -1,0 +1,157 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+金匮要略·卷下·妇人杂病脉证并治二十二_古诗文网
+</title>
+<meta content="（论一首 脉证五十四条 方十六首）妇人中风七八日，续来寒热，发作有时，经水适断，此为热入血室。其血必结，故使如疟状，发作有时，小柴胡汤主之。（方见呕吐中）妇人伤寒发热，经水适来，昼" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16737.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷下·妇人杂病脉证并治二十二</b></span>
+<a href="javascript:PlayBookv(16737)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16737" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16737" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e4%bb%b2%e6%99%af">张仲景</a></p>
+<div class="contson">
+<p>　　（论一首 脉证五十四条 方十六首）</p>
+<p>　　妇人中风七八日，续来寒热，发作有时，经水适断，此为热入血室。其血必结，故使如疟状，发作有时，小柴胡汤主之。（方见呕吐中）</p>
+<p>　　妇人伤寒发热，经水适来，昼日明了，暮则谵语，如见鬼状者，此为热入血室，治之无犯胃气及上二焦，必自愈。</p>
+<p>　　妇人中风，发热恶寒，经水适来，得七八日，热除脉迟，身凉和，胸胁满，如结胸状，谵语者，此为热入血室也，当刺期门，随其实而取之。</p>
+<p>　　阳明病，下血谵语者，此为热入血室，但头汗出，当刺期门，随其实而泻之，濈然汗出者愈。</p>
+<p>　　妇人咽中如有炙脔，半夏厚朴汤主之。</p>
+<p>　　半夏厚朴汤方（《千金》作胸满，心下坚，咽中占占，如有炙肉，吐之不出，吞之不下）</p>
+<p>　　半夏一升 厚朴三两 茯苓四两 生姜五两 干苏叶二两</p>
+<p>　　右五味，以水七升，煮取四升，分温四服，日三夜一服。</p>
+<p>　　妇人藏躁，喜悲伤欲哭，象如神灵所作，数欠伸，甘麦大枣汤主之。</p>
+<p>　　甘草小麦大枣汤方</p>
+<p>　　甘草三两 小麦一斤 大枣十枚</p>
+<p>　　右三味，以水六升，煮取三升，温分三服。亦补脾气。</p>
+<p>　　妇人吐诞沫，医反下之，心下即痞，当先治其吐诞沫，小青龙汤主之；涎沫止，乃治痞，泻心汤主之。</p>
+<p>　　小青龙汤方（见肺痈）中</p>
+<p>　　泻心汤方（见惊悸中）</p>
+<p>　　妇人之病，因虚、积冷、结气，为诸经水断绝。至有历年，血寒积结胞门，寒伤经络，凝坚在上：呕吐涎唾，久成肺痈，形体损分；在中：盘结，绕脐寒疝，或两胁疼痛，与藏相连；或结热中，痛在关元，脉数无疮，肌若鱼鳞，时着男子，非止女身；在下：未多，经候不匀，冷阴掣痛，少腹恶寒，或引腰脊，下根气街，气冲急痛，膝胫疼烦，奄忽眩冒，状如厥癫，或有郁惨，悲伤多嗔，此皆带下，非有鬼神。久则羸瘦，脉虚多寒，三十六病，千变万端，审脉阴阳，虚实紧弦，行其针药，治危得安，其虽同病，脉各异源，子当辨记，勿谓不然。</p>
+<p>　　问曰：妇人年五十，所病下利数十日不止，暮即发热，少腹里急，腹满，手掌烦热，唇口干燥，何也？师曰：此病属带下。何以故？曾经半产，瘀血在少腹不去，何以知之？其证唇口干燥，故知之。当以温经汤主之。</p>
+<p>　　温经汤方</p>
+<p>　　吴茱萸三两 当归二两 芎穷二两 芍药二两 人参二两 桂枝二两 阿胶二两 生姜二两 牡丹皮二两（去心） 甘草二两 半夏半斤 麦门冬一升（去心）</p>
+<p>　　右十二味，以水一斗，煮取三升，分温三服，亦主妇人少腹寒，久不受胎，兼取崩中去血，或月水来过多，及至期不来。</p>
+<p>　　带下经水不利，少腹满痛，经一月再见者，土瓜根散主之。</p>
+<p>　　土瓜极散方（阴頹肿亦主之）</p>
+<p>　　土瓜根 芍药 桂枝 .蟅虫各三两</p>
+<p>　　右四味，杵为散，酒服方寸匕，日三服。</p>
+<p>　　寸口脉弦而大，弦则为减，大则为芤，减则为寒，芤则为虚，寒虚相搏，此名曰革，妇人则半产漏下，旋复花汤主之。</p>
+<p>　　旋复花汤方</p>
+<p>　　旋复花三两 葱十四茎 新绛少许</p>
+<p>　　右三味，以水三升，煮取一升，顿服之。</p>
+<p>　　妇人陷经，漏下黑不解，胶姜汤主之。（臣亿等校请本无胶姜汤方，想是前妊娠中胶汤）</p>
+<p>　　妇人少腹满如敦状，小便微难而不渴，生后者，此为水与血俱结在血室也，大黄甘遂汤主之。</p>
+<p>　　大黄甘遂汤方</p>
+<p>　　大黄四两 甘遂二两 阿胶二两</p>
+<p>　　右三味，以水三升，煮取一升，顿服之，其血当下。</p>
+<p>　　妇人经水不利下，抵当汤主之。（亦治男子膀胱满急有瘀血者）</p>
+<p>　　抵当汤方</p>
+<p>　　水蛙三十个（熬） 虻虫三十个（熬、去翅足） 桃仁二十个（去皮尖）大黄三两（酒浸）</p>
+<p>　　右四味，为末，以水五升，煮取三升，去滓，温服一升。</p>
+<p>　　妇人经水闭不利，藏坚癖不止，中有干血，下白物，矾石丸主之。</p>
+<p>　　矾石丸方</p>
+<p>　　矾石三分（烧） 杏仁一分</p>
+<p>　　右二味，末之，炼蜜和丸枣核大，内藏中，剧者再内之。</p>
+<p>　　妇人六十二种风，及腹中血气刺痛，红蓝花酒主之。</p>
+<p>　　红蓝花酒方（疑非仲景方）</p>
+<p>　　红蓝花一两</p>
+<p>　　右一味，以酒一大升，煎减半，顿服～半，未止，再取。</p>
+<p>　　妇人腹中诸疾痛，当归芍药散主之。</p>
+<p>　　当归芍药散方（见前妊娠中）</p>
+<p>　　妇人腹中痛，小建中汤主之。</p>
+<p>　　小建中汤（见前虚劳中）</p>
+<p>　　问曰：妇人病，饮食如故，烦热不得卧，而反倚息者，何也？师曰：此名转胞不得溺也。以胞系了戾，故致此病，但利小便则愈，宜肾气丸主之。</p>
+<p>　　肾气丸方</p>
+<p>　　干地黄八两 薯蕷四两 山茱萸四两 泽泻三两 茯苓三两 牡丹皮三两 桂枝一两 附子（炮）一两</p>
+<p>　　右八味末之，炼蜜和丸，梧子大，酒下十五丸，加至二十五丸，日再服。蛇床子散方 温阴中坐药。</p>
+<p>　　蛇床子仁</p>
+<p>　　右一味，末之，以白粉少许，和令相得，如枣大，绵裹内之，自然温。</p>
+<p>　　少阴脉滑而数者，阴中即生疮，阴中蚀疮烂者，狼牙汤洗之。</p>
+<p>　　狼牙汤方</p>
+<p>　　狼牙三两</p>
+<p>　　右一味，以水四升，煮取半升，以绵缠筋如茧，浸汤沥明中，日四遍。</p>
+<p>　　胃气下泄，阴吹而正喧，此谷气之实也，膏发煎导之。</p>
+<p>　　膏发煎方（见黄疸中）</p>
+<p>　　小儿疳虫蚀齿方（疑非仲景方）</p>
+<p>　　雄黄 葶苈</p>
+<p>　　右二味，末之，取腊月猪脂，熔以槐枝绵裹头四五枚，占药烙之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16736.aspx">上一章</a>
+<a href="/guwen/book_193.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16738.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+楞伽经·卷六·陀罗尼品_古诗文网
+</title>
+<meta content="尔时，佛告大慧菩萨摩诃萨言：“大慧，过去、未来、现在诸佛，为欲拥护持此经者，皆为演说楞伽经咒。我今亦说，汝当受持。”即说咒曰： “怛侄他(一)　睹吒睹吒(都騃切下同二)　杜吒杜吒(" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13948.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·陀罗尼品</b></span>
+<a href="javascript:PlayBookv(13948)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13948" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13948" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ae%9e%e5%8f%89%e9%9a%be%e9%99%80%e8%af%91">实叉难陀译</a></p>
+<div class="contson">
+<p>　　尔时，佛告大慧菩萨摩诃萨言：“大慧，过去、未来、现在诸佛，为欲拥护持此经者，皆为演说楞伽经咒。我今亦说，汝当受持。”即说咒曰： </p>
+<p>　　“怛侄他(一)　睹吒睹吒(都騃切下同二)　杜吒杜吒(三)　钵吒钵吒(四)　葛吒葛吒(五)　阿么𥻊阿么𥻊(六)　毗么𥻊毗么𥻊(七)　你谜你谜(八)　呬谜呬谜(九)　缚(扶荷切)谜缚谜(十)　葛𥻊葛𥻊(十一)　揭啰葛𥻊(十二)　阿吒末吒(十三)　折吒咄吒(十四)　耆若(攘舸切二合)吒萨普(二合)吒(十五)　葛地(稚计切下同)剌地(十六)　钵地(十七)　呬谜呬谜(十八)　第谜第谜(十九)　折𥻊折𥻊(二十)　般制般制(二十一)　畔第毗第(二十二)　按制满制(二十三)　𪐴(胝庾切)茶(去声)㘑(二十四)　杜茶㘑(二十五)　般茶㘑(二十六)　遏计遏计(二十七)　末计末计(二十八)　斫结㘑结㘑(二合二十九)　地(依字呼)谜地谜(三十)　呬谜呬谜(三十一)　𪐴𪐴𪐴𪐴(三十二)　楮(笞矩切)楮楮楮(三十三)　杜杜杜杜(并重呼三十四)　杜虎(二合)杜虎杜虎杜虎(三十五)　莎诃(三十六) </p>
+<p>　　“大慧，未来世中，若有善男子、善女人，受持读诵，为他解说此陀罗尼；当知此人，不为一切人与非人、诸鬼神等之所得便。若复有人卒中于恶，为其诵念一百八遍，即时恶鬼疾走而去。大慧，我更为汝说陀罗尼。”即说咒曰。 </p>
+<p>　　“怛侄他(一)　般头迷(二)　般头摩第鞞(去声三)　醯(去声呼下同)　泥醯祢醯泥(四)　主𥻊主罗主𥻊(五)　虎主𥻊虎罗虎主𥻊(六)　庾主𥻊庾罗庾主𥻊(七)　跛𥻊跛罗跛𥻊(八)　瞋(上声呼)第膑第(九)　畔逝末第(十)　尼罗迦𥻊(十一)　莎诃(十二) </p>
+<p>　　“大慧，若有善男子、善女人，受持读诵，为他解说此陀罗尼，不为一切天、龙、夜叉、人非人等诸恶鬼神之所得便。我为禁止诸罗刹故说此神咒。若持此咒，则为受持入楞伽经，一切文句悉已具足。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13947.aspx">上一章</a>
+<a href="/guwen/book_155.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13949.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

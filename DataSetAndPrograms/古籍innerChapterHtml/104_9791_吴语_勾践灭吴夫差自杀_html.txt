@@ -1,0 +1,113 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·吴语·勾践灭吴夫差自杀_古诗文网
+</title>
+<meta content="吴王夫差还自黄池，息民不戒。越大夫种乃唱谋曰：“吾谓吴王将遂涉吾地，今罢师而不戒以忘我，我不可以怠。日臣尝卜于天，今吴民既罢，而大荒荐饥，市无赤米，而囷鹿空虚，其民必移就蒲蠃于东海" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9791.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8542" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>吴语·勾践灭吴夫差自杀</b></span>
+<a href="javascript:PlayBookv(9791)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9791" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8542)" id="leftbtn8542" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9791" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+吴王夫差还自黄池，息民不戒。越大夫种乃唱谋曰：“吾谓吴王将遂涉吾地，今罢师而不戒以忘我，我不可以怠。日臣尝卜于天，今吴民既罢，而大荒荐饥，市无赤米，而囷鹿空虚，其民必移就蒲蠃于东海之滨。天占既兆，人事又见，我蔑卜筮矣。王若今起师以会，夺之利，无使夫悛。夫吴之边鄙远者，罢而未至，吴王将耻不战，必不须至之会也，而以中国之师与我战。若事幸而从我，我遂践其地，其至者亦将不能之会也已，吾用御儿临之。吴王若愠而又战，奔遂可出。若不战而结成，王安厚取名而去之。”越王曰：“善哉！”乃大戒师，将伐楚申包胥使于越，越王勾践问焉，曰：“吴国为不道，求残我社稷宗庙，以为平原，弗使血食。吾欲与之徼天之衷，唯是车马、兵甲、卒伍既具，无以行之。请问战奚以而可？”包胥辞曰：“不知。”王固问焉，乃对曰：“夫吴，良国也，能博取于诸侯。敢问君王之所以与之战者？”王曰：“在孤之侧者，觞酒、豆肉、箪食，未尝敢不分也。饮食不致味，听乐不尽声，求以报吴。愿以此战。”包胥曰：“善则善矣，未可以战也。”王曰：“越国之中，疾者吾问之，死者吾葬之，老其老，慈其幼，长其孤，问其病，求以报吴。愿以此战。”包胥曰：“善则善矣，未可以战也。”王曰：“越国之中，吾宽民以子之，忠惠以善之。吾修令宽刑，施民所欲，去民所恶，称其善，掩其恶，求以报吴，愿以此战。”包胥曰：“善则善矣，未可以战也。”王曰：“越国之中，富者吾安之，贫者吾与之，救其不足，裁其有余，使贫富皆利之，求以报吴。愿以此战。”包胥曰：“善则善矣，未可以战也。”王曰：“越国南则楚，西则晋，北则齐，春秋皮币、玉帛、子女以宾服焉，未尝敢绝，求以报吴，愿以此战。”包胥曰：“善哉，蔑以加焉，然犹未可以战也。夫战，智为始，仁次之，勇次之。不智，则不知民之极，无以铨度天下之众寡；不仁，则不能与三军共饥劳之殃；不勇，则不能断疑以发大计。”越王曰：“诺。”
+</p><p>　　
+越王勾践乃召五大夫，曰：“吴为不道，求残吾社稷宗庙，以为平原，不使血食。吾欲与之徼天之衷，唯是车马、兵甲、卒伍既具，无以行之。吾问于王孙包胥，既命孤矣；敢访诸大夫，问战奚以而可？勾践愿诸大夫言之，皆以情告，无阿孤，孤将以举大事。”大夫舌庸乃进对曰：“审赏则可以战乎？”王曰：“圣。”大夫苦成进对曰：“审罚则可以战乎？”王曰：“猛。”大夫种进对曰：“审物则可以战乎？”王曰：“辩。”大夫蠡进对曰：“审备则可以战乎？”王曰：“巧。”大夫皋如进对曰：“审声则可以战乎？”王曰：“可矣。”王乃命有司大令于国曰：“苟任戎者，皆造于国门之外。”王乃命于国曰：“国人欲告者来告，告孤不审，将为戮不利，及五日必审之，过五日，道将不行。”
+</p><p>　　
+王乃入命夫人。王背屏而立，夫人向屏。王曰：“自今日以后，内政无
+</p><p>　　
+出，外政无入。内有辱，是子也；外有辱，是我也。吾见子于此止矣。”王遂出，夫人送王，不出屏，乃阖左阖，填之以土。去笄侧席而坐，不扫。王背檐而立，大夫向檐。王命大夫曰：“食土不均，地之不修，内有辱于国，是子也；军士不死，外有辱，是我也。自今日以后，内政无出，外政无入，吾见子于此止矣。”王遂出，大夫送王不出檐，乃阖左阖，填之以土，侧席而坐，不扫。
+</p><p>　　
+王乃之坛列，鼓而行之，至于军，斩有罪者以徇，曰：“莫如此以环瑱通相问也。”明日徙舍，斩有罪者以徇，曰：“莫如此不从其伍之令。”明日徙舍，斩有罪者以徇，曰：“莫如此不用王命。”明日徙舍，至于御儿，斩有罪者以徇，曰：“莫如此淫逸不可禁也。”
+</p><p>　　
+王乃命有司大徇于军，曰：“有父母耆老而无昆弟者，以告。”王亲命之曰：“我有大事，子有父母耆老，而子为我死，子之父母将转于沟壑，子为我礼已重矣。子归，殁而父母之世。后若有事，吾与子图之。”明日徇于军，曰：“有兄弟四五人皆在此者，以告。”王亲命之曰：“我有大事，子有昆弟四五人皆在此，事若不捷，则是尽也。择子之所欲归者一人。”明日徇于军，曰：“有眩瞀之疾者，以告。”王亲命之曰：“我有大事，子有眩瞀之疾，其归若已。后若有事，吾与子图之。”明日徇于军，曰：“筋力不足以胜甲兵，志行不足以听命者归，莫告。”明日，迁军接和，斩有罪者以徇，曰：“莫如此志行不果。”于是人有致死之心。王乃命有司大徇于军，曰：“谓二三子归而不归，处而不处，进而不进，退而不退，左而不左，右而不右，身斩，妻子鬻。”
+</p><p>　　
+于是吴王起师，军于江北，越王军于江南。越王乃中分其师以为左右军，以其私卒君子六千人为中军。明日将舟战于江，及昏，乃令左军衔枚溯江五里以须，亦令右军衔枚逾江五里以须。夜中，乃命左军、右军涉江鸣鼓中水以须。吴师闻之，大骇，曰：“越人分为二师。将以夹攻我师。”乃不待旦，亦中分其师，将以御越。越王乃令其中军衔枚潜涉，不鼓不噪以袭攻之。吴师大北。越之左军、右军乃遂涉而从之，又大败之于没，又郊败之，三战三北，乃至于吴。越师遂入吴国，围王台。
+</p><p>　　
+吴王惧，使人行成，曰：“昔不谷先委制于越君，君告孤请成，男女服从。孤无奈越之先君何，畏天之不祥，不敢绝祀，许君成，以至于今。今孤不道，得罪于君王，君王以亲辱于弊邑。孤敢请成，男女服为臣御。”越王曰：“昔天以越赐吴，而吴不受；今天以吴赐越，孤敢不听天之命，而听君之令乎？”乃不许成。因使人告于吴王曰：“天以吴赐越，孤不敢不受。以民生之不长，王其无死！民生于地上，寓也，其与几何？寡人其达王于甬句东，夫妇三百，唯王所安，以没王年。”夫差辞曰：“天既降祸于吴国，不在前后，当孤之身，实失宗庙社稷。凡吴土地人民，越既有之矣，孤何以视于天下！”夫差将死，使人说于子胥曰：“使死者无知，则已矣；若其有知，吾何面目以见员也！”遂自杀。
+</p><p>　　
+越灭吴，上征上国，宋、郑、鲁、卫、陈、蔡执玉之君皆入朝。夫唯能下其群臣，以集其谋故也。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9790.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9792.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8542" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+论衡·卷二十五·祀义篇_古诗文网
+</title>
+<meta content="世信祭祀，以为祭祀者必有福，不祭祀者必有祸。是以病作卜祟，祟得修祀，祀毕意解，意解病已，执意以为祭祀之助，勉奉不绝。谓死人有知，鬼神饮食，犹相宾客，宾客悦喜，报主人恩矣。其修祭祀，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6150.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4847" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二十五·祀义篇</b></span>
+<a href="javascript:PlayBookv(6150)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6150" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4847)" id="leftbtn4847" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6150" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%8e%8b%e5%85%85">王充</a></p>
+<div class="contson">
+<p>　　世信祭祀，以为祭祀者必有福，不祭祀者必有祸。是以病作卜祟，祟得修祀，祀毕意解，意解病已，执意以为祭祀之助，勉奉不绝。谓死人有知，鬼神饮食，犹相宾客，宾客悦喜，报主人恩矣。其修祭祀，是也；信其享之，非也。实者，祭祀之意，主人自尽恩勤而已，鬼神未必欲享之也。何以明之？今所祭者报功，则缘生人为恩义耳，何歆享之有？今所祭死人，死人无知，不能饮食。何以审其不能歆享饮食也？夫天者，体也，与地同。天有列宿，地有宅舍。宅舍附地之体，列宿着天之形。形体具，则有口乃能食。使天地有口能食，祭食宜食尽；如无口，则无体，无体则气也，若云雾耳，亦无能食如。天地之精神，若人之有精神矣。以人之精神，何宜饮食？中人之体七八尺，身大四五围，食斗食，歠斗羹，乃能饱足，多者三四斗。天地之广大，以万里数，圜丘之上，一茧栗牛，粢饴大羹，不过数斛。以此食天地，天地安能饱？天地用心，犹人用意也。人食不饱足，则怨主人，不报以德矣。必谓天地审能饱食，则夫古之效者负天地。山，犹人之有骨节也；水，犹人之有血脉也。故人食肠满，则骨节与血脉因以盛矣。今祭天地，则山川随天地而饱。今别祭山川，以为异神，是人食已，更食骨节与血脉也。</p>
+<p>　　社稷报生谷物之功。万民生於天地，犹毫毛生於体也。祭天地，则社稷设其中矣；人君重之，故复别祭。必以为有神，是人之肤肉当复食也。五祀初本在地。门户用木与土，土木生於地，井灶室中霤皆属於地。祭地，五祀设其中矣；人君重之，故复别祭。必以为有神，是人食己，当复食形体也。风伯、雨师、雷公，是群神也。风犹人之有吹煦也，雨犹人之有精液也，雷犹人之有腹鸣也，三者附於天地，祭天地，三者在矣；人君重之，故别祭。必以为有神，则人吹煦、精液、腹鸣当复食也。日月犹人之有目，星辰犹人之有发。三光附天，祭天，三光在矣；人君重之，故复别祭。必以为有神，则人之食已，复食目与发也。</p>
+<p>　　宗庙，己之先也。生存之时，谨敬供养，死不敢不信，故修祭祀，缘生事死，示不忘先。五帝、三王郊宗黄帝、帝喾之属，报功坚力，不敢忘德，未必有鬼神审能歆享之也。夫不能歆享，则不能神；不能神，则不能为福，亦不能为祸。祸福之起，由於喜怒，喜怒之发，由於腹肠。有腹肠者辄能饮食，不能饮食则无腹肠，无腹肠则无用喜怒，无用喜怒则无用为祸福矣。</p>
+<p>　　或曰：“歆气，不能食也。”夫歆之与饮食，一实也。用口食之，用口歆之。无腹肠则无口，无口无用食，则亦无用歆矣。何以验其不能歆也？以人祭祀有过，不能即时犯也。夫歆不用口则用鼻矣。口鼻能歆之，则目能见之，目能见之，则手能击之。今手不能击，则知口鼻不能歆之也。</p>
+<p>　　或难曰：“宋公鲍之身有疾。祝曰夜姑，掌将事於历者。历鬼杖楫而与之言曰：‘何而粢盛之不膏也？何而蒭牺之不肥硕也？何而珪璧之不中度量也？而罪欤？其鲍之罪欤？’夜姑顺色而对曰：‘鲍身尚幼，在襁褓，不预知焉。审是掌之。’历鬼举楫而掊之，毙於坛下。此非能言用手之验乎？”</p>
+<p>　　曰：夫夜姑之死，未必历鬼击之也，时命当死也。妖象历鬼，象鬼之形，则象鬼之言，象鬼之言，则象鬼而击矣。何以明之？夫鬼者，神也，神则先知。先知则宜自见粢盛之不膏、圭璧之失度、牺牲之臞小，则因以责让夜姑，以楫击之而已，无为先问。先问，不知之效也；不知，不神之验也。不知不神，则不能见体出言，以楫击人也。夜姑，义臣也，引罪自予己，故鬼击之。如无义而归之鲍身，则厉鬼将复以楫掊鲍之神矣。且祭祀不备，神怒见体，以杀掌祀。如礼备神喜，肯见体以食赐主祭乎？人有喜怒，鬼亦有喜怒。人不为怒者身存，不为喜者身亡。厉鬼之怒，见体而罚。宋国之祀，必时中礼，夫神何不见体以赏之乎？夫怒喜不与人同，则其赏罚不与人等。赏罚不与人等，则其掊夜姑，不可信也。</p>
+<p>　　且夫歆者，内气也，言者，出气也。能歆则能言，犹能吸则能呼矣。如鬼神能歆，则宜言於祭祀之上。今不能言，知不能歆，一也。凡能歆者，口鼻通也。使鼻鼽不通，口钳不开，则不能歆矣。人之死也，口鼻腐朽，安能复歆？二也。《礼》曰：“人死也，斯恶之矣。”与人异类，故恶之也。为尸不动，朽败灭亡，其身不与生人同，则知不与生人通矣。身不同，知不通，其饮食不与人钧矣。胡、越异类，饮食殊味。死之与生，非直胡之与越也。由此言之，死人不歆，三也。当人之卧也，置食物其旁，不能知也。觉乃知之，知乃能食之。夫死，长卧不觉者也，安能知食？不能歆之，四也。</p>
+<p>　　或难曰：“‘祭则鬼享之’，何谓也？”曰：言其修具谨洁，粢牲肥香，人临见之，意饮食之。推己意以况鬼神，鬼神有知，必享此祭，故曰鬼享之也。难曰：“《易》曰：‘东邻杀牛，不如西邻之祭。’夫言东邻不若西邻，言东邻牲大福少，西邻祭少福多也。今言鬼不享，何以知其福有多少也？”曰：此亦谓修具谨洁与不谨洁也。</p>
+<p>　　纣杀牛祭，不致其礼。文王衤勺祭，竭尽其敬。夫礼不至，则人非之，礼敬尽，则人是之。是之则举事多助，非之则言行见畔。见畔，若祭，不见享之祸；多助，若祭，见歆之福：非鬼为祭祀之故有喜怒也。何以明之？苟鬼神，不当须人而食。须人而食，是不能神也。信鬼神，歆祭祀，祭祀为祸福，谓鬼神居处何如状哉？自有储偫邪，将以人食为饥饱也？如自有储偫，储偫必与人异，不当食人之物。如无储偫，则人朝夕祭乃可耳。壹祭壹否，则神壹饥壹饱。壹饥壹饱，则神壹怒壹喜矣。且病人见鬼，及卧梦与死人相见，如人之形，故其祭祀，如人之食。缘有饮食则宜有衣服，故复以缯制衣，以象生仪。其祭如生人之食，人欲食之，冀鬼飨之。其制衣也，广枞不过一尺若五六寸。以所见长大之神，贯一尺之衣，其肯喜而加福於人乎？以所见之鬼为审死人乎？则其制衣，宜若生人之服。如以所制之衣审鬼衣之乎？则所见之鬼宜如偶人之状。夫如是也，世所见鬼，非死人之神；或所衣之神非所见之鬼也。鬼神未定，厚礼事之，安得福佑而坚信之乎？ </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6149.aspx">上一章</a>
+<a href="/guwen/book_74.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6151.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4847" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

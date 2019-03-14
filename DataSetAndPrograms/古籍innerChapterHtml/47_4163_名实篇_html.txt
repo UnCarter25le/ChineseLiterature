@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+颜氏家训·名实篇_古诗文网
+</title>
+<meta content="名之与实，犹形之与影也。德艺周厚，则名必善焉；容色姝丽，则影必美焉。今不修身而求个名於世者，犹貌甚恶而责妍影於镜也。上士忘名，中士立名，下士窃名。忘名者，体道合德，享鬼神之福祜，非" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4163.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2763" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>名实篇</b></span>
+<a href="javascript:PlayBookv(4163)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4163" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2763)" id="leftbtn2763" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4163" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%a2%9c%e4%b9%8b%e6%8e%a8">颜之推</a></p>
+<div class="contson">
+<p>　　名之与实，犹形之与影也。德艺周厚，则名必善焉；容色姝丽，则影必美焉。今不修身而求个名於世者，犹貌甚恶而责妍影於镜也。上士忘名，中士立名，下士窃名。忘名者，体道合德，享鬼神之福祜，非所以求名也；立名者，修身慎行，惧荣观之不显，非所以让名也；窃名者，厚貌深奸，於浮华之虚称，非所以得名也。</p>
+<p>　　吾见世人，清名登而金贝入，信誉显而然诺亏，不知后之矛戟，毁前之干橹也！虑子贱云：“诚于此者形於彼。”人之虚实真伪在乎心，无不见平迹，但察之未熟耳。一为察之所鉴，巧伪不如拙诚，承之以羞大矣。伯石让卿，王莽辞政，当于尔时，自以巧密，后人书之，留传万代，可为骨寒毛竖也。近有大贵，以孝著声，前后居丧，哀毁逾制，亦足以高於人矣；而尝於苫块之中，以巴豆涂脸，遂使成疮，表哭泣之过，左右童竖，不能掩之，益使外人谓其居处饮食皆为不信。以一伪丧百诚者，乃贪名不已故也！</p>
+<p>　　有一士族，读书不过二三百卷，天才钝拙，而家世殷厚，雅自矜持，多以酒犊珍玩，交诸名士。甘其饵者，递共吹嘘，朝廷以为文华，亦尝出境聘。东莱王韩晋明笃好文学，疑彼制作，多非机杼，遂设宴言，面相讨试。竟日欢谐，辞人满席，属音赋韵，命笔为诗，彼造次即成，了非向韵，众客各自沉吟，遂无觉者。韩退叹曰：“果如所量。”</p>
+<p>　　治点子弟文章，以为声价，大弊事也。一则不可常继，终露其情；二则学者有凭，益不精励。</p>
+<p>　　邺下有一少年，出为襄国今，颇自勉笃，公事经怀，每加抚恤，以求声誉。凡遣兵役，握手送离，或齎梨枣饼饵，人人赠别，云：“上命相烦，情所不忍，道路饥渴，以此见思。”民庶称之，不容於口。及迁为泗州别驾，此费日广，不可常周。一有伪情，触涂难继，功绩遂损败矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4162.aspx">上一章</a>
+<a href="/guwen/book_47.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4164.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2763" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

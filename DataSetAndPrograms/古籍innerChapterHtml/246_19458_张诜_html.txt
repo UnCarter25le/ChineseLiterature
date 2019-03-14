@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+宣室志·张诜_古诗文网
+</title>
+<meta content="张诜，以贞元中，以前王屋令调于有司。忽梦一中使来，诜即具簪笏迎之。谓诜曰：“有诏召君，可偕去。”诜惊且喜，以为上将用我。即命驾，与中使俱出。见门外有吏十余为驱殿者，诜益喜。遂出开远" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19458.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>张诜</b></span>
+<a href="javascript:PlayBookv(19458)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19458" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19458" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e8%af%bb">张读</a></p>
+<div class="contson">
+<p>　　张诜，以贞元中，以前王屋令调于有司。忽梦一中使来，诜即具簪笏迎之。谓诜曰：“有诏召君，可偕去。”诜惊且喜，以为上将用我。即命驾，与中使俱出。见门外有吏十余为驱殿者，诜益喜。遂出开远门，西望而去。其道左有吏甚多，再拜于前。百里，至一城。舆马人物喧哗，阗咽于路。槐影四矗，烟幕逦迤。城之西北数里，又一城。外有被甲者数百，罗立门之左右，执戈戟，列幡帜，环卫甚严，若王者居。既至门。中使命诜下马。诜整巾笏，中使引入门。兵士甚多。见宫阙台阁，既峻且丽。又至一门，中使引入百余人，具笏组，列于庭，仪甚谨肃。又有一</p>
+<p>　　近二百里，至一城。舆马人物喧哗，阗咽于路。槐影四矗，烟幕逦迤。城之西北数里，又一城。外有被甲者数百，罗立门之左右，执戈戟，列幡帜，环卫甚严，若王者居。既至门。中使命诜下马。诜整巾笏，中使引入门。兵士甚多。见宫阙台阁，既峻且丽。又至一门，中使引入百余人，具笏组，列于庭，仪甚谨肃。又有一殿峙然，琼玉华耀，真天子殿。殿左右有士数十，具甲倚剑。殿上有朱紫中使甚多。一人峨冠，被衮龙衣，凭玉几而坐殿之东宇。又有一冠衣者，貌若妇人，亦据玉几殿之西宇。有宫嫔数十，列于前。中使谓诜曰：“上在东宇，可前谒。”即趋至东宇前，再拜。有朱衣中使，立于殿之前轩。宣曰：“卿今宜促治吾宫庭事，无使有不如法者。”诜又再拜舞蹈。既而中使又引至西宇下，其仪度如东宇。既拜，中使遂引出门。诜悸且甚，因谓之曰：“某久处外藩，未得见天子。向者朝对，无乃不可于礼乎？”中使笑曰：“吾君宽，无惧耳。”言毕东望，有兵士数百驰来。中使谓诜曰：“此警夜之兵也。子疾去，无犯严禁。”即呼吏命驾。惶惑之际而寤，窃异其梦，不敢语于人。后数日，诜拜陵令。及凡所经历，皆符所梦。又天后祔葬，诜所梦殿东宇下，峨冠被衮龙衣者，乃高宗也。殿西宇下，冠衣貌如妇人者，乃天后也。后数月，因至长安，与其友数辈会宿，具话其事。有以列圣真图示诜者，高宗及天后，果梦中所见也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19457.aspx">上一章</a>
+<a href="/guwen/book_246.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19459.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

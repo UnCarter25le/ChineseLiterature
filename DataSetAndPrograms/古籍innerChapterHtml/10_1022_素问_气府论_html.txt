@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·气府论_古诗文网
+</title>
+<meta content="足太阳脉气所发者七十八穴：两眉头各一，入发至项三寸半，傍五，相去三寸，其浮气在皮中者凡五行，行五，五五二十五，项中大筋两傍各一，风府两傍各一，侠背以下至尻尾二十一节，十五间各一，五" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1022.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left843" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·气府论</b></span>
+<a href="javascript:PlayBookv(1022)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1022" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(843)" id="leftbtn843" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1022" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　足太阳脉气所发者七十八穴：两眉头各一，入发至项三寸半，傍五，相去三寸，其浮气在皮中者凡五行，行五，五五二十五，项中大筋两傍各一，风府两傍各一，侠背以下至尻尾二十一节，十五间各一，五藏之俞各五，六府之俞各六，委中以下至足小指傍各六俞。</p>
+<p>　　足少阳脉气所发者六十二穴：两角上各二，直目上发际内各五，耳前角上各一，耳前角下各一，锐发下各一，客主人各一，耳后陷中各一，下关各一，耳下牙车之后各一，缺盆各一，掖下三寸，胁下至胠，八间各一，髀枢中傍各一，膝以下至足小指次指各六俞。</p>
+<p>　　足阳明脉气所发者六十八穴：额颅发际傍各三，面鼽骨空各一，大迎之骨空各一，人迎各一，缺盆外骨空各一，膺中骨间各一，侠鸠尾之外，当乳下三寸，侠胃脘各五，侠齐广三寸各三，下齐二寸侠之各三。气街动脉各一，伏菟上各一，三里以下至足中指各八俞，分之所在穴空。</p>
+<p>　　手太阳脉气所发者三十六穴：目内眥各一，目外眥各一，鼽骨下各一，耳郭上各一，耳中各一，巨骨穴各一，曲掖上骨穴各一，柱骨上陷者各一，上天窗四寸各一，肩解各一，肩解下三寸各一，肘以下至手小指本各六俞。</p>
+<p>　　手阳明脉气所发者二十二穴：鼻空外廉、项上各二，大迎骨空各一，柱骨之会各一，髃骨之会各一，肘以下至手大指次指本各六俞。</p>
+<p>　　手少阳脉气所发者三十二穴：鼽骨下各一，眉后各一，角上各一，下完骨后各一，项中足太阳之前各一，侠扶突各一，肩贞各一，肩贞下三寸分间各一，肘以下至手小指次指本各六俞。</p>
+<p>　　督脉气所发者二十八穴：项中央二，发际后中八，面中三，大椎以下至尻尾及傍十五穴，至骶下凡二十一节，脊椎法也。任脉之气所发者二十八穴：喉中央二，膺中骨陷中各一，鸠尾下三寸，胃脘五寸，胃脘以下至横骨六寸半一，腹脉法也。下阴别一，目下各一，下唇一，龂交一。</p>
+<p>　　冲脉气所发者二十二穴：侠鸠尾外各半寸至齐寸一，侠齐下傍各五分至横骨寸一，腹脉法也。</p>
+<p>　　足少阴舌下，厥阴毛中急脉各一，手少阴各一，阴阳蹻各一，手足诸鱼际脉气所发者，凡三百六十五穴也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1021.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1023.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right843" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+曾国藩家书·治家篇·禀父母·教弟以和睦为第一_古诗文网
+</title>
+<meta content="男国藩跪禀父母大人万福金安。二月十六日，接到家信第一号，系新正初三交彭山屺者，敬悉一切。去年十二月十一，祖父大人忽患肠风，赖神戳佑，得以速痊，烈游子闻之，尚转心悸！六弟生女，自是大" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18199.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>治家篇·禀父母·教弟以和睦为第一</b></span>
+<a href="javascript:PlayBookv(18199)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18199" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18199" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9b%be%e5%9b%bd%e8%97%a9">曾国藩</a></p>
+<div class="contson">
+<p>　　男国藩跪禀</p>
+<p>　　父母大人万福金安。二月十六日，接到家信第一号，系新正初三交彭山屺者，敬悉一切。去年十二月十一，祖父大人忽患肠风，赖神戳佑，得以速痊，烈游子闻之，尚转心悸！六弟生女，自是大喜。初八日恭逢寿诞，男不克在家庆祝，心犹依依。</p>
+<p>　　诸弟在家不听教训，不甚发奋，男观诸来信即已知之。盖诸弟之弟，总不愿在刺的书，自己亥年男在家里，即有此意，牢不可破。六弟欲从男进京，男因散馆去留未定，故此时未许。庚子年接家眷，即请弟等送，意欲弟等京读书也。特以祖父母父母在上，男不敢许，以故但写诸弟而不指定何人。迫九弟来京，其意颇遂，而四弟六弟之惫，尚未遂也。年年株守家园，时有耽搁，大人又不能常在家教之；近地又无良友，考试又不利。兼此数者，怫郁难伸，故四弟六粟不免怨男，其所以怨男者有故。丁酉在家教弟，威克厥爱，甲可怨一矣。云亥在家，未尝教弟一字，可怨二教矣。临进京不肯带六弟，可怨三矣。不为弟择外专，仅延丹阁叔教之，拂厥本意，可怨四矣。明知两弟不厄家居，而屡次信回，劝弟寂守家塾，可怨五矣。</p>
+<p>　　惟男有可怨者五端，故四弟六弟难免内怀隐衷，前此含意不伸，故从不写信与男，去腊来信甚长，则尽情吐露矣。男接信时，又喜又惧，喜者喜弟志气勃勃，不可遏也。惧者，男再拂弟意，将伤和气矣。兄弟和，虽穷氓不户必兴，兄弟不和，虽世家宦族必败。男深知此理，故禀堂上各位大人，俯从男等兄弟之情实以和睦兄弟为第一。九弟前年欲归，男百般昔留，至去年则不复强留，亦恐拂弟意也。临别时彼此恋恋，情深似海，故男自九弟去后，思之尤切，信之尢深，谓九弟纵不为科目中人，亦当为孝弟中人。兄弟人人如此，可以终身互相依倚，则虽不得禄位，亦伤哉？</p>
+<p>　　伏读手谕，谓男教弟宜明责之，不宜琐琐告以阅历工夫。</p>
+<p>　　男自忆边年教弟之信，不下数万字，或明责，或婉劝，或博称，或约指，知无不言，总之尽心竭力而已，男妇孙男女身体皆平安，伏乞放心，男谨禀。（道光二十三年二月十九日）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18198.aspx">上一章</a>
+<a href="/guwen/book_220.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18200.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

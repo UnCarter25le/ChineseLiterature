@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·口问_古诗文网
+</title>
+<meta content="黄帝闲居，辟左右而问于岐伯曰：余已闻九针之经，论阴阳逆顺六经已毕，愿得口问。岐伯避席再拜曰：善乎哉问也，此先师之所口传也。黄帝曰：愿闻口传。歧伯对曰：夫百病之始生也，皆生于风、雨、" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1072.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left896" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·口问</b></span>
+<a href="javascript:PlayBookv(1072)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1072" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(896)" id="leftbtn896" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1072" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝闲居，辟左右而问于岐伯曰：余已闻九针之经，论阴阳逆顺六经已毕，愿得口问。岐伯避席再拜曰：善乎哉问也，此先师之所口传也。</p>
+<p>　　黄帝曰：愿闻口传。歧伯对曰：夫百病之始生也，皆生于风、雨、寒、暑、阴、阳、喜怒、饮食、居处。大惊卒恐则血气分离，阴阳破散，经络厥绝，脉道不通，阴阳相逆，卫气稽留，经脉虚空，血气不次，乃失其常，论不在经者，请道其方。</p>
+<p>　　黄帝曰：人之欠者，何气使然？歧伯答曰：卫气昼日行于阳，夜半则行于阴，阴者主夜，夜者卧，阳者主上，阴者主下，故阴气积于下，阳气未尽，阳引而上，阴引而下，阴阳相引，故数欠，阳气尽阴气盛，则目暝，阴气尽而阳气盛，盛则寤矣，泻足少阴，补足太阳。</p>
+<p>　　黄帝曰：人之哕者，何气使然？歧伯曰：谷入于胃，胃气上注于肺，今有故寒气与新谷气俱还入于胃，新故相乱，真邪相攻，气并相逆，复出于胃，故为哕，补手太阳泻足少阴。</p>
+<p>　　黄帝曰：人之唏音，何气使然？歧伯曰：此阴气盛而阳气虚，阴气疾而阳气徐，阴气盛而阳气绝故为唏，补足太阳泻足少阴。</p>
+<p>　　黄帝曰：人之振寒者，何气使然？歧伯曰：寒气客于皮肤，阴气盛，阳气虚，故为振寒寒栗，补诸阳。</p>
+<p>　　黄帝曰：人之噫者，何气使然？歧伯曰：寒气客于胃，厥逆从下上散，复出于胃，故为噫，补足太阴、阳明，一日补眉本也。</p>
+<p>　　黄帝曰：人之嚏者，何气使然？歧伯曰：阳气和利满于心出于鼻，故为嚏，补足太阳荣眉本，一曰眉上也。</p>
+<p>　　黄帝曰：人之亸者，何气使然？歧伯曰：胃不实则诸脉虚，诸脉虚则筋脉懈惰，筋脉懈惰则行阴，用力气不能复，故为亸，因其所在补分肉间。</p>
+<p>　　黄帝曰：人之哀而泣涕出者，何气使然？歧伯曰：心者五脏六腑之主也，目者宗脉之所聚也，上液之道也，口鼻者气之门户也。故悲哀愁忧则心动，心动则五脏六腑皆摇，摇则宗脉感，宗脉感则液道开，液道开故泣涕出焉。液者，所以灌精濡空窍者也，故上液之道开则泣，泣不止则液竭，液竭则精不灌，精不灌则目无所见矣。故命曰痔精，补天柱，经侠颈。</p>
+<p>　　黄帝曰：人之太息者，何气使然？歧伯曰：忧思则心系急，心系急则气道约，约则不利，故太息以伸出之，补手少阴心主，足少阳留之也。</p>
+<p>　　黄帝曰：人之涎下者，何气使然？歧伯曰：饮食者皆入于胃，胃中有熬则虫动，虫动则胃缓，胃缓则廉泉开，故涎下，补足少阴。</p>
+<p>　　黄帝曰：人之耳中鸣者，何气使然？歧伯曰：耳者宗脉之所聚也，故胃中空则宗脉虚，虚则下溜，脉有所竭者，故耳鸣，补客主人，手大指爪甲上与肉交者也。</p>
+<p>　　黄帝曰：人之自啮舌者，何气使然？歧伯曰：此厥逆走上，脉气辈至也，少阴气至则啮舌，少阳气至则啮颊，阳明气至则啮唇矣，视主病者，则补之。</p>
+<p>　　凡此十二邪褚，皆奇邪之走空窍者也，故邪之所在，皆为不足。故上气不足，脑为之不满，耳为之苦鸣，头为之苦倾，目为之眩，中气不足，溲便为之变，肠为之苦鸣，下气不足则及为痿厥心悗，补足外踝下，留之。</p>
+<p>　　黄帝曰：治之奈何？歧伯曰：肾主为欠，取足少阴，肺主为哕，取手太阴，足少阴，唏者，阴与阳绝，故补足太阳，泻足少阴，振寒者，补诸阳，噫者，补足太阴阳明，嚏者，补足太阳眉本，亸，因其所在补分肉间。泣出，补天柱，经侠颈，侠颈者头中分也，太息，补手少阴，心主，足少阳留之，涎下，补足少阴，耳鸣，补客主，人手大指爪甲上与肉交者。自啮舌，视主病者，则补之，目眩头倾，补足外踝下，留之，痿厥，心悗，刺足大指间上二寸，留之，一日，足外踝下，留之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1071.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1073.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right896" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

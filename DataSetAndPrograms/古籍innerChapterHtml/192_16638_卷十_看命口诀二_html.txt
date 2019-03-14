@@ -1,0 +1,122 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·看命口诀二_古诗文网
+</title>
+<meta content="大凡行好运，日干伤流年岁君干头祸轻。行不好运，日干伤岁君干头祸重，若已发过则死。辰戌丑未各有三分余气：如行午运至未，有三分火气。行子运至丑，有三分水气之例，不可全作土论。凡阳刃格岁" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16638.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·看命口诀二</b></span>
+<a href="javascript:PlayBookv(16638)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16638" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16638" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　大凡行好运，日干伤流年岁君干头祸轻。</p>
+<p>　　行不好运，日干伤岁君干头祸重，若已发过则死。</p>
+<p>　　辰戌丑未各有三分余气：</p>
+<p>　　如行午运至未，有三分火气。行子运至丑，有三分水气之例，不可全作土论。</p>
+<p>　　凡阳刃格岁运最怕冲合。</p>
+<p>　　太岁干合日时干者，为晦气煞。日时干支与流年干支同，为转趾煞。</p>
+<p>　　如庚申日见庚申或庚寅太岁之类，轻则远迁，重则毁屋破财。</p>
+<p>　　凡年月日有吉神，要时引归生旺之处。有凶神，要时引归制伏之乡。</p>
+<p>　　若时上带吉神或凶神，亦要年月日上吉者生之，凶者制之。</p>
+<p>　　月上有用神得祖宗之力，时上有用神得子孙之力，反此则否。</p>
+<p>　　凡看命以日干用为天元，是以干为禄。日支月支用为地元，是以支为命。</p>
+<p>　　假如壬癸日已未月，干支透出财官是也。</p>
+<p>　　财官论原有原无，地支原有财官，天干不透出者不问。</p>
+<p>　　若地支无财官，只是天干透出，虽行好运亦不济事。</p>
+<p>　　看流年岁君只用天元，若行运虽重地支亦要看运天元。</p>
+<p>　　人命柱中，或有官星，或有偏官有制伏太过，而运干见官煞可发。</p>
+<p>　　运支无财，而运干是财亦可为福。运支无煞，而运干是煞亦可为祸。</p>
+<p>　　人命以当生之月为运元，最怕大运并岁君来冲为祸。以当生官星为禄元，最怕冲坏。</p>
+<p>　　如丁日生人以壬为官，而生亥月，中有壬是丁之禄，若年与时有己字则冲坏禄元。</p>
+<p>　　当生财星为马元，最怕劫夺。如庚日生人以甲乙木为财，而生寅卯月。</p>
+<p>　　寅中甲木偏财，卯中乙木正财。若年时有辛字却有争夺之患，岁运同论。</p>
+<p>　　凡年干上有日之官星，福气最厚。有日之七煞，终身不可除去。</p>
+<p>　　官星为禄，财星为马。行官星发官，行财星发财，二者不可缺一，各有所用。</p>
+<p>　　年月上有财官，必生富贵之家，祖父根基。少年便行官禄运，多是幼年拜命，早发功名。</p>
+<p>　　年月无财官，日时有之，则是自己成立。</p>
+<p>　　人命以财官为本，柱中但得其一，亦可发福。</p>
+<p>　　若四柱原无官星，不入他格，年月日时干支财多，又行财旺运，亦能成就功名。</p>
+<p>　　以财旺自能生官，须身旺方许。</p>
+<p>　　年月无财官，幼年又行不好运，多是出身卑微，破祖伤父，无现成之福。</p>
+<p>　　凡官煞混杂，伤官合神重，男子犯之沉迷酒色。女人逢之不媒自嫁。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16637.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16639.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

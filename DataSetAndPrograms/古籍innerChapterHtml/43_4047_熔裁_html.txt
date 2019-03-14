@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+文心雕龙·熔裁_古诗文网
+</title>
+<meta content="情理设位，文采行乎其中。刚柔以立本，变通以趋时。立本有体，意或偏长；趋时无方，辞或繁杂。蹊要所司，职在熔裁，隐括情理，矫揉文采也。规范本体谓之熔，剪截浮词谓之裁。裁则芜秽不生，熔则" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4047.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2641" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>熔裁</b></span>
+<a href="javascript:PlayBookv(4047)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4047" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2641)" id="leftbtn2641" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4047" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%8b%b0">刘勰</a></p>
+<div class="contson">
+<p>　　情理设位，文采行乎其中。刚柔以立本，变通以趋时。立本有体，意或偏长；趋时无方，辞或繁杂。蹊要所司，职在熔裁，隐括情理，矫揉文采也。规范本体谓之熔，剪截浮词谓之裁。裁则芜秽不生，熔则纲领昭畅，譬绳墨之审分，斧斤之斫削矣。骈拇枝指，由侈于性；附赘悬肬，实侈于形。一意两出，义之骈枝也；同辞重句，文之肬赘也。</p>
+<p>　　凡思绪初发，辞采苦杂，心非权衡，势必轻重。是以草创鸿笔，先标三准∶履端于始，则设情以位体；举正于中，则酌事以取类；归馀于终，则撮辞以举要。然后舒华布实，献替节文，绳墨以外，美材既斫，故能首尾圆合，条贯统序。若术不素定，而委心逐辞，异端丛至，骈赘必多。</p>
+<p>　　故三准既定，次讨字句。句有可削，足见其疏；字不得减，乃知其密。精论要语，极略之体；游心窜句，极繁之体。谓繁与略，适分所好。引而申之，则两句敷为一章，约以贯之，则一章删成两句。思赡者善敷，才核者善删。善删者字去而意留，善敷者辞殊而义显。字删而意缺，则短乏而非核；辞敷而言重，则芜秽而非赡。</p>
+<p>　　昔谢艾、王济，西河文士，张骏以为“艾繁而不可删，济略而不可益”。若二子者，可谓练熔裁而晓繁略矣。至如士衡才优，而缀辞尤繁；士龙思劣，而雅好清省。及云之论机，亟恨其多，而称“清新相接，不以为病”，盖崇友于耳。夫美锦制衣，修短有度，虽玩其采，不倍领袖，巧犹难繁，况在乎拙？而《文赋》以为“榛楛勿剪，庸音足曲”，其识非不鉴，乃情苦芟繁也。夫百节成体，共资荣卫，万趣会文，不离辞情。若情周而不繁，辞运而不滥，非夫熔裁，何以行之乎？</p>
+<p>　　赞曰∶</p>
+<p>　　篇章户牖，左右相瞰。辞如川流，溢则泛滥。</p>
+<p>　　权衡损益，斟酌浓淡。芟繁剪秽，弛于负担。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4046.aspx">上一章</a>
+<a href="/guwen/book_43.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4048.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2641" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

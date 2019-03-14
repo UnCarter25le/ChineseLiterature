@@ -1,0 +1,147 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·文学部·字学_古诗文网
+</title>
+<meta content="（汇入群书文章）神农始为历日。文王始为经书。周公始为政书。黄帝受玄女始为《兵符》。吕望始为《韬略》。周公始为《四方志》。李悝次诸国律，始为《法经》。周公始为稗官。战国时始为小说。宋" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19237.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>文学部·字学</b></span>
+<a href="javascript:PlayBookv(19237)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19237" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19237" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　（汇入群书文章）</p>
+<p>　　神农始为历日。</p>
+<p>　　文王始为经书。周公始为政书。</p>
+<p>　　黄帝受玄女始为《兵符》。吕望始为《韬略》。</p>
+<p>　　周公始为《四方志》。李悝次诸国律，始为《法经》。</p>
+<p>　　周公始为稗官。战国时始为小说。宋高宗始为词话。</p>
+<p>　　神农尝百药，始着方书。黄帝与岐伯问答。雷公受业，着《内外经》。巫妎占六岁以下小儿寿天，着《颅顖经》。</p>
+<p>　　汉甘公始为命书，唐举始为相书，郭璞始为风水书。</p>
+<p>　　景虑始口授，大月氏王使尹存浮屠经。蔡愔、秦景始奉使得天竺佛书，梁武帝合五千四百卷为三藏。</p>
+<p>　　黄帝使史甲作戒，始著书。成汤始撰书名（凡书各有名）。黄帝始为铭、为箴。帝喾始为颂。</p>
+<p>　　伏羲始为记事。司马迁始为纪。沉约始为类事。</p>
+<p>　　子夏始为序。公羊高始为注。郑玄始为笺释。赵岐始为题跋。</p>
+<p>　　庄周始为说。田骈始为辨。荀卿始为论解。</p>
+<p>　　夏启始为檄，伊尹始为训。</p>
+<p>　　黄帝始为传。</p>
+<p>　　周公始为诔。</p>
+<p>　　鬻熊始为子。庾仲容始为钞。刘歆始为集。</p>
+<p>　　南朝始为文、为笔（今诗文通称文笔）。恶宋始为文受礼。隋始受钱，唐始盛。</p>
+<p>　　汉始称贾逵为舌耕，唐始称王勃为笔耕（以为文取丰金也）。高颖始索润笔（时为郑译草封沛国制）。王隐君始歌卖文（段湛卖文）。</p>
+<p>　　任昉《文章缘起》：三言诗，晋散骑常侍夏侯湛作。四言诗，前汉楚王傅韦孟谏楚王戊诗。五言诗，汉骑都尉李陵与苏武诗。六言诗，汉大司农谷永作。七言诗，汉武帝柏梁台连句。九言诗，魏高贵乡公作。赋，楚大夫宋玉作。歌，荆轲作《易水歌》。《离骚》，楚屈原作。</p>
+<p>　　诏，起秦时玺文。秦始皇传国玺。</p>
+<p>　　册文，汉武帝封三王册文，表，淮南王安谏代闽表。让表，汉东平王苍上表让骠骑将军。上书，秦丞相李斯上始皇书；汉太史令司马迁《报任少卿书》。对贤良策，汉太子家令晁错。上疏，汉大中大夫东方朔。启，晋吏部郎山涛作选启。作奏记，汉江都相诣公孙弘奏记。笺，汉护军班固说东平王笺。谢恩，汉丞相魏相诣公车谢恩。令，汉淮南王谢群公令。奏，汉牧乘奏书谏吴王濞。驳，汉吾丘寿王驳公孙弘禁民不得挟弓。议论，王褒四子讲德论，汉韦玄成奏罢郡国庙议。弹文，晋刘州刺史王深集杂弹文。</p>
+<p>　　骚，汉扬雄作。荐，后汉云阳令朱云荐伏湛。教，京兆君王尊出教，告属县。封事，汉魏相奏霍氏专权封事。白事，汉孔融主薄作白事书。移书，汉刘歆移书谏太学博士，论《左氏春秋》。铭，秦始皇会稽山刻石铭。箴，扬雄《九州百官箴》。《封禅书》，汉文园令司马相如。赞，司马相如作《荆轲赞》。颂，汉王褒《圣主得贤臣颂》。序，汉沛郡太守作《邓后序》。引，琴操有《箜篌引》。《志录》，扬雄作。记，扬雄作《蜀记》。</p>
+<p>　　碑，汉惠帝四皓碑。碣，晋潘尼作潘黄门碣。</p>
+<p>　　诰，汉司隶从事冯衍作。誓，汉蔡邕作《艰誓》。露布，汉贾弘为马超伐曹操作。檄，汉丞相琳祭酒陈曹檄作。操明文，汉泰山太守应劭作。对问，宋玉《对楚王问》。传，汉东方朔作《非有先生传》。上章，孔融上章缴。《大中大夫解嘲》，扬雄作。训，汉丞相主簿繁软祠其先生训。乐府，即古诗各体。词，汉武帝《秋风词》。旨，后汉崔骃作《达旨》。劝进，魏尚书令荀攸《劝魏王进文》。喻难，汉司马相如《喻巴蜀》，并《难蜀父老》文。诫，后汉杜笃作《女诫》吊文，贾谊《吊屈原文》。告，魏阮瑀为文帝作《舒告》。传赞，刘歆作《列女传赞》。谒文，后汉别部司马张超谒孔子文。析文，后汉傅毅作高阙析文。祝文，董仲舒祝日蚀文。</p>
+<p>　　行状，汉丞相仓曹傅朝干作《杨元相行状》。哀策，汉乐安相李亢作《和帝哀策》。哀颂，汉会稽东郡尉张纮作《陶侯哀颂》。墓志，晋东阳太守殷仲文作从弟墓志。诔，汉武帝公孙弘诔。悲文，蔡邕作悲温舒文。祭文，后汉车骑郎杜笃作祭延钟文。哀词，汉班固梁氏哀词。挽词，魏光禄勋缪袭作。</p>
+<p>　　发，汉枚乘作《七发》。离合词，孔融作四言离合诗。《连珠》，扬雄作。篇，汉司马相如作《凡将篇》。歌诗，枚乘作丽人歌诗。遗命，晋散骑常侍江统作。图，汉河间相张人作《玄图》。势，汉济北相崔瑗作《草书势》。约，王褒作《僮约》。</p>
+<p>　　伏羲命仓颉、沮诵始造字。仓颉造字，天雨血，鬼夜哭，龙乃潜藏。</p>
+<p>　　<strong>六书</strong></p>
+<p>　　苍颉造字，有六书：一曰象形（谓日月之类，象日月之形体也），二曰假借（谓令长之类，一字两用也），三曰指事（谓上下之类，人在一上为上，人在一下为下，各指其事，以为言也），四曰会意（谓武信之类，止戈为武，人言为信，会合人意也），五曰转注（谓考老之类，左右相转，以为言也），六曰谐声（谓江河之类，以水为形，以工可为声也）。</p>
+<p>　　<strong>字祖</strong></p>
+<p>　　蝌蚪书乃字之祖。庖牺氏有龙瑞，作龙书。神农有嘉穗，作穗书。黄帝因卿云作云书。尧因灵龟作龟书。夏后氏作钟鼎，有钟鼎书。朱宣氏有凤瑞，作凤书。周文王因赤雁衔书，武王因丹鸟入室作鸟书，因白鱼入舟作鱼书。</p>
+<p>　　周宣王史籀始为大篆，名籀篆。李斯始为小篆，名玉箸篆。</p>
+<p>　　<strong>历朝断书</strong></p>
+<p>　　仓颉而降，凡五变：古文，蝌蚪，籀篆，隶，草。</p>
+<p>　　<strong>秦书八体</strong></p>
+<p>　　大篆、小篆、刻符鸟（有云脚，印符用），虫书、摹印（曲体印用，亦名缪篆），置书（即萧何题笔未央），殳书（随势书），隶书。</p>
+<p>　　<strong>汉六体</strong></p>
+<p>　　试吏古文、奇字、篆、隶、缪篆、虫书。</p>
+<p>　　<strong>唐定五体</strong></p>
+<p>　　古文、大篆、小篆、虫书、隶。</p>
+<p>　　<strong>张怀瓘十体断书</strong></p>
+<p>　　古文、大篆、籀文、小篆、八分、隶、章、草、行书、飞白。</p>
+<p>　　<strong>唐度之十体</strong></p>
+<p>　　古文、大篆、小篆、八分、飞白、薤叶（本务光）、悬针、垂露（表章用，三曹喜作）、鸟书、连珠。</p>
+<p>　　<strong>宋十二体</strong></p>
+<p>　　殳书、传信、鸟书、刻符、萧籀、署书、芝英书（汉武帝植芝作）、气候直时书（相如采日辰虫形作）、鹤头书（汉诏板用）、偃波书（鹤头纤乱者）、转宿篆（司马子韦以荧惑退舍作）、蚕书（秋胡妻作）。</p>
+<p>　　<strong>小篆体八鼎</strong></p>
+<p>　　小篆、薤叶、垂露、悬针、缨络（刘德观星作）、柳叶（卫瓘作）、剪刀（韦诞作）、外国胡书（阿马儿抹王授）。</p>
+<p>　　<strong>韵之字数</strong></p>
+<p>　　沈约韵一万一千五百二十字，《广韵》二万六千一百九十四字。</p>
+<p>　　<strong>八分书</strong></p>
+<p>　　蔡文姬言，割程隶字八分，取二分；割李篆字二分，取八分，故名八分书。</p>
+<p>　　<strong>章草</strong></p>
+<p>　　汉元帝时黄门令史游作《急就章》，解散隶体，谓之章草。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19236.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19238.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+折狱龟鉴·卷六·察慝_古诗文网
+</title>
+<meta content="179高柔问钱魏高柔，为廷尉。护军营士窦礼近出不还，营以为亡，表言逐捕，没其妻盈及男女为官奴婢。盈称冤自讼，莫有省者，乃诣廷尉。柔问：“何以知夫不亡？”盈泣对曰：“夫非轻狡不顾室家" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20004.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·察慝</b></span>
+<a href="javascript:PlayBookv(20004)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20004" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20004" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%83%91%e5%85%8b">郑克</a></p>
+<div class="contson">
+<p>　　179高柔问钱魏高柔，为廷尉。护军营士窦礼近出不还，营以为亡，表言逐捕，没其妻盈及男女为官奴婢。盈称冤自讼，莫有省者，乃诣廷尉。柔问：“何以知夫不亡？”盈泣对曰：“夫非轻狡不顾室家者。”又问：“汝夫不与人有乎？”曰：“夫良善，与人无。”“汝夫不与人交钱物乎？”曰：“尝出钱与同营士焦子文，求不得。”时子文适坐事系狱，柔乃召问所坐，语次，问：“曾举人钱否？”对曰：“单贫，不敢举人钱。”察其色动，遂复问：“汝曾举窦礼钱，何言不耶？”子文怪知事露，应对不次。柔诘之曰：“汝已杀窦礼，便宜早服。”子文于是叩头服罪。旧出魏志本传。</p>
+<p>　　按：慝与奸异者，奸必巧诈，慝唯隐讳。如钉杀其夫，而云“遭火烧死”，是巧诈也。如举窦礼钱，而云“单贫不敢”，是隐讳也。礼近出不还，疑为人所杀，故首问其，次问交钱物者。尝出钱与焦子文，而求不得，或缘嫌恨，以致此祸，于是察其色动，辞对不次，则隐讳之情得矣，故诘之服罪。是善察慝者也。</p>
+<p>　　180胡质诘吏魏胡质，为常山太守，迁任东莞。士卢显为人所杀，质曰：“此士无而有少妻，所以死乎？”悉集其比居少年。书吏李若见问而色动，遂穷诘情状，若即自首，罪人斯得。旧出魏志本传。</p>
+<p>　　按：高柔知窦礼无，而与人交钱物所以死也，故察得焦子文。胡质知卢显无，而有少妻，所以死也，故察得李若。夫人之相杀害者，苟无恨，若不因财，则必因色。惟此二者，足以得其人矣。然所以察之者，皆不过色与辞之间，亦唯聪明，故不可欺也。</p>
+<p>　　181蔡高指盗(褚裒一事附)蔡高调福州长溪尉，民有夫妇皆出，而盗杀其守舍子者。高亟召里民举会，环坐而熟视之，指一人曰：“此杀人者也。”讯之，果服。见欧阳修参政所撰墓志。</p>
+<p>　　按：民之被杀，无所猜执，则其夫妇必皆良善，而于同里亦无仇怨，忍杀其守舍子者，乃凶残人也。凶残之人，气貌当异，故不待问之而色动，诘之而辞屈，唯环坐而熟视之，其人已得矣。高之明察，尤可称也。昔孟嘉在坐，褚裒未识，而庾亮使裒自求之。眄睐良久，乃指嘉曰：“此人小异，得无是乎？”虽善恶有殊，而物理何别？高之视裒，谅无愧焉。</p>
+<p>　　182吕公绰疑仇吕公绰侍读，知开封府。有营妇，夫戍未还。夜，盗入舍，断腕而去。主名不立，都人喧言骇异。公绰谓：“非其夫仇，不宜快意戕害至此。”亟遣驰诘其夫，果获同营韩元者，具奸状，伏诛。见王圭丞相所撰墓志。</p>
+<p>　　按：此盖知营妇为人非不良者，故特疑其夫仇戕害之也。既得其事，乃察其实，彼之隐慝，将何所遁？斯可以谓之明矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20003.aspx">上一章</a>
+<a href="/guwen/book_271.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20005.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

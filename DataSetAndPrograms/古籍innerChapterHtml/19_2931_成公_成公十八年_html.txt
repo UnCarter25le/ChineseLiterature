@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·成公·成公十八年_古诗文网
+</title>
+<meta content="【经】十有八年春王正月，晋杀其大夫胥童。庚申，晋弑其君州蒲。齐杀其大夫国佐。公如晋。夏，楚子、郑伯伐宋。宋鱼石复入于彭城。公至自晋。晋侯使士□来聘。秋，杞伯来朝。八月，邾子来朝，筑" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2931.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1460" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>成公·成公十八年</b></span>
+<a href="javascript:PlayBookv(2931)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2931" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1460)" id="leftbtn1460" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2931" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】十有八年春王正月，晋杀其大夫胥童。庚申，晋弑其君州蒲。齐杀其大夫国佐。公如晋。夏，楚子、郑伯伐宋。宋鱼石复入于彭城。公至自晋。晋侯使士□来聘。秋，杞伯来朝。八月，邾子来朝，筑鹿囿。己丑，公薨于路寝。冬，楚人、郑人侵宋。晋侯使士鲂来乞师。十有二月，仲孙蔑会晋侯、宋公、卫侯、邾子、齐崔杼同盟于虚朾。丁未，葬我君成公。 </p>
+<p>　　【传】十八年春，王正月庚申，晋栾书、中行偃使程滑弑厉公，葬之于翼东门之外，以车一乘。使荀罃、士鲂逆周子于京师而立之，生十四年矣。大夫逆于清原，周子曰：「孤始愿不及此。虽及此，岂非天乎！抑人之求君，使出命也，立而不从，将安用君？二三子用我今日，否亦今日，共而从君，神之所福也。」对曰：「群臣之愿也，敢不唯命是听。」庚午，盟而入，馆于伯子同氏。辛巳，朝于武宫，逐不臣者七人。周子有兄而无慧，不能辨菽麦，故不可立。 </p>
+<p>　　齐为庆氏之难故，甲申晦，齐侯使士华免以戈杀国佐于内宫之朝。师逃于夫人之宫。书曰：「齐杀其大夫国佐。」弃命，专杀，以谷叛故也。使清人杀国胜。国弱来奔，王湫奔莱。庆封为大夫，庆佐为司寇。既，齐侯反国弱，使嗣国氏，礼也。 </p>
+<p>　　二月乙酉朔，晋侯悼公即位于朝。始命百官，施舍、己责，逮鳏寡，振废滞，匡乏困，救灾患，禁淫慝，薄赋敛，宥罪戾，节器用，时用民，欲无犯时。使魏相、士鲂、魏颉、赵武为卿。荀家、荀会、栾□、韩无忌为公族大夫，使训卿之子弟共俭孝弟。使士渥浊为大傅，使修范武子之法。右行辛为司空，使修士蒍之法。弁纠御戎，校正属焉，使训诸御知义。荀宾为右，司士属焉，使训勇力之士时使。卿无共御，立军尉以摄之。祁奚为中军尉，羊舌职佐之，魏绛为司马，张老为候奄。铎遏寇为上军尉，籍偃为之司马，使训卒乘亲以听命。程郑为乘马御，六驺属焉，使训群驺知礼。凡六官之长，皆民誉也。举不失职，官不易方，爵不逾德，师不陵正，旅不逼师，民无谤言，所以复霸也。 </p>
+<p>　　公如晋，朝嗣君也。</p>
+<p>　　夏六月，郑伯侵宋，及曹门外。遂会楚子伐宋，取朝郏。楚子辛、郑皇辰侵城郜，取幽丘，同伐彭城，纳宋鱼石、向为人、鳞朱、向带、鱼府焉，以三百乘戍之而还。书曰「复入」，凡去其国，国逆而立之，曰「入」；复其位，曰「复归」；诸侯纳之，曰「归」。以恶曰复入。宋人患之。西鉏吾曰：「何也？若楚人与吾同恶，以德于我，吾固事之也，不敢贰矣。大国无厌，鄙我犹憾。不然，而收吾憎，使赞其政，以间吾衅，亦吾患也。今将崇诸侯之奸，而披其地，以塞夷庚。逞奸而携服，毒诸侯而惧吴、晋。吾庸多矣，非吾忧也。且事晋何为？晋必恤之。」</p>
+<p>　　公至自晋。晋范宣子来聘，且拜朝也。君子谓：「晋于是乎有礼。」 </p>
+<p>　　秋，杞桓公来朝，劳公，且问晋故。公以晋君语之。杞伯于是骤朝于晋而请为昏。 </p>
+<p>　　七月，宋老佐、华喜围彭城，老佐卒焉。 </p>
+<p>　　八月，邾宣公来朝，即位而来见也。 </p>
+<p>　　筑鹿囿，书，不时也。 </p>
+<p>　　己丑，公薨于路寝，言道也。 </p>
+<p>　　冬十一月，楚子重救彭城，伐宋，宋华元如晋告急。韩献子为政，曰：「欲求得人，必先勤之，成霸安强，自宋始矣。」晋侯师于台谷以救宋，遇楚师于靡角之谷。楚师还。 </p>
+<p>　　晋士鲂来乞师。季文子问师数于臧武仲，对曰：「伐郑之役，知伯实来，下军之佐也。今彘季亦佐下军，如伐郑可也。事大国，无失班爵而加敬焉，礼也。」从之。</p>
+<p>　　十二月，孟献子会于虚朾，谋救宋也。宋人辞诸侯而请师以围彭城。孟献子请于诸侯，而先归会葬。 </p>
+<p>　　丁未，葬我君成公，书，顺也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2930.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2932.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1460" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

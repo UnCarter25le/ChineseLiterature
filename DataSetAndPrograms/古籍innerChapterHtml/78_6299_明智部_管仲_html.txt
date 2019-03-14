@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·明智部·管仲_古诗文网
+</title>
+<meta content="【原文】管仲有疾，桓公往问之，曰：“仲父病矣，将何以教寡人？”管仲对曰：“愿君之远易牙、竖刁、常之巫、卫公子启方。”公曰：“易牙烹其子以慊①寡人，犹尚可疑耶？”对曰：“人之情非不爱" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6299.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5258" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>明智部·管仲</b></span>
+<a href="javascript:PlayBookv(6299)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6299" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5258)" id="leftbtn5258" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6299" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　管仲有疾，桓公往问之，曰：“仲父病矣，将何以教寡人？”管仲对曰：“愿君之远易牙、竖刁、常之巫、卫公子启方。”公曰：“易牙烹其子以慊①寡人，犹尚可疑耶？”对曰：“人之情非不爱其子也。其子之忍，又何有于君？”公又曰：“竖刁自宫以近寡人，犹尚可疑耶？”对曰：“人之情非不爱其身也，其身之忍，又何有于君。”公又曰：“常之巫审于死生，能去苛病，犹尚可疑耶？”对曰：“死生，命也；苛病，天也。君不任其命，守其本，而恃常之巫，彼将以此无不为也。”公又曰：“卫公子启方事寡人十五年矣，其父死而不敢归哭，犹尚可疑耶？”对曰：“人之情非不爱其父也，其父之忍，又何有于君。”公曰：“诺。”管仲死，尽逐之。食不甘，宫不治，苛病起，朝不肃，居三年，公曰：“仲父不亦过乎？”于是皆复召而反。明年，公有病，常之巫从中出曰：“公将以某日薨。”（边批：所谓无不为也。）管仲易牙、竖刁、常之巫相与作乱。塞宫门，筑高墙，不通人，公求饮不得，卫公子启方以书社四十②下卫。公闻乱，慨然叹，涕出，曰：“嗟乎!圣人所见岂不远哉？”</p>
+<p>　　〔评〕昔吴起杀妻求将，鲁人谮之；乐羊伐中山，对使者食其子，文侯赏其功而疑其心。夫能为不近人情之事者，其中正不可测也。</p>
+<p>　　天顺中，都指挥马良有宠。良妻亡，上每慰问。适数日不出，上问及，左右以新娶对。上怫然③曰：“此厮夫妇之道尚薄，而能事我耶？”杖而疏之。宣德中，金吾卫指挥傅广自宫，请效用内廷。上曰：“此人已三品，更欲何为？自残希进，下法司问罪。”</p>
+<p>　　噫!此亦圣人之远见也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6298.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6300.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5258" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

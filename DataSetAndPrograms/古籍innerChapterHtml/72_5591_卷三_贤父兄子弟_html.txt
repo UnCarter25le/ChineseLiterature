@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+容斋随笔·卷三·贤父兄子弟_古诗文网
+</title>
+<meta content="宋谢晦为右卫将军，权遇己重，自彭城还都迎家，宾客辐凑。兄瞻惊骇曰：“汝名位未多，而人归趣乃尔，此岂门户之福邪？”乃以篱隔门庭，曰：“吾不忍见此。”又言主宋公裕，特乞降黜，以保衰门。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5591.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3968" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·贤父兄子弟</b></span>
+<a href="javascript:PlayBookv(5591)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5591" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3968)" id="leftbtn3968" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5591" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b4%aa%e8%bf%88">洪迈</a></p>
+<div class="contson">
+<p>　　宋谢晦为右卫将军，权遇己重，自彭城还都迎家，宾客辐凑。兄瞻惊骇曰：“汝名位未多，而人归趣乃尔，此岂门户之福邪？”乃以篱隔门庭，曰：“吾不忍见此。”又言主宋公裕，特乞降黜，以保衰门。及晦立佐命功，瞻意忧惧，遇病，不疗而卒。晦果覆其宗。颜竣于孝武有功贵重，其父延之，常语之曰：“吾平生不喜见要人，今不幸见汝。”尝早诣竣，见宾客盈门，竣尚未起，延之怒曰：“汝出粪土之中，升云霞之上，遽骄傲如此，其能久乎？”竣竟为孝武所诛。延之、瞻可谓贤父兄矣。</p>
+<p>　　隋高颎拜为仆射，其母戒之曰：“汝富贵已极，但有一斫尔！”颎由是常恐祸变，及罢免为民，欢然无恨色，后亦不免为炀帝所诛。唐潘孟阳为侍郎，年未四十，母曰：“以尔之材，而位丞郎，使吾忧之。”严武卒，母哭曰：“而今而后，吾知免为官婢。”三者可谓贤母矣。</p>
+<p>　　褚渊助萧道成篡宋为齐，渊从弟炤谓渊子贲曰：“不知汝家司空将一家物与一家，亦复何谓？”及渊为司徒，炤叹曰：“门户不幸，乃复有今日之拜。”渊卒，世子贲耻其父失节，服除遂不仕，以爵与其弟，屏居终身。齐王晏助明帝夺国，从弟思远曰：“兄将来何以自立？若及此引决，犹可何全门户。”及拜骠骑将军，集会子弟，谓思远兄思微曰：“隆昌之末，阿戎劝吾自裁，若从其语，岂有今日？”思远曰：“如阿戎所见，今犹未晚也。”晏叹曰：“世乃有劝人死者！”晏果为明帝所诛。炤、贲、思远，可为贤子弟矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5590.aspx">上一章</a>
+<a href="/guwen/book_72.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5592.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3968" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

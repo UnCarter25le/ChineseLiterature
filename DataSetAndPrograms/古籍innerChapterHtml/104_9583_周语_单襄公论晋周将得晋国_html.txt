@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·周语·单襄公论晋周将得晋国_古诗文网
+</title>
+<meta content="晋孙谈之子周适周，事单襄公，立无跛，视无还，听无耸，言无远；言敬必及天，言忠必及意，言信必及身，言仁必及人，言义必及利，言智必及事，言勇必及制，言教必及辩，言孝必及神，言惠必及和，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9583.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8334" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>周语·单襄公论晋周将得晋国</b></span>
+<a href="javascript:PlayBookv(9583)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9583" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8334)" id="leftbtn8334" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9583" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+晋孙谈之子周适周，事单襄公，立无跛，视无还，听无耸，言无远；言敬必及天，言忠必及意，言信必及身，言仁必及人，言义必及利，言智必及事，言勇必及制，言教必及辩，言孝必及神，言惠必及和，言让必及敌；晋国有忧未尝不戚，有庆未尝不怡。
+</p><p>　　
+襄公有疾，召顷公而告之曰：“必善晋周，将得晋国。其行也文，能文则得天地。天地所胙，小而后国。夫敬，文之恭也；忠，文之实也；信，文之孚也；仁，文之爱也；义，文之制也；智，文之舆也；勇，文之帅也；教，文之施也；孝，文之本也；惠，文之慈也；让，文之材也。象天能敬，帅意能忠思身能信，爱人能仁，利制能义，事建能智，帅义能勇，施辩能教，昭神能孝，慈和能惠，推敌能让。此十一者，夫子皆有焉。
+</p><p>　　
+“天六地五，数之常也。经之以天，纬之以地，经纬不爽，文之象也。文王质文，故天胙之以天下。夫子被之矣，其昭穆又近，可以得国。且夫立无跛，正也，视无还，端也；听无耸，成也；言无远，慎也。夫正，德之道也；端，德之信也；成，德之终也；慎，德之守也。守终纯固，道正事信，明令德矣。慎成端正，德之相也。为晋休戚，不背本也。被文相德，非国何取！
+</p><p>　　
+“成公之归也，吾闻晋之筮之也，遇《乾》之《否》，曰：‘配而不终，君三出焉。’一既往矣，后之不知，其次必此。且吾闻成公之生也，其母梦神规其臀以墨，曰：‘使有晋国，三而畀驩之孙。’故名之曰‘黑臀’，于今再矣。襄公曰驩，此其孙也。而令德孝恭，非此其谁？且其梦曰：‘必驩之孙，实有晋国。’其卦曰：‘必三取君于周。’其德又可以君国，三袭焉。吾闻之《大誓》，故曰：‘朕梦协朕卜，袭于休祥，戎商必克。’以三裘也。晋仍无道而鲜胄，其将失之矣。必早善晋子，其当之也。”
+</p><p>　　
+顷公许诺。及厉公之乱，召周子而立之，是为悼公。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9582.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9584.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8334" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

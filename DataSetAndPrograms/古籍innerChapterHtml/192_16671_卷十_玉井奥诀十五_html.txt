@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·玉井奥诀十五_古诗文网
+</title>
+<meta content="财居库地，身入衰乡，性能鄙吝，气亦猥慵。财神遇库闭藏，既欠刑冲开激，况身弱者，此等之人，度量悭鄙，器宇少豁达也。木遇学堂，火临生地，文既精华，志尤倨傲。木火，文明之象。居生旺之位，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16671.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·玉井奥诀十五</b></span>
+<a href="javascript:PlayBookv(16671)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16671" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16671" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　财居库地，身入衰乡，性能鄙吝，气亦猥慵。</p>
+<p>　　财神遇库闭藏，既欠刑冲开激，况身弱者，此等之人，度量悭鄙，器宇少豁达也。</p>
+<p>　　木遇学堂，火临生地，文既精华，志尤倨傲。</p>
+<p>　　木火，文明之象。居生旺之位，主文学疏通，才能雄健，但木火炎上之气，为人不顾细节，不能屈下倨傲骄忽。</p>
+<p>　　播德望之声名，敏智谋之才略。</p>
+<p>　　贵气有助，干有力，天月德辰，及天乙，互换来往，主聪明雅望，兼藉空亡刑冲得用，准上文。</p>
+<p>　　煞刃扶贵象，有制伏，得中，日干可以驭伏，惟上文。又云：水带贵气，有扶助，有堤防，不惟才略机变，而亦智谋过人。</p>
+<p>　　财源拘局，街头铺店经营，窃气无凭，化外江湖奔走。</p>
+<p>　　格局不广，器宇不充，但有财源助身，一二支伶俐生扶，而局于纯粹之器，兼库神得用，宅神有情者，准上文。又云：食神或印，此例同断，凡泄气之神，汗漫滔滔之势，远而有力，聚而无依，准上文。</p>
+<p>　　江湖泛泛兮，风餐雨宿，罗网蒙蒙兮，利锁名疆。</p>
+<p>　　亥子为江湖，若系财官禄马用神，其气泛溢者，多致道途生计，披星戴月，其水泛泛，其马刑冲，方断。</p>
+<p>　　辰巳为地网，戌亥为天罗，全者用神其上失地，五气不能成象，则利名碌碌无成。如尘埃所罩，皆雾所迷，岁运并临，仍与日干克害者，夭亡。</p>
+<p>　　水火动摇，是非林里立身，木金和协，义礼门庭发财。</p>
+<p>　　水火乃人间之动物，犯此格，多惹是非唇吻，凡立身为事，短于闹里出头，斗喋之中着脚，若吉则有决策之机，凶则有不雅之号。</p>
+<p>　　金木无偏倚，气和得中，阴阳相配相济者，必务本实，我若克彼专，当获道义之财，若交错无情，主被客凌者，主不义人，损我无意中之财，或被不义事，冤屈折辱。</p>
+<p>　　驿马得我克他生，尽发外邦之禄，空亡有物明气见，每膺无意之名。</p>
+<p>　　遇马上之干，日主能克，或马位有物生我者，多是远方外财发越，或出外于边境得财禄，空亡为凶败之所，若有喜象集来，如金火喜空乘旺，为官贵等神有情者，合此格局。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16670.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16672.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

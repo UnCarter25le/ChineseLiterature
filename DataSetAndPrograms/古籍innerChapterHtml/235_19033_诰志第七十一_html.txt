@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+大戴礼记·诰志第七十一_古诗文网
+</title>
+<meta content="公曰：“诰志无荒，以会民义，斋戒必敬，会时必节，牺牲必全，齐盛必洁，上下禋祀，外内无失节，其可以省怨远灾乎？”子曰：“丘未知其可以省怨也！” 公曰：“然则何以事神？”子曰：“以礼会" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19033.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>诰志第七十一</b></span>
+<a href="javascript:PlayBookv(19033)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19033" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19033" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%88%b4%e5%be%b7">戴德</a></p>
+<div class="contson">
+<p>　　公曰：“诰志无荒，以会民义，斋戒必敬，会时必节，牺牲必全，齐盛必洁，上下禋祀，外内无失节，其可以省怨远灾乎？”子曰：“丘未知其可以省怨也！” </p>
+<p>　　公曰：“然则何以事神？”子曰：“以礼会时。夫民见其礼则上下援，援则乐，乐斯毋忧，以此省怨而乱不作也。夫礼会其四时，四孟四季，五牲五谷，顺至必时其节也，丘未知其可以为远灾也。” </p>
+<p>　　公曰：“然则为此何以？”子曰：“知仁合则天地成，天地成则庶物时，庶物时则民财敬，民财敬以时作；时作则节事，节事以动众，动众则有极；有极以使民则劝，劝则有功，有功则无怨，无怨则嗣世久，唯圣人！ </p>
+<p>　　是故政以胜众，非以陵众；众以胜事，非以伤事；事以靖民，非以征民；故地广而民众，长之禄也。 </p>
+<p>　　丘闻周太史曰：‘政不率天，下不由人，则凡事易坏而难成。’虞史伯夷曰：‘明，孟也。幽，幼也。明幽，雌雄也。雌雄迭兴而顺至，正之统也。日归于西，起明于东；月归于东，起明于西。’ </p>
+<p>　　虞夏之历，正建于孟春。于时冰泮发蛰，百草权舆，瑞雉无释。物乃岁俱生于东，以顺四时，卒于冬分。 </p>
+<p>　　于时鸡三号，卒明。载于青色，抚十二月节，卒于丑。日月成岁历，再闰以顺天道，此谓岁虞汁月。 </p>
+<p>　　天曰作明。曰与，惟天是戴。地曰作昌，曰与，惟地是事。人曰作乐，曰与，惟民是嬉。民之动能，不远厥事；民之悲色，不远厥德。此谓表里时合，物之所生，而蕃昌之道如此。 </p>
+<p>　　天生物，地养物，物备兴而时用常节曰圣人，主祭于天曰天子。天子崩，步于四川，代于四山，卒葬曰帝。 </p>
+<p>　　天作仁，地作富，人作治。乐治不倦，财富时节，是故圣人嗣则治。 </p>
+<p>　　文王治以俟时，汤治以伐乱；禹治以移众，众服，以立天下；尧贵以乐治时，举舜；舜治以德使力。 </p>
+<p>　　在国统民如恕，在家抚官而国，安之勿变，劝之勿沮，民咸废恶如进良，上诱善而行罚，百姓尽于仁而遂安之，此古之明制之治天下也。 </p>
+<p>　　仁者为圣，贵次，力次，美次，射御次，古之治天下者必圣人。 </p>
+<p>　　圣人有国，则日月不食，星辰不陨，勃海不运，河不满溢，川泽不竭，山不崩解，陵不施谷，川浴不处，深渊不涸。 </p>
+<p>　　于时龙至不闭，凤降忘翼，蛰兽忘攫，爪鸟忘距，蜂虿不螫婴儿，●虻不食夭驹，雒出服，河出图。 </p>
+<p>　　自上世以来，莫不降仁，国家之昌，国家之臧，信仁。是故不赏不罚，如民咸尽力；车不建戈，远迩咸服，允使来往，地宾毕极；无怨无恶，率惟懿德。 </p>
+<p>　　此无空礼，无空名，贤人并忧，残毒以时省；举良良，举善善，恤民使仁，日 仁宾也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19032.aspx">上一章</a>
+<a href="/guwen/book_235.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19034.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

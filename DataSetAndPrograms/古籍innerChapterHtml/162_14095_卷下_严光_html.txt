@@ -1,0 +1,90 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+高士传·卷下·严光_古诗文网
+</title>
+<meta content="严光，字子陵，会稽馀姚人也。少有高名，同光武游学。及帝即位，光乃变易姓名，隐逝不见。帝思其贤，乃物色求之。后齐国上言，有一男子披羊裘，钓泽中。帝疑光也，乃遣安车玄纁聘之，三反而后至" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14095.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷下·严光</b></span>
+<a href="javascript:PlayBookv(14095)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14095" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14095" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　严光，字子陵，会稽馀姚人也。少有高名，同光武游学。及帝即位，光乃变易姓名，隐逝不见。帝思其贤，乃物色求之。后齐国上言，有一男子披羊裘，钓泽中。帝疑光也，乃遣安车玄纁聘之，三反而后至。司徒霸与光素旧，欲屈光到霸所语言，遣使西曹属侯子道奉书，光不起，於床上箕踞抱膝发书。读讫，问子道曰：“君房素痴，今为三公，宁小差否？”子道曰：“位已鼎足，不痴也。”光曰：“遣卿来何言？”子道传霸言，光曰：“卿言不痴，是非痴语曲也。天子徵我，三乃来。人主尚不见，当见人臣乎？”子道求报，光曰：“我手不能书。”乃口授之，使者嫌少，可更足。光曰：“买菜乎？求益也。”霸封奏其书，帝笑曰：“狂奴故态也。”车驾即曰幸其馆，光卧不起，帝即卧所，抚其腹曰：“咄咄子陵，不可相助为理邪？”光又眠不应。良久，乃张目而言曰：“昔唐尧著德，巢父洗耳。士故有志，何至相迫乎？”帝曰：“子陵，我竟不能下汝邪？”於是升舆，叹息而去。复引光入论道，旧故相对累曰，因其偃卧。除为谏议大夫，不屈，乃耕於富春山。后人名其钓处为严陵濑焉。建武十七年，复特徵，不至。年八十，终於家。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14094.aspx">上一章</a>
+<a href="/guwen/book_162.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14096.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+地藏经·嘱累人天_古诗文网
+</title>
+<meta content="尔时世尊举金色臂，又摩地藏菩萨摩诃萨顶，而作是言：地藏地藏，汝之神力不可思议、汝之慈悲不可思议、汝之智慧不可思议、汝之辩才不可思议，正使十方诸佛，赞叹宣说汝之不思议事，千万劫中，不" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5319.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3658" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>嘱累人天</b></span>
+<a href="javascript:PlayBookv(5319)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5319" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3658)" id="leftbtn3658" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5319" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　尔时世尊举金色臂，又摩地藏菩萨摩诃萨顶，而作是言：地藏地藏，汝之神力不可思议、汝之慈悲不可思议、汝之智慧不可思议、汝之辩才不可思议，正使十方诸佛，赞叹宣说汝之不思议事，千万劫中，不能得尽。</p>
+<p>　　地藏地藏，记吾今日在忉利天中，于百千万亿不可说，不可说，一切诸佛菩萨，天龙八部，大会之中，再以人天诸众生等，未出三界，在火宅中者，付嘱于汝。无令是诸众生，堕恶趣中，一日一夜，何况更落五无间，及阿鼻地狱，动经千万亿劫，无有出期。</p>
+<p>　　地藏，是南阎浮提众生，志性无定，习恶者多。纵发善心，须臾即退。若遇恶缘，念念增长。以是之故，吾分是形，百千亿化度，随其根性而度脱之。</p>
+<p>　　地藏，吾今殷勤，以天人众，付嘱于汝。未来之世，若有天人，及善男子善女人，于佛法中，种少善根，一毛一尘，一沙一渧，汝以道力，拥护是人，渐修无上，勿令退失。</p>
+<p>　　复次地藏，未来世中，若天若人，随业报应，落在恶趣。临堕趣中，或至门首，是诸众生，若能念得一佛名，一菩萨名，一句一偈大乘经典。是诸众生，汝以神力，方便救拔，于是人所，现无边身，为碎地狱，遣令生天，受胜妙乐。</p>
+<p>　　尔时世尊，而说偈言：</p>
+<p>　　现在未来天人众，吾今殷勤付嘱汝，以大神通方便度，勿令堕在诸恶趣。</p>
+<p>　　尔时地藏菩萨摩诃萨，胡跪合掌白佛言：世尊，唯愿世尊不以为虑。未来世中，若有善男子善女人，于佛法中，一念恭敬，我亦百千方便，度脱是人，于生死中速得解脱。何况闻诸善事，念念修行，自然于无上道永不退转。</p>
+<p>　　说是语时，会中有一菩萨，名虚空藏，白佛言：世尊，我自至忉利，闻于如来赞叹地藏菩萨，威神势力，不可思议。未来世中，若有善男子善女人，乃及一切天龙，闻此经典及地藏名字，或瞻礼形像，得几种福利？唯愿世尊，为未来现在一切众等，略而说之。</p>
+<p>　　佛告虚空藏菩萨：谛听谛听！吾当为汝分别说之。若未来世，有善男子善女人，见地藏形像，及闻此经，乃至读诵，香华饮食，衣服珍宝，布施供养，赞叹瞻礼，得二十八种利益：一者、天龙护念，二者、善果日增，三者、集圣上因，四者、菩提不退，五者、衣食丰足，六者、疾疫不临，七者、离水火灾，八者、无盗贼厄，九者、人见钦敬，十者、神鬼助持，十一者、女转男身，十二者、为王臣女，十三者、端正相好，十四者、多生天上。十五者、或为帝王，十六者、宿智命通，十七者、有求皆从，十八者、眷属欢乐，十九者、诸横消灭，二十者、业道永除，二十一者、去处尽通，二十二者、夜梦安乐，二十三者、先亡离苦，二十四者、宿福受生，二十五者、诸圣赞叹，二十六者、聪明利根，二十七者、饶慈愍心，二十八者、毕竟成佛。</p>
+<p>　　复次虚空藏菩萨：若现在未来，天龙鬼神，闻地藏名，礼地藏形，或闻地藏本愿事行，赞叹瞻礼，得七种利益：</p>
+<p>　　一者、速超圣地，二者、恶业消灭，三者、诸佛护临，四者、菩提不退，五者、增长本力，六者、宿命皆通，七者、毕竟成佛。</p>
+<p>　　尔时，十方一切诸来，不可说不可说诸佛如来，及大菩萨天龙八部，闻释迦牟尼佛，称扬赞叹地藏菩萨，大威神力，不可思议，叹未曾有。</p>
+<p>　　是时，忉利天，雨无量香华，天衣珠璎，供养释迦牟尼佛，及地藏菩萨已，一切众会，俱复瞻礼，合掌而退。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5318.aspx">上一章</a>
+<a href="/guwen/book_66.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3658" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

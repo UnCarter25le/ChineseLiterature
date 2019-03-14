@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+商君书·说民_古诗文网
+</title>
+<meta content="辩慧，乱之赞也；礼乐，淫佚之徵也；慈仁，过之母也；任誉，奸之鼠也。乱有赞则行，淫佚有徵则用，过有母则生，奸有鼠则不止。八者有群，民胜其政；国无八者，政胜其民。民胜其政，国弱；政胜其" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3994.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2590" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>说民</b></span>
+<a href="javascript:PlayBookv(3994)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3994" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2590)" id="leftbtn2590" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3994" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%95%86%e9%9e%85">商鞅</a></p>
+<div class="contson">
+<p>　　辩慧，乱之赞也；礼乐，淫佚之徵也；慈仁，过之母也；任誉，奸之鼠也。乱有赞则行，淫佚有徵则用，过有母则生，奸有鼠则不止。八者有群，民胜其政；国无八者，政胜其民。民胜其政，国弱；政胜其民，兵强。故国有八者，上无以使守战，必削至亡。国无八者，上有以使守战，必兴至王。</p>
+<p>　　用善，则民亲其亲；任奸，则民亲其制。合而复者，善也；别而规者，奸也。章善，则过匿；任奸，则罪诛。过匿，则民胜法；罪诛，则法胜民。</p>
+<p>　　民胜法，国乱；法胜民，兵强。故曰：以良民治，必乱至削；以奸民治，必治至强。</p>
+<p>　　国以难攻，起一取十，国以易攻，起十亡百。国好力，曰以难攻；国好言，曰以易攻。民易为言，难为用。国法作民之所难，兵用民之所易而以力攻者，起一得十；国法作民之所易，兵用民之所难而以言攻者，出十亡百。</p>
+<p>　　罚重，爵尊；赏轻，刑威。爵尊，上爱民；刑威，民死上。故兴国行罚，则民利；用赏，则上重。法详，则刑繁；法繁，则刑省。民治则乱，乱而治之，又乱。故治之于其治，则治；治之于其乱，则乱。民之情也治，其事也乱。故行刑，重其轻者，轻者不生，则重者无从至矣，此谓治之于其治者。</p>
+<p>　　行刑。重其重者，轻其轻者，轻者不止，则重者无从止矣，此谓治之于其乱也。故重轻，则刑去事成，国强；重重而轻轻，则刑至而事生，国削。</p>
+<p>　　民勇，则赏之以其所欲；民怯，则杀之以其所恶。故怯民使之以刑，则勇；勇民使之以赏，则死。怯民勇，勇民死，国无敌者必王。</p>
+<p>　　民贫则弱国，富则淫，淫则有虱，有虱则弱。故贫者益之以刑，则富；富者损之以赏，则贫。治国之举，贵令贫者富、富者贫。贫者富，国强；富者贫，三官无虱。国久强而无虱者必王。</p>
+<p>　　刑生力，力生强，强生威，威生德，德生于刑。故刑多，则赏重；赏少，则刑重。民之有欲有恶也，欲有六淫，恶有四难。从六淫，国弱；行四难，兵强。故王者刑于九而赏出一。刑于九，则六淫止；赏出一，则四难行。六淫止，则国无奸；四难行，则兵无敌。</p>
+<p>　　民之所欲万，而利之所出一。民非一，则无以致欲，故作一。作一则力抟，力抟则强。强而用，重强。故能生力，能杀力，曰攻敌之国，必强。塞私道以穷其志，启一门以致其欲，使民必先行其所要，然后致其所欲，故力多。力多而不用，则志穷；志穷，则有私；有私，则有弱。故能生力，不能杀力，曰自攻之国，必削。故曰：王者，国不蓄力，家不积粟。国不蓄力，下用也；家不积粟，上藏也。</p>
+<p>　　国治：断家王，断官强，断君弱。重轻，刑去。常官，则治。省刑，要保，赏不可倍也。有奸必告之，则民断于心，上令而民知所以应。器成于家，而行于官，则事断于家。故王者刑赏断于民心，器用断于家。治明则同，治暗则异。同则行，异则止，行则治，止则乱。治则家断，乱则君断。治国者贵不断，故以十里断者弱，以五里断者强。家断则有余，故曰：日治者王。</p>
+<p>　　官断则不足，故曰：夜治者强。君断则乱，故曰：宿治者削。故有道之国，治不听君，民不从官。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3993.aspx">上一章</a>
+<a href="/guwen/book_42.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3995.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2590" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

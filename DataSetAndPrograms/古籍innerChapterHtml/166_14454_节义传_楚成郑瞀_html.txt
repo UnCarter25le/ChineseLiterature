@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+列女传·节义传·楚成郑瞀_古诗文网
+</title>
+<meta content="郑瞀者，郑女之嬴媵，楚成王之夫人也。初成王登台，临后宫，宫人皆倾观，子瞀直行不顾，徐步不变。王曰：“行者顾。”子瞀不顾，王曰：“顾，吾以女为夫人。”子瞀复不顾，王曰：“顾，吾又与女" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14454.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>节义传·楚成郑瞀</b></span>
+<a href="javascript:PlayBookv(14454)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14454" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14454" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　郑瞀者，郑女之嬴媵，楚成王之夫人也。初成王登台，临后宫，宫人皆倾观，子瞀直行不顾，徐步不变。王曰：“行者顾。”子瞀不顾，王曰：“顾，吾以女为夫人。”子瞀复不顾，王曰：“顾，吾又与女千金而封若父兄子。”瞀遂行不顾。于是王下台而问曰：“夫人，重位也。封爵，厚禄也。壹顾可以得之，而遂不顾，何也？”子瞀曰：“妾闻妇人以端正和颜为容。今者，大王在台上而妾顾，则是失仪节也。不顾，告以夫人之尊，示以封爵之重，而后顾，则是妾贪贵乐利以忘义理也。苟忘义理，何以事王？”王曰：“善。”遂立以为夫人。处期年，王将立公子商臣以为太子。王问之于令尹子上，子上曰：“君之齿未也，而又多宠子。既置而黜之，必为乱矣。且其人蜂目而豺声，忍人也，不可立也。”王退而问于夫人子瞀，曰：“令尹之言信可从也。”王不听，遂立之。其后商臣以子上救蔡之事谮子上而杀之。子瞀谓其保曰：“吾闻妇人之事在于馈食之间而已。虽然，心之所见，吾不能藏。夫昔者，子上言太子之不可立也，太子怨之，谮而杀之。王不明察，遂辜无罪。是白黑颠倒，上下错谬也。王多宠子，皆欲得国。太子贪忍，恐失其所。王又不明，无以照之。庶嫡分争，祸必兴焉。”后王又欲立公子职。职，商臣庶弟也。子瞀退而与其保言曰：“吾闻信不见疑，今者王必将以职易太子，吾惧祸乱之作也。而言之于王，王不吾应。其以太子为非吾子，疑吾谮之者乎！夫见疑而生，众人孰知其不然。与其无义而生，不如死以明之。且王闻吾死，必寤太子之不可释也。”遂自杀。保母以其言通于王。是时太子知王之欲废之也，遂兴师作乱，围王宫。王请食熊蹯而死，不可得也，遂自经。君子曰：“非至仁，孰能以身诫。”诗曰：“舍命不渝。”此之谓也。</p>
+<p>　　颂曰：子瞀先识，执节有常，兴于不顾，卒配成王，知商臣乱，言之甚强，自嫌非子，以杀身盟。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14453.aspx">上一章</a>
+<a href="/guwen/book_166.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14455.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

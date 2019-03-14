@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·术智部·王翦 萧何_古诗文网
+</title>
+<meta content="【原文】秦伐楚，使王翦将兵六十万人，始皇自送至灞上。王翦行，请美田宅园地甚众，始皇曰：“将军行矣，何忧贫乎？”王翦曰：“为大王将，有功终不得封侯；故及大王之向臣，臣亦及时以请园地，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6366.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5329" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>术智部·王翦 萧何</b></span>
+<a href="javascript:PlayBookv(6366)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6366" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5329)" id="leftbtn5329" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6366" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　秦伐楚，使王翦将兵六十万人，始皇自送至灞上。王翦行，请美田宅园地甚众，始皇曰：“将军行矣，何忧贫乎？”王翦曰：“为大王将，有功终不得封侯；故及大王之向臣，臣亦及时以请园地，为子孙业耳。”始皇大笑。王翦既至关，使使还请善田者五辈，或曰：“将军之乞贷亦已甚矣!”王翦曰：“不然，夫秦王恒中粗而不信人，今空秦国甲士而专委于我，我不多请田宅为子孙业以自坚，顾令秦王坐而疑我耶？”</p>
+<p>　　汉高专任萧何关中事。汉三年，与项羽相距京、索间。上数使使劳苦丞相，鲍生谓何曰：“今王暴衣露盖，数劳苦君者，有疑君心也，（边批：晁错使天子将兵而居守，所以招祸。）为君计，莫若遣君子孙昆第能胜兵者，悉诣军所。”于是何从其计，汉王大悦。</p>
+<p>　　吕后用萧何计诛韩信，上已闻诛信，使使拜何为相国，益封五千户，令卒五百人，一都尉为相国卫。诸君皆贺，召平独吊。曰：“祸自此始矣!上暴露于外，而君守于内，非被矢石之难，而益封君置卫，非以宠君也，以今者淮阴新反，有疑君心，愿君让封勿受，悉以家财佐军。”何从之，上悦。其秋黥布反，上自将击之。数使使问相国何为，曰：“为上在军，拊循勉百姓，悉取所有佐军，如陈豨时。”客又说何曰：“君灭族不久矣!夫君位为相国，功第一，不可复加。然君初入关中，得百姓心十余年矣，尚复孳孳得民和。上所为数问君，畏君倾动关中。今君胡不多买田地，贱贳贷以自污。（边批：王翦之智。）上心必安。”于是何从其计。上还，百姓遮道诉相国，上乃大悦。</p>
+<p>　　〔评〕汉史又言，何买田宅必居穷僻处，不治垣屋，曰：“令后世贤，师吾俭；不贤，无为势家所夺。”与前所云强买民田宅似属两截，不知前乃免祸之权，后乃保家之策，其智政不相妨也。宋赵韩王普强买人第宅，聚敛财贿，为御史中丞雷德骧所劾。韩世忠既罢，杜门绝客，口不言兵，时跨驴携酒，从一二奚童，纵游西湖以自乐。尝议买新淦县官田，高宗闻之，甚喜，赐御札，号其庄曰：“旌忠”。二公之买田，亦此意也。夫人主不能推肝胆以与豪杰功，至令有功之人，不惜自污以祈幸免。三代交泰之风荡如矣!然降而今日，大臣无论有功无功，无不多买田宅自污者，彼又持何说耶？</p>
+<p>　　陈平当吕氏异议之际，日饮醇酒，弄妇人；裴度当宦官熏灼之际，退居绿野，把酒赋诗，不问人间事。古人明哲保身之术，例如此，皆所以绝其疑也。</p>
+<p>　　国初，御史袁凯以忤旨引风疾归。太祖使人觇之，见凯方匍匐往篱下食猪犬矢，还报，乃免。盖凯逆知有此，使家人以炒面搅砂糖，从竹筒出之，潜布篱下耳，凯亦智矣哉!</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6365.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6367.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5329" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

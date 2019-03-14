@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十·长亭_古诗文网
+</title>
+<meta content="石太璞，泰山人，好厌禳之术。有道士遇之，喜其慧，纳为弟子。启牙签，出二卷，上卷驱狐，下卷驱鬼，乃以下卷授之曰：“虔奉此书，衣食佳丽皆有之。”问其姓名，曰：“吾汴城北村玄帝观王赤城也" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11795.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·长亭</b></span>
+<a href="javascript:PlayBookv(11795)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11795" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11795" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　石太璞，泰山人，好厌禳之术。有道士遇之，喜其慧，纳为弟子。启牙签，出二卷，上卷驱狐，下卷驱鬼，乃以下卷授之曰：“虔奉此书，衣食佳丽皆有之。”问其姓名，曰：“吾汴城北村玄帝观王赤城也。”留数日，尽传其诀。石由此精于符箓，委贽者接踵于门。</p>
+<p>　　一日有叟来自称翁姓，炫陈币帛，谓其女鬼病已殆，必求亲诣。石闻病危，辞不受贽，姑与俱往。十余里入山村，至其家，廊舍华好。入室，见少女卧縠幛中，婢以钩挂帐。望之年十四五许，支缀于床，形容已槁。近临之，忽开目云：“良医至矣。”举家皆喜，谓其不语已数日矣。石乃出，因诘病状。叟曰：“白昼见少年来，与共寝处，捉之已杳；少间复至，意其为鬼。”石曰：“其鬼也驱之不难；恐其是狐，则非余所敢知矣。”叟曰：“必非必非。”石授以符，是夕宿于其家。夜分有少年入，衣冠整肃。石疑是主人眷属，起而问之。曰：“我鬼也。翁家尽狐。偶悦其女红亭，姑止焉。鬼为狐祟，阴骘无伤，君何必离人之缘而护之也？女之姊长亭，光艳尤绝。敬留全壁，以待高贤。彼如许字，方可为之施治；尔时我当自去。”石诺之。是夜少年不复至，女顿醒。天明，叟喜告石，清石入视。石焚旧符，坐诊之。见绣幕有女郎，丽如天人，心知其长亭也。诊已，索水洒幛。女郎急以碗水付之，蹀躞之间，意动神流。石生此际，心殊不在鬼矣。出辞叟，托制药去，数日不返。鬼益肆，除长亭外，子妇婢女俱被淫惑。又以仆马招石，石托疾不赴。</p>
+<p>　　明日，叟自至。石故作病股状，扶杖而出。叟问故，曰：“此鳏之难也！曩夜婢子登榻，倾跌，堕汤夫人泡两足耳。”叟问：“何久不续？”石曰：“恨不得清门如翁者。”叟默而出。石送嘱曰：“病瘥当自至，无烦玉趾也。”又数日叟复来，石跛而见之。叟慰问曰：“顷与荆人言，君如驱鬼去，使举家安枕，小女长亭，年十七矣，愿遣奉事君子。”石喜，顿首于地。乃曰：“雅意若此，病躯何敢复爱。”立刻出门，并骑而去。入视祟者既毕，石恐负约，请与媪盟。媪出曰：“先生何见疑也？”随拔长亭所插金簪，授石为信。石喜拜受，乃遍集家人，悉为祓除。惟长亭深匿不出，遂写一佩符，使持赠之。是夜寂然，惟红亭呻吟未已，投以法水，所患若失。石起辞，叟挽留殷恳。至晚，肴核罗列，劝酬殊切。漏二下，主人辞去。石方就枕，闻叩扉甚急；起视，则长亭掩入，仓皇告曰：“吾家欲以白刃相仇，可急走！”言已径返身去。石战惧失色，越垣急窜。遥见火光，疾奔而往，则里人夜猎者也。喜，待猎已，从与俱归。心怀怨愤，无路可伸，欲往汴城寻师治之。奈家有老父，病废在床，日夜筹思，进退莫决。</p>
+<p>　　忽一日双舆至门，则翁媪送长亭至，谓石曰：“曩夜之归，胡再不谋？”石见长亭，怨恨都消，故隐不发。媪促两人庭拜讫。石欲设筵，媪曰：“我非闲人，不能坐享甘旨。我家老子昏髦，倘有不悉，郎肯为长亭一念老身，为幸多矣。”登车遂去。盖杀婿之谋，媪不与闻；及追之不得而返，媪始知之。心不能平，与叟日相诟谇。长亭亦涕泣不食。媪强送女来，非翁意也。长亭入门，诘之，始知其故。过两三月，翁家取女归宁。石料其不返，禁止之。女自此时一涕零。年余生一子，名慧儿，雇乳媪哺之。儿好啼，夜必归母。一日翁家又以舆来，言媪思女甚。长亭益悲，石不忍复留之。欲抱子去，石不可，长亭乃自归。别时以一月为期，既而半载无耗。遣人往探之，则向所僦宅久空。</p>
+<p>　　又二年余，望想都绝；而儿啼终夜，寸心如割。既而父又病卒，倍益哀伤；因而病惫，苫次弥留，不能受宾朋之吊。方昏愦间，忽闻妇人哭入。视之，则缞绖者长亭也。石大悲，一恸遂绝。婢惊呼，女始啜泣，抚之良久渐苏。曰：“我疑已死，与汝相聚于冥中。”女曰：“非也。妾不孝，不得严父心，尼归三载，诚所负心。适家人由东海过此，得翁凶信。妾遵严命而绝儿女之情，不敢循乱命而失翁媳之礼。妾来时，母知而父不知也。”言间，儿投怀中。言已，始抚而泣曰：“我有父，儿无母矣！”儿亦噭啕，一室掩泣。女起，经理家政，柩前牲盛洁备，石乃大慰。然病久，急切不能起。女乃请石外兄款洽吊唁。丧既闭，石始能杖而起，相与营谋斋葬。葬已，女欲辞归，以受背父之谴。夫挽儿号，隐忍而止。未几，有人来言母病，乃谓石曰：“妾为君父来，君不为妾母放令归耶？”石许之。女使乳媪抱儿他适，涕洟出门而去。去后数年不返。石父子渐亦忘之。</p>
+<p>　　一日昧爽启扉，则长亭飘入。石方骇问，女戚然坐榻上，叹曰：“生长闺阁，视一里为遥；今一日夜而奔千里，殆矣！”细诘之，女欲言复止。固诘之，乃哭曰：“今为君言，恐妾之所悲，而君之所快也。迩年徙居晋界，僦居赵缙绅之第。主客交最善，以红亭妻其公子。公子数逋荡，家庭颇不相安。妹归告父；父留之半年不令还。公子忿恨，不知何处聘一恶人来，遣神绾锁缚老父去。一门大骇，顷刻四散矣。”石闻之，笑不自禁。女怒曰：“彼虽不仁，妾之父也。妾与君琴瑟数年，止有相好而无相尤。今日人亡家败，百口流离，即不为父伤，宁不为妾吊乎！闻之忭舞，更无片语相慰藉，何不义也！”拂袖而出。石追谢之，亦已渺矣。怅然自悔，拚已决绝。</p>
+<p>　　过二三日，媪与女俱来，石喜慰问。母女俱伏。惊问其故，又俱哭。女曰：“妾负气而去，今不能自坚，又要求人复何颜面！”石曰：“岳固非人；母之惠，卿之情，所不敢忘。然闻祸而乐，亦犹人情，卿何不能暂忍？”女曰：“顷于途中遇母，始知絷吾父者，乃君师也。”石曰：“果尔，亦大易。然翁不归，则卿之父子离散；恐翁归，则卿之夫泣儿悲也。”媪矢以自明，女亦誓以相报。石乃即刻治任如汴，询至玄帝观，则赤城归未久。入而参拜，师问：“何来？”石视厨下一老狐，孔前股而系之，笑曰：“弟子之来，为此老魅。”赤城诘之，曰：“是吾岳也。”因以实告。道士谓其狡诈不肯轻释；固请，始许之。石因备述其诈，狐闻之，塞身入灶，似有惭状。道士笑曰：“彼羞恶之心未尽亡也。”石起，牵之而出，以刀断索抽之。狐痛极，齿龈龈然。石不遽抽，而顿挫之，笑问之曰：“翁痛乎？勿抽可耶！”狐睛睒闪，似有愠色。既释，摇尾出观而去。石辞归。</p>
+<p>　　三日前，已有人报叟信，媪先去，留女待石。石至，女逆而伏。石挽之曰：“卿如不忘琴瑟之情，不在感激也。”女曰：“今复迁还故居矣，村舍邻迩，音问可以不梗。妾欲归省，三日可旋，君信之否？”曰：“儿生而无母，未便殇折。我日日鳏居，习已成惯。今不似赵公子，而反德报之，所以为卿者尽矣。如其不还，在卿为负义，道里虽近，当亦不复过问，何不信之与有？”女去，二日即返。问：“何速？”曰：“父以君在汴曾相戏弄，未能忘怀，言之絮叨；妾不欲复闻，故早来也。”自此闺中之往来无间，而翁婿间尚不通吊庆云。异史氏曰：“狐情反复，谲诈已甚。悔婚之事，两女而一辙，诡可知矣。然要而婚之，是启其悔者犹在初也。且婿既爱女而救其父，止宜置昔怨而仁化之；乃复狎弄于危急之中，何怪其没齿不忘也！天下之有冰玉而不相能者，类如此。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11794.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11796.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

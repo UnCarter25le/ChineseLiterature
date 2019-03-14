@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·东林学案·学正薛玄台先生敷教_古诗文网
+</title>
+<meta content="薛敷教字以身，号玄台，常之武进人。方山薛应旂之孙也。年十五为诸生，海忠介以忠义许之。登万历己丑进士第。南道御史王藩臣劾巡抚周继，不白掌宪，耿廷向、吴时来相继论列。先生言“是欲为执政" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14689.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>东林学案·学正薛玄台先生敷教</b></span>
+<a href="javascript:PlayBookv(14689)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14689" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14689" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　薛敷教字以身，号玄台，常之武进人。方山薛应旂之孙也。年十五为诸生，海忠介以忠义许之。登万历己丑进士第。南道御史王藩臣劾巡抚周继，不白掌宪，耿廷向、吴时来相继论列。先生言“是欲为执政箝天下也。言官风闻言事，从古皆然。若必关白长官，设使弹劾长官，更须关白乎？二三辅臣，故峻诸司，共绳庶采，宪臣辄为逢迎，自丧生平，窃所不取。”疏奏，当路大恚。主考许国以贡举非人自劾。奉旨回籍省过。壬辰起凤翔教授，寻迁国子助教。有诏并封三王，上疏力争，又寓书责备娄江，事遂得寝。未几，赵忠毅佐孙清简，京察，尽黜当路之私人。内阁张洪阳、王元驭愤甚。给事中刘道隆，承风旨以争拾遗，镌忠毅三秩。先生复与于孔兼、陈泰来、贾巖、顾允成、张纳陛合疏，言考功无罪。内阁益愤，尽夺六君子官。而先生得光州学正。丁母忧，遂不复出。甲辰顾泾阳修复东林书院，聚徒讲学，先生实左右之。作《真正铭》以勉同志。曰：“学尚乎真，真则可久；学尚乎正，正则可守。真而不正，所见皆苟；正而不真，终非己有。君亲忠孝，兄弟恭友，褆身以廉，处众以厚。良朋切劘，要於白首，乡里谤怨，莫之出口。毋谓冥冥，内省滋疚，毋谓琐琐，细行匪偶。读书学道，系所禀受，精神有余，穷玄极趣。智识寡昧，秉哲省咎，殊途同归，劳逸难狃。世我用兮，不薄五斗，世不我用，徜徉五柳。无贵无贱，无荣无朽，殒节逢时，今生谅否？必真必正，夙所自剖，寄语同心，各慎厥后。”年五十九而卒。</p>
+<p>　　先生持身孤峻，筮仕以来，未尝受人一餽。垢衣粝食，处之泰然，舍车而徒，堕行一苍头而已。执丧不饮酒食肉，服阕遂不食肉。故其言曰：“脚跟站定，眼界放开，静躁浓淡间，正人鬼分胎处。”又曰：“道德功名，文章气节，自介然无欲始。”又曰：“学苟不窥性灵，任是皎皎不污，终归一节。但世风衰微，不忧著节太奇，而忧混同一色，托天道无名以济其私，则中庸之说诬之也。”尝有诗曰：“百年吾取与，留作后人箴。”其自待不薄如此。赋性慈祥，蠕动不忍伤害，俗客伧父亦无厌色，然疾恶甚严，有毁其知交叶园适者，先生从稠人中奋臂而起，自后其人所在，先生必避去，终身不与一见也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14688.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14690.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

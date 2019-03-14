@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+智囊(选录)·兵智部·王阳明_古诗文网
+</title>
+<meta content="【原文】王阳明以勘事过丰城，闻逆濠之变，兵力未具，亟欲溯流趋吉安。舟人闻濠发千余人来劫公，畏不敢发，公拔剑馘其耳，遂行。薄暮，度不可前，潜觅渔舟，以微服行，留麾下一人，服己冠服，居" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6433.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5412" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>兵智部·王阳明</b></span>
+<a href="javascript:PlayBookv(6433)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6433" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5412)" id="leftbtn5412" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6433" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%86%af%e6%a2%a6%e9%be%99">冯梦龙</a></p>
+<div class="contson">
+<p>　　【原文】</p>
+<p>　　王阳明以勘事过丰城，闻逆濠之变，兵力未具，亟欲溯流趋吉安。舟人闻濠发千余人来劫公，畏不敢发，公拔剑馘其耳，遂行。薄暮，度不可前，潜觅渔舟，以微服行，留麾下一人，服己冠服，居舟中。濠兵果犯舟，得伪者，知公去远，乃罢。公至中途，恐濠速出，乃为间谍，假奉朝廷密旨，行令两广、湖襄都御史及南京兵部，各命将出师，暗伏要害地方，以俟宁府兵至袭杀。复取优人数辈，各将公文置夹衣絮中。将发间，又捕捉伪太师家属至舟尾，令其觇知，公即佯怒，牵之上岸处斩，已而故纵之，令其奔报。濠获优，果于衣中搜得公文，遂迟疑不发。公至吉安，调度兵粮粗备，始传檄征兵，暴濠罪恶。濠知为公所卖，愤然欲出。公谓：“急犯其锋，非计也。宜示以自守不出之形，必俟其出，然后尾而图之。先复省城，以倾其巢。彼闻，必回兵来援，我则出兵邀而击之，此全胜之策。”濠果使人探公不出，乃留兵万余守省城，而自引兵东下，公闻濠已出，遂急促各府兵，刻期会于丰城，时濠兵已围安庆，众议宜急往救。公谓：“九江、南康皆已为贼所据，而南昌城中精悍万余，食货重积，我兵若抵安庆，贼必回军死斗，安庆之兵仅足自守，必不能出而夹攻。贼令南昌兵绝我粮道，九江、南康合势挠摄，而四方之援又不可望，事其危矣!今我师骤集，先声所加，城中必恐，并力急攻，其势必下，此孙子救韩趋魏之计也!”侦者言：“新、旧厂伏兵万余，以备犄角。”公遣兵从间道袭破之，溃卒入城，城中知王师雨集，皆大骇，遂一鼓下之。濠闻我兵至丰城，即欲回舟，李士实谏，以为，“必须径往南京，既登大宝，则江西自服。”濠不听，遂解安庆之围，移兵泊阮子江，为归援计。公闻濠兵且至，召众议之。众云：“宜敛兵入城，坚壁待援。”公曰：“不然，彼闻巢破，胆已丧矣，先出锐卒，要其惰归，一挫其锐，将不战而溃，所谓‘先声有夺人之气’也。”乃指授伍文定等方略，先以游兵诱之，复佯北以致之，俟其争前趋利，然后四面合击，伏兵并起，又虑城中宗室或内应为变，亲慰谕之，出给告示，凡胁从者不问，虽尝受贼官职，能逃归者，皆免死，能斩贼徒归降者，皆给赏，使内外居民及乡导人等四路传布。又分兵攻九江、南康，以绝其援。于是群力并举，逆首就擒。</p>
+<p>　　〔评〕按陈眉公《见闻录》，谓宸濠之败，虽结于江西，而实溃于安庆。虽收功于王阳明，而实得力于李梧山。李讳充嗣，四川内江人，正德十四年巡抚南畿，闻宸濠请增护卫，叹曰：“虎而翼，祸将作矣。”遂力陈反状，廷议难之。公乃旦夕设方略，饬武备，以御贼为念。谓安庆畿辅，适当贼冲，非得人莫守。当诸将庭参，于众中独揖指挥使杨锐而进之曰：“皖城保障，委之于子，毋负我!”十五年，贼兵陷九江，公自将万人，屯采石，以塞上游之路。飞檄皖城，谕以忠义。锐感激思奋，相机应敌，发无不捷。</p>
+<p>　　节发间谍火牌云：“为紧急军情事，该钦差太监总兵等官，统领边官军十万余，一半将到南京，一半径趋安庆，并调两广狼兵，湖广土兵，即日水陆并进，俱赴安庆会集，刻期进攻江西叛贼。今将火牌飞报前路官司，一体同心防守，预备粮草，听候应用等因。”</p>
+<p>　　宸濠舟至李阳河，遇火牌，览之惊骇，由是散亡居半。继又发水卒千人，盛其标帜，乘飞舰百余艘，鼓噪而进，声为安庆应援，城中望见，士气百倍，锐即开门出敌，水陆夹攻，贼遂大溃。</p>
+<p>　　时宸濠营于黄石矶，闻败将遁，公自将兵逐北，宸濠奔入鄱阳湖，适遇巡抚王公阳明引兵至湖，遂成擒焉。后论功竟不及公，胡御史洁目击其事，特为论列，不报。故今人盛称阳明，而不及梧山，亦有幸有不幸欤？</p>
+<p>　　又按宸濠兵起，声言直取南京，道经安庆。太守张文锦与守备杨锐等合谋，令军士鼓噪登城大骂，激怒逆濠，使顿兵挫锐于坚城之下。而阳明得成其功，虽天夺其魄，而张、杨诸公之智，亦足述矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6432.aspx">上一章</a>
+<a href="/guwen/book_78.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6434.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5412" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

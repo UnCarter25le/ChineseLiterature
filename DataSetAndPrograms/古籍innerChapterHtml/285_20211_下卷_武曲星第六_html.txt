@@ -1,0 +1,115 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+撼龙经·下卷·武曲星第六_古诗文网
+</title>
+<meta content="武曲尊星性端庄，才离祖宗既高昂。星峰自与众星别，不尖不园其体方。高处定为顿笏样，但是无脚生两旁。如此星峰只一二，方冈之下如驱羊。方冈或如四角张，帐中出带微飞扬。飞扬要得穿帐去，帐上" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20211.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>下卷·武曲星第六</b></span>
+<a href="javascript:PlayBookv(20211)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20211" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20211" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%ad%a0%e6%9d%be">杨筠松</a></p>
+<div class="contson">
+<p>　　武曲尊星性端庄，才离祖宗既高昂。星峰自与众星别，不尖不园其体方。</p>
+<p>　　高处定为顿笏样，但是无脚生两旁。如此星峰只一二，方冈之下如驱羊。</p>
+<p>　　方冈或如四角张，帐中出带微飞扬。飞扬要得穿帐去，帐上两角随身扬。</p>
+<p>　　枝叶不多关峡少，却有护卫随身傍。带旌带节来拥护，旌节之峰多是双。</p>
+<p>　　更有刀剑同护送，刀剑送后前园冈。离踪断处多失脉，抛梭马迹蜘蛛长。</p>
+<p>　　梭中自有丝不断，蜂腰过处多趨跄。自是此星性尊贵，护卫重重来就体。</p>
+<p>　　每逢跌断过峡时，两旁定有衣冠吏。衣冠之吏使园峰，两边有脚卫真龙。</p>
+<p>　　若是独行无护卫，定作神坛佛道宫。平行穿珠行数里，忽然又作方峰起。</p>
+<p>　　方峰直去如桥杠，背长颇类平尖贪。平尖贪狼如一字，生在山顶如卧蚕。</p>
+<p>　　武曲横从身中出，贪狼直去如僧参。夹辅护龙次第转，真龙在内左右含。</p>
+<p>　　此龙住处无高陇，间生窝穴隐深潭。独在高山峡中者，穴落高冈似草庵。</p>
+<p>　　四围若高来拥护，前案朝迎亦高舞。却作高穴象人形，按剑端庄似真武。</p>
+<p>　　此龙若行三十里，内起方峰只三四。峰峰端正方于长，不肯欹斜失尊体。</p>
+<p>　　峰上忽然生折痕，此与廉贞何以异。凡起星峰不许斜，更嫌生脚照他家。</p>
+<p>　　端峰若生四花穴，花穴端严要君别。真龙直去向前行，四向漫成龙虎穴。</p>
+<p>　　此是武曲钳峡来，间气来此偶生峡。此龙误了多少人，反来此处说真形。</p>
+<p>　　要识四花穿心过，但看护卫不曾停。尊星自有尊星体，方正如屏将相位。</p>
+<p>　　武曲行龙少鬼劫，盖缘两傍多罗列。小公分处夹龙行，不肯单行走空缺。</p>
+<p>　　小公分去乱生枝，枝叶虽多夹水随。护龙亦自有背面，背后如壁面平夷。</p>
+<p>　　平夷便是贴龙体，龙过之时形怪异。不起园峰即马旗，攒剑蟠龙归此地。</p>
+<p>　　护卫缠绕如打围，重重包裹外山归。至令武曲少关峡，护送无容左右离。</p>
+<p>　　明堂断定无陡泻，横案重重拜舞低。平贪覆巨似武曲，尖园方整不能齐。</p>
+<p>　　三星尖园方整处，向此辨别无狐疑。识龙须识辨疑处，识得真龙是圣师。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20210.aspx">上一章</a>
+<a href="/guwen/book_285.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20212.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

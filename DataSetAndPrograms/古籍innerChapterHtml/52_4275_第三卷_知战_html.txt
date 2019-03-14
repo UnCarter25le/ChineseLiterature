@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百战奇略·第三卷·知战_古诗文网
+</title>
+<meta content="凡兴兵伐敌，所战之地，必预知之。师至之日，能使敌人如期而来，与战则胜。知战地，知战日，则所备者专，所守者固。法曰：「知战之地，知战之日，则可千里而会战。」战国，魏与赵攻韩，韩告急于" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4275.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2929" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第三卷·知战</b></span>
+<a href="javascript:PlayBookv(4275)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4275" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2929)" id="leftbtn2929" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4275" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%9f%ba">刘基</a></p>
+<div class="contson">
+<p>　　凡兴兵伐敌，所战之地，必预知之。师至之日，能使敌人如期而来，与战则胜。知战地，知战日，则所备者专，所守者固。法曰：「知战之地，知战之日，则可千里而会战。」</p>
+<p>　　战国，魏与赵攻韩，韩告急于齐。齐用田忌将而往，直走大梁。魏将庞涓闻之，去韩而归。孙膑谓田忌曰：「彼三晋之兵，素悍勇而轻齐，齐号为怯。善战者因其势而利导之。兵法：百里而趋利者，蹶上将；五十里而趋利者，军半至。使齐军入魏地为十万灶，明日为五万灶，又明日为三万灶。」涓追三日，大喜，曰：「我固知齐军怯，入吾地三日，士卒亡者过半矣。」乃弃其步军，与精锐亲兵倍道兼行逐之。孙膑度其行，暮当至马陵。〔马陵〕道狭，而旁多阻隘，可伏兵，乃斫大木白而书之曰：「庞涓死此树下」。于是令齐军善射者万弩夹道而伏。期曰：「暮见举火即万弩俱发。」涓果夜至，立木下见白书，乃钻火烛之。读其书未毕，齐军万弩俱发，魏军大乱。涓自知智穷兵败，乃自刎。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4274.aspx">上一章</a>
+<a href="/guwen/book_52.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4276.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2929" style="width:580px; display:none;"></div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷五·论子午流注法（徐氏）_古诗文网
+</title>
+<meta content="子午流注者，谓刚柔相配，阴阳相合，气血循环，时穴开阖也。何以子午言之？曰：“子时一刻，乃一阳之生；至午时一刻，乃一阴之生，故以子午分之而得乎中也。”流者，往也。注者，住也。天干有十" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18850.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·论子午流注法（徐氏）</b></span>
+<a href="javascript:PlayBookv(18850)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18850" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18850" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　子午流注者，谓刚柔相配，阴阳相合，气血循环，时穴开阖也。何以子午言之？曰：“子时一刻，乃一阳之生；至午时一刻，乃一阴之生，故以子午分之而得乎中也。”流者，往也。注者，住也。天干有十，经有十二：甲胆、乙肝、丙小肠、丁心、戊胃、己脾、庚大肠、辛肺、壬膀胱、癸肾。余两经，三焦、包络也。三焦乃阳气之父，包络乃阴血之母，此二经虽寄于壬癸，亦分派于十干。每经之中，有井、荥、俞、经、合，以配金、水、木、火、土，是故阴井木而阳井金，阴荥火而阳荥水，阴俞土而阳俞木，阴经金而阳经火，阴合水而阳合土。经中有返本还元者，乃十二经出入之门也。阳经有原，遇俞穴并过之，阴经无原，以俞穴即代之。是以甲出丘墟，以太冲之例。又按《千金》云：“六阴经亦有原穴，乙中都，丁通里，己公孙，辛列缺，癸水泉，包络内关是也。”故阳日气先行，而血后随也。阴日血先行，而气后随也。得时为之开，失时为之阖。阳干注腑，甲、丙、戊、庚、壬而重见者气纳于三焦；阴干注脏，乙、丁、己、辛、癸而重见者，血纳包络。如甲日甲戌时，以开胆井。至戊寅时正当胃俞，而又并过胆原。重见甲申时，气纳三焦，荥穴属水，甲属木，是以水生木，谓甲合还元化本。又如乙日乙酉时，以开肝井。至己丑时当脾之俞，并过肝原。重见乙未时，血纳包络荥穴属火，乙属木，是以木生火也。余仿此，俱以子午相生，阴阳相济也。阳日无阴时，阴日无阳时，故甲与己合，乙与庚合，丙与辛合，丁与壬合，戊与癸合也。何谓甲与己合？曰：“中央戊己属土，畏东方甲乙之木所克，戊乃阳为兄，己属阴为妹。戊兄遂将己妹，嫁与木家，与甲为妻，庶得阴阳和合，而不相伤，所以甲与己合。余皆然。”子午之法，尽于此矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18849.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18851.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

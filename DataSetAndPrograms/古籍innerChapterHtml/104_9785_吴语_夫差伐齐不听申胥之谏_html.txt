@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+国语·吴语·夫差伐齐不听申胥之谏_古诗文网
+</title>
+<meta content="吴王夫差既许越成，乃大戒师徒，将以伐齐。申胥进谏曰：“昔天以越赐吴，而王弗受。夫天命有反，今越王勾践恐惧而改其谋，舍其愆令，轻其征赋，施民所善，去民所恶，身自约也，裕其众庶，其民殷" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9785.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8536" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>吴语·夫差伐齐不听申胥之谏</b></span>
+<a href="javascript:PlayBookv(9785)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9785" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8536)" id="leftbtn8536" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay9785" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　
+吴王夫差既许越成，乃大戒师徒，将以伐齐。申胥进谏曰：“昔天以越赐吴，而王弗受。夫天命有反，今越王勾践恐惧而改其谋，舍其愆令，轻其征赋，施民所善，去民所恶，身自约也，裕其众庶，其民殷众，以多甲兵。越之在吴，犹人之有腹心之疾也。夫越王之不忘败吴，于其心也侙然，服士以伺吾闲。今王非越是图，而齐、鲁以为忧。夫齐、鲁譬诸疾，疥癣也，岂能涉江、淮而与我争此地哉？将必越实有吴土。
+</p><p>　　
+“王其盍亦鉴于人，无鉴于水。昔楚灵王不君，其臣箴谏以不入。乃筑台于章华之上，阙为石郭，陂汉，以象帝舜。罢弊楚国，以闲陈、蔡。不修方城乏内，逾诸夏而图东国，三岁于沮、汾以服吴、越。其民不忍饥劳之殃，三军叛王于乾谿。王亲独行，屏营仿偟于山林之中，三日乃见其涓人畴。王呼之曰：‘余不食三日矣。”畴趋而进，王枕其股以寝于地。王寐，畴枕王以墣而去之。王觉而无见也，乃匍匐将入于棘闱，棘闱不纳，乃入芋尹申亥氏焉。王缢，申亥负王以归，而土埋之其室。此志也，岂遽忘于诸侯之耳乎？
+</p><p>　　
+“今王既变鮌、禹之功，而高高下下，以罢民于姑苏。天夺吾食，都鄙荐饥。今王将很天而伐齐。夫吴民离矣，体有所倾，譬如群兽然，一个负矢，将百群皆奔，王其无方收也。越人必来袭我，王虽悔之，其犹有及乎？”
+</p><p>　　
+王弗听。十二年，遂伐齐。齐人与战于艾陵，齐师败绩，吴人有功。
+</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9784.aspx">上一章</a>
+<a href="/guwen/book_104.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9786.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8536" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

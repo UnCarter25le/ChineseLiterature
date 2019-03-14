@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+法华经·序·御制大乘妙法莲华经序_古诗文网
+</title>
+<meta content="昔如来于耆阇崛山中，与大阿罗汉阿若憍陈如、摩诃迦葉无量等众，演说大乘真经，名《无量义》。是时，天雨宝华，布濩充满，慧光现瑞，洞烛幽显，普佛世界六种震动。一切人天得未曾有，咸皆欢喜赞" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13818.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>序·御制大乘妙法莲华经序</b></span>
+<a href="javascript:PlayBookv(13818)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13818" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13818" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%b8%a0%e6%91%a9%e7%bd%97%e4%bb%80%e8%af%91">鸠摩罗什译</a></p>
+<div class="contson">
+<p>　　昔如来于耆阇崛山中，与大阿罗汉阿若憍陈如、摩诃迦葉无量等众，演说大乘真经，名《无量义》。是时，天雨宝华，布濩充满，慧光现瑞，洞烛幽显，普佛世界六种震动。一切人天得未曾有，咸皆欢喜赞叹。以为是经，乃诸佛如来秘密之藏，神妙叵测，广大难名，所以拔滞溺之沉流，拯昏迷之失性，功德弘远，莫可涯涘。 </p>
+<p>　　溯求其源，肇彼竺乾流于震旦，爰自西晋沙门竺法护者初加翻译，名曰《正法华》。暨东晋龟兹三藏法师鸠摩罗什重翻，名曰《妙法莲华》。至隋天竺沙门阇那、笈多所翻者，亦名《妙法》。虽三经文理重沓互陈，而惟三藏法师独得其旨。第历世既远，不无讹谬，匪资刊正，渐致多疑，用是特加旧校，仍命镂梓，以广其传。 </p>
+<p>　　呜呼！如来愍诸众生，有种种性、种种欲、种种行、种种忆想分别，历劫缠绕无有出期，乃为此大事因缘现世，敷畅妙旨，作殊胜方便，俾皆得度脱超登正觉。此诚济海之津梁，而烛幽之慧炬也。善男子、善女人，一切众生，能秉心至诚，持诵佩服，顶礼供养，即离一切苦恼，除一切业障，解一切生死之厄。不啻如饥之得食，如渴之得饮，如寒之得火，如热之得凉，如贫之得宝，如病之得医，如子之得母，如渡之得舟。其为快适欣慰，有不可言。 </p>
+<p>　　噫！道非经无以寓，法非经无以传。缘经以求法，缘法以悟道，方识是经之旨，清净微妙第一希有。遵之者则身臻康泰，诸种善根圆满具足，如莲华出水不染淤泥，即得五蕴皆空、六根清净，遄跻上善，以成于正觉者不难矣。苟或沉迷胶固，甘心堕落，绝灭善根，则身罹苦趣，轮回于生死之域者，其有纪极哉！虽然善恶两途，由人所趋，为善获吉，为恶获凶，幽明果报，不爽锱铢。观于是经者，尚戒之哉！尚勉之哉！ </p>
+<p>　　永乐十八年四月十七日 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_153.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13819.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

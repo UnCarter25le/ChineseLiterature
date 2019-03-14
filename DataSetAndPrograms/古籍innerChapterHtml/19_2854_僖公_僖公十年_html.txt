@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·僖公·僖公十年_古诗文网
+</title>
+<meta content="【经】十年春王正月，公如齐。狄灭温，温子奔卫。晋里克弑其君卓及其大夫荀息。夏，齐侯、许男伐北戎。晋杀其大夫里克。秋七月。冬，大雨雪。 【传】十年春，狄灭温，苏子无信也。苏子叛王即狄" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2854.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1375" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>僖公·僖公十年</b></span>
+<a href="javascript:PlayBookv(2854)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2854" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1375)" id="leftbtn1375" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2854" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】十年春王正月，公如齐。狄灭温，温子奔卫。晋里克弑其君卓及其大夫荀息。夏，齐侯、许男伐北戎。晋杀其大夫里克。秋七月。冬，大雨雪。 </p>
+<p>　　【传】十年春，狄灭温，苏子无信也。苏子叛王即狄，又不能于狄，狄人伐之，王不救，故灭。苏子奔卫。 </p>
+<p>　　夏四月，周公忌父、王子党会齐隰朋立晋侯。晋侯杀里克以说。将杀里克，公使谓之曰：「微子则不及此。虽然，子弑二君与一大夫，为子君者不亦难乎？」对曰：「不有废也，君何以兴？欲加之罪，其无辞乎？臣闻命矣。」伏剑而死。于是ぶ郑聘于秦，且谢缓赂，故不及。 </p>
+<p>　　晋侯改葬共大子。 </p>
+<p>　　秋，狐突适下国，遇大子，大子使登，仆，而告之曰：「夷吾无礼，余得请于帝矣。将以晋畀秦，秦将祀余。」对曰：「臣闻之，神不歆非类，民不祀非族。君祀无乃殄乎？且民何罪？失刑乏祀，君其图之。」君曰：「诺。吾将复请。七日新城西偏，将有巫者而见我焉。」许之，遂不见。及期而往，告之曰：「帝许我罚有罪矣，敝于韩。」 </p>
+<p>　　ぶ郑之如秦也，言于秦伯曰：「吕甥、郤称、冀芮实为不从，若重问以召之，臣出晋君，君纳重耳，蔑不济矣。」</p>
+<p>　　冬，秦伯使冷至报问，且召三子。郤芮曰：「币重而言甘，诱我也。」遂杀ぶ郑、祁举及七舆大夫：左行共华、右行贾华、叔坚、骓颛、累虎、特宫、山祁，皆里、ぶ之党也。ぶ豹奔秦，言于秦伯曰：「晋侯背大主而忌小怨，民弗与也，伐之必出。」公曰：「失众，焉能杀。违祸，谁能出君。」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2853.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2855.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1375" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

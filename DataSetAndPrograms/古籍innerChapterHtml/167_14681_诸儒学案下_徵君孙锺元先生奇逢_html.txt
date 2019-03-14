@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·诸儒学案下·徵君孙锺元先生奇逢_古诗文网
+</title>
+<meta content="孙奇逢字启泰，号锺元，北直容城人。举乡书。初尚节侠，左忠毅、魏忠节、周忠介之狱，先后为之顿舍其子弟，与鹿忠节之父，举旛击鼓，敛义士之钱以救之。不足，则使其弟启美，匹马走塞外，求援於" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14681.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>诸儒学案下·徵君孙锺元先生奇逢</b></span>
+<a href="javascript:PlayBookv(14681)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14681" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14681" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　孙奇逢字启泰，号锺元，北直容城人。举乡书。初尚节侠，左忠毅、魏忠节、周忠介之狱，先后为之顿舍其子弟，与鹿忠节之父，举旛击鼓，敛义士之钱以救之。不足，则使其弟启美，匹马走塞外，求援於高阳。逆奄之燄，如火之燎原，先生焦头烂额，赴之不顾也。燕、赵悲歌慷慨之风久湮，人谓自先生而再见。家有北海亭，名称其实焉。其后一变而为理学，卜居百原山，康节之遗址也。其乡人皆从而化之。先生家贫，遇有宴会，先时萧然一榻耳，至期则椅桌瓶罍不戒而集。北方之学者，大概出於其门。先生之所至，虽不知其浅深，使丧乱之余，犹知有讲学一脉者，要不可泯也。所著大者有《理学宗传》，特表周元公、程纯公、程正公、张明公、邵康节、朱文公、陆文安、薛文清、王文成、罗文恭、顾端文十一子为宗，以嗣孟子之后，诸儒别为考以次之，可谓别出手眼者矣。岁癸丑，作诗寄羲，勉以蕺山薪传，读而愧之。九时年九十矣，又二年卒。</p>
+<p>　　岁寒集</p>
+<p>　　自浑朴散而象数之繁，异同之见，理气之分，种种互起争长，然皆不谬於圣人所谓小德之川流也。有统宗会元之至人出焉，一以贯之，所谓大德之敦化也。学者不能有此大见识，切不可专执一偏之见，正宜於古人议论不同处着眼理会，如夷、尹、惠不同，微、箕、比不同，朱、陆不同，岂可相非？正借有此异以证其同，合知廉勇艺而文之以礼乐，愈见冶铸之手。</p>
+<p>　　忠孝节义，道中之一节一目，文山以箕子自处，便不亟亟求毕旦夕之命。此身一日不死，便是大宋一日不灭，生贵乎顺，不以生自嫌，死贵乎安，不以死塞责。</p>
+<p>　　处人之道，心厚而气和，不独待君子，即待小人亦然。</p>
+<p>　　问做人。曰：“饥饿穷愁困不倒，声色货利侵不倒，死生患难考不倒，而人之事毕矣。”</p>
+<p>　　问：“阳明无善无恶心之体。”曰：“阳明初亦言至善，其所谓无善无恶者，无善之可言，亦犹之乎至善也，非告子之所谓无善也。”</p>
+<p>　　人者天地之心也，人失其为人，而天地何以清宁？故为天地立心，为生民立命者，圣贤之事也。明王不作，圣人已远，而尧、舜、孔子之心，至今在此，非人也，天也。</p>
+<p>　　问：“理与气是一是二？”曰：“浑沌之初，一气而已，其主宰处为理，其运旋处为气，指为二不可，混为一不可。”</p>
+<p>　　问：“性也有命，命也有性，性命是一是二？”曰：“性也有命，是就见在去寻源头，不得认形骸为块然之物；命也有性，是就源头还他见在，不得以於穆为窈然之精。尽性立命，不容混而为一，亦不容截而为二。”</p>
+<p>　　或曰：“士不可小自待，不惟不宜让今人，并不宜让古人。”予谓：“士不宜过自恃，不惟宜让古人，并宜让今人。无一人不在其上，则无一人不出其下矣；无一人不在其下，则无一人不出其上矣。十年不能去一矜字，此病不小。”</p>
+<p>　　问处事之道。曰：“水到渠成，不必性急，天大事总平常事。”</p>
+<p>　　成缺在事不在心，荣辱在心不在事。</p>
+<p>　　“五十守贫即是道”一语，罔敢失墬，迩闻志是其命，甚觉亲切。子曰：“匹夫不可夺志也。”盖志不可夺，便是造命立命处。</p>
+<p>　　问：“道何在？”曰：“无物不有，无时不然，尧、舜后虽无尧、舜，尧、舜之心至今在，孔子后虽无孔子，孔子之心至今在，亦见之於无物不有，无时不然而已矣。其消息总得之於天。”</p>
+<p>　　念菴云：“戒慎不睹，恐惧不闻，此孔门用工口诀也。”白沙云：“戒慎恐惧，所以防存之而非以为害也。”白沙是对积学之人说，念菴是对初学之人说。徒饰于共见共闻之际，而隐微未慊，祇自欺之小人，致谨於十目十手之严，而跼蹐太甚，终非成德之君子。二公各有对症之药。</p>
+<p>　　连日取文清“静坐观心，闲中一乐”八字作功课，客曰：“心何用观？”曰：“为其不在也。”客曰：“不在而何以观？”曰：“一观之而即在矣。时时观则时时在，到得不待观而无不在，则无不乐，非诚意君子，未可语此。”</p>
+<p>　　人生在世，逐日扰攘，漫无自得，寻其根源，除怨天尤人，别无甚事。</p>
+<p>　　骨肉之间，多一分浑厚，便多留一分天性，是非正不必太明。</p>
+<p>　　问：“士当今日，道应如何？”曰：“不辱身。”问“不辱”。曰：“薛文清有言，刘静修百世之师也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14680.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14682.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

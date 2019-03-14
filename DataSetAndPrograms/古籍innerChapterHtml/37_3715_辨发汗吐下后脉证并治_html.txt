@@ -1,0 +1,157 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+伤寒论·辨发汗吐下后脉证并治_古诗文网
+</title>
+<meta content="此第十卷，第二十二篇，凡四十八证，前三阴三阳篇中，悉具载之。此以下诸方，于随卷本证下虽已有，缘止以加减言之，未甚明白，似于览者检阅未便，今复校勘，备列于后：桂枝加葛根汤方葛根四两 " name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3715.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>辨发汗吐下后脉证并治</b></span>
+<a href="javascript:PlayBookv(3715)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3715" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay3715" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e4%bb%b2%e6%99%af">张仲景</a></p>
+<div class="contson">
+<p>　　此第十卷，第二十二篇，凡四十八证，前三阴三阳篇中，悉具载之。</p>
+<p>　　此以下诸方，于随卷本证下虽已有，缘止以加减言之，未甚明白，似于览者检阅未便，今复校勘，备列于后：</p>
+<p>　　桂枝加葛根汤方</p>
+<p>　　葛根四两 芍药二两 甘草二两 生姜三两（切） 大枣十二枚（掰） 桂枝二两（去皮） 麻黄*三两（去节）</p>
+<p>　　右七味，以水一斗，先煮麻黄、葛根，减二升，去上沫，内诸药，煮取三升，去滓，温服一升，复取微似汗，不须啜粥，余如桂枝法。</p>
+<p>　　桂枝加厚朴杏子汤方</p>
+<p>　　于桂枝汤方内，加厚朴二两，杏仁五十个，去皮尖，余依前法。</p>
+<p>　　桂枝加附子汤方</p>
+<p>　　于桂枝汤方内，加附子一枚，炮，去皮，破八片，余依前法。术附汤方，附于此方内，去桂枝，加白术四两，依前法。</p>
+<p>　　桂枝去芍药汤方</p>
+<p>　　于桂枝汤方内，去芍药，余依前法。</p>
+<p>　　桂枝去芍药加附子汤方：</p>
+<p>　　于桂枝汤方内，去芍药，加附子一枚，炮，去皮，破八片，余依前法。</p>
+<p>　　桂枝麻黄各半汤方</p>
+<p>　　桂枝一两十六铢（去皮） 芍药 生姜（切） 甘草（炙） 麻黄各一两（去节） 大枣四枚（掰） 杏仁二十四个（汤浸，去皮尖及两仁者）</p>
+<p>　　右七味，以水五升，先煮麻黄一二沸，去上沫，内诸药，煮取一升八合，去滓，温服六合。</p>
+<p>　　桂枝二麻黄一汤方</p>
+<p>　　桂枝一两十七铢（去皮） 芍药一两六铢 麻黄十六铢（去节） 生姜一两六铢（切） 杏仁十六个（去皮尖） 甘草一两二铢（炙） 大枣五枚（掰）</p>
+<p>　　右七味，以水五升，先煮麻黄一二沸，去上沫，内诸药，煮取二升，去滓，温服一升，日再。</p>
+<p>　　白虎加人参汤方</p>
+<p>　　于白虎汤方内，加人参三两，余依白虎汤法。</p>
+<p>　　桂枝去桂加茯苓白术汤方：</p>
+<p>　　于桂枝汤方内，去桂枝，加茯苓、白术各三两，余依前法，煎服。小便利，则愈。</p>
+<p>　　以上九方，病证并在第二卷内。</p>
+<p>　　葛根加半夏汤方</p>
+<p>　　于葛根汤方内，加入半夏半升，余依葛根汤法。</p>
+<p>　　桂枝加芍药生姜人参新加汤方：</p>
+<p>　　于第二卷桂枝汤方内，更加芍药、生姜各一两，人参三两，余依桂枝汤法服</p>
+<p>　　栀子甘草豉汤方</p>
+<p>　　于栀子豉汤方内，加入甘草二两，余依前法。得吐，止后服。</p>
+<p>　　栀子生姜豉汤方</p>
+<p>　　于栀子豉汤方内，加生姜五两，余依前法。得吐，止后服。</p>
+<p>　　柴胡加芒硝汤方</p>
+<p>　　于小柴胡汤方内，加芒硝六两，余依前法。服不解，更服。</p>
+<p>　　桂枝加桂汤方</p>
+<p>　　于第二卷桂枝汤方内，更加桂二两，共五两，余依前法。</p>
+<p>　　以上六方，病证并在第三卷内。</p>
+<p>　　柴胡桂枝汤方</p>
+<p>　　桂枝（去皮） 黄芩 人参各一两半 甘草一两（炙） 半夏二合半 芍药一两半 大枣六枚（掰） 生姜一两半（切） 柴胡四两</p>
+<p>　　右九味，以水七升，煮取三升，去滓，温服。</p>
+<p>　　附子泻心汤方</p>
+<p>　　大黄二两 黄连 黄芩各一两 附子一枚（炮，去皮，破，别煮取计）</p>
+<p>　　右四味，切三味，以麻沸汤二升渍之，须臾，绞去滓，内附子汁，分温再服。</p>
+<p>　　生姜泻心汤方</p>
+<p>　　生姜四两（切） 甘草三两（炙） 人参三两干姜一两 黄芩三两 半夏半升（洗） 黄连一两大枣十二枚</p>
+<p>　　右八味，以水一斗，煮取六升，去滓，再煎取三升，温服一升，日三服。</p>
+<p>　　甘草泻心汤方</p>
+<p>　　甘草四两 黄芩三两 干姜三两 半夏半升（洗） 黄连一两 大枣十二枚（掰）</p>
+<p>　　右六味，以水一斗，煮取六升，去滓，再煎取三升，温服一升，日三服。</p>
+<p>　　黄芩加半夏生姜汤方</p>
+<p>　　于黄芩汤方内，加半夏半升，生姜一两半，余依黄芩汤法服。</p>
+<p>　　以上五方，病证并在第四卷内。</p>
+<p>　　桂枝加大黄汤方</p>
+<p>　　桂枝三两（去皮） 大黄一两 芍药六两 生姜三两（切） 甘草二两（炙） 大枣十二枚（掰）</p>
+<p>　　右六味，以水七升，煮取三升，去滓，温服一升，日三服。</p>
+<p>　　桂枝加芍药汤方</p>
+<p>　　于第二卷桂枝汤方内，更加芍药三两，随前共六两，余依桂枝汤法。</p>
+<p>　　四逆加吴茱萸生姜汤方</p>
+<p>　　当归二两 芍药三两 甘草二两（炙） 通草二两 桂枝三两（去皮） 细辛三两 生姜半斤（切） 大枣二十五枚（掰） 吴茱萸二升</p>
+<p>　　右九味，以水六升，清酒六升，和煮取五升，去滓，温分五服。一方水酒各四升。</p>
+<p>　　以上三方，病证并在第六卷内。</p>
+<p>　　四逆加人参汤方</p>
+<p>　　于四逆汤方内，加人参一两，余依四逆汤法服。</p>
+<p>　　四逆加猪胆汁汤方</p>
+<p>　　于四逆汤方内，加入猪胆汁半合，余依前法服；如无猪胆，以羊胆代之。</p>
+<p>　　以上二方，病证并在第七卷内。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3714.aspx">上一章</a>
+<a href="/guwen/book_37.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

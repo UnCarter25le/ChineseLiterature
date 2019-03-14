@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·赵_古诗文网
+</title>
+<meta content="历史来源「赵」姓出自「嬴」姓，据「唐书」记载，上古东夷族首领伯益的第十三世孙造父，在周穆王时传说他曾取良马八骏，献与周穆王，周穆王乘这八匹骏马西巡狩猎。来到昆仑山上，西王母在池" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2307.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>赵</b></span>
+<a href="javascript:PlayBookv(2307)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2307" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2307" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong></p>
+<p>　　「赵」姓出自「嬴」姓，据「唐书」记载，上古东夷族首领伯益的第十三世孙造父，在周穆王时传说他曾取良马八骏，献与周穆王，周穆王乘这八匹骏马西巡狩猎。来到昆仑山上，西王母在池设宴招待他，饮酒唱和乐而忘返，为周穆王御车，日趋千里，息徐偃王反叛，其后周穆王封造父于赵城，既今山西省洪洞具北，其后为赵氏。</p>
+<p>　　「百家姓」编与宋朝，皇帝的的姓氏是国姓，当然放在第一。</p>
+<p>　　「百家姓」的第一句，「赵钱孙李」，「赵」指「权」，「钱」指「金钱」。世间万事权和钱的问题是首要问题。</p>
+<p><strong>家族名人</strong></p>
+<p>　　赵武灵王</p>
+<p>　　赵云 ( ? - 229 )</p>
+<p>　　是三国名将，字子龙，三国时常山真定人。初从公孙瓒，后归附刘备。勇敢善战，以忠勇著称。封永昌亭侯，累迁镇军将军，卒谥顺平。</p>
+<p>　　赵匡胤</p>
+<p>　　赵飞燕　(? ～公元前１）</p>
+<p>　　汉成帝皇后。善歌舞，因体轻如燕，故称为飞燕。成帝时入宫，为婕妤，极得成帝宠幸，许后废，被立为皇后，擅宠十余年。哀帝立，尊其为皇太后，平帝初年，废为庶人，遂自杀。</p>
+<p><strong>地望分布</strong></p>
+<p>　　甘肃天水郡，河南南阳郡，甘肃金城郡，江苏下邳郡，河南颍川郡。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2308.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

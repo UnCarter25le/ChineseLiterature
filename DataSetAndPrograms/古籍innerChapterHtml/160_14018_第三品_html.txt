@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+古画品录·第三品_古诗文网
+</title>
+<meta content="姚昙度。画有逸方，巧变锋出，((鬼音))魁神鬼，皆能绝妙。奇正咸宜，雅郑兼善，莫不俊拔出人意表，天挺生知非学所及。虽纤微长短，往往失之。而舆皂之中，莫与为匹。岂直栋梁萧艾可搪突((" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14018.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第三品</b></span>
+<a href="javascript:PlayBookv(14018)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14018" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14018" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b0%a2%e8%b5%ab">谢赫</a></p>
+<div class="contson">
+<p>　　姚昙度。画有逸方，巧变锋出，((鬼音))魁神鬼，皆能绝妙。奇正咸宜，雅郑兼善，莫不俊拔出人意表，天挺生知非学所及。虽纤微长短，往往失之。而舆皂之中，莫与为匹。岂直栋梁萧艾可搪突((王与))((王番))者哉！</p>
+<p>　　顾恺之。五代晋时晋陵无锡人。字长康，小字虎头。除体精微，笔无妄下。但迹不逮意，声过其实。</p>
+<p>　　毛惠远。画体周赡，无适弗该，出入穷奇，纵黄逸笔，力遒韵雅，超迈绝伦。其挥霍必也极妙，至于定质，块然未尽。其善神鬼及马，泥滞于体，颇有拙也。</p>
+<p>　　夏瞻。虽气力不足，而精彩有余。擅名远代，事非虚美。</p>
+<p>　　戴逵。情韵连绵，风趣巧拔。善图贤圣，百工所范。荀、卫以后，实为领袖。及乎子((禺页))能继其美。</p>
+<p>　　江僧宝。斟酌袁陆，亲渐朱蓝。用笔骨梗，甚有师法。像人之外，非其所长也。</p>
+<p>　　吴((日东))。体法雅媚，制置才巧。擅美当年，有声京洛。</p>
+<p>　　张则。意思横逸，动笔新奇。师心独见，鄙于综采。变巧不竭，若环之无端，景多触目，谢题徐落云此二人后不得预焉。</p>
+<p>　　陆杲。体制不凡，跨迈流欲。时有合作，往往出人点画之间。动流恢服，传于后者，殆不盈握。桂枝一芳，足征本性。流液之素，难效其功。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14017.aspx">上一章</a>
+<a href="/guwen/book_160.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14019.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

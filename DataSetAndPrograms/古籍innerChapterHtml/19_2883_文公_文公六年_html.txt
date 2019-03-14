@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·文公·文公六年_古诗文网
+</title>
+<meta content="【经】六年春，葬许僖公。夏，季孙行父如陈。秋，季孙行父如晋。八月乙亥，晋侯欢卒。冬十月，公子遂如晋。葬晋襄公。晋杀其大夫阳处父。晋狐射姑出奔狄。闰月不告月，犹朝于庙。 【传】六年春" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2883.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1404" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>文公·文公六年</b></span>
+<a href="javascript:PlayBookv(2883)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2883" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1404)" id="leftbtn1404" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2883" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】六年春，葬许僖公。夏，季孙行父如陈。秋，季孙行父如晋。八月乙亥，晋侯欢卒。冬十月，公子遂如晋。葬晋襄公。晋杀其大夫阳处父。晋狐射姑出奔狄。闰月不告月，犹朝于庙。 </p>
+<p>　　【传】六年春，晋蒐于夷，舍二军。使狐射姑将中军，赵盾佐之。阳处父至自温，改蒐于董，易中军。阳子，成季之属也，故党于赵氏，且谓赵盾能，曰：「使能，国之利也。」是以上之。宣子于是乎始为国政，制事典，正法罪。辟狱刑，董逋逃。由质要，治旧污，本秩礼，续常职，出滞淹。既成，以授大傅阳子与大师贾佗，使行诸晋国，以为常法。 </p>
+<p>　　臧文仲以陈、卫之睦也，欲求好于陈。夏，季文子聘于陈，且娶焉。 </p>
+<p>　　秦伯任好卒。以子车氏之三子奄息、仲行、金咸虎为殉。皆秦之良也。国人哀之，为之赋《黄鸟》。君子曰：「秦穆之不为盟主也，宜哉。死而弃民。先王违世，犹诒之法，而况夺之善人乎！《诗》曰：『人之云亡，邦国殄瘁。』无善人之谓。若之何夺之？」古之王者知命之不长，是以并建圣哲，树之风声，分之采物，着之话言，为之律度，陈之艺极，引之表仪，予之法制，告之训典，教之防利，委之常秩，道之礼则，使毋失其土宜，众隶赖之，而后即命。圣王同之。今纵无法以遗后嗣，而又收其良以死，难以在上矣。君子是以知秦之不复东征也。 </p>
+<p>　　秋，季文子将聘于晋，使求遭丧之礼以行。其人曰：「将焉用之？」文子曰：「备豫不虞，古之善教也。求而无之，实难，过求何害？」 </p>
+<p>　　八月乙亥，晋襄公卒。灵公少，晋人以难故，欲立长君。赵孟曰：「立公子雍。好善而长，先君爱之，且近于秦。秦，旧好也。置善则固，事长则顺，立爱则孝，结旧则安。为难故，故欲立长君，有此四德者，难必抒矣。贾季曰：「不如立公子乐。辰嬴嬖于二君，立其子，民必安之。」赵孟曰：「辰嬴贱，班在九人，其子何震之有？且为二嬖，淫也。为先君子，不能求大而出在小国，辟也。母淫子辟，无威。陈小而远，无援。将何安焉？杜祁以君故，让逼姞而上之，以狄故，让季隗而己次之，故班在四。先君是以爱其子而仕诸秦，为亚卿焉。秦大而近，足以为援，母义子爱，足以威民，立之不亦可乎？」使先蔑、士会如秦，逆公子雍。贾季亦使召公子乐于陈。赵孟使杀诸郫。贾季怨阳子之易其班也，而知其无援于晋也。九月，贾季使续鞫居杀阳处父。书曰：「晋杀其大夫。」侵官也。</p>
+<p>　　冬十月，襄仲如晋。葬襄公。</p>
+<p>　　十一月丙寅，晋杀续简伯。贾季奔狄。宣子使臾骈送其帑。夷之蒐，贾季戮臾骈，臾骈之人欲尽杀贾氏以报焉。臾骈曰：「不可。吾闻《前志》有之曰：『敌惠敌怨，不在后嗣』，忠之道也。夫子礼于贾季，我以其宠报私怨，无乃不可乎？介人之宠，非勇也。损怨益仇，非知也。以私害公，非忠也。释此三者，何以事夫子？」尽具其帑，与其器用财贿，亲帅扞之，送致诸竟。 </p>
+<p>　　闰月不告朔，非礼也。闰以正时，时以作事，事以厚生，生民之道，于是乎在矣。不告闰朔，弃时政也，何以为民？ </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2882.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2884.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1404" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

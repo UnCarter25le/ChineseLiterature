@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷六·财官双美_古诗文网
+</title>
+<meta content="《继善篇》云：六壬生临午位，号曰禄马同乡，癸日坐向巳宫，乃是财官双美。禄即官，财即马，二句同一义也。壬以丁火为财马，己土为官禄，俱禄于午；癸以丙火为正财，戊土为正官，俱禄于巳。人命" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16438.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·财官双美</b></span>
+<a href="javascript:PlayBookv(16438)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16438" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16438" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　《继善篇》云：六壬生临午位，号曰禄马同乡，癸日坐向巳宫，乃是财官双美。禄即官，财即马，二句同一义也。壬以丁火为财马，己土为官禄，俱禄于午；癸以丙火为正财，戊土为正官，俱禄于巳。人命禄马财官，难得兼全，况自坐支下，所以为贵。喜秋生金旺永生木死，不能克土，故为远害。若见寅卯旺则秀而不实，冬生玄武当权，贵为王侯。如柱有财官，更得此二日生，尤妙。如己丑、丁卯、壬午、癸卯，年月透出丁己，归禄日下，合此，大贵。《珞录子》云：禄马同乡，不三台而八座。又云：每见贵人食禄，无非禄马同乡是也。甲戌、乙丑、乙巳、丙申、丁丑、戊辰、己亥、庚寅、辛未、壬戌、癸未，此数日支内自藏财官，亦是禄马同乡，经独取壬午、癸巳二日，以壬癸所坐正财正官，余则或偏或正，不纯一故也。类推之，甲戌、乙丑二日，喜金土月分富贵，但金气不可太多，恐伤身盗气，若无官贵，必发财富。丙申、丁丑二日，生金木月贵，惟忌土重，若会起土克官，主富。己亥日宜生四季月，或有倚托相生为吉。庚寅日喜见火，宜生冬至后一阳生火旺之时，主贵，若得金刚火强炼成锋刃之器，秋生逢火尤佳，唐太宰丙午、庚子、壬午、丙午，壬日生子月身旺，冲起年干丙字，二丙同窠，却冲去日庚枭食，庚既受冲克，则避丙就本日午上，时干丙就月支子，壬是庚之子，就时干午，变成丙午、丙子、庚午、壬午，皆禄马同乡，又为水火既济，又名六壬移换，故主大贵。大凡大贵命合三二格局取之，左右逢源，不可以格多为杂，如渊源之说。古歌曰：禄马同乡无克夺，财官同处最为荣，三台八座真奇贵，克夺如强欠利名。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16437.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16439.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

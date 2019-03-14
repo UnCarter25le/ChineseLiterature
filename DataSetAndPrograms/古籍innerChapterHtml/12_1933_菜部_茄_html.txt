@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·菜部·茄_古诗文网
+</title>
+<meta content="释名落苏、昆化瓜、草鳖甲。气味（茄子）甘、微寒、无毒。主治妇女月经血黄。用黄茄子切开，阴干为末。每服二钱，温酒调下。肠风下血。用经霜茄连蒂烧盛存性，研为末。每天服二小匙，空心服，温" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1933.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>菜部·茄</b></span>
+<a href="javascript:PlayBookv(1933)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1933" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1933" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>落苏、昆化瓜、草鳖甲。</p>
+<p><strong>气味</strong><br/>（茄子）甘、微寒、无毒。</p>
+<p><strong>主治</strong><br/>妇女月经血黄。用黄茄子切开，阴干为末。每服二钱，温酒调下。<br/>肠风下血。用经霜茄连蒂烧盛存性，研为末。每天服二小匙，空心服，温酒送下。又方：取大茄种三枚，每用一枚包湿纸中煨熟。泡酒一升半。蜡封三天，去茄饮酒（暖饮）。<br/>腰脚拘挛（腰脚风血积 冷，筋急拘挛疼痛）。取茄子五十斤（按：这是古秤，所得重量约合今秤的十分之一），切细，以水五斗煮取浓汁，滤去渣，再煮至一升左右，即加入生木木栗粉，令稀稠适当，更配以麝香、朱砂末，做成丸子，如梧子大。每日服三十丸，秫米酒送下。一月后可望病愈。<br/>跌打损伤。用大黄茄一个，切片如一指厚，在新瓦上焙、研为末。临卧时服两小匙，温酒调服。一夜伤消无痕。<br/>热毒疮肿。用生茄子一枚，割去二分，去瓤二分，如罐子形，合在疮上即消。<br/>癜风。用茄蒂蘸硫磺附子共研成的药末掺敷。白癜用白茄蒂，紫癜用紫茄蒂。<br/>牙痛。和秋茄花（干品）烧存性，研末涂痛处。<br/>血淋。用茄叶熏干为末，每服二钱，温酒或盐汤送下。隔年的茄叶更好。<br/>久痢。用茄根浇灰、石榴皮，等分为末，沙糖水送服。<br/>取去痛牙。用茄茎浸马尿中三日，取出晒、炒为末，点在痛牙上，牙自脱落。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1932.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1934.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷三·李伯言_古诗文网
+</title>
+<meta content="李生伯言，沂水人，抗直有肝胆。忽暴病，家人进药，却之曰：“吾病非药饵可疗。阴司阎罗缺，欲吾暂摄其篆耳。死勿埋我，宜待之。”是日果死。驺从导去，入一宫殿，进冕服，隶胥祗候甚肃。案上簿" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11491.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·李伯言</b></span>
+<a href="javascript:PlayBookv(11491)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11491" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11491" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　李生伯言，沂水人，抗直有肝胆。忽暴病，家人进药，却之曰：“吾病非药饵可疗。阴司阎罗缺，欲吾暂摄其篆耳。死勿埋我，宜待之。”是日果死。</p>
+<p>　　驺从导去，入一宫殿，进冕服，隶胥祗候甚肃。案上簿书丛沓。一宗：江南某，稽生平所私良家女八十二人，鞫之佐证不诬，按冥律宜炮烙。堂下有铜柱，高八九尺，围可一抱，空其中而炽炭焉，表里通赤。群鬼以铁蒺藜挞驱使登，手移足盘而上，甫至顶，则烟气飞腾，崩然一响如爆竹，人乃堕；团伏移时始复苏。又挞之，爆堕如前。三堕，则匝地如烟而散，不复能成形矣。</p>
+<p>　　又一起：为同邑王某，被婢父讼盗占生女，王即李姻家。先是一人卖婢，王知其所来非道，而利其直廉，遂购之。至是王暴卒。越日其友周生遇于途，知为鬼，奔避斋中。王亦从入。周惧而祝，问所欲为。王曰：“烦作见证于冥司耳。”惊问：“何事？”曰：“余婢实价购之，今被误控，此事君亲见之，惟借季路一言，无他说也。”周固拒之，王出曰：“恐不由君耳。”未几周果死，同赴阎罗质审。李见王，隐存左袒意。忽见殿上火生，焰烧梁栋。李大骇，侧足立，吏急进曰：“阴曹不与人世等，一念之私不可容。急消他念则火自熄。”李敛神寂虑，火顿灭。已而鞫状，王与婢父反复相苦；问周，周以实对；王以故犯论笞。答讫，遣人俱送回生，周与王皆三日而苏。</p>
+<p>　　李视事毕，舆马而返。中途见阙头断足者数百辈，伏地哀鸣。停车研诘，则异乡之鬼，思践故土，恐关隘阻隔，乞求路引。李曰：“余摄任三日已解任矣，何能为力？”众曰：“南村胡生，将建道场，代嘱可致。”李诺之。至家，驺从都去，李乃苏。</p>
+<p>　　胡生字水心，与李善，闻李再生，便诣探省。李遽问：“清醮何时？”胡讶曰：“兵燹之后，妻孥瓦全，向与室人作此愿心，未向一人道也，何知之？”李具以告。胡叹曰：“闺房一语遂播幽冥，可惧哉！”乃敬诺而去。次日如王所，王犹惫卧。见李，肃然起敬，申谢佑庇。李曰：“法律不能宽假。今幸无恙乎？”王云：“已无他症，但笞疮脓溃耳。”又二十余日始痊，臀肉腐落，瘢痕如杖者。</p>
+<p>　　异史氏曰：“阴司之刑惨于阳世，责亦苛于阳世。然关说不行，则受残酷者不怨也。谁谓夜台无天日哉？第恨无火烧临民之堂廨耳！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11490.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11492.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,139 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·外国部·夷语_古诗文网
+</title>
+<meta content="撑梨孤涂，匈奴称天为“撑梨”，称子为“孤涂”。戎索，夷法也。鞮鞻，夷乐官名。倓，夷赎罪货也。喽丽，南方夷语也。象胥，译语人也。款塞，款，叩也。驰义，慕义而来也。区脱，胡人所作以备汉" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19267.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>外国部·夷语</b></span>
+<a href="javascript:PlayBookv(19267)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19267" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19267" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　撑梨孤涂，匈奴称天为“撑梨”，称子为“孤涂”。戎索，夷法也。鞮鞻，夷乐官名。倓，夷赎罪货也。喽丽，南方夷语也。象胥，译语人也。款塞，款，叩也。驰义，慕义而来也。</p>
+<p>　　区脱，胡人所作以备汉者也。</p>
+<p>　　阏氏（音胭脂），单于之后也。</p>
+<p>　　裨王，匈奴小王也。</p>
+<p>　　藁街，蛮席之馆，汉时所立。氀毼（音兜达），夷服。</p>
+<p>　　谷蠡（音鹿厘），匈奴名。</p>
+<p>　　雁臣，北方酋长秋朝洛阳，冬还部落，谓之雁臣。天兄日弟，倭国王以天为兄，以日为弟。未明时出听政，日出便停理务，曰“以委吾弟。”賨幪，蛮夷布也。（革卬）角，朝鲜列水之间白（革卬）角。貗薄，旄牛。徼外，夷地。</p>
+<p>　　绝幕，幕，沙漠之地也，直度曰绝。</p>
+<p>　　白题，国名。汉颖侯斩白题将一人。</p>
+<p>　　戎狄荐居，聚而居也。魋结，匈奴束发之形也。休屠，匈奴君长。浑邪，亦匈奴之属。作丘螮林（螮音带），匈奴祭也。</p>
+<p>　　龟兹（音纠慈），国名。（《汉书》慈；《后汉书》作屈沮。）乌孙，国名。（《吕氏春秋》作户孙。）辉粥（音熏育），《五帝纪》：“北逐辉粥。”</p>
+<p>　　冒顿（音幕突），匈奴名。日磾（音密底），人名。</p>
+<p>　　令支（令音零），国名。</p>
+<p>　　乌托（音鸦茶），国名。</p>
+<p>　　朝鲜（音招先），日初出，即照其地，故名。近读为“潮”，非。</p>
+<p>　　可汗（音克寒），匈奴主号也。唐时匈奴尊天子为天可汗。</p>
+<p>　　弓闾，出《卫青传》，即穹庐也。 轒辒，匈奴车也。革笥木荐，《治安策》：匈奴之革笥木荐，盾之属也。左薁健，匈奴王号。 强彍，戎夷强彍。彍，粗恶貌。</p>
+<p>　　呼韩邪，汉单于名。</p>
+<p>　　屠耆，匈奴俗谓肾曰屠耆。</p>
+<p>　　赞普，吐番俗谓强雄曰赞，谓丈夫曰普，故号其君长曰赞普。牙官，戎狄大官之称。</p>
+<p>　　叶护，回纥俗谓其太子曰叶护。南膜，胡人礼拜曰南膜，即今之称佛号曰“南无”也。</p>
+<p>　　徼人，界外之人也。</p>
+<p>　　那颜，华言大人也。</p>
+<p>　　者华，言是也。</p>
+<p>　　身毒（音捐烛），西域国名。熐蠡（音觅螺），匈奴聚落也。襜褴（音担蓝），一名临骃，代北胡名。三表五饵，三表，谓仁、信、义也；五饵，谓以声色、车服、珍珠、室宇娱幸，环其耳、目、口、腹、心也。</p>
+<p>　　二庭，谓南北于也。</p>
+<p>　　卢龙，即里永也，属辽西，今属永平府。北人呼里为卢，呼永为龙。</p>
+<p>　　吐谷浑，慕容廆之庶兄也，后因号其国。</p>
+<p>　　丐月，突厥中有丐月城。越裳南蛮，即九真也。殊裔遐圻，言化协殊裔，风衍遐圻。竫人（竫音净），小人也。柳子厚诗：“竫人长九寸。”海外有竫人国。</p>
+<p>　　月氏（音肉支），西域国名。</p>
+<p>　　楼烦、白羊，匈奴地名。</p>
+<p>　　白登，今在大同，上有白登台。</p>
+<p>　　夜郎，夷地，今属贵州。蛮烟棘雨，夷地风景也。筰关，西南夷地。</p>
+<p>　　邛筰，今属叙州。</p>
+<p>　　冉駹。西夷二族。</p>
+<p>　　羌棘，西南夷地。龙城，西夷。朔方，今属宁夏。</p>
+<p>　　大宛，西域国名。</p>
+<p>　　于寘，西域国名。</p>
+<p>　　越隽，今属邛州。玄菟，鲜干郡名。</p>
+<p>　　受降城，汉武帝遣公孙敖塞外筑城也。</p>
+<p>　　庐朐，匈奴中山名。</p>
+<p>　　渠犁，西域国名。</p>
+<p>　　楼兰，西域国名。鬴鍑，《匈奴传》：多鬴鍑爇炭，重不可胜。</p>
+<p>　　比棘，辫发之饰。径路留犁，径路，匈奴宝刀也；留犁，饭匕也。</p>
+<p>　　根肖速鲁奈奈，榜葛刺国歌舞侑酒者，曰根肖速鲁奈奈。</p>
+<p>　　坚昆国，其人赤发、绿瞳。李陵居其地，生而黑瞳者，必曰陵苗裔。</p>
+<p>　　阴山，汉武帝夺其地，匈奴过此者，未尝不哭。逻些城（些琐），土番都城。 徼外（徼音教）东北谓之塞，西南谓之徼。 羸（阝娄）（音连篓），交趾地名。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19266.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19268.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·江右王门学案·主事何善山先生廷仁_古诗文网
+</title>
+<meta content="何廷仁字性之，号善山，初名秦，江西雩县人。举嘉靖元年乡试。至二十年，始谒选，知新会县。喜曰：“吾虽不及白沙之门，幸在其乡，敢以俗吏临其子弟耶？”释菜於祠，而后视事。迁南京工部主事，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14570.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>江右王门学案·主事何善山先生廷仁</b></span>
+<a href="javascript:PlayBookv(14570)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14570" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14570" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　何廷仁字性之，号善山，初名秦，江西雩县人。举嘉靖元年乡试。至二十年，始谒选，知新会县。喜曰：“吾虽不及白沙之门，幸在其乡，敢以俗吏临其子弟耶？”释菜於祠，而后视事。迁南京工部主事，满考致仕。三十年卒，年六十六。</p>
+<p>　　初闻阳明讲学，慨然曰：“吾恨不得为白沙弟子，今又可失之耶！”相见阳明於南康。当是时，学人聚会南、赣，而阳明师旅旁午，希临讲席。先生即与中离、药湖诸子接引来学。先生心诚气和，不厌缕覼，由是学者益亲。已从阳明至越，先生接引越中，一如南、赣。阳明殁后，与同志会於南都，诸生往来者恒数百人。故一时为之语曰：“浙有钱、王，江有何、黄。”指绪山、龙溪、洛村与先生也。先生论学，务为平实，使学者有所持循。尝曰：“吾人须从起端发念处察识，於此有得，思过半矣。”又曰：“知过即是良知，改过即是本体。”又曰：“圣人所谓无意无情者，非真无也，不起私意，自无留意留情耳。若果无意，孰从而诚？若果无情，孰从而精？”或谓：“求之於心，全无所得，日用云为，茫无定守。”先生曰：“夫良知在人为易晓，诚不在於过求也。如知无所得，无所定守，即良知也。就於知无所得者，安心以为无得，知无定守者，安心以守之，斯岂非入门下手之实功乎？况心性既无形声，何从而得？既无定体，何从而守？但知无所得，即有所悟矣，知无定守，即有定主矣。”其言不为过高如此。故闻谈学稍涉玄远，辄摇手戒曰：“先生之言，无是无是。”南都一时之论，谓“工夫只在心上用，才涉意，便已落第二义，故为善去恶工夫，非师门最上乘之教也。”先生曰：“师称无善无恶者，指心之应感无迹，过而不留，天然至善之体也。心之应感谓之意，有善有恶，物而不化，着於有矣，故曰：‘意之动’。若以心为无，以意为有，是分心意为二见，离用以求体，非合内外之道矣。”乃作《格物说》，以示来学，使之为善去恶，实地用功，斯之谓致良知也。</p>
+<p>　　细详先生之言，盖难四无而伸四有也。谓无善无恶，是应感无迹，则心体非无善无恶明矣。谓着於有为意之动，则有善有恶是意之病也。若心既无善无恶，此意知物之善恶，从何而来？不相贯通。意既杂於善恶，虽极力为善去恶，源头终不清楚，故龙溪得以四无之说胜之。心意知物，俱无善恶，第心上用功，一切俱了，为善去恶，无所事事矣，佛家之立跻圣位是也。由先生言之，心既至善，意本澄然无动，意之灵即是知，意之照即是物，为善去恶，固是意上工夫也，然则阳明之四有，岂为下根人说教哉！</p>
+<p>　　善山语录</p>
+<p>　　圣人所谓无意无情者，非真无也，不起私意，自无留意留情耳。若果无意，孰从而诚？若果无情，孰从而精？是尧、舜不必惟精，孔子不必徙义改过矣。吾故曰：“学务无情，断灭天性，学务有情，缘情起衅。不识本心，二者皆病。”</p>
+<p>　　有意固谓之意见，而必欲求为无意，是亦不可谓非意见也。是故论学，不必太高，但须识本领耳。苟识本领，虽曰用意，自无留情；苟不识本领，虽曰欲无意，只是影响。</p>
+<p>　　或谓：“求之於心，全无所得，日用云为，茫无定守。”夫良知在人为易晓，诚不在於过求也。如知无所得，无所定守，即良知也。就於知无所得者，安心以为无得，知无定守者，安心以守之，斯岂非入门下手之实功乎？况心性既无形声，何从而得？既无定体，何从而守？但知无所得，即有所悟矣，岂真无所得耶？知无定守，即有定主矣，岂真无定守耶？</p>
+<p>　　后世儒者，不能至於圣人，其毫釐之差，只不信此。使果真知，即刻一了百当，自是了得终身。见在此心，合下圆成、合下具足，更有何意可起？何理可思？苟有所思虑，盖不过殊涂同归，一致百虑而已。</p>
+<p>　　有欲绝感以求静者，曰：“非也。君子亦惟致其良知而已矣，知至则视无不明，听无不聪，言无不中，动无不敬。是知应物之心非动也，有欲故谓之动耳。绝感之心非静也，无欲故谓之静耳。苟有欲焉，虽闭关习静，心斋坐忘，而其心未尝不动也。苟无欲焉，虽纷华杂扰，酬酢万变，而其心未尝不静也。动而无欲，故动而无动，而其动也自定。静而无欲，故静而无静，而其静也常精。动定静定庶矣。</p>
+<p>　　所论“个中拟议差毫发，就里光明障几重。肯信良知无适莫，何须事后费磨砻”即此知直造先天。夫本来面目，岂特无容拟议，虽光明亦何所有！诚知本体无容用其力，则凡从前着意寻求，要皆敲门瓦砾耳，门开则瓦砾诚无所施。虽太虚中何物不有，门户瓦砾，色色具列，而不能染於太虚。思而无思，拟议而无拟议，道本如是耳。是故戒慎恐惧，格物致知，虽为众人设法，在圣人惟精亦不废。不然，孔子尝谓“吾有知乎哉？无知也。”而又忧“闻义不能徙，不善不能改”。是以上达不离下学中得之，则磨砻改过，正见圣人洁净精微。</p>
+<p>　　天下之事，原无善恶，学者不可拣择去取，只要自审主意。若主意是个真心，随所处皆是矣；若主意是个私心，纵拣好事为之，却皆非矣。譬如戏谑是不好事，但本根是个与人为善之心，虽说几句笑话，动人机括，自揣也是真心。但本根是个好名之心，则虽孝亲敬长，温凊定省，自揣还是欺心。</p>
+<p>　　此学是日用寻常事，自知自足，无事旁求，习之则悦，顺之则裕，真天下之至乐也。今之同志，负高明之志者，嘉虚玄之说，厉敦确之行者，乐绳墨之趋，意各有所用，而不能忘所见，此君子之道所以为鲜。</p>
+<p>　　致中和，天地位，万物育者，如或动於客气，梏於物欲，觉得胸中劳耗错乱，天地即已翻覆，亲而父子兄弟，近而童仆，远而天下之人，皆见得不好。至於山川草木，鸡犬椅桌，若无相干，也自不好。天下虽大，我自不得其平矣。少即平其心，易其气，良知精察，无有私意，便觉与天地相似矣。不惟父子兄弟童仆自无不好，而天下之人亦无不好，以至鸡犬椅桌、山川草木，亦无不好，真见万物皆有春意。至於中间有不得其所者，自恻然相关，必思处之而后安。故尽天下之性，只是自尽其性。（位育之理确然。）</p>
+<p>　　天地万物与吾原同一体，知吾与天地万物既同一体，则知人情物理要皆良知之用也，故除却人情物理，则良知无从可致矣。是知人情物理，虽曰常感，要之感而顺应者，皆为应迹，实则感而无感。良知无欲，虽曰常寂，要之原无声臭者，恒神应无方，实则寂而无寂。此致知所以在於格物，而格物乃所以实致其良知也。明道以穷理尽性至命，一下便了，於此可见。</p>
+<p>　　象山云：“老夫无所能，只是识病。”可见圣贤不贵无病，而贵知病，不贵无过，而贵改过。今之学者，乃不虑知病即改，却只虑有病。岂知今之学者，要皆半路修行者也，习染既深，焉能无病？况有病何伤？过而能改，虽曰有病，皆是本来不染，而工夫亦为精一实学耳。</p>
+<p>　　今日论学，只当辨良知本领，果与慎独工夫同与不同，不当论其行事标末，律之古人出处异与不异。使其本领既同，而行事或过，自可速改而进诚明之域；使其本领已失，而操履无过，虽贤如诸葛、韩、范、明道、尚惜其不着不察，而有未闻道之叹！</p>
+<p>　　谓“近来勉强体究，凡动私意，一觉便欲放下。”如此岂不是切实工夫？但说得似易，恐放下甚难。若私意已尝挂根，虽欲放下，却不能矣。须有好仁无以尚之之心，然后私意始不挂根。如此一觉放下，便就是洁净精微之学。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14569.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14571.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+搜神后记·卷七_古诗文网
+</title>
+<meta content="庐陵巴邱人陈济者，作州吏，其妇秦，独在家。常有一丈夫，长丈余，仪容端正，著绛碧袍，采色炫耀，来从之。后常相期于一山涧间。至于寝处，不觉有人道相感接。如是数年。比邻入观其所至，辄有虹" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4230.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2830" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七</b></span>
+<a href="javascript:PlayBookv(4230)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4230" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2830)" id="leftbtn2830" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4230" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%b6%e6%b8%8a%e6%98%8e">陶渊明</a></p>
+<div class="contson">
+<p>　　庐陵巴邱人陈济者，作州吏，其妇秦，独在家。常有一丈夫，长丈余，仪容端正，著绛碧袍，采色炫耀，来从之。后常相期于一山涧间。至于寝处，不觉有人道相感接。如是数年。比邻入观其所至，辄有虹见。秦至水侧，丈夫以金瓶引水共饮。后遂有身，生而如人，多肉。济假还，秦惧见之，乃纳儿著瓮中。此丈夫以金瓶与之，令覆儿，云：“儿小，未可得将去。不须作衣，我自衣之。“即与绛囊以裹之，令可时出与乳。于时风雨暝晦，邻人见虹下其庭，化为丈夫，复少时，将儿去，亦风雨暝晦。人见二虹出其家。数年而来省母。后秦适田，见二虹于涧，畏之。须臾见丈夫，云：“是我，无所畏也。“从此乃绝。 </p>
+<p>　　宋元嘉初，富阳人姓王，于穷渎中作蟹断。旦往观之，见一材长二尺许，在断中。而断裂开，蟹出都尽。乃修治断，出材岸上。明往视之，材复在断中，断败如前。王又治断出材。明晨视，所见如初。王疑此材妖异，乃取内蟹笼中，挛头担归，云：“至家，当斧砍燃之。“未至家二三里，闻笼中倅倅动。转头顾视，见向材头变成一物，人面猴身，一身一足。语王曰：“我性嗜蟹，比日实入水破君蟹断，入断食蟹。相负已尔，望君见恕，开笼出我。我是山神，当相佑助，并令断得大蟹。“王曰：“如此暴人，前后非一，罪自应死。“此物恳告，苦请乞放。王回顾不应。物曰：“君何姓名，我欲知之。“频问不已，王遂不答。去家转近，物曰：“既不放我，又不告我姓字，当复何计，但应就死。“王至家，炽火焚之。后寂然无复声。土俗谓之山魈，云知人姓名，则能中伤人。所以勤勤问王，欲害人自免。 </p>
+<p>　　刘聪伪建元元年正月，平阳地震，其崇明观陷为池，水赤如血，赤气至天，有赤龙奋迅而去。流星起于牵牛，入紫微，龙形委蛇，其光照地，落于平阳北十里。视之则肉，臭闻于平阳，长三十步，广二十七步。肉旁尝有哭声，昼夜不止。数日聪后刘氏，产一蛇一兽，各害人而走。寻之不得。顷之，见于陨肉之旁。俄而刘氏死，哭声自绝。 </p>
+<p>　　晋中兴后，谯郡周子文，家在晋陵。少时喜射猎，常入山，忽山岫间有一人，长五六丈，手捉弓矢，矢镝头广二尺许，白如霜雪，忽出声唤曰：“阿鼠（子文小字）。“子文不觉应曰：“喏。“此人便牵弓满镝向子文，子文便失魂厌伏。 晋孝武世，宣城人秦精，常入武昌山中采茗。忽遇一人，身长丈余，遍体皆毛，从山北来。精见之，大怖，自谓必死。毛人径牵其臂，将至山曲，入大丛茗处，放之便去。精因采茗。须臾复来，乃探怀中二十枚橘与精，甘美异常。精甚怪，负茗而归。 </p>
+<p>　　会稽盛逸，常晨兴，路未有行人，见门外柳树上有一人，长二尺，衣朱衣朱冠，俯以舌舐叶上露。良久，忽见逸，神意惊遽，即隐不见。 </p>
+<p>　　宋永初三年，谢南康家婢，行逢一黑狗，语婢云：“汝看我背后。“婢举头，见一人长三尺，有两头。婢惊怕返走，人、狗亦随婢后，至家庭中，举家避走。婢问狗：“汝来何为？“狗云：“欲吃食尔。“于是婢为设食。并食食讫，两头人出。婢因谓狗曰：“人已去矣。“狗曰：“正巳复来。“良久乃没。不知所在。后家人死丧殆尽。 </p>
+<p>　　宋襄城李颐，其父为人不信妖邪。有一宅，由来凶不可居，居者辄死。父便买居之。多年安居，子孙昌炽。为二千石，当徙家之官，临去，请会内外亲戚。酒食既行，父乃言曰：“天下竟有吉凶否？此宅由来言凶，自吾居之，多年安吉，乃得迁官，鬼为何在？自今已后，便为吉宅。居者住止，心无所嫌也。“语讫如厕，须臾，见壁中有一物，如卷席大，高五尺许，正白。便还取刀中之，中断，化为两人，复横斫之，又成四人。便夺取反斫杀李。持至坐上，斫杀其子弟。凡姓李者必死，惟异姓无他。颐尚幼，在抱。家内知变，乳母抱出后门，藏他家，止其一身获免。颐字景真，位至湘东太守。 宋王仲文为河南郡主簿，居缑氏县北。得休，因晚行泽中。见车后有白狗，仲文甚爱之。欲取之，忽变形如人，状似方相，目赤如火，磋牙吐舌，甚可憎恶。仲文大怖，与奴共击之，不胜而走。告家人，合十余人，持刀捉火，自来视之，不知所在。月余，仲文忽复见之。与奴并走，未到家，伏地俱死。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4229.aspx">上一章</a>
+<a href="/guwen/book_50.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4231.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2830" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

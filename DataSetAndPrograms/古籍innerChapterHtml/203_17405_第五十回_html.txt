@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+东游记·第五十回_古诗文网
+</title>
+<meta content="八仙火烧东洋却说洞宾、仙姑回见众仙，备言龙王不还玉板，反令其子统兵来战，被吾杀其长子，又断其二子一臂，败兵逃入海中。采和闻言大喜。独果老怒曰：“彼虽逞强，汝只当以言语化之。今杀其二" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_17405.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第五十回</b></span>
+<a href="javascript:PlayBookv(17405)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv17405" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay17405" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%83%e6%b3%b0">吴元泰</a></p>
+<div class="contson">
+<p>　　<strong>八仙火烧东洋</strong></p>
+<p>　　却说洞宾、仙姑回见众仙，备言龙王不还玉板，反令其子统兵来战，被吾杀其长子，又断其二子一臂，败兵逃入海中。采和闻言大喜。独果老怒曰：“彼虽逞强，汝只当以言语化之。今杀其二子，龙王岂肯灰心？不久大兵至矣！”</p>
+<p>　　钟离曰：“事既如此，亦当准备以待之，莫使噬脐无及。”</p>
+<p>　　铁拐曰：“汝本善战，试以此战当用何策以胜之？”</p>
+<p>　　钟离曰：“以我愚见，汝等须当听吾调度，则可一当百，百当千，敌兵虽众，管教片甲不回。”</p>
+<p>　　铁拐曰：“当战斗之时，安危所系，敢不唯命是听。”</p>
+<p>　　钟离曰：“今日不必他处借兵，贝我八人，分作四路，各人变化些少军马，以故迷人耳目。但设军中令旗一面，摇动之时，四面齐出，足以破敌人矣。”</p>
+<p>　　众仙曰：“此计大妙。”</p>
+<p>　　言犹未了，只见尘头蔽日，喊杀连天，龙王引兵来到，列成阵势。龙王出阵，大骂洞宾，欲报二子之仇。钟离即令洞宾、湘子居左，采和、仙姑居右，铁拐、国舅殿后，果老管旗，但见我斗他不胜，便可摇旗，招动四面之兵。分遣已毕，钟离自作先锋，舞剑出到阵前。龙王见了，更不打话，提枪直取钟离。钟离挥剑骤马迎敌。二人战至五十余合，不分胜负。龙王阵上兵将，见战不下钟离，乱出助战。</p>
+<p>　　果老见了，摇动号旗，忽四面喊声大起，左有洞宾、湘子之兵杀到，右有采和、仙姑之兵杀到，后有铁拐、国舅之兵杀到，龙王正不知四面之兵多少，其兵不战而乱，自相践踏，死者无数。钟离督战愈急，龙王见势不利，落荒而走。钟离四处急追，龙王奔入海中。铁拐、洞宾放出葫芦之火，烧干海水，烟焰腾天。钟离又以拂尘蘸水洒之四方，仙姑又以竹罩盛水灌于葫芦之内，须臾之间，东洋火炽，竟成一片白地。龙王挈其妻子逃于南海，其他鱼龙等类皆为煨烬。八仙收兵，奏凯，皆入龙王水晶宫殿驻扎去了。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_17404.aspx">上一章</a>
+<a href="/guwen/book_203.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_17406.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·素问·阴阳类论_古诗文网
+</title>
+<meta content="孟春始至，黄帝燕坐，临观八极，正八风之气，而问雷公曰：阴阳之类，经脉之道，五中所主，何藏最贵？雷公对曰：春甲乙青，中主肝，治七十二日，是脉之主时，臣以其藏最贵。帝曰：却念上下经，阴" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1042.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left863" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>素问·阴阳类论</b></span>
+<a href="javascript:PlayBookv(1042)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1042" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(863)" id="leftbtn863" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1042" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　孟春始至，黄帝燕坐，临观八极，正八风之气，而问雷公曰：阴阳之类，经脉之道，五中所主，何藏最贵？</p>
+<p>　　雷公对曰：春甲乙青，中主肝，治七十二日，是脉之主时，臣以其藏最贵。</p>
+<p>　　帝曰：却念上下经，阴阳从容，子所言最贵，其下也。</p>
+<p>　　雷公致斋七日，旦复侍坐。</p>
+<p>　　帝曰：三阳为经，二阳为维，一阳为游部，此知五藏终始。三阳为表，二阴为里，一阴至绝，作朔晦，却具合以正其理。</p>
+<p>　　雷公曰：受业未能明。</p>
+<p>　　帝曰：所谓三阳者，太阳为经，三阳脉，至手太阴，弦浮而不沉，决以度，察以心，合之阴阳之论。所谓二阳者，阳明也，至手太阴，弦而沉急不鼓，炅至以病皆死。一阳者，少阳也，至手太阴，上连人迎，弦急悬不绝，此少阳之病也，专阴则死。</p>
+<p>　　三阴者，六经之所主也，交于太阴，伏鼓不浮，上空志心。二阴至肺，其气归膀胱，外连脾胃。一阴独至，经绝，气浮不鼓，钩而滑。此六脉者，乍阴乍阳，交属相并，缪通五藏，合于阴阳，先至为主，后至为客。</p>
+<p>　　雷公曰：臣悉尽意，受传经脉，颂得从容之道，以合《从容》，不知阴阳，不知雌雄。</p>
+<p>　　帝曰：三阳为父，二阳为卫，一阳为纪。三阴为母，二阴为雌，一阴为独使。</p>
+<p>　　二阳一阴，阳明主病，不胜一阴，软而动，九窍皆沉。三阳一阴，太阳脉胜，一阴不能止，内乱五藏，外为惊骇。二阴二阳，病在肺，少阴脉沉，胜肺伤脾，外伤四支。二阴二阳皆交至，病在肾，骂詈妄行，巅疾为狂。二阴一阳，病出于肾，阴气客游于心脘，下空窍堤，闭塞不通，四支别离。一阴一阳代绝，此阴气至心，上下无常，出入不知，喉咽干燥，病在土脾。二阳三阴，至阴皆在，阴不过阳，阳气不能止阴，阴阳并绝，浮为血瘕，沉为脓胕。阴阳皆壮，下至阴阳。上合昭昭，下合冥冥，诊决生死之期，遂合岁首。</p>
+<p>　　雷公曰：请问短期。黄帝不应。雷公复问。</p>
+<p>　　黄帝曰：在经论中。</p>
+<p>　　雷公曰：请闻短期。</p>
+<p>　　黄帝曰：冬三月之病，病合于阳者，至春正月脉有死徵，皆归出春。冬三月之病，在理已尽，草与柳叶皆杀，春阴阳皆绝，期在孟春。春三月之病，曰阳杀，阴阳皆绝，期在草干。夏三月之病，至阴不过十日，阴阳交，期在溓水。秋三月之病，三阳俱起，不治自已。阴阳交合者，立不能坐，坐不能起。三阳独至，期在石水。二阴独至，期在盛水。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1041.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1043.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right863" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

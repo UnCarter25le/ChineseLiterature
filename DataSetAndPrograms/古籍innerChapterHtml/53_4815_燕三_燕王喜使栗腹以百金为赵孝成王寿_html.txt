@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·燕三·燕王喜使栗腹以百金为赵孝成王寿_古诗文网
+</title>
+<meta content="燕王喜使栗腹以百金为赵孝成王寿，酒三日，反报曰：“赵民其壮者皆死于长平，其孤未壮，可伐也。”王乃召昌国君乐间而问曰：“何如?”对曰：“赵，四达之国也，其民皆习于兵，不可与战。”王曰" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4815.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4351" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>燕三·燕王喜使栗腹以百金为赵孝成王寿</b></span>
+<a href="javascript:PlayBookv(4815)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4815" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4351)" id="leftbtn4351" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4815" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　燕王喜使栗腹以百金为赵孝成王寿，酒三日，反报曰：“赵民其壮者皆死于长平，其孤未壮，可伐也。”王乃召昌国君乐间而问曰：“何如?”对曰：“赵，四达之国也，其民皆习于兵，不可与战。”王曰：“吾以倍攻之，可乎?”曰：“不可。”曰：“以三，可乎?”曰：“不可。”王大怒。左右皆以为赵可伐，遽起六十万以攻赵。令栗腹以四十万攻鄗，使庆秦以二十万攻代。赵使廉颇以八万遇栗腹于鄗，使乐乘以五万遇庆秦于代。燕人大败。乐间入赵。</p>
+<p>　　燕王以书且谢焉，曰：“寡人不佞，不能奉顺君意，故君捐国而去，则寡人之不肖明矣。敢端其愿，而君不肯听，故使使者陈愚意，君试论之。语曰：‘仁不轻绝，智不轻怨。’君之于先王也，世之所明知也。寡人望有非则君掩盖之，不虞君之明罪之也；望有过则君教诲之，不虞君之明罪之也。且寡人之罪，国人莫不知，天下莫不闻，君微出明怨以弃寡人，寡人必有罪矣。虽然，恐君之未尽厚也。谚曰：‘厚者不毁人以自益也，仁者不危人以要名。’以故掩人之邪者，厚人之行也；救人之过者，仁者之道也。世有掩寡人之邪，救寡人之过，非君心所望之?今君厚受位于先王以成尊，轻弃寡人以快心，则掩邪以救过，难得于君矣。且世有薄于故厚施，行有失而故惠用。今使寡人任不肖之罪，而君有失厚之累，于为君择之也，无所取之。国之有封疆，犹家之有垣墙，所以合好掩恶也。室不能相和，出语邻家，未为通计也。怨恶未见而明弃之，未尽厚也。寡人虽不省乎，未如殷纣之乱也；君虽不得意乎，未如商容、箕子之累也。然则不内盖寡人，而明怨于外，恐其适足以伤于高而薄于行也，非然也。苟可以明君之义，成君之高，虽任恶名，不难受也。本欲以为明寡人之薄，而君不得厚；扬寡人之辱，而君不得荣。此一举而两失也。义者不亏人以自益也，况伤人以自损乎!愿君无以寡人不肖，累往事之美。昔者柳下惠吏于鲁，三黜而不去。或谓之曰：‘可以去。’柳下惠曰：‘苟与人之异，恶往而不黜乎?犹且黜乎，宁于故国尔。’柳下惠不以三黜自累，故前业不忘；不以去为心，故远近无议。今寡人之罪，国人未知，而议寡人者遍天下。语曰：‘论不修心，议不累物，仁不轻绝，智不简功。’弃大功者，辍也；轻绝厚利者，怨也。辍而弃之，怨而累之，宜在远者，不望之乎君也。今以寡人无罪，君岂怨之乎?愿君捐怨，追惟先王，复以教寡人。意君曰，余且匿心以成而过，不顾先王以明而恶，使寡人进不得修功，退不得改过，君之所揣也。唯君图之。此寡人之愚意也。敬以书谒之。”</p>
+<p>　　乐间、乐乘怨不用其计，二人卒留赵，不报。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4814.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4816.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4351" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

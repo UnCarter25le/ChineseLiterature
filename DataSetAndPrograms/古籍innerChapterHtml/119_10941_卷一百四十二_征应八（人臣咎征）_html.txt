@@ -1,0 +1,127 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平广记·卷一百四十二·征应八（人臣咎征）_古诗文网
+</title>
+<meta content="刘德愿　李镇　柳元景　向玄季　滕景直　王晏　留宠　尔朱世隆　刘敏　李广　王氏　张雕虎　强练　李密　张鷟　唐望之刘德愿　　宋太始中，豫州刺史彭城刘德愿镇寿阳。住内屋，闭户未合，辄有人" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_10941.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left8883" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一百四十二·征应八（人臣咎征）</b></span>
+<a href="javascript:PlayBookv(10941)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv10941" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(8883)" id="leftbtn8883" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay10941" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89%e3%80%81%e6%89%88%e8%92%99%e3%80%81%e5%be%90%e9%93%89%e7%ad%89">李昉、扈蒙、徐铉等</a></p>
+<div class="contson">
+<p>　　刘德愿　李镇　柳元景　向玄季　滕景直　王晏　留宠　尔朱世隆　刘敏　李广　王氏　张雕虎　强练　李密　张鷟　唐望之</p>
+<p>　　刘德愿　　</p>
+<p>　　宋太始中，豫州刺史彭城刘德愿镇寿阳。住内屋，闭户未合，辄有人头进门扉，窥看户内。是丈夫，露髻团面。内人惊告，把火搜觅，了不见人。刘明年被诛。（出《异苑》）</p>
+<p>　　李镇　　</p>
+<p>　　庐山自南行十余里，有鸡山。山上有石鸡，冠距如生。道士李镇于此下住，常宝玩之。鸡一日忽摧毁，镇告人曰：“鸡忽如此，吾其终乎！”因与知故诀别，后月余遂卒。（出《幽明录》）</p>
+<p>　　柳元景　　</p>
+<p>　　宋骠骑大将军河东柳元景，大明八年，少帝即位，元景乘车行还。使人于中庭洗车，卸辕晒之。有飘风中门而入，直来冲车。明年而阖门被诛。（出《神鬼传》）</p>
+<p>　　向玄季　　</p>
+<p>　　宋河南向玄季为南郡太守。其妻煮练，忽烂如粥，汁赤如血。夜有人扣阁而呼曰：“府君今可去矣！俄而刺史南郡王义宣作逆，玄季力弱，不能自固，以附于逆。父子并伏法。（出《渚宫故事》）</p>
+<p>　　滕景直　　</p>
+<p>　　宋滕景直家在广州。元徽中，使婢炊，釜中有声如雷。婢惊白，景直及家人走视，釜声更壮。釜上花数十，渐长如莲花而大，赤色，俄顷萎绝。旬日，景直病死。（出《广古今五行记》）</p>
+<p>　　王晏　　</p>
+<p>　　齐王晏字休默，位势隆极，而骄盈怨望，伏诛焉。其将及祸也，见屋桷悉是大蛇，就视之则灭焉。晏恶之，乃令以纸裹桷，犹纸内动摇，籁籁有声。（出《广古今五行记》）</p>
+<p>　　留宠　　</p>
+<p>　　东阳留宠字道弘，居于湖熟。每夜，门庭自有血数升，不知所从来，如此三四。后宠为折冲将军，受命北征，将行而炊饭尽变为虫。其家人蒸麹，亦变为虫。其火逾猛，其虫逾壮。宠遂北征，军败于坛丘，为徐龙所杀。（出《法苑珠林》）</p>
+<p>　　尔朱世隆　　</p>
+<p>　　后魏仆射尔朱世隆，昼寝。妻奚氏，忽见有一人，携世隆头出。奚氏遽往视之，隆寝如故。及隆觉，谓妻曰：“向梦见有人，断我头将去。”数日被诛。（出《广古今五行记》）</p>
+<p>　　刘敏　　</p>
+<p>　　梁侯景乱。支江人刘敏于江中接得一豫章木，大数十围。敏求以施入寺。陆法和曰：“此木正可与君家自用。”敏不悟此语。后十余日，敏妇亡，即解用此木为棺。法和曰：“犹未了。”更一月，敏弟亡，用此木仅足。（出《广古今五行记》）</p>
+<p>　　李广　　</p>
+<p>　　北齐文宣天保年，御史李广勤学博物，拜侍御史。夜梦见一人，出于其身中，谓广曰：“君用心过苦，非精神所堪。”因而惚恍，数日便遇疾，积年而终。（出《广古今五行记》）</p>
+<p>　　王氏　　</p>
+<p>　　北齐后主武平初，平邑王氏与同邑人李家为婚，载羊酒，欲就亲家宴会。行不过三里，日没渐暗，见东南五十步外，有赤物大如升，若流星曳影，直来著车轮。牛即不动，见者并怖。其妻遂下车，向而再拜，张裙引之。便入裙下，升车还家，照看乃真金，遂盛于库柜。每至良晨，恒以香火祈恩。后四方异货，毕集其家，田蚕每年百倍。至春，其庭生一桑树，枝叶异于众木。数年之间，遍满一院。奇禽异鸟，莫不栖集。其家大富，将三十年。王氏妻以老病终。后凌朝有白鸟似鹭，飞至桑树侧，吐血久之，堕地而死。日午后，西北大旋风，涨天而来，绕旋此树，竦上其枝柯，如扫帚形。不经十日，奴婢逃走，首尾相继，家资略尽。及开柜取金，唯见萤火蚰蜒腐草之余耳。（出《广古今五行记》）</p>
+<p>　　张雕虎　　</p>
+<p>　　北齐末，监吏待诏张雕虎，未死一日前，骑马在路。有人望，不见其头。俄而见杀。（出《广古今五行记》）</p>
+<p>　　强练　　</p>
+<p>　　后周武帝时，有强练者，岐山人，佯狂，号曰强练。冢宰晋国公宇文护未败之日，强练执一瓠，到其门前，扑破之，云：“瓠破，怜你子苦。”护被杀，护之诸子皆楚毒而卒。时皋公侯龙思兄弟被冢宰宠遇，燻灼当时。强练度其门，思妻妪等遣婢呼入，为设饮食，察其言语。练谓思等云：“与我作婢。”众妪大笑。练又云：“作婢会不免。他人将去，安能胜我。”未几冢宰诛，思兄弟亦同被戮。（出《广古今五行记》）</p>
+<p>　　李密　　</p>
+<p>　　隋李密即会众，屯洛口，设坛，大张旌旗，告天即公位。其夜，狐狸鸣于坛侧。翌日，临行事，大风四起，飞沙拔木，旗竿有折者。其后果败。（出《感记录》）</p>
+<p>　　张鷟　　</p>
+<p>　　唐永徽年中，张鷟筑马槽厂，宅正北掘一坑丈余。时阴阳书云：“子地穿，必有人堕井死。”鷟有奴名永进，淘井土崩，压死。又鷟故宅，有一桑，高四五丈，无故枯死。寻而祖亡。没后，有明阴阳云：“乔木先枯，众子必孤。”此其验也。（出《朝野佥载》）</p>
+<p>　　唐望之　　</p>
+<p>　　唐咸亨四年，洛州司户唐望之，冬选科五品，进止未出。闻有一僧来觅。初不相识，延之共坐。少顷云：“贫道出家人，得饮食亦少。以公名人，故暗相鷟，能设一顿鲙否？”司户欣然，即处置买鱼。此僧云：“看有蒜否？”司户家人云：“蒜尽。”此僧云：“既蒜尽，去也。”即起。司户留之，云：“蒜尽，遣买即得。”僧云：“蒜尽不可更住者，留不得。”司户无疾，至夜暴亡。蒜者算也，年尽，所以异僧告之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_10940.aspx">上一章</a>
+<a href="/guwen/book_119.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_10942.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right8883" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

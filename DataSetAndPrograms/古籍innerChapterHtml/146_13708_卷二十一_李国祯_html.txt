@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷二十一·李国祯_古诗文网
+</title>
+<meta content="李国祯（按此传未确当考）李国桢，号兆瑞，丰城人。袭襄城伯。短小犀利，有口才，数上书言兵事，又自请于京营外选炼卫所官舍。上甚喜，及商议俸粮，增给不赀，岁费二十余万。又请内库兵仗铳药甚" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13708.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二十一·李国祯</b></span>
+<a href="javascript:PlayBookv(13708)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13708" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13708" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　李国祯（按此传未确当考）</p>
+<p>　　李国桢，号兆瑞，丰城人。袭襄城伯。短小犀利，有口才，数上书言兵事，又自请于京营外选炼卫所官舍。上甚喜，及商议俸粮，增给不赀，岁费二十余万。又请内库兵仗铳药甚多，而乞上御书额，上为亲书“共武堂”赐之。未几，代恭顺侯吴惟英总督京营戎政，都督加太子太保。贼寇京师，公奉旨守城，百计绸缪。三月十六，公匹马入殿，汗雨沾衣，内侍以非时止之。公曰：此时君臣，多见一刻，亦一刻事。诸臣惶惧问故。曰：守城军皆疲傲不用命，鞭一人起，则一人复卧。奈何！上召入，命内侍俱上城。十九城破。二十一，李自成舁帝后梓宫于东华门外，设厂，百官过者，莫进视。公踉跄奔赴跪梓宫前，大哭。贼执公，见自成，复大哭。以头触墀，血流被面。贼众持之，自成以好语劝公，使降。公曰：有三事尔从我，即降。一祖宗陵寝不可发掘，一须葬先帝以天子礼，一太子二王不可害，宜待以杞宋之礼。再四哀切，自成诺之。扶出。先是，以柳棺殓帝后，因公言，易梓宫，寻为帝后发丧，以天子礼葬于田贵妃陵园。惟公一人，斩衰徒步往葬，至陵襄事毕，恸哭作诗数章，遂于帝后寝前自缢死。南京赠太子太师，进侯，谥贞武。</p>
+<p>　　一云葬毕即自杀，一云城陷之日，贼执国祯至，初时捍然不跪，贼再以危言恐之曰，当屠一城人。国祯乃跪曰：吾为阖城求全也。未数日，发同诸人追银，夹二次；已闻朱纯臣诛，即自缢。</p>
+<p>　　一云：国祯掌领营兵，并无实籍。上信任之。一日见上曰：臣兵未尝不强，苦无饷耳。及外城陷，奄奔告上。上曰：大营兵何在？李国祯练兵何在？对曰：安得有兵？李兵已散。惟劝皇上走耳。城陷之日，国祯就擒，追赃残剥而死。</p>
+<p>　　沈国元大事记云：先帝后殓葬，其易棺也，一言太子争之，一言李襄城争之，一言贼初用极菲棺，露顿东华门外道傍，诸僚无一言者，亦无一哭者，即默默趋拜者，亦仅数十人耳。次早有武官及运粮者百余人，向贼哭诉，贼始易以梓宫，移顿僧人施茶庐篷内。及柩暗从德胜门出，诸僚无一送者，亦无一哭者，遂草草掩于田贵妃坟内。与诸本所说，贼允百官请用帝礼，及不禁人哭拜，令人押东宫出城，往送葬于长陵之斜者，又皆不同。以理推之，襄城世臣，固因有哭诤自刎之义，而未必真也。储王为贼所忌，势不能守丧送葬，此时人情异向，其为默默，为草草，或无诬焉。</p>
+<p>　　刘文炳</p>
+<p>　　刘文炳，号淇筠，南直海州人，北直任耶籍，先帝太后侄也。太子太保，晋新乐侯，赐赉独厚。父维祖，弟文耀，俱官都督。贼破外城，上召文炳及驸马巩永固，各率家丁二十余人，欲于崇文门突围出，不得，乃回宫。文炳叹曰：身为戚臣，义不受辱，不可不与国同难。其女弟适李，年未三十而寡，文炳召之归。城陷，与弟左都督文耀，择一大井，驱男女子孙及其妹十六人，尽投于内，闭门令余丁悉入楼，积薪纵火焚，赐宅火发，乃跃入烈焰中。同死祖母瀛国太夫人，即帝外祖母也。时年九十余，亦投井死。南都赠文炳太师、恒国公，谥忠壮。弟文耀，赠太保，谥忠果。一载文炳自缢。</p>
+<p>　　周镜</p>
+<p>　　周镜，号正我，苏州人，顺天大兴籍。官东宫侍卫。闻贼变，母妻一门俱自尽。母卜氏，即先皇后母也。</p>
+<p>　　甲乙史云：周镜，国丈嘉定伯周奎之侄也，未知孰是。须考之。一云三百余口，一时俱死。</p>
+<p>　　巩永固</p>
+<p>　　巩永固，字洪图，顺天大兴人，又云顺天籍，山东蒲台人。为驸马都尉，加少保。贼困京，欲从帝突围出，不得。归家，杀其爱马，焚其弓刀铠仗，大书八字于壁曰：“世受国恩，身不可辱”。时安乐公主已先一年卒，停榇左堂，有亲生子女五人，以黄绳系于灵前柱间，尽取所赐古玩书画，环绕殡宫，纵火焚死，然后自缢。一云自刎，南都赠少师，谥贞愍。</p>
+<p>　　张庆臻</p>
+<p>　　张庆臻，号凤华，河南永城人，晋惠安伯，加少师。闻城陷，尽散财物，与亲戚置酒，一家聚饮，积薪四围，全家燔死。南都赠太师，谥忠武。按公必太后兄也。或曰父。考后父名国纪，初传太后缢，不得其尸，既而有曰先帝将走煤山，请太后自裁。太后不从，城陷为闯得，后竟同去。嗟乎！传言如此，未可尽信。闻后父为粟监，晨起征租，见弃女于路，在霜雪中不死，收归育之。年十四五，姿貌绝世，将欲纳为妾，将入房，见红光满室，张晕仆地。如是者三。意必大贵人。始抚为女，后果正位中宫。崇祯末，民间讹言熹庙尚有遗孤在宫。又云非熹庙所遗。此必流寇伪造，故传布以摇人心者也。读繁霜沔水之章，可知千古一辙矣。母后之事，不敢斤言，因附记之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13707.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13709.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

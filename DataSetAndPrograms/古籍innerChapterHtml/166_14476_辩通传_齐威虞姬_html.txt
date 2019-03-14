@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+列女传·辩通传·齐威虞姬_古诗文网
+</title>
+<meta content="虞姬者，名娟之，齐威王之姬也。威王即位，九年不治，委政大臣，诸侯并侵之。其佞臣周破胡专权擅势，嫉贤妒能，即墨大夫贤，而日毁之，阿大夫不肖，反日誉之。虞姬谓王曰：“破胡，谗谀之臣也，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14476.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>辩通传·齐威虞姬</b></span>
+<a href="javascript:PlayBookv(14476)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14476" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14476" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　虞姬者，名娟之，齐威王之姬也。威王即位，九年不治，委政大臣，诸侯并侵之。其佞臣周破胡专权擅势，嫉贤妒能，即墨大夫贤，而日毁之，阿大夫不肖，反日誉之。虞姬谓王曰：“破胡，谗谀之臣也，不可不退。齐有北郭先生者，贤明有道，可置左右。”破胡闻之，乃恶虞姬曰：“其幼弱在于闾巷之时，尝与北郭先生通。”王疑之，乃闭虞姬于九层之台，而使有司即穷验问，破胡赂执事者，使竟其罪，执事者诬其辞而上之，王视其辞，不合于意，乃召虞姬而自问焉，虞姬对曰：“妾娟之幸得蒙先人之遗体，生于天壤之闲，去蓬庐之下，侍明王之燕，泥附王着，荐床蔽席，供执埽除，掌奉汤沐，至今十余年矣。惓惓之心，冀幸补一言，而为邪臣所挤，湮于百重之下，不意大王乃复见而与之语。妾闻玉石坠泥不为污，柳下覆寒，女不为乱。积之于素雅，故不见疑也。经瓜田不蹑履，过李园不正冠，妾不避，此罪一也。既陷难中，有司受赂，听用邪人，卒见覆冒，不能自明。妾闻寡妇哭城，城为之崩。亡士叹市，市为之罢。诚信发内，感动城市。妾之冤明于白日，虽独号于九层之内，而众人莫为豪厘，此妾之罪二也。既有污名，而加此二罪，义固不可以生。所以生者，为莫白妾之污名也。且自古有之，伯奇放野，申生被患。孝顺至明，反以为残。妾既当死，不复重陈，然愿戒大王，群臣为邪，破胡最甚。王不执政，国殆危矣。于是王大寤，出虞姬，显之于朝市，封即墨大夫以万户，烹阿大夫与周破胡。遂起兵收故侵地，齐国震惧，人知烹阿大夫，不敢饰非，务尽其职，齐国大治。君子谓虞姬好善。诗云：“既见君子，我心则降。”此之谓也。</p>
+<p>　　颂曰：齐国惰政，不治九年，虞姬讥刺，反害其身，姬列其事，上指皇天，威王觉寤，卒距强秦。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14475.aspx">上一章</a>
+<a href="/guwen/book_166.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14477.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

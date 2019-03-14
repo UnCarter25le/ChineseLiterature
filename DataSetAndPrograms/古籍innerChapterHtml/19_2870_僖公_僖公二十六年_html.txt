@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·僖公·僖公二十六年_古诗文网
+</title>
+<meta content="【经】二十有六年春王正月，己未，公会莒子、卫宁速盟于向。齐人侵我西鄙，公追齐师，至酅，不及。夏，齐人伐我北鄙。卫人伐齐。公子遂如楚乞师。秋，楚人灭夔，以夔子归。冬，楚人伐宋，围婚。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2870.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1391" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>僖公·僖公二十六年</b></span>
+<a href="javascript:PlayBookv(2870)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2870" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1391)" id="leftbtn1391" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2870" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】二十有六年春王正月，己未，公会莒子、卫宁速盟于向。齐人侵我西鄙，公追齐师，至酅，不及。夏，齐人伐我北鄙。卫人伐齐。公子遂如楚乞师。秋，楚人灭夔，以夔子归。冬，楚人伐宋，围婚。公以楚师伐齐，取谷。公至自伐齐。</p>
+<p>　　【传】二十六年春，王正月，公会莒兹ぶ宁庄子盟于向，寻洮之盟也。齐师侵我西鄙，讨是二盟也。夏，齐孝公伐我北鄙。卫人伐齐，洮之盟故也。公使展喜犒师，使受命于展禽。 </p>
+<p>　　齐侯未入竟，展喜从之，曰：「寡君闻君亲举玉趾，将辱于敝邑，使下臣犒执事。」齐侯曰：「鲁人恐乎？」对曰：「小人恐矣，君子则否。」齐侯曰：「室如县罄，野无青草，何恃而不恐？」对曰：「恃先王之命。昔周公、大公股肱周室，夹辅成王。成王劳之而赐之盟，曰：『世世子孙，无相害也。』载在盟府，大师职之。桓公是以纠合诸侯而谋其不协，弥缝其阙而匡救其灾，昭旧职也。及君即位，诸侯之望曰：『其率桓之功。』我敝邑用不敢保聚，曰：『岂其嗣世九年而弃命废职，其若先君何？』君必不然。恃此以不恐。」齐侯乃还。 </p>
+<p>　　东门襄仲、臧文仲如楚乞师，臧孙见子玉而道之伐齐、宋，以其不臣也。 </p>
+<p>　　夔子不祀祝融与鬻熊，楚人让之，对曰：「我先王熊挚有疾，鬼神弗赦而自窜于夔。吾是以失楚，又何祀焉？」秋，楚成得臣、斗宜申帅师灭夔，以夔子归。 </p>
+<p>　　宋以其善于晋侯也，叛楚即晋。冬，楚令尹子玉、司马子西帅师伐宋，围缗。 </p>
+<p>　　公以楚师伐齐，取谷。凡师能左右之曰以。置桓公子雍于谷，易牙奉之以为鲁援。楚申公叔侯戍之。桓公之子七人，为七大夫于楚。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2869.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2871.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1391" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

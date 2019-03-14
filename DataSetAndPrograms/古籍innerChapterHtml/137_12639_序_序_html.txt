@@ -1,0 +1,92 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·序·序_古诗文网
+</title>
+<meta content="夫清浊剖判，上下攸分，三才肇基，五行 落，万物淳朴，无得而称。燧人氏出，观斗极以定方名，始有火化。伏羲氏作，因之而画八卦、立庖厨，滋味既兴， 瘵萌起。大圣神农氏悯黎元之多疾，遂尝百" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12639.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>序·序</b></span>
+<a href="javascript:PlayBookv(12639)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12639" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12639" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　夫清浊剖判，上下攸分，三才肇基，五行 落，万物淳朴，无得而称。燧人氏出，观斗极以定方名，始有火化。伏羲氏作，因之而画八卦、立庖厨，滋味既兴， 瘵萌起。大圣神农氏悯黎元之多疾，遂尝百药以救疗之，犹未尽善。黄帝受命，创制九针，与方士岐伯、雷公之伦，备论经脉，旁通问难，详究义理，以为经论，故后世可得根据而畅焉。春秋之际，良医和缓，六国之时，则有扁鹊，汉有仓公，仲景，魏有华佗，并皆探赜索隐，穷幽洞微，用药不过二三，灸炷不逾七八，而疾无不愈者。晋宋以来，虽复名医间出，然治十不能愈五六，良由今人嗜欲太甚，立心不常，淫放纵逸，有阙摄养所致耳。余缅寻圣人设教，欲使家家自学，人人自晓。君亲有疾不能疗之者，非忠孝也。末俗小人，多行诡诈，倚傍圣教而为欺 ，遂令朝野士庶咸耻医术之名。多教子弟诵短文，枸小策，以求出身之道。医治之术，阙而弗论，吁可怪也。嗟乎！深乖圣贤之本意。吾幼遭风冷，屡造医门，汤药之资，罄尽家产。所以青衿之岁，高尚兹典；白首之年，未尝释卷。至于切脉诊候，采药合和，服饵节度，将息避慎，一事长于己者，不远千里伏膺取决。至于弱冠，颇觉有悟，是以亲邻国中外有疾厄者，多所济益。在身之患，断绝医门，故知方药本草不可不学。吾见诸方部帙浩博，忽遇仓猝，求检至难，比得方讫，疾已不救矣。呜呼！痛夭枉之幽厄，惜堕学之昏愚，乃博采群经，删裁繁重，务在简易，以为《备急千金要方》一部，凡三十卷。虽不能究尽病源，但使留意于斯者，亦思过半矣。以为人命至重，有贵千金，一方济之，德逾于此，故以为名也。未可传于士族，庶以贻厥私门。张仲景曰∶当今居世之士，曾不留神医药，精究方术，上以疗君亲之疾，下以救贫贱之厄，中以保身长全，以养其生。而但竞逐荣势，企踵权豪，孜孜汲汲，唯名利是务，崇饰其末，而忽弃其本，欲华其表而悴其内，皮之不存，毛将安附？进不能爱人知物，退不能爱躬知己，卒然遇邪风之气，婴非常之疾，患及祸至而后震栗。身居厄地，蒙蒙昧昧，戆若游魂，降志屈节，钦望巫祝，告究归天，束手受败。 百年之寿命，将至贵之重器，委付庸医，恣其所措，咄嗟喑呜，厥身已毙，神明消灭，变为异物，幽潜重泉，徒为涕泣。夫举世昏迷，莫能觉悟，自弃若是，夫何荣势之云哉。此之谓也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12640.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

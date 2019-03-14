@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷十二·褚遂良_古诗文网
+</title>
+<meta content="长山赵某，税屋大姓。病症结，又孤贫，奄然就毙。一日力疾就凉，移卧檐下。及醒，见绝代丽人坐其旁，因诘问之，女曰：“我特来为汝作妇。”某惊曰：“无论贫人不敢有妄想；且奄奄一息，有妇何为" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11868.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十二·褚遂良</b></span>
+<a href="javascript:PlayBookv(11868)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11868" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11868" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　长山赵某，税屋大姓。病症结，又孤贫，奄然就毙。一日力疾就凉，移卧檐下。及醒，见绝代丽人坐其旁，因诘问之，女曰：“我特来为汝作妇。”某惊曰：“无论贫人不敢有妄想；且奄奄一息，有妇何为！”女曰：“我能治之。”某曰：“我病非仓猝可除，纵有良方，其如无资买药何！”女曰：“我医疾不用药也。”遂以手按赵腹，力摩之。觉其掌热如火。移时腹中痞块，隐隐作解拆声。又少时欲登厕。急起走数武，解衣大下，胶液流离，结块尽出，觉通体爽快。</p>
+<p>　　返卧故处，谓女曰：“娘子何人？祈告姓氏，以便尸祝。”答云：“我狐仙也。君乃唐朝褚遂良，曾有恩于妾家，每铭心欲一图报。日相寻觅，今始得见，夙愿可酬矣。”某自惭形秽，又虑茅屋灶煤，玷染华裳。女但请行。赵乃导入家，土莝无席，灶冷无烟，曰：“无论光景如此，不堪相辱；即卿能甘之，请视瓮底空空，又何以养妻子？”女但言：“无虑。”言次一回头，见榻上毡席衾褥已设；方将致诘，又转瞬，见满室皆银光纸裱贴如镜，诸物已悉变易，几案精洁，肴酒并陈矣。遂相欢饮。日暮与同狎寝，如夫妇。</p>
+<p>　　主人闻其异，清一见之，女即出见无难色。由此四方传播，造门者甚夥。女并不拒绝。或设筵招之，女必与夫俱。一日，座中一孝廉，阴萌淫念。女已知之，忽加诮让。即以手推其首；首过棂外，而身犹在室，出入转侧，皆所不能。因共哀免，方曳出之。积年余，造请者日益烦，女颇厌之。被拒者辄骂赵。</p>
+<p>　　值端阳，饮酒高会，忽一白兔跃入。女起曰：“春药翁来见召矣！”谓兔曰：“请先行。”兔趋出，径去。女命赵取梯。赵于舍后负长梯来，高数丈。庭有大树一章，便倚其上；梯更高于树杪。女先登，赵亦随之。女回首曰：“亲宾有愿从者，当即移步。”众相视不敢登。惟主人一僮，踊跃从其后，上上益高，梯尽云接，不可见矣。共视其梯，则多年破扉，去其白板耳。群入其室，灰壁败灶依然，他无一物。犹意僮返可问，竟终杳已。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11867.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11869.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

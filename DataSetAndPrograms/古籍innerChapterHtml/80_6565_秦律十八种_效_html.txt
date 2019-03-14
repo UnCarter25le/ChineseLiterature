@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+睡虎地秦墓竹简·秦律十八种·效_古诗文网
+</title>
+<meta content="實官佐、史柀免、徙，官嗇夫必與去者效代者。節（即）官嗇夫免而效，不備，代者與居吏坐之。故吏弗效，新吏居之未盈歲，去者與居吏坐之，新吏弗坐；其盈歲，雖弗效，新吏與居吏坐之，去者弗坐，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_6565.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left5605" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>秦律十八种·效</b></span>
+<a href="javascript:PlayBookv(6565)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv6565" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(5605)" id="leftbtn5605" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay6565" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　實官佐、史柀免、徙，官嗇夫必與去者效代者。節（即）官嗇夫免而效，不備，代者與居吏坐之。故吏弗效，新吏居之未盈歲，去者與居吏坐之，新吏弗坐；其盈歲，雖弗效，新吏與居吏坐之，去者弗坐，它如律。</p>
+<p>　　倉（漏）（朽）禾粟，及積禾粟而敗之，其不可食者不盈百石以下，誶官嗇夫；百石以上到千石，貲官嗇夫一甲；過千石以上，貲官嗇夫二甲；令官嗇夫、冗吏共賞（償）敗禾粟。禾粟雖敗而尚可食（也），程之，以其秏（耗）石數論負之。</p>
+<p>　　度禾、芻稾而不備十分一以下，令復其故數；過十分以上，先索以稟人，而以律論其不備。</p>
+<p>　　入禾，萬石一積而比黎之為戶，籍之曰：「其廥禾若干石，倉嗇夫某、佐某、史某、稟人某。」是縣入之，縣嗇夫若丞及倉、鄉相雜以封印之，而遺倉嗇夫及離邑倉佐主稟者各一戶，以氣（餼）人。其出禾，有（又）書其出者，如入禾然。</p>
+<p>　　嗇夫免而效，效者見其封及隄（題），以效之，勿度縣，唯倉所自封印是度縣。終歲而為出凡曰：「某廥出禾若干石，其餘禾若干石。」倉嗇夫及佐、史，其有免去者，新倉嗇夫，新佐、史主廥者，必以廥籍度之，其有所疑，謁縣嗇夫，縣嗇夫令人復度及與雜出之。禾贏，入之，而以律論不備者。</p>
+<p>　　禾、芻積廥，有贏、不備而匿弗謁，及者（諸）移贏以賞（償）不備，它物當負賞（償）而偽出之以彼（）賞（償），皆與同法。大嗇夫、丞智（知）而弗罪，以平罪人律論之，有（又）與主廥者共賞（償）不備。至計而上廥籍內史。入禾、發（漏）倉，必令長吏相雜以見之。芻如禾。</p>
+<p>　　效公器贏、不備，以齎律論及賞（償），毋齎者乃直（值）之。</p>
+<p>　　公器不久刻者，官嗇夫貲一盾。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_6564.aspx">上一章</a>
+<a href="/guwen/book_80.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_6566.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right5605" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

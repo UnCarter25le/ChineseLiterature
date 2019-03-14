@@ -1,0 +1,114 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸大成·卷三·杂病十一穴歌_古诗文网
+</title>
+<meta content="攒竹丝空主头疼，偏正皆宜向此针。更去大都除泻动，风池针刺三分深。曲池合谷先针泻，永与除疴病不侵。依此下针无不应，管教随手便安宁。头风头痛与牙疼，合谷三间两穴寻。更向大都针眼痛，太渊" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18814.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·杂病十一穴歌</b></span>
+<a href="javascript:PlayBookv(18814)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18814" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18814" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%bb%a7%e6%b4%b2">杨继洲</a></p>
+<div class="contson">
+<p>　　攒竹丝空主头疼，偏正皆宜向此针。更去大都除泻动，风池针刺三分深。</p>
+<p>　　曲池合谷先针泻，永与除疴病不侵。依此下针无不应，管教随手便安宁。</p>
+<p>　　头风头痛与牙疼，合谷三间两穴寻。更向大都针眼痛，太渊穴内用针行。</p>
+<p>　　牙疼三分针吕细，齿痛依前指上明。更推大都左之右，交互相迎仔细穷。</p>
+<p>　　听会兼之与听宫，七分针泻耳中聋。耳门又泻三分许，更加七壮灸听宫。</p>
+<p>　　大肠经内将针泻，曲池合谷七分中。医者若能明此理，针下亡时便见功。</p>
+<p>　　肩背并和肩臑痛，曲池合谷七分深。未愈尺泽加一寸，更于三间次第行。</p>
+<p>　　各入七分于穴内，少风二府刺心经。穴内浅深依法用，当时蠲疾两之轻。</p>
+<p>　　咽喉以下至于脐，胃脘之中百病危。心气痛时胸结硬，伤寒呕哕闷涎随。</p>
+<p>　　列缺下针三分许，三分针泻到风池。二指三间并三里，中冲还刺五分依。</p>
+<p>　　汗出难来到腕骨，五分针泻要君知。鱼际经渠并通里，一分针泻汗淋漓。</p>
+<p>　　二指三间及三里，大指各刺五分宜。汗至如若通遍体，有人明此是良医。</p>
+<p>　　四肢无力中邪风，眼涩难开百病攻。精神昏倦多不语，风池合谷用针通。</p>
+<p>　　两手三间随后泻，三里兼之与太冲。各入五分于穴内，迎随得法有奇功。</p>
+<p>　　风池手足指诸间，右痪偏风左曰瘫。各刺五分随后泻，更灸七壮便身安。</p>
+<p>　　三里阴交行气泻，一寸三分量病看。每穴又加三七壮，自然瘫痪实时安。</p>
+<p>　　肘痛将针刺曲池，经渠合谷共相宜。五分针刺于二穴，疟病缠身便得离。</p>
+<p>　　未愈更加三间刺，五分深刺莫忧疑。又兼气痛憎寒热，间使行针莫用迟。</p>
+<p>　　腿胯腰疼痞气攻，髋骨穴内七分穷。更针风市兼三里，一寸三分补泻同。</p>
+<p>　　又去阴交泻一寸，行间仍刺五分中。刚柔进退随呼吸，去疾除病拈指功。</p>
+<p>　　肘膝疼时刺曲池，进针一寸是相宜。左病针右右针左，依此三分泻气奇。</p>
+<p>　　膝痛二寸针犊鼻，三里阴交要七次。但能仔细寻其理，劫病之功在片时。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18813.aspx">上一章</a>
+<a href="/guwen/book_230.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18815.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

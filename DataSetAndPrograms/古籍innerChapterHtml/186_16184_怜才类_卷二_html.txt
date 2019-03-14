@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·怜才类·卷二_古诗文网
+</title>
+<meta content="◎姚文僖轶事姚文僖公官内阁中书时，常至阁取历科状元殿试卷观之，日必书卷一本。嘉庆己未科大魁天下。论者谓“殿试卷字，为本朝状元之冠。”公秉性刚直，尝以事忤某协揆意，殿试时某适阅卷，匿" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16184.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>怜才类·卷二</b></span>
+<a href="javascript:PlayBookv(16184)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16184" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16184" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎姚文僖轶事</p>
+<p>　　姚文僖公官内阁中书时，常至阁取历科状元殿试卷观之，日必书卷一本。嘉庆己未科大魁天下。论者谓“殿试卷字，为本朝状元之冠。”公秉性刚直，尝以事忤某协揆意，殿试时某适阅卷，匿其卷他处。仁和孙补山相国士毅觅得之，必欲置之前列，谓“此卷写作俱佳，摈之何以服人？”</p>
+<p>　　某不得已，改置第九本，进呈御览，特拔第一。此固由于天定，而相国怜才之意亦可感也。公时艺绝高，初为广东主试（嘉庆庚申），所取文皆古淡，通榜无人登第。继为福建主试（辛酉），乃降格取之，遂有登第者。后为山东主试（丁卯），皆取才气发皇之作，登第者独多。自谓取士后盛于前，取文则前胜于后，常以为憾。</p>
+<p>　　◎陈句山典试</p>
+<p>　　陈句山太仆，文章德业为世儒宗，典试分校所得士，皆天下英俊。其典湖北试也，书榜毕，监临范中丞灿谓公曰：“楚有谚云：‘若要好，看黄孝。’”</p>
+<p>　　今黄冈、孝感，中式人多，众所膺服。后所取士张梦杨等五十三人，登甲榜者十之六七，是科落卷，公一一别其纯疵，明白批示。发卷后，下第士子多来求见，公指以要领，各得其意以去。有刘龙光者，闻公讲论，感激欣喜，至于泣下，次科联捷成进士，历官御史，终其身执弟子礼。公尝赋《书榜》诗曰：“千枝烟桦欲烧空，淡墨先题后押红。要好由来看黄孝，拔尤适得五人同。”（前五名皆黄冈、孝感县人）</p>
+<p>　　◎阿文成用人</p>
+<p>　　阿文成公屡膺挞伐，平定绝域，其拔擢人才，或于散僚卒伍，以一二语赏识，即登荐牍，故人皆乐为之用。兴将军奎，以将校从事，公奇其貌，曰：“此将材也。”因与之副将札，命其攻克某岭，即日克捷，其后卒为名将。如王述庵司寇昶、韩桂 舲司寇崶、百菊溪制府龄、朱白泉观察赓额，皆以微员赏识，其后皆为卿相。闻其于军务倥偬间，惟于幕中独坐，饮酒吸烟，秉烛竟夜，或拍案大呼，愀然长啸，持酒旋舞，则次日必有奇策。其驱使将士，如发蒙振落。其成功者或奖以数语、或赏以糕果，而其人感激终身，甘与效死。</p>
+<p>　　其薨数日前，自知死期，于其诞辰，置酒作乐终日，训其子孙，励以纲常名节，曰：“余从此长诀，不复训教尔等矣！”病笃时，将其兵书诗文稿，尽命焚之，曰：“无以此误后人也。”卒后，往吊者见其厅第湫隘，居然儒素，较之当时权贵万厦巍然者，薰莸自别。比之李文靖厅前仅容旋马者未为过也。</p>
+<p>　　◎吴六奇</p>
+<p>　　吴六奇，浙人，少负大志，家奇贫，落拓乞食，冬日袒身行市中，英爽如故。查孝廉伊璜奇其人，尝加周恤，公深感之。</p>
+<p>　　后仕粤西，桂王时尝有功，至总兵官。投诚清朝，随平南王可喜，屡擒海寇有功，荐至提督。孝廉尝以与修伪史故，株连狱中，几不能免死，公特疏为之解救，卒白其冤，因聘查至粤中，厚为赠赆以归。其署中有峻石，高数丈，查爱之，摩挲抚惜，因醉题绉石，次日遂失石。及抵家，石挺立其庭中，盖吴潜使人运至矣。今越中传为佳话云。</p>
+<p>　　◎张文端代作诗</p>
+<p>　　王文简公士祯，诗名重于当时，浮沉粉署，无所施展。张文端公英，时值南书房，代为延誉。仁皇帝亦素闻其名，因召渔洋入大内，出题面试之。渔洋诗思本迟滞，加以部曹小臣乍睹天颜，战栗操觚，竟不能成一字。文端公代作诗草，撮为墨丸，私置案侧，渔洋得以完卷。上笑阅之曰：“人言王某诗，为丰神妙悟，何以整洁殊似卿笔？”文端公谢曰：“王某诗人之笔，定当胜臣多许。”上因命文简改官词林，因之得置高位。渔洋感激文端终身，曰：“是日微张某，余几作曳白人矣。”</p>
+<p>　　◎姚亮甫识赵学彭</p>
+<p>　　东河县丞赵君学彭，武进恭毅公五世孙也。兰阳之役，姚亮甫中丞夜出视工员勤惰，见君悴且寒，慰之曰：“才不可恃，此为腥膻地，有才者尤当慎。”君对曰：“学彭先恭毅裔，职虽卑，家法不敢逾。”中丞解衣衣之曰：“李制军世杰，即由丞ヘ起家，君勉之矣。”上官如姚公，下吏如君，皆足为今之从政者法。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16183.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16185.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

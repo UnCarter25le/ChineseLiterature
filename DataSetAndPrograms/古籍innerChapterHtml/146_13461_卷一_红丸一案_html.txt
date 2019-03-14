@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷一·红丸一案_古诗文网
+</title>
+<meta content="八月二十九日，李可灼进药，明日光宗崩。九月初三日丁丑御史王安舜，参李可灼进红丸罪状。言臣接邸报，奉令旨赏可灼银五十两。夫可灼敢以无方无制之药，驾言金丹，且唱言精知子平五星，夭寿莫逃" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13461.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·红丸一案</b></span>
+<a href="javascript:PlayBookv(13461)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13461" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13461" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　八月二十九日，李可灼进药，明日光宗崩。九月初三日丁丑御史王安舜，参李可灼进红丸罪状。言臣接邸报，奉令旨赏可灼银五十两。夫可灼敢以无方无制之药，驾言金丹，且唱言精知子平五星，夭寿莫逃，此不过借此以塞外廷之议耳。奉令旨李可灼于先帝病革之时，具本进药不效，殊失敬慎，但亦臣爱君之意。姑从轻罚俸一年。</p>
+<p>　　杨涟论内官崔文升用药之误，言帝疾法宜清补，文升反投以相反相伐之剂云云。此八月二十四日疏。九月三日，御史郑宗周请下文升法司严鞫，言往岁张差之变，祸几不测，张差之后因有文升，致先帝一旦崩逝，当寸斩之。结事惠世扬奏崔文升轻用剥伐之药，伤损先帝。科臣台臣论之，辅臣方从哲，又何心而代拟出脱。南京太常寺少卿曹珍疏，请究医药奸党阴谋，谓当与先年梃击青宫，同一奸谋云。南台御史傅宗皋论崔文升用药之误。御史马逢皋、南御史李希孔交章劾文升用药之故，宜正典刑。刑部主事王之采奏请复先帝之仇，论李选侍、郑贵妃、崔文升、李可灼共一线索。礼部尚书孙慎行参方从哲、李可灼进药之罪。吏部尚书张问达会同户部尚书汪应蛟等公奏曰：李可灼非医官也，一旦以红丸轻进，而龙驭上升，罪胜诛乎？崔文升身历提督，当可灼进红丸之时，何不详察，罪又在可灼上矣。上谕李可灼拿解法司究问正罪。崔文升发遣南京三年。戍可灼。御史郭如楚，论李可灼之罪。</p>
+<p>　　光熹时有三案，三案者，挺击、红丸与移宫也。移宫一案，已具于杨涟传后。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13460.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13462.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

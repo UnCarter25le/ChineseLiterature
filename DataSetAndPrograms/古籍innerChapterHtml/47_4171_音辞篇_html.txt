@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+颜氏家训·音辞篇_古诗文网
+</title>
+<meta content="夫九州之人，言语不同，生民已来，固常然矣。自春秋标齐言之传，离骚目楚词之经，此盖其较明之初也。后有扬雄着方言，其言大备。然皆考名物之同异，不显声读之是非也。逮郑玄注六经，高诱解吕览" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4171.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2771" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>音辞篇</b></span>
+<a href="javascript:PlayBookv(4171)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4171" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2771)" id="leftbtn2771" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4171" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%a2%9c%e4%b9%8b%e6%8e%a8">颜之推</a></p>
+<div class="contson">
+<p>　　夫九州之人，言语不同，生民已来，固常然矣。自春秋标齐言之传，离骚目楚词之经，此盖其较明之初也。后有扬雄着方言，其言大备。然皆考名物之同异，不显声读之是非也。逮郑玄注六经，高诱解吕览、淮南，许慎造说文，刘熹制释名，始有譬况假借以证音字耳。而古语与今殊别，其间轻重清浊，犹未可晓；加以内言外言、急言徐言、读若之类，益使人疑。孙叔言创尔雅音义，是汉末人独知反语。至于魏世，此事大行。高贵乡公不解反语，以为怪异。自兹厥后，音韵锋出，各有土风，递相非笑，指马之谕，未知孰是。共以帝王都邑，参校方俗，考核古今，为之折衷。搉而量之，独金陵与洛下耳。南方水土和柔，其音清举而切诣，失在浮浅，其辞多鄙俗。北方山川深厚，其音沈浊而(金化)钝，得其质直，其辞多古语。然冠冕君子，南方为优；闾里小人，北方为愈。易服而与之谈，南方士庶，数言可辩；隔垣而听其语，北方朝野，终日难分。而南染吴、越，北杂夷虏，皆有深弊，不可具论。其谬失轻微者，则南人以钱为涎，以石为射，以贱为羡，以是为舐；北人以庶为戍，以如为儒，以紫为姊，以洽为狎。如此之例，两失甚多。至邺已来，唯见崔子约、崔瞻叔侄，李祖仁、李蔚兄弟，颇事言词，少为切正。李季节着音韵决疑，时有错失；阳休之造切韵，殊为疏野。吾家儿女，虽在孩稚，便渐督正之；一言讹替，以为己罪矣。云为品物，未考书记者，不敢辄名，汝曹所知也。</p>
+<p>　　古今言语，时俗不同；著述之人，楚、夏各异。苍颉训诂，反稗为逋卖，反娃为于乖；战国策音刎为免，穆天子传音谏为间；说文音戛为棘，读皿为猛；字林音看为口甘反，音伸为辛；韵集以成、仍、宏、登合成两韵，为、奇、益、石分作四章；李登声类以系音羿，刘昌宗周官音读乘若承；此例甚广，必须考校。前世反语，又多不切，徐仙民毛诗音反骤为在遘，左传音切椽为徒缘，不可依信，亦为众矣。今之学士，语亦不正；古独何人，必应随其伪僻乎？通俗文曰：“入室求曰搜。”反为兄侯。然则兄当音所荣反。今北俗通行此音，亦古语之不可用者。玙璠，鲁人宝玉，当音余烦，江南皆音藩屏之藩。岐山当音为奇，江南皆呼为神只之只。江陵陷没，此音被于关中，不知二者何所承案。以吾浅学，未之前闻也。</p>
+<p>　　北人之音，多以举、莒为矩；唯李季节云：“齐桓公与管仲于台上谋伐莒，东郭牙望见桓公口开而不闭，故知所言者莒也。然则莒、矩必不同呼。”此为知音矣。</p>
+<p>　　夫物体自有精麤，精麤谓之好恶；人心有所去取，去取谓之好恶。此音见于葛洪、徐邈。而河北学士读尚书云好生恶杀。是为一论物体，一就人情，殊不通矣。</p>
+<p>　　甫者，男子之美称，古书多假借为父子；北人遂无一人呼为甫者，亦所未喻。唯管仲、范增之号，须依字读耳。</p>
+<p>　　案：诸字书，焉者鸟名，或云语词，皆音于愆反。自葛洪要用字苑分焉字音训：若训何训安，当音于愆反，“于焉逍遥”，“于焉嘉客”，“焉用佞”，“焉得仁”之类是也；若送句及助词，当音矣愆反，“故称龙焉”，“故称血焉”，“有民人焉”，“有社稷焉”，“托始焉尔”，“晋、郑焉依”之类是也。江南至今行此分别，昭然易晓；而河北混同一音，虽依古读，不可行于今也。</p>
+<p>　　邪者，未定之词。左传曰：“不知天之弃鲁邪？抑鲁君有罪于鬼神邪？”庄子云：“天邪地邪？”汉书云：“是邪非邪？”之类是也。而北人即呼为也，亦为误矣。难者曰：“系辞云：‘乾坤，易之门户邪？’此又为未定辞乎？”答曰：“何为不尔！上先标问，下方列德以折之耳。”</p>
+<p>　　江南学士读左传，口相传述，自为凡例，军自败曰败，打破人军曰败。诸记传未见补败反，徐仙民读左传，唯一处有此音，又不言自败、败人之别，此为穿凿耳。</p>
+<p>　　古人云：“膏粱难整。”以其为骄奢自足，不能克励也。吾见王侯外戚，语多不正，亦由内染贱保傅，外无良师友故耳。梁世有一侯，尝对元帝饮谑，自陈“痴钝”，乃成“飔段”，元帝答之云：“飔异凉风，段非干木。”谓“郢州”为“永州”，元帝启报简文，简文云：‘庚辰吴入，遂成司隶。”如此之类，举口皆然。元帝手教诸子侍读，以此为诫。</p>
+<p>　　河北切攻字为古琮，与工、公、功三字不同，殊为僻也。比世有人名暹，自称为纤；名琨，自称为衮；名洸，自称为汪；名(素勺)，自称为獡。非唯音韵舛错，亦使其儿孙避讳纷纭矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4170.aspx">上一章</a>
+<a href="/guwen/book_47.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4172.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2771" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

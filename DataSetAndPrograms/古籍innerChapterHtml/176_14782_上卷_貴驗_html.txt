@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+中论·上卷·貴驗_古诗文网
+</title>
+<meta content='事莫貴乎有驗，言莫棄乎無徴。言之未有益也，不言未有損也。水之寒也，火之熱也，金石之堅剛也，此（《治要》作"彼"）數物未嘗有言，而人莫不知其然者，信著乎其體也。使' name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14782.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>上卷·貴驗</b></span>
+<a href="javascript:PlayBookv(14782)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14782" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14782" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%be%90%e5%b9%b2">徐干</a></p>
+<div class="contson">
+<p>　　事莫貴乎有驗，言莫棄乎無徴。言之未有益也，不言未有損也。水之寒也，火之熱也，金石之堅剛也，此（《治要》作"彼"）數物未嘗有言，而人莫不知其然者，信著乎其體也。使吾所行之信，若彼數物，而誰其疑我哉！今不信吾所行，而怨人之不信己（原作"也"， 據《治要》改）猶敎人執鬼縳魅，而怨人之不得也，惑亦甚矣。孔子曰："欲人之信己也，則微言而篤行之。篤行之則用日久，用日久則事著明，事著明則有目者莫不見也，有耳者莫不聞也，其可誣哉（《治要》作"乎"）！"故根深而枝葉茂，行久而名譽遠。《易》曰："恒，亨，無咎，利貞。"言久於其道也。伊尹放太甲，展季覆寒女，商魯之民不稱淫篡焉，何則？積之於素也。故染不積則人不觀其色，行不積則人不信其事。子思曰："同言而信，信在言前也；同令而化，化在令外也。"（徐湘琳曰："錢校云，《後漢書·宣秉、王良傳》論曰：'同言而信，則信在言前；同令而行，則誠在令外．'章懷注：'此皆《子思子·累德篇》之言。'《意林》及《御覽》三百九十四又四百三十引《子思子》與《中論》並無二'也'字，今《子思子》已逸，未知孰是。案此四語亦見《文子·精誠篇》，而《淮南子·謬稱篇》：'同言而民信，信在言前也；同令而民化，誠在令外也．'言詞稍異。"）</p>
+<p>　　謗言也皆縁类而作（徐湘琳曰："俞校云，'皆'乃'者'字之誤。"），倚事而興，加其似者也。誰謂華岱之不高，江漢之不長與？君子修德，亦高而長之，將何患矣。故求己而不求諸人，非自強也，見其所存之富耳。子思曰："事自名也，聲自呼也，貌自眩（徐湘琳曰："俞校云，'眩'當作'炫'。"按《漢書·敍傳上》："既繫攣於世教矣，何用大道為自眩曜？" 顏注：「言用老子﹑莊周之道何為？但欲以名自炫曜耳．眩音州縣之縣．」是二字相通也。）也，物自處也，人自官也，無非自己者。"故怨人之謂壅，怨己之謂通。通也知所悔，壅也遂所誤。遂所誤也親戚離之，知所悔也疏遠附之；疏遠附也常安樂，親戚離也常危懼；自生民以來，未有不然者也。殷紂爲天子而稱獨夫，仲尼爲匹夫而稱素王，盡此類也（徐湘琳曰："錢校云，'盡'疑當作'蓋'。"）。故善釣者不易淵而殉魚（《御覽》卷八百三十四作"善釣不易坻而得魚"。" 坻"，徐本引钱校误作"抵"。），君子不降席而追道。治乎八尺之中，而德化光矣。古之人謌曰："相彼玄鳥，止于陵阪。仁道在近，求之無遠。"</p>
+<p>　　人情也莫不惡謗，而卒不免乎謗，其故何也？非愛致（《治要》作"智"）力而不已之也，已之之術反也。謗之爲名也，逃之而愈至，距（《治要》作"拒"）之而愈來，訟之而愈多。明乎此，則君子不足爲也；闇乎此，則小人不足得也。帝舜屢省，禹拜昌言，明乎此者也；厲王蒙（《治要》作"加"）戮，吳起刺之，闇乎此者也。夫人也（此三字原脱，據《治要》補），皆書名前策，著形列圖，或爲世法，或爲世戒，可不愼歟（"歟"原作"之"， 據《治要》改）！曾子曰："或言予之善，予惟恐其聞；或言予之不善，惟恐過而見予之鄙色焉。"故君子服過也，非徒飾其辭而已。誠發乎中心，形乎容貌，其愛之也深，其更之也速，如追兎惟恐不逮，故有進業，無退功。《詩》曰："相彼脊令，載飛載鳴。我日斯邁，而月斯征。"遷善不懈之謂也。夫聞過而不改，謂之喪心；思過而不改，謂之失體。失體喪心之人，禍亂之所及也。君子舍旃。</p>
+<p>　　《周書》有言："人毋鑒於水，鑒於人也。"鑒也者，可以察形；言也者，可以知德。小人恥其面之不及子都也，君子恥其行之不如堯、舜（《意林》作"舜禹"，《御览》卷三百六十五作"堯舜"。 徐湘琳曰："当作'舜禹'。上文'帝舜屢省，禹拜昌言'，舜禹連文，此正承上文而言。《御覽》八十一引此文正作'舜禹'，今據改。"按正文實未改。）也。故小人貴（"貴"原作"尚"，據《意林》改）明鑒，君子尚至言。至言也非賢友則無取之，故君子必求賢友也。《詩》曰："伐木丁丁，鳥鳴嚶嚶。岀自幽谷，遷于喬木。"言朋友之義，務在切直以升於善道者也。故君子不友不如己者，非羞彼而大我也。不如己者須己而植（《治要》作"愼"，疑誤）者也。然則扶人不暇，將誰相我哉！吾之僨也，亦無日矣。故僨庳（原缺一字，《漢魏叢書》本、《四庫全書》本亦然，據《治要》補。）則水縱（原作"縱多"，據《治要》改），友邪則己僻也（《治要》無"也"字），是以君子愼取友也（《治要》作"愼所友"，無"也"字）。孔子曰："居而得賢友，福之次也。"夫賢者，言足聽，貌足象，行足法，加乎善奨人之美，而好攝人之過，其不隐也如影，其不諱也如響，故我之憚之，若嚴君在堂，而神明處室矣！雖欲爲不善，其敢乎？故求益者之居逰也，必近所畏而遠所易。《詩》云："無棄爾輔，員于爾輻。屢顧爾僕，不輸爾載。"親賢求助之謂也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14781.aspx">上一章</a>
+<a href="/guwen/book_176.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14783.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

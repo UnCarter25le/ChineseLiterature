@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·丁_古诗文网
+</title>
+<meta content="历史来源「丁」源出：一、出自姜姓。以谥号为氏。据《通志·氏族略》云：公元前十一世纪，西周分封诸侯，姜太公望受封于齐。其子伎，死后谥号为“丁公”。其后遂以“丁”为氏。二、 " name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2483.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>丁</b></span>
+<a href="javascript:PlayBookv(2483)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2483" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2483" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong></p>
+<p>　　「丁」源出：</p>
+<p>　　一、出自姜姓。以谥号为氏。据《通志·氏族略》云：公元前十一世纪，西周分封诸侯，姜太公望受封于齐。其子伎，死后谥号为“丁公”。其后遂以“丁”为氏。</p>
+<p>　　二、 据《三国志·孙匡传注》云：三国吴时，孙权因其孙匡烧损茅芒，以乏军用。别其族为丁氏。</p>
+<p>　　三、出自西域回族姓。伊斯兰教穆斯林本无姓氏。元朝末年，有人名丁鹤年，其曾祖名阿考丁，祖父名苦思丁，父名职马禄丁，从兄名吉雅谟丁。其后汉化，遂以"丁"为氏。</p>
+<p><strong>家族名人</strong></p>
+<p>　　丁密</p>
+<p>　　东汉岑溪人，字靖公，以孝顺而知名，父母亡故，在坟边筑屋守三年，相传有双凫（野鸭）飞抵屋旁小池，见人而驯伏，时人以为是其孝行所感应。</p>
+<p>　　丁令威</p>
+<p>　　西汉辽东人，传说曾学道于灵虚山，后化作仙鹤归辽东，停在城门华表柱上，有少年欲射之，仙鹤徘徊于空中，曰："有鸟有鸟丁令威，去家千岁今来归，城郭如故人民非，何不学仙冢累累？"遂冲天直上而去。</p>
+<p>　　丁复</p>
+<p>　　汉初人，随高祖刘邦举兵于薛，后助高祖平定三秦，破项羽将龙且于彭城，官大司马，封阳都侯。</p>
+<p>　　丁允元</p>
+<p>　　南宋常州人，字叔中，淳熙（公元1174-1189年）间任少卿，后因忠谏贬官潮州太守，拨田租兴学养士，筑桥利民，百姓"名宦祠"祀之。</p>
+<p>　　丁兰</p>
+<p>　　东汉河内郡人，少年母逝，用木头雕母像，每日服侍如活人。邻居张叔，酒醉骂木像，用手杖击像头。丁兰怒而打张叔，被捕。传说告别木像时，像为他落泪。</p>
+<p><strong>地望分布</strong></p>
+<p>　　河南省兰考县一带、山东省定陶县一带</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2482.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2484.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

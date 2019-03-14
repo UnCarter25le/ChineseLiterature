@@ -1,0 +1,136 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平御览·服用部·卷十六_古诗文网
+</title>
+<meta content="○梳篦《说文》曰：栉，梳枇总名也。《释名》曰：梳，言其齿疏也；枇，言其细相枇也。《礼记·曲礼上》曰：男女不同巾栉。又《玉藻》曰：栉用椑栉发晞用象栉。《左传·僖公" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_15565.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>服用部·卷十六</b></span>
+<a href="javascript:PlayBookv(15565)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv15565" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay15565" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89">李昉</a></p>
+<div class="contson">
+<p>　　○梳篦</p>
+<p>　　《说文》曰：栉，梳枇总名也。</p>
+<p>　　《释名》曰：梳，言其齿疏也；枇，言其细相枇也。</p>
+<p>　　《礼记·曲礼上》曰：男女不同巾栉。</p>
+<p>　　又《玉藻》曰：栉用椑栉发晞用象栉。</p>
+<p>　　《左传·僖公中》曰：晋太子圉为质於秦，将逃归，谓嬴氏曰："与子归乎。"对曰："寡君之使婢子侍，执巾栉以固子也，从子而归，弃君命也。不敢从，亦不讣涸。"</p>
+<p>　　《汉书》曰：孝文帝遗匈奴襦、袍、梳、枇各一也。</p>
+<p>　　《续汉书》曰：季文德素善延笃，谓公卿曰："延笃有王佐之才，欲引进之。"笃闻，为书止文德曰："吾常昧爽栉梳，坐於客堂。朝则诵虞夏之书，历公旦之典礼，览仲尼之《春秋》。当此之时，不知天之为盖，地之为与。慎勿迷其本，弃其生也。"</p>
+<p>　　《魏志》曰：徐季龙取十三种物，着大箧中，使管辂占之。辂先说鸡子，后道蚕蛹，遂一一名之，惟以梳为枇耳。</p>
+<p>　　《修复山陵故事》曰：梓宫用象牙梳五枚，后梓宫物象牙梳六枚，瑇瑁梳六枚。</p>
+<p>　　《东宫旧事》曰：太子纳妃，有瑇瑁梳三枚。</p>
+<p>　　盛弘之《荆州记》曰：临贺兴安县东边有平石，其上有栉履各一具。俗云，越王渡溪，脱履坠栉於此。</p>
+<p>　　崔实《政论》曰：无赏罚而欲世之治，是犹不梳枇而欲发之治。</p>
+<p>　　《物理论》曰：威行法明，漏吞舟之鱼；法之不明，则数於细栉，细栉则苛慝生也。</p>
+<p>　　《梦书》曰：梦梳枇为忧解也。虱尽去，百病愈。</p>
+<p>　　傅咸《栉赋》叙曰：夫才之治世，犹栉之理发。</p>
+<p>　　涂岑诗曰：思见君巾栉，以弭我劳惭。</p>
+<p>　　蔡邕《女诫》曰：用栉则思其心之理。</p>
+<p>　　高文惠《与妇书》曰：今致瑇瑁梳一枚。</p>
+<p>　　陆云《与兄机书》曰：按行视曹公器物，梳枇皆在。</p>
+<p>　　《四愁诗》曰：美人遗我旃檀梳。</p>
+<p>　　晋傅咸《栉赋》曰：我嘉兹栉，恶乱好理，一发不顺，实以为耻。虽日用而匪懈，不告劳而自已。荀以理而委任，期竭力以没齿。</p>
+<p>　　○刷</p>
+<p>　　《说文》曰：荔草，似蒲而小，根可作刷。</p>
+<p>　　《通俗文》曰：所以理发谓之刷。</p>
+<p>　　《释名》曰：刷，帅也，帅发长短，皆令上从也。</p>
+<p>　　《东宫旧事》曰：太子纳妃，有七猪氂刷。</p>
+<p>　　嵇康《养生论》曰：劲刷理发，仅乃得之。</p>
+<p>　　陆云《与机书》曰：按行视曹公器物，刷赃处尚识。</p>
+<p>　　○镊</p>
+<p>　　《释名》曰：镊，摄也，摄取发也。</p>
+<p>　　《通俗文》曰：摄减发须鬓谓之镊。</p>
+<p>　　《说文》作籋，曰：籋箱也。</p>
+<p>　　《洞林》曰：卷县令施安氏怀镊，令郭璞射之。璞曰："此是镜物，有两歧。"</p>
+<p>　　沈约《宋书》曰：彭城王义康饷沈熙光铜镊。</p>
+<p>　　《修复山陵故事》曰：梓宫中用铁镂镊五枚。</p>
+<p>　　《临海水土记》曰：镊鱼长七寸，头如镊。</p>
+<p>　　《齐书》曰：高祖恒令左右拔白发，隆王昌，高祖之孙，年五岁，戏於床前，帝曰："儿言我是谁？"答曰："太翁。"帝曰："岂有为人曾祖拔白发乎？"即掷去镜镊。</p>
+<p>　　∪沥</p>
+<p>　　《说文》曰：觿角锐端，可以解结。</p>
+<p>　　《毛诗·淇澳》曰：芄兰之支，童子珮觿。(芄兰，草。觿，所以解结。)</p>
+<p>　　《礼记·内则》曰：子事父母，左珮小觿金燧，右珮大觿木燧。</p>
+<p>　　○剔齿纤</p>
+<p>　　陆云《与兄机书》曰：一日行曹公器物，有剔齿纤，今以一枚寄兄。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_15564.aspx">上一章</a>
+<a href="/guwen/book_180.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_15566.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

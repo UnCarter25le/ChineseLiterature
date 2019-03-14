@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·诸儒学案下·忠节吕豫石先生维祺_古诗文网
+</title>
+<meta content="吕维祺字介孺，号豫石，河南新安人。万历癸丑进士。除兖州推官，入为吏部主事。光、熹之际，上疏请慎起居，择近侍，防微杜渐，与杨左相唱和也。累转郎中。告归。崇祯初，起尚宝卿，再转太常卿。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14674.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>诸儒学案下·忠节吕豫石先生维祺</b></span>
+<a href="javascript:PlayBookv(14674)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14674" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14674" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　吕维祺字介孺，号豫石，河南新安人。万历癸丑进士。除兖州推官，入为吏部主事。光、熹之际，上疏请慎起居，择近侍，防微杜渐，与杨左相唱和也。累转郎中。告归。崇祯初，起尚宝卿，再转太常卿。庚午，陞南京户部右侍郎，兼右佥都御史，总督粮储。时边饷既借支，而纳户逋欠又多，积弊难清，上特敕侵欺者五品以下就便提问。先生悉心筹画，解支有序。乃曰：“昔人有言，人至察则无徒，第思国家多故，君父焦劳，为臣子者岂能自已。”陞南京兵部尚书。贼犯凤陵，南京大震。先生寻以台省拾遗落职为民。辛巳正月，雒阳陷，先生为贼所执。道遇福王，昂首谓王曰：“死生命也，名义至重，无自辱。”已而贼害王，酌其血，杂鹿醢饮之，曰：“此福禄酒也。”先生大骂死之。赠太子少保，谥忠节。逆奄之时，拆天下书院，以学为讳，先生与张抱初方讲於芝泉书院，几中危祸。在南都立丰芑大社。归又立伊雒社，修复孟云浦讲会，中州学者多从之。尝言：“一生精神，结聚在《孝经》，二十年潜玩躬行，未尝少怠。曾子示门人曰：‘吾知免夫！’非谓免於毁伤，盖战兢之心，死而后已也。”若先生者，其见道未可知，庶几讲学而不伪者欤？</p>
+<p>　　论学书</p>
+<p>　　天下万世所以常存而不毁者，只为此道常存，此道之存，人心之所以不死也。使人心而死，则天地之毁也久矣。人心不死，而人人未能操存之，便厌厌无生意。所以持世之人，力为担任，将一副精神，尽用之於此道。而卑者祇役役於富贵功名，意见蹊径。其高者又耽入於悬虚，以为道更有在也。不知此道至平至易，见前即是，转疑即非，即入世之中，亦自有出世之法，非必尽谢绝人世而后为学也。世不难於出而难於入，出而不入，出而乃欲入，此幻与伪之为也。入而能出，此吾儒学问之所以异於二氏也。老兄云：“即今亦自可学诚哉？即今亦自可学也。”弟有联云：“人只此人，不入圣，便作狂，中间难站脚；学须就学，昨既过，今又待，何日始回头？”故曰：“才说姑待明日，便不可也。”自古圣贤，何人不由学问涵养？而必曰生知云云，则自弃甚矣。只要认定一路，一直硬肩做去，日新不已，即吾侪自有圣谛，彼程、邵诸先觉非人也乎哉？彼何以与天地不朽，而我辈空没没也？思念及此，有不愧汗浃趾者，岂人哉？然老兄之所以迟疑於其间者，得无谓今天下讲学者多伪也？不则谓讲学与不讲者，多分一畛域，恐吾涉於一边？噫！岂其然哉！讲学之伪诚有之，然真者必於此出，以其伪而废真，何异於因噎废食。且天下之贪官綦多也，未闻以废仕进也。至於讲学之家，多分畛域，亦自有说，吾只见得吾身，非此无以为人，安身立命，的的在此。世自有世之讲学，吾自有吾之讲学，所谓天渊悬隔者也。今天下禁讲学，而学会日盛，学会虽盛，而真实在此间做者甚少，弟之修复孟先生会，原自修复，不沾带世间一尘。近日敝邑及邻邑远近之士，觉彬彬兴起。今世风之坏也久，而人心日不古矣。以老兄之识力，辨此最易，如有意於此，固无事迟疑。孟子云：“奚有於是，亦为之而已矣。”（《与苏抑堂》）</p>
+<p>　　天下第一等事，是何人做？天下第一等人，是从何事做起？可惜终身憧憧扰扰，虚度光阴，到雨过庭空，风过花飞时，究竟携得甚物去？以此思之，何重何轻，何真何幻，何去何从，自有辨之者。然而眼界不开，由骨力不坚，骨力不坚，所以眼界愈不开，以此思之，学问下手处，可味也。而世往往目学问为伪，为迂，某谓世之学者，岂无伪哉？而真者固自真也。以伪为非，去其伪而可矣，至於学问不足经世，又何学之为？以此思之，学力事业非两事也。（《与友人》）</p>
+<p>　　弟维祜问：“讲学为人所非笑，何以处之？”曰：“讲学不为世俗非笑，是为乡愿，讲学不到使非笑我者终心服我，是为乡人，讲学必别立崖岸，欲自异於世俗，是为隐怪，讲学不大昌其道於天下后世，以承先启后自任，以为法可传自励，是为半途之废。”（《答问》一则）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14673.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14675.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

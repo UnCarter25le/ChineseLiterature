@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·玉版_古诗文网
+</title>
+<meta content="黄帝曰：余以小针为细物也，夫子乃言上合之于天，下合之于地，中合之于人，余以为过针之意矣，愿闻其故。歧伯曰：何物大于天乎？夫大于针者，惟五兵者焉，死之备也，非生之具。且夫人者，天地之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1104.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left928" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·玉版</b></span>
+<a href="javascript:PlayBookv(1104)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1104" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(928)" id="leftbtn928" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1104" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝曰：余以小针为细物也，夫子乃言上合之于天，下合之于地，中合之于人，余以为过针之意矣，愿闻其故。歧伯曰：何物大于天乎？夫大于针者，惟五兵者焉，死之备也，非生之具。且夫人者，天地之镇也，其不可不参乎？夫治民者，亦唯针焉。夫针之与五兵，其孰小乎？</p>
+<p>　　黄帝曰：病之生时，有喜怒不测，饮食不节，阴气不足，阳气有余，营气不行，乃发为痈疽。阴阳不通，两热相博，乃化为脓，小针能取之乎？歧伯曰：圣人不能使化者为之，邪不可留也。故两军相当，旗帜相望，白刃陈于中野者，此非一日之谋也。能使其民令行，禁止士卒无白刃之难者，非一日之教也，须臾之得也。夫至使身被痈疽之病，脓血之聚者示亦离道远乎？夫痈疽之生，脓血之成也，不从天下，不出地从，积微之所生也，故圣人自治于未有形也，愚者遭其已成也。</p>
+<p>　　黄帝曰：其已形示予遭，脓已成，不予见；为之奈何？歧伯曰：脓已成十死一生，故圣人弗使已成，而明为良方，着之竹帛，使能者踵而传之后世，无有终时者，为其不予遭也。</p>
+<p>　　黄帝曰：其已有脓血而后遭乎？不导之以小针治乎？歧伯曰：以小治小者，其功小，以大治大者，多害，故其已成脓血者，其唯砭石铍锋之所取也。</p>
+<p>　　黄帝曰：多害者其不可全乎？歧伯曰：其在逆顺焉。</p>
+<p>　　黄帝曰：愿闻逆顺。歧伯曰：以为伤者，其白眼青，黑眼小，是一逆也；内药而呕者，是二逆也；腹痛渴甚，是三逆也；肩项中不便，是四逆也；音嘶色脱，是五逆也。除此五者，为顺矣。</p>
+<p>　　黄帝曰：诸病皆有逆顺，可得闻乎？歧伯曰：腹胀、身热、脉大、是一逆也；腹鸣而满，四肢清泄，其脉大，是二逆也；衄而不止，脉大，是三逆也；咳而溲血脱形，其脉小劲，是四逆也；咳脱形，身热，脉小以疾，是谓五逆也。如是者示过十五日而死矣。其腹大胀，四末清，脱形，泄甚，是一逆也；腹胀便血，其脉大，时绝，是二逆也；咳溲血形肉脱，脉搏，是三逆也；呕血，胸满引背，脉小而疾，是四逆也；咳呕，腹胀且□泄，其脉绝，是五逆也。如是者，不及一时而死矣。工不察此者而刺之，是谓逆治。</p>
+<p>　　黄帝曰：夫子之言针甚骏，以配天地，上数天文，下度地纪，内别五脏，外次六腑，经脉二十八会，尽有周纪。能杀生人，不能起死者，子能反之乎？歧伯曰：能杀生人，不能起死者也。</p>
+<p>　　黄帝曰：余闻之，则为不仁，然愿闻其道，弗行于人。歧伯曰：是明道也，其必然也，其如刀剑之可以杀人，如饮酒使人醉也，虽勿诊，犹可知矣。</p>
+<p>　　黄帝曰：愿卒闻之。歧伯曰：人之所受气者，谷也，谷之所注者，胃也。胃者，水谷气血之海也。海之所行云气者，天下也。胃之所出气血者，经隧也。经隧者，五脏六腑之大络也，迎而夺之而已矣。</p>
+<p>　　黄帝曰：上下有数乎？歧伯曰：迎之五里，中道而止，五至而已，五往而脏之气尽矣，故五五二十五，而竭其输矣，此所谓夺其天气者也，非能绝其命而倾其寿者也。</p>
+<p>　　黄帝曰：愿卒闻之。歧伯曰：窥门而刺之者，死于家中；入门而刺之者，死于堂上。　　黄帝曰：善乎方，明哉道，请着之玉版，以为重宝，传之后世，以为刺禁，令民勿敢犯也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1103.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1105.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right928" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

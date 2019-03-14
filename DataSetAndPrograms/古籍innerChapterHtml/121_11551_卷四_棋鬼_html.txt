@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷四·棋鬼_古诗文网
+</title>
+<meta content="扬州督同将军梁公，解组乡居，日携棋酒，游林丘间。会九日登高与客弈，忽有一人来，逡巡局侧，耽玩不去。视之，目面寒俭，悬鹑结焉，然意态温雅，有文士风。公礼之，乃坐。亦殊撝谦。分指棋谓曰" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11551.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·棋鬼</b></span>
+<a href="javascript:PlayBookv(11551)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11551" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11551" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　扬州督同将军梁公，解组乡居，日携棋酒，游林丘间。会九日登高与客弈，忽有一人来，逡巡局侧，耽玩不去。视之，目面寒俭，悬鹑结焉，然意态温雅，有文士风。公礼之，乃坐。亦殊撝谦。分指棋谓曰：“先生当必善此，何不与客对垒？”其人逊谢移时，始即局。局终而负，神情懊热，若不自己。又着又负，益愤惭。酌之以酒，亦不饮，惟曳客弈。自晨至于日昃，不遑溲溺。方以一子争路，两互喋聒，忽书生离席悚立，神色惨阻。少间，屈膝向公座，败颡乞救，公骇疑，起扶之曰：“戏耳，何至是？”书生曰：“乞嘱付圉人，勿缚小生颈。”公又异之，问：“圉人谁？”曰：“马成。”</p>
+<p>　　先是，公圉役马成者，走无常，十数日一入幽冥，摄牒作勾役。公以书生言异，遂使人往视成，则已僵卧三日矣。公乃叱成不得无礼，瞥见书生即地而灭，公叹咤良久，乃悟其鬼。越日马成寤，公召诘之。成曰：“渠湖襄人，癖嗜弈，产荡尽。父忧之，闭置斋中。辄逾垣出，窃引空处，与弈者狎。父闻诟詈，终不可制止，父赍恨死。阎王以书生不德，促其年寿，罚入饿鬼狱，于今七年矣。会东岳凤楼成，下牒诸府，征文人作碑记。王出之狱中，使应召自赎。不意中道迁延，大愆限期。岳帝使直曹问罪于王。王怒，使小人辈罗搜之。前承主人命，故未敢以缧绁系之。”公问：“今日作何状？”曰：“仍付狱吏，永无生期矣。”公叹曰：“癖之误人也如是夫！”异史氏曰：“见弈遂忘其死；及其死也，见弈又忘其生。非其所欲有甚于生者哉？然癖嗜如此，尚未获一高着，徒令九泉下，有长死不生之弈鬼也。哀哉！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11550.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11552.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

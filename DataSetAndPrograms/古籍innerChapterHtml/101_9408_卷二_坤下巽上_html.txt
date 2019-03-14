@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷二·坤下巽上_古诗文网
+</title>
+<meta content="觀，盥而不薦，有孚，顒若。彖曰：大觀在上，順而巽，中正以觀天下。觀，盥而不薦，有孚顒若，下觀而化也。觀天之神道而四時不忒，聖人以神道設敎，而天下服矣。觀上觀下也。下順上巽，觀上之風" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9408.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·坤下巽上</b></span>
+<a href="javascript:PlayBookv(9408)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9408" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9408" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　觀，盥而不薦，有孚，顒若。彖曰：大觀在上，順而巽，中正以觀天下。觀，盥而不薦，有孚顒若，下觀而化也。觀天之神道而四時不忒，聖人以神道設敎，而天下服矣。</p>
+<p>　　觀上觀下也。下順上巽，觀上之風從而化之。上巽下坤，觀下之情而設敎也。剛德上行，為天下之大。觀得其中正大順，而巽以從之也。古者，先王之治天下，為風之首者，非他也。禮之謂歟敬，其禮之本，歟宗廟，其敬之大。歟盥，其祭之首。歟取，諸潔敬者也。禮也者，物得其履，而不謬也。措之天下無所不行，本於其敬也。敬發乎情者也。盡則誠信，誠積中而容作於外，施於人而人順也。敬之盡者，莫大於孝，莫大於尊，親愛之。故貴之。貴之故尊之。昔者周公郊祀后稷以配天，宗祀文王於明堂以配上帝。是以四海之内各以其職來祭，天下無不敬其親者，此不令而民化上矣。宗廟之始者，盥也。得其始，盡其敬，誠其孝，然後能事宗廟鬼神也。其先祭也，散齋三日，以定志。致齋三日，以一慮。其將祭也，恫恫乎，恐懼如將見之。詩云：明發不寐，有懷二人，思之深也。其敬齋也，先祭而告，慟哭反矣。況至於盥乎。盥者，祭之道可觀其首敬也。薦者，養之道，故盡其敬，竭其情，則能備物矣。所以假外物而成孝子之心也，非禮之本也，故不在於薦矣，觀其誠信顒若而已。民知其敬上也，聖人申其情，行其事，而成敎於天下。雖天子必有尊也。則神道報其情也。此先王設敎之端，而天下大服也。</p>
+<p>　　象曰：風行地上，觀。</p>
+<p>　　先王以省方，觀民設敎，草木從上之風而偃也。故先王察其方，所觀其俗性。不易其素履。則民自行其道也。</p>
+<p>　　初六，童觀，小人无咎，君子吝。象曰：初六，童觀，小人道也。</p>
+<p>　　柔而无位，逺於大觀，童蒙而无所觀，小人之道也。</p>
+<p>　　六二，闚觀，利女貞。象曰：闚觀女貞，亦可醜也。</p>
+<p>　　當大觀之時，不能逺於所觀，而顧覬覦為正，施於女子，守正則可矣。君子之醜也。</p>
+<p>　　六三，觀我生進退。象曰：觀我生進退，未失道也。</p>
+<p>　　大觀在乎中正已，處下體之，上風化之，出而及於民，進其道也。柔以奉之，退而謙也。故觀我生之，風化進不淩上，退不廢職，或從正事，可謂不失其道矣。</p>
+<p>　　六四，觀國之光，利用賔于王。象曰：觀國之光，尚賔也。</p>
+<p>　　履極臣位，順而承上，為上之巽，國之光也。煥乎可觀，利於用也。為王者之上賔。</p>
+<p>　　九五，觀我生，君子无咎。象曰：觀我生，觀民也。</p>
+<p>　　為觀之尊，天下風化之首也。我之生化，備於民矣。觀其民有君子之風，乃天下无所歸，咎也。</p>
+<p>　　上九，觀其生，君子无咎。象曰：觀其生，志未平也。</p>
+<p>　　過居无民之位，乘五之上，憂悔之地，志不得平也。亦在王敎而已自觀，有君子之風，乃无咎也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9407.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9409.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

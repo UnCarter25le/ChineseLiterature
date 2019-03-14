@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+南游记·第三回_古诗文网
+</title>
+<meta content="灵耀分龙会为明辅却说次日众真君聚朝奏玉帝曰：“当年五月十五日起分龙会，会集九江八河五湖四海各宫龙王赴会迎旱治雨，救治禾苗。今年会期又至，乞我主可颁玉旨前去会上，众龙王前来赴会，不致" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19649.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第三回</b></span>
+<a href="javascript:PlayBookv(19649)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19649" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19649" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%99%e8%b1%a1%e6%96%97">余象斗</a></p>
+<div class="contson">
+<p>　　<strong>灵耀分龙会为明辅</strong></p>
+<p>　　却说次日众真君聚朝奏玉帝曰：“当年五月十五日起分龙会，会集九江八河五湖四海各宫龙王赴会迎旱治雨，救治禾苗。今年会期又至，乞我主可颁玉旨前去会上，众龙王前来赴会，不致失期。”帝曰：“可。”即传下玉旨，问道：“谁人可为会上明辅？”众臣奏曰：“臣观会中，惟火部兵马大元帅，可为明辅。”玉帝依奏，即宣灵耀上殿。灵耀至殿山呼已毕，玉帝曰：“朕观卿忠直英雄，众臣保奏卿作明辅，卿可用心代朕作事，”灵耀谢恩出朝不题。</p>
+<p>　　话分两头。却说东海老龙王接得玉旨，言赴会治雨之事，心中十分烦恼。叹曰：“吾今年已老迈，如何去得，若然去在会上，见众龙王亦行礼不便，如何是好！”却有儿名叫铁头太子者，侍立在旁，闻父言，上前禀曰：“父亲不必挂虑，自古养儿代老。父亲老迈，去不得，我为子当代父一行，未卜可否？”老龙曰：“此亦恰好，奈你是个好酒之人，倘去那会上饮酒得多，恐有误事，不可以此为是，令我烦恼。”太子曰：“我就当天发个誓愿，现今在行，若再好酒，有违父命，四体不得回乡。”老龙曰：“吾儿今有此志，则我无忧矣。你若到那会上去，那里都是你叫叔的，或叫兄的，可宜谦恭，不可太狂了人。”</p>
+<p>　　太子领父严命，离宫上路。夜住晓行，来到一村中，见是个酒店。太子自思曰：“爹爹叫我不要吃酒，我今见店面牌上写个酒字，我就思量吃，今如何忍得？”自思不若入店少饮几杯，以免思量也罢。进店就呼酒保沽上酒来，自歌自唱。饮了数壶，将碎金一钱还了酒钱，离了酒店。来到天门，入了南天宝德关，入会堂与众龙王相见。明辅升堂坐定，众龙王依次谒见过。明辅曰：“下官蒙玉旨。差我为明辅，赐宴以待众列位。凡饮酒之间，不可造次，亦不许游席过座，酒醉不得乱言。有违逆者，推出天门，降职不用。先奉列位酒，然后迎入席前，各依次序而坐。”</p>
+<p>　　那铁头太子自思，这个酒是御酒，一年一度，难得吃，不免多吃几杯。言毕，连饮数十杯，酩酊大醉，闹将起来曰：“这明辅好不公道！往年我爹爹来，坐又在上坐，酒亦先劝我爹爹。今年我来，坐又坐在边席，酒又不来劝我，是何道理，不公不公。”灵耀听罢云：“往年设会，乃令尊来，他是前辈。今年你来代他，众位你应在末，为何说我不公？我为明辅，安有偏向？汝既酒醉，故把言语冲我。”大怒，就将铁头太子推下南天宝德关。对众龙王说明：“今日与你众位无干，各人领谕回去，保守地方，勿得违律，取罪未便，”齐皆答应而散。</p>
+<p>　　说那太子被明辅推下南天宝德关，羞惭满面，心中思量，不敢回转龙宫见父，摇身一变，变作一个大鲤鱼，身长二丈，在扬州江上游戏，舞水作浪。忽然潮水退去，被困在沙洲之上，进退不能。却有一伙樵子，砍柴回来的，看见沙洲之上，有一大鲤鱼不能丢去，即把那手上柴刀下来，会集众人，割下鲤鱼身上肉带去。那太子被割得身上疼痛，眼中流泪，发滚起来，把那一伙百姓都踏死了。太子趋回龙宫，流泪满面，哭报父曰：“不肖有违父命，因酒醉后闹了分龙会，不敢回见父亲，变作鲤鱼，在扬州游戏；忽遇水退，不能得脱，被扬州百姓，将儿身上肉俱割尽。想儿必要死的，望父王可看骨肉之情，代儿报仇。”言罢而死。老龙王大哭，就点蝦精鳖将，水族军兵，涌起波浪，杀至扬州。扬州百姓遭其水灾，叫苦连天。</p>
+<p>　　却说扬州有个土神，乃是后土圣母娘娘宝像，见水淹到庙前，本地方的百姓人等，各各来至庙前，一步一拜，拜到庙前，求圣母灵威退其水灾。圣母大惊。即去天曹上表。入了天门，玉帝升殿，百官朝贺毕，有扬州后土圣母俯伏陛前。奏曰东海老龙王涌水淹死百姓事。玉帝依奏曰：“卿且回归，朕即传下玉旨，即差四土星君，带领天兵，速去中界退水。”四土星君领旨，带兵出朝，来至中界，见是东海老龙王涌水。那四土星君用土去填塞波浪，弄得老龙王大败，走回龙宫。四土星君带得胜之兵，来见后土娘娘。娘娘待茶，谈说：“前日水淹到我庙前，庙前有一株琼树，其树自来不曾开花，如今被水淹了，反开一朵琼花。此花胜异气，上香三十三天，下香五湖四海，三界皆闻香味，意欲进上玉帝，不知可否？”四土星君曰：“既有此花，胜如好宝，当进玉帝，有何不可。”说罢告别不题，且听下卷分解。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19648.aspx">上一章</a>
+<a href="/guwen/book_260.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19650.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

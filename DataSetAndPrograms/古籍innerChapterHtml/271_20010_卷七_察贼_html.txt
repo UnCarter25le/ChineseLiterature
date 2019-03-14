@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+折狱龟鉴·卷七·察贼_古诗文网
+</title>
+<meta content="223、赵广汉知情(孙沔一事附)汉赵广汉，为京兆尹。郡中盗贼，闾里轻侠，其根株窟穴所在，及吏受取请求铢两之奸，皆知之。长安少年数人，会穷里空舍谋行劫，坐语未讫，广汉使吏捕治，具服。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20010.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷七·察贼</b></span>
+<a href="javascript:PlayBookv(20010)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20010" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20010" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%83%91%e5%85%8b">郑克</a></p>
+<div class="contson">
+<p>　　223、赵广汉知情(孙沔一事附)汉赵广汉，为京兆尹。郡中盗贼，闾里轻侠，其根株窟穴所在，及吏受取请求铢两之奸，皆知之。长安少年数人，会穷里空舍谋行劫，坐语未讫，广汉使吏捕治，具服。出汉书本传。旧集不载。</p>
+<p>　　按：此广耳目以察贼者也。孙沔副枢知徐州时，淮阳军有强盗数人，捕之急，过徐境。沔即知之。方宴客，淮阳檄至，召吏谕曰：“淮阳贼几人，易衣冠，舍某处。”少顷，皆捕至庭下。见孙威敏公遗事录。与广汉类矣。史称广汉“善为钩距，以得事情。”谓钩致其隐伏，使不得遁；距闭其形距，使不可窥也。世言沔所用为耳目者，虽左右亲信之人，亦莫能晓，殆亦挟此术欤？</p>
+<p>　　224、苻融占梦已见释冤门。</p>
+<p>　　225、柳崇温颜后魏柳崇，为河中太守。郡人张明失马，疑执十余人。崇初到郡，见之，不问贼事，人别借以温颜，更问其亲老存否，农业多少，而微察其辞色，即获真贼吕穆等二人，余并放遣。郡中畏服，境内帖然。出北史本传。旧集不载。</p>
+<p>　　按：崇不问贼事者，恶彼匿其情也；问以亲老存否，农业多少者，欲彼吐其情也。于是真情见乎辞色，乃可微察，以获真贼，是亦用鞫情之术者也。贼与盗异，害物曰贼，攘物曰盗；劫取曰贼，窃取曰盗。此失马者，殆被劫欤？不然，何以疑执十余人也。</p>
+<p>　　226、韦鼎中忌隋韦鼎，为光州刺史。州中有土豪，外修边幅，而内行不轨，尝为劫盗。鼎于都会时谓之曰：“卿是好人，那忽作贼？”因条其徒党奸谋逗遛，其人惊惧，即自首服。出南史韦睿传。鼎，其孙也。旧集不载。　　按：此亦广耳目以察贼者，用于鞫情之术，则以中其忌讳，故能使之首服也。</p>
+<p>　　227、吕元膺搜舆(柳公绰一事附)唐吕元膺，镇岳阳。因出游览，有丧舆驻道左，男子五人，衰服随之。元膺曰：“远葬则汰，近葬则简，此必诈也。”亟令左右搜索棺中，皆兵刃，乃擒之。诘其情，对曰：“欲过江劫掠，故假为丧舆，使渡者不疑。又有同党数辈，已在彼岸期集。”悉捕获以付法。旧不着出处。</p>
+<p>　　按：苏无名察奸之术，正与元膺察贼相类。柳氏叙训有一事云：柳公绰，为襄阳节度使。岁歉，邻境尤甚。有齐衰者，哭且献状曰：“迁三世十二丧于武昌，为津吏所遏，不得出。”公绰览之，即命军候擒其人，破其柩，皆实以稻米。盖葬于歉岁，不应并举三世十二丧，故知其诈耳。虽非劫取者，而与元膺搜舆事颇相类也，故附着之。然议者以为闭籴非美，不足为法。今但取其明察，虑有他奸，故着为察贼之鉴耳。</p>
+<p>　　228、张咏勘僧张咏尚书，知江宁府。有僧陈牒出凭，咏据案熟视久之，判送司理院勘杀人贼。翌日，群官聚听，不晓其故，咏乃召问：“为僧几年？”对曰：“七年。”又问：“何故额有系巾痕？”即惶怖服罪。盖一民与僧同行，于道中杀之，取其祠部戒牒，自披剃为僧也。见李畋虞部所撰忠定公语录。</p>
+<p>　　按：善察贼者，必有以识之，使不能欺也；善鞫情者，必有以证之，使不可讳也。咏实兼此二术矣，可不谓之明乎。</p>
+<p>　　229、乔某收诘乔某虞部知果州西充县时，有强寇，夜出剽掠，罪人久不获。民或争财，而讼于庭，某察其物色有异，乃曰：“是必前日盗也。”收诘之，果服。见吕大监正字所撰墓志。某华阴县人，失其名。</p>
+<p>　　按：昔鲁两生有大臣节，而史失其名，然迹之着不可掩也。今江某之核奸，乔某之察贼，其事必传矣，虽失其名，亦何憾哉！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20009.aspx">上一章</a>
+<a href="/guwen/book_271.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20011.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

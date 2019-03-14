@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷四·巽下震上_古诗文网
+</title>
+<meta content="恒亨无咎，利貞，利有攸往。彖曰：恒，久也。剛上而柔下，雷風相與。巽而動，剛柔相應，恒。恒亨无咎，利貞，久於其道也。天地之道，恒久而不已也。利有攸往，終則有始也。日月得天而能久照，四" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9420.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·巽下震上</b></span>
+<a href="javascript:PlayBookv(9420)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9420" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9420" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　恒亨无咎，利貞，利有攸往。彖曰：恒，久也。剛上而柔下，雷風相與。巽而動，剛柔相應，恒。恒亨无咎，利貞，久於其道也。天地之道，恒久而不已也。利有攸往，終則有始也。日月得天而能久照，四時變化而能久成，聖人久於其道而天下化成。觀其所恒而天地萬物之情可見矣。恒而得其久也。</p>
+<p>　　剛上而柔下，剛柔交而下承也。雷行風從，増其大逺矣。巽而動，往無不從也。剛柔皆應外内逹也。此可久之道也。能久則通矣。保其無咎矣。利而得正矣。久而得其終始之道也。則何往而不利焉。天地恒久也，而萬物生。聖人恒久也，而天下化。以恒久而觀之，天地萬物之情得其恒者，長也。</p>
+<p>　　象曰：雷風，恒。君子以立不易方。</p>
+<p>　　雷之震，風必從之。君子行，必由其道。得其恒而増，其恒而増其大也。故獨立其所不以物易。</p>
+<p>　　初六，浚恒，貞凶。无攸利。象曰：浚恒之凶，始求深也。</p>
+<p>　　恒者，久於其道，不煩而物自歸也。處於極下，深底者也。不修其恒，不度其分，遂求其應，初以深極而求於人。人斯竭之矣，何以終乎。正之凶而無所利也。</p>
+<p>　　九二，悔亡。象曰：九二，悔亡。能久中也。</p>
+<p>　　非其位久失道也，剛而自正，退而久中，可以悔亡。</p>
+<p>　　九三，不恒其徳，或承之羞，貞吝。象曰：不恒其徳，无所容也。</p>
+<p>　　三者，終下至上之地，進退之所也。不能修徳守位，而復上以求應，無其恒也，何以容哉。以是為政可惜者也。</p>
+<p>　　九四，田无禽。象曰：久非其位，安得禽也。</p>
+<p>　　承上之地，柔以奉上而剛居之。求應於下位已失矣，安所獲乎。</p>
+<p>　　六五，恒其徳，貞婦人吉，夫子凶。象曰：婦人貞吉，從一而終也。夫子制義，從婦凶也。</p>
+<p>　　從係以為正，守中而為恒，婦人以之吉也，夫子可以制義矣。而從人之政，狹之至矣，固其凶也。</p>
+<p>　　上六，振恒，凶。象曰：振恒，在上大无功也。</p>
+<p>　　極上，終盡之地，柔振而將久之道窮也，久何之乎。雖有其應，不足振也。失時之極，無功已矣，凶之道也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9419.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9421.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

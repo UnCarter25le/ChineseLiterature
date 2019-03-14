@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贞观政要·卷六·论谦让_古诗文网
+</title>
+<meta content="贞观二年，太宗谓侍臣曰：“人言作天子则得自尊崇，无所畏惧，朕则以为正合自守谦恭，常怀畏惧。昔舜诫禹曰：‘汝惟不矜，天下莫与汝争能；汝惟不伐，天下莫与汝争功。’又《易》曰：‘人道恶盈" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5208.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3477" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·论谦让</b></span>
+<a href="javascript:PlayBookv(5208)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5208" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3477)" id="leftbtn3477" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5208" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%90%b4%e5%85%a2">吴兢</a></p>
+<div class="contson">
+<p>　　贞观二年，太宗谓侍臣曰：“人言作天子则得自尊崇，无所畏惧，朕则以为正合自守谦恭，常怀畏惧。昔舜诫禹曰：‘汝惟不矜，天下莫与汝争能；汝惟不伐，天下莫与汝争功。’又《易》曰：‘人道恶盈而好谦。’凡为天子，若惟自尊崇，不守谦恭者，在身倘有不是之事，谁肯犯颜谏奏？朕每思出一言，行一事，必上畏皇天，下惧群臣。天高听卑，何得不畏？群公卿士，皆见瞻仰，何得不惧？以此思之，但知常谦常惧，犹恐不称天心及百姓意也。”魏征曰：“古人云：‘靡不有初，鲜克有终。’愿陛下守此常谦常惧之道，日慎一日，则宗社永固，无倾覆矣。唐、虞所以太平，实用此法。”</p>
+<p>　　贞观三年，太宗问给事中孔颖达曰：“《论语》云：‘以能问于不能，以多问于寡，有若无，实若虚。’何谓也？”颖达对曰：“圣人设教，欲人谦光。己虽有能，不自矜大，仍就不能之人求访能事。己之才艺虽多，犹病以为少，仍就寡少之人更求所益。己之虽有，其状若无，己之虽实，其容若虚。非惟匹庶，帝王之德，亦当如此。夫帝王内蕴神明，外须玄默，使深不可知。故《易》称‘以蒙养正；以明夷莅众’。若其位居尊极，炫耀聪明，以才陵人，饰非拒谏，则上下情隔，君臣道乖。自古灭亡，莫不由此也。”太宗曰：“《易》云：‘劳谦，君子有终，吉。’诚如卿言。”诏赐物二百段。</p>
+<p>　　河间王孝恭，武德初封为赵郡王，累授东南道行台尚书左仆射。孝恭既讨平萧铣、辅公祏，遂领江、淮及岭南、北，皆统摄之。专制一方，威名甚著，累迁礼部尚书。孝恭性惟退让，无骄矜自伐之色。时有特进江夏王道宗，尤以将略驰名，兼好学，敬慕贤士，动修礼让，太宗并加亲待。诸宗室中，惟孝恭、道宗莫与为比，一代宗英云。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5207.aspx">上一章</a>
+<a href="/guwen/book_62.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5209.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3477" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百战奇略·第十卷·风战_古诗文网
+</title>
+<meta content="凡与敌战，若遇风顺，致势而击之；若遇风逆，出不意而捣之，则无有不胜。法曰：「风顺，致势而从之；风逆，坚阵以待之。」《五代史》：晋北面行营都招讨使杜重威等，与契丹战于阳城，为虏所围，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4338.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3101" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第十卷·风战</b></span>
+<a href="javascript:PlayBookv(4338)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4338" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3101)" id="leftbtn3101" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4338" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%9f%ba">刘基</a></p>
+<div class="contson">
+<p>　　凡与敌战，若遇风顺，致势而击之；若遇风逆，出不意而捣之，则无有不胜。法曰：「风顺，致势而从之；风逆，坚阵以待之。」</p>
+<p>　　《五代史》：晋北面行营都招讨使杜重威等，与契丹战于阳城，为虏所围，而军中无水，穿井辄崩；又东北风大起，虏顺风纵火，扬尘以助其势。军士皆愤怒，大呼曰：「都招讨何以用兵，令士卒枉死！」诸将请战，杜重威曰：「候风少缓，徐观可否。」〔马步都监〕李守贞曰：「风沙之内，彼众我寡，莫测多少，惟力战者胜，此风力助我也。」即呼曰：「诸军齐击贼！」〔马军左厢都排阵使〕张彦泽召诸将问计，或曰：「虏得风势，宜待风回。」彦泽亦以为然。〔马军〕右厢副〔阵〕使药元福谓曰：「今军饥渴已甚，待风回，吾属皆为虏矣！且敌谓我不能逆风以战，宜出其不意急击之。此诡道也。」〔马步左右厢都排阵使〕符彦卿等乃将精骑，奋力击之，逐北二十余里。契丹主奚车走十余里，追兵击之，得一橐驼，乘之遁去。晋军乃〔退保〕定〔州〕。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4337.aspx">上一章</a>
+<a href="/guwen/book_52.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4339.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3101" style="width:580px; display:none;"></div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

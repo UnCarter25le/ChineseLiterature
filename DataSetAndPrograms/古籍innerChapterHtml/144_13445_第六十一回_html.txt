@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+说唐全传·第六十一回_古诗文网
+</title>
+<meta content="罗成托梦示娇妻 秦王遇赦访将士当下罗成被乱箭射死在淤泥河内，就像个柴把子一般，一点灵魂，竟往山东来见妻子。是夜罗夫人抱若三岁孩子罗通，睡在牀上，时交三更，看见罗成满身鲜血，周围插箭" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13445.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第六十一回</b></span>
+<a href="javascript:PlayBookv(13445)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13445" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13445" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%88%e6%b1%9d%e8%a1%a1%e6%94%b9%e5%86%99">陈汝衡改写</a></p>
+<div class="contson">
+<p>　　<strong>罗成托梦示娇妻 秦王遇赦访将士</strong></p>
+<p>　　当下罗成被乱箭射死在淤泥河内，就像个柴把子一般，一点灵魂，竟往山东来见妻子。是夜罗夫人抱若三岁孩子罗通，睡在牀上，时交三更，看见罗成满身鲜血，周围插箭，上前叫道：“我的妻呀！我因探望秦王，被建成、元吉设计相害，逼我追赶刘黑闼，中了苏定方奸计，射死淤泥河内。妻呵，你好生看管孩儿，我去也！”罗夫人惊醒，却是南柯一梦。次日，夫人将此梦说与太太知道，太太大惊，连忙说与秦叔宝、程咬金知道，都各各惊疑此梦不祥。按下不表。</p>
+<p>　　再说刘黑闼射死罗成，也不取首级，又统兵来攻紫金关。那罗春见人马去了，因来寻觅主人，寻至淤泥河内，见了主人尸首，放声大哭，便问乡民寻扇板门，放在河上面，然后将身困倒，用手向下去一扯，就将罗成的尸首，扯了起来，身体乱箭，即一一拔出。罗春身边却有银两，就买了一口棺木，盛殓主人，做了孝子，一路扶棺回来。行到山东，先往家中报信。一进门，看见老太太、夫人，叫道：“不好了，老爷没了！”老太太道：“怎么讲？”罗春道：“老爷没了，棺木即刻就到。”老太太与夫人听了这话，一齐大哭，晕倒在地。罗春连忙叫道：“太太、夫人苏醒。”叫了数声，婆媳二人，慢慢醒了过来。此时外面棺木已到，停在中堂，婆媳二人，哭得伤心惨目。</p>
+<p>　　此时程咬金闻知，走来大哭，罗春遂把二王相害的始末，细说一遍，咬金说：“老伯母与弟媳，不必悲伤。自古道：‘既死不能复生。’如今主公禁在天牢，我们又走散了，少不得几处反王杀来。这两个奸王，少不得死在眼前了。那时若再来寻我们，待我做程咬金的，啐也啐他十七八啐。你太平时节，将我们打发回家，自耕自种，反乱之际，又要来寻我们，今日不管你唐家事了！”话未完，忽见家将来报道：“程爷不好了！秦爷闻罗爷消息，大哭一声，就死了。”咬金听了，连忙走来看叔宝。只见他老小惊慌，幸亏咬金叫了数声，叔宝方才醒来，口叫：“罗贤弟，都是我害了你也！”便哭个不住。就与罗成开丧，请僧做道场追荐，不表。</p>
+<p>　　再说刘黑闼杀到了关下，奋勇攻打，军士飞报进关，二王大惊，忙问马伯良道：“罗成被他射死，贼兵又来，如何是好？”马伯良道：“事急矣！为今之计，千岁爷可再往长安求救，臣在此依旧守关，须要速去速来。如若迟延日期，失了紫金关，不干臣事。”建成、元吉见此关难保，只得且回长安，遂离了紫金关，来到长安，朝见父王，言：“罗成阵亡，明州兵凶勇，紫金关危在顷刻，望父王再遣能战将官，前去救应。”高祖大惊，便问群臣计将安出？只见兵部尚书刘文静出班奏道：“陛下，我国人才空虚，难以交兵，为今之计，可赦出秦王，往山东寻访秦琼前来，方可退得。刘黑闼目下在紫金关，无人救护，臣虽不才，愿统雄兵救应。”高祖闻言大喜道：“依卿所奏。”即下旨赦秦王之罪，速往山东，寻访秦恩公到来，将功折罪。</p>
+<p>　　秦王从天牢出来，进朝奏道：“臣儿不敢前去。”高祖便问何故。这秦王道：“臣儿一人往山东，秦琼若肯来，实为万幸。万一不肯来，岂非徒然？”元吉道：“秦琼不来，可叫尉迟恭来，亦可战退贼兵矣。”秦王道：“贤弟差矣，你还要提尉迟恭怎的？他往日在御果园救驾，有了这样功劳，不能封妻荫子，反革他的官职，受你披麻拷之苦。今日他还肯来帮助么？”</p>
+<p>　　高祖道：“昔日都是这两个畜生，起妒忌之心，将众人散去。如今秦琼、尉迟恭，不是不肯来，只怕两个畜生又要算计他。朕今降旨一道，着秦王将秦琼、尉迟恭与其余众将，招抚回来，官还原职。敕赐秦琼、尉迟恭锏鞭，可上打昏君，下打奸臣。不论王亲国戚，先打后奏。这两个畜生，就不敢算计了！”秦王大喜，又奏道：“今有徐绩在午门候旨。”高祖道：“宣进来。”原来徐茂公算定这事?可成，故使刘文静奏赦秦王，秦王上奏高祖，敕封二将，方好制伏两奸王。那时茂公宣至金阶，朝见毕，高祖即着茂公同秦王往请秦琼、尉迟恭，并寻众将回来。秦王领旨，同茂公带了五百兵，向山东进发。及到山东，徐茂公令人马扎在幽僻之处，与秦王换了便服，步行而来。行到秦琼门首，咬金看见茂公，就问戌公一向躲在那里，如今到此何干。茂公道：“同主公特来访你。”咬金出见秦王，大喜，请到里面去坐。未知说出什么话来，且听下回分解。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13444.aspx">上一章</a>
+<a href="/guwen/book_144.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13446.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

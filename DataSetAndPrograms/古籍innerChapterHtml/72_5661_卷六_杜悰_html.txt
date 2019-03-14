@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+容斋随笔·卷六·杜悰_古诗文网
+</title>
+<meta content="唐懿宗咸通二年二月，以杜悰为相。一日，两枢密使诣中书，宣徽使杨公庆继至，独揖悰受宣，三相起避。公庆出书授悰，发之，乃宣宗大渐时，宦官请郓王监国秦也。且曰：“当时宰相无名者，当以反法" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5661.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4167" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷六·杜悰</b></span>
+<a href="javascript:PlayBookv(5661)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5661" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4167)" id="leftbtn4167" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5661" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b4%aa%e8%bf%88">洪迈</a></p>
+<div class="contson">
+<p>　　唐懿宗咸通二年二月，以杜悰为相。一日，两枢密使诣中书，宣徽使杨公庆继至，独揖悰受宣，三相起避。公庆出书授悰，发之，乃宣宗大渐时，宦官请郓王监国秦也。且曰：“当时宰相无名者，当以反法处之。”悰反复读，复封以授公庆，曰：“主上欲罪宰相，当于延英面示圣旨。”公庆去，悰谓两枢密曰：“内外之臣，事犹一体。今主上新践阼，固当以仁爱为先，岂得遽赞成杀宰相事！若习以性成，则中尉、枢密岂得不自忧乎！”两枢密相顾默然，徐曰：“当具以公言白至尊，非公重德，无人及此。”三相复来见悰，微请宣意，悾无言。三相惶怖，乞存家族。悰曰：“勿为他虑。”既而寂然。及延英开，上色甚悦。此《资治通鉴》所载也。</p>
+<p>　　《新唐史》云：“宣宗世，夔王处大明宫，而郓王居十六宅。帝大渐，遗诏立夔王，而中尉王宗贯迎郓王立之，是为懿宗。久之，遣枢密使杨庆诣中书独揖悰。他宰相毕諴、杜审权，蒋伸不敢进，乃授悰中人请帝监国秦，因谕悰劾大臣名不在者。悰语之如前所云，庆色沮去，帝怒亦释。予以史考之，懿宗即位之日，宰相四人，曰令狐绹、曰萧邺、曰夏侯孜、曰蒋伸，到是时唯有伸在，三人者罢去矣。諴及审权乃懿宗自用者，无由有斯事。盖野史之妄，而二书误采之。温公以唐事属之范祖禹，其审取可谓详尽，尚如此。信乎，修史之难哉！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5660.aspx">上一章</a>
+<a href="/guwen/book_72.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5662.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4167" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

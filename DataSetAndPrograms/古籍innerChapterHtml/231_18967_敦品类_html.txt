@@ -1,0 +1,113 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+格言联璧·敦品类_古诗文网
+</title>
+<meta content="欲做精金美玉的人品，定从烈火中锻来。思立揭地掀天的事功，须向薄冰上履过。人以品为重，若有一点卑污之心，便非顶天立地汉子。品以行为主，若有一件愧怍之事，即非泰山北斗宏仪。人争求荣，就" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18967.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>敦品类</b></span>
+<a href="javascript:PlayBookv(18967)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18967" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18967" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%87%91%e7%bc%a8">金缨</a></p>
+<div class="contson">
+<p>　　欲做精金美玉的人品，定从烈火中锻来。思立揭地掀天的事功，须向薄冰上履过。</p>
+<p>　　人以品为重，若有一点卑污之心，便非顶天立地汉子。品以行为主，若有一件愧怍之事，即非泰山北斗宏仪。</p>
+<p>　　人争求荣，就其求之之时，已极人间之辱；人争恃宠，就其恃之之时，已极人间之贱。</p>
+<p>　　丈夫之高华，只在于道德气节。鄙夫之炫耀，但求诸服饰起居。</p>
+<p>　　阿谀取容，男子耻为妾妇之道。本真不凿，大人不失赤子之心。</p>
+<p>　　君子之事上也，必忠以敬；其接下也，必谦以和。小人之事上也，必谄以媚；其待下也，必傲以忽。</p>
+<p>　　立朝不是好官人，由居家不是好处士。平素不是好处士，由小时不是好学生。</p>
+<p>　　做秀才如处子，要怕人；既入仕如媳妇，要养人；归林下如阿婆，要教人。</p>
+<p>　　贫贱时眼中不着富贵，他日得志必不骄。富贵时意中不忘贫贱，一旦退休必不怨。</p>
+<p>　　贵人之前莫言贱，彼将谓我求其荐；富人之前莫言贫，彼将谓我求其怜。</p>
+<p>　　小人专望受人恩，受过辄忘；君子不轻受人恩，受则必报。</p>
+<p>　　处众以和，贵有强毅不可夺之力；持己以正，贵有圆通不固执之权。</p>
+<p>　　使人有面前之誉，不若使人无背后之毁；使人有乍处之欢，不若使人无久处之厌。</p>
+<p>　　媚若九尾狐，巧如百舌鸟，哀哉羞此七尺之躯。暴同三足虎，毒比两头蛇，惜乎坏尔方寸之地。</p>
+<p>　　到处伛偻，笑伊首何仇于天？何亲于地？终朝筹算，问尔心何轻于命？何重于财？</p>
+<p>　　富儿因求宦倾赀，污吏以黩货失职。</p>
+<p>　　亲兄弟析箸，璧合翻作瓜分。士大夫爱钱，书香化为铜臭。</p>
+<p>　　士大夫当为子孙造福，不当为子孙求福。谨家规，崇俭朴，教耕读，积阴德，此造福也。广田宅，结姻援，争什一，鬻功名，此求福也。造福者，澹而长；求福者，浓而短。</p>
+<p>　　士大夫当为此生惜名，不当为此生市名。敦诗书，尚气节，慎取与，谨威仪，此惜名也。竞标榜，邀权费，务矫激，习模棱，此市名也。惜名者，静而休；市名者，躁而拙。</p>
+<p>　　士大夫当为一家用财，不当为一家伤财。济宗党，广束修，救荒歉，创办义举，济人利物，此用财也。靡苑囿，教歌舞，奢燕会，积聚珍玩，赏目悦心，此伤财也。用财者，损而盈；伤财者，满而覆。</p>
+<p>　　士大夫当为天下养身，不当为天下惜身。省嗜欲，减思虑，戒忿怒，节饮食，此养身也。规利害，避劳怨，营窟宅，守妻子，此惜身也。养身者，啬而大；惜身者。膻而细。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18966.aspx">上一章</a>
+<a href="/guwen/book_231.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18968.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

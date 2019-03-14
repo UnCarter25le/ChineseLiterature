@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·学行类·卷十_古诗文网
+</title>
+<meta content="◎姚姬传主讲钟山姚姬传主讲钟山，时袁简斋以诗号召后进，先生与异趋，而往来无间。简斋尝以门人某属先生，愿执贽居门下，先生坚辞之。及简斋死，人多劝先生勿为作墓志，其人率皆生则依托取名，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16139.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>学行类·卷十</b></span>
+<a href="javascript:PlayBookv(16139)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16139" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16139" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎姚姬传主讲钟山</p>
+<p>　　姚姬传主讲钟山，时袁简斋以诗号召后进，先生与异趋，而往来无间。简斋尝以门人某属先生，愿执贽居门下，先生坚辞之。及简斋死，人多劝先生勿为作墓志，其人率皆生则依托取名，殁而穷极诟厉。先生曰：“设余康熙间为朱锡鬯、毛大可作志，君许之乎？”曰：“是固宜也。”先生曰：“随园正朱、毛一例耳。其文采风流有可取，亦何害于作志？”按秀水、萧山二先生，其学问有根柢，其立身处世亦未肯随逐波流，随园似微有不类。然而姚先生之言，公言也。</p>
+<p>　　◎姚姬传在京师</p>
+<p>　　姚姬传在京师，与辽东朱孝纯子颖、丹徒王文治梦楼，最称深友。一日天寒微雪，偕过黑窑厂，置酒纵谈，咏歌击节，旁若无人，明日盛传都下。既而王自云南罢官旋里，朱为两淮运使，闻姬传归，三人者相约复聚于扬州。朱特修书院梅花岭侧，一夕植梅五百株，延姬传主讲席，即梅花书院所自始（按：江阴亦有梅花书院，在君山顶）。</p>
+<p>　　◎袁子才行事暗与古合</p>
+<p>　　袁简斋先生一生不言释氏，每游寺中，僧人辄请拜佛，先生以为可厌。乃自书五言四句于扇头云：“逢僧必作礼，见佛我不拜。拜佛佛无知，礼僧僧见在。”似深通佛法者。又，先生一生不讲《说文》，一日宴会，家人上羊肉，客有不食者，先生曰：“此物是味中最美，诸公何以不食耶？试看古人造字之由，美字从羊，鲜字从羊，善字从羊，羹字从羊，即吉祥字亦从羊，羊即祥也。”满座大笑，似又深通《说文》者。皆可以开发人之心思。</p>
+<p>　　◎潘次耕学行</p>
+<p>　　潘次耕耒，幼时与人赌记，取历日试之，首尾过目，不遗一字。徐俟斋没，无尺寸之产，举孀妇孤孙以托，次耕恤之终其身。</p>
+<p>　　◎张文端养心法</p>
+<p>　　桐城张文端尝云：“五六年来得一法，一身五官百骸，听其与忧喜烦苦相缠绵，独守方寸灵府之地，制为一城，坚闭四门，不许忧喜、荣辱、进退、升沉、劳苦、生死、得失一切之念，阑入其中。或稍疏虞，打入片刻，即忙驱逐，仍前坚守。若此外之声音笑貌，惟有听其波委云属，与忧喜相浮沉而已。更有安心一法，非理事决不做，费力挽回事决不做，败坏生平、不可告人事决不做。衙门中事一切因物付物，一事当前，只往稳处想，不将迎于事前，不留滞于事后，用以每卧辄酣，当食辄饱，视斗室如千岩万壑。烛下浊酒一杯，以解饥劬；清琴一曲，以调心气。此则一二年来之又一进境，较之昔时急于进退，以致形神交困者，则差胜也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16138.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16140.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·人谋下·监才篇_古诗文网
+</title>
+<meta content="经曰：人禀元气所生，阴阳所成。淳和平淡，元气也；聪明俊杰，阴阳也。淳和不知权变，聪明不知至道。夫人柔顺安恕，失於断决，可与循节，难与权宜。强悍刚猛，失於猜忌，可与涉难，难与持守。贞" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16008.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>人谋下·监才篇</b></span>
+<a href="javascript:PlayBookv(16008)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16008" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16008" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　经曰：人禀元气所生，阴阳所成。淳和平淡，元气也；聪明俊杰，阴阳也。淳和不知权变，聪明不知至道。夫人柔顺安恕，失於断决，可与循节，难与权宜。强悍刚猛，失於猜忌，可与涉难，难与持守。贞良畏慎，失於狐疑，可与乐成，难与谋始。清介廉洁，失於局执，可与立节，难与通变。韬晦沉静，失於迟回，可与深虑，难与应捷。</p>
+<p>　　夫聪明秀出之谓英，胆力过人之谓雄。英者，智也；雄者，力也。英不能果敢，雄不能智谋，故英得雄而行，雄得英而成。</p>
+<p>　　夫人有八性不同，仁义、忠信、智勇、贪愚。仁者好施，义者好亲，忠者好直，信者好守，智者好谋，勇者好决，贪者好取，愚者好矜。人君合於仁义，则天下亲；合於忠信，则四海宾；合於智勇，则诸侯臣；合於贪愚，则制於人。仁义可以谋纵，智勇可以谋横；纵成者王，横成者伯。王伯之道不在兵强士勇之际，而在仁义智勇之间，此亦偏才未足以言大将军。</p>
+<p>　　若夫能柔能刚，能翕能张，能英而有勇，能雄而有谋，圆而能转，环而无端，智周乎万物，而道济於天下！此曰通才。可以为大将军矣。故曰：「将者，国之辅。辅周则国强，辅隙则国弱，是谓人之司命、国家安危之主，不可不察也。」明主所以择人者，阅其才通而周监，其貌厚而贵；察其心贞而明，居高而远望，徐视而审听，神其形，聚其精，若山之高不可极，若泉之深不可测。然後审其贤愚，以言辞；择其智勇，以任事，乃可任之也。夫择圣以道，择贤以德，择智以谋，择勇以力，择贪以利，择奸以隙，择愚以危。事或同而观其道，或异而观其德，或权变而观其谋，或攻取而观其勇，或货财而观其利，或捭阖而观其间，或恐惧而观其安危。故曰：欲求其来，先察其往；欲求其古，先察其今。先察而任者昌，先任而察者亡。</p>
+<p>　　昔市偷自鬻於晋，晋察而用之，胜楚。伊尹自鬻於汤，汤察而用之，放桀。智能之士，不在远近。仁人不因困厄，无以广其德；智士不因时弃，无以举其功。王者不因绝亡，无以立其义；霸者不因强敌，无以遗其患。明主任人，不失其能；直士举贤，不离於口。无万人之智者，不可据於万人之上。故曰：「不知军中之事，而同军中之政者，则军士惑矣。不知三军之权，而同三军之任者，则军士疑矣。三军既惑且疑，则诸侯之难至矣。」夫如是，则君不虚王，臣不虚贵。所谓君道知使臣，臣术知事君者。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16007.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16009.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

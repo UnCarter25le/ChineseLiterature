@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+幼学琼林·卷二·祖孙父子_古诗文网
+</title>
+<meta content="何谓五伦？君臣、父子、兄弟、夫妇、朋友；何谓九族？高、曾、祖、考、已身、子、孙、曾、玄。始祖曰鼻祖，远孙曰耳孙。父子创造，曰肯构肯堂；父子俱贤，曰是父是子。祖称王父，父曰严君。父母" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5491.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3791" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·祖孙父子</b></span>
+<a href="javascript:PlayBookv(5491)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5491" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3791)" id="leftbtn3791" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5491" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%a8%8b%e7%99%bb%e5%90%89">程登吉</a></p>
+<div class="contson">
+<p>　　何谓五伦？君臣、父子、兄弟、夫妇、朋友；何谓九族？高、曾、祖、考、已身、子、孙、曾、玄。始祖曰鼻祖，远孙曰耳孙。父子创造，曰肯构肯堂；父子俱贤，曰是父是子。祖称王父，父曰严君。父母俱存，谓之椿萱并茂；子孙发达，谓之兰桂腾芳。</p>
+<p>　　桥木高而仰，似父之道；梓木低而俯，如子之卑。不痴不聋，不作阿家阿翁；得亲顺亲，方可为人为子。盖父愆，名为千蛊；育义子，乃曰螟蛉。生子当如孙仲谋，曹操羡孙权之语；生子须如李亚子，朱温叹存勖之词。菽水承欢，贫士养亲之乐；义方是训，父亲教子之严。</p>
+<p>　　绍箕裘，子承父业；恢先绪，子振家声。具庆下，父母俱存；重庆下，祖父俱在。燕翼贻谋，乃称裕后之祖；克绳祖武，是称象贤之孙。称人有令子，曰鳞趾呈祥；称宦有贤郎，曰凤毛济美。弑父自立，隋杨广之天性何存；杀子媚君，齐易牙之人心何在。</p>
+<p>　　分甘以娱目，王羲之弄孙自乐；问安惟点颔，郭子仪厥孙最多。和丸教子，仲郢母之贤；戏彩娱亲，老莱子之孝。毛义捧檄，为亲之存；伯俞位杖，因母之老。慈母望子，倚门倚闾；游子思亲，陟岵陟屺。</p>
+<p>　　爱无差等，曰兄子如邻子；分有相同，曰吾翁即若翁。长男为主器，令子可克家。子光前曰充闾，子过父曰跨灶。宁馨英畏，皆是羡人之儿；国器掌珠，悉是称人之子。可爱者子孙之多，若螽斯之蛰蛰；堪羡者后人之盛，如瓜瓞之绵绵。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5490.aspx">上一章</a>
+<a href="/guwen/book_70.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5492.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3791" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

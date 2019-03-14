@@ -1,0 +1,90 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷二·周宗建_古诗文网
+</title>
+<meta content="周宗建，字来玉，号季侯，吴江人。万历四十一年癸丑进士。初授武康知县，升福建道御史，巡按湖广，及公入台即劾客氏。客睨魏而叹，旁有闻者。拍手舞，谓生富贵乃在此，谋中之传旨杖八十。壬戌秋" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13493.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·周宗建</b></span>
+<a href="javascript:PlayBookv(13493)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13493" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13493" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　周宗建，字来玉，号季侯，吴江人。万历四十一年癸丑进士。初授武康知县，升福建道御史，巡按湖广，及公入台即劾客氏。客睨魏而叹，旁有闻者。拍手舞，谓生富贵乃在此，谋中之传旨杖八十。壬戌秋，京师久旱，圣上祈祷，忽而雨继以雹，人以圣德格天称贺。公独谓雨后大雹，殊属灾异，因疏魏忠贤目不识一丁，岂复谙其大义等语。忠贤大恨，于文华殿詈骂，摘一丁不识两语嚣诟。声达御听。初拟杖，叶向高婉解之。三拟杖，而三免。最后与郭巩讦奏，复侵忠贤。是时，犹幸福清诸臣在事。止于夺俸，及其按楚，又劾冯铨之父冯盛明，铨甚恨焉。曹钦承乃铨之私人，亦珰之义子诬以无影之事，遂至诏狱。许显纯讯问，时棰楚较众更毒，公偃卧不能出声，前朝下狱，缙绅尚以优待，至此显纯坐镇抚堂，张拳睁眼，以犬豕骂之。曰此时尚能说老爷不识一丁否？大狱既成，御史王心一诣朝房，以公议责铨，欲其开释。铨声色俱厉，曰宗建不宜言郭巩通内。心一含泪而出。珰命钉以铁钉，不死，复令着锦衣而以沸汤浇之，顷刻皮肤卷烂。赤肉满身婉转两日而死，追赃数千，一贫如洗，府县为某立簿募缘，未了其半。思庙立，蠲其坐赃，仍给五百金，以昭悯恤，赠太仆寺卿，荫子庭祚，入监读书。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13492.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13494.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷二·西湖西路·北高峰_古诗文网
+</title>
+<meta content="北高峰在灵隐寺后，石磴数百级，曲折三十六湾。上有华光庙，以祀五圣。山半有马明王庙，春日祈蚕者咸往焉。峰顶浮屠七级，唐天宝中建，会昌中毁；钱武肃王修复之，宋咸淳七年复毁。此地群山屏绕" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18424.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·西湖西路·北高峰</b></span>
+<a href="javascript:PlayBookv(18424)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18424" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18424" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　北高峰在灵隐寺后，石磴数百级，曲折三十六湾。上有华光庙，以祀五圣。山半有马明王庙，春日祈蚕者咸往焉。峰顶浮屠七级，唐天宝中建，会昌中毁；钱武肃王修复之，宋咸淳七年复毁。此地群山屏绕，湖水镜涵，由上视下，歌舫渔舟，若鸥凫出没烟波，远而益微，仅规其影。西望罗刹江，若匹练新濯，遥接海色，茫茫无际。张公亮有句：“江气白分海气合，吴山青尽越山来。”诗中有画。郡城正值江湖之间，委蛇曲折，左右映带，屋宇鳞次，竹木云蓊，郁郁葱葱，凤舞龙盘，真有王气蓬勃。山麓有无着禅师塔。师名文喜，唐肃宗时人也，瘗骨于此。韩?胄取为葬地，启其塔，有陶龛焉。容色如生，发垂至肩，指爪盘屈绕身，舍利数百粒，三日不坏，竟荼毗之。</p>
+<p>　　苏轼《游灵隐高峰塔》诗：</p>
+<p>　　言游高峰塔，蓐食始野装。火云秋未衰，及此初旦凉。</p>
+<p>　　雾霏岩谷暗，日出草木香。嘉我同来人，又便云水乡。</p>
+<p>　　相劝小举足，前路高且长。古松攀龙蛇，怪石坐牛羊。</p>
+<p>　　渐闻钟馨音，飞鸟皆下翔。入门空无有，云海浩茫茫。</p>
+<p>　　惟见聋道人，老病时绝粮。问年笑不答，但指穴梨床。</p>
+<p>　　心知不复来，欲归更彷徨。赠别留匹布，今岁天早霜。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18423.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18425.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

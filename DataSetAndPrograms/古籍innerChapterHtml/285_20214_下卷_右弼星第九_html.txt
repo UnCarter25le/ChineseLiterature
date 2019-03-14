@@ -1,0 +1,154 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+撼龙经·下卷·右弼星第九_古诗文网
+</title>
+<meta content="弼星本来无正形，形随八星高低生。要识弼星正形处，八星断处隐藏形。隐藏是形名隐曜，此是弼星真要妙。抛梭马迹线如丝，蜘蛛过水上滩鱼。惊蛇入草失行踪，断脉断迹寻来无。每自随星作过脉，脉是" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20214.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>下卷·右弼星第九</b></span>
+<a href="javascript:PlayBookv(20214)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20214" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20214" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%a8%e7%ad%a0%e6%9d%be">杨筠松</a></p>
+<div class="contson">
+<p>　　弼星本来无正形，形随八星高低生。要识弼星正形处，八星断处隐藏形。</p>
+<p>　　隐藏是形名隐曜，此是弼星真要妙。抛梭马迹线如丝，蜘蛛过水上滩鱼。</p>
+<p>　　惊蛇入草失行踪，断脉断迹寻来无。每自随星作过脉，脉是尊星名右弼。</p>
+<p>　　左为辅星右弼星，左右随龙身上行。行龙之时有辅弼，变换随龙看踪迹。</p>
+<p>　　君如识得右弼星，每到垣中多失踪。剥龙失脉失踪时，地上朱弦琴背觅。</p>
+<p>　　若识弼星隐曜宫，处处观来皆是吉。此星多吉少傍凶，凶盖为藏形本无。</p>
+<p>　　藏形之时形藏煞，却是地中暗来脉。北地平洋千百程，不然彼地都是弼。</p>
+<p>　　坪中还有水流坡，高水一寸即是阿。只为时师眼力浅，到彼茫然无奈何。</p>
+<p>　　便云无处寻踪迹，直到有山方认得。如此之人岂可言，有穴在平原自失。</p>
+<p>　　只来山上觅龙虎，又要公头始云吉。不知山穷落平处，穴在平中贵无敌。</p>
+<p>　　痴师误了几多人，要道葬埋要卑湿。不如穴在水中者，更是难凭怕泉积。</p>
+<p>　　盖缘水涨在中央，水退即同干地方。且土两淮平似掌，也有军州落巢沥。</p>
+<p>　　也有英雄在彼中，岂无坟墓玉宫室。只将水注与水流，两水夹流是龙脊。</p>
+<p>　　非惟弼曜在其中，八曜入平皆有踪。前篇有时说平处，平里贪狼皆一同。</p>
+<p>　　时师识尽真龙脉，方知富贵与兴隆。围龙忽然拖长脚，恐是鬼龙如覆杓。</p>
+<p>　　覆箕覆掌是鬼龙，漫来此处说真踪。请君细看前头穴，莫要参前失后空。</p>
+<p>　　问君如何知我落，看他尾后园峰作。问君如何知我行，尾星摇动不曾停。</p>
+<p>　　前官后鬼须细辨，鬼克我身居后面。官星克我在前朝，此是龙家官鬼现。</p>
+<p>　　真龙落处阴阳乱，五行官鬼无相战。水龙剥作火龙出，鬼在后头官出面。</p>
+<p>　　坎山来龙作午丁，却把地罗差似转。此是阴阳论五行，不似龙家官鬼辨。</p>
+<p>　　龙家不要论五行，且从龙上看分踭。踭龙夺脉是鬼气，鬼气不归龙尚行。</p>
+<p>　　大抵真龙无鬼山，有鬼不出半里间。横龙出穴必有鬼，送跳翻身穴后环。</p>
+<p>　　鬼星若长夺我气，鬼短贴身如抱拦。问君如何谓之鬼，主山背后撑者是。</p>
+<p>　　分枝劈脉不回头，夺我正身少全气。真龙穴后如有鬼，山短枝长为雉尾。</p>
+<p>　　此是真龙穴后星，星辰也有尖园体。正龙穴后若有鬼，双双回头来护卫。</p>
+<p>　　若不回头卫本身，此是空亡歇灭地。问君何者是空亡，穴后卷空仰瓦势。</p>
+<p>　　便从鬼上细寻觅，鬼山星峰少收拾。真龙身上护卫多，山山多情来拱揖。</p>
+<p>　　护卫贴体不敢离，中有泉池暗流入。要识真龙鬼山短，缘有缠龙在后段。</p>
+<p>　　即有缠龙贴护身，不许鬼山空散漫。鬼山直去投江河，此龙缠护散乱多。</p>
+<p>　　如戈如矛乱走去，包裹无由奈他何。龙若无缠又无送，纵有真龙不堪用。</p>
+<p>　　护缠多爱到穴前，三重五重福绵延。一重护卫一代富，护卫十重宰相地。</p>
+<p>　　两重也作典专城，一重只出承辅尉。鬼山亦自有真形，形随三吉辅弼生。</p>
+<p>　　九星皆有鬼形样，不类本身不入相。贪狼鬼星必尖小，巨门鬼星枝叶少。</p>
+<p>　　多作园峰覆勺形，撑住在后最为妙。巨为坠珠玉枕形，贪作天梯背后生。</p>
+<p>　　一层一级渐低小，虽然有 脚无横行。武曲多为小横岭，托后如屏玉几正。</p>
+<p>　　弼星作鬼如围屏，或从龙虎后横生。横生瓜瓠抱穴后，金斗玉印盘龙形。</p>
+<p>　　辅星多为独节鬼，三对平如写王字。三对两对相并行，曲转护身皆有意。</p>
+<p>　　破禄廉文本是鬼，不必问他穴后星。破禄廉文多作关，近关大阔为散关。</p>
+<p>　　关门定局有大小，破禄二星多外拦。禄存无禄作神坛，破军不破为近关。</p>
+<p>　　善论大地论关局，关局大小水口山。鬼山多向横龙作，正龙多是平地落。</p>
+<p>　　平地多如蜈蚣行，脚长便如桡棹行。停棹向前穴即近，拨棹向后龙未停。</p>
+<p>　　桡棹向前忽峰起，定有真龙居此地。只看护托回转时，朝揖在前拜真气。</p>
+<p>　　大抵九星皆有鬼，相类相如各有四。四九三十六鬼形，识鬼便是识龙精。</p>
+<p>　　问君如何谓之鬼，主山后面有余气。问君如何谓之官，朝山背后逆拖山。</p>
+<p>　　此是朝山有余气，与我穴后鬼一般。官星在前鬼在后，官要回头鬼要就。</p>
+<p>　　官不回头鬼不就，只是虚抛无落首。龙虎背后有衣裙，此是关拦拜舞袖。</p>
+<p>　　虽然有袖穴不见，官不离乡任何受。真气聚处看明堂，明堂里面要平阳。</p>
+<p>　　明堂里面停潴水，第一宽平始为贵。侧裂倾摧撞射面，急泻崩腾非吉地。</p>
+<p>　　明堂里面分公位，公位真在明堂里。请君未断左右山，先向明堂观水势。</p>
+<p>　　明堂也有如锅底，横号金船龙虎里。直号天心曲御街，焉蹄直兮有曲势。</p>
+<p>　　明堂要似莲花水，荡归左位长公起。荡归右位小公兴，若居中心诸位贵。</p>
+<p>　　大抵明堂横为贵，其次之元关锁是。荡荡直去不回头，虽似御街非吉地。</p>
+<p>　　明堂要似衣领会，左钮右缋方为贵。或是田堘与山脚，如此关拦真可喜。</p>
+<p>　　忽然前面无关拦，水劫风吹非吉利。请君来此细消详，更分后鬼与前官。</p>
+<p>　　左胁生来执笏样，右胁生来鱼袋形。方长为象短为水，小乃是金肥是银。</p>
+<p>　　看此样形寻局势，中间乳穴是为真。赐带鬼形如瓜瓠，二条连移左转去。</p>
+<p>　　回头贴来侍从官，前案横交金玉盘。玉盘赐将金盘相，左右是人心眼上。</p>
+<p>　　重数如多赐亦多，一重未许金犀磨。二重是犀三金带，横转穴前官转大。</p>
+<p>　　子孙三代垂鱼袋，右上三鱼虎身外。三代子孙袋赐金，三重横盘龙外寻。</p>
+<p>　　四重既是赐金玉，重数如多福泽深。此是龙家赐带鬼，莫将龙向左边临。</p>
+<p>　　玉几方屏武曲形，身后是几几外屏。几屏须要问先后，未有屏先几后生。</p>
+<p>　　几屏如在后头托，此是公侯将相庭。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20213.aspx">上一章</a>
+<a href="/guwen/book_285.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20215.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

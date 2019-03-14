@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·成公·成公十一年_古诗文网
+</title>
+<meta content="【经】十有一年春王三月，公至自晋。晋侯使郤犨来聘，己丑，及郤犨盟。夏，季孙行父如晋。秋，叔孙侨如如齐。冬十月。 【传】十一年春，王三月，公至自晋。晋人以公为贰于楚，故止公。公请受盟" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2924.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1453" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>成公·成公十一年</b></span>
+<a href="javascript:PlayBookv(2924)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2924" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1453)" id="leftbtn1453" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2924" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】十有一年春王三月，公至自晋。晋侯使郤犨来聘，己丑，及郤犨盟。夏，季孙行父如晋。秋，叔孙侨如如齐。冬十月。 </p>
+<p>　　【传】十一年春，王三月，公至自晋。晋人以公为贰于楚，故止公。公请受盟，而后使归。 </p>
+<p>　　郤犨来聘，且莅盟。 </p>
+<p>　　声伯之母不聘，穆姜曰：「吾不以妾为姒。」生声伯而出之，嫁于齐管于奚。生二子而寡，以归声伯。声伯以其外弟为大夫，而嫁其外妹于施孝叔。郤犨来聘，求妇于声伯。声伯夺施氏妇以与之。妇人曰：「鸟兽犹不失俪，子将若何？」曰：「吾不能死亡。」妇人遂行，生二子于郤氏。郤氏亡，晋人归之施氏，施氏逆诸河，沉其二子。妇人怒曰：「己不能庇其伉俪而亡之，又不能字人之孤而杀之，将何以终？」遂誓施氏。 </p>
+<p>　　夏，季文子如晋报聘，且莅盟也。 </p>
+<p>　　周公楚恶惠、襄之逼也，且与伯与争政，不胜，怒而出。及阳樊，王使刘子复之，盟于鄄而入。三日，复出奔晋。 </p>
+<p>　　秋，宣伯聘于齐，以修前好。 </p>
+<p>　　晋郤至与周争鄇田，王命刘康公、单襄公讼诸晋。郤至曰：「温，吾故也，故不敢失。」刘子、单子曰：「昔周克商，使诸侯抚封，苏忿生以温为司寇，与檀伯达封于河。苏氏即狄，又不能于狄而奔卫。襄王劳文公而赐之温，狐氏、阳氏先处之，而后及子。若治其故，则王官之邑也，子安得之？」晋侯使郤至勿敢争。 </p>
+<p>　　宋华元善于令尹子重，又善于栾武子。闻楚人既许晋籴伐成，而使归覆命矣。冬，华元如楚，遂如晋，合晋、楚之成。 </p>
+<p>　　秦、晋为成，将会于令狐。晋侯先至焉，秦伯不肯涉河，次于王城，使史颗盟晋侯于河东。晋郤犨盟秦伯于河西。范文子曰：「是盟也何益？齐盟，所以质信也。会所，信之始也。始之不从，其何质乎？」秦伯归而背晋成。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2923.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2925.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1453" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

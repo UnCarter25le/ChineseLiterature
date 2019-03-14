@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷五·西湖外景·紫阳庵_古诗文网
+</title>
+<meta content="紫阳庵在瑞石山。其山秀石玲珑，岩窦窈窕。宋嘉定间，邑人胡杰居此。元至元间，道士徐洞阳得之，改为紫阳庵。其徒丁野鹤修炼于此。一日，召其妻王守素入山，付偈云：“懒散六十年，妙用无人识。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18477.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷五·西湖外景·紫阳庵</b></span>
+<a href="javascript:PlayBookv(18477)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18477" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18477" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　紫阳庵在瑞石山。其山秀石玲珑，岩窦窈窕。宋嘉定间，邑人胡杰居此。元至元间，道士徐洞阳得之，改为紫阳庵。其徒丁野鹤修炼于此。一日，召其妻王守素入山，付偈云：“懒散六十年，妙用无人识。顺逆俱两忘，虚空镇长寂。”遂抱膝而逝。守素乃奉尸而漆之，端坐如生。妻亦束发为女冠，不下山者二十年。今野鹤真身在殿亭之右。亭中名贤留题甚众。</p>
+<p>　　其庵久废，明正统甲子，道士范应虚重建，聂大年为记。万历三十一年，布政史继辰范涞构空翠亭，撰《紫阳仙迹记》，绘其图景并名公诗，并勒石亭中。</p>
+<p>　　李流芳《题紫阳庵画》：</p>
+<p>　　南山自南高峰逦迤而至城中之吴山，石皆奇秀一色，如龙井、烟霞、南屏、万松、慈云、胜果、紫阳，一岩一壁，皆可累日盘桓。而紫阳精巧，俯仰位置，一一如人意中，尤奇也。余己亥岁与淑士同游，后数至湖上，以畏入城市，多放浪两山间，独与紫阳隔阔。辛亥偕方回访友云居，乃复一至，盖不见十余年，所往来于胸中者，竟失之矣。山水绝胜处，每恍惚不自持，强欲捉之，纵之旋去。此味不可与不知痛痒者９６２西湖外景?紫阳庵道也。余画紫阳时，又失紫阳矣。岂独紫阳哉，凡山水皆不可画，然不可不画也，存其恍惚而已矣。书之以发孟?一笑。</p>
+<p>　　袁宏道《紫阳宫小记》：</p>
+<p>　　余最怕入城。吴山在城内，以是不得遍观，仅匆匆一过紫阳宫耳。紫阳宫石，玲珑窈窕，变态横出，湖石不足方比，梅花道人一幅活水墨也。奈何辱之郡郭之内，使山林懒僻之人亲近不得，可叹哉。</p>
+<p>　　王稚登《紫阳庵丁真人祠》诗：</p>
+<p>　　丹壑断人行，琪花洞里生。乱崖兼地破，群象逐峰成。</p>
+<p>　　一石一云气，无松无水声。丁生化鹤处，蜕骨不胜情。</p>
+<p>　　董其昌《题紫阳庵》诗：</p>
+<p>　　初邻尘市点灵峰，径转幽深绀殿重。</p>
+<p>　　古洞经春犹闷雪，危?百尺有欹松。</p>
+<p>　　清猿静叫空坛月，归鹤愁闻故国钟。</p>
+<p>　　石髓年来成汗漫，登临须愧羽人踪。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18476.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

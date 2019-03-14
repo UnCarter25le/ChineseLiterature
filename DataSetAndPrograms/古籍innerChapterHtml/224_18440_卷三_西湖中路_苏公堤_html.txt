@@ -1,0 +1,128 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷三·西湖中路·苏公堤_古诗文网
+</title>
+<meta content="杭州有西湖，颍上亦有西湖，皆为名胜，而东坡连守二郡。其初得颍，颍人曰：“内翰只消游湖中，便可以了公事。”秦太虚因作一绝云：“十里荷花菡萏初，我公身至有西湖。欲将公事湖中了，见说官闲" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18440.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·西湖中路·苏公堤</b></span>
+<a href="javascript:PlayBookv(18440)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18440" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18440" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　杭州有西湖，颍上亦有西湖，皆为名胜，而东坡连守二郡。其初得颍，颍人曰：“内翰只消游湖中，便可以了公事。”</p>
+<p>　　秦太虚因作一绝云：“十里荷花菡萏初，我公身至有西湖。欲将公事湖中了，见说官闲事亦无。”后东坡到颍，有谢执政启云：“入参两禁，每玷北扉之荣；出典二帮，迭为西湖之长。”</p>
+<p>　　故其在杭，请浚西湖，聚葑泥，筑长堤，自南之北，横截湖中，遂名苏公堤。夹植桃柳，中为六桥。南渡之后，鼓吹楼船，颇极华丽。后以湖水漱啮，堤渐凌夷。入明，成化以前，里湖尽为民业，六桥水流如线。正德三年，郡守杨孟瑛辟之，西抵北新堤为界，增益苏堤，高二丈，阔五丈三尺，增建里湖六桥，列种万柳，顿复旧观。久之，柳败而稀，堤亦就圮。</p>
+<p>　　嘉靖十二年，县令王钅弋令犯罪轻者种桃柳为赎，红紫灿烂，错杂如锦。后以兵火，砍伐殆尽。万历二年，盐运使朱炳如复植杨柳，又复灿然。迨至崇祯初年，堤上树皆合抱。太守刘梦谦与士夫陈生甫辈时至。二月，作胜会于苏堤。城中括羊角灯、纱灯几万盏，遍挂桃柳树上，下以红毡铺地，冶童名妓，纵饮高歌。夜来万蜡齐烧，光明如昼。湖中遥望堤上万蜡，湖影倍之。萧管笙歌，沉沉昧旦。传之京师，太守镌级。</p>
+<p>　　因想东坡守杭之日，春时每遇休暇，必约客湖上，早食于山水佳处。饭毕，每客一舟，令队长一人，各领数妓，任其所之。晡后鸣锣集之，复会望湖亭或竹阁，极欢而罢。至一、二鼓，夜市犹未散，列烛以归。城中士女夹道云集而观之。此真旷古风流，熙世乐事，不可复追也已。</p>
+<p>　　张京元《苏堤小记》：</p>
+<p>　　苏堤度六桥，堤两旁尽种桃柳，萧萧摇落。想二三月，柳叶桃花，游人阗塞，不若此时之为清胜。</p>
+<p>　　李流芳《题两峰罢雾图》：</p>
+<p>　　三桥龙王堂，望西湖诸山，颇尽其胜。烟林雾障，映带层叠；淡描浓抹，顷刻百态。非董、巨妙笔，不足以发其气韵。余在小筑时，呼小舟桨至堤上，纵步看山，领略最多。然动笔便不似甚矣，气韵之难言也。予友程孟?《湖上题画》诗云：“风堤露塔欲分明，阁雨萦阴两未成。我试画君团扇上，船窗含墨信风行。”此景此诗，此人此画，俱属可想。癸丑八月清晖阁题。</p>
+<p>　　苏轼《筑堤》诗：</p>
+<p>　　六桥横截天汉上，北山始与南屏通。</p>
+<p>　　忽惊二十五万丈，老葑席卷苍烟空。</p>
+<p>　　昔日珠楼拥翠钿，女墙犹在草芊芊。</p>
+<p>　　东风第六桥边柳，不见黄鹂见杜鹃。</p>
+<p>　　又诗：</p>
+<p>　　惠勤、惠思皆居孤山。苏子ヘ郡，以腊日访之，作诗云：</p>
+<p>　　天欲雪时云满湖，楼台明灭山有无。</p>
+<p>　　水清石出鱼可数，林深无人鸟相呼。</p>
+<p>　　腊月不归对妻孥，名寻道人实自娱。</p>
+<p>　　道人之居在何许，宝云山前路盘纡。</p>
+<p>　　孤山孤绝谁肯庐，道人有道山不孤。</p>
+<p>　　纸窗竹屋深自暖，拥褐坐睡依团蒲。</p>
+<p>　　天寒路远愁仆夫，整驾催归及未晡。</p>
+<p>　　出山回望云水合，但见野鹤盘浮屠。</p>
+<p>　　兹游淡泊欢有余，到家恍如梦蘧蘧。</p>
+<p>　　作诗火急追亡逋，清景一失后难摹。</p>
+<p>　　王世贞《泛湖度六桥堤》诗：</p>
+<p>　　拂?莺啼出谷频，长堤夭矫跨苍?。</p>
+<p>　　六桥天阔争虹影，五马飙开散曲尘。</p>
+<p>　　碧水乍摇如转盼，青山初沐竞舒颦。</p>
+<p>　　莫轻杨柳无情思，谁是风流白舍人？</p>
+<p>　　李鉴龙《西湖》诗：</p>
+<p>　　花柳曾闻暗六桥，近来游舫甚萧条。</p>
+<p>　　折残画阁堤边失，倒入山光波上摇。</p>
+<p>　　秋水湖心眸一点，夜潭塔影黛双描。</p>
+<p>　　兰亭感慨今移此，痴对雷峰话寂寥。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18439.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18441.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

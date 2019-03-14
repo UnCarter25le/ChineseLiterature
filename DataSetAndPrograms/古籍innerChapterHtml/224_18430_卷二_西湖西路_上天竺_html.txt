@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+西湖梦寻·卷二·西湖西路·上天竺_古诗文网
+</title>
+<meta content="上天竺，晋天福间，僧道翊结茅庵于此。一夕，见毫光发于前涧，晚视之，得一奇木，刻画观音大士像。后汉乾?间，有僧从勋自洛阳持古佛舍利来，置顶上，妙相庄严，端正殊好，昼放白光，士民崇信。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18430.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·西湖西路·上天竺</b></span>
+<a href="javascript:PlayBookv(18430)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18430" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18430" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　上天竺，晋天福间，僧道翊结茅庵于此。一夕，见毫光发于前涧，晚视之，得一奇木，刻画观音大士像。后汉乾?间，有僧从勋自洛阳持古佛舍利来，置顶上，妙相庄严，端正殊好，昼放白光，士民崇信。钱武肃王常梦白衣人求葺其居，寤而有感，遂建天竺观音看经院。宋咸平中，浙西久旱，郡守张去华率僚属具幡幢华盖迎请下山，而澍雨沾足。自是有祷辄应，而雨每滂薄不休，世传烂稻龙王焉。南渡时，施舍珍宝，有日月珠、鬼谷珠、猫睛等，虽大内亦所罕见。嘉?中，沈文通治郡，谓观音以声闻宣佛力，非禅那所居，乃以教易禅，令僧元净号辨才者主之。凿山筑室，几至万础。治平中，郡守蔡襄奏赐“灵感观音”殿额。辨才乃益凿前山，辟地二十有五寻，殿加重檐。建咸四年，兀术入临安，高宗航海。兀术至天竺，见观音像喜之，乃载后车，与《大藏经》并徙而北。时有比丘知完者，率其徒以从。至燕，舍于都城之西南五里，曰玉河乡，建寺奉之。天竺僧乃重以他木刻肖前像，诡曰：“藏之井中，今方出现”，其实并非前像也。乾道三年，建十六观堂，七年，改院为寺，门匾皆御书。庆元三年，改天台教寺。元至元三年毁。五年，僧庆思重建，仍改天竺教寺。元末毁。明洪武初重建，万历二十七年重修。崇祯末年又毁，清初又建。时普陀路绝，天下进香者皆近就天竺，香火之盛，当甲东南。二月十九日，男女宿山之多，殿内外无下足处，与南海潮音寺正等。</p>
+<p>　　张京元《上天竺小记》：</p>
+<p>　　天竺两山相夹，回合若迷。山石俱骨立，石间更绕松篁。</p>
+<p>　　过下竺，诸僧鸣钟肃客，寺荒落不堪入。中竺如之。至上竺，山峦环抱，风气甚固，望之亦幽致。</p>
+<p>　　萧士玮《上天竺小记》：</p>
+<p>　　上天竺，叠嶂四周，中忽平旷，巡览迎眺，惊无归路。余知身之入而不知其所由入也。从天竺抵龙井，曲涧茂林，处处有之。一片云、神运石，风气遒逸，神明刻露。选石得此，亦娶妻得姜矣。泉色绀碧，味淡远，与他泉迥矣。</p>
+<p>　　苏轼《记天竺诗引》：</p>
+<p>　　轼年十二，先君自虔州归，谓予言：“近城山中天竺寺，有乐天亲书诗云：‘一山门作两山门，两寺原从一寺分。东涧水流西涧水，南山云起北山云。前台花发后台见，上界钟鸣下界闻。遥想吾师行道处，天香桂子落纷纷。’笔势奇逸，墨迹如新。”今四十七年，予来访之，则诗已亡，有刻石在耳。</p>
+<p>　　感涕不已，而作是诗。</p>
+<p>　　又《赠上天竺辨才禅师》诗：</p>
+<p>　　南北一山门，上下两天竺。中有老法师，瘦长如鹳鹄。</p>
+<p>　　不知修何行，碧眼照山谷。见之自清凉，洗尽烦恼毒。</p>
+<p>　　坐令一都会，方丈礼白足。我有长头儿，角颊峙犀玉。</p>
+<p>　　四岁不知行，抱负烦背腹。师来为摩顶，起走趁奔鹿。</p>
+<p>　　乃知戒律中，妙用谢羁束。何必言法华，佯狂啖鱼肉。</p>
+<p>　　张岱《天竺柱对》：</p>
+<p>　　佛亦爱临安，法像自北朝留住。</p>
+<p>　　山皆学灵鹫，洛伽从南海飞来。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18429.aspx">上一章</a>
+<a href="/guwen/book_224.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18431.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

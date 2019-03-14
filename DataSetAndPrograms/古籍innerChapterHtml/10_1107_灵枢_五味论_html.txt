@@ -1,0 +1,99 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·五味论_古诗文网
+</title>
+<meta content="黄帝问于少俞曰：五味入于口也，各有所走，各有所病，酸走筋，多食之，令人癃；咸走血，多食之，令人渴；辛走气，多食之，令人洞心；苦走骨，多食之，令人变呕；甘走肉，多食之，令人挽心。余知" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1107.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left931" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·五味论</b></span>
+<a href="javascript:PlayBookv(1107)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1107" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(931)" id="leftbtn931" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1107" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝问于少俞曰：五味入于口也，各有所走，各有所病，酸走筋，多食之，令人癃；咸走血，多食之，令人渴；辛走气，多食之，令人洞心；苦走骨，多食之，令人变呕；甘走肉，多食之，令人挽心。余知其然也，不知其何由？愿闻其故。少俞答曰：酸入于胃，其气涩以收，上之两焦，弗能出入也，不出即留于胃中，胃中和温，则下注膀胱，膀胱之胞薄以懦，得酸则缩绻，约而不通，水道不行，故癃。阴者，积筋之所终也，故酸入而走筋矣。</p>
+<p>　　黄帝曰：咸走血，多食之，令人渴，何也？少俞曰：咸入于胃；其气上走中焦，注于脉，则血气走之，血与咸相得，则凝，凝则胃中汁注之，注之则胃中竭，竭则咽路焦，故舌本干而善渴。血脉者，中焦之道也，故咸入而走血矣。</p>
+<p>　　黄帝曰：辛走气，多食之，令人洞心，何也？少俞曰：辛入于胃，其气走于上焦，上焦者，受气而营诸阳者也，姜韭之气熏之，营卫之气，不时受之，久留心下，故洞心。辛与气俱行，故辛入而与汗俱出。</p>
+<p>　　黄帝曰：苦走骨，多食之，令人变呕，何也？少俞曰：苦入于胃，五榖之气，皆不能胜苦，苦入下脘，三焦之道，皆闭而不通，故变呕。齿者，骨之所终也，故苦入而走骨，故入而复出，知其走骨也。</p>
+<p>　　黄帝曰：甘走肉，多食之。令人悗心，何也？少俞曰：甘入于胃，其气弱小，不能上至于上焦，而与谷留于胃中者，令人柔润者也，胃柔则缓，缓则，虫动，虫动则令人悗心。其气外通于肉，故甘走肉。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1106.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1108.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right931" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

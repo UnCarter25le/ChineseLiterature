@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+四圣心源·卷八·七窍解·口病根原_古诗文网
+</title>
+<meta content="口病者，足阳明之不降也。脾主肌肉而窍于口，口唇者，肌肉之本也。《素问》语。脾胃同气，脾主升清而胃主降浊，清升浊降，则唇口不病，病者，太阴己土之陷而阳明戊土之逆也。阳明逆则甲木不降而" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18570.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷八·七窍解·口病根原</b></span>
+<a href="javascript:PlayBookv(18570)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18570" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18570" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%85%83%e5%be%a1">黄元御</a></p>
+<div class="contson">
+<p>　　口病者，足阳明之不降也。脾主肌肉而窍于口，口唇者，肌肉之本也。《素问》语。脾胃同气，脾主升清而胃主降浊，清升浊降，则唇口不病，病者，太阴己土之陷而阳明戊土之逆也。阳明逆则甲木不降而相火上炎，于是唇口疼痛而热肿，诸病生焉。</p>
+<p>　　脾胃不病，则口中清和而无味。木郁则酸，火郁则苦，金郁则辛，水郁则咸，自郁则甘。口生五味者，五藏之郁，而不得土气，则味不自生，以五味司于脾土也。心主五臭，入肾为腐，心为火而肾为水，土者水火之中气，水泛于土则湿生，火郁于土则热作，湿热熏蒸，则口气腐秽而臭恶。</p>
+<p>　　太阴以湿土主令，阳明从燥金化气，脾病则陷，胃病则逆。口唇之病，燥热者多，湿寒者少，责在阳明，不在太阴。然阳明上逆而生燥热，半因太阴下陷而病湿寒，清润上焦之燥热，而不助下焦之湿寒，则得之矣。</p>
+<p>　　甘草黄芩汤</p>
+<p>　　甘草二钱　黄芩二钱　茯苓三钱　半夏三钱　石膏三钱</p>
+<p>　　煎半杯，热服。</p>
+<p>　　治湿热熏蒸，口气秽恶者。</p>
+<p>　　贝母元参汤</p>
+<p>　　贝母三钱　元参三钱　甘草二钱　黄芩二钱</p>
+<p>　　煎半杯，热漱，徐咽。</p>
+<p>　　热甚，加黄连、石膏。</p>
+<p>　　治口疮热肿。</p>
+<p>　　桂枝姜苓汤</p>
+<p>　　芍药四钱　桂枝二钱　干姜三钱　甘草二钱　元参三钱　茯苓三钱</p>
+<p>　　煎大半杯，温服。</p>
+<p>　　治脾胃湿寒，胆火上炎，而生口疮者。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18569.aspx">上一章</a>
+<a href="/guwen/book_225.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18571.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

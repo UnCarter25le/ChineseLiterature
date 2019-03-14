@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+剪灯新话·卷一·华亭逢故人记_古诗文网
+</title>
+<meta content="松江士人有全、贾二子者，皆富有文学，豪放自得，嗜酒落魄，不拘小节，每以游侠自任。至正末，张氏居有浙西，松江为属郡。二子来往其间，大言雄辩，旁若无人。豪门叵族，望风承接，惟恐居后。全" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13757.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·华亭逢故人记</b></span>
+<a href="javascript:PlayBookv(13757)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13757" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13757" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9e%bf%e4%bd%91">瞿佑</a></p>
+<div class="contson">
+<p>　　松江士人有全、贾二子者，皆富有文学，豪放自得，嗜酒落魄，不拘小节，每以游侠自任。至正末，张氏居有浙西，松江为属郡。二子来往其间，大言雄辩，旁若无人。豪门叵族，望风承接，惟恐居后。全有诗曰：</p>
+<p>　　华发冲冠感二毛，西风凉透鹣鹴袍。</p>
+<p>　　仰天不敢长嘘气，化作虹霓万丈高。</p>
+<p>　　贾亦有诗曰：</p>
+<p>　　四海干戈未息肩，书生岂合老林泉！</p>
+<p>　　袖中一把龙泉剑，撑拄东南半壁天。</p>
+<p>　　其诗大率类是，人益信其自负。吴元年，国兵围姑苏，未拨。上洋人钱鹤皋起兵援张氏，二子自以严庄、尚让为比，杖策登门，参其谋议，遂陷嘉兴等郡。未几，师溃，皆赴水死。洪武四年。华亭士人石若虚，有故出近郊。素与二子友善，忽遇之于途，随行僮仆救人，气象宛如平昔。迎谓若虚曰：“石君无恙乎？”若虚忘其已死，与之揖让，班荆而坐子野，谈论逾时。全忽慨然长叹曰：“诸葛长民有言：‘贫贱长思富贵，富贵复履危机。’此语非确论。苟慕富贵，危机岂能避？世间宁有扬州鹤耶？丈夫不能流芳百世，亦当遗臭万年。刘黑闼既立为汉东王，临死乃云：‘我本在家锄莱，为高雅贤辈所误至此！’陋哉斯言，足以发千古一笑也！”贾曰：“黑闼何足道！如汉之田横，唐之李密，亦可谓铁中铮铮者也。横始与汉祖俱南面称孤，耻更称臣，逃居诲岛，可以死矣，乃眩于大王小侯之语，行至东都而死。密之起兵，唐祖以书贺之，推为盟主，及兵败入关，乃望以台司见处，其无知识如此！大丈夫死即死矣，何忍向人喉下取气耶？夫韩信建炎汉之业，卒受诛夷；刘文静启晋阳之祚，终加戮辱。彼之功臣尚尔，于他人何有哉！”全曰：“骆宾王佐李敬业起兵，檄武氏之恶，及兵败也，复能优游灵隐，咏桂子天香之句。黄巢扰乱唐室，罪下容诛，至于事败，乃削发被缁，逃遁踪迹，题诗云：‘铁衣著尽著僧衣。’若二人者，身为首恶，而终能脱祸，可谓智术之深矣。”贾笑曰：“审如此，吾辈当愧之矣！”全遽曰：“故人在坠，不必闲论他事，徒增伤感尔。”因解所御绿裘，令仆于近村质酒而饮。酒至，饮数巡，若虚请于二子曰：“二公平日篇什，播在人口，今日之会，可无佳制以记之乎？”于是筹思移时，全诗先成，即吟曰：</p>
+<p>　　几年兵火接天涯，白骨丛中度岁华。</p>
+<p>　　杜宇有冤能泣血，邓攸无子可传家。</p>
+<p>　　当时自诧辽东豕，今日翻成井底蛙。</p>
+<p>　　一片春光谁是主，野花开满蒺藜沙。</p>
+<p>　　贾继诗曰：</p>
+<p>　　漠漠荒郊鸟乱飞，人民城郭叹都非。</p>
+<p>　　沙沉枯骨何须葬，血污游魂不得归。</p>
+<p>　　麦饭无人作寒食，绨袍有泪哭斜晖。</p>
+<p>　　生存零落皆如此，惟恨平生壮志违。</p>
+<p>　　吟已，若虚骇曰：“二公平日吟咏极宕，今日之作，何其哀伤之过，与畴昔大不类耶？”二人相顾无语，但愀然长啸数声。须臾，酒罄，告别而去。行及十数步，阒无所见。若虚大惊，始悟其死久矣。但见林梢烟瞑，岭首日沉，乌啼鹊噪于丛薄之间而已。急投前村酒家，访其历以取质酒之裘视之，则触手纷纷而碎，若蝶翅之抟风焉。若虚借宿酒家，明早急回。其后再下敢经由是路矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13756.aspx">上一章</a>
+<a href="/guwen/book_148.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13758.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

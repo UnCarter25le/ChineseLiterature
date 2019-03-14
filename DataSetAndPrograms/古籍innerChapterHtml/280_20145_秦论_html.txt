@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+何博士备论·秦论_古诗文网
+</title>
+<meta content="兵，有攻有守，善为兵者必知夫攻守之所宜。故以攻则克，以守则固。当攻而守，当守而攻，均败之道也。方天下交臂相与而事秦之强也，秦人出甲以攻诸侯，盖将取之也。图攻以取人之国者，所谓兼敌之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20145.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>秦论</b></span>
+<a href="javascript:PlayBookv(20145)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20145" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20145" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%95%e5%8e%bb%e9%9d%9e">何去非</a></p>
+<div class="contson">
+<p>　　兵，有攻有守，善为兵者必知夫攻守之所宜。故以攻则克，以守则固。当攻而守，当守而攻，均败之道也。方天下交臂相与而事秦之强也，秦人出甲以攻诸侯，盖将取之也。图攻以取人之国者，所谓兼敌之师也。及天下攘袂相率而叛秦之乱也，秦人合卒以拒诸侯，盖将郄人之也。图拒以郄人之兵者，所谓救败之师也。兼敌之师利于转战，救败之师利于固守，兵之常势也。</p>
+<p>　　秦人据崤、函之阻以临山东，自缪公以来常雄诸侯，卒至于并天下而王之，岂其君世贤耶？亦以得乎形便之居故也。二世之乱，天下相与起而亡秦，不三岁而为墟。以二世之不道，顾秦亦足以亡。然而，使其知捐背叛之山东，严兵拒关为自救之计，虽以无道行之，而山西千里之区犹可岁月保也。不知虑此，乃空国之师以属章邯、李由之徒，越关千里以搏寇，而为乡日堂堂兼敌之师，亦已悖矣。方陈胜之首事，而天下豪杰争西向而诛秦也。盖振臂一呼而带甲者百万，举麾一号而下城者数十。又类皆山林倔起之匹夫，其存亡胜败之机取决于一战，其锋至锐也。而章邯之徒不知固守其所以老其师，乃提孤军、弃大险，渡漳逾洛、左驰右鹜，以撄其四合之锋，卒至于败。而沛公之众，扬袖而下控函关。虽二世之乱足以覆宗，天下之势足以夷秦，而其亡遂至于如此之亟者，用兵之罪也。夫秦役其民以从事于天下之日久矣。而其民被二世之毒未深，其勇于公斗、乐于卫上之风声气俗犹在也。而章邯之为兵也，以攻则不足，以守则有余。周文常率百万之师傅于城下矣，章邯三击而三走之，卒杀周文。使其不遂纵以搏敌，而坐关固守为救败之师，关东之土虽已分裂，而全秦未溃也。</p>
+<p>　　或曰：七国之反汉也，议者得罪于吴、楚，以为不知杜成皋之口，而汉将一日过成皋者数十辈，遂至于败亡。今豪杰之叛秦，而罪二世之越关转战何也？嗟夫！务论兵者，不论其逆顺之情与夫利害之势，则为兵亦疏矣。夫秦有可亡之形，而天下之众亦锐于亡秦，是以豪杰之起者因民志也，关东非为秦役矣。汉无可叛之衅，而天下之民无志于负汉，则七国之起非民志矣，天下皆为汉役者也。以不为秦役之关东，则二世安得即其地而疾战其民；以方为汉役之天下，则汉安得不趋其地而疾诛其君。此战守之所以异术也。昔者贾谊、司马迁皆谓：使子婴有庸主之材，仅得中佐，则山西之地可全。而有卒取失言之讥于后世。彼二子者，固非愚于事机者也，亦惜夫秦有可全之势耳。虽然，彼徒知秦有可全之势，而不知至于子婴而秦之事去矣，虽有太公之佐，其如秦何哉？</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20144.aspx">上一章</a>
+<a href="/guwen/book_280.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20146.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

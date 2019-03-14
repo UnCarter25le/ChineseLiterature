@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+清代名人轶事·怜才类·卷一_古诗文网
+</title>
+<meta content="◎韩慕庐先生韩文懿公英，字元少。家故贫，能力学，性嗜酒，有李太白风。其为文也，原本六经，出以典雅，不蹈天崇决裂之习。补博士弟子员，以欠粮三升，为奏销案黜革。旋冒籍嘉定，拔取后，又以" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16183.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>怜才类·卷一</b></span>
+<a href="javascript:PlayBookv(16183)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16183" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16183" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%91%9b%e8%99%9a%e5%ad%98">葛虚存</a></p>
+<div class="contson">
+<p>　　◎韩慕庐先生</p>
+<p>　　韩文懿公英，字元少。家故贫，能力学，性嗜酒，有李太白风。其为文也，原本六经，出以典雅，不蹈天崇决裂之习。补博士弟子员，以欠粮三升，为奏销案黜革。旋冒籍嘉定，拔取后，又以攻讦除名。应吴邑童子试，题“系狂者进取”一句（或云“其在宗庙朝廷”一句），邑宰见其文，以为不通，贴文于照墙，不取。时海寇作乱，苏郡中有驻防兵来守。韩公家居娄门，其屋尽被圈封，为屯兵之所，其装折尚欲著房主办理。</p>
+<p>　　公既无居，益落魄不偶。迨昆山徐大司寇乾学来苏，方夜寝，有门生候于门者，争诵公之文，以为笑柄。徐闻之，急问公姓氏，曰：“此文开风气之先，真盛世元音也。”次早，即命延见，收为门生，遂引入都中。援例中北闱乡榜。康熙癸丑会状连捷，官至大宗伯。噫！韩非徐不足以为师，徐非韩不可以为弟，诚千古知己也。</p>
+<p>　　◎韩慕庐推重朱竹垞</p>
+<p>　　韩慕庐宗伯菼，以诸生被斥。壬子应京兆试，以第一人中式癸丑会状。虚心好学，至老不倦。尝语人云：“吾贵为尚书，宁如秀水朱十，以七品官归田，饭疏饮水，多读数万卷书耶。”</p>
+<p>　　◎朱文端公救舒文襄</p>
+<p>　　乾隆乙亥，阿逆既投诚。舒文襄公赫德时任定边将军，请将其家属分置苏尼特</p>
+<p>　　等近地，以为羁质。纯皇帝大怒，谓其分散骨肉，有伤远人之心，命近侍封刀斩之。朱文端公闻命，排扉而入，请召对，力言人材难得，舒某虽一时过虑，然平日办事勤慎，请援议能之典。上曰：“命已下逾日，恐难追转。”公奏曰：“即命臣子成麟追之。”上可其请。公出，谓其子曰：“追不及，汝勿返也。”成麟故勇往，即于马前割袍前襟，驰骑而往，甫至潼关，卒追前命而归。时傅文忠公告人曰：“朱公诚仁者之勇，是日虽恒百辈，终无济于事也。”</p>
+<p>　　◎纪文达虚心</p>
+<p>　　乾隆丙子，纪文达公以扈从道出古北口，偶见旅壁一诗，剥落过半，中有“一水涨喧人语外，万山青到马蹄前”二句，公奇赏之。壬午顺天乡试，公充同考官，得朱子颖孝纯投诗作贽，则是联在焉。因叹针芥之契，果有夙因。后公出督闽学，严江舟中赋诗云：“山色空淡似烟，参差绿到大江边。斜阳流水推蓬望，处处随人欲上船。”尝语子颖，谓此首实从“万山”句脱胎，人言青出于蓝，今日乃蓝出于青。此固骚坛佳话，亦可见前辈之虚心盛德，不没人长也。</p>
+<p>　　◎裘文达待士</p>
+<p>　　裘文达公奖励后进，凡人一善一长揄扬不置，虽素不识面，隔数十年犹称道不忘。惟闻人背后谤议，必面折之曰：“尔胜他的好处何在？”</p>
+<p>　　◎其二</p>
+<p>　　裘文达公名曰修，江西新建人。公赐宅在内城石虎胡同，构一轩名好春。退直所憩，宾客门下士往来者，于阍人悉不关白，径入此轩。若已退直，则公必在轩左右，若待客矣。一日值岁小除，诸人咸诣轩，与公饯岁。忽司阍者至公侧耳语，公大笑曰：“户部堂官岁尽分饭食银两，亦不可告人耶！”即命挈一囊至，泻出之，皆库贮大锭两五十。公数坐中客若干，令各怀其一，曰：“诸君年事大窘，聊以分润耳。”数不足，复命入取之，遍给乃止。公食指既广，又宾客常满座，值窘乏，亦时时断炊。一日过午，尚未具食，坐客有愠者，公觇知之，即出语曰：“诸君他日皆饫天厨、颁尚食之人，岂矜矜于裘某之一餐乎？且主人亦尚未食，不独客也。”客意乃解。乾隆帝眷公，时得召见，公奏事毕，则必言各衙门人才，曰：“某人勤，某人干事，某人擅文笔。”是以公在部及掌院日，翰林诸曹司迁转最速，由公推毂勤也。时公房师大学士蒋文恪公溥，亦极爱士，肯为寒素地，有揭荐牍来者，悉馆门下，未尝拒一人，其掌书记者，即公所引入。</p>
+<p>　　一日，公入朝，遇文恪公，公曰：“有一孝廉在都候选，所学极优，师留之乎？”文恪唯唯。公知文恪性阔达，宾客多寡，皆不甚措意，明日，遣一仆径送孝廉入文恪邸第，属仆曰：“第送诣某书记厅，云‘昨已面语相公，相公属留客耳。’”仆致公命出，书记某即挈孝廉巡历厅事侧两廊，见屋比栉，悉客馆，内一室门独启，遂径入，见榻上亦有卧具，遽命仆撤出，贮厅事中，语孝廉曰：“君行李至，即安置此。但出，必须键户，慎勿启也。”又一要语相属：“君虽馆此，实无一事，不妨日出游行，然必须饭毕始出。日两饭，亦无邀客者，但闻长廊口有高唤者曰：‘饭具矣！’即速诣厅事食，迟则不及。”</p>
+<p>　　孝廉遵其约，每日饭毕即键户出游，约计复当饭，则又归。岁值五日、中秋日，及岁尽前数日，即有老仆从三四辈挟巨囊至，遍入客馆，见一卧榻，即置朱提一封，标其函曰：“岁”，为数五十。若旁有卧榻，则贮一小封，为数四，以犒从者。孝廉居文恪邸二年，选湖北一县令始去，在邸日，未尝一为事，亦未尝一面文恪。盖疏节阔目如此，然无碍其为太平宰相也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16182.aspx">上一章</a>
+<a href="/guwen/book_186.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16184.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

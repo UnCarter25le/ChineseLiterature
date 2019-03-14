@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+南游记·第十五回_古诗文网
+</title>
+<meta content="华光闹阴司却说华光手持金枪，来至阴司，看见一十八重地狱，又见金钱山、银钱山破钱山、消钱山，又见金桥、银桥、乱柴桥、奈河桥。自思：金桥、银桥我不过，乱柴桥也不是我过的，不如去过那奈何" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19661.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第十五回</b></span>
+<a href="javascript:PlayBookv(19661)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19661" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19661" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%99%e8%b1%a1%e6%96%97">余象斗</a></p>
+<div class="contson">
+<p>　　<strong>华光闹阴司</strong></p>
+<p>　　却说华光手持金枪，来至阴司，看见一十八重地狱，又见金钱山、银钱山破钱山、消钱山，又见金桥、银桥、乱柴桥、奈河桥。自思：金桥、银桥我不过，乱柴桥也不是我过的，不如去过那奈何渡，看我母过此去没有。华光见渡子来问曰：“你是何人？”华光曰：“乃上界华光天王。我且问你，我的母亲在此过渡没有？”渡子曰：“我这所在来千去万，何能知哪个是你母亲？”华光曰：“大名叫萧太婆，小名叫吉芝陀圣母便是。”渡子曰：“萧太婆在此啼哭而过，吉芝陀圣母这里未曾见来。”华光曰：“萧太婆就是吉芝陀圣母。”渡子曰：“是二个人。”华光曰：“总是一个。”二人因此言相争，华光大怒，丢起金砖便打。渡子便走，大叫华光来闹阴司。</p>
+<p>　　渡子走去报阎王。阎王升殿正坐下，只见转表官报曰：“华光来同阴司。”阎王问众臣曰：“华光到此，不知为何？”判官曰：“定有缘故，待他来时，以礼待之便了。”言未已，忽报华光到。阎王接入相见落坐，阎王曰：“久闻大名，如雷灌耳，今日光降，有何见谕！”华光曰：“不才到此别无他事，只为家母萧太婆，又名吉芝陀圣母，被那龙瑞王拿去，不知下落，疑其死了，来到贵殿，敢问家母曾到此否？”</p>
+<p>　　阎王转问判官。判官曰：“簿书查看，只有个萧太婆到，吉芝陀圣母未曾到。”阎王言曰：“只有萧太婆，没有吉芝陀圣母。”华光曰：“总是一个。”阎王曰：“却是二人。”华光大怒曰：“一个为何说两个？”判官曰：“他若不信，可令引魂使者至十伤门内，引与他自己认，便见明白。”阎王即令引魂动使者上殿，阎王曰：“天王如不信，可自去一看，便见明白了。”华光乃同使者会见一妇人，华光便问曰：“你是何人？”那妇人曰：“我是萧太婆。”华光怒曰：“萧太婆是吾之母，吾岂不认得，你敢在此冒名。”</p>
+<p>　　那女子哭曰：“我正是萧太婆，因为萧长者四十无子，我每夜在后花园烧香求嗣，不想被一个扑灯蛾来将灯火扑灭，现出本相，是吉芝陀圣母，将我吃了，把骨头捽往深山。他变做我，在萧家受了胎，才生天王。我死在幽冥，枉屈无伸。”言罢大哭。华光曰：“原来亦是吾母，怎生是好？”母曰“你可看吾夫之面，上奏与阎王，赐吾投胎，免得在十伤门内受苦。”华光曰：母亲勿忧，待儿即奏阎王。”阎王曰：“领命。”华光拜谢与母分别。回转阳间。阎王依言将萧太婆送至邓尚书家中投胎不表。且看下回分解。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19660.aspx">上一章</a>
+<a href="/guwen/book_260.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19662.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

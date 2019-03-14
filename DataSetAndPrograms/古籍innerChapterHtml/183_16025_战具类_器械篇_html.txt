@@ -1,0 +1,117 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·战具类·器械篇_古诗文网
+</title>
+<meta content="经曰：工欲善其事，必先利其器。器之於事，如影之随形，响之应声。其相须如左右手，故曰：器械不精，不可言兵；五兵不利，不可举事。上古庖牺氏之时，剡木为兵；神农氏之时，以石为兵；《尚书》" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16025.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>战具类·器械篇</b></span>
+<a href="javascript:PlayBookv(16025)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16025" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16025" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　经曰：工欲善其事，必先利其器。器之於事，如影之随形，响之应声。其相须如左右手，故曰：器械不精，不可言兵；五兵不利，不可举事。上古庖牺氏之时，剡木为兵；神农氏之时，以石为兵；《尚书》砮石中矢镞；黄帝之时，以玉为兵；蚩尤之时，铄金为兵，割革为甲；始制五兵，建旗帜，树夔鼓，以佐军威。</p>
+<p>　　纛六面，大将军中营建，出引六军。古者，天子六军，诸侯三军。今天子一十二卫，诸侯六军，故有六纛以主之。</p>
+<p>　　门旗二面，色红八幅，大将军牙门之旗，出引将军前列。</p>
+<p>　　门枪二根，以豹尾为刃榼，出居红旗之後，止居帐前左右建。</p>
+<p>　　五方旗五面，各具方色，大将军中营建，出随六纛後，在营亦於六纛後建。</p>
+<p>　　严警鼓一十二面，大将军营前左右行列各六面，在六纛後。</p>
+<p>　　角一十二枚，於鼓左右列各六枚，以代金。</p>
+<p>　　队旗二百五十面，尚色图禽，与本阵同，五幅。</p>
+<p>　　认旗二百五十面，尚色图禽，与诸队不同，各自为识认，出居队後，恐士卒交杂。</p>
+<p>　　阵将门旗，各任所色，不得以红，恐纷乱大将军。</p>
+<p>　　阵将鼓一百二十面，临时惊敌所用。</p>
+<p>　　甲，六分七千五百领。</p>
+<p>　　战袍，四分五千领。</p>
+<p>　　枪，十分一万二千五百条，恐扬兵缚[木伐]。</p>
+<p>　　牛皮牌二分二千五百面，马军以团牌代四分支。</p>
+<p>　　弩二分，弦三分，副箭一百分二千五百张。弩，七千五百条弦，二十五万只箭。</p>
+<p>　　弓，十分弦，三副箭，一百五十分。弓，一万二千五百张，弦三万七千五百条，箭三十七万五千集。</p>
+<p>　　射甲箭，五万只。</p>
+<p>　　生鈊箭，二万五千只。</p>
+<p>　　长垛箭，弓袋，胡鹿长弓袋，并十分一万二千五百副。</p>
+<p>　　佩刀，八分一万口。</p>
+<p>　　陌刀，二分二千五百口。</p>
+<p>　　棓，二分二千五百张。</p>
+<p>　　马军及陌刀，并以啄鎚、斧钺代，各四分支、</p>
+<p>　　搭索，二分二千五百条，马军用。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16024.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16026.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

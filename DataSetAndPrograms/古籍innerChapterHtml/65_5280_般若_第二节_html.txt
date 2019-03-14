@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+六祖坛经·般若·第二节_古诗文网
+</title>
+<meta content="善知识，迷人口念，当念之时，有妄有非。念念若行，是名真性。悟此法者，是般若法；修此行者，是般若行。不修即凡，一念修行，自身等佛。善知识，凡夫即佛，烦恼即菩提。前念迷即凡夫，后念悟即" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5280.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3619" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>般若·第二节</b></span>
+<a href="javascript:PlayBookv(5280)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5280" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3619)" id="leftbtn3619" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5280" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+　　善知识，迷人口念，当念之时，有妄有非。念念若行，是名真性。悟此法者，是般若法；修此行者，是般若行。不修即凡，一念修行，自身等佛。善知识，凡夫即佛，烦恼即菩提。前念迷即凡夫，后念悟即佛。前念著境即烦恼，后念离境即菩提。善知识，摩诃般若波罗蜜最尊最上最第一。无住无往亦无来，三世诸佛从中出。当用大智慧打破五蕴烦恼尘劳，如此修行，定成佛道，变三毒为戒定慧。善知识，我此法门，从一般若生八万四千智慧。何以故？为世人有八万四千尘劳，若无尘劳，智慧常现，不离自性。悟此法者，即是无念，无忆无著，不起诳妄，用自真如性，以智慧观照。于一切法，不取不舍，即是见性成佛道。善知识，若欲入甚深法界，及般若三昧者，须修般若行，持诵《金刚般若经》，即得见性。当知此经功德，无量无边，经中分明赞叹，莫能具说。此法门是最上乘，为大智人说，为上根人说。小根小智人闻，心生不信，何以故？譬如天龙下雨于阎浮提，城邑聚落，悉皆漂流，如漂草叶；若雨大海，不增不减。若大乘人，若最上乘人，闻说《金刚经》，心开悟解。故知本性自有般若之智，自用智慧，常观照故，不假文字。譬如雨水，不从无有，元是龙能兴致，令一切众生，一切草木，有情无情，悉皆蒙润，百川众流，却入大海，合为一体。众生本性般若之智，亦复如是。善知识，小根之人闻此顿教，犹如草木；根性小者，若被大雨，悉皆自倒，不能增长，小根之人，亦复如是。元有般若之智，与大智人更无差别，因何闻法不自开悟？缘邪见障重，烦恼根深，犹如大云覆盖于日，不得风吹，日光不现。般若之智亦无大小，为一切众生自心迷悟不同，迷心外见，修行觅佛，未悟自性，即是小根。若开悟顿教，不执外修，但于自心常起正见，烦恼尘劳，常不能染，即是见性。善知识，内外不住，去来自由，能除执心，通达无碍，能修此行，与般若经本无差别。善知识，一切修多罗及诸文字，大小二乘，十二部经，皆因人置，因智慧性，方能建立，若无世人，一切万法本自不有，故知万法本自人兴。一切经书，因人说有，缘其人中有愚有智，愚为小人，智为大人。愚者问于智人，智者与愚人说法，愚人忽然悟解心开，即与智人无别。善知识，不悟即佛是众生，一念悟时，众生是佛。故知万法尽在自心，何不从自心中，顿见真如本性？《菩萨戒经》云：我本元自性清净，若识自心见性，皆成佛道。《净名经》云：即时豁然，还得本心。善知识，我于忍和尚处，一闻言下便悟，顿见真如本性。是以将此教法流行，令学道者顿悟菩提，各自观心，自见本性。若自不悟，须觅大善知识，解最上乘法者，直示正路。是善知识有大因缘，所谓化导令得见性。一切善法，因善知识能发起故。三世诸佛、十二部经，在人性中本自具有，不能自悟，须求善知识，指示方见。若自悟者，不假外求，若一向执谓须他善知识望得解脱者，无有是处。何以故？自心内有知识自悟，若起邪迷，妄念颠倒，外善知识虽有教授，救不可得。若起正真般若观照，一刹那间，妄念俱灭。若识自性，一悟即至佛地。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5279.aspx">上一章</a>
+<a href="/guwen/book_65.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5281.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3619" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

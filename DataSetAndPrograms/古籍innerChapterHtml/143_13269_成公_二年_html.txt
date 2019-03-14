@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+公羊传·成公·二年_古诗文网
+</title>
+<meta content="一、二年，春，齐侯伐我北鄙。二、夏四月丙戌，卫孙良夫帅师及齐师战于新筑，卫师败绩。三、六月癸酉，季孙行父、臧孙许、叔孙侨如、公孙婴齐帅师会晋郄克、卫孙良夫、曹公子手及齐侯战于鞌，齐" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13269.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>成公·二年</b></span>
+<a href="javascript:PlayBookv(13269)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13269" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13269" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%85%ac%e7%be%8a%e9%ab%98">公羊高</a></p>
+<div class="contson">
+<p>　　一、二年，春，齐侯伐我北鄙。</p>
+<p>　　二、夏四月丙戌，卫孙良夫帅师及齐师战于新筑，卫师败绩。</p>
+<p>　　三、六月癸酉，季孙行父、臧孙许、叔孙侨如、公孙婴齐帅师会晋郄克、卫孙良夫、曹公子手及齐侯战于鞌，齐师败绩。</p>
+<p>　　曹无大夫，公子手何以书？忧内也。</p>
+<p>　　四、秋七月，齐侯使国佐如师。己酉，及国佐盟于袁娄。</p>
+<p>　　君不使乎大夫，此其行使乎大夫何？佚获也。其佚获奈何？师还齐侯，晋郄克投戟逡巡再拜稽首马前。逢丑父者，顷公之车右也，面目与顷公相似，衣服与顷公相似，代顷公当左。使顷公取饮，顷公操饮而至，曰：“革取清者。”顷公用是佚而不反。逢丑父曰：“吾赖社稷之神灵，吾君已免矣。”郄克曰：“欺三军者，其法奈何？”曰：“法斮。”于是斮逢丑父。己酉，及齐国佐盟于袁娄。曷为不盟于师而盟于袁娄？前此者，晋郄克与臧孙许同时而聘于齐。萧同侄子者，齐君之母也，踊于棓而窥客，则客或跛或眇，于是使跛者迓跛者，使眇者迓眇者。二大夫出相与踦闾而语，移日然后相去。齐人皆曰：“患之起必自此始！”二大夫归，相与率师为鞌之战，齐师大败。齐侯使国佐如师，郄克曰：“与我纪侯之甗，反鲁、卫之侵地，使耕者东亩，且以萧同侄子为质，则吾舍子矣。”国佐曰：“与我纪侯之甗，请诺。反鲁、卫之侵地，请诺。使耕者东亩，是则土齐也。萧同侄子者，齐君之母也。齐君之母，犹晋君之母也，不可。请战，壹战不胜请再，再战不胜请三，三战不胜，则齐国尽子之有也，何必以萧同侄子为质？”揖而去之。郄克鲁、卫之使，使以其辞而为之请，然后许之。逮于袁娄而与之盟。</p>
+<p>　　五、八月壬午，宋公鲍卒。</p>
+<p>　　六、庚寅，卫侯遬卒。</p>
+<p>　　七、取汶阳田。</p>
+<p>　　汶阳田者何？鞌之赂也。</p>
+<p>　　八、冬，楚师、郑师侵卫。</p>
+<p>　　九、十有一月，公会楚公子婴齐于蜀。</p>
+<p>　　十、丙申，公及楚人、秦人、宋人、陈人、卫人、郑人、齐人、曹人、邾娄人、薛人、鄫人盟于蜀。</p>
+<p>　　此楚公子婴齐也，其称人何？得一贬焉尔。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13268.aspx">上一章</a>
+<a href="/guwen/book_143.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13270.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

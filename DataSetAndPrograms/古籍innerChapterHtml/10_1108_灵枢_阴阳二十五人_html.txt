@@ -1,0 +1,112 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+黄帝内经·灵枢·阴阳二十五人_古诗文网
+</title>
+<meta content="黄帝曰：余闻阴阳之人何如？伯高曰：天地之间，六合之内，不离于五，人亦应之。故五五二十五人之政，而阴阳之人不与焉。其态又不合于众者五，余已知之矣。愿闻二十五人之形，血气之所生，别而以" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1108.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left932" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>灵枢·阴阳二十五人</b></span>
+<a href="javascript:PlayBookv(1108)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1108" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(932)" id="leftbtn932" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay1108" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　黄帝曰：余闻阴阳之人何如？伯高曰：天地之间，六合之内，不离于五，人亦应之。故五五二十五人之政，而阴阳之人不与焉。其态又不合于众者五，余已知之矣。愿闻二十五人之形，血气之所生，别而以候，从外知内，何如？歧伯曰：悉乎哉问也，此先师之秘也，虽伯高犹不能明之也。</p>
+<p>　　黄帝避席遵循而却曰：余闻之得其人弗教，是谓重失，得而泄之，天将厌之，余愿得而明之，金柜藏之，不敢扬之。歧伯曰：先立五形金木水火土，别其五色，异其五形之人，而二十五人具矣。</p>
+<p>　　黄帝曰：愿卒闻之。歧伯曰：慎之慎之，臣请言之。</p>
+<p>　　木形之人，比于上角似于苍帝，其为人苍色，小头，长面大肩背直身小，手足好。有才，劳心少力多忧，劳于事，能春夏不能秋冬感而病生。足厥阴，佗佗然，大角之人比于左足少阳，少阳之上遗遗然。左角之人比于右足少阳，少阳之下随随然。钛角之人，比于右足少阳，少阳之上推推然。判角之人比于左足少阳，少阳之下枯枯然。</p>
+<p>　　火形之人，比于上征，似于赤帝。其为人赤色广脱面小头，好肩背，髀腹小手足，行安地疾心，行摇肩背肉满。有气轻财少信多虑，见事明好颜，急心不寿暴死。能春夏不能秋冬，秋冬感而病生，手少阴核核然。质征之人，比于左手太阳，太阳之上，肌肌然，少征之人比于右手太阳，太阳之下慆慆然，右征之人比于右手太阳，太阳之上鲛鲛然。质判之人，比于左手太阳，太阳之下支支颐颐然。</p>
+<p>　　土形之人，比于上宫，似于上古黄帝，其为人黄色圆面、大头、美肩背、大腹、美股胫、小手足、多肉、上下相称行安地，举足浮。安心，好利人不喜权势，善附人也。能秋冬不能春夏，春夏感而病生，足太阴，敦敦然。大宫之人比于左足阳明，阳明之上婉婉然。加宫之人，比于左足阳明，阳明之下坎坎然。少宫之人，比于右足阳明，阳明之上，枢枢然。左宫之人，比于右足阳明，阳明之下，兀兀然。</p>
+<p>　　金形之人比于上商，似于白帝，其为人方面白色、小头、小肩背小腹、小手足如骨发踵外，骨轻。身清廉，急心静悍，善为吏，能秋冬，不能春夏，春夏感而病生。手太阴敦敦然，釱商之人比于左手阳明，阳明之上，廉廉然。右商之人，比于左手阳明，阳明之下脱脱然。左商之人比于右手阳明，阳明之上监监然。少商之人，比于右手阳明，阳明之下，严严然。</p>
+<p>　　水形之人，比于上羽，似于黑帝，其为人，黑色面不平，大头廉颐，小肩大腹动手足，发行摇身下尻长，背延延然。不敬畏善欺绍人，戮死。能秋冬不能春夏，春夏感而病生。足少阴汗汗然。大羽之人，比于右足太阳，太阳之上，颊颊然。少羽之人，比于左足太阳，太阳之下洁洁然。桎之为人，比于左右太阳，太阳之上安安然。是故五形之人二十五变者，众之所以相欺者是也。</p>
+<p>　　黄帝曰：得其形，不得其色何如？歧伯曰：形胜色，色胜形者，至其胜时年加，感则病行，失则忧矣。形色相得者，富贵大乐。</p>
+<p>　　黄帝曰：其形色相当胜之时，年加可知乎？歧伯曰：凡年忌下上之人，大忌常加七岁，十六岁、二十五岁、三十四岁、四十三岁、五十二岁、六十一岁皆人之大忌，不可不自安也，感则病行，失则忧矣，当此之时，无为奸事，是谓年忌。</p>
+<p>　　黄帝曰：夫子之言脉之上下，血气之候似知形气，奈何？歧伯曰：足阳明之上血气盛则髯美长，血少气多则髯短，故气少血多则髯少，血气皆少则无髯。两吻多画，足阳明之下血气盛则下毛美长至胸，血多气少则下毛美短至脐，行则善高举足，足趾少肉足善寒，血少气多则肉而善瘃，血气皆少则无毛有则稀、枯悴，善痿厥，足痹。</p>
+<p>　　足少阳之上，气血盛则通髯美长，血多气少则通髯美短，血少气多则少髯，血气皆少则无须，感于寒湿则善痹。骨痛爪枯也。足少阳之下，血气盛则胫毛美长，外踝肥；血多气少则胫毛美短，外踝皮坚而厚，血少气多则胻毛少，外踝皮薄而软，血气皆少则无毛，外踝瘦无肉。</p>
+<p>　　足太阳之上，血气盛则美眉，眉有毫毛血多气少则恶眉，面多少理，血少气多则面多肉，血气和则美色，足太阳之下，血气盛则跟肉满，踵坚，气少血多则瘦，跟空，血气皆少则善转筋，踵下痛。</p>
+<p>　　手阳明之上，血气盛则髭美。血少气多则髭恶，血气皆少则无髭。手阳明之下血气盛则腋下毛美，手鱼肉以温，气血皆少则手瘦以寒。</p>
+<p>　　手少阳之上，血气盛则眉美以长，耳色美，血气皆少则耳焦恶色。手少阳之下，血气盛则手卷多肉以温，血气皆少则寒以瘦，气少血多则瘦以多脉。</p>
+<p>　　手太阳之上，血气盛则多须，面多肉以平，血气皆少则面瘦恶色。手太阳之下，血气盛则掌肉充满，血气皆少则掌瘦以寒。</p>
+<p>　　黄帝曰：二十五人者，刺之有约乎？歧伯曰：美眉者，足太阳之脉，气血多，恶眉者，血气少，其肥而泽者，血气有余，肥而不泽者，气有余，血不足，瘦而无泽者，气血俱不足，审察其形有气有余不足而调之，可以知逆顺矣。</p>
+<p>　　黄帝曰：刺其诸阴阳奈何？歧伯曰：按其寸口人迎，以调阴阳，切循其经络之凝涩，结而通者，此于身皆为痛痹，甚则不行，故凝涩，凝涩者，致气以温之，血和乃止。其结络者，脉结血不和，决之乃行，故曰：气有余于上者，导而下之，气不足于上者，推而休之，其稽留不至者，因而迎之，必明于经隧，乃能持之，寒与热争者，导而行之，其宛陈血不结者，则而予之，必先明知二十五人，则血气之所在，左右上下，刺约毕也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1107.aspx">上一章</a>
+<a href="/guwen/book_10.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1109.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right932" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

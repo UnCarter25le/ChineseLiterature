@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷三·赌符_古诗文网
+</title>
+<meta content="韩道士居邑中之天齐庙，多幻术，共名之“仙”。先子与最善，每适城，辄造之。一日与先叔赴邑，拟访韩，适遇诸途。韩付钥曰：“请先往启门坐，少旋我即至。”乃如其言。诣庙发扃，则韩已坐室中。" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11520.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·赌符</b></span>
+<a href="javascript:PlayBookv(11520)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11520" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11520" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　韩道士居邑中之天齐庙，多幻术，共名之“仙”。先子与最善，每适城，辄造之。一日与先叔赴邑，拟访韩，适遇诸途。韩付钥曰：“请先往启门坐，少旋我即至。”乃如其言。诣庙发扃，则韩已坐室中。诸如此类。</p>
+<p>　　先是有敝族人嗜博赌，因先子亦识韩。值大佛寺来一僧，专事樗蒲，赌甚豪。族人见而悦之，罄资往赌，大亏。心益热，典质田产复往，终夜尽丧。邑邑不得志，便道诣韩，精神惨淡，言语失次。韩问之，具以实告。韩笑曰：“常赌无不输之理。倘能戒赌，我为汝覆之。”族人曰：“倘得珠还合浦，花骨头当铁杵碎之！”韩乃以纸书符，授佩衣带间。嘱曰：“但得故物即已，勿得陇复望蜀也。”又付千钱约赢而偿之。族人大喜而往。僧验其资，易之，不屑与赌。族人强之，请一掷为期，僧笑而从之。乃以千钱为孤注，僧掷之无所胜负，族人接色，一掷成采。僧复以两千为注。又败。僧渐增至十余千，明明枭色，呵之皆成卢雉，计前所输，顷刻尽覆。阴念再赢数千亦更佳，乃复博，则色渐劣。心怪之，起视带上则符已亡矣，大惊而罢。载钱归庙，除偿韩外，追而计之，并末后所失，适符原数也。已乃愧谢失符之罪，韩笑曰：“已在此矣。固嘱勿贪，而君不听，故取之。”</p>
+<p>　　异史氏曰：“天下之倾家者莫速于博，天下之败德者亦莫甚于博。入其中者如沉迷海，将不知所底矣。夫商农之人，俱有本业；诗书之士，尤惜分阴。负耒横径，固成家之正路；清谈薄饮，犹寄兴之生涯。</p>
+<p>　　“尔乃狎比淫朋，缠绵永夜。倾囊倒箧，悬金于崄巇之天；呼雉呵卢，乞灵于淫昏之骨，盘施五木，似走圆珠；手握多章，如擎团扇。左觑人而右顾己，望穿鬼子之睛；阳示弱而阴用强，费尽魍魉之技。门前宾客待，犹恋恋于场头；舍上火烟生，尚眈眈于盆里。忘餐废寝，则久入成迷；舌敝唇焦，则相看似鬼。迨夫全军尽没，热眼空窥。视局中则叫号浓焉，技痒英雄之臆；顾囊底而贯索空矣，灰寒壮士之心。引颈徘徊，觉白手之无济；垂头萧索，始玄夜以方归。幸交谪之人眠，恐惊犬吠；苦久虚之腹饿，敢怨羹残。既而鬻子质田，冀珠还于合浦；不意火灼毛尽，终捞月于沧江。及遭败后我方思，已作下流之物；试问赌中谁最善，群指无裤之公。甚而枵腹难堪，遂栖身于暴客；搔头莫度，至仰给于香奁。呜呼！败德丧行，倾财亡身，孰非博之一途致之哉！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11519.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11521.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

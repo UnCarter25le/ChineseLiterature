@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+容斋随笔·卷三·三传记事_古诗文网
+</title>
+<meta content="秦穆公袭郑，晋纳邾捷菑。《三传》所书略相似。《左氏》书秦事曰：“杞子自郑告秦曰：‘潜师以来，国可得也。’穆公访诸蹇叔，蹇叔曰：‘劳师以袭远，非所闻也，且行千里，其谁不知！’公辞焉，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5594.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3971" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·三传记事</b></span>
+<a href="javascript:PlayBookv(5594)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5594" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3971)" id="leftbtn3971" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5594" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b4%aa%e8%bf%88">洪迈</a></p>
+<div class="contson">
+<p>　　秦穆公袭郑，晋纳邾捷菑。《三传》所书略相似。《左氏》书秦事曰：“杞子自郑告秦曰：‘潜师以来，国可得也。’穆公访诸蹇叔，蹇叔曰：‘劳师以袭远，非所闻也，且行千里，其谁不知！’公辞焉，召孟明出师。蹇叔哭之曰：‘孟子，吾见师之出，而不见其入也。’公曰：‘尔何知？中寿，尔墓之木拱矣。’蹇叔之子与师，哭而送之曰：‘晋人御师必于殽，殽有二陵焉，必死是间，余收尔骨焉。’秦师遂东。”《公羊》曰：“秦伯将袭郑，百里子与蹇叔子谏曰：‘千里而袭人，未有不亡者也。’秦伯怒曰：‘若尔之年者，宰上之木拱矣，尔曷知！’师出，百里子与蹇叔子送其子而戒之曰：‘尔即死，必于殽嵚岩，吾将尸尔焉。’子揖师而行，百里子与蹇叔子从其子而哭之。秦伯怒曰：‘尔曷为哭吾师？’对曰：‘臣非敢哭君师，哭臣之子也。’”《穀梁》曰：“秦伯将袭郑，百里子与蹇叔子谏曰：‘千里而袭人，未有不亡者也。’秦伯曰：‘子之冢木已拱矣，何知？’师行，百里子与蹇叔子送其子而戒子曰：‘女死，必于殽之岩灊之下，我将尸女于是。’师行，百里子与蹇叔子随其子而哭之，秦伯怒曰：‘何为哭吾师也！’二子曰：‘非敢哭师也，哭吾子也，我老矣，彼不死，则我死矣。’”</p>
+<p>　　其书邾事，《左氏》曰：“邾文公元妃齐姜生定公，二妃晋姬生捷菑。文公卒，邾人立定公。捷菑奔晋，晋赵盾以诸侯之师八百乘纳之。邾人辞曰：‘齐出玃且长。’宣子曰：‘辞顺而弗从，不祥。’乃还。”《公羊》曰：“晋郤缺帅师，革车八百乘，以纳接菑于邾娄，力沛然若有余而纳之，邾娄人辞曰：‘接菑，晋出也，玃且，齐出也。子以其指则接菑也四，玃且也六，子以大国压之，则未知齐、晋孰有之也。贵则皆贵矣，虽然，玃且也长。’郤缺曰：‘非吾力不能纳也，义实不尔克也。’引师而去之。”《穀梁》曰：“长毂五百乘，绵地千里，过宋、郑、滕、薛，敻入千乘之国，欲变人之主，至城下，然后知，何知之晚也！捷菑，晋出也，玃且，齐出也。玃且，正也，捷菑，不正也。”</p>
+<p>　　予谓秦之事，《穀梁》纡余有味，邾之事，《左氏》语简而切，欲为文记事者，当以是观之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5593.aspx">上一章</a>
+<a href="/guwen/book_72.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5595.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3971" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

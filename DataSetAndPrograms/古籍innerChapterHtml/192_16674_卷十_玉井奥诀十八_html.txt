@@ -1,0 +1,109 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+三命通会·卷十·玉井奥诀十八_古诗文网
+</title>
+<meta content="禄命二神相激，鼓舞作为，贵煞四位相承，聚归取用。前法禄命二宅，若犯激作刑冲克害，看吉凶之意何如，与日不和应验如此。盖禄命二神，实系冲令，左鼓右舞之气使然也。或贵或煞，二重三重，兼并" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16674.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十·玉井奥诀十八</b></span>
+<a href="javascript:PlayBookv(16674)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16674" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16674" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%b8%87%e6%b0%91%e8%8b%b1">万民英</a></p>
+<div class="contson">
+<p>　　禄命二神相激，鼓舞作为，贵煞四位相承，聚归取用。</p>
+<p>　　前法禄命二宅，若犯激作刑冲克害，看吉凶之意何如，与日不和应验如此。盖禄命二神，实系冲令，左鼓右舞之气使然也。或贵或煞，二重三重，兼并一辰上者，况柱中四位，各有吉凶之神，要分聚在何位最多，以较长短，寅申巳亥无长生，则凶。</p>
+<p>　　水火之象，轻清则文章异术。刑冲则道德禅门。</p>
+<p>　　水火乃坎离之神，有既济之造化，其中气清，则文章魁众，轻则术业异常，空则仙风异质，刑则道法鬼符，克则禅宗空寂，野衲宿缘，参究觉悟，专论日辰格象，轻重而言。</p>
+<p>　　金土之源，气老则财库楼台，浅嫩则经商手艺。</p>
+<p>　　金土之义，有以贱生贵之功，气老则成就其物，盖宜于富藏，墙垣第宅庄营之壮观，由此而致也。或衰气残绝，或初新气嫩，若非经商买卖，则手艺工作之人。</p>
+<p>　　华盖墓神，天月德合，泉石家风，休囚日德，死绝败生，尘埃庶士。</p>
+<p>　　华盖墓神，天月德合，三件循环于柱中者，必有水边石上宿缘，访道求仙志意，日德若休废，虚有其德名矣。况又干音有死败等位，恶气空亡，来生助者，不过碌碌一塞士耳。</p>
+<p>　　十恶大败若真，贵为将，贱为寇，囚死空亡若聚，生者道，衰者僧。</p>
+<p>　　十恶以道藏经所载为准，贵气相扶，清厚入格，必掌兵权，若凶煞凑集，交并柱中，战害用神身主则凶，日主用神，当休废之时，落空亡兼为孤寡六害，若临长生临官旺地，则为黄冠，若处败绝墓死之方，为缁衣。</p>
+<p>　　魁罡权重，却害六亲，劫寡虽孤，喜全三贵。</p>
+<p>　　辰为天罡，戌为天魁，最有权威力量，但孤克之气太重，未免妨害六亲，劫煞寡宿，若带长生贵人有禄，乃三件之福气也。与日和协，必主富贵，无此三件，纵发不久而贫。</p>
+<p>　　吞啖势繁，非偏房定乏乳哺，孤寡来并，由异姓假合同居。</p>
+<p>　　吞啖乃倒食之神，倘多有力有势有权，或临生旺之乡太切，准上文，孤寡六害同并，却有印绶食神一有用者，仍见宅神冲破，准上文。</p>
+<p>　　重拜双生，巳亥带支干同类，巫医酒色，亡劫犯咸池贵人。</p>
+<p>　　命带巳亥二位，又有别支别干一类同者，有二三位者，如甲见甲，子见子，必是双生，或重拜父母，须是干支俱有相同力的，更劫孤亦然。</p>
+<p>　　师巫药术牙侩等辈，仍分轻重高下，皆亡神咸池二位主领，兼羊刃破碎，墓鬼白虎之类者，狂妄诡诈，迷花恋酒，九流不才之人，若贵人德神财官生旺者庶几。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16673.aspx">上一章</a>
+<a href="/guwen/book_192.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16675.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

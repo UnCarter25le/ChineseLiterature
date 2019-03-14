@@ -1,0 +1,179 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太平广记·卷四百零七·草木二（文理木附）_古诗文网
+</title>
+<meta content="异木（两门凡四十目）主一州树　偃桑　不昼木　蚊子树　圣鼓枝　鹿木　倒生木　黝木　桄榔树怪松　枫人　枫鬼　枫生人　灵枫　破木有肉　江中枫材　河伯下材　斗蚊船木交让木　千岁松　汗杖　化" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11206.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left9158" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四百零七·草木二（文理木附）</b></span>
+<a href="javascript:PlayBookv(11206)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11206" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(9158)" id="leftbtn9158" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay11206" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%98%89%e3%80%81%e6%89%88%e8%92%99%e3%80%81%e5%be%90%e9%93%89%e7%ad%89">李昉、扈蒙、徐铉等</a></p>
+<div class="contson">
+<p>　　异木（两门凡四十目）</p>
+<p>　　主一州树　偃桑　不昼木　蚊子树　圣鼓枝　鹿木　倒生木　黝木　桄榔树</p>
+<p>　　怪松　枫人　枫鬼　枫生人　灵枫　破木有肉　江中枫材　河伯下材　斗蚊船木</p>
+<p>　　交让木　千岁松　汗杖　化蝶树　涪水材　端正树　崇贤里槐　三枝槐　瘿槐</p>
+<p>　　荆根枕　五重桑　蜻蜓树　无患木　醋心树　登第皂荚　辨白檀树</p>
+<p>　　藟蔓　藤实杯　钟藤　人子藤　蜜草蔓　胡蔓草　野狐丝异木　　</p>
+<p>　　主一州树<br/>　　<br/>　　东方荒外。有豫章焉。此树主一州。其高千丈，围百丈。本上三百丈，始（“始”原作“本”，据陈校本改）有枝条，敷张如帐。上有玄狐黑猿。树主一州，南北并列，面向西南。有九力士，操斧伐之，以占九州吉凶。斫复，其州有福；创者州伯有病；积岁不复者，其州灭亡（“亡”言州伯死，“复”者木创复也，出《神异经》。“伯”字原阙。出《神异经》四字原在“者”字下，据陈校本补改）。</p>
+<p>　　偃桑　　</p>
+<p>　　东方有树焉，高八十丈。敷张自辅。其叶长一丈，广六七尺。名曰桑。其上自有蚕，作茧长三尺。缲一茧，得丝一斤。有椹焉，长三尺五寸，围如长（桑是偃桑，但树长大耳）。（出《神异经》）</p>
+<p>　　不昼木　　</p>
+<p>　　荒外有火山，其中生不昼之木，昼夜火燃，得曝风不猛，猛雨不灭。（出《神异经》）</p>
+<p>　　蚊子树　　</p>
+<p>　　有树如冬青，实生枝间，形如枇杷子。每熟即坼裂，蚊子群飞，唯皮壳而已。土人谓之蚊子树。（出《岭南异物志》）</p>
+<p>　　圣鼓枝　　</p>
+<p>　　含洭（“含洭”原作“舍溯”，据《酉阳杂俎》十改）县　水口下东岸，有圣鼓，即杨山之鼓枝也，横在川侧。冲波所激，未尝移动。众鸟飞鸣，莫有萃者。般人误以篙触，以患疟。（出《酉阳杂俎》）</p>
+<p>　　鹿木　　</p>
+<p>　　武陵郡北，有鹿木二株，马伏波所种。木多节。（出《酉阳杂俎》）</p>
+<p>　　倒生木　　</p>
+<p>　　倒生木，此木依山生，根在上。有人触则叶翕，人去则叶舒。出东海。（出《酉阳杂俎》）</p>
+<p>　　黝木　　</p>
+<p>　　黝木，节以盅兽，可以为鞭。（原阙出处，今见《酉阳杂俎续》十）</p>
+<p>　　桄榔树　　</p>
+<p>　　古南海县有桄榔树，峰头生叶，有面。大者出面，乃至百斛。以牛乳啖之，甚美。（出《酉阳杂俎》）</p>
+<p>　　怪松　　</p>
+<p>　　南康有怪松。从前刺史，每令画工写松，必数枝衰悴。后因一客与妓，环饮其下，经日松死。（出《酉阳杂俎》）</p>
+<p>　　枫人（种田）　　</p>
+<p>　　岭中诸山多枫树。树老多有瘤瘿。忽一夜遇暴雷骤雨，其树赘则暗长三数尺。南人谓之枫人。越巫云，取之雕刻神鬼，异致灵验。（出《岭表录异》）</p>
+<p>　　枫鬼　　</p>
+<p>　　《临川记》云，抚州麻姑山，或有登者，望之，庐岳彭蠡，皆在其下。有黄连厚朴，恒山枫树。数千年者，有人形，眼鼻口臂而无脚。入山者见之，或有砟之者，皆出血。人皆以蓝冠于其头，明日看失蓝，为枫子鬼。（出《十道记》）</p>
+<p>　　枫生人　　</p>
+<p>　　江东江西山中，多有枫木人，于枫树下生，似人形，长三四尺。夜雷雨，即长与树齐，见人即缩依旧。曾有人合笠于首（“首”字原阙，据明抄本、陈校本补），明日看，笠子挂在树头上。旱时欲雨，以竹束其头，禊之即雨。人取以为式盘，极神验。枫木枣地是也。（出《朝野佥载》）</p>
+<p>　　灵枫　　</p>
+<p>　　南中有枫子鬼，枫木之老者人形，亦呼为灵枫焉。（出《述异记》）</p>
+<p>　　破木有肉　　</p>
+<p>　　有人破大木，木中有肉，可五斤，如熟猪肉。（出《稽神录》）</p>
+<p>　　江中枫材　　</p>
+<p>　　循海之间，每构屋，即命民踏木于江中，短长细大，唯所取。率松材也。彼俗常用，不知古之何人断截。埋泥沙中，既不朽蠹，又多如是。事可异者。（出《岭南异物志》）</p>
+<p>　　河伯下材　　</p>
+<p>　　中宿县山下有神宇，溱水至此，沸腾鼓怒。槎木泛至此沦没，竟无出者，世人以为河伯下材。（出《酉阳杂俎》）</p>
+<p>　　斗蛟船木　　</p>
+<p>　　樟木，江东人多取为船。船有与蛟龙斗者。（出《酉阳杂俎》）</p>
+<p>　　交让木　　</p>
+<p>　　武陵郡记，白雉山有木，名交让。众木敷荣后，方萌芽；亦更岁迭荣也。（出《酉阳杂俎》）</p>
+<p>　　千岁松　　</p>
+<p>　　《玉策记》称，千岁松树，四边披越，上杪不长。望而视之，有如偃盖。其中有物，如青犬，或如人。皆寿万岁。（出《抱朴子》）</p>
+<p>　　汗杖　　</p>
+<p>　　东方朔西那汗国回。得声木十枚。帝以赐大臣。人有疾则杖汗，将死则折。里语：“生年未半杖不汗。”（出《酉阳杂俎》）</p>
+<p>　　化蝶树　　</p>
+<p>　　长安城禁苑内一大树，冬月雪中，忽花叶茂盛。及凋落结实，其子光明璨烂，如火之明焉。数日，皆化为红蛱蝶飞去。至明年，唐高祖自唐国入长安。此必前兆也。（出《潇湘录》）</p>
+<p>　　涪水材　　</p>
+<p>　　梓童郪县，唐大历七年，夏六月甲子，涪水泛溢，流木数千条。梁栋欀桷具备。补内城屋，悉此木。乔林为之记。（出《洽闻记》）</p>
+<p>　　端正树　　</p>
+<p>　　长安西端正树，去马嵬一舍之程，乃唐德宗皇帝幸奉天，睹其蔽芾，锡以美名。后有文士经过，题诗逆旅，不显姓名。诗曰：“昔日偏沾雨露荣，德皇西幸赐嘉名。马嵬此去无多地，合向杨妃冢上生。”风雅有如此焉。（出《抒情诗》）</p>
+<p>　　崇贤里槐　　</p>
+<p>　　唐陈朴者，元和中，崇贤里此街大门外，有槐树，尝黄昏徙倚窥外。见若妇人及老狐异鸟之类，进入树中。遂伐视之。树凡三槎，并空中，一槎中有独头栗一百二十一枚，中襁一死儿，长尺余。（出《酉阳杂俎》）</p>
+<p>　　三枝槐　　</p>
+<p>　　唐相国李石，河中永乐有宅。庭槐一本，抽三枝，直过堂前屋脊，一枝不及。相国同堂昆弟三人，曰石，曰而（陈校本“而”作“程”），皆登宰执；唯福一人，历七镇使相而已。（原阙出处，今见《酉阳杂俎续》十）</p>
+<p>　　瘿槐　　</p>
+<p>　　华州三家店西北道边，有槐甚大，葱郁周回，可荫数亩。槐有瘿，形如二猪，相趂奔走。其回顾口耳头足，一如塑者。（出《闻奇录》）</p>
+<p>　　荆根枕　　</p>
+<p>　　贾人张弘者，行至华岳庙前，忽昏懵，前进不可，系马于一金荆树而酣睡。马惊，拽出树根而去。寤，逐而及之。树根形如狮子，毛爪眼耳足尾，无不悉具。乃于华阴县，求木工修之为一枕，献于庙。守庙者常以匮锁之。行人闻者，赂守庙者百钱，始获一见。（出《闻奇录》）</p>
+<p>　　五重桑　　</p>
+<p>　　洛中愿会寺，魏中书侍郎王翊舍宅立也。佛堂前生桑树一株，直上五尺，枝条横绕，柯叶旁布，形如羽盖。复高五尺，又然。凡为五重。每一重，叶椹各异。京师道俗，谓之神桑。观者甚众。帝闻而恶之，以为惑众，命给事黄门侍郎元纪，伐杀之。其日云雾晦冥，下斧之处，流血至地，见者莫不悲泣。（出《洛阳伽蓝记》）</p>
+<p>　　蜻蜓树　　</p>
+<p>　　昔娄约居常山，据禅座。有一野妪，手持一树。植之于庭，言此是蜻蜓树。岁久芬芳郁茂。有一乌，身赤尾长，常止息其上。（出《酉阳杂俎》）</p>
+<p>　　无患木　　</p>
+<p>　　无患木，烧之极香，避恶气。一名噤娄，一名桓。昔有神巫曰瑶眊，能符劾百鬼，擒魑魅，以无患木击杀之。世人竞取此木为器，用却鬼，因曰无患木。（出《酉阳杂俎》）</p>
+<p>　　醋心树　　</p>
+<p>　　杜师仁尝赁居。庭有巨杏树。邻居老人，每担水至树侧，必叹曰：“此树可惜。”杜诘之。老人云：“某善知木病，此树有疾，某请治。”乃诊树一处，曰：“树病醋心。”杜染指于蠹处尝之，味若薄醋。老人持小钩披蠹，再三钩之，得一白虫，如蝠。乃傅药于疮中。复戒曰：“有实，自青皮时，必标之。十去八九，则树活。”如其言，树益茂盛矣。又云：“尝见《栽植经》三卷，言木有病醋心者。（出《酉阳杂俎》）</p>
+<p>　　登第皂荚　　</p>
+<p>　　泉州文宣王庙，庭宇严峻，学校之盛，冠于藩府。庭中有皂荚树，每州人将登第，则生一荚。以为常矣。梁真明中，忽然生一荚有半，人莫谕其意。乃其年，州人陈逖，进士及第；黄仁颖，学究及第。仁颖耻之，复应（“应”原作“登”，据明抄本改）进士举。至同光中，旧生半荚之所，复生全荚。其年，仁颖及第。后数年，庙为火焚。其年，闽自称尊号，不复贡士，遂至于今。（出《稽神录》）</p>
+<p>　　辨白檀树　　</p>
+<p>　　剑门之左峭岩间（“间”原作“闻”，据明抄本改）有大树，生于石缝之中，大可数围，枝干纯白。皆传曰白檀树。其下常有巨虺，蟠而护之，民不敢采伐。又西岩之半，有志公和尚影，路人过者，皆西向擎拳顶礼，若亲面其如来。王仁裕癸未岁入蜀，至其岩下，注目观之，以质向来传说。时值晴朗，溪谷洗然，遂勒辔移时望之。其白檀，乃一白栝树也。自历大小漫天。夹路溪谷之间，此类甚多，安有檀香蛇绕之事？又西瞻志公影，盖岩间有圆柏一株，即其笠首也；两面有上下石缝，限之为身形；斜其缝者，即袈裟之文也；上有苔藓斑驳，即山水之毳文也。方审其非白檀。志公不留影于此，明矣。仍知人之误传者何限哉！（出《玉堂闲话》）</p>
+<p>　　藟蔓藤实杯　　</p>
+<p>　　藤实杯出西域。藤大如臂。叶似葛花实如梧桐。实成坚固，皆可酌酒。自有文章，映澈可爱。实大如杯，味如豆蔻，香美消酒。士人提酒，来至藤下，摘花酌酒，乃以其实消醒。国人宝之，不传于中土。张骞入宛得之。事在《张骞出关志》。（出《炙毂子》）</p>
+<p>　　钟藤　　</p>
+<p>　　松桢，即钟藤也。叶大者，晋安人以为盘。（出《酉阳杂俎》）</p>
+<p>　　人子藤　　</p>
+<p>　　安南有人子藤，红色，在蔓端有刺。其子如人状。昆仑烧之集象。南中亦难得。（出《酉阳杂俎》）</p>
+<p>　　蜜草蔓　　</p>
+<p>　　北天竺国出蜜草，蔓生大叶，秋冬不死。因重霜露，遂结成蜜，如塞上蓬盐。（出《酉阳杂俎》）</p>
+<p>　　胡蔓草　　</p>
+<p>　　胡蔓草，此草在邕间，丛生。花偏如栀子，稍大，不成朵，色黄白。叶稍异。误食之，数日卒死。饮白鹅白鸭血（“血”字原阙，据明抄本补）则解。或以物投之，祝曰：“我买你，食之不死。”（出《酉阳杂俎》）</p>
+<p>　　野狐丝　　</p>
+<p>　　有草蔓生，色白，花微红，大如粟。秦人呼为野狐丝。（出《酉阳杂俎》）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11205.aspx">上一章</a>
+<a href="/guwen/book_119.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11207.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right9158" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

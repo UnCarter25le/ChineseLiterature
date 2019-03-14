@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·欧_古诗文网
+</title>
+<meta content="历史来源　　1、出自欧冶氏，与区同出于一个源流。春秋的时候有匠人叫欧冶子，因为他居住在欧余山，又以冶炼锻造兵器出名，所以以欧冶为姓。欧冶子后来移居到福建的闽侯县冶山，为越王铸造过湛" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2667.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>欧</b></span>
+<a href="javascript:PlayBookv(2667)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2667" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2667" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自欧冶氏，与区同出于一个源流。春秋的时候有匠人叫欧冶子，因为他居住在欧余山，又以冶炼锻造兵器出名，所以以欧冶为姓。欧冶子后来移居到福建的闽侯县冶山，为越王铸造过湛卢、巨阙、胜邪、鱼肠、纯钩等五种利剑。名噪一时。后来又于徒弟为楚王铸造了龙渊、太阿、工布三把利剑。欧冶子的后代以祖先的名字做为姓氏，形成了欧姓。有的去掉欠字为区姓。欧与区音同。<br/>　　2、出自姒姓。与欧阳姓同宗。夏朝帝王少康的儿子无余，被封于会稽，建立了越国，为诸侯国。到春秋的时候被吴国给灭掉了。十九年后，钩践又复国。到钩践六世孙无疆为越王的时候。被楚国所灭，无疆的次子蹄被封于乌程欧余山的南部，以山南为阳，所以称为欧阳亭侯，无疆的支庶子孙，于是以封地山名和封爵名为姓氏，形成了欧、欧阳、欧侯三个姓氏。后来虽然也有欧阳、欧侯省姓为欧，但是起源仍为这一支。</p>
+<p><strong>家族名人</strong><br/>　　1、欧道江：长乐人，明代学者，博学多才，四方师事，从游者数千人。<br/>　　2、欧冶子：春秋的时候匠人，因为他居住在欧余山，又以冶炼锻造兵器出名，所以以欧冶为姓。欧冶子后来移居到福建的闽侯县冶山，为越王铸造过湛卢、巨阙、胜邪、鱼肠、纯钩等五种利剑。名噪一时。后来又于徒弟为楚王铸造了龙渊、太阿、工布三把利剑。<br/>　　3、欧普祥：元代起义军将领。<br/>　　4、欧大任：明代南京工部郎中，广东顺德人，嘉靖时期国子博士。学者王士贞称其为“广东五才子”之一。5欧宝：东汉时期著名的孝子。平都人，而且性格开朗,为人豪爽.</p>
+<p><strong>迁徙分布</strong><br/>　　欧姓望族居住在平阳（今天的临汾西南）。<br/>　　姓同宗。夏朝帝王少康的儿子无余，被封于会稽，建立了越国，为诸侯国。到春秋的时候被吴国给灭掉了。十九年后，钩践又复国。到钩践六世孙无疆为越王的时候。被楚国所灭，无疆的次子蹄被封于乌程欧余山的南部，以山南为阳，所以称为欧阳亭侯，无疆的支庶子孙，于是以封地山名和封爵名为姓氏，形成了欧、欧阳、欧侯三个姓氏。后来虽然也有欧阳、欧侯省姓为欧，但是起源仍为这一支。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2666.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2668.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

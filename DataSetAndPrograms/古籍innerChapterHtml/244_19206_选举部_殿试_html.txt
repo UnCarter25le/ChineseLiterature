@@ -1,0 +1,150 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·选举部·殿试_古诗文网
+</title>
+<meta content="状元唐武后天授元年二月，策问贡士于洛阳殿前。状元之名，盖自此始。淡墨书名唐人进士榜必以夜书，书必以淡墨。或曰名第者阴注阳受，以淡墨书，若鬼神之迹也。胪传集英殿唱第日，皇帝临轩，宰臣" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19206.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>选举部·殿试</b></span>
+<a href="javascript:PlayBookv(19206)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19206" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19206" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　<strong>状元</strong></p>
+<p>　　唐武后天授元年二月，策问贡士于洛阳殿前。状元之名，盖自此始。</p>
+<p>　　<strong>淡墨书名</strong></p>
+<p>　　唐人进士榜必以夜书，书必以淡墨。或曰名第者阴注阳受，以淡墨书，若鬼神之迹也。</p>
+<p>　　<strong>胪传</strong></p>
+<p>　　集英殿唱第日，皇帝临轩，宰臣进三名卷子，读于御案前，用牙棍点读。宰臣拆视姓名，则曰某人。鸿胪寺承之，以传于阶下，卫士六七人，齐声传其名而呼之，谓之传胪。</p>
+<p>　　<strong>糊名</strong></p>
+<p>　　唐初择人以身、言、书、判，六品以下集试，选人皆糊名，令学士考判。</p>
+<p>　　<strong>临轩策士</strong></p>
+<p>　　宋熙宁三年，吕公着知贡举，密奏曰：“天子临轩策士，用诗赋，非举贤求治之意。令廷试，乞以诏策，咨访治道。”自是上御集英殿亲试，乃用策问。</p>
+<p>　<strong>　天门放榜</strong></p>
+<p>　　范仲淹判陈州时，郡守母病，召道士伏坛，奏章终夜不动。至五更，谓守曰：“夫人寿有六年。”守问奏章何久，曰：“天门放明年春榜，观者骈道，以故稽留。”问状元，曰：“姓王，二字名，下一字涂墨，旁注一字，远不可辨。”明春，状元王拱寿，御笔改为拱辰。</p>
+<p>　　<strong>湘灵鼓瑟</strong></p>
+<p>　　钱起宿驿舍，外有人语曰：“曲终人不见，江上数峰青。”起识之。及殿试《湘灵鼓瑟》诗，遂赋曰：“善鼓云和瑟，常闻帝子灵。冯夷徒自舞，楚客不堪听，雅调凄金石，清音发杳冥。苍梧来暮怨，白芷动芳馨。流水传湘曲，悲风过洞庭。”末联久不属。忽记此二语，足之。试官曰：“神句也。”遂中首选。</p>
+<p>　　<strong>志不在温饱</strong></p>
+<p>　　王曾初举进士，省试礼部、廷对皆第一。人或曰：“状元中三杨，一生吃着不尽。”曾曰：“某生平志不在温饱。”</p>
+<p>　　<strong>琼林宴</strong></p>
+<p>　　宋太平兴国八年，宋白等及第，赐宴琼林苑，后遂为定制。又曰自吕蒙正始。</p>
+<p>　<strong>　泥金报喜</strong></p>
+<p>　　《天宝遗事》：新及第，以泥金帖子附家书报捷，谓之泥金报喜。</p>
+<p>　　<strong>雁塔题名</strong></p>
+<p>　　唐韦肇及第，偶于慈恩寺雁塔上题名，后人效之，遂为故事。自神龙以来，杏林宴后于雁塔题名，同年中推善书者记之。他时有将相，则易朱书。</p>
+<p>　　<strong>曲江宴</strong></p>
+<p>　　曲江在西安府，唐朝秀士登科第者，赐宴曲江。每年三月三日，游人最盛。</p>
+<p>　　<strong>蕊榜</strong></p>
+<p>　　世传：大罗天放榜于蕊珠宫，故称蕊榜。</p>
+<p>　　<strong>一榜京官</strong></p>
+<p>　　宋太祖幸西都。张齐贤以布衣献《十策》，语太宗曰：“我到西都得一张齐贤，异时可作宰相。”太宗即位，放进士榜，欲置齐贤高等，而有司落名三甲榜末，上不悦。及注官，一榜尽除京官。</p>
+<p>　　<strong>夺锦标</strong></p>
+<p>　　唐卢肇、黄颇皆宜兴人，同举乡试，郡守独厚饯颇。明年，肇状元及第归，郡守延肇观竞渡，有诗：“向道是龙君不信，果然夺得锦标归。”守大惭。</p>
+<p>　　释褐</p>
+<p>　　宋兴国二年，始赐吕蒙正等释褐加袍带。后遂为例。</p>
+<p>　　<strong>烧尾宴</strong></p>
+<p>　　唐士人得第，必展欢宴，谓之烧尾宴。谓鱼化为龙，必烧其尾。</p>
+<p>　　<strong>赐花</strong></p>
+<p>　　唐懿宗开新第，宴于同江，乃命折花于金盒，令中使驰之宴所，宣口敕曰：“便令簪花饮宴。”无不为荣。</p>
+<p>　　<strong>红绫饼</strong></p>
+<p>　　唐僖宗幸南内兴庆池，泛舟，方食饼。时进士在曲江，有闻喜宴。上命御府依人数各赐红绫饼。所司以金盒进，上命中官驰以赐。故徐演诗云：“莫欺老缺残牙齿，曾吃红绫饼来。”</p>
+<p>　　<strong>柳汁染衣</strong></p>
+<p>　　李固行古柳下，闻弹指声曰：“吾柳神也，用柳汁染子衣矣。得蓝袍，当以枣糕祀我。”未几，及第。</p>
+<p>　<strong>　英雄入彀</strong></p>
+<p>　　唐太宗贞观中私幸端门，见进士缀行而出，喜曰：“天下英雄入吾彀中矣！”时人语曰：“太宗皇帝真长策，赚得英雄尽白头。”</p>
+<p>　　<strong>取青紫</strong></p>
+<p>　　汉夏侯胜曰：“士患不明经术耳，经术一明，取青紫，如俯拾地芥耳。”</p>
+<p>　　<strong>席帽离身</strong></p>
+<p>　　宋初士子犹袭唐俗，皆曳袍垂带，出则席帽自随。李巽累举不第，乡人曰：“李秀才不知恁时席帽离身？”及第后，乃遗乡人诗曰：“为报乡闾亲戚道，如今席帽已离身。”</p>
+<p>　　<strong>一日看遍长安花</strong></p>
+<p>　　王维登第，得意之甚，有“一日看遍长安花”之句。</p>
+<p>　　<strong>踏李三</strong></p>
+<p>　　王十朋正榜第一，李三锡副榜第一。时有戏正榜尾者，曰：“举头虽不见王十，伸脚犹能踏李三。”</p>
+<p>　　<strong>五色云见</strong></p>
+<p>　　韩忠献弱冠举进士，名在第二。方唱名，太史奏曰：“下五色云见。”遂拜右司谏，权知制诰。</p>
+<p>　　<strong>青钱学士</strong></p>
+<p>　　唐张鷟举制科甲第，员半千称：鷟文辞犹青铜钱，万选万中。时号“青钱学士”。</p>
+<p>　　<strong>登科谢诗</strong></p>
+<p>　　王寄幼有声场屋间，为李文定客。文定薨于位，章圣临奠，见屏间有诗云：“雁声不到歌楼上，秋色偏欺客路中。”爱之，召见。占对称旨，特许赴殿试。既登科，有谢诗云：“不拜春官为座主，亲逢天子作门生。”</p>
+<p>　　<strong>读卷贺得士</strong></p>
+<p>　　开庆间，王应麟充读卷官。至第七卷，顿首曰：“是卷古谊若龟鉴，忠肝如铁石，臣敢以得士贺。”遂擢第一，乃文天祥也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19205.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19207.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

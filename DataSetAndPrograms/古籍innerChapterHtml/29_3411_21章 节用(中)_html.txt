@@ -1,0 +1,101 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+墨子·21章 节用(中)_古诗文网
+</title>
+<meta content="子墨子言曰：“古者明王圣人所以王天下、正诸侯者，彼其爱民谨忠，利民谨厚，忠信相连，又示之以利，是以终身不餍，殁世而不卷。古者明王圣人其所以王天下、正诸侯者，此也。”是故古者圣王制为" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3411.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1962" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>21章 节用(中)</b></span>
+<a href="javascript:PlayBookv(3411)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3411" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1962)" id="leftbtn1962" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3411" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　子墨子言曰：“古者明王圣人所以王天下、正诸侯者，彼其爱民谨忠，利民谨厚，忠信相连，又示之以利，是以终身不餍，殁世而不卷。古者明王圣人其所以王天下、正诸侯者，此也。”</p>
+<p>　　是故古者圣王制为节用之法，曰：“凡天下群百工，轮车鞼匏、陶冶梓匠，使各从事其所能，曰：“凡足以奉给民用，则止。”诸加费不加于民利者，圣王弗为。</p>
+<p>　　古者圣王制为饮食之法，曰：“足以充虚继气，强股肱，耳目聪明，则止。不极五昧之调、芬香之和，不致远国珍怪异物。”何以知其然？古者尧治天下，南抚交趾，北降幽都，东、西至日所出、入，莫不宾服。逮至其厚爱，黍稷不二，羹胾不重，饭于土塯，啜于土形，斗以酌，俯仰周旋，威仪之礼，圣王弗为。</p>
+<p>　　古者圣王制为衣服之法，曰：“冬服绀緅之衣，轻且暖；夏服絺绤之衣，轻且凊，则止。”诸加费不加于民利者，圣王弗为。</p>
+<p>　　古者圣人为猛禽狡兽暴人害民，于是教民以兵行。日带剑，为刺则入，击则断，旁击而不拆，此剑之利也。甲为衣，则轻且利，动则兵且从，此甲之利也。车为服重致远，乘之则安，引之则利，安以不伤人，利以速至，此车之利也。古者圣王为大川广谷之不可济，于是利为舟楫，足以将之，则止。虽上者三公，诸侯至，舟楫不易，津人不饰，此舟之利也。</p>
+<p>　　古者圣王制为节葬之法，曰：“衣三领，足以朽肉；棺三寸，足以朽骸；窟穴，深不通于泉，流不发泄，则止。”死者既葬，生者毋久丧用哀。</p>
+<p>　　古者人之始生，未有宫室之时，因陵丘窟穴而处焉。圣王虑之，以为窟穴，曰：冬可以避风寒，逮夏，下润湿，上熏蒸，恐伤民之气，于是作为宫室而利。然则为宫室之法，将奈何哉？子墨子言曰：“其旁可以圉风寒，上可以圉雪霜雨露，其中蠲洁，可以祭祀，宫墙足以为男女之别，则止。”诸加费不加民利者，圣王弗为。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3410.aspx">上一章</a>
+<a href="/guwen/book_29.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3412.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1962" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

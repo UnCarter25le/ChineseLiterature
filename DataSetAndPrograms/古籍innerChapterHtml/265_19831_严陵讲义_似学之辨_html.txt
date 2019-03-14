@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+北溪字义·严陵讲义·似学之辨_古诗文网
+</title>
+<meta content="或曰：今世所谓科举之学，与圣贤之学何如？曰：似学而非学也。同是经也，同是子史也，而为科举者读之，徒猎涉皮肤以为缀缉时文之用，而未尝及其中之蕴。止求影像仿佛，略略通解，可以达吾之词则" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19831.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>严陵讲义·似学之辨</b></span>
+<a href="javascript:PlayBookv(19831)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19831" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19831" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%88%e6%b7%b3">陈淳</a></p>
+<div class="contson">
+<p>　　或曰：今世所谓科举之学，与圣贤之学何如？曰：似学而非学也。同是经也，同是子史也，而为科举者读之，徒猎涉皮肤以为缀缉时文之用，而未尝及其中之蕴。止求影像仿佛，略略通解，可以达吾之词则已，而未尝求为真是真非之识。穷日夜旁搜博览，吟哦记忆，惟铺排骈俪，无根之是习，而未尝有一言及理义之实。自垂髫至白首，一惟虚名之是计，而未尝有一念关身心之切。盖其徒知举子蹊径之为美，而不知圣门堂宇高明广大之为可乐；徒知取青紫伎俩之为美，而不知潜心大业趣味无穷之为可嗜。凡天命民彝，大经大法，人生日用所当然而不容阙者，悉置之度外，不少接心目，一或叩及之则解颐，而莫喻于修己、治人、齐家、理国之道，未尝试一讲明其梗概。及一旦猎高科，蹑要津，当人天下国家之责，而其中枵然，无片字之可施，不过直行己意之私而已。若是者，虽万卷填胸，锦心绣口，号曰富学，何足以为学？峨冠博带，文雅缊藉，号曰名儒，何足以为儒？假若胸膳欧苏，才气韩柳，谓之未曾读书亦可也。然则科举之学视圣贤之学，正犹枘凿之相反而不足以相通欤？曰：科举程度固有害乎圣贤之旨，而圣贤学问未尝有妨于科举之文。理义明，则文字议论益有精神光采。躬行心得者有素，则形之商订时事，敷陈洽体，莫非溢中肆外之余，自有以当人情、中物理，蔼然仁义道德之言，一一皆可用之实。而有司明眼者得之，即为国家有用之器，非止一名一第而已也。况其器局高宏，功力至到，造道成德之大全者，所谓伊傅周召，王佐规模具焉。倘遇明王圣帝，云龙风虎之会，则直探诸囊而措之，与斯人同跻至道之域，又斯世之所不能舍也。但时王立科目之法，专指三日之文为名，而素行不与。在学者读书而言，则以圣师孔子为祖者也。吾夫子平日之所以教群弟子之所以学，渊源节目，昭昭方册，固有定法，正学者所当终身钻仰，毙而后已，非可随人迁变者。矧自圣朝列祖以至今日，已有尊崇之道，而荆、蜀、江、浙、闽、广及中都之士，复多以此为习尚，则亦此理在万世不容泯没，其轻重缓急固有辨也。或曰：生斯世也，非能绝意于斯世而舍彼就此也。曰：时王之法何可舍也？假使孔孟复生于今，亦不能舍科目而远去，则亦但不过以吾之学应之而已，焉能为吾之累也？然则抱天地之性，负万物之灵，而贵为斯人者，盍亦审其轻重缓急，而无甘于自暴自弃也哉！</p>
+<p>　　之余，自有以当人情、中物理，蔼然仁义道德之言，一一皆可用之实。而有司明眼者得之，即为国家有用之器，非止一名一第而已也。况其器局高宏，功力至到，造道成德之大全者，所谓伊傅周召，王佐规模具焉。倘遇明王圣帝，云龙风虎之会，则直探诸囊而措之，与斯人同跻至道之域，又斯世之所不能舍也。但时王立科目之法，专指三日之文为名，而素行不与。在学者读书而言，则以圣师孔子为祖者也。吾夫子平日之所以教群弟子之所以学，渊源节目，昭昭方册，固有定法，正学者所当终身钻仰，毙而后已，非可随人迁变者。矧自圣朝列祖以至今日，已有尊崇之道，而荆、蜀、江、浙、闽、广及中都之士，复多以此为习尚，则亦此理在万世不容泯没，其轻重缓急固有辨也。或曰：生斯世也，非能绝意于斯世而舍彼就此也。曰：时王之法何可舍也？假使孔孟复生于今，亦不能舍科目而远去，则亦但不过以吾之学应之而已，焉能为吾之累也？然则抱天地之性，负万物之灵，而贵为斯人者，盍亦审其轻重缓急，而无甘于自暴自弃也哉！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19830.aspx">上一章</a>
+<a href="/guwen/book_265.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

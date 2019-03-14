@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+容斋随笔·卷十二·汉士择所从_古诗文网
+</title>
+<meta content="汉自中平黄巾之乱，天下震扰。士大夫莫不择所从，以为全身远害之计，然非豪杰不能也。荀彧少时，以颍川四战之地，劝父老亟避之，乡人多怀土不能去，彧独率宗族往冀州，袁绍待以上宾之礼。彧度绍" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_5773.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4286" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十二·汉士择所从</b></span>
+<a href="javascript:PlayBookv(5773)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv5773" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4286)" id="leftbtn4286" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay5773" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%b4%aa%e8%bf%88">洪迈</a></p>
+<div class="contson">
+<p>　　汉自中平黄巾之乱，天下震扰。士大夫莫不择所从，以为全身远害之计，然非豪杰不能也。荀彧少时，以颍川四战之地，劝父老亟避之，乡人多怀土不能去，彧独率宗族往冀州，袁绍待以上宾之礼。彧度绍终不能定大业，去而从曹操。其乡人留者，多为贼所杀。袁绍遣使迎汝南士大夫，和洽独往荆州，刘表以上客待之。洽曰：“所以不从本初，避争地也。昏世之主，不可黩近，久而不去，谗慝将兴。”遂南之武陵，其留者多为表所害。曹操牧兖州，陈留太守张邈与之亲友。郡士高柔独以为邈必乘间为变，率乡人欲避之，众皆以曹、张相亲，不然其言。柔举家适河北，邈果叛操。郭嘉初见袁绍，谓其谋臣辛评等曰：“智者审于量主，袁公多端寡要，好谋无决，难与共济大难，吾将更举以求主，子盍去乎？”评等曰：“袁氏今最强，去将何之？”嘉不复言，遂去依曹操。操召见，与论天下事。出曰：“真吾主也。”杜袭、赵俨、繁钦避乱荆州，钦数见奇于表，袭曰：“所以俱来者，欲全身以待时耳。子若见能不已，非吾徒敢。”及天子都许，俨曰：“曹镇东必能济华夏，吾知归矣。”遂诣操。河间邢颛在无终，闻操定冀州，谓田畴曰：“闻曹公法令严，民厌乱矣，乱极则平。请以身先。”遂装还乡里。畴曰：“颛，天民之先觉者也。”孙策定丹阳，吕范请暂领都督，策曰：“子衡已有大众，岂宜复屈小职！”范曰：“今舍本土而托将军者，欲济世务也。譬犹同舟涉海，一事不牢，即俱受其败，此亦范计，非但将军也。”策从之。周瑜闻策声问，便推结分好，及策卒权立，瑜谓权可与共成大业，遂委心服事焉。诸葛亮在襄阳，刘表不能起；一见刘备，事之不疑。此诸人识见如是，安得困于乱世哉！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_5772.aspx">上一章</a>
+<a href="/guwen/book_72.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_5774.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4286" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

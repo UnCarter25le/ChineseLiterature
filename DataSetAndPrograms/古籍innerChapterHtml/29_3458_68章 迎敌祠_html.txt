@@ -1,0 +1,102 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+墨子·68章 迎敌祠_古诗文网
+</title>
+<meta content="敌以东方来，迎之东坛，坛高八尺，堂密八；年八十者八人，主祭；青旗、青神长八尺者八，弩八，八发而止；将服必青，其牲以鸡。敌以南方来，迎之南坛，坛高七尺，堂密七；年七十者七人，主祭；赤" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3458.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2010" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>68章 迎敌祠</b></span>
+<a href="javascript:PlayBookv(3458)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3458" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2010)" id="leftbtn2010" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3458" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　敌以东方来，迎之东坛，坛高八尺，堂密八；年八十者八人，主祭；青旗、青神长八尺者八，弩八，八发而止；将服必青，其牲以鸡。敌以南方来，迎之南坛，坛高七尺，堂密七；年七十者七人，主祭；赤旗、赤神长七尺者七，弩七，七发而止；将服必赤，其牲以狗。敌以西方来，迎之西坛，坛高九尺，堂密九；年九十者九人，主祭；白旗、素神长九尺者九，弩九，九发而止；将服必白，其牲以羊。敌以北方来，迎之北坛，坛高六尺，堂密六；年六十者六人，主祭；墨旗、黑神长六尺者六，弩六，六发而止；将服必黑，其牲以彘。从外宅诸名大祠，灵巫或祷焉，给祷牲。</p>
+<p>　　凡望气，有大将气，有小将气，有往气，有来气，有败气，能得明此者可知成败、吉凶。举巫、医、卜有所长，具药，宫之，善为舍。巫必近公社，必敬神之。巫、卜以请守，守独智巫、卜望气之请而已。其出入为流言，惊骇恐吏民，谨微察之，断罪不赦。</p>
+<p>　　牧贤大夫及有方技者若工，弟之。举屠、酤者置厨给事，弟之。</p>
+<p>　　凡守城之法，县师受事，出葆，循沟防，筑荐通涂，修城，百官共财，百工即事，司马视城修卒伍。设守门，二人掌右阉，二人掌左阉，四人掌闭，百甲坐之。</p>
+<p>　　城上步一甲、一戟，其赞三人。五步有五长，十步有什长，百步有百长，旁有大率，中有大将，皆有司吏卒长。城上当阶，有司守之。移中中处，泽急而奏之。士皆有职。</p>
+<p>　　城之外，矢之所遝，坏其墙，无以为客菌。三十里之内，薪蒸、水皆入内。狗、彘、豚、鸡食其肉，敛其骸以为醢，腹病者以起。</p>
+<p>　　城之内，薪蒸庐室，矢之所遝，皆为之涂菌。令命昏纬狗纂马，■纬。静夜闻鼓声而噪，所以阉客之气也，所以固民之意也，故时噪则民不疾矣。</p>
+<p>　　祝、史乃告于四望、山川、社稷，先于戎，乃退。公素服誓于太庙，曰：“其人为不道，不修义详，唯乃是王，曰：‘予必怀亡尔社稷，灭尔百姓。’二参子尚夜自厦，以勤寡人，和心比力兼左右，各死而守。”既誓，公乃退食。舍于中太庙之右，祝、史舍于社。百官具御，乃斗，鼓于门，右置旗，左置旌于隅练名。射参发，告胜，五兵咸备，乃下，出挨，升望我郊。乃命鼓，俄升，役司马射自门右，蓬矢射之，茅参发，弓弩继之；校自门左，先以挥，木石继之。祝、史、宗人告社，覆之以甑。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3457.aspx">上一章</a>
+<a href="/guwen/book_29.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3459.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2010" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

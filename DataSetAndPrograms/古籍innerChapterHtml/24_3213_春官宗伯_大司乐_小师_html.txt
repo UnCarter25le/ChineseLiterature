@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+周礼·春官宗伯·大司乐/小师_古诗文网
+</title>
+<meta content="大司乐掌成均之法，以治建国之学政，而合国之子弟焉。凡有道者，有德者，使教焉。死则以为乐祖，祭於瞽宗。以乐德教国子，中、和、祗庸、孝、友；以乐语教国子，兴、道、讽、诵、言、语；以乐舞" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3213.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1743" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>春官宗伯·大司乐/小师</b></span>
+<a href="javascript:PlayBookv(3213)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3213" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1743)" id="leftbtn1743" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3213" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%91%a8%e5%85%ac%e6%97%a6">周公旦</a></p>
+<div class="contson">
+<p>　　大司乐掌成均之法，以治建国之学政，而合国之子弟焉。凡有道者，有德者，使教焉。死则以为乐祖，祭於瞽宗。以乐德教国子，中、和、祗庸、孝、友；以乐语教国子，兴、道、讽、诵、言、语；以乐舞教国子，舞云门、大卷、大咸、大磬、大夏、大濩、大武。以六律、六同、五声、八音、六舞、大合乐。以致鬼、神、示，以和邦国，以谐万民，以安宾客，以说远人，以作动物。乃分乐而序之，以祭、以享、以祀。乃奏黄钟，歌大吕，舞云门，以祀天神；乃奏大簇，歌应钟，舞咸池，以祭地示；乃奏姑洗，歌南吕，舞大，以祀四望；乃奏蕤宾，歌函钟，舞大夏，以祭山川；乃奏夷则，歌小吕，舞大濩，以享先妣；乃奏无射，歌夹钟，舞大武，以享先祖。凡六乐者，文之以五声，播之以八音。凡六乐者，一变而致羽物及川泽之示，再变而致赢物及山林之示，三变而致鳞物及丘陵之示，四变而致毛物及坟衍之示，五变而致介物及土示，六变而致象物及天神。凡乐，圜钟为宫，黄钟为角，大蔟为征，姑洗为羽，雷鼓、雷鼗，孤竹之管；云和之琴瑟，云门之舞。冬日至，於地上之圜丘奏之，若乐六变，则天神皆降，可得而礼矣。凡乐，函钟为宫，大蔟为角，姑洗为征，南吕为羽，灵鼓、灵鼗，孙竹之管，空桑之琴瑟，咸池之舞。夏日至，於泽中之方丘奏之，若乐八变，则地示皆出，可得而礼矣。凡乐，黄钟为宫，大吕为角，大蔟为征，应钟为羽，路鼓、路鼗，阴竹之管，龙门之琴瑟，九德之歌，九之舞，於宗庙之中奏之，若乐九变，则人鬼可得而礼矣。凡乐事，大祭祀，宿县，遂従声展之。王出入，则令奏王夏；尸出入，则令奏肆夏；牲出入，则令奏昭夏，帅国子而舞，大飨不入牲。其他，皆如祭祀。大射，王出入，令奏王夏；及射，令奏驺虞，诏诸侯以弓矢舞。王大食，三宥，皆令奏钟鼓。王师大献，则令奏恺乐。凡日月食、四镇五岳崩、大傀异灾、诸侯薨，令去乐。大札、大凶、大灾、大臣死，凡国之大忧，令弛县。凡建国，禁其淫声、过声、凶声、慢声。大丧，莅廞乐器。及葬，藏乐器，亦如之。</p>
+<p>　　乐师掌国学之政，以教国子小舞。凡舞，有帗舞，有羽舞，有皇舞，有旄舞，有干舞，有人舞。教乐仪，行以肆夏，趋以采荠，车亦如之。环拜以钟鼓为节。凡射，王以驺虞为节，诸侯以狸首为节，大夫以采苹为节，士以采蘩为节。凡乐，掌其序事，治其乐政。凡国之小事用乐者，令奏钟鼓。凡乐成，则告备，诏来瞽皋舞。及彻，帅学士而歌彻，令相。飨食诸侯，序其乐事，令奏钟鼓，令相，如祭之仪。燕射，帅射夫以弓矢舞，乐出入，令奏钟鼓。凡军大献，教恺歌，遂倡之。凡丧，陈乐器，则帅乐官。及序哭，亦如之。凡乐官，掌其政令，听其治讼。</p>
+<p>　　大胥掌学士之版，以待致诸子。春入学舍采，合舞；秋颁学，合声。以六乐之会正舞位，以序出入舞者。比乐官，展乐器。凡祭祀之用乐者，以鼓征学士，序宫中之事。</p>
+<p>　　小胥掌学士之征令而比之。觵其不敬者，巡舞列而挞其怠慢者。正乐县之位，王宫县，诸侯轩县，卿大夫判县，士特县。辨其声，凡县钟磬，半为堵，全为肆。</p>
+<p>　　大师掌六律、六同以合阴阳之声。阳声：黄钟、大簇、姑洗、蕤宾、夷则、无射。阴声：大吕、应钟、南吕、函钟、小吕、夹钟。皆文之以五声：宫、商、角、徵、羽；皆播之以八音：金、石、土、革、丝、木、匏、竹。教六诗：曰风、曰赋、曰比、曰兴、曰雅、曰颂。以六德为之本，以六律为之音。大祭祀，帅瞽登歌，令奏击拊，下管播乐器，令奏鼓朄。大飨，亦如之。大射，帅瞽而歌射节。大师，执同律以听军声而诏吉凶。大丧，帅瞽而廞作谥。凡国之瞽蒙正焉。</p>
+<p>　　小师掌教鼓鼗、柷、敔、埙、箫、管、弦、歌。大祭祀，登歌击拊，下管击应鼓，彻歌。大飨，亦如之。大丧，与廞。凡小祭祀、小乐事，鼓朄，掌六乐声音之节。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3212.aspx">上一章</a>
+<a href="/guwen/book_24.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3214.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1743" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

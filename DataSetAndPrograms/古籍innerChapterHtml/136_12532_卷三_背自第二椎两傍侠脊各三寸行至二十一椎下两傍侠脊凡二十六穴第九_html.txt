@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+针灸甲乙经·卷三·背自第二椎两傍侠脊各三寸行至二十一椎下两傍侠脊凡二十六穴第九_古诗文网
+</title>
+<meta content="附分，在第二椎下，附项内廉，两傍各三寸，足太阳之会。刺入八分，灸五壮。魄户，在第三椎下，两傍各三寸，足太阳脉气所发，刺入三分，灸五壮。神堂，在第五椎下，两傍各三寸陷者中，足太阳脉气" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12532.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·背自第二椎两傍侠脊各三寸行至二十一椎下两傍侠脊凡二十六穴第九</b></span>
+<a href="javascript:PlayBookv(12532)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12532" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12532" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%9a%87%e7%94%ab%e8%b0%a7">皇甫谧</a></p>
+<div class="contson">
+<p>　　<strong>附分</strong>，在第二椎下，附项内廉，两傍各三寸，足太阳之会。刺入八分，灸五壮。</p>
+<p>　　<strong>魄户</strong>，在第三椎下，两傍各三寸，足太阳脉气所发，刺入三分，灸五壮。</p>
+<p>　　<strong>神堂</strong>，在第五椎下，两傍各三寸陷者中，足太阳脉气所发，刺入三分，灸五壮。</p>
+<p>　　<strong>噫嘻</strong>，在肩 内廉，侠第六椎下，两傍各三寸，以手痛按之，病患言噫嘻，是穴，足太阳脉气所发，刺入六分，灸五壮。（骨空注云∶令病患呼噫嘻之言，则指下动矣。灸三壮。）</p>
+<p>　　<strong>膈关</strong>，在第七椎下，两傍各三寸陷者中，足太阳脉气所发，正坐开肩取之，刺入五分，灸三壮。（气府论注云灸五壮。）</p>
+<p>　　<strong>魂门</strong>，在第九椎下，两傍各三寸陷者中，足太阳脉气所发，正坐取之，刺入五分，灸五壮。</p>
+<p>　　<strong>阳纲</strong>，在第十椎下，两傍各三寸陷者中，足太阳脉气所发，正坐取之，刺入五分，灸三壮。</p>
+<p>　　<strong>意舍</strong>，在第十一椎下，两傍各三寸陷者中，足太阳脉气所发，刺入五分，灸三壮。</p>
+<p>　　<strong>胃仓</strong>，在第十二椎下，两傍各三寸陷者中，足太阳脉气所发，刺入五分，灸三壮。</p>
+<p>　　<strong>肓门</strong>，在第十三椎下，两傍各三寸，入肘间，足太阳脉气所发，刺入五分，灸三壮。（经云∶与鸠尾相值。）</p>
+<p>　　<strong>志室</strong>，在第十四椎下，两傍各三寸陷者中，足太阳脉气所发，正坐取之，刺入五分，灸三壮。（气府注云灸五壮。）</p>
+<p>　　<strong>胞肓</strong>，在第十九椎下，两傍各三寸陷者中，足太阳脉气所发，伏而取之，刺入五分，灸三壮。（气府注云灸五壮。）</p>
+<p>　　<strong>秩边</strong>，在第二十一椎下，两傍各三寸陷者中，足太阳脉气所发，伏而取之，刺入五分，灸三壮。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12531.aspx">上一章</a>
+<a href="/guwen/book_136.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12533.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

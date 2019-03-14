@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·成公·成公六年_古诗文网
+</title>
+<meta content="【经】六年春王正月，公至自会。二月辛巳，立武宫。取鄟卫孙良夫帅师侵宋。夏六月，邾子来朝。公孙婴齐如晋。壬申，郑伯费卒。秋，仲孙蔑、叔孙侨如帅师侵宋。楚公子婴齐帅师伐郑。冬，季孙行父" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2919.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1447" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>成公·成公六年</b></span>
+<a href="javascript:PlayBookv(2919)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2919" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1447)" id="leftbtn1447" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2919" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】六年春王正月，公至自会。二月辛巳，立武宫。取鄟卫孙良夫帅师侵宋。夏六月，邾子来朝。公孙婴齐如晋。壬申，郑伯费卒。秋，仲孙蔑、叔孙侨如帅师侵宋。楚公子婴齐帅师伐郑。冬，季孙行父如晋。晋栾书帅师救郑。 </p>
+<p>　　【传】六年春，郑伯如晋拜成，子游相，授玉于东楹之东。士贞伯曰：「郑伯其死乎？自弃也已！视流而行速，不安其位，宜不能久。」 </p>
+<p>　　二月，季文子以鞍之功立武宫，非礼也。听于人以救其难，不可以立武。立武由己，非由人也。</p>
+<p>　　取鄟，言易也。 </p>
+<p>　　三月，晋伯宗、夏阳说，卫孙良夫、宁相，郑人，伊、洛之戎，陆浑，蛮氏侵宋，以其辞会也。师于金咸，卫人不保。说欲袭卫，曰：「虽不可入，多俘而归，有罪不及死。」伯宗曰：「不可。卫唯信晋，故师在其郊而不设备。若袭之，是弃信也。虽多卫俘，而晋无信，何以求诸侯？」乃止，师还，卫人登陴。 </p>
+<p>　　晋人谋去故绛。诸大夫皆曰：「必居郇瑕氏之地，沃饶而近盬，国利君乐，不可失也。」韩献子将新中军，且为仆大夫。公揖而入。献子从。公立于寝庭，谓献子曰：「何如？」对曰：「不可。郇瑕氏土薄水浅，其恶易觏。易觏则民愁，民愁则垫隘，于是乎有沉溺重膇之疾。不如新田，土厚水深，居之不疾，有汾、浍以流其恶，且民从教，十世之利也。夫山、泽、林、盬，国之宝也。国饶，则民骄佚。近宝，公室乃贫，不可谓乐。」公说，从之。夏四月丁丑，晋迁于新田。 </p>
+<p>　　六月，郑悼公卒。</p>
+<p>　　子叔声伯如晋。命伐宋。 </p>
+<p>　　秋，孟献子、叔孙宣伯侵宋，晋命也。</p>
+<p>　　楚子重伐郑，郑从晋故也。 </p>
+<p>　　冬，季文子如晋，贺迁也。 </p>
+<p>　　晋栾书救郑，与楚师遇于绕角。楚师还，晋师遂侵蔡。楚公子申、公子成以申、息之师救蔡，御诸桑隧。赵同、赵括欲战，请于武子，武子将许之。知庄子、范文子、韩献子谏曰：「不可。吾来救郑，楚师去我，吾遂至于此，是迁戮也。戮而不已，又怒楚师，战必不克。虽克，不令。成师以出，而败楚之二县，何荣之有焉？若不能败，为辱已甚，不如还也。」乃遂还。 </p>
+<p>　　于是，军帅之欲战者众，或谓栾武子曰：「圣人与众同欲，是以济事。子盍从众？子为大政，将酌于民者也。子之佐十一人，其不欲战者，三人而已。欲战者可谓众矣。《商书》曰：『三人占，从二人。』众故也。」武子曰：「善钧，从众。夫善，众之主也。三卿为主，可谓众矣。从之，不亦可乎？」 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2918.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2920.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1447" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

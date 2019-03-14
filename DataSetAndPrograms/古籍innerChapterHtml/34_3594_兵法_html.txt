@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+管子·兵法_古诗文网
+</title>
+<meta content="明一者皇，察道者帝，通德者王，谋得兵胜者霸。故夫兵，虽非备道至德也，然而所以辅王成霸。今代之用兵者不然，不知兵权者也。故举兵之日而境内贫，战不必胜，胜则多死，得地而国败。此四者，用" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3594.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2250" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>兵法</b></span>
+<a href="javascript:PlayBookv(3594)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3594" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2250)" id="leftbtn2250" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3594" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ae%a1%e4%bb%b2%e5%8f%8a%e9%97%a8%e5%be%92">管仲及门徒</a></p>
+<div class="contson">
+<p>　　明一者皇，察道者帝，通德者王，谋得兵胜者霸。故夫兵，虽非备道至德也，然而所以辅王成霸。今代之用兵者不然，不知兵权者也。故举兵之日而境内贫，战不必胜，胜则多死，得地而国败。此四者，用兵之祸者也。四祸其国而无不危矣。</p>
+<p>　　大度之书曰：举兵之日而境内不贫，战而必胜，胜而不死，得地而国不败。为此四者若何？举兵之日而境内不贫者，计数得也。战而必胜者，法度审也。胜而不死者，教器备利，而敌不敢校也。得地而国不败者，因其民也。因其民，则号制有发也。教器备利，则有制也。法度审，则有守也。计数得，则有明也。治众有数，胜敌有理。察数而知理，审器而识胜，明理而胜敌。定宗庙，遂男女，官四分，则可以定威德；制法仪，出号令，然后可以一众治民。</p>
+<p>　　兵无主，则不蚤知敌。野无吏，则无蓄积。官无常，则下怨上，器械不巧。则朝无定，赏罚不明，则民轻其产。故曰：蚤知敌，则独行；有蓄积，则久而不匮；器械巧，则伐而不费：赏罚明，则勇士劝也。</p>
+<p>　　三官不缪，五教不乱，九章著明，则危危而无害，穷穷而无难。故能致远以数，纵强以制。三官：一曰鼓棗鼓所以任也，所以起也，所以进也；二曰金棗金所以坐也，所以退也，所以免也；三曰旗棗旗所以立兵也，所以利兵也，所以偃兵也。此之谓三官。有三令，而兵法治也。五教：一曰教其目以形色之旗，二曰教其身以号令之数，三曰教其足以进退之度，四曰教其手以长短之利，五曰教其心以赏罚之诚。五教各习，而士负以勇矣。九章：一曰举日章，则昼行；二曰举月章，则夜行；三曰举龙章，则行水；四曰举虎章，则行林；五曰举鸟章，则行陂；六曰举蛇章，则行泽；七曰举鹊章，则行陆；八曰举狼章，则行山；九曰举韟章，则载食而驾。九章既定，而动静不过。</p>
+<p>　　三官、五教、九章，始乎无端，卒乎无穷。始乎无端者，道也；卒乎无穷者，德也。道不可量，德不可数也。故不可量，则众强不能图；不可数，则伪诈不敢向。两者备施，则动静有功。径乎不知，发乎不意。径乎不知，故莫之能御也；发乎不意，故莫之能应也。故全胜而无害。因便而教，准利而行。教无常，行无常。两者备施，动乃有功。</p>
+<p>　　器成教施，追亡逐遁若飘风，击刺若雷电。绝地不守，恃固不拔，中处而无敌，令行而不留。器成教施，散之无方，聚之不可计。教器备利，进退若雷电，而无所疑匮。一气专定，则傍通而不疑；厉士利械，则涉难而不匮。进无所疑，退无所匮，敌乃为用。凌山坑，不待钩梯；历水谷，不须舟辑。径于绝地，攻于恃固，独出独入而莫之能止。宝不独入，故莫之能止；宝不独见，故莫之能敛。无名之至，尽尽而不意。故不能疑神。</p>
+<p>　　畜之以道，则民和；养之以德，则民合。和合故能谐，谐故能辑，谐辑以悉，莫之能伤。定一至，行二要，纵三权，施四教，发五机，设六行，论七数，守八应，审九器，章十号。故能全胜大胜。</p>
+<p>　　无守也，故能守胜。数战则士罢，数胜则君骄，夫以骄君使罢民，则国安得无危？故至善不战，其次一之。破大胜强，一之至也。乱之不以变，乘之不以诡，胜之不以诈，一之实也。近则用实，远则施号；力不可量，强不可度，气不可极，德不可测，一之原也。众若时雨，寡若飘风，一之终也。</p>
+<p>　　利適，器之至也；用敌，教之尽也。不能致器者，不能利適；不能尽教者，不能用敌。不能用敌者穷，不能致器者困。远用兵，则可以必胜。出入异涂，则伤其敌。深入危之，则士自修；士自修，则同心同力。善者之为兵也，使敌若据虚，若搏景。无设无形焉，无不可以成也；无形无为焉，无不可以化也，此之谓道矣。若亡而存，若后而先，威不足以命之。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3593.aspx">上一章</a>
+<a href="/guwen/book_34.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3595.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2250" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,103 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·庄公·庄公三十二年_古诗文网
+</title>
+<meta content="【经】三十有二年春，城小谷。夏，宋公、齐侯遇于梁丘。秋七月癸巳，公子牙卒。八月癸亥，公薨于路寝。冬十月己未，子般卒。公子庆父如齐。狄伐邢。 【传】三十二年春，城小谷，为管仲也。 齐" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2842.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1363" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>庄公·庄公三十二年</b></span>
+<a href="javascript:PlayBookv(2842)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2842" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1363)" id="leftbtn1363" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2842" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】三十有二年春，城小谷。夏，宋公、齐侯遇于梁丘。秋七月癸巳，公子牙卒。八月癸亥，公薨于路寝。冬十月己未，子般卒。公子庆父如齐。狄伐邢。 </p>
+<p>　　【传】三十二年春，城小谷，为管仲也。 </p>
+<p>　　齐侯为楚伐郑之故，请会于诸侯。宋公请先见于齐侯。夏，遇于梁丘。 </p>
+<p>　　秋七月，有神降于莘。</p>
+<p>　　惠王问诸内史过曰：「是何故也？」对曰：「国之将兴，明神降之，监其德也；将亡，神又降之，观其恶也。故有得神以兴，亦有以亡，虞、夏、商、周皆有之。」王曰：「若之何？」对曰：「以其物享焉，其至之日，亦其物也。」王从之。内史过往，闻虢请命，反曰：「虢必亡矣，虐而听于神。」 </p>
+<p>　　神居莘六月。虢公使祝应、宗区、史嚚享焉。神赐之土田。史嚚曰：「虢其亡乎！吾闻之：国将兴，听于民；将亡，听于神。神，聪明正直而一者也，依人而行。虢多凉德，其何土之能得！」</p>
+<p>　　初，公筑台临党氏，见孟任，从之。閟，而以夫人言许之。割臂盟公，生子般焉。雩，讲于梁氏，女公子观之。圉人荦自墙外与之戏。子般怒，使鞭之。公曰：「不如杀之，是不可鞭。荦有力焉，能投盖于稷门。」 </p>
+<p>　　公疾，问后于叔牙。对曰：「庆父材。」问于季友，对曰：「臣以死奉般。」公曰：「乡者牙曰庆父材。」成季使以君命命僖叔待于金咸巫氏，使金咸季鸩之，曰：「饮此则有后于鲁国，不然，死且无后。」饮之，归及逵泉而卒，立叔孙氏。 </p>
+<p>　　八月癸亥，公薨于路寝。子般即位，次于党氏。冬十月己未，共仲使圉人荦贼子般于党氏。成季奔陈。立闵公。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2841.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2843.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1363" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

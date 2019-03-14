@@ -1,0 +1,108 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+子夏易传·卷二·坤下震上_古诗文网
+</title>
+<meta content="豫，利建侯，行師。彖曰：豫，剛應而志行，順以動，豫。豫順以動，故天地如之，而況建侯行師乎。天地以順動，故日月不過而四時不忒。聖人以順動，則刑罰清而民服。豫之時，義大矣哉。隂者小人之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_9404.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二·坤下震上</b></span>
+<a href="javascript:PlayBookv(9404)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv9404" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay9404" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%8d%9c%e5%95%86">卜商</a></p>
+<div class="contson">
+<p>　　豫，利建侯，行師。彖曰：豫，剛應而志行，順以動，豫。豫順以動，故天地如之，而況建侯行師乎。天地以順動，故日月不過而四時不忒。聖人以順動，則刑罰清而民服。豫之時，義大矣哉。</p>
+<p>　　隂者小人之道也。治之者，非君子歟。衆隂而陽禦之，非當大位則有兵戰之事。文之不當理也。其用師而豫乎，剛應而衆從之也。豫先而當得其順動者也。順以動，故天地如之，日月之迭明也。四時之更，變也。聖人以順動，而天下服也。非聖人不能得順動之時義也。</p>
+<p>　　象曰：雷出地奮，豫。先王以作樂崇德，殷薦之上帝，以配祖考。</p>
+<p>　　雷始發震奮而出地，物遂其豫也。震先而得其樂乎，故謂豫之。為樂得於心，而形見於外，興物而動其情，曰樂。故先王之有天下者，樂也。禮平天下之志，以修諸内也。故合其鐘、鼔、竽、瑟、管、磬之聲而與衆共樂也。禮者，重本崇德而敬其上也，故禘郊宗祖皆崇有德，而配之上帝天神焉。以與衆同敬而節諸外也，故作樂崇德，殷薦上帝，合禮樂之化，設内外之敎，而天下順也。</p>
+<p>　　初六，鳴豫，凶。象曰：初六，鳴豫，志窮，凶也。</p>
+<p>　　初有上應，樂有得志也。夫君子之心，靜而自居。知得喪之終始，而不遷其正，故其樂不極，其憂不沮，何患之及哉。小人之始得志，誇其大而極其志，極而不及，於禍者無之。</p>
+<p>　　六二，介于石，不終日，貞吉。象曰：不終日，貞吉。以中正也。</p>
+<p>　　卦一陽也。衆隂競之，以求豫也。二得順而中正，物至而順，豫至而樂，不遷其正也，故介如石堅，難以茍變。感之至，後動也。得吉之先也，其先知者不疾而速獲其吉也。安用其終日乎。</p>
+<p>　　六三，盱豫悔，遲有悔。象曰：盱豫有悔，位不當也。</p>
+<p>　　四經，始之地也。而三統下，卦之主而不當位，是以遲速皆不中也。盱而遽來，柔涉乎諂也。遲而後至，疑懼旅於衆也。是以悔矣。</p>
+<p>　　九四，由豫，大有得，勿疑，朋盍簪。象曰：由豫，大有得。志大行也。</p>
+<p>　　一陽而能濟衆也。而上下應之，所以得豫，皆由之也。復何疑焉。旣順以動之，天下附之。則智者為謀，勇者為力，皆相朋合，簪而來仕矣。</p>
+<p>　　六五，貞疾，恒不死。象曰：六五，貞疾，乘剛也。恒不死，中未亡也。</p>
+<p>　　四剛動也。衆之歸柔，無德乘之，正乃疾也。守恒於中，其義不死已，存其尊也。</p>
+<p>　　上六，冥豫成，有渝无咎。象曰：?豫，在上何可長也。</p>
+<p>　　剛得志而豫，五正疾矣。而又上之，處於豫外，不知時之豫，昧於豫之成也。何可長哉。變而知歸，得无咎矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_9403.aspx">上一章</a>
+<a href="/guwen/book_101.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_9405.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

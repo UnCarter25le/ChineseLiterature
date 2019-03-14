@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+公羊传·隐公·元年_古诗文网
+</title>
+<meta content="一、元年，春王正月。元年者何？君之始年也。春者何？岁之始也。王者孰谓？谓文王也。曷为先言王而后言正月？王正月也。何言乎王正月？大一统也。公何以不言即位？成公意也。何成乎公之意？公将" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13136.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>隐公·元年</b></span>
+<a href="javascript:PlayBookv(13136)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13136" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13136" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%85%ac%e7%be%8a%e9%ab%98">公羊高</a></p>
+<div class="contson">
+<p>　　一、元年，春王正月。</p>
+<p>　　元年者何？君之始年也。春者何？岁之始也。王者孰谓？谓文王也。曷为先言王而后言正月？王正月也。何言乎王正月？大一统也。公何以不言即位？成公意也。何成乎公之意？公将平国而反之桓。曷为反之桓？桓幼而贵，隐长而卑，其为尊卑也微，国人莫知。隐长又贤，诸大夫扳隐而立之。隐于是焉而辞立，则未知桓之将必得立也。且如桓立，则恐诸大夫之不能相幼君也，故凡隐之立为桓立也。隐长又贤，何以不宜立？立适以长不以贤，立子以贵不以长。桓何以贵？母贵也。母贵则子何以贵？子以母贵，母以子贵。</p>
+<p>　　二、三月，公及邾娄仪父盟于眛。</p>
+<p>　　及者何？与也，会及暨皆与也。曷为或言会，或言及，或言暨？会犹最也；及犹汲汲也；暨犹暨暨也。及我欲之，暨不得已也。仪父者何？邾娄之君也。何以名？字也。曷为称字？襃之也。曷为襃之？为其与公盟也。与公盟者众矣，曷为独襃乎此？因其可襃而襃之。此其为可襃奈何？渐进也。眛者何？地期也。</p>
+<p>　　三、夏，五月，郑伯克段于鄢。</p>
+<p>　　克之者何？杀之也。杀之则曷为谓之克？大郑伯之恶也。曷为大郑伯之恶？母欲立之，己杀之，如勿与而已矣。段者何？郑伯之弟也。何以不称弟？当国也。其地何？当国也。齐人杀无知何以不地？在内也。在内虽当国不地也，不当国虽在外亦不地也。</p>
+<p>　　四、秋，七月，天王使宰咺来归惠公仲子之赗。</p>
+<p>　　宰者何？官也。咺者何？名也。曷为以官氏？宰士也。惠公者何？隐之考也。仲子者何？桓之母也。何以不称夫人？桓未君也。赗者何？丧事有赗。赗者，盖以马以乘马束帛。车马曰赗，货财曰赙，衣被曰襚。桓未君则诸侯曷为来赗之？隐为桓立，故以桓母之丧告于诸侯。然则何言尔？成公意也。其言来何？不及事也。其言惠公仲子何？兼之，兼之非礼也。何以不言及仲子？仲子微也。</p>
+<p>　　五、九月，及宋人盟于宿。</p>
+<p>　　孰及之？内之微者也。</p>
+<p>　　六、冬，十有二月，祭伯来。</p>
+<p>　　祭伯者何？天子之大夫也。何以不称使？奔也。奔则曷为不言奔？王者无外，言奔则有外之辞也。</p>
+<p>　　七、公子益师卒。</p>
+<p>　　何以不日？远也。所见异辞，所闻异辞，所传闻异辞。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/book_143.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13137.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

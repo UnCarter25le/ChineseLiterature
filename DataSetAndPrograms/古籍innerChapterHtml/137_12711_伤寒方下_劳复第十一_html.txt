@@ -1,0 +1,149 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·伤寒方下·劳复第十一_古诗文网
+</title>
+<meta content="（论二首 方十八首 食忌九条）论曰∶凡热病新瘥及大病之后，食猪肉及羊血肥鱼油腻等必当大下利，医所不能治也，必至于死。若食饼饵粢黍饴哺脍炙枣栗诸果物。脯 及坚实难消之物，胃气尚虚弱不" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12711.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>伤寒方下·劳复第十一</b></span>
+<a href="javascript:PlayBookv(12711)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12711" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12711" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（论二首 方十八首 食忌九条）</span></p>
+<p>　　论曰∶凡热病新瘥及大病之后，食猪肉及羊血肥鱼油腻等必当大下利，医所不能治也，必至于死。若食饼饵粢黍饴哺脍炙枣栗诸果物。脯 及坚实难消之物，胃气尚虚弱不能消化，必更结热。适以药下之，则胃气虚冷，大利难禁，不下之必死，下之复危，皆难救也。热病及大病之后多坐此死，不可不慎也。</p>
+<p>　　病新瘥后，但得食糜粥，宁少食令饥慎勿饱，不得他有所食，虽思之，勿与之也，引日转久，可渐食羊肉白糜若羹汁雉兔鹿肉，不可食猪狗肉也。新瘥后当静卧，慎勿早起。梳头洗面，非但体劳，亦不可多言语用心使意劳烦，凡此皆令人劳复，故督邮顾子献得病已瘥未健，请华佗视脉，曰，虽瘥尚虚未得复，阳气不足，慎勿劳事，余劳尚可，女劳则死，当吐舌数寸。其妇闻其夫瘥，从百余里来省之，经宿交接，中间三日发热口噤，临死舌出数寸。</p>
+<p>　　病新瘥未满百日，气力未平复，而犯房室略无不死。有士盖正者，疾愈后六十日已能行射猎，犯房室即吐涎而死。及热病房室名为阴阳易之病，皆难治多死。近者有一士大夫小得伤寒瘥已十余日，能乘马往来，自谓平复，犯房室即小腹急痛，手足拘挛而死。</p>
+<p>　　时病瘥后未满五日，食一切肉面者，病更发大困。</p>
+<p>　　时病瘥后新起饮酒及韭菜，病更发。</p>
+<p>　　时病新瘥食生鱼 ，下利必不止。</p>
+<p>　　时病新瘥食生菜，令颜色终身不平复。</p>
+<p>　　时病新瘥汗解饮冷水者，损心包，令人虚不复。</p>
+<p>　　时病新瘥食生枣及羊肉者，必膈上作热蒸。</p>
+<p>　　时病新瘥食羊犬等肉者，必作骨中蒸热。</p>
+<p>　　时病新瘥食鱼肉与瓜生菜令人身热。（一本作肿。</p>
+<p>　　时病新瘥食蒜脍者，病发必致大困。</p>
+<p>　　<strong>黄龙汤<br/></strong>　　治伤寒瘥后更头痛壮热烦闷方。（仲景名小柴胡汤。</p>
+<p>　　柴胡（一斤） 半夏（半斤） 黄芩（三两） 人参（二两） 甘草（二两） 生姜（四两） 大枣（十二枚）</p>
+<p>　　上七味 咀，以水一斗煮取五升，去滓，服五合，日三。不呕而渴者去半夏，加栝蒌根四两。</p>
+<p>　　<strong>补大病后不足虚劳方</strong>（万病虚劳同用∶</p>
+<p>　　取七岁以下五岁以上黄牛新生者乳一升，以水四升煎取一升，如人体温稍稍饮之，不得过多，十日服不绝为佳。</p>
+<p>　　<strong>枳实栀子汤<br/>　　治大病瘥后劳复者方。</strong></p>
+<p>　　枳实（三枚） 栀子（十四枚） 豉（一升，绵裹）</p>
+<p>　　上三味 咀，以酢浆七升，先煎减三升，次纳枳实、栀子煮取二升，次纳豉煮五六沸，去滓，分再服，覆取汗。如有宿食者纳大黄，如博棋子五六枚。</p>
+<p>　　<strong>治伤寒温病后劳复或食或饮或动作方∶</strong></p>
+<p>　　栀子仁（三七枚） 石膏（五两） 香豉（一升） 鼠屎（尖头大者二十枚）</p>
+<p>　　上四味 咀，以水七升煮取三升，分三服。</p>
+<p>　　<strong>治食大饱不消、劳复、脉实者方∶</strong></p>
+<p>　　豉（一升） 鼠屎（二十枚） 栀子（七枚） 大黄（三两）</p>
+<p>　　上四味 咀，以水六升煮取二升，分三服，微取汗，应小鸭溏者止，不溏者复作。</p>
+<p>　　<strong>治新瘥早起及食多劳复方∶</strong></p>
+<p>　　豉（五合） 鼠屎（尖头者二十一枚）</p>
+<p>　　上二味，以水二升煮取一升，尽服之，温卧令小汗愈。崔氏加栀子七枚尤良。（《肘后》有麻子仁一升，加水一升。亦可纳枳实三枚，葱白一虎口）</p>
+<p>　　<strong>治重病新瘥，早起劳及饮食多致发欲死方∶</strong></p>
+<p>　　烧鳖甲末饮服方寸匕。</p>
+<p>　　<strong>治病新瘥，遇美饮食食过多，食复者方∶</strong></p>
+<p>　　取所食余烧为末，饮调服二钱匕，日三服。</p>
+<p>　<strong>　麦门冬汤<br/>　　治劳复气欲绝起死人方。</strong></p>
+<p>　　麦门冬（一两） 甘草（二两） 京枣（二十枚） 竹叶（切，一升）</p>
+<p>　　上四味 咀，以水七升煮粳米一升令熟去米，纳诸药煎取三升，分三服，不能服者绵滴汤纳口中用之有效。</p>
+<p>　　<strong>治食劳方∶</strong></p>
+<p>　　面二升煮取汁服之。</p>
+<p>　　又方 杏仁五十枚，以酢二升煎取一升，服之取汗。</p>
+<p>　　<strong>欲令病患不复方∶</strong></p>
+<p>　　烧头垢如梧桐子大，服之。</p>
+<p>　　<strong>治伤寒瘥后一年，心下停水不能食者方∶</strong></p>
+<p>　　生地黄（五斤） 白术（一斤） 好曲（二斤）</p>
+<p>　　上三味合捣，令相得，曝干下筛，酒服方寸匕，日三，加至二匕。</p>
+<p>　　论曰∶妇人温病虽瘥，若未平复、血脉未和、尚有热毒而与之交接，得病者名为阴易病。</p>
+<p>　　其人身体重，热上冲胸，头重不能举，眼中生眵 （一作膜来），四肢（一云膝胫）拘急、小解离，经脉缓弱血气虚，骨髓竭便嘘嘘吸吸，气力转少，着床不能动摇，起止仰人或引岁月方死。医者张苗说，有婢得病瘥后数十日，有六人奸之皆死。</p>
+<p>　　<strong>治妇人得病易丈夫，丈夫得病易妇人方∶</strong></p>
+<p>　　取女人中 近隐处烧服方寸匕，日三，小便即利，阴头微肿，此为愈矣。女人病可取男，一如此法。</p>
+<p>　<strong>　治交接劳复，阴卵肿缩，腹中绞痛便欲死方∶</strong></p>
+<p>　　取所交接妇人衣服，以覆男子立愈。</p>
+<p>　　<strong>令病患不复方∶</strong></p>
+<p>　　取女人手足爪二十枚，女人中衣带一尺烧，以酒若米饮汁服之。</p>
+<p>　　<strong>治男子新病起近房内复者方∶</strong></p>
+<p>　　取女人月经赤帛烧服方寸匕，亦治阴卵肿缩入腹绞痛欲死。</p>
+<p>　　<strong>治病后发乱不可理，通头法∶ </strong></p>
+<p>　　生麻油二斤，将头发解开安铜沙罗中，用油淹渍之，细将钗子理发斯须并自通矣。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12710.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12712.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

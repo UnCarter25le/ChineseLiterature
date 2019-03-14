@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+虎钤经·卷十九_古诗文网
+</title>
+<meta content="时加占乌情第一百九十巳酉为宽大之日，时加巳酉，乌鸣其上，有酒食；时加寅午，乌鸣其上，有酒食、礼让；时加丑戌，乌鸣其上，有酒食、词讼、口舌；时加卯亥，乌鸣其上，有酒食；时加辰未，乌鸣" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_20062.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷十九</b></span>
+<a href="javascript:PlayBookv(20062)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv20062" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay20062" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%b8%e6%b4%9e">许洞</a></p>
+<div class="contson">
+<p>　　<strong>时加占乌情第一百九十</strong></p>
+<p>　　巳酉为宽大之日，时加巳酉，乌鸣其上，有酒食；时加寅午，乌鸣其上，有酒食、礼让；时加丑戌，乌鸣其上，有酒食、词讼、口舌；时加卯亥，乌鸣其上，有酒食；时加辰未，乌鸣其上，有酒食，妇人口舌；时加申子，乌鸣其上，有酒食。寅午为廉贞日，时加廉贞，乌鸣其上，有王相长吏休废，有谏诤责让（一作酿）；时加巳酉，乌鸣其上，有宾主；时加申子，乌鸣其上，有酒食，相杀；时加丑未，乌鸣其上，有宾主；时加丑戌，乌鸣其上，与上同；时加亥卯，乌鸣其上，有酒食。丑戌为公正日，时加公正，乌鸣其上，有王相当其吉，长吏公事休废，囚死者有来慰问事；时加巳西，乌鸣其上，有公正，酒食相遗；时加寅午，乌鸣其上，有公正庆贺事；时加辰未，乌鸣其上，有使（一作吏）士来说阴私事；时加申子，乌鸣其上有吏（一作人）来作公正事；时加亥卯，乌鸣其上，有士来说贼相杀事。辰未为奸邪日，时加辰未，乌鸣其上，有王相来，长吏奸诈，休废囚死口舌事；时加寅午，乌鸣其上，谦让人说奸讼事；时加巳酉，乌鸣其上，有酒食、阴贼事；时加丑戌，乌鸣其上，有吏捕奸邪私事，阴谋斗争劫杀盗事；时加亥卯，乌鸣其上，除贼兵劫。申子为贪狼日，时加申子，乌鸣其上，有言群盗攻劫，休废囚死，有盗贼事；时加巳酉，乌鸣其上，有酒食、攻战事；时加寅午，乌鸣其上，有善人说攻劫事；时加丑戌辰未，乌鸣其上，有妇人说群贼事；时加亥卯，乌鸣其上，有群贼攻夺事。亥卯为阴贼日，时加亥卯，乌鸣其上，有王相说群臣大义，休废囚死斗伤事；时加巳酉，乌鸣其上，有酒食相伤；时加丑戌，乌鸣其上，有使逐贼相伤；时加寅午，乌鸣其上，有妇人奸私相伤事；时加辰未，乌鸣其上，亦如之；时加申子，乌鸣其上，贼攻讨事。诸阴日有乌鸣，若群飞狩飘风门从四季上，时加四季，有攻夺，皆为开闭之事。</p>
+<p>　　<strong>运加占乌情第一百九十一</strong></p>
+<p>　　乌从子上来，大将不可震威武，敌来勿与战，必不利。丑上来者，不宜出战，兵进战，内有阴谋将发，细察备之。寅上来者，吉音至。卯上来者，利进战，大将有禄庆之事。辰上来者，有吉信至，营中忽见牛羊大吉，见死物凶。巳上来者，不利战阵，两军俱伤。午上来，不利出兵。未上来，战斗主吉，客凶。申上来，不利出兵。酉上来，利出兵，有喜。戌上来，吏士有异心，潜备之。亥上来，不利战。此十二辰位占乌之情也。常以怪字居甲上占之。假令甲子旬，即在子上是也。又若乌从四散并来到营上居，恶声而止住之者，贼兵已入境矣。急飞过者，贼勇锐，疾如雷电，速为之备，但疾与战，我可以胜。鸷鸟飞来将军牙帐上搏击者，有贼，不可出战。三足乌飞来营前后，谓之灾饮乌也，贼将来至营中者凶，急备之。赤乌入营者，防奸人刺客。群鸟三三五五营上往来，无声而四散者，吏士有逃溃之心。鹳雀忽来营上作巢而鸣，速移营避之，大水至。乌至营栖于牙帐者，吏士谋，大将即有祸，速避之。乌鹊忽来炮上作巢者，吏士谋，大将潜验之。方战之时，有白鸟状如鹰，飞赴敌者，并力击之，大胜兆也；自敌来赴我者凶，急退军勿战。</p>
+<p>　　（图缺）</p>
+<p>　　<strong>杂占乌情第一百九十二</strong></p>
+<p>　　出师之日，乌于军前逆飞者，征无功；在左则吉；在右则凶。逆军而作恶声“查查”者，大凶兆也。或从右发声和顺，自大将后而过左复声者，大兵有庆之兆也。乌及相呼“于”（一作子）者，吉也。乌于军前，一足卓立地者，进必（一作不）寇者。在枯卉上鸣者，凶。振迅疾飞，视顾周阵而不止者，前贼也。乌来牙旗上立者，急移营避之，其地不祥。乌立牙帐上作恶声者，有吏士潜谋逆，速搜验之，必得奸状。乌来鼓角上鸣者，将军、吏士心雄益奋也；器械上鸣者，即有战阵也；绕营而飞鸣者，所来之处贼兵至也。凡乌之来，大将别令一人候之。此皆能通天地鬼神之情者也。</p>
+<p>　　<strong>时加占乌情第一百九十三</strong></p>
+<p>　　登明方鸣者，凶；神后、大吉、功曹等方者，大冲、天罡太乙方者，胜光、小吉、传送方者，吉；从魁、河魁方者，凶。更看神与月将相克。假令登明是凶神，在寅卯申酉即相生为吉也。假令传送是吉神，在寅卯巳午即相克为凶也。他皆仿此。宜细认方位，辩其吉凶。</p>
+<p>　　<strong>六甲占乌情第一百九十四</strong></p>
+<p>　　（六甲自图在第八卷，但以图按其方可也）</p>
+<p>　　（图缺）</p>
+<p>　　乌在上鸣者，贼闻不来，与战大吉。鸣者，合有吉音，无他战阵。鸣者，喜信之兆也。鸣者，防慎，在内当有细人潜为贼应，不然有谋叛者，察防之。鸣者，军无他战。鸣者，有贼信者，当有战阵。鸣者，闻贼不来，急备之，不利战，凶兆也。鸣者，亦慎之，或有小盗，必杀之，不然当有大惊。鸣者，防吏士亡遁。鸣者，将有战之事，主吉。鸣者，有贼信者。鸣者，防内有奸人潜为贼应，谨备之。夫占乌之法，立营之地，非乌所巢而有乌来鸣，方可论占。若聚林群乌之所栖泊，而嘲嚣无常者，不足占也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_20061.aspx">上一章</a>
+<a href="/guwen/book_274.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_20063.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+聊斋志异·卷一·妖术_古诗文网
+</title>
+<meta content="于公者，少任侠，喜拳勇，力能持高壶作旋风舞。崇祯间，殿试在都，仆疫不起，患之。会市上有善卜者，能决人生死，将代问之。既至未言，卜者曰：“君莫欲问仆病乎？”公骇应之。曰：“病者无害，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_11424.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷一·妖术</b></span>
+<a href="javascript:PlayBookv(11424)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv11424" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay11424" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%92%b2%e6%9d%be%e9%be%84">蒲松龄</a></p>
+<div class="contson">
+<p>　　于公者，少任侠，喜拳勇，力能持高壶作旋风舞。崇祯间，殿试在都，仆疫不起，患之。会市上有善卜者，能决人生死，将代问之。</p>
+<p>　　既至未言，卜者曰：“君莫欲问仆病乎？”公骇应之。曰：“病者无害，君可危。”公乃自卜，卜者起卦，愕然曰：“君三日当死！”公惊诧良久。卜者从容曰：“鄙人有小术，报我十金，当代禳之。”公自念生死已定，术岂能解，不应而起，欲出。卜者曰：“惜此小费，勿悔！勿悔！”爱公者皆为公惧，劝罄橐以哀之。公不听。</p>
+<p>　　倏忽至三日，公端坐旅舍，静以觇之，终日无恙。至夜，阖户挑灯，倚剑危坐。一漏向尽，更无死法。意欲就枕，忽闻窗隙窣窣有声。急视之，一小人荷戈入，及地则高如人。公捉剑起急击之，飘忽未中。遂遽小，复寻窗隙，意欲遁去。公疾斫之，应手而倒。烛之，则纸人，已腰断矣。公不敢卧，又坐待之。逾时一物穿窗入，怪狞如鬼。才及地，急击之，断而为两，皆蠕动。恐其复起，又连击之，剑剑皆中，其声不软。审视则土偶，片片已碎。</p>
+<p>　　于是移坐窗下，目注隙中。久之，闻窗外如牛喘，有物推窗棂，房壁震摇，其势欲倾。公惧覆压，计不如出而斗，遂划然脱肩，奔而出。见一巨鬼，高与檐齐；昏月中见其面黑如煤，眼闪烁有黄光；上无衣，下无履，手弓而腰矢。公方骇，鬼则弯矣。公以剑拨矢，矢堕。欲击之，则又弯矣。公急跃避，矢贯于壁，战战有声。鬼怒甚，拔佩刀，挥如风，望公力劈。公猱进，刀中庭石，石立断。公出其股间，削鬼中踝，铿然有声。鬼益怒，吼如雷，转身复剁。公又伏身入，刀落，断公裙。公已及胁下，猛斫之，亦铿然有声，鬼仆而僵。公乱击之，声硬如柝。烛之则一木偶，高大如人。弓矢尚缠腰际，刻画狰狞；剑击处，皆有血出。公因秉烛待旦。方语鬼物皆卜人遣之，欲致人于死，以神其术也。</p>
+<p>　　次日，遍告交知，与共诣卜所。卜人遥见公，瞥不可见。或曰：“皆翳形术也，犬血可破。”公如其言，戒备而往。卜人又匿如前。急以犬血沃立处，但见卜人头面，皆为犬血模糊，目灼灼如鬼立。乃执付有司而杀之。</p>
+<p>　　异史氏曰：“尝谓买卜为一痴。世之讲此道而不爽于生死者几人？卜之而爽，犹不卜也。且即明明告我以死期之至，将复如何？况借人命以神其术者，其可畏尤甚耶！”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_11423.aspx">上一章</a>
+<a href="/guwen/book_121.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_11425.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

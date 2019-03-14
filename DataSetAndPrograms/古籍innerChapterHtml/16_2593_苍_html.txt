@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·苍_古诗文网
+</title>
+<meta content="历史来源　　1、出自姬姓，起源于远古，以祖名为氏。黄帝的后代，黄帝有二十五个儿子，其中有一个叫做苍林，苍林的后代就跟随他的祖先以苍为姓。　　2、亦出自姬姓，以祖字为氏。黄帝的孙子颛" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2593.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>苍</b></span>
+<a href="javascript:PlayBookv(2593)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2593" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2593" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自姬姓，起源于远古，以祖名为氏。黄帝的后代，黄帝有二十五个儿子，其中有一个叫做苍林，苍林的后代就跟随他的祖先以苍为姓。<br/>　　2、亦出自姬姓，以祖字为氏。黄帝的孙子颛顼高阳氏，有八个聪明的儿子，都是治世能臣，他们帮助尧处理国家大事，政绩很好。世称“八恺”。其中大儿子名叫苍舒（又作“仓舒”）。苍舒的后代以他的字为姓，形成苍姓的又一支。<br/>　　3、起源于周朝时候的一种叫作“仓人”的官职，其后人以官职名为氏。周朝在朝廷里面设有仓人这一官职，专门官理粮食，是很重要的官职。仓人的后代有的以官名作为姓氏，称为仓氏，后来改仓为苍，成为苍姓的又一支来源。<br/>　　4、出自苍与仓通。古代“苍”与“仓”通，传说创造文字的仓颉，古代的书中也写做苍颍大约汉代以后，有苍姓改为仓姓。</p>
+<p><strong>家族名人</strong><br/>　　苍葛：周朝时期阳樊人，襄王以阳樊温原攒茅之田与晋，阳樊不服，晋师围之。苍葛大呼道：“德以柔中国，刑以威四夷。宜吾不敢服也，此谁非王之亲姻，其俘之也，乃出其民。”<br/>　　苍舒：又作仓舒，上古高阳氏八才子之一。据《左传·文公十八年》记载八人是：苍舒、隤（Tuí颓）敳（ái挨）、梼戭（Yǎn演）、大临、尨（Máng忙）降、庭坚、仲容、叔达。都是治世能臣，他们帮助尧处理国家大事，政绩很好。齐、圣、广、渊、明、允、笃、诚，天下之民，谓之八恺”，孔颖达疏：“恺，和也”言其和于物也。仓舒为八人之中的老大，所享的寿祚很长，一直到禹舜君临天下，还曾祯举之使主后土，以撰百事，他的后世子孙即以仓为姓，亦称仓氏。<br/>　　苍颉：又作“仓虮，是古代神话人物，相传为黄帝史官，文字发明家，观鸟兽之迹，体类象形而制字，以代结绳之政，后世奉为神。古籍亦有将苍颉作“仓虮的，《汉书·艺文志》及东汉延熹五年这苍颉庙碑，均明书“苍虮。壁画中苍颉形象为六目（传说为四目）老翁，浓眉深目，躬身谦和，使人感到智慧无穷。<br/>　　苍英：汉代人，曾官江夏太守，后其子孙遂为江夏人。<br/>　　仓慈：三国时期敦煌太守，百姓对他是清官还是贪官议论纷纷。一日，贫民王老汉状告当地一霸张财主，强买他的土地，强纳他女儿小兰为妾，小兰不堪受辱而跳河，至今下落不明。张财主在堂上百般抵赖，退堂后还指使同僚对仓慈行贿。仓慈为查明真相，微服私访，得知当地财主一贯欺压百姓，歧视胡人，强买、强卖，小兰原先已与胡人二虎相爱，张财主横刀夺爱，逼得小兰无奈投河的事实。第二次升堂，仓慈巧妙地惩治了张财主，把他行贿的钱用于二虎和被二虎所救的小兰的婚礼上，并且颁布了均田赋、保护工商的新法令，大快人心，使敦煌百姓过上了安定的生活。<br/>　　仓振：元朝人，他因为“谕降徭”，帖然向化，而著称，曾帮助瑶族百姓学习文化，并在驿道两旁种植松树、榕树，以便行者，为后人称颂。这样造福于民的好官，当然会被老百姓感念不已。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）苍姓在大陆和台湾都没有列入百家姓前一百位。上古时候的黄帝，是著名的氏族首领，他的部落崇拜龙图腾。黄帝和炎帝一起被看作是中华民族始祖。黄帝的儿子当中，有一个叫作苍林。苍林的后代都以苍作为姓氏，世代相传。在黄帝的孙子当中，有一个叫作颛顼的，也是当时著名的氏族部落首领。颛顼的后代高阳氏子弟八人，都是治国安邦的贤人，被称为高阳氏八恺。这八人中老大叫苍舒，他的后代也以苍作为姓氏，又形成一支苍姓。黄帝有个史官叫作仓颉，也是当时著名的氏族首领。他的部落文化很兴盛，而传说汉字，八卦也都是仓颉所发明的。在古代，“苍”和“仓”是通用的，所以仓颉有称为苍颍而仓颉的后代，就有以苍作为姓氏的，是今天苍姓的又一个来源。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2592.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2594.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

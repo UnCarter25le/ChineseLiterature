@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·魏二·秦召魏相信安君_古诗文网
+</title>
+<meta content="秦召魏相信安君。信安君不欲往。苏代为说秦王曰：“臣闻之，忠不必当，当不必忠。今臣愿大王陈臣之愚意，恐其不忠于下吏，自使有要领之罪。愿大王察之。今大王令人执事于魏，以完其交，臣恐魏交" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4674.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left4068" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>魏二·秦召魏相信安君</b></span>
+<a href="javascript:PlayBookv(4674)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4674" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(4068)" id="leftbtn4068" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4674" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　秦召魏相信安君。信安君不欲往。苏代为说秦王曰：“臣闻之，忠不必当，当不必忠。今臣愿大王陈臣之愚意，恐其不忠于下吏，自使有要领之罪。愿大王察之。今大王令人执事于魏，以完其交，臣恐魏交之益疑也。将以塞赵也，臣又恐赵之益劲也。夫魏王之爱习魏信也，甚矣；其智能而任用之也，厚矣；其畏恶严尊秦也，明矣。今王使人入魏而不用，则王之使人入魏无益也。若用，魏必舍所爱习而用所畏恶，此魏王之所以不安也。夫舍万乘之事而退，此魏信之所难行也。夫令人之君处所不安，令人之相行所不能，以此为亲，则难久矣。臣故恐魏交之益疑也。且魏信舍事，则赵之谋者必曰：‘舍于秦，秦必令其所爱信者用赵。’是赵存而我亡也，赵安而我危也。则上有野战之气，下有坚守之心，臣故恐赵之益劲也。</p>
+<p>　　“大王欲完魏之交，而使赵小心乎?不如用魏信而尊之以名。魏信事王，国安而名尊；离王，国危而权轻。然则魏信之事主也，上所以为其主者忠矣，下所以自为者厚矣，彼其事王必完矣。赵之用事者必曰：‘魏氏之名族不高于我，土地之实不厚于我。魏信以韩、魏事秦，秦甚善之，国得安焉，身取尊焉。今我讲难于秦兵为招质，国处削危之形，非得计也。结怨于外，主患于中，身处死亡之地，非完事也。’彼将伤其前事，而悔其过行；冀其利，必多割地以深下王。则是大王垂拱之割地以为利重，尧、舜之所求而不能得也。臣愿大王察之。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4673.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4675.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right4068" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

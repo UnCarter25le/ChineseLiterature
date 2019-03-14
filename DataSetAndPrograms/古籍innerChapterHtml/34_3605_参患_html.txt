@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+管子·参患_古诗文网
+</title>
+<meta content="凡人主者，猛毅则伐，懦弱则杀，猛毅者何也？轻诛杀人之谓猛毅。懦弱者何也，重诛杀人之谓懦弱。此皆有失彼此。凡轻诛者杀不辜，而重诛者失有皋，故上杀不辜，则道正者不安；上失有皋，则行邪者" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3605.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2259" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>参患</b></span>
+<a href="javascript:PlayBookv(3605)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3605" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2259)" id="leftbtn2259" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3605" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ae%a1%e4%bb%b2%e5%8f%8a%e9%97%a8%e5%be%92">管仲及门徒</a></p>
+<div class="contson">
+<p>　　凡人主者，猛毅则伐，懦弱则杀，猛毅者何也？轻诛杀人之谓猛毅。懦弱者何也，重诛杀人之谓懦弱。此皆有失彼此。凡轻诛者杀不辜，而重诛者失有皋，故上杀不辜，则道正者不安；上失有皋，则行邪者不变。道正者不安，则才能之人去亡；行邪者不变，则群臣朋党；才能之人去亡，则宜有外难，群臣朋党，则宜有内乱。故曰猛毅者伐，懦弱者杀也。</p>
+<p>　　君之所以卑尊，国之所以安危者，莫要于兵。故诛暴国必以兵，禁辟民必以刑。然则兵者外以诛暴，内以禁邪。故兵者尊主安国之经也，不可废也。若夫世主则不然。外不以兵，而欲诛暴，则地必亏矣。内不以刑，而欲禁邪，则国必乱矣。</p>
+<p>　　故凡用兵之计，三惊当一至，三至当一军，三军当一战；故一期之师，十年之蓄积殚；一战之费，累代之功尽；今交刃接兵而后利之，则战之自胜者也。攻城围邑，主人易子而食之，析骸而爨之，则攻之自拔者也。是以圣人小征而大匡，不失天时，不空地利，用日维梦，其数不出于计。故计必先定而兵出于竟，计未定而兵出于竟，则战之自败，攻之自毁者也。</p>
+<p>　　得众而不得其心，则与独行者同实。兵不完利，与无操者同实，甲不坚密，与俴者同实。弩不可以及远，与短兵同实。射而不能中，与无矢者同实。中而不能入，与无鏃者同实。将徒人，与俴者同实。短兵待远矢，与坐而待死者同实。故凡兵有大论。必先论其器，论其士，论其将，论其主，故曰：“器滥恶不利者，以其士予人也，士不可用者，以其将予人也；将不知兵者，以其主予人也；主不积务于兵者，以其国予人也；故一器成，往夫具，而天下无战心。二器成，惊夫具，而天下无守城。三器成，游夫具，而天下无聚众。”所谓无战心者，知战必不胜，故曰无战心。所谓无守城者，知城必拔，故曰无守城。所谓无聚众者，知众必散，故曰无聚众。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3604.aspx">上一章</a>
+<a href="/guwen/book_34.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3606.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2259" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·哀公·哀公八年_古诗文网
+</title>
+<meta content="【经】八年春王正月，宋公入曹，以曹伯阳归。吴伐我。夏，齐人取讙及阐。归邾子益子邾。秋七月。冬十有二月癸亥，杞伯过卒。齐人归讙及阐。 【传】八年春，宋公伐曹，将还，褚师子肥殿。曹人诟" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3017.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1548" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>哀公·哀公八年</b></span>
+<a href="javascript:PlayBookv(3017)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3017" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1548)" id="leftbtn1548" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3017" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】八年春王正月，宋公入曹，以曹伯阳归。吴伐我。夏，齐人取讙及阐。归邾子益子邾。秋七月。冬十有二月癸亥，杞伯过卒。齐人归讙及阐。 </p>
+<p>　　【传】八年春，宋公伐曹，将还，褚师子肥殿。曹人诟之，不行，师待之。公闻之，怒，命反之，遂灭曹。执曹伯及司城强以归，杀之。 </p>
+<p>　　吴为邾故，将伐鲁，问于叔孙辄。叔孙辄对曰：「鲁有名而无情，伐之，必得志焉。」退而告公山不狃。公山不狃曰：「非礼也。君子违，不适仇国。未臣而有伐之，奔命焉，死之可也。所托也则隐。且夫人之行也，不以所恶废乡。今子以小恶而欲覆宗国，不亦难乎？若使子率，子必辞，王将使我。」子张疾之。王问于子泄，对曰：「鲁虽无与立，必有与毙；诸侯将救之，未可以得志焉。晋与齐、楚辅之，是四仇也。夫鲁、齐、晋之唇，唇亡齿寒，君所知也。不救何为？」</p>
+<p>　　三月，吴伐我，子泄率，故道险，从武城。初，武城人或有因于吴竟田焉，拘鄫谒之沤菅者，曰：「何故使吾水滋？」及吴师至，拘者道之，以伐武城，克之。王犯尝为之宰，澹枱子羽之父好焉。国人惧，懿子谓景伯：「若之何？」对曰：「吴师来，斯与之战，何患焉？且召之而至，又何求焉？」吴师克东阳而进，舍于五梧，明日，舍于蚕室。公宾庚、公甲叔子与战于夷，获叔子与析朱锄。献于王，王曰：「此同车，必使能，国未可望也。」明日，舍于庚宗，遂次于泗上。微虎欲宵攻王舍，私属徒七百人，三踊于幕庭，卒三百人，有若与焉，及稷门之内。或谓季孙曰：「不足以害吴，而多杀国士，不如已也。」乃止之。吴子闻之，一夕三迁。吴人行成，将盟。景伯曰：「楚人围宋，易子而食，析骸而爨，犹无城下之盟。我未及亏，而有城下之盟，是弃国也。吴轻而远，不能久，将归Ｖ请少待之。」弗从。景伯负载，造于莱门，乃请释子服何于吴，吴人许之。以王子姑曹当之，而后止。吴人盟而还。 </p>
+<p>　　齐悼公之来也，季康子以其妹妻之，即位而逆之。季鲂侯通焉，女言其情，弗敢与也。齐侯怒，夏五月，齐鲍牧帅师伐我，取讙及阐。 </p>
+<p>　　或谮胡姬于齐侯，曰：「安孺子之党也。」六月，齐侯杀胡姬。</p>
+<p>　　齐侯使如吴请师，将以伐我，乃归邾子。邾子又无道，吴子使大宰子余讨之，囚诸楼台，栫之以棘。使诸大夫奉大子革以为政。 </p>
+<p>　　秋，及齐平。九月，臧宾如如齐莅盟，齐闾丘明来莅盟，且逆季姬以归，嬖。 </p>
+<p>　　鲍牧又谓群公子曰：「使女有马千乘乎？」公子愬之。公谓鲍子：「或谮子，子姑居于潞以察之。若有之，则分室以行。若无之，则反子之所。」出门，使以三分之一行。半道，使以二乘。及潞，麇之以入，遂杀之。</p>
+<p>　　冬十二月，齐人归讙及阐，季姬嬖故也。 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3016.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3018.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1548" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

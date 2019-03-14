@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·针灸下·妇人病第八_古诗文网
+</title>
+<meta content="小腹坚痛，月水不通，刺带脉入六分，灸五壮，在季肋端（一作下一寸八分。） 漏下，若血闭不通逆气胀，刺血海，入五分，灸五壮，在膝膑上内廉白肉际二寸半。 漏血，小腹胀满如阻，体寒热，腹遍" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12865.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>针灸下·妇人病第八</b></span>
+<a href="javascript:PlayBookv(12865)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12865" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12865" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　小腹坚痛，月水不通，刺带脉入六分，灸五壮，在季肋端（一作下一寸八分。） 漏下，若血闭不通逆气胀，刺血海，入五分，灸五壮，在膝膑上内廉白肉际二寸半。 漏血，小腹胀满如阻，体寒热，腹遍肿，刺阴谷，入四分，灸三壮。在膝内辅骨后大筋之下小筋之上，屈膝乃得之。（《甲乙》云∶漏血，小便黄阴谷主之。）女子疝瘕，按之如以汤沃两股中，小腹肿阴挺出痛，经水来下，阴中肿或痒，漉青汁如葵羹，血闭无子，不嗜食，刺曲泉，在膝内辅骨下大筋上小筋下陷中，屈膝乃得之。刺入六分，灸三壮。 疝瘕按之如以汤沃股内至膝，飧泄，阴中痛，少腹痛坚，急重下湿，不嗜食，刺阴陵泉，入二分，灸三壮，在膝下内侧辅骨下陷中，伸足乃得之。 经逆，四肢淫泺，阴暴跳疝，小腹偏痛，刺阴跷，入三分，灸三壮，在内踝下容爪甲。（即照海穴也。） 小腹大字难，嗌干嗜饮，挟脊疝，刺中封，入四分，灸三壮，在内踝前一寸半，伸足取之。 女子不字，阴暴出，经漏，刺然谷，入三分，灸三壮，在足内踝前起大骨下陷中。 字难若胞衣不出，泄风从头至足，刺昆仑，入五分，灸三壮，在足外踝后跟骨上。 月事不利见赤白，而有身反败阴寒、刺行间，入六分，灸三壮，在足大趾间动应手。 月闭溺赤，脊强互引反折，汗不出，刺腰俞，入二寸，留七呼，灸三壮，在第二十一椎节下间， 绝子，疟，寒热，阴挺出不禁白沥， ，脊反折，刺上 ，入二寸，留七呼，灸三壮，在第一空腰髁下一寸挟脊。赤白沥，心下积胀，腰痛不可俯仰，刺次 ，入三寸，留七呼，灸三壮，在第二空挟脊陷中。 赤淫时白，气癃，月事少，刺中，入二寸，留七呼，灸三壮，在第三空挟脊陷中。 下苍汁不禁，赤沥，阴中痒痛引小腹，控不可以俯仰，刺腰尻交在两胛 数发针立已。（一云∶下 。）肠鸣泄注，刺下 ，入二寸，留七呼，灸三壮，在第四空挟脊陷中。 赤白里急，螈 ，刺五枢，入一寸，灸五壮，在带脉下三寸。 拘挛，腹满，疝，月事不下，乳余疾，绝子，阴痒，贲豚，上 腹坚痛，下引阴中不得小便，刺阴交，入八分，灸五壮，在脐下一寸。 腹满，疝积，乳余疾，绝子，阴绝子， 血在内不下，胞转不得尿，小腹满石水痛，刺关元，入二寸，灸七壮，在脐下三寸。又主引胁下胀，头痛，身背热，奔豚寒，小便数，泄不止。 子门不端，小腹苦寒，阴痒及痛，奔豚抢心，饥不能食，腹胀经闭不通，小便不利，乳余疾，绝子，内不足，刺中极，入二寸，留十呼，灸三壮，在脐下四寸。 赤白沃，阴中干痛，恶合阴阳，小腹 坚，小便闭，刺屈骨，入一寸半，灸三壮，在中极下一寸。 月事不通，奔泄气上下引腰脊痛，刺气穴，入一寸，灸五壮，在四满下一寸。 胞中痛、恶血，月水不以时休止，腹胀肠鸣，气上冲胸，刺天枢，入五分，灸三壮，去肓俞一寸半。 小腹胀满，痛引阴中，月水至则腰背痛，胞中瘕，子门寒大小便不通，刺水道，入二寸半，灸五壮，在大巨下三寸。 月水不利，或暴闭塞，腹胀满癃，淫泺身热，乳难子上抢心，若胞不出，众气尽乱，腹中绞痛，不得反息，正仰卧屈一膝伸一膝，并气冲上，针入三寸，气至泻之，在归来下一寸动脉应手。产余疾，食饮不下，奔豚上下，伤食腹满，刺期门入四分，灸五壮，在第二肋端。 乳痈，惊，痹，胫重，足跗不收，跟痛，刺下廉，入三分，灸三壮，在上廉下三寸。 月水不利，见血而有身则败，乳肿，刺临泣，入二分，灸三壮，在足小趾，次趾间，去侠溪一寸半。女人疝及小腹肿，溏泄，癃，遗尿，阴痛，面尘黑，目下 痛，漏血，刺太冲，入三分，灸三壮，在足大趾本节后二寸中动脉。 女子疝赤白淫下，时多时少，暴腹痛，刺蠡沟，入三分，灸三壮，在内踝上五寸。 女子无子，咳而短气，刺涌泉，入三分，灸三壮，在足心陷者中。 乳难，子上冲心，阴疝，刺冲门，入七分，灸五壮，在府舍下上去大横五寸。 女子不下月水，痹惊善悲不乐，如堕坠，汗不出，刺照海，入四分，灸二壮，在内踝下四分。又主女子淋，阴挺出，四肢淫泺。 血不通，刺会阴，入二寸，留七呼，灸三壮，在大便前小便后。 子脏中有恶血内逆满痛，刺石关，入一寸，灸五壮在阴都下一寸。 肓门 主乳余疾。 三里 主乳痈有热。 神封 膺窗 主乳痈寒热，短气卧不安。 乳根 主膺肿乳痈凄索寒热，痛不可按。 太溪 侠溪 主乳痈肿溃。（又云∶侠溪主小腹坚痛，月水不通。） 大泉 主妒乳，膺胸痛。 大赫 主女子赤沃。 四满 主子脏中有恶血内逆满痛疝。（又云∶主胞中有血。）</p>
+<p>　　中极主拘挛腹疝，月水不下，乳余疾，绝子，阴痒。气冲 主无子小腹痛。 支沟 主女人脊忽目 赤。 筑宾 主大疝绝子。 阴廉 主绝产。 涌泉 阴谷 主男子如蛊，女子如阻，身体腰脊如解，不欲食。 大泉 照海 主不字，阴暴出，淋漏，月水不来，多闷而心下痛。</p>
+<p>　　（又云∶照海主阴挺下血，阴中肿或痒，漉青汁若葵汁。）</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12864.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12866.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

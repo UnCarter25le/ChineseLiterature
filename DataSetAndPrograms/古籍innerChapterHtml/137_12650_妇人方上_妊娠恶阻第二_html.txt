@@ -1,0 +1,110 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+千金方·妇人方上·妊娠恶阻第二_古诗文网
+</title>
+<meta content="（论二首 方四首 法二首）论曰∶何以知妇人妊娠？脉平而虚者，乳子法也。经云，阴搏阳别，谓之有子。此是血气和调，阳施阴化也。诊其手少阴脉动甚者，妊子也。少阴，心脉也。心主血脉，又肾名" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_12650.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>妇人方上·妊娠恶阻第二</b></span>
+<a href="javascript:PlayBookv(12650)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv12650" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay12650" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e6%80%9d%e9%82%88">孙思邈</a></p>
+<div class="contson">
+<p>　　<span style="font-family:FangSong_GB2312;">（论二首 方四首 法二首）</span></p>
+<p>　　论曰∶何以知妇人妊娠？脉平而虚者，乳子法也。经云，阴搏阳别，谓之有子。此是血气和调，阳施阴化也。诊其手少阴脉动甚者，妊子也。少阴，心脉也。心主血脉，又肾名胞门、子户，尺中，肾脉也，尺中之脉，按之不绝，法妊娠也。三部脉沉浮正等，按之无绝者，有娠也。</p>
+<p>　　妊娠初时，寸微小，呼吸五至。三月而尺数也。</p>
+<p>　　妊娠四月，欲知男女者，左疾为男，右疾为女，左右俱疾为产二子。又法，左手沉实为男，右手浮大为女，左右手俱沉实，猥生二男，俱浮大猥生二女。尺脉若左偏大为男，右偏大为女，左右俱大产二子，大者如实状。又法，左手尺中浮大者男，右手尺中沉细者女。若来而断绝者，月水不利。又法，左右尺俱浮为产二男，不然，女作男生。俱沉为产二女，不尔男作女生。又法，得太阴脉为男，得太阳脉为女，太阴脉沉，太阳脉浮。又遣妊娠人面南行远，复呼之，左回首者是男，右回首者是女。又妇人妊娠，其夫左乳房有核是男，右乳房有核是女。</p>
+<p>　　妊娠欲知将产者，怀妊离经，其脉浮，设腹痛引腰脊，为今出也。但离经者不病也。又法，欲生，其脉离经，夜半觉痛，日中则生也。</p>
+<p>　　论曰∶凡妇人虚羸，血气不足，肾气又弱，或当风饮冷太过，心下有痰水者，欲有胎而喜病阻。所谓欲有胎者，其人月水尚来，颜色、肌肤如常，但苦沉重，愦闷不欲饮食，又不知其患所在，脉理顺时平和，则是欲有娠也。如此经二月，日后便觉不通，则结胎也。阻病者，患心中愦愦，头重眼眩，四肢沉重，懈惰不欲执作，恶闻食气，欲啖咸酸果实，多卧少起，世谓恶食。其至三四月日以上，皆大剧吐逆，不能自胜举也。此由经血既闭，水渍于脏，脏气不宣通，故心烦愦闷，气逆而呕吐也。血脉不通，经络痞涩，则四肢沉重，挟风则头目眩也。觉如此候者，便宜服半夏茯苓汤，数剂后将茯苓丸痰水消除便欲食也。既得食力，体强气盛，力足养胎，母便健矣。古今治阻病，方有十数首，不问虚实冷热，长少，殆死者，活于此方。</p>
+<p>　　半夏茯苓汤<br/>　　治妊娠阻病，心中愦闷，空烦吐逆，恶闻食气，头眩体重，四肢百节疼烦沉重，多卧少起，恶寒，汗出，疲极黄瘦方。</p>
+<p>　　半夏 生姜（各三十铢） 干地黄 茯苓（各十八铢） 橘皮 旋复花 细辛 人参 芍药芎 桔梗 甘草（各十二铢）</p>
+<p>　　上十二味 咀，以水一斗，煮取三升，分三服，若病阻积月日不得治，及服药冷热失候，病变客热烦渴，口生疮者，去橘皮、细辛，加前胡、知母各十二铢。若变冷下痢者，去干地黄芩六铢。余根据方服一剂得下后，消息，看气力冷热增损方调定，更服一剂汤，便急服茯苓丸，能食便强健也。忌生冷醋滑油腻，菘菜，海藻。</p>
+<p>　　茯苓丸<br/>　　治妊娠阻病，患心中烦闷，头眩体重，憎闻饮食气，便呕逆吐闷颠倒，四肢垂弱，不自胜持，服之即效。先服半夏茯苓汤两剂，后服此方。</p>
+<p>　　茯苓 半夏 桂心（熬） 干姜 橘皮 人参（各一两） 白术 葛根 甘草 枳实（各二两）</p>
+<p>　　不用干</p>
+<p>　　青竹茹汤<br/>　　治妊娠恶阻，呕吐不下食方。</p>
+<p>　　青竹茹 橘皮（各十八铢） 茯苓 生姜（各一两） 半夏（三十铢）</p>
+<p>　　上五味 咀，以水六升煮取二升半，分三服，不瘥频作。</p>
+<p>　　橘皮汤<br/>　　治妊娠呕吐不下食方。</p>
+<p>　　橘皮 竹茹 人参 白术（各十八铢） 生姜（一两） 浓朴（十二铢）</p>
+<p>　　上六味 咀，以水七升煮取二升半，分三服，不瘥重作。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_12649.aspx">上一章</a>
+<a href="/guwen/book_137.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_12651.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

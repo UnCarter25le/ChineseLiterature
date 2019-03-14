@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孔子家语·问礼_古诗文网
+</title>
+<meta content="哀公問於孔子曰：「大禮何如？子之言禮，何其尊也．」孔子對曰：「丘也鄙人，不足以知大禮也．」公曰：「吾子言焉．」孔子曰：「丘聞之民之所以生者，禮為大．非禮則無以節事天地之神焉；非禮則" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4115.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2715" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>问礼</b></span>
+<a href="javascript:PlayBookv(4115)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4115" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2715)" id="leftbtn2715" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4115" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　哀公問於孔子曰：「大禮何如？子之言禮，何其尊也．」孔子對曰：「丘也鄙人，不足以知大禮也．」公曰：「吾子言焉．」孔子曰：「丘聞之民之所以生者，禮為大．非禮則無以節事天地之神焉；非禮則無以辯君臣上下長幼之位焉；非禮則無以別男女父子兄弟婚姻親族疏數之交焉；是故君子此之為尊敬，然後以其所能教順百姓，不廢其會節．既有成事，而後治其文章黼黻，以別尊卑上下之等．其順之也，而後言其喪祭之紀，宗廟之序，品其犧牲，設其豕腊，修其歲時，以敬其祭祀，別其親疏，序其昭穆，而後宗族會醼，即安其居，以綴恩義．卑其宮室，節其服御，車不雕璣，器不彤鏤，食不二味，心不淫志，以與萬民同利，古之明王行禮也如此．」公曰：「今之君子，胡莫之行也．」孔子對曰：「今之君子，好利無厭，淫行不倦，荒怠慢遊，固民是盡，以遂其心，以怨其政，忤其眾以伐有道．求得當欲不以其所，虐殺刑誅，不以其治．夫昔之用民者由前，今之用民者由後，是即今之君子，莫能為禮也．」言偃問曰：「夫子之極言禮也，可得而聞乎？」孔子言：「我欲觀夏，是故之杞，而不足徵也，吾得夏時焉；我欲觀殷道，是故之宋，而不足徵也，吾得乾坤焉；乾坤之義，夏時之等，吾以此觀之．夫禮，初也始於飲食，太古之時，燔黍擘豚，汙罇杯飲，蕢桴土鼓，猶可以致敬鬼神，及其死也，升屋而號告曰，高某復然後飲腥苴熟，形體則降，魂氣則上，是謂天望而地藏也．故生者南嚮，死者北首，皆從其初也．昔之王者，未有宮室，冬則居營窟，夏則居櫓巢；未有火化，食草木之實，鳥獸之肉，飲其血，茹其毛，未有絲麻，衣其羽皮．後聖有作，然後修火之利，範金合土，以為宮室戶牖；以炮以燔，以烹以炙，以為醴酪；治其絲麻，以為布帛，以養生送死，以事鬼神．故玄酒在室，醴醆在戶，粢醍在堂，澄酒在下，陳其犧牲，備其鼎俎，列其琴瑟，管磬鐘鼓，以降上神，與其先祖，以正君臣，以篤父子，以睦兄弟，以齊上下，夫婦有所，是謂承天之祐．作其祝號，玄酒以祭，薦其血毛，腥其俎，熟其殽，越席以坐．疏布以羃，衣其浣帛，醴醆以獻，薦其燔炙，君與夫人，交獻以嘉魂魄，然後退而合烹，體其犬豕牛羊，實其簠簋，籩豆鉶羹，祝以孝告，嘏以慈告，是為大祥，此禮之大成也．」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4114.aspx">上一章</a>
+<a href="/guwen/book_46.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4116.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2715" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

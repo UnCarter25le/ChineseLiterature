@@ -1,0 +1,114 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+管子·法禁_古诗文网
+</title>
+<meta content="法制不议，则民不相私。刑杀毋赦，则民不偷于为善。爵禄毋假。则下不乱其上。三者藏于官则为法，施于国则成俗，其余不彊而治矣。君壹置则仪，则百官守其法。上明陈其制，则下皆会其度矣。君之置" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3591.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2247" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>法禁</b></span>
+<a href="javascript:PlayBookv(3591)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3591" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2247)" id="leftbtn2247" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3591" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e7%ae%a1%e4%bb%b2%e5%8f%8a%e9%97%a8%e5%be%92">管仲及门徒</a></p>
+<div class="contson">
+<p>　　法制不议，则民不相私。刑杀毋赦，则民不偷于为善。爵禄毋假。则下不乱其上。三者藏于官则为法，施于国则成俗，其余不彊而治矣。</p>
+<p>　　君壹置则仪，则百官守其法。上明陈其制，则下皆会其度矣。君之置其仪也不一，则下之倍法而立私理者必多矣。是以人用其私，废上之制，而道其所闻，故下与官列法，而上与君分威。国家之危，必自此始矣。昔者圣王之治其民也不然，废上之法制者，必负以耻。财厚博惠，以私亲于民者，正经而自正矣。乱国之道，易国之常，赐赏恣于己者，圣王之禁也。圣王既殁，受之者衰，君人而不能知立君之道，以为国本，则大臣之赘下而射人心者必多矣，君不能审立其法，以为下制。则百姓之立私理而径于利者必众矣。</p>
+<p>　　昔者圣王之治人也，不贵其人博学也，欲其人之和同以听令也。《泰誓》曰：“纣有臣亿万人，亦有亿万之心，武王有臣三千而一心，故纣以亿万之心亡，武王以一心存”。故有国之君，茍不能同人心，一国威，齐士义，通上之治，以为下法，则虽有广地众民，犹不能以为安也。君失其道，则大臣比权重，以相举于国，小臣必循利以相就也。故举国之士，以为亡党，行公道以为私惠。进则相推于君，退则相誉于民，各便其身，而忘社稷。以广其居，聚徒威群。上以蔽君，下以索民。此皆弱君乱国之道也，故国之危也。</p>
+<p>　　乱国之道，易国之常，赐赏恣于己者，圣王之禁也。擅国权以深索于民者，圣王之禁也。其身毋任于上者，圣王之禁也。</p>
+<p>　　进则受禄于君，退则藏禄于室，毋事治职，但力事属，私王官，私君事，去非其人而人私行者，圣王之禁也。</p>
+<p>　　修行则不以亲为本，治事则不以官为主，举毋能、进毋功者，圣王之禁也。</p>
+<p>　　交人则以为己赐，举人则以为己劳，仕人则与分其禄者，圣王之禁也。</p>
+<p>　　交于利通而获于贫穷，轻取于其民而重致于其君，削上以附下，枉法以求于民者，圣王之禁也。</p>
+<p>　　用不称其人，家富于其列，其禄甚寡而资财甚多者，圣王之禁也。</p>
+<p>　　拂世以为行，非上以为名，常反上之法制以成群于国者，圣王之禁也。</p>
+<p>　　饰于贫穷，而发于勤劳，权于贫贱，身无职事，家无常姓，列上下之闲，议言为民者，圣王之禁也。</p>
+<p>　　壶士以为亡资，修田以为亡本，则生之养私不死然后失缫以深与上为市者。圣王之禁也。</p>
+<p>　　审饰小节以示民时言大事以动上远交以踰群，假爵以临朝者，圣王之禁也。</p>
+<p>　　卑身杂处隐行辟倚，侧入迎远，遁上而遁民者，圣王之禁也。</p>
+<p>　　诡俗异礼，大言法行，难其所为，而高自错者，圣王之禁也。</p>
+<p>　　守委闲居，博分以致众。勤身遂行，说人以货财。济人以买誉，其身甚静，而使人求者，圣王之禁也。</p>
+<p>　　行辟而坚言诡而辩，术非而博，顺恶而泽者，圣王之禁也。</p>
+<p>　　以朋党为友，以蔽恶为仁，以数变为智，以重敛为忠，以遂忿为勇者，圣王之禁也。</p>
+<p>　　固国之本，其身务往于上，深附于诸侯者，圣王之禁也。</p>
+<p>　　圣王之身，治世之时，德行必有所是，道义必有所明；故士莫敢诡俗异礼，以自见于国，莫敢布惠缓行，修上下之交，以和亲于民。故莫敢超等踰官，渔利苏功。以取顺其君。圣王之治民也，进则使无由得其所利，退则使无由避其所害，必使反乎安其位，乐其群，务其职，荣其名，而后止矣。故踰其官而离其群者，必使有害。不能其事而失其职者，必使有耻；是故圣王之教民也，以仁错之，以耻使之，修其能，致其所成而止。故曰：“绝而定，静而治，安而尊，举错而不变者，圣王之道也。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3590.aspx">上一章</a>
+<a href="/guwen/book_34.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3592.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2247" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

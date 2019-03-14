@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·乜_古诗文网
+</title>
+<meta content="历史来源　　1、出自姬姓，以地为氏。春秋时卫国大夫食采于乜城，以地名为姓。　　2、出自蕃姓，蒙古族后代。据《通志·氏族略》和《山左诗集》云：“番姓，望出晋昌、赵郡。”明代" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2694.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>乜</b></span>
+<a href="javascript:PlayBookv(2694)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2694" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2694" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　1、出自姬姓，以地为氏。春秋时卫国大夫食采于乜城，以地名为姓。<br/>　　2、出自蕃姓，蒙古族后代。据《通志·氏族略》和《山左诗集》云：“番姓，望出晋昌、赵郡。”明代蒙古族瓦刺部首领叫作也先，他于明正统十五年时攻打明朝，失败后与朱明王朝和好，他的后人有的进入中原，定居于山东境内。明时有人曾把“也先”误写作“乜先”，也先的子孙与汉人融合，改姓为乜姓，故《山左诗集》载：“山东之乜，系也先后所在。”<br/>　　3、回族姓氏之一。主要分布在西北地区。（见《中国回族大辞典》）</p>
+<p><strong>家族名人</strong><br/>　　乜仁义：明代名士。</p>
+<p><strong>迁徙分布</strong><br/>　　乜姓在大陆和台湾都没有列入百家姓前一百位。在宋代《百家姓》中列于关、岳、公等熟知姓氏之前，这说明乜姓在中国万姓中已名列数百位姓氏之中。据史料可知，乜姓为古代秦、陇，即西北少数民族姓氏。《通志·氏族略》和《山左诗集》云：“番姓，望出晋昌、赵郡。”“山东之乜，系也先后所改。”照此看，乜姓为“番姓”，即今藏族之姓，其发源地是晋昌、赵郡，也就是今天山西石泉、甘肃等西北地区。山东也有乜姓，是明代瓦刺首领也先的后代改姓为乜的。乜姓至今已十分稀有。今贵德乜姓是世居者，因该地区在秦汉时为先零羌活动地区，即藏族的原始族源地。故在1962年贵德河东朱辑五编《贵德县简志》（续志修改稿）中说，（贵德）“乜纳寺主持和遗老乜生华说，尹等初到斯地识有一人，本羌族，西羌无弋爰剑之苗裔倒贵德最早。尔时此地被水淹没，一片汪洋，人不能住，乜纳族住东山麦浪相卡。不知经多少年所，水渐下去，变为桑田，半数迁到化隆县属秋杂族，半数人移到贵德。元、明间未筑城时，住在隍庙街，训导衙门地，到明洪武三年（实为七年），因筑城，一半人移到城外东北效乜纳村，一半人移到城西效拉萨村。氏所建弘善寺（今大佛寺），不防碍筑城，故未迁移。”上述对贵德乜氏的来龙去脉说的一清二楚，确为今藏族的远祖羌族首领无弋爰剑之后裔。还说本族所建“弘善寺”在明代之前，这在《安多政教史》中有所记载：“贵德城……有众位护法神齐集列座的穆尼亥（为乜纳亥的转音）护法神殿，又称穆尼亥九层殿，年公爷（即清代年羹尧）的兵士来到时，阎罗法王神像显怒容向下视门口，因此兵士畏惧，未敢破坏该神殿。……”《安多政教史》还载，由乜纳活佛罗哲吉（1675-1753年）于第一世俄钦赤列本的修行处建成乜纳寺。今建于寺旁黄河沿的乜纳塔，其历史极久，故《安多政教史》又载：“当年吐蕃赞市赤热巴巾率兵北征时，曾在此处唐蕃交界地区，以他的头发为内藏修建了一座宝塔，并在塔顶安装了金光闪闪的鎏金铜日月”，称之为“乜纳塔”。此记载属合唐代吐蕃王攻占青海东部的史实。因此弘善寺、乜纳塔、乜纳寺。均以乜氏乜纳族名而命名，亦为该族所建或其族为活佛而主持管理。今乜纳村及乜氏也是乜纳寺的香火庄及管理者之一。今青海省以乜姓命名的村庄只有贵德县河阴镇城东村委会所辖乜纳自然村，村中多为乜姓。以及城西村委会所辖拉萨村有许多乜姓，还散居于罗汉堂乡尼那村、河西乡上刘屯村等地。其族人是于世公认的汉化藏族、绝大多数会汉语、学汉文，故族人的文化素质高，其族人中百分之六、七十为知识分子，其中乜宗德曾是县人民政府干部，又是全县颇有名气的书法家，今文庙前新建的牌楼结构的棂星门，上书“腾蛟起凤”金字，是他挥笔所书。如今该县牧区常牧乡还有乜纳亥部落族，也称木雅族。<br/></p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2693.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2695.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

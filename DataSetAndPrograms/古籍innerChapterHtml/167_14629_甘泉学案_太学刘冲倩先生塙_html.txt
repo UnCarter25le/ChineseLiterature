@@ -1,0 +1,116 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明儒学案·甘泉学案·太学刘冲倩先生塙_古诗文网
+</title>
+<meta content="刘塙字静主，号冲倩，会稽人。赋性任侠，慨然有四方之志，所至寻师问友，以意气相激发，人争归附之。时周海门、许敬菴、杨复所讲学于南都，先生与焉。周、杨学术同出近溪，敬菴则有异同。无善无" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_14629.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>甘泉学案·太学刘冲倩先生塙</b></span>
+<a href="javascript:PlayBookv(14629)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv14629" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay14629" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%bb%84%e5%ae%97%e7%be%b2">黄宗羲</a></p>
+<div class="contson">
+<p>　　刘塙字静主，号冲倩，会稽人。赋性任侠，慨然有四方之志，所至寻师问友，以意气相激发，人争归附之。时周海门、许敬菴、杨复所讲学于南都，先生与焉。周、杨学术同出近溪，敬菴则有异同。无善无恶之说，许作《九谛》，周作《九解》，先生合两家而刻之，以求归一。而海门契先生特甚，曰：“吾得冲倩而不孤矣。”受教两年，未称弟子。一日指点投机，先生曰：“尚觉少此一拜。”海门即起立曰：“足下意真，比时辈不同。”先生下拜，海门曰：“吾期足下者远，不可答拜。”及先生归，海门授以六字曰：“万金一诺珍重。”先生报以诗曰：“一笑相逢日，何言可复论。千金唯一诺，珍重自师门。”先生虽瓣香海门，而一时以理学名家者，邹南臬、李储山、曹真予、焦弱侯、赵侪鹤、孟连洙、丁敬与，无不参请，识解亦日进。海门主盟越中，先生助之，接引后进。学海门之学者甚众，而以入室推先生。然流俗疾之如雠，亦以信心自得，不加防检，其学有以致之也。先生由诸生入太学，七试场屋，不售而卒。叶水心曰：“使同甫晚不登进士第，则世终以为狼疾人矣。”不能不致叹于先生也。</p>
+<p>　　证记</p>
+<p>　　与人露声色，即声色矣。声色可以化导人乎？临事动意气，即意气矣。意气可处分天下事乎？</p>
+<p>　　何者为害，求利是已。何者为苦？寻乐是已。何者为怨？结恩是已。释氏之火裹开莲，不过知得是火，便名为莲矣。有身在火上，而不猛力避之者乎？其不猛力避者，犹恐认火作土耳。</p>
+<p>　　人只向有光景处认本体，不知本体无光景也。人只向有做作处认工夫，不知工夫无做作也。</p>
+<p>　　当下信得及，更有何事？圣贤说知说行，止不过知此行此，无剩技矣，只因忒庸常，忒平易，忒不，值钱，转令人信不及耳。</p>
+<p>　　力足举千钧之鼎矣，有物焉其小无内，而转窘于力之无可用；明足察秋毫之末矣，有物焉其大无外，而转束於明之无可入。</p>
+<p>　　先儒有曰“随处体认天理”，又有曰“静中养出端倪”，又有曰，“众物之表里精粗无不到，而吾心之全体大用无不明”，皆非了当语。夫既已谓之天矣，而有何处所乎？既已谓之静矣，而有何端倪乎？既已谓之心矣，而有何表里精粗之物乎？</p>
+<p>　　名节，吾道之藩篱，斯语大须味，舍名节，岂更有道？只着名节不可耳。</p>
+<p>　　世极深极险矣，我只浅易；世极奇极怪矣，我只平常；世极浓极艳矣，我只淡泊；世极崎极曲矣，我只率直。允若兹，不惟不失我，而世且无奈我何！</p>
+<p>　　问：“安身立命毕竟在何处？”曰：“一眼看去，不见世间有非，自家有是，世间有得，自家有失，处安之立之而已矣。</p>
+<p>　　本来平易，不着些子做手，方耐久。</p>
+<p>　　揣事情，中毛发，而不堕机智；通人情，浃骨髓，而不落煦沫，此为何物？</p>
+<p>　　圣人之於世也，宥之而已矣。君子之於俗也，耐之而已矣。</p>
+<p>　　人当逆境时，如犯弱症，才一举手，便风寒乘虚而入，保护之功，最重大，却最轻微。</p>
+<p>　　言，尤之媒也。既已有言矣，自仅可寡尤，而不能无尤。无尤其默乎？行，悔之根也。既已有行矣，自仅可寡悔，而不能无悔。无悔其静乎？</p>
+<p>　　说《易》诸家，旧传心别有门，但看乾动处，总只用纯坤。</p>
+<p>　　乐者先天之药也，药者后天之乐也。</p>
+<p>　　四大聚散，生死之小者也。一念离合，生死之大者也。忘其大而惜其小，此之谓不知生死。</p>
+<p>　　平平看来，世间何人处不得？何地去不得？只因我自风波，便惹动世间风波，莫错埋怨世间。</p>
+<p>　　天下无不可化之人，不向人分上求化也，化我而已矣。天下无不可处之事，不向事情上求处也，处我而已矣。</p>
+<p>　　无暴其气，便是持志工夫，若离气而言持志，未免捉捏虚空。</p>
+<p>　　心到明时，则境亦是心。</p>
+<p>　　与人终日酬酢，全要保得自己一段生意，不然，意思绸缪，礼文隆腆，而一语之出，怀许多顾忌，一语之入，起许多猜疑，皆杀机也。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_14628.aspx">上一章</a>
+<a href="/guwen/book_167.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_14630.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

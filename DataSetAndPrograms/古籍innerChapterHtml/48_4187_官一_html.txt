@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+孙膑兵法·官一_古诗文网
+</title>
+<meta content="孙子曰：凡处卒利阵体甲兵者，立官则以身宜，贱令以采章，乘削以伦物，序行以□□，制卒以州闾，授正以乡曲，辨疑以旌舆，申令以金鼓，齐兵以从迹，庵结以人雄，邋军以索阵，茭肆以囚逆，陈师以" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4187.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left2788" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>官一</b></span>
+<a href="javascript:PlayBookv(4187)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4187" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(2788)" id="leftbtn2788" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4187" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%ad%99%e8%86%91">孙膑</a></p>
+<div class="contson">
+　　孙子曰：凡处卒利阵体甲兵者，立官则以身宜，贱令以采章，乘削以伦物，序行以□□，制卒以州闾，授正以乡曲，辨疑以旌舆，申令以金鼓，齐兵以从迹，庵结以人雄，邋军以索阵，茭肆以囚逆，陈师以危□，射战以云阵，御裹以羸渭，取啄以阖燧，即败以包□，奔救以皮傅，燥战以错行。用□以正□，用轻以正散，攻兼用行城，□地□□用方，迎陵而阵用刲，险□□□用圜，交易武退用兵，□□陈临用方翼，汜战接厝用喙逢，囚险解谷以□远，草驵沙荼以阳削，战胜而阵以奋国，而..为畏以山胠。秦怫以透迤，便罢以雁行，险厄以杂管。还退以蓬错，绕山林以曲次，袭国邑以水则，辨夜退以明简，夜警以传节。厝入内寇以棺士，遇短乒以必舆，火输积以车。阵刃以锥行，阵少卒以合杂。合杂，所以御裹也。修行连削，所以结阵也。云折重杂，所权趮也。猋凡振陈，所以乘疑也。隐匿谋诈，所以钓战也。龙隋陈伏，所以山斗也。□□乖举，所以厌津也。□□□卒，所以□□也。不意侍卒，所以昧战也。遏沟□陈，所以合少也。疏削明旗，所以疑敌也。剽阵车，所以从遗也。椎下移师，所以备强也。浮沮而翼，所以燧斗也。禅蘩避，所以莠也。筒练剽便，所以逆喙也。坚阵敦□，所以攻槥也。揆断藩薄，所以眩疑也。伪遗小亡，所以聭敌也。重害，所以茭□也。顺明到声，所以夜军也。佰奉离积，所以利胜也。刚者，所以御劫也。更者，所以过□也。□者，所以御□也。..者，所以厌□也。胡退侍入，所以解困也。
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4186.aspx">上一章</a>
+<a href="/guwen/book_48.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4188.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right2788" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

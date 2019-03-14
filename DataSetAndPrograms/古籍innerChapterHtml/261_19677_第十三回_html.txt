@@ -1,0 +1,98 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+北游记·第十三回_古诗文网
+</title>
+<meta content="祖师收雷田二将却说祖师又收得了沙刀精，同水火等又行至雍州地方。忽见妖气闪闪，又有怨气冲天。祖师抬头一看，见一老人悲悲啼啼而来，祖师向前问曰：“老长者哭为何事，这般悲切？”老人曰：“" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19677.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>第十三回</b></span>
+<a href="javascript:PlayBookv(19677)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19677" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19677" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%99%e8%b1%a1%e6%96%97">余象斗</a></p>
+<div class="contson">
+<p>　　<strong>祖师收雷田二将</strong></p>
+<p>　　却说祖师又收得了沙刀精，同水火等又行至雍州地方。忽见妖气闪闪，又有怨气冲天。祖师抬头一看，见一老人悲悲啼啼而来，祖师向前问曰：“老长者哭为何事，这般悲切？”老人曰：“老夫此处乃是雍州地界。老夫姓孙名皓，一家七口俱斋三月三日。”祖师问曰：“斋三月三日为何？”老人曰：“老夫闻言说，有一人为武当山中修行成道，今已上天，我等求其福庇，故斋他的生日。”祖师曰：“既斋他生日，你乃是一个善人，亦无害于你才是。汝为何今日有这等悲哭？”老人曰：“哭者非为斋事而哭。老夫此处不远有一山，名叫神雷山，近来有一妖，头带道冠，鬼头三眼，手用一槌，自号为新兴王。其妖色心最重，但有本处人家，若有室女欲择日过门成亲，先一日务要送入他山中过了一夜，次日方有命行嫁。若不送去，自然有害，当自山中而出，打死那行嫁女子一家。老夫有一女孙名唤金莲，亦择明日行嫁，商议亦要送去。孙女又不肯去，若女孙不肯去，则我一家难保，故此悲哭。”祖师曰：“我学有法术，能除妖怪，你不必悲哭，我救你便是。”老人闻言便拜。祖师即吩咐老人回去，用心持斋，整点孙女行嫁，不必挂心。老人拜谢回家。祖师唤过关帅，吶吩叫他变作一个女人。祖师自己变成一老人，直到雷神山洞门口。那新兴王一见老人送女子至，大喜，正欲出洞抱女子入洞，祖师大喝一声，关帅变出本相，杀入洞中。那妖回手不及，被关帅杀入洞中，捉住押见祖师。祖师即与火丹一丸吃下，收在部下为将。</p>
+<p>　　同关帅等又行不过三十余里，此处有一山，名落魄山。山中有一洞，名三了洞，洞中有一大王姓田名华，常令小妖下山巡哨，若有人过此山者，用讨金银买路；若无金银买路，遣雷神打死，大风吹入洞中，取心肝泡酒吃。一日小妖正在山前拦路，祖师同众将至。小妖上前拦住去路，要问祖师等讨金银买路。祖师见妖气迷空，知拦路者是妖怪，取出三台七星剑一砍，小妖便走。祖师赶至洞前。小妖走入洞中，报知田华大王，禀说前事。田华大怒，实时于洞中作法，神雷飞起，打出洞门。祖师一见，用七星剑一指，喝声道：“疾！”其雷不动。田华见雷不动，出洞亦不答话，提枪望祖师便刺。战祖师不过，正欲走入洞中，被赵帅丢起火索缚了，解见祖师。田华连声求赦，愿降祖师，祖师大喜，取出火丹一丸与田华吃了，收于部下。祖师收得二将。写表奏知玉帝，玉帝大悦，即封新兴王与田华二人为雷开、苟毕二元帅，各执一令，随师降妖。新兴、田华谢恩。</p>
+<p>　　祖师又与众将随路而上，至七十里外，遇一老人，姓张名万，见祖师一起众人，如道人一样，向前施礼问曰：“列位尊师要往何处？”祖师曰：“我等师徒，于路降邪。”老人曰：“列位既能降邪，老夫敝处有一山，叫作斗隔山，山内有一妖怪，并不见形，但见人有好物美色，用风吹入洞中享用。师父等果有法术，可去收此妖，与民除害。”祖师听罢，别了老者，带众将前至斗隔山，喊杀连天。只见洞内闪出一人，生得赤发獠牙，用着风轮，手提大刀，望祖师便砍，祖师一见，举剑相迎。战至二十合，广泽不能胜祖师，念动真言，风轮中狂风大作，祖师众将欢散，将祖师吹在三十二天之外。</p>
+<p>　　祖师大惊。吹到一处，见有一大殿，殿上有一匾，书“无生殿”三字。入殿门内，见一人头戴道冠，身穿道袍。祖师向前行礼，动问称名。道人曰：“某姓戚名兆，道号水台仙人。”祖师将收妖被风吹一事，说了一遍。道人听罢，微微笑曰：“汝乃金阙化身，尚未识此术？”祖师曰：“贫道实不知之。”仙人曰：“此风乃北风清气，是此人执掌，聚在一处，用之害人，散之则天下人自清凉。某有一丸，乃收千百劫之风火炼成，汝可带去，若战之时，则风吹你不动。”祖师接过仙丹，拜谢离殿，驾云转回斗隔山。与众将相见，言前事，众将各各欢喜。</p>
+<p>　　次日平明，祖师将丹含在口中，到山前请战。广泽大王又用风轮吹祖师，祖师端然不然。广泽见吹祖师不动，大惊，措手不及，被众将向前拿住，叩头愿降。祖师大悦。玉旨到，封广泽为风轮周元帅，随师行道。不知后来如何。且听下回分解。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19676.aspx">上一章</a>
+<a href="/guwen/book_261.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19678.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

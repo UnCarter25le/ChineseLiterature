@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+贾谊新书·卷三·俗激_古诗文网
+</title>
+<meta content="大臣之俗，特以牍书不报，小期会不答耳，以为大故，不可矣。天下之大指举之，而激俗流失，世坏败矣，因恬弗知怪，大故也。如刀笔之吏，务在筐箱，而不知大体，陛下又弗自忧，故如此哉。夫邪俗日" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_18601.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷三·俗激</b></span>
+<a href="javascript:PlayBookv(18601)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv18601" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay18601" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%b4%be%e8%b0%8a">贾谊</a></p>
+<div class="contson">
+<p>　　大臣之俗，特以牍书不报，小期会不答耳，以为大故，不可矣。天下之大指举之，而激俗流失，世坏败矣，因恬弗知怪，大故也。如刀笔之吏，务在筐箱，而不知大体，陛下又弗自忧，故如此哉。</p>
+<p>　　夫邪俗日长，民相然席于无廉丑，行义非循也，岂为人子背其父，为人臣因忠于君哉？岂为人弟欺其兄 ，为人下因信其上哉？陛下虽有权柄事业，将何寄之？管子曰：“四维：一曰礼，二曰义，三曰廉，四曰丑。四维不张，国乃灭亡。”使管子愚无识人也，则可；使管子而少知治体，则是岂不可为寒心？今世以侈靡相竞，而上无制度，弃礼义，捐廉丑日甚，可谓月异而岁不同矣。逐利乎否耳，虑非顾行也。今其甚者，刭大父矣，贼大母矣，踝妪矣，刺兄矣。盗者虑探柱下之金，掇寝户之帘，攓两庙之器，白昼大都之中，剽吏而夺之金。矫伪者出几拾万石粟，赋六百余万钱，乘传而行诸侯，此其无行义之尤至者已。其余猖蹶而趋之者，乃豕羊驱而往，是类管子谓四维不张者与，窃为陛下惜之。</p>
+<p>　　以臣之意，吏虑不动于耳目，以为是时适然耳。夫移风易俗，使天下移心而向道，类非俗吏之所能为也，陛下又不自忧，窃为陛下惜之。夫立君臣，等上下，使父子有礼，六亲有纪，此非天之所为，人之所设也。夫人之所设，弗为不立，不植则僵，不循则坏。秦灭，四维不张，故君臣乖而相攘，上下乱僭而无差，父子六亲殃僇而失其宜，奸人并起，万民离畔，凡十三岁而社稷为墟。今四维犹未备也，故奸人冀幸，而众下疑惑矣。岂如今定经制，令主主臣臣，上下有差，父子六亲，各得其宜，奸人无所冀幸，群众信上，而不疑惑哉。此业一定，世世常安，而后有所持循矣。若夫经制不定，是犹渡江河无维楫，中流而遇风波也，船必覆矣。悲夫！备不豫具之也，可不察乎！</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_18600.aspx">上一章</a>
+<a href="/guwen/book_226.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_18602.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

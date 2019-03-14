@@ -1,0 +1,120 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷二十·元旦文武乱朝班_古诗文网
+</title>
+<meta content="卷二十　崇祯十七年甲申元旦文武乱朝班京师文臣，俱寓西城，而朝班则列于东，武臣俱寓东城，而朝班则列于西。甲申元旦上视朝最早，止一大金吾立班。时钟声已绝，金吾启奏，群臣不闻钟鼓声，谓圣" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13680.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二十·元旦文武乱朝班</b></span>
+<a href="javascript:PlayBookv(13680)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13680" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13680" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　卷二十　崇祯十七年甲申</p>
+<p>　　元旦文武乱朝班</p>
+<p>　　京师文臣，俱寓西城，而朝班则列于东，武臣俱寓东城，而朝班则列于西。甲申元旦上视朝最早，止一大金吾立班。时钟声已绝，金吾启奏，群臣不闻钟鼓声，谓圣驾未出，来者益迟。令再鸣钟，启东西门，远近闻之，自皆疾驰，乃谕鸣钟，且勿歇，门永不闭，又久无至者，乃欲先谒太庙，后受朝呼，驾銮舆，盖驾舆马，与立仗马，约用百余时，又一无备，将长安门外朝官所乘马，悉驱入端门，将欲登辇，司礼又恐外马不驯，或多□啮，奏止之。又谕受朝而后拜庙，再登座以候文武官，从东西长安门入者，以天颜正视，竟不敢过中门，文则直入武班，从螭头下伛偻而入东班，武亦直入文班，从螭头下蹲俯而入西班。有新科榜眼宗之绳，父名劼者，以召对称旨，宠仕职方赞画，品最高洁，亦龟形而过于东班，受朝后，圣驾入庙，六品以下不应陪祭者，马以掠入而步回，总非兆也。不出百日，上手撞钟，百官无一至者，兆已见于此矣。独可异者，三月二十一日，百官朝贺李贼，拥挤争进，被棍扑逐，门久不启，露立以俟。吁！何前倨而后恭也，是可诛矣。</p>
+<p>　　风变地震</p>
+<p>　　正月初一庚寅，大风霾，震屋扬沙，咫尺不见。占曰：风从干起，主暴兵至城破。时凤阳守陵谷国珍奏报地震。</p>
+<p>　　降乩</p>
+<p>　　上以风震有忧色，沐浴焚香，拜天默祷曰：方今天下大乱，欲求真仙下降，直言朕之江山得失，不必隐秘。仙即降乩曰：帝问天下事，官贪吏要钱，八方七处乱，十爨九无烟。黎民苦中苦，乾坤颠倒颠。干戈从此起，休想太平年。上见诗，默然不悦。</p>
+<p>　　大清朝改元（正月初一日）</p>
+<p>　　建州定国，号曰大清，改元顺治。</p>
+<p>　　李自成僭号</p>
+<p>　　初三壬辰，李自成称王于西安，僭国号曰大顺，年号曰永昌，以宋献策为军师，牛金星为丞相，设六政府，各尚书一人，侍郎二人，左侍郎则皆随征。吏之宋企郊、户之杨建烈、兵之喻上猷、礼之巩、刑之陆之祺、工之李振声等，皆明臣之降附者。</p>
+<p>　　是日，自成遣刘宗敏、李过等，率众二万为前锋，所过皆破，自成得报曰：可长驱矣。遂留文官并武将李友等数人，守西安。自率马步五十万，与诸将从禹门渡河，掠河东、河津、稷山、荥河、临晋，一路俱陷，垣曲知县递降表。一云，自成初二发兵，至十四癸丑过河，平阳州县尽逃，诸将皆遁。</p>
+<p>　　自成移牒兵部约战，言三月十日至，兵部执牒者，则京师人，自涿州还，值逆旅孤客，予十金，代投兵部，以为诈，斩之。</p>
+<p>　　李明睿议南迁（正月初三日）</p>
+<p>　　上召左中允李明睿陛见。明睿，南昌人，以总宪李邦华、总督吕大器特荐，起田间。至是召对德正殿。上问御寇之策，明睿请屏左右密陈，趋进御案。言臣自蒙召以来，探听贼信颇恶，今且近逼畿甸，此诚危急存亡之秋，只有南迁一策，可缓目前之急。上曰：此事重，未可易言，以手指天，言上天未知如何。明睿曰：天命微密，当内断圣心，勿致噬脐之忧。上四顾无人云：此事我已久欲行，因无人赞襄，故迟至今。汝意与朕合，但外边不从奈何。此事重大，尔宜密之，切不可轻泄。泄则罪将坐汝。上还宫，赐宴文昭阁。及太原陷，明睿复疏劝，上深许之。下部速议，而兵科给事中光时亨首参为邪说，言不杀明睿，不足以安人心。上曰：光时亨阻朕南行，本应处斩，姑饶这遭。然而南迁之议寝矣。</p>
+<p>　　曾应遴言拨乱之策</p>
+<p>　　初四癸巳，工科曾应遴，言今之绅富，皆衣租食税，安坐而吸百姓之髓者，平日操奇赢以愚民，而独拥其利。临事欲贫民出气力以相护，无是理也。奏藩之富甲天下，贼破西安，府库不下千百万，悉以资贼。倘其平日少所取民，有事多发犒士，未必遂至于此。今之绅富，亦宜稍捐以赈贫，亦救民拨乱之策也。</p>
+<p>　　福嗣王奏</p>
+<p>　　初五甲午，福嗣王奏王宝实系无存，盖为世子时，自窃以献贼者。恤保定监军任栋死事，赠光禄卿。</p>
+<p>　　议撤宁远</p>
+<p>　　初六乙未，工科高翔汉言：自出口来数月，忽接辽抚黎玉田、永抚臣李希沆揭，称复有入塞情形。宁远逼近，不可示以单弱，而调兵南征，岂称异算。</p>
+<p>　　时吏科都给事中吴麟征，请弃山海关外宁远、前屯二城，徒吴三桂入关，屯宿近郊，以卫京师。廷臣皆以弃地非策，不敢主其议。</p>
+<p>　　自前后屯失守，宁远孤悬二百里外，三面皆绝域。守御极难，且寇氛日迫，三辅震恐，则撤兵归守关门，挑选锐士，西行遏寇，亦救乱之一策。阁臣持之不可，事竟寝。盖泥于前说而不知变也。按东陲戍兵，崇祯初年，经略臣有弃宁远守关门之策。是时方内安宁，无故弃边地，地失天险，是汉弃凉州之议也。故识者谓为非计。至末年寇躏中原，名都大藩，溃陷相望，而关外所存止于六城，缓急轻重，大异昔日，而庸臣胶柱之见，犹不知释疆埸之忧，救堂奥之急，卒至强寇压境，十六入关，二十抵丰润，而京师陷矣。悲夫。</p>
+<p>　　曾应遴奏江右事</p>
+<p>　　初七丙申，兵科曾应遴，言臣乡江右自桥头失守，而贼从永破吉，插岭兵破，而贼破萍及袁。吕大器祸急不能驾驭，左师臣早已言之。今江督更置之时，即合闽越之力，以虔镇副将郑鸿逵与芝龙为兄弟，缓急可不烦檄调。有云益王走闽中，建昌溃于十一月初二，抚州、南丰同陷于初七。并有言赣失守，而虔抚之报杳然莫必。诸臣真醉梦矣。</p>
+<p>　　保定抚徐奏义衿陈延祚，破家养士，厚捐全城。</p>
+<p>　　李自成陷平阳</p>
+<p>　　初八丁酉，自成陷平阳，沿河州县，望风瓦解，皆置伪官，有防御使大尹等官。初九戊戌，山西逃兵南下，江北震恐，路振飞派兵防河，副将金声桓守徐，周任凤守泗，周尔敬守清口。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13679.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13681.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

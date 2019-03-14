@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷四·袁崇焕陛见_古诗文网
+</title>
+<meta content="先是崇焕在宁远专主款。六年十月。遣喇嘛僧镏南木座等往大清军中唁，问意欲议和。僧回，上诏曰：喇嘛请劝之书诈也。宜整以备之。无为逊言所愚。七年二月，崇焕奏敌使恭顺求款。上亦谓诚伪未可信" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13516.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷四·袁崇焕陛见</b></span>
+<a href="javascript:PlayBookv(13516)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13516" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13516" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　先是崇焕在宁远专主款。六年十月。遣喇嘛僧镏南木座等往大清军中唁，问意欲议和。僧回，上诏曰：喇嘛请劝之书诈也。宜整以备之。无为逊言所愚。七年二月，崇焕奏敌使恭顺求款。上亦谓诚伪未可信。七月。崇焕以主侦敌之说，物议纷纷。遂以病乞归。故和议未就。及思宗元年七月癸酉，召崇焕于平台，慰劳甚至。问边关何日可定？</p>
+<p>　　崇焕应曰臣请五年为陛下肃清边陲。上曰：五年灭敌，朕不吝封侯之赏。时四辅臣钱龙锡等侍立。俱奏曰：崇焕肝胆、意气、识见、方略，种种可嘉，真奇男子也。上悦。赐茶果瓜饼而退，焕出，朝臣问五年之期，当有定算否？焕曰：上期望甚迫，故以五年慰圣心。识者曰：主上英明，后且按期责效，崇焕不旋踵矣。时期议忧毛文龙难驭，大学士钱龙锡，过崇焕语及之，遂定计出，癸未赐崇焕尚方剑。先是降将李永芳，献策于大清主曰：兵入中国，恐文龙截后，须通书崇焕，使杀文龙，佯许还辽。大清主从之。崇焕答书密允，复以告病回籍，乃寝。至是，再任，思杀文龙，则辽可得。因奏减岛粮兵变可图，遂减八万，止解二万八千，后竟不解。时屯田主事徐尔一在籍叹曰：辽左兴师十载，任东事者，如经略杨镐则丧师，袁应泰则陷城，熊廷弼则败逃，巡抚王化贞则失机，总兵刘綎则阵亡，马林则挫锋，其余不可胜述，而投降者，亦不知几许，未有如毛师开镇九年，护持两国，复城献俘者，而庙堂诸臣，反生异议，裁减军饷，军饷一减，则将士灰心矣。遂上疏，竟不省。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13515.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13517.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

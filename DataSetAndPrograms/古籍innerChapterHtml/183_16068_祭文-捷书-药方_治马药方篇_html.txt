@@ -1,0 +1,111 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+太白阴经·祭文、捷书、药方·治马药方篇_古诗文网
+</title>
+<meta content="经曰：马有四百八病，益在调冷热之宜，适牧放之性，常加休息，不可忽视之也。马之系于军也，至矣！重矣?春夏常灌马方郁金、芎藭、当归、大黄、升麻、黄连、细辛。今方不用当归、芎藭、细辛，郤" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_16068.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>祭文、捷书、药方·治马药方篇</b></span>
+<a href="javascript:PlayBookv(16068)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv16068" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay16068" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e7%ad%8c">李筌</a></p>
+<div class="contson">
+<p>　　经曰：马有四百八病，益在调冷热之宜，适牧放之性，常加休息，不可忽视之也。马之系于军也，至矣！重矣?</p>
+<p>　　春夏常灌马方</p>
+<p>　　郁金、芎藭、当归、大黄、升麻、黄连、细辛。</p>
+<p>　　今方不用当归、芎藭、细辛，郤入黄柏、吴蓝、青黛、栀子。秋冬加官桂、乾姜，共为末。每灌七钱，蜜油各一，合汤半升，搅匀灌之。其冷气，则加乾姜、官桂各一两。今多以糯米煮粥半升，油五合，猪脂四两，蜜三两，早饮了啖之，俟日色温，来日复啖之。</p>
+<p>　　马热不食水草方</p>
+<p>　　芒硝、郁金。</p>
+<p>　　右每灌七钱，入酥半两，水一升，搅匀灌之。又云：刺带脉出血，良。</p>
+<p>　　治马漏蹄方</p>
+<p>　　先以刀削，令稳。便之以发灰、羊脂填了，以黄蜡封固之。</p>
+<p>　　疗马内黄、不食水草、颤喘卧数起、口张喘急、颈微垂利方</p>
+<p>　　青黛（三两）、大黄（二两）、白盐（五合）。</p>
+<p>　　右为末，每灌三匕，油蜜各一，合温水一升，灌之，立愈。马有黑汗出，卧不起，汗流如珠，颤喘气急。尝汗，淡即死，咸即不死。取人污袜，烧汤，挼浓汁，灌三升，差。又方力子，割马尾小头，作十字，使出血，以人粪涂之，良或烧人粪以乱发附之，差。</p>
+<p>　　疗马转胞不大小便方</p>
+<p>　　以人粪并大蒜橘汤成膏，纳尿孔内，则立尿。又缠马腹於後蹄，间挽之，令跳自止。</p>
+<p>　　疗马结草方</p>
+<p>　　以热手捻，令结消不消，以火炙之，扫帚柄筑之。</p>
+<p>　　疗马虫颡方</p>
+<p>　　桑根皮、大枣肉、葶苈子（各一两，熬，令黄，另研作膏。）。</p>
+<p>　　右和匀水三升，灌之，一时辰，令低头滴鼻中恶物，愈。次以大黄、油鸡子，清灌之。又曰：桑白皮一握旧乾煮，枣五十枚煮取穰，葶苈子六两熬令黄，以水六升、桑根、大枣并煮，取一大升汁，去渣，内葶苈子膏搅匀，相得更煎，取强半，停令冷暖，得所分为两度，灌所患之鼻，如人行八九里一灌，乾地着草系头底，即出鼻中恶物，令甚走，又以大黄、油鸡子，清灌之，愈。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_16067.aspx">上一章</a>
+<a href="/guwen/book_183.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_16069.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

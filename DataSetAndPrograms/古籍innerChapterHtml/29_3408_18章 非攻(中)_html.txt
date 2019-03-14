@@ -1,0 +1,100 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+墨子·18章 非攻(中)_古诗文网
+</title>
+<meta content="子墨子言曰：“古者王公大人为政于国家者，情欲誉之审，赏罚之当，刑政之不过失……。”是故子墨子曰：“古者有语：谋而不得，则以往知来，以见知隐。谋若此可得而知矣。”今师徒唯毋兴起，冬行" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_3408.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1959" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>18章 非攻(中)</b></span>
+<a href="javascript:PlayBookv(3408)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv3408" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1959)" id="leftbtn1959" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay3408" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p>　　子墨子言曰：“古者王公大人为政于国家者，情欲誉之审，赏罚之当，刑政之不过失……。”是故子墨子曰：“古者有语：谋而不得，则以往知来，以见知隐。谋若此可得而知矣。”</p>
+<p>　　今师徒唯毋兴起，冬行恐寒，夏行恐暑，此不可以冬夏为者也。春则废民耕稼树艺，秋则废民获敛。今唯毋废一时，则百姓饥寒冻馁而死者，不可胜数。今尝计军上：竹箭、羽旄、幄幕、甲盾、拨劫，往而靡弊腑冷不反者，不可胜数。又与矛、戟、戈、剑、乘车，其列住碎拆靡弊而不反者，不可胜数。与其牛马，肥而往，瘠而反，往死亡而不反者，不可胜数。与其涂道之修远，粮食辍绝而不继，百姓死者，不可胜数也。与其居处之不安，食饭之不时，肌饱之不节，百姓之道疾病而死者，不可胜数。丧师多不可胜数，丧师尽不可胜计，则是鬼神之丧其主后，亦不可胜数。</p>
+<p>　　国家发政，夺民之用，废民之利，若此甚众，然而何为为之？曰：“我贪伐胜之名，及得之利，故为之。”子墨子言曰：“计其所自胜，无所可用也；计其所得，反不如所丧者之多。”今攻三里之城，七里之郭，攻此不用锐，且无杀，而徒得此然也？杀人多必数于万，寡必数于千，然后三里之城，七里之郭且可得也。今万乘之国，虚数于千，不胜而入；广衍数于万，不胜而辟。然则土地者，所有余也；王民者，所不足也。今尽王民之死，严下上之患，以争虚城，则是弃所不足，而重所有余也。为政若此，非国之务者也。</p>
+<p>　　饰攻战者言曰：“南则荆、吴之王，北则齐、晋之君，始封于天下之时，其土地之方，未至有数百里也；人徒之众，未至有数十万人也。以攻战之故，土地之博，至有数千里也；人徒之众，至有数百万人。故当攻战而不可为也。”子墨子言曰：“虽四五国则得利焉，犹谓之非行道也。譬若医之药人之有病者然，今有医于此，和合其祝药之于天下之有病者而药之。万人食此，若医四五人得利焉，犹谓之非行药也。故孝子不以食其亲，忠臣不以食其君。古者封国于天下，尚者以耳之所闻，近者以目之所见，以攻战亡者，不可胜数。”何以知其然也？东方有莒之国者，其为国甚小，闲于大国之闲，不敬事于大，大国亦弗之从而爱利，是以东者越人夹削其壤地，西者齐人兼而有之。计莒之所以亡于齐、越之间者，以是攻战也。虽南者陈、蔡，其所以亡于吴、越之间者，亦以攻战。虽北者且不一著何，其所以亡于燕代、胡貊之闲者，亦以攻战也。是故子墨子言曰：“古者王公大人，情欲得而恶失，欲安而恶危，故当攻战，而不可不非。”</p>
+<p>　　饰攻战者之言曰：“彼不能收用彼众，是故亡；我能收用我众，以此攻战于天下，谁敢不宾服哉！”子墨子言曰：“子虽能收用子之众，子岂若古者吴阖闾哉？”古者吴阖闾教七年，奉甲执兵，奔三百里而舍焉。次注林，出于冥隘之径，战于柏举，中楚国而朝宋与及鲁。至夫差之身，北而攻齐，舍于汶上，战于艾陵，大败齐人，而葆之大山；东而攻越，济三江五湖，而葆之会稽。九夷之国莫不宾服。于是退不能赏孤，施舍群萌，自恃其力，伐其功，誉其志，怠于教遂。筑姑苏之台，七年不成。及若此，则吴有离罢之心。越王句践视吴上下不相得，收其众以复其雠，入北郭，徙大内，围王宫，而吴国以亡。昔者晋有六将军，而智伯莫为强焉。计其土地之博，人徒之众，欲以抗诸侯，以为英名，攻战之速，故差论其爪牙之士，皆列其舟车之众，以攻中行氏而有之。以其谋为既已足矣，又攻兹范氏而大败之，并三家以为一家而不止，又围赵襄子于晋阳。及若此，则韩、魏亦相从而谋曰：“古者有语：唇亡则齿寒。赵氏朝亡，我夕从之，赵氏夕亡，我朝从之。诗曰：鱼水不务，陆将何及乎！是以三主之君，一心戳力，辟门除道，奉甲兴士，韩、魏自外，赵氏自内，击智伯大败之。”</p>
+<p>　　是故子墨子言曰：“古者有语曰：君子不镜于水，而镜于人。镜于水，见面之容；镜于人，则知吉与凶。今以攻战为利，则盖尝鉴之于智伯之事乎？此其为不吉而凶，既可得而知矣。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_3407.aspx">上一章</a>
+<a href="/guwen/book_29.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_3409.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1959" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

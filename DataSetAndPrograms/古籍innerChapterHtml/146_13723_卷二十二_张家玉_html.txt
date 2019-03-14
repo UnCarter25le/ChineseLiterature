@@ -1,0 +1,124 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+明季北略·卷二十二·张家玉_古诗文网
+</title>
+<meta content="张家玉张家玉，广东广州府东管县人。崇祯癸未庶吉士。三上书于贼，责以大义，请宾而不臣，见贼长揖，贼怒缚柱上欲刳之，颜色不变，异而释之。愈欲其降，不可，遣人往拘其父母，乃降。授原官，就" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13723.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卷二十二·张家玉</b></span>
+<a href="javascript:PlayBookv(13723)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13723" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13723" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e8%ae%a1%e5%85%ad%e5%a5%87">计六奇</a></p>
+<div class="contson">
+<p>　　张家玉</p>
+<p>　　张家玉，广东广州府东管县人。崇祯癸未庶吉士。三上书于贼，责以大义，请宾而不臣，见贼长揖，贼怒缚柱上欲刳之，颜色不变，异而释之。愈欲其降，不可，遣人往拘其父母，乃降。授原官，就其抗颜贼廷，睹死不惕，即古之烈士，何以加焉。虽为亲改节，以方徐庶非其例矣。甲乙史云：四月初五，庶吉士张家玉上书于自成，请表章范景文、周凤翔等，隆礼刘宗周、黄道周等，尊养史可程、魏学濂等，贼怒缚午门外，家玉请死，不许。凡三日，贼喝欲磔之，复不动。贼云：当磔其父母，乃跪求免，仍为庶吉士。玉，广东人，父母在籍，未尝到京，抗怯倏忽，殊自无谓。</p>
+<p>　　张家玉陈情书（附记）</p>
+<p>　　前明朝翰林院官谨百拜称贺大顺皇帝陛下。陈情左右。君王既定鼎于天下，必以尊贤敬德为基。是故不没人之忠者，所以有忠臣。不没人之孝者，所以有孝子。家玉得君，未及一年，有亲戚四老（此下文气不续，似失一叶）。君王处此，径当宾礼之而不臣。且比例于晋处士陶，旌别其门曰：明翰林庶吉士张先生之庐。庶不伤人臣子之心。不辜尔苍生之望。不然，临以刀锯，设以鼎俎，家玉者形影相笑，从容而乐蹈之。耿耿此心，誓无后悔。</p>
+<p>　　张家玉荐人才书（附记）</p>
+<p>　　前明朝翰林院官谨百拜陈情于大顺皇帝陛下。忠臣义士，于明为多。劝义奖忠，于顺为盛。是故如范景文、周凤翔等，当亟为明恤赠之。而匪但为明恤赠之。刘宗周、黄道周等当急为明隆礼之，而匪但为明隆礼之。又如史可程、魏学濂，当亟为明尊养之，而非但为明尊养之。何则，明孝着而顺，人知有父也。明忠着而顺，人知有君也。至若家玉，殷人从周，愿学孔子，但区区宾礼，而乞系之以明者，盖不特见君王之高义，实我欲遂君王之大不宁也。当此多方多士，尚在危疑惊喜之时，莫若将家玉旌而别之，刻其书以布之四方，得一仁人以收拾天下人心，胜精兵十万可知也。如其不允所请，家玉决不堕泥涂为班皂羞，归乡里为父母僇，誓杀身为牲，少备天子，大享上帝，刀锯鼎俎，谅非负气守节者，所隐忍而规避也。荣辱惟命，生死亦惟命（家玉后为忠臣，上此书，盖借以逃也）。</p>
+<p>　　癸未馆选三十六人，列在刑辱者，止万发祥一人。</p>
+<p>　　张国泰</p>
+<p>　　张国泰，北直保定新城人。崇祯癸酉举人，官待诏。</p>
+<p>　　高莱凤</p>
+<p>　　高莱凤，陕西韩城人。崇祯丙子举人，官待诏。</p>
+<p>　　吏部</p>
+<p>　　沈自彰</p>
+<p>　　沈自彰，顺天籍应天上元人。万历二十九年辛丑进士，官太常少卿，掌文选司郎中事。国难录注夹二夹留用。</p>
+<p>　　郭万象</p>
+<p>　　郭万象，陕西西安高陵人。崇祯甲戌进士，官文选司郎中，为吏政府考功郎。国艰赌记云：亲见粘贴钦授职衔主门。</p>
+<p>　　刘廷谏</p>
+<p>　　刘廷谏，顺天籍，浙江人。万历己未进士，官考功司郎中，改伪府尹。</p>
+<p>　　侯佐</p>
+<p>　　侯佐，山西解州人。崇祯甲戌进士，官验封司员外，伪吏政府稽勋郎。</p>
+<p>　　左懋泰</p>
+<p>　　左懋泰，字韦诸，山东登州莱阳人。崇祯甲戌进士，官稽勋司郎中，伪兵政府侍郎，镇守山海关。</p>
+<p>　　熊文举</p>
+<p>　　熊文举，号雪堂，江西南昌人。崇祯辛未进士，官稽勋司郎中，伪吏政府验封郎，国难赌记云：亲见门粘。</p>
+<p>　　王显</p>
+<p>　　王显，北直广平曲周人。崇祯丁丑进士，官主事。</p>
+<p>　　别单闻有孙节云南籍武进人。子举人，官司务。</p>
+<p>　　户部</p>
+<p>　　王鳌永</p>
+<p>　　王鳌永，山东济南淄川人。天启乙丑进士，官右侍郎，督理钱法，夹二夹留用。</p>
+<p>　　党崇雅</p>
+<p>　　党崇雅，陕西宝鸡人。天启乙丑进士，官右侍郎，督运西路，贿复原官，大张告示，谕押运漕白粮等官，候新主遣官察盘销算，擅离提究等因。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13722.aspx">上一章</a>
+<a href="/guwen/book_146.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13724.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

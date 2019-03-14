@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+百家姓·卓_古诗文网
+</title>
+<meta content="历史来源　　出自芈姓，是春秋时期楚国王族的后裔。楚威王有个儿子名叫公子卓，其后代以祖字为姓，称为卓氏。根据考证，卓氏是发源于2800多年前的楚国。又据《战国策》中有卓氏是楚大夫卓滑" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2583.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>卓</b></span>
+<a href="javascript:PlayBookv(2583)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2583" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay2583" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e4%bd%9a%e5%90%8d">佚名</a></p>
+<div class="contson">
+<p><strong>历史来源</strong><br/>　　出自芈姓，是春秋时期楚国王族的后裔。楚威王有个儿子名叫公子卓，其后代以祖字为姓，称为卓氏。根据考证，卓氏是发源于2800多年前的楚国。又据《战国策》中有卓氏是楚大夫卓滑之后这一说法。另外《姓氏考略》上提到，卓姓望出西河。古代的西河，即今山西省阳城，全国卓姓人家的老家便在这里。望族居西河郡（今山西省离石县）。</p>
+<p><strong>家族名人</strong><br/>　　卓茂：字子康，南阳宛人。性格宽厚仁慈，谦恭友爱。乡里的老朋友，即使品行才能与卓茂有所不同，也都真心诚意地敬爱仰慕他。起初卓茂被征召为丞相府史，奉事孔光，孔光称赞他是长者。当时卓茂曾经出行在外，有人指认他的马是自己丢失的。卓茂问道：“您丢失马多长时间了？”那人回答说：“一个月多几天埃”卓茂拥有这马已经几年，心里知道那人弄错了，但还是默默解开马给了他，自己拉着车离去，临行回头说：“如果不是先生的马，希望您到丞相府还给我。”后来有一天，马的主人在别处找到了丢失的马，于是到丞相府送马，磕头向卓茂道歉。卓茂本性不喜欢争执就像这样。后来卓茂凭儒术被举荐为侍郎，供职于宫门之内，随又调任密县县令。他费尽心思教化地方，对待人民如同子女，总是用善行来教导大家，口中从来没有恶言恶语，官吏百姓亲近爱戴他，因而不忍心欺骗他。<br/>　　卓敬：明代洪武进士，遇事敢言。时人有云：“国家养士三十年，唯得一卓敬。"<br/>　　卓田：宋代文士。工小词。有《三衢买舟词》。<br/>　　卓琮：宋代学者，字廷瑞，永春人。从陈淳游，嗜学坚苦，以积累成功。凡所讲论，能畅所授之旨。<br/>　　卓敬：明代洪武进士，遇事敢言。时人有云：“国家养士三十年，唯得一卓敬。”<br/>　　卓文君：汉代才女，是富翁王孙的女儿。丈夫去世不久后与才子司马相如相爱私奔，相如家徒四壁，文君当垆卖酒，后终为富贵。后来司马相如想娶茂陵人女为妾，文君作一篇《白头吟》自绝，相如读后十分感动，打消了纳妾的念头。<br/>　　卓明卿：塘栖人，明万历年间任光禄署丞，40多岁回到家乡时，家族人员众多，需要扩充宅居。和卓明卿同朝为官的大学问家王世贞当时是刑部尚书，他为卓明卿作传，在《卓徵甫传》中，有这么一段：“赞曰：语云人貌荣名，其有既乎，太史公之所以致叹于郭翁伯哉。”这说的是人们赞颂卓明卿有貌有名，称他为太史公。但民间把太史误为太师。<br/>　　卓尔康：字去病，浙江仁和（今属杭州）人。万历四十年（1612年）举人，官至工部屯田司郎中，谪常州府检校，后终于两淮盐运通判。据《明史·艺文志》载尔康《易学》五十卷，此本仅存图一卷，《图说》六卷及《说卦传》二卷，《序卦传》二卷，《杂卦传》一卷。每卷首但有“卷之”二字，而空其数，盖刻刊未竟之本也。<br/>　　卓人月：明代著名的文学理论家、诗人、戏剧家，著《古今词统》十六卷，被誉为词苑功臣，可惜只活了31岁。<br/>　　卓晚春：莆田明代嘉靖年间一大奇人。他出生在醴泉里柳营村一个穷人家。三岁丧母，七岁丧父，从此成了一个苦命的孤儿。好心肠的姑母将他带到北高南渚林，扶养成人。晚春生来聪明伶俐，智力超常。虽然没上过一天私塾，却能吟诗作对；没学过一点算学，即使是千千万万之数，他竟能掐掐指头，推算如神。人称“卓小仙”。<br/>　　卓秉恬：清代有武英殿大学士卓秉恬。字静远（1781-1855），一字海帆。成都市双流人。嘉庆进士，选翰林院庶吉士。曾任山东道监察御史，内阁大学士，兵部、户部、吏部尚书，都察院左都御史等要职。任职长达50余年，在整顿吏治、水利建设、培育人才、改良政治等方面有不少建树。1840年任内阁大学士、兵部尚书，时值鸦片战争开始，上疏要求严禁鸦片。1855年卒于任内，清廷赠太子太保衔。</p>
+<p><strong>迁徙分布</strong><br/>　　（缺）卓姓在大陆未列入百家姓前一百位，在台湾位列百家姓第六十五位。卓姓起源于春秋时候。当时楚国有个公子名叫卓，称为公子卓。公子卓的后代中有的以卓作为姓氏，称为卓氏，是今天卓姓最早的起源。卓氏的繁衍速度是比较迅速的。卓氏大规模地向各地播迁，大约发生于南北朝时期。《崇正同人族谱》介绍说：“晋武胡之乱，中原望族，相率南奔。粤有卓炜者，为建安刺史，后因家焉。卓姓移居广东，是为极为好的证据。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2582.aspx">上一章</a>
+<a href="/guwen/book_16.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2584.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

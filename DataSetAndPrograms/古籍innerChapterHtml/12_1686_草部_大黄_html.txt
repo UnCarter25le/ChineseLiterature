@@ -1,0 +1,96 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+本草纲目·草部·大黄_古诗文网
+</title>
+<meta content="释名黄良、将军、火参、肤如。气味（根）苦、寒、无毒。主治吐血、鼻血（心气不足）。用大黄二两，黄连、黄芩各一两，加水三升，煮成一升，热服。下泻即验。伤寒痞满（心下满而不痛）。用大黄二" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_1686.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>草部·大黄</b></span>
+<a href="javascript:PlayBookv(1686)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv1686" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay1686" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e6%9d%8e%e6%97%b6%e7%8f%8d">李时珍</a></p>
+<div class="contson">
+<p><strong>释名</strong><br/>黄良、将军、火参、肤如。</p>
+<p><strong>气味</strong><br/>（根）苦、寒、无毒。</p>
+<p><strong>主治</strong><br/>吐血、鼻血（心气不足）。用大黄二两，黄连、黄芩各一两，加水三升，煮成一升，热服。下泻即验。<br/>伤寒痞满（心下满而不痛）。用大黄二两、黄连一两，泡入麻沸汤中。过一会，绞渣取汁，分二次温服。此方名大黄黄连泻心汤。<br/>热病廉说胡话。用大黄五两，锉细，炒到微红，加水煎成膏子，每服半匙，冷水送下，此方亦治伤寒发黄。<br/>腰脚风痛。用大黄二两，切成不块，加少许酥油炒士，不能炒焦。捣烂筛过。每服二钱，空心服，煮开过多次的姜汤送下。泻出冷脓恶物，痛即止。<br/>风热积壅。用大黄四两、牵牛子（半炒）四两、共研为末，加炼蜜做成丸了，如梧子大。每服十丸，白开水送下。如要微泻，每服可加十至二十丸。又方：基本上和上主栅，但不用炼蜜而用皂荚熬膏代替，称为坠痰丸或“全真丸”，又名“保安丸”。<br/>痰为面病（但水泻及胎前产后的痰病不可服用）。用大黄（酒浸，蒸熟。切晒）八两，生黄芩八两，沉香半两，共研为末，加青礞石（二两）和焰硝（二两）一起封固、煅红、研细的药末二两，以水和各药成丸，如梧子大。常服一、二十丸，小病五、六十丸，缓病七、八十丸，急病一百二十丸，温水送下后，好静卧勿动，让药起作用。第二天，先下糟粕，次下痰涎。如未下，可再次服药，此方名“滚痰丸”。<br/>腹中痞块。用大黄十两，研为末，加醋三升、蜜两匙，和匀，煎成丸了，如梧子大。生前了三十丸，生姜汤关定。能吐泻即验。又方：陈石灰半斤，瓦器上炒至极热，等稍冷后，加大黄末（炒热）一两、桂心末（略炒）半两，以醋调成膏，摊在布上贴患处。又方：大黄二两、朴硝一两，共研为末，以大蒜同捣成膏贴患处。加放阿魏一两，更好。<br/>脾癖疳积。用大黄末三两，加醋熬成膏，倒在瓦上日晒夜露三天；再加硫磺一两（以形如琥珀者为好）、宫粉一两，一起研匀。十岁以下小孩，每服半钱，大人每服一钱半，米汤送下。忌生冷鱼肉，只吃白粥半月。如一服不愈，半月之后再服。<br/>小儿诸热。用大黄（煨熟）、黄芩各一两，共研为末，加炼蜜做在成丸子，如麻子大。每服五至十丸，蜜汤送下。亦可加黄连，称为“三黄丸”。<br/>骨蒸积热，渐渐黄瘦。用大黄四分、加童便五六合，煎取四合，去渣服汁，分二次服。<br/>赤白浊淋。用大黄研末，每次取六分，放入破了顶的鸡蛋中，搅匀，蒸熟，空心吃下。三次见效。<br/>大便秘结。用大黄末一两、牵牛头末半两，和匀，每服三钱。用厥次序心烦现象者，酒送下，无此现象者，蜜汤送下。<br/>热痢，里急后重。用大黄一两，浸酒中半日，取出煎服。<br/>伤寒并热霍乱（涎流吐逆，不能言语，牙齿动摇，喘气闷绝）。用大黄、人参各半两，加水二碗，煎成一碗，热服即安。<br/>食后即吐。用大黄一两、甘草二钱半，加水一升，煮成半升，温服。<br/>产后血块。用大黄末一两，加头醋半升，熬膏做成丸子，如梧子大。每服五丸，温醋化下。<br/>男子疝气偏坠。用大黄末调醋涂患处，药干即换。<br/>头眼昏眩。用酒炒在黄，研为末，清茶送服二钱。<br/>风热牙痛。用大内烧存性，研为末，早晚擦牙。<br/>口腔糜烂。用大黄、枯矾，等分为末，擦牙，吐涎。<br/>鼻内生疮。用生大黄、杏仁捣匀，加猪油调涂。又方：用生大黄、黄连各一钱，麝香少许，共研为末，加重 油调涂。<br/>损伤瘀血（从高处跌下或木石压伤，痛不可忍）。用大黄（酒蒸）一两、杏仁（去皮）三、七粒，共研细，加酒一碗，煎成六分，鸡鸣时服。至晚间有瘀血排下为验。<br/>冻疮。用水调大黄末涂搽。<br/>汤火伤。用大黄生研，调蜜涂搽，不惟止痛，而且灭瘢。<br/>蠼螋咬疮。用大黄研末敷上。<br/>肿毒初起。用大黄、五倍子、黄蘖，等分为末，新汲水调匀涂患处。每天四至五次。<br/>痈肿热痛。用大黄研末，加醋调匀涂患处。药干即换。<br/>乳痈。用大黄、粉草各一两，共研为末，加好酒熬成膏，摊布块上贴疮。同时，取药末一匙，温酒送服。次日有恶物排出。此方名“金黄散”。<br/>大风癞疮。用大黄（煨）一两、皂荚两刺一两，共研为末。每服一匙，空心服，温酒送下。排出恶物如鱼脑状或乱发状，再雄黄花蛇药（“通天再造散”）</p>
+<p><strong>附方</strong><br/>大黄常用为解燥结、除实痰的要药，脉洪而实者用之，有速效。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_1685.aspx">上一章</a>
+<a href="/guwen/book_12.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_1687.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

@@ -1,0 +1,107 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·昭公·昭公二十三年_古诗文网
+</title>
+<meta content="【经】二十有三年春王正月，叔孙□若如晋。癸丑，叔鞅卒。晋人执我行人叔孙□若。晋人围郊。夏六月，蔡侯东国卒于楚。秋七月，莒子庚舆来奔。戊辰，吴败顿、胡沈、蔡、陈、许之师于鸡父，胡子髡" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2985.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1516" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>昭公·昭公二十三年</b></span>
+<a href="javascript:PlayBookv(2985)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2985" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1516)" id="leftbtn1516" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2985" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】二十有三年春王正月，叔孙□若如晋。癸丑，叔鞅卒。晋人执我行人叔孙□若。晋人围郊。夏六月，蔡侯东国卒于楚。秋七月，莒子庚舆来奔。戊辰，吴败顿、胡沈、蔡、陈、许之师于鸡父，胡子髡、沈子逞灭，获陈夏啮。天王居于狄泉。尹氏立王子朝。八月乙未，地震。冬，公如晋，至河，有疾，乃复。 </p>
+<p>　　【传】二十三年春，王正月壬寅朔，二师围郊。癸卯，郊、鄩溃。丁未，晋师在平阴，王师在泽邑。王使告间，庚戌，还。 </p>
+<p>　　邾人城翼，还，将自离姑。公孙锄曰：「鲁将御我。」欲自武城还，循山而南。徐锄、丘弱、茅地曰：「道下，遇雨，将不出，是不归也。」遂自离姑。武城人塞其前，断其后之木而弗殊。邾师过之，乃推而蹶之。遂取邾师，获锄、弱、地。</p>
+<p>　　邾人诉于晋，晋人来讨。叔孙蹶如晋，晋人执之。书曰：「晋人执我行人叔孙□若。」言使人也。晋人使与邾大夫坐。叔孙曰：「列国之卿，当小国之君，固周制也。邾又夷也。寡君之命介子服回在，请使当之，不敢废周制故也。」乃不果坐。</p>
+<p>　　韩宣子使邾人取其众，将以叔孙与之。叔孙闻之，去众与兵而朝。士弥牟谓韩宣子曰：「子弗良图，而以叔孙与其仇，叔孙必死之。鲁亡叔孙，必亡邾。邾君亡国，将焉归？子虽悔之，何及？所谓盟主，讨违命也。若皆相执，焉用盟主？」乃弗与，使各居一馆。士伯听其辞而诉诸宣子，乃皆执之。士伯御叔孙，从者四人，过邾馆以如吏。先归邾子。士伯曰：「以刍荛之难，从者之病，将馆子于都。」叔孙旦而立，期焉。乃馆诸箕。舍子服昭伯于他邑。 </p>
+<p>　　范献子求货于叔孙，使请冠焉。取其冠法，而与之两冠，曰：「尽矣。」为叔孙故，申丰以货如晋。叔孙曰：「见我，吾告女所行货。」见，而不出。吏人之与叔孙居于箕者，请其吠狗，弗与。及将归，杀而与之食之。叔孙所馆者，虽一日必葺其墙屋，去之如始至。 </p>
+<p>　　夏四月乙酉，单子取訾，刘子取墙人、直人。六月壬午，王子朝入于尹。癸未，尹圉诱刘佗杀之。丙戌，单子从阪道，刘子从尹道伐尹。单子先至而败，刘子还。己丑，召伯奂、南宫极以成周人戍尹。庚寅，单子、刘子、樊齐以王如刘。甲午，王子朝入于王城，次于左巷。秋七月戊申，鄩罗纳诸庄宫。尹辛败刘师于唐。丙辰，又败诸鄩。甲子，尹辛取西闱。丙寅，攻蒯，蒯溃。 </p>
+<p>　　莒子庚舆虐而好剑，苟铸剑，必试诸人。国人患之。又将叛齐。乌存帅国人以逐之。庚舆将出，闻乌存执殳而立于道左，惧将止死。苑羊牧之曰：「君过之！乌存以力闻可矣，何必以弑君成名？」遂来奔。齐人纳郊公。 </p>
+<p>　　吴人伐州来，楚薳越帅师及诸侯之师奔命救州来。吴人御诸钟离。子瑕卒，楚师熸薳。吴公子光曰：「诸侯从于楚者众，而皆小国也。畏楚而不获己，是以来。吾闻之曰：『作事威克其爱，虽小必济』。胡、沈之君幼而狂，陈大夫啮壮而顽，顿与许、蔡疾楚政。楚令尹死，其师熸。帅贱、多宠，政令不壹。而七国同役不同心，帅贱而不能整，无大威命，楚可败也，若分师先以犯胡、沈与陈，必先奔。三国败，诸侯之师乃摇心矣。诸侯乖乱，楚必大奔。请先者去备薄威，后者敦陈整旅。」吴子从之。戊辰晦，战于鸡父。吴子以罪人三千，先犯胡、沈与陈，三国争之。吴为三军以击于后，中军从王，光帅右，掩余帅左。吴之罪人或奔或止，三国乱。吴师击之，三国败，获胡、沈之君及陈大夫。舍胡、沈之囚，使奔许与蔡、顿，曰：「吾君死矣！」师噪而从之，三国奔，楚师大奔。书曰：「胡子髡、沈子逞灭，获陈夏啮。」君臣之辞也。不言战，楚未陈也。 </p>
+<p>　　八月丁酉，南宫极震。苌弘谓刘文公曰：「君其勉之！先君之力可济也。周之亡也，其三川震。今西王之大臣亦震，天弃之矣！东王必大克。」 </p>
+<p>　　楚大子建之母在狊阜，召吴人而启之。冬十月甲申，吴大子诸樊入狊阜，取楚夫人与其宝器以归。楚司马薳越追之，不及。将死，众曰：「请遂伐吴以徼之。」薳越曰：「再败君师，死且有罪。亡君夫人，不可以莫之死也。」乃缢于薳澨。 </p>
+<p>　　公为叔孙故如晋，及河，有疾而复。 </p>
+<p>　　楚囊瓦为令尹，城郢。沈尹戌曰：「子常必亡郢！苟不能卫，城无益也。古者，天子守在四夷；天子卑，守在诸侯。诸侯守在四邻；诸侯卑，守在四竟。慎其四竟，结其四援，民狎其野，三务成功，民无内忧，而又无外惧，国焉用城？今吴是惧而城于郢，守己小矣。卑之不获，能无亡乎？昔梁伯沟其公宫而民溃。民弃其上，不亡何待？夫正其疆场，修其土田，险其走集，亲其民人，明其伍候，信其邻国，慎其官守，守其交礼，不僭不贪，不懦不耆，完其守备，以待不虞，又何畏矣？《诗》曰：『无念尔祖，聿修厥德。』无亦监乎若敖、蚡冒至于武、文？土不过同，慎其四竟，犹不城郢。今土数圻，而郢是城，不亦难乎？」 </p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2984.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2986.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1516" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

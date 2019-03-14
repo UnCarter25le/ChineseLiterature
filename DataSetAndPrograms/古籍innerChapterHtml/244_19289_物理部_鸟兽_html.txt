@@ -1,0 +1,140 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+夜航船·物理部·鸟兽_古诗文网
+</title>
+<meta content="小犬吠不绝声者，用香油一蚬壳灌入鼻中，经宿则不吠。乌骨鸡舌黑者，则骨黑；舌不黑者，但肉黑。鸡未（羽弋）者，以苕帚赶之，则翼毛倒生。母鸡生子，与青（一作续）麻子吃，则长生，不抱子。竹" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_19289.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>物理部·鸟兽</b></span>
+<a href="javascript:PlayBookv(19289)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv19289" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay19289" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%bc%a0%e5%b2%b1">张岱</a></p>
+<div class="contson">
+<p>　　小犬吠不绝声者，用香油一蚬壳灌入鼻中，经宿则不吠。</p>
+<p>　　乌骨鸡舌黑者，则骨黑；舌不黑者，但肉黑。</p>
+<p>　　鸡未（羽弋）者，以苕帚赶之，则翼毛倒生。</p>
+<p>　　母鸡生子，与青（一作续）麻子吃，则长生，不抱子。</p>
+<p>　　竹鸡叫，可去壁虱并白蚁。</p>
+<p>　　鹘带帽飞去，立唤则高扬去，伏地叫则来。</p>
+<p>　　鸡黄双者，生两头及三足。</p>
+<p>　　猫眼知时候，有歌曰：“子午线，卯酉圆，寅申已亥银杏样，辰戌丑未侧如钱。”香狸有四个外肾。</p>
+<p>　　鹰无（月真）而有肚，食肉故也。</p>
+<p>　　飞禽吃谷者有（月真）。</p>
+<p>　　鸡吃猫饭，能啄人。</p>
+<p>　　胡麻面啖犬，则黑光而骏。</p>
+<p>　　虎至人家盗犬豕食，闻刀刮锅底声则去，盖闻声则齿酸故也。</p>
+<p>　　牛尾短者寿长，尾长者寿短。</p>
+<p>　　猫鼻惟六月六日一次热。</p>
+<p>　　杏仁末与犬食之，即死。</p>
+<p>　　狗欲褪毛，饲以糟，则易褪。</p>
+<p>　　鹿群夜宿，大者角向外，小者在内，圈匝如寨。</p>
+<p>　　行兵者仿之，作鹿角寨。</p>
+<p>　　虎豹皮只可焙，不可晒。</p>
+<p>　　猢狲病，吃壁上蟢子，即愈。</p>
+<p>　　狗身上发癞，虫蝇，百部汁涂之，即除。</p>
+<p>　　马背鞍卷破脊梁，以渠中淤泥涂之，即愈。</p>
+<p>　　辨牛黄真假，牛黄如鸡子大，重重叠叠，取置人指甲上磨之，其黄透甲，拭不落者，即真也。</p>
+<p>　　猫癞以柏油擦之。再发，再擦。至三次，即除。</p>
+<p>　　猪癞，以猪油擦之，即好。</p>
+<p>　　猫洗面至耳，必有客至。</p>
+<p>　　人家燕雀顿绝者，必有火灾。</p>
+<p>　　鹳仰鸣则晴，俯鸣必雨。</p>
+<p>　　鹊巢低，其年大水。</p>
+<p>　　鹘初声，或卧闻之，则一年安乐。</p>
+<p>　　猫犬所生皆雄者，其家必有喜事。</p>
+<p>　　犬死，以葵根塞其鼻，良久活。</p>
+<p>　　孔雀毛入眼，损人眼；胆大，毒杀人。</p>
+<p>　　狗虱，用朝瑙擦毛内，以大桶或箱内闷盖之，虱即堕落，急令人掐杀之。 猫狗虱癞，用桃叶捣烂，遍擦其皮毛，隔少顷洗去之，一二次即除。</p>
+<p>　　鸡病，以真麻油灌之。</p>
+<p>　　鸡哮，用白菜叶包鼠屎、香油挜之，即好。</p>
+<p>　　鸡瘟，以猪肉切碎喂之。又将雄黄为末，拌饭喂之，立愈。</p>
+<p>　　猪瘟，以罗卜菜连根喂之愈。</p>
+<p>　　牛马疥癞，用荞麦秆烧成灰，沐灰汁，浇之愈。</p>
+<p>　　牛马瘟，用酒加麝香末些须在内，灌之。</p>
+<p>　　牛马疥癞，用梨卢为末，水调涂之。</p>
+<p>　　鹤病，用蛇或鼠或大麦煮熟喂之。</p>
+<p>　　鹿病，用盐拌豆料喂之，常食菀豆则无病。</p>
+<p>　　喂灶猫，用猪肠或鱼肠，入些须雄黄在内，煨熟饲之。</p>
+<p>　　牛中暑，用胡麻苗捣汁灌之，即好。无苗，即用麻子二三两捣烂，和井水调匀，灌之。</p>
+<p>　　牛马猪驴瘟，用狼毒、牙皂各一两，黄连一两五钱，雄黄、朱砂各五钱为末。猪擦入眼中，牛马驴吹入鼻中。</p>
+<p>　　凡鸡鹅鸭欲其速肥，胡麻子拌饭，加硫磺少许，喂七日，其膘壮异常。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_19288.aspx">上一章</a>
+<a href="/guwen/book_244.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_19290.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

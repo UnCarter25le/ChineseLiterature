@@ -1,0 +1,106 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+茶经·二之具_古诗文网
+</title>
+<meta content="籝，一曰篮，一曰笼，一曰筥。以竹织之，受五升，或一斗、二斗、三斗者，茶人负以采茶也。灶无用&lt;穴犮&gt;者，釜用唇口者。甑，或木或瓦，匪腰而泥，篮以箪之，篾以系之。始其蒸也，" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_13780.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>二之具</b></span>
+<a href="javascript:PlayBookv(13780)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv13780" src="/img/speaker.png" width="16"/></a>
+<span id="bookvPlay13780" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e9%99%86%e7%be%bd">陆羽</a></p>
+<div class="contson">
+<p>　　籝，一曰篮，一曰笼，一曰筥。以竹织之，受五升，或一斗、二斗、三斗者，茶人负以采茶也。</p>
+<p>　　灶无用&lt;穴犮&gt;者，釜用唇口者。</p>
+<p>　　甑，或木或瓦，匪腰而泥，篮以箪之，篾以系之。始其蒸也，入乎箪，既其熟也，出乎箪。釜涸注于甑中，又以谷木枝三亚者制之，散所蒸牙笋并叶，畏流其膏。</p>
+<p>　　杵臼，一曰碓，惟恒用者佳。</p>
+<p>　　规，一曰模，一曰桊。以铁制之，或圆或方或花。</p>
+<p>　　承，一曰台，一曰砧。以石为之，不然以槐、桑木半埋地中，遣无所摇动。<br/>　　<br/>　　檐，一曰衣。以油绢或雨衫单服败者为之，以檐置承上，又以规置檐上，以造茶也。茶成，举而易之。</p>
+<p>　　芘莉，一曰羸子，一曰篣筤。以二小竹长三赤，躯二赤五寸，柄五寸，以篾织，方眼如圃，人土罗阔二赤，以列茶也。</p>
+<p>　　棨，一曰锥刀，柄以坚木为之，用穿茶也。</p>
+<p>　　扑，一曰鞭。以竹为之，穿茶以解茶也。</p>
+<p>　　焙，凿地深二尺，阔二尺五寸，长一丈，上作短墙，高二尺，泥之。</p>
+<p>　　贯，削竹为之，长二尺五寸，以贯茶焙之。</p>
+<p>　　棚，一曰栈，以木构于焙上，编木两层，高一尺，以焙茶也。茶之半干升下棚，全干升上棚。</p>
+<p>　　穿，江东淮南剖竹为之，巴川峡山纫谷皮为之。江东以一斤为上穿，半斤为中穿，四两五两为小穿。峡中以一百二十斤为上，八十斤为中穿，五十斤为小穿。字旧作钗钏之“钏”，字或作贯串，今则不然。如磨、扇、弹、钻、缝五字，文以平声书之，义以去声呼之，其字以穿名之。</p>
+<p>　　育，以木制之，以竹编之，以纸糊之，中有隔，上有覆，下有床，傍有门，掩一扇，中置一器，贮煻煨火，令煴煴然，江南梅雨时焚之以火。</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_13779.aspx">上一章</a>
+<a href="/guwen/book_150.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_13781.aspx">下一章</a>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

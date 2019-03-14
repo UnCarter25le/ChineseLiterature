@@ -1,0 +1,105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+左传·襄公·襄公四年_古诗文网
+</title>
+<meta content="【经】四年春王三月己酉，陈侯午卒。夏，叔孙豹如晋。秋七月戊子，夫人姒氏薨。葬陈成公。八月辛亥，葬我小君定姒。冬，公如晋。陈人围顿。 【传】四年春，楚师为陈叛故，犹在繁阳。韩献子患之" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_2935.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left1465" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>襄公·襄公四年</b></span>
+<a href="javascript:PlayBookv(2935)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv2935" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(1465)" id="leftbtn1465" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay2935" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%b7%a6%e4%b8%98%e6%98%8e">左丘明</a></p>
+<div class="contson">
+<p>　　【经】四年春王三月己酉，陈侯午卒。夏，叔孙豹如晋。秋七月戊子，夫人姒氏薨。葬陈成公。八月辛亥，葬我小君定姒。冬，公如晋。陈人围顿。 </p>
+<p>　　【传】四年春，楚师为陈叛故，犹在繁阳。韩献子患之，言于朝曰：「文王帅殷之叛国以事纣，唯知时也。今我易之，难哉！」 </p>
+<p>　　三月，陈成公卒。楚人将伐陈，闻丧乃止。陈人不听命。臧武仲闻之，曰：「陈不服于楚，必亡。大国行礼焉而不服，在大犹有咎，而况小乎？」夏，楚彭名侵陈，陈无礼故也。 </p>
+<p>　　穆叔如晋，报知武子之聘也，晋侯享之。金奏《肆夏》之三，不拜。工歌《文王》之三，又不拜。歌《鹿鸣》之三，三拜。韩献子使行人子员问之，曰：「子以君命，辱于敝邑。先君之礼，藉之以乐，以辱吾子。吾子舍其大，而重拜其细，敢问何礼也？」对曰：「三《夏》，天子所以享元侯也，使臣弗敢与闻。《文王》，两君相见之乐也，使臣不敢及。《鹿鸣》，君所以嘉寡君也，敢不拜嘉。？《四牡》，君所以劳使臣也，敢不重拜？《皇皇者华》，君教使臣曰：『必咨于周。』臣闻之：『访问于善为咨，咨亲为询，咨礼为度，咨事为诹，咨难为谋。』臣获五善，敢不重拜？」</p>
+<p>　　秋，定姒薨。不殡于庙，无榇，不虞。匠庆谓季文子曰：「子为正卿，而小君之丧不成，不终君也。君长，谁受其咎？」 </p>
+<p>　　初，季孙为己树六檟于蒲圃东门之外。匠庆请木，季孙曰：「略。」匠庆用蒲圃之檟，季孙不御。君子曰：「《志》所谓『多行无礼，必自及也』，其是之谓乎！」</p>
+<p>　　冬，公如晋听政，晋侯享公。公请属鄫，晋侯不许。孟献子曰：「以寡君之密迩于仇雠，而愿固事君，无失官命。鄫无赋于司马，为执事朝夕之命敝邑，敝邑褊小，阙而为罪，寡君是以愿借助焉！」晋侯许之。 </p>
+<p>　　楚人使顿间陈而侵伐之，故陈人围顿。 </p>
+<p>　　无终子嘉父使孟乐如晋，因魏庄子纳虎豹之皮，以请和诸戎。晋侯曰：「戎狄无亲而贪，不如伐之。」魏绛曰：「诸侯新服，陈新来和，将观于我，我德则睦，否则携贰。劳师于戎，而楚伐陈，必弗能救，是弃陈也，诸华必叛。戎，禽兽也，获戎失华，无乃不可乎？《夏训》有之曰：『有穷后羿。』」公曰：「后羿何如？」对曰：「昔有夏之方衰也，后羿自鉏迁于穷石，因夏民以代夏政。恃其射也，不修民事而淫于原兽。弃武罗、伯困、熊髡、龙圉而用寒浞。寒浞，伯明氏之谗子弟也。伯明后寒弃之，夷羿收之，信而使之，以为己相。浞行媚于内而施赂于外，愚弄其民而虞羿于田，树之诈慝以取其国家，外内咸服。羿犹不悛，将归自田，家众杀而亨之，以食其子。其子不忍食诸，死于穷门。靡奔有鬲氏。浞因羿室，生浇及豷，恃其谗慝诈伪而不德于民。使浇用师，灭斟灌及斟寻氏。处浇于过，处豷于戈。靡自有鬲氏，收二国之烬，以灭浞而立少康。少康灭浇于过，后杼灭豷于戈。有穷由是遂亡，失人故也。昔周辛甲之为大史也，命百官，官箴王阙。于《虞人之箴》曰：『芒芒禹迹，尽为九州，经启九道。民有寝庙，兽有茂草，各有攸处，德用不扰。在帝夷羿，冒于原兽，忘其国恤，而思其麀牡。武不可重，用不恢于夏家。兽臣司原，敢告仆夫。』《虞箴》如是，可不惩乎？」于是晋侯好田，故魏绛及之。 </p>
+<p>　　公曰：「然则莫如和戎乎？」对曰：「和戎有五利焉：戎狄荐居，贵货易土，土可贾焉，一也。边鄙不耸，民狎其野，穑人成功，二也。戎狄事晋，四邻振动，诸侯威怀，三也。以德绥戎，师徒不勤，甲兵不顿，四也。鉴于后羿，而用德度，远至迩安，五也。君其图之！」公说，使魏绛盟诸戎，修民事，田以时。 </p>
+<p>　　冬十月，邾人、莒人伐鄫。臧纥救鄫，侵邾，败于狐骀。国人逆丧者皆髽。鲁于是乎始髽，国人诵之曰：「臧之狐裘，败我于狐骀。我君小子，朱儒是使。朱儒！朱儒！使我败于邾。」</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_2934.aspx">上一章</a>
+<a href="/guwen/book_19.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_2936.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right1465" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>

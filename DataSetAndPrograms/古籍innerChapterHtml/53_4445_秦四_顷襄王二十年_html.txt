@@ -1,0 +1,97 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta content="no-siteapp" http-equiv="Cache-Control"/><meta content="no-transform " http-equiv="Cache-Control"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>
+战国策·秦四·顷襄王二十年_古诗文网
+</title>
+<meta content="顷襄王二十年，秦白起拔楚西陵，或拔鄢、郢、夷陵，烧先王之墓。王徙东北，保于陈城。楚遂削弱，为秦所轻。于是白起又将兵来伐。楚人有黄歇者，游学博闻，襄王以为辩，故使于秦。说昭王曰：“天" name="description"/>
+<script type="text/javascript">
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            window.location.href = "https://m.gushiwen.org/guwen/bookv_4445.aspx";
+        } else {
+
+        }
+</script>
+<link href="/css/skinSo20180726.css" rel="stylesheet" type="text/css"/>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?04660099568f561a75456483228a9516";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body onclick="closeshowBos()">
+<div class="main1">
+<div class="cont">
+<div class="left">
+<a href="https://www.gushiwen.org/">古诗文网</a>
+</div>
+<div class="right">
+<div class="son1">
+<a href="https://www.gushiwen.org/" style="margin-left:1px;">推荐</a>
+<a href="https://www.gushiwen.org/shiwen/">诗文</a>
+<a href="/mingju/">名句</a>
+<a href="/authors/">作者</a>
+<a href="/guwen/" style="background-color:#757863;border-bottom:3px solid #F0EFE2;line-height:43px; height:43px;">古籍</a>
+<a href="/user/collect.aspx" rel="nofollow">收藏</a>
+<a href="/app/" style="width:65px;" target="_blank">手机版</a>
+</div>
+<div class="son2">
+<div class="search">
+<form action="/search.aspx" contenttype="text/html; charset=utf-8" onsubmit="return selectSearch()">
+<input autocomplete="off" id="txtKey" maxlength="40" name="value" onfocus="setInterval('showBos()',1000)" onkeydown="noajaxkeyUp()" style="height:25px; line-height:25px; float:left; padding-left:5px; width:264px; font-size:14px; clear:left; border:0px;" type="text" value=""/>
+<input style="float:right; width:20px; height:20px; clear:right; margin-top:4px; margin-right:3px; background-image:url(/img/docSearch.png); background-repeat:no-repeat; background-size:20px 20px; border:0px;cursor:pointer;" type="submit" value=""/>
+<input id="b" style="display:none;" type="text"/>
+</form>
+</div>
+<div id="box"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="main3">
+<div class="left" id="left3279" style="width:1000px;">
+<div class="sons">
+<div class="cont" style=" margin-top:15px;">
+<h1 style="font-weight:bold; font-size:20px; line-height:22px; height:22px; margin-bottom:10px;">
+<span style="font-size:20px; line-height:22px; height:22px;"><b>秦四·顷襄王二十年</b></span>
+<a href="javascript:PlayBookv(4445)" style="margin-left:5px;"><img alt="" height="16" id="speakerimgBookv4445" src="/img/speaker.png" width="16"/></a>
+<a href="javascript:ShowYizhu(3279)" id="leftbtn3279" style=" float:right;line-height:20px; height:20px; width:40px; border:1px solid #999999; color:#999999; text-align:center;font-size:14px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;">译注</a>
+<span id="bookvPlay4445" style=" display:none;width:1px; height:1px;"></span>
+</h1>
+<p class="source"><span>作者：</span><a href="/search.aspx?value=%e5%88%98%e5%90%91">刘向</a></p>
+<div class="contson">
+<p>　　顷襄王二十年，秦白起拔楚西陵，或拔鄢、郢、夷陵，烧先王之墓。王徙东北，保于陈城。楚遂削弱，为秦所轻。于是白起又将兵来伐。楚人有黄歇者，游学博闻，襄王以为辩，故使于秦。说昭王曰：“天下莫强于秦、楚，今闻大王欲伐楚，此犹两虎相斗而驽犬受其弊，不如善楚。臣请言其说。臣闻之：‘物至而反，冬夏是也。致至而危，累棋是也。’今大国之地半天下，有二垂，此从生民以来，万乘之地未尝有也。先帝文王、庄王、王之身，三世而不接地于齐，以绝从亲之要。今王三使盛桥守事于韩，成桥以北入燕。是王不用甲，不伸威，而出百里之地，王可谓能矣。王又举甲兵而攻魏，杜大梁之门，举河内，拔燕、酸枣、虚、桃人，楚、燕之兵云翔不敢校，王之功亦多矣。王申息众二年，然后复之，又取蒲、衍、首垣，以临仁、平兵、小黄、济阳婴城，而魏氏服矣。王又割濮、磨之北属之燕，断齐、秦之要 ，绝楚、魏之脊。天下五合、六聚而不敢救也，王之威亦惮矣。王若能持功守威，省攻伐之心而肥仁义之诫，使无复后患，三王不足四，五伯不足六也。</p>
+<p>　　“王若负人徒之众，材兵甲之强，壹毁魏氏之威，而欲以力臣天下之主，臣恐有后患。《诗》云：‘靡不有初，鲜克有终。’《易》曰：‘狐濡其尾。’此言始之易，终之难也。何以知其然也?智氏见伐赵之利，而不知榆次之祸也；吴见伐齐之便，而不知干隧之败也。此二国者，非无大功也，设利于前，而易患于后也。吴之信越也，从而伐齐，既胜齐人于艾陵，还为越王禽于三江之浦。智氏信韩、魏，从而伐赵，攻晋阳之城，胜有日矣，韩、魏反之，杀智伯瑶于凿台之上，今王妒楚之不毁也，而忘毁楚之强魏也。臣为大王虑而不取。《诗》云：‘大武远宅不涉。’从此观之，楚国，援也；邻国，敌也。《诗》云：‘他人有心，予忖度之。跃跃毚兔，遇犬获之。’今王中道而信韩、魏之善王也，此正吴信越也。臣闻，敌不可易，时不可失。臣恐韩、魏之卑辞虑患，而实欺大国也。此何也?王既无重世之德于韩、魏，而有累世之怨矣。韩、魏父子兄弟接踵而死于秦者，百世矣。本国残，社稷坏，宗庙隳，刳腹折颐，首身分离，暴骨草泽，头颅僵仆，相望于境；父子老弱系虏，相随于路；鬼神狐祥无所食，百姓不聊生，族类离散，流亡为臣妾，满海内矣。韩、魏之不亡，秦社稷之忧也。今王之攻楚，不亦失乎!是王攻楚之日，则恶出兵？王将藉路于仇雠之韩、魏乎!兵出之日而王忧其不反也，是王以兵资于仇雠之韩、魏。王若不藉路于仇雠之韩、魏，必攻阳、右壤，随阳、右壤，此皆广川大水，山林溪谷不食之地，王虽有之，不为得地。是王有毁楚之名，无得地之实也。且王攻楚之日，四国必应悉起应王。秦、楚之构而不离，魏氏将出兵而攻留、方与、銍、胡陵、砀、萧、相，故宋必尽。齐人南面，泗北必举。此皆平原四达，膏腴之地也，而王使之独攻。王破楚于以肥韩、魏于中国而劲齐，韩、魏之强足以校于秦矣。齐南以泗为境，东负海，北倚河，而无后患，天下之国，莫强于齐。齐、魏得地葆利，而详事下吏，一年之后，为帝若未能，于以禁王之为帝有余。夫以王壤土之博，人徒之众，兵革之强，一举众而注地于楚，诎令韩、魏，归帝重于齐，是王失计也。</p>
+<p>　　“臣为王虑，莫若善楚。秦、楚合而为一，临以韩，韩必授首。王襟以山东之险，带以河曲之利，韩必为关中之候。若是，王以十成郑，梁氏寒心，许、鄢陵婴城，上蔡、召陵不往来也。如此，而魏亦关内侯矣。王一善楚，而关内二万乘之主注地于齐，齐之右壤可拱手而取也。是王之地一任两海，要绝天下也。是燕、赵无齐、楚，无燕、赵也。然后危动燕、赵，持齐、楚，此四国者，不待痛而服矣。”</p>
+</div>
+</div>
+<div class="bookvmiddle">
+<a href="/guwen/bookv_4444.aspx">上一章</a>
+<a href="/guwen/book_53.aspx" style="border:0px;line-height:27px; height:27px;">目录</a>
+<a href="/guwen/bookv_4446.aspx">下一章</a>
+</div>
+</div>
+</div>
+<div class="right" id="right3279" style="width:580px; display:none;"></div>
+</div>
+<div style="clear:both; height:auto; width:1000px; margin-top:20px; margin-left:auto; margin-right:auto;">
+<script src="//yijiuningyia.gushiwen.org/production/s4e7.js?avkddwd=kd" type="text/javascript"></script>
+</div>
+<div class="main4">
+© 2018 <a href="https://www.gushiwen.org/">古诗文网</a> | <a href="https://www.gushiwen.org/shiwen/">诗文</a> | <a href="/mingju/">名句</a> | <a href="/authors/">作者</a> | <a href="/guwen/">古籍</a> | <a href="/jiucuo.aspx?u=" rel="nofollow" target="_blank">纠错</a>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        setIframeHeight(document.getElementById('external-frame'));
+    };
+        </script>
+<script defer="defer" src="/js/skinso20190123.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script defer="defer" src="/js/jquery.qrcode.min.js" type="text/javascript"></script>
+</body>
+</html>
