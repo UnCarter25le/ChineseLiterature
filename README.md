@@ -126,7 +126,7 @@ Here is abundant in data set in json format and programs for making crawlers for
 > ### 1. Do not try to insert data? Just pull branch: fourth-without-heavy-files.
 > ### 2. Wanna try to insert data, please pull branch: fourth-with-heavy-files(1.2GB or so).
 
-# Thirdly, importand package edition.
+# Thirdly, important package edition.
 > ### python-3.6.6
 > ### django-1.9.10
 > ### mysql_server-5.7.25
