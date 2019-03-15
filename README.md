@@ -4,7 +4,7 @@
 ## Intention of this project:
 
 - Because craving for reading the Chinese literature called __"古文觀止guanzhi"__ online for free one day in 
-Bejing, I search that material on the internet through google or baidu. Expectedly, it's farely more difficult 
+Beijing, I search that material on the internet through google or baidu. Expectedly, it's farely more difficult 
 to search that one in traditional Chinese edtion than simplified Chinese edition. What sort of edition I want 
 to read is traditional one! At the meantime, I had found a 
 [website](https://www.gushiwen.org/wenyan/guanzhi.aspx "古文观止") equipped with wonderful and diversified literature 
