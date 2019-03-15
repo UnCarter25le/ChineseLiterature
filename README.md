@@ -30,7 +30,7 @@ this service switching between simplified and traditional Chinese,which meets my
 
 ---
 
-# For Normal Users----------------------------------------------------------
+# For Normal Users-----------------------------
 > ### Typing https://chineseliterature.azurewebsites.net/   on the browser will get message of __"get Page not found (404)" expectedly__, so you may reference the instructions as below:
 ### 1. /bookInfo/    --> inspect information of classic books
 - Browsing information for classic books in __simplified Chinese__, try this way:
@@ -107,7 +107,7 @@ https://chineseliterature.azurewebsites.net/search/李白/s
 
 ---
 
-# For Programmers-----------------------------------------------------------
+# For Programmers-----------------------------
 ![folderOverview](https://github.com/UnCarter25le/ChineseLiterature/blob/fourth-without-heavy-files/overview_1.png)
 
 # First of all, take an overview:
