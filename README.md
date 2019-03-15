@@ -14,7 +14,7 @@ Transform to build __one software service with two editions for myself!__
 - Therefore,this project had taken place on 2/15,2019 and has been completed recently. I'm so delighted to have 
 this service switching between simplified and traditional Chinese,which meets my origial expectation to see Chinese literature called "古文觀止guanzhi" in two ways! Moreover, I also made web crawlers for many other material from that website to enrich my service,such as __295 classic books,15919 authors,20500 aritcles from books, and 1999 quotations from books.__
 
-- When deploying on to the MicroSoft Azure web service and MySQL successfully in the final stage, I have been awared that whatever torture or difficulties I faced during the stage of developing __do not mean something!__
+- After deploying on to the MicroSoft Azure web service and MySQL successfully in the final stage, I have been awared that whatever difficulties I faced and coped with during the stage of developing would definitley __become neutrients throughout my career of programmer__.
 
 
 ---
