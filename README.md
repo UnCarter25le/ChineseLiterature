@@ -97,7 +97,7 @@ https://chineseliterature.azurewebsites.net/search/孙武/
     
 - Browsing information for classic books or authors in __traditional Chinese__, try this way:
 
-    - https://chineseliterature.azurewebsites.net/search/keywords 
+    - https://chineseliterature.azurewebsites.net/search/keywords/s
 ```
 ex: replace "keywords" with 古文觀止 or 李白 or words you want to search!
 https://chineseliterature.azurewebsites.net/search/古文觀止/s
