@@ -31,77 +31,77 @@ this service switching between simplified and traditional Chinese,which meets my
 ---
 
 # For Normal Users-----------------------------
-> ### Typing https://chineseliterature.azurewebsites.net/   on the browser will get message of __"get Page not found (404)" expectedly__, so you may reference the instructions as below:
-### 1. /bookInfo/    --> inspect information of classic books
-- Browsing information for classic books in __simplified Chinese__, try this way:
+> ### Typing https://chineseliterature.herokuapp.com/   on the browser will get message of __"get Page not found (404)" expectedly__, so you may reference the instructions as below:
+### 1. /bookInfo/    --> review information of classic books
+- Browsing information of classic books in __simplified Chinese__, try this way:
 
-    - https://chineseliterature.azurewebsites.net/bookInfo/
+    - https://chineseliterature.herokuapp.com/bookInfo/
 
 - Browsing specific information of the classic book in __simplified Chinese__, try this way:
 
-    - https://chineseliterature.azurewebsites.net/bookInfo/numbers/    numbers between 1~295
+    - https://chineseliterature.herokuapp.com/bookInfo/numbers/    numbers between 1~295
     
-- Browsing information for classic books in __traditional Chinese__, try this way:
+- Browsing information of classic books in __traditional Chinese__, try this way:
 
-    - https://chineseliterature.azurewebsites.net/bookInfo/s/
+    - https://chineseliterature.herokuapp.com/bookInfo/s/
     
 - Browsing specific information of the classic book in __traditional Chinese__, try this way:
 
-    - https://chineseliterature.azurewebsites.net/bookInfo/numbers/s/    numbers between 1~295
+    - https://chineseliterature.herokuapp.com/bookInfo/numbers/s/    numbers between 1~295
 
-### 2.  /authorInfo/    --> inspect information of authors
-- Browsing information for authors in __simplified Chinese__, try this way:
+### 2.  /authorInfo/    --> review information of authors
+- Browsing information of authors in __simplified Chinese__, try this way:
 
-    - https://chineseliterature.azurewebsites.net/authorInfo/
-
-- Browsing specific information of the author in __simplified Chinese__, try this way:
-
-    - https://chineseliterature.azurewebsites.net/authorInfo/numbers/    numbers between 1~15919
-    
-- Browsing information for authors in __traditional Chinese__, try this way:
-
-    - https://chineseliterature.azurewebsites.net/authorInfo/s/
-    
-- Browsing specific information of the author in __traditional Chinese__, try this way:
-
-    - https://chineseliterature.azurewebsites.net/authorInfo/numbers/s/    numbers between 1~15919
-
-### 3.  /quotaInfo/    --> inspect information of quotations from classic books
-- Browsing information for quotations in __simplified Chinese__, try this way:
-
-    - https://chineseliterature.azurewebsites.net/quotaInfo/
+    - https://chineseliterature.herokuapp.com/authorInfo/
 
 - Browsing specific information of the author in __simplified Chinese__, try this way:
 
-    - https://chineseliterature.azurewebsites.net/quotaInfo/numbers/    numbers between 1~1999
+    - https://chineseliterature.herokuapp.com/authorInfo/numbers/    numbers between 1~15919
     
-- Browsing information for author in __traditional Chinese__, try this way:
+- Browsing information of authors in __traditional Chinese__, try this way:
 
-    - https://chineseliterature.azurewebsites.net/quotaInfo/s/
+    - https://chineseliterature.herokuapp.com/authorInfo/s/
     
 - Browsing specific information of the author in __traditional Chinese__, try this way:
 
-    - https://chineseliterature.azurewebsites.net/quotaInfo/numbers/s/    numbers between 1~1999
+    - https://chineseliterature.herokuapp.com/authorInfo/numbers/s/    numbers between 1~15919
+
+### 3.  /quotaInfo/    --> review information of quotations from classic books
+- Browsing information of quotations in __simplified Chinese__, try this way:
+
+    - https://chineseliterature.herokuapp.com/quotaInfo/
+
+- Browsing specific information of the quotation in __simplified Chinese__, try this way:
+
+    - https://chineseliterature.herokuapp.com/quotaInfo/numbers/    numbers between 1~1999
+    
+- Browsing information of quotations in __traditional Chinese__, try this way:
+
+    - https://chineseliterature.herokuapp.com/quotaInfo/s/
+    
+- Browsing specific information of the quotation in __traditional Chinese__, try this way:
+
+    - https://chineseliterature.herokuapp.com/quotaInfo/numbers/s/    numbers between 1~1999
 
 
 ### 4.  /search/    --> searching information about authors or classic books via keywords
-- Browsing information for classic books or authors in __simplified Chinese__, try this way:
+- Searching information of classic books and authors in __simplified Chinese__, try this way:
 
-    - https://chineseliterature.azurewebsites.net/search/keywords 
+    - https://chineseliterature.herokuapp.com/search/keywords 
 ```
 ex: replace "keywords" with 古文观止 or 孙武 or words you want to search!
-https://chineseliterature.azurewebsites.net/search/古文观止/
-https://chineseliterature.azurewebsites.net/search/孙武/
+https://chineseliterature.herokuapp.com/search/古文观止/
+https://chineseliterature.herokuapp.com/search/孙武/
 ```
 
     
-- Browsing information for classic books or authors in __traditional Chinese__, try this way:
+- Searching information of classic books and authors in __traditional Chinese__, try this way:
 
-    - https://chineseliterature.azurewebsites.net/search/keywords/s
+    - https://chineseliterature.herokuapp.com/search/keywords/s
 ```
 ex: replace "keywords" with 古文觀止 or 李白 or words you want to search!
-https://chineseliterature.azurewebsites.net/search/古文觀止/s
-https://chineseliterature.azurewebsites.net/search/李白/s
+https://chineseliterature.herokuapp.com/search/古文觀止/s
+https://chineseliterature.herokuapp.com/search/李白/s
 ```
 
 
